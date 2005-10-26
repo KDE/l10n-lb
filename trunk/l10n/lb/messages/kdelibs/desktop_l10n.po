@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_l10n\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2005-10-23 01:04+0000\n"
+"POT-Creation-Date: 2005-10-26 00:59+0000\n"
 "PO-Revision-Date: 2005-10-25 22:00+0200\n"
 "Last-Translator: kevin claude everard <kevin@math.uni-sb.de>\n"
 "Language-Team: Luxembourgish <not@yet.com>\n"
@@ -172,6 +172,11 @@ msgstr "Name=Kurdesch"
 #: ky/messages/entry.desktop:2
 msgid "Name=Kirghiz"
 msgstr "Name=Kirgisesch"
+
+#: lb/messages/entry.desktop:2
+#, fuzzy
+msgid "Name=Luxembourgish"
+msgstr "Name=Türkesch"
 
 #: lo/messages/entry.desktop:2
 msgid "Name=Lao"
@@ -344,4 +349,3 @@ msgstr "Name=Chinesesch"
 #: zu/messages/entry.desktop:2
 msgid "Name=Zulu"
 msgstr "Name=Zulu"
-
