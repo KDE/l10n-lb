@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2005-11-01 02:38+0100\n"
+"POT-Creation-Date: 2005-11-03 02:39+0100\n"
 "PO-Revision-Date: 2005-10-25 22:16+0200\n"
 "Last-Translator: kevin claude everard <kevin@math.uni-sb.de>\n"
 "Language-Team: Luxembourgish <not@yet.com>\n"
@@ -918,8 +918,8 @@ msgstr "Späicheren"
 msgid "&Save"
 msgstr "&Späicheren"
 
-#: common_texts.cpp:111 khtml/khtml_part.cpp:3909 khtml/khtml_part.cpp:4113
-#: khtml/khtml_part.cpp:4427 khtml/khtml_run.cpp:83 kparts/browserrun.cpp:411
+#: common_texts.cpp:111 khtml/khtml_part.cpp:3910 khtml/khtml_part.cpp:4114
+#: khtml/khtml_part.cpp:4428 khtml/khtml_run.cpp:83 kparts/browserrun.cpp:411
 msgid "Save As"
 msgstr "Späicheren als"
 
@@ -1138,7 +1138,7 @@ msgstr "Viru kuerzem opgamaachen Dateien"
 msgid "Open &Recent"
 msgstr "&Viru kuerzem opgemaachen Dateien"
 
-#: common_texts.cpp:179 kdeui/kstdaction_p.h:61 khtml/khtml_part.cpp:4230
+#: common_texts.cpp:179 kdeui/kstdaction_p.h:61 khtml/khtml_part.cpp:4231
 msgid "&Find..."
 msgstr "&Sichen..."
 
@@ -6929,7 +6929,7 @@ msgstr "&Verschlësselung festléen"
 msgid "Semi-Automatic"
 msgstr "Hallëfautomatësch"
 
-#: khtml/khtml_part.cpp:296 khtml/khtml_part.cpp:2277
+#: khtml/khtml_part.cpp:296 khtml/khtml_part.cpp:2278
 msgid "Automatic Detection"
 msgstr "Automatësch Detektioun"
 
@@ -7109,11 +7109,11 @@ msgstr "Méiglech Grënn:"
 msgid "Possible Solutions:"
 msgstr "Méiglech Léisungen:"
 
-#: khtml/khtml_part.cpp:2114
+#: khtml/khtml_part.cpp:2115
 msgid "Page loaded."
 msgstr "Säit gelueden."
 
-#: khtml/khtml_part.cpp:2116
+#: khtml/khtml_part.cpp:2117
 msgid ""
 "_n: %n Image of %1 loaded.\n"
 "%n Images of %1 loaded."
@@ -7121,48 +7121,48 @@ msgstr ""
 "%n Bild vun %1 gelueden.\n"
 "%n Biller vun %1 gelueden."
 
-#: khtml/khtml_part.cpp:3710 khtml/khtml_part.cpp:3797
-#: khtml/khtml_part.cpp:3808
+#: khtml/khtml_part.cpp:3711 khtml/khtml_part.cpp:3798
+#: khtml/khtml_part.cpp:3809
 msgid " (In new window)"
 msgstr " (an enger neier Fënster)"
 
-#: khtml/khtml_part.cpp:3749
+#: khtml/khtml_part.cpp:3750
 msgid "Symbolic Link"
 msgstr "Symbolësche Link"
 
-#: khtml/khtml_part.cpp:3751
+#: khtml/khtml_part.cpp:3752
 msgid "%1 (Link)"
 msgstr "%1 (Link)"
 
-#: khtml/khtml_part.cpp:3771
+#: khtml/khtml_part.cpp:3772
 msgid "%2 (%1 bytes)"
 msgstr "%2 (%1 byte)"
 
-#: khtml/khtml_part.cpp:3775
+#: khtml/khtml_part.cpp:3776
 msgid "%2 (%1 K)"
 msgstr "%2 (%1 K)"
 
-#: khtml/khtml_part.cpp:3810
+#: khtml/khtml_part.cpp:3811
 msgid " (In other frame)"
 msgstr " (an engem anere Frame)"
 
-#: khtml/khtml_part.cpp:3815
+#: khtml/khtml_part.cpp:3816
 msgid "Email to: "
 msgstr "E-Mail un: "
 
-#: khtml/khtml_part.cpp:3821
+#: khtml/khtml_part.cpp:3822
 msgid " - Subject: "
 msgstr " - Betreff: "
 
-#: khtml/khtml_part.cpp:3823
+#: khtml/khtml_part.cpp:3824
 msgid " - CC: "
 msgstr " - CC: "
 
-#: khtml/khtml_part.cpp:3825
+#: khtml/khtml_part.cpp:3826
 msgid " - BCC: "
 msgstr " - BCC: "
 
-#: khtml/khtml_part.cpp:3914
+#: khtml/khtml_part.cpp:3915
 msgid ""
 "<qt>This untrusted page links to<BR><B>%1</B>.<BR>Do you want to follow the "
 "link?"
@@ -7170,31 +7170,31 @@ msgstr ""
 "<qt>Dëss Säit ass als \"nët sëcher\" agestuft ginn an enthält de Link <BR><B>"
 "%1</B>.</BR>Wëllt dir déi Adress opruffen?"
 
-#: khtml/khtml_part.cpp:3915
+#: khtml/khtml_part.cpp:3916
 msgid "Follow"
 msgstr "Opruffen"
 
-#: khtml/khtml_part.cpp:4015
+#: khtml/khtml_part.cpp:4016
 msgid "Frame Information"
 msgstr "Informatioun iwwert de Frame"
 
-#: khtml/khtml_part.cpp:4021
+#: khtml/khtml_part.cpp:4022
 msgid "   <a href=\"%1\">[Properties]</a>"
 msgstr "   <a href=\"%1\">[Eegeschaften]</a>"
 
-#: khtml/khtml_part.cpp:4101
+#: khtml/khtml_part.cpp:4102
 msgid "Save Background Image As"
 msgstr "Bild am Hannergrond späicheren als"
 
-#: khtml/khtml_part.cpp:4188
+#: khtml/khtml_part.cpp:4189
 msgid "Save Frame As"
 msgstr "Frame späicheren als"
 
-#: khtml/khtml_part.cpp:4228
+#: khtml/khtml_part.cpp:4229
 msgid "&Find in Frame..."
 msgstr "Am Frame &sichen..."
 
-#: khtml/khtml_part.cpp:4728
+#: khtml/khtml_part.cpp:4729
 msgid ""
 "Warning:  This is a secure form but it is attempting to send your data back "
 "unencrypted.\n"
@@ -7206,16 +7206,16 @@ msgstr ""
 "Een Drëtte kéint dëss Informatioun offänken a kucken.\n"
 "Wëllt dir sëcher weiderfueren?"
 
-#: khtml/khtml_part.cpp:4731 khtml/khtml_part.cpp:4740
-#: khtml/khtml_part.cpp:4764
+#: khtml/khtml_part.cpp:4732 khtml/khtml_part.cpp:4741
+#: khtml/khtml_part.cpp:4765
 msgid "Network Transmission"
 msgstr "Netzwierk-Transmissioun"
 
-#: khtml/khtml_part.cpp:4731 khtml/khtml_part.cpp:4741
+#: khtml/khtml_part.cpp:4732 khtml/khtml_part.cpp:4742
 msgid "&Send Unencrypted"
 msgstr "Onverschlësselt &verschécken"
 
-#: khtml/khtml_part.cpp:4738
+#: khtml/khtml_part.cpp:4739
 msgid ""
 "Warning: Your data is about to be transmitted across the network unencrypted.\n"
 "Are you sure you wish to continue?"
@@ -7223,7 +7223,7 @@ msgstr ""
 "Warnung: Dir sidd dropp an dru fir är Daten onverschlësselt ze verschécken.\n"
 "Sidd dir iech sëcher, dass dir weiderfuere wëllt?"
 
-#: khtml/khtml_part.cpp:4762
+#: khtml/khtml_part.cpp:4763
 msgid ""
 "This site is attempting to submit form data via email.\n"
 "Do you want to continue?"
@@ -7231,11 +7231,11 @@ msgstr ""
 "De Server probéiert, Formular-Daten iwwert E-Mail ze verschécken.\n"
 "Wëllt dir weiderfueren?"
 
-#: khtml/khtml_part.cpp:4765
+#: khtml/khtml_part.cpp:4766
 msgid "&Send Email"
 msgstr "E-Mail &verschécken"
 
-#: khtml/khtml_part.cpp:4786
+#: khtml/khtml_part.cpp:4787
 msgid ""
 "<qt>The form will be submitted to <BR><B>%1</B><BR>on your local filesystem.<BR>"
 "Do you want to submit the form?"
@@ -7243,13 +7243,13 @@ msgstr ""
 "<qt>De Formular gët no<BR><B>%1</B><BR>op ärem lokalen Dateiesystem verschéckt "
 "gin.<BR>Wëllt dir de Formular ofsenden?"
 
-#: khtml/html/html_formimpl.cpp:1484 khtml/khtml_part.cpp:4787
+#: khtml/html/html_formimpl.cpp:1484 khtml/khtml_part.cpp:4788
 #: khtml/khtmlview.cpp:2464 khtml/khtmlview.cpp:2506
 #: khtml/rendering/render_form.cpp:296
 msgid "Submit"
 msgstr "Verschécken"
 
-#: khtml/khtml_part.cpp:4835
+#: khtml/khtml_part.cpp:4836
 msgid ""
 "This site attempted to attach a file from your computer in the form submission. "
 "The attachment was removed for your protection."
@@ -7257,52 +7257,52 @@ msgstr ""
 "De Server huet probéiert, eng Datei aus ärem Dateiesystem un de Formular "
 "drunnzehänken. Den Unhang ass zu ärer Sëcherheet geläscht ginn."
 
-#: khtml/khtml_part.cpp:4835
+#: khtml/khtml_part.cpp:4836
 msgid "KDE"
 msgstr "KDE"
 
-#: khtml/khtml_part.cpp:5740
+#: khtml/khtml_part.cpp:5741
 msgid "(%1/s)"
 msgstr "(%1/s)"
 
-#: khtml/khtml_part.cpp:6779
+#: khtml/khtml_part.cpp:6780
 msgid "Security Warning"
 msgstr "Sëcherheetswarnung"
 
-#: khtml/khtml_part.cpp:6785
+#: khtml/khtml_part.cpp:6786
 msgid "<qt>Access by untrusted page to<BR><B>%1</B><BR> denied."
 msgstr ""
 "<qt>Zougang op<BR><B>%1</B><BR>duerch eng Säit, déi als nët sëcher ugesinn ass, "
 "verweigert."
 
-#: khtml/java/kjavaappletserver.cpp:784 khtml/khtml_part.cpp:6786
+#: khtml/java/kjavaappletserver.cpp:784 khtml/khtml_part.cpp:6787
 msgid "Security Alert"
 msgstr "Sëcherheetsnoricht"
 
-#: khtml/khtml_part.cpp:7211
+#: khtml/khtml_part.cpp:7212
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr ""
 "Den digitale Portemonnaie '%1' ass op a gët fir Formularer a Passwierder "
 "benotzt."
 
-#: khtml/khtml_part.cpp:7265
+#: khtml/khtml_part.cpp:7266
 msgid "&Close Wallet"
 msgstr "Portemonnaie &zoumaachen"
 
-#: khtml/khtml_part.cpp:7308
+#: khtml/khtml_part.cpp:7309
 msgid "JavaScript &Debugger"
 msgstr "JavaScript-&Debugger"
 
-#: khtml/khtml_part.cpp:7343
+#: khtml/khtml_part.cpp:7344
 msgid "This page was prevented from opening a new window via JavaScript."
 msgstr ""
 "Dëss Säit ass dovun ofgehal ginn, mat JavaScript eng nei fënster opzemaachen."
 
-#: khtml/khtml_part.cpp:7349
+#: khtml/khtml_part.cpp:7350
 msgid "Popup Window Blocked"
 msgstr "Popup-Fënster blockéiert"
 
-#: khtml/khtml_part.cpp:7349
+#: khtml/khtml_part.cpp:7350
 msgid ""
 "This page has attempted to open a popup window but was blocked.\n"
 "You can click on this icon in the status bar to control this behavior\n"
@@ -7312,7 +7312,7 @@ msgstr ""
 "an ass blockéiert ginn. Klickt op dësst Symbol an der Statusbar fir d'Fënster\n"
 "awer opzemaachen oder Astellunge virzehuelen."
 
-#: khtml/khtml_part.cpp:7363
+#: khtml/khtml_part.cpp:7364
 #, c-format
 msgid ""
 "_n: &Show Blocked Popup Window\n"
@@ -7321,11 +7321,11 @@ msgstr ""
 "Blockéiert Popup-Fënster &weisen\n"
 "%n blockéiert Popup-Fënstere weisen"
 
-#: khtml/khtml_part.cpp:7364
+#: khtml/khtml_part.cpp:7365
 msgid "Show Blocked Window Passive Popup &Notification"
 msgstr "Passiv &Norichtefënster bei blockéierte Popup-Fënsteren uweisen"
 
-#: khtml/khtml_part.cpp:7366
+#: khtml/khtml_part.cpp:7367
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "JavaScript fir Fënsteren nei opzemaache &configuréieren..."
 
