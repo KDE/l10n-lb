@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2005-11-05 02:42+0100\n"
+"POT-Creation-Date: 2005-11-07 02:45+0100\n"
 "PO-Revision-Date: 2005-10-25 22:16+0200\n"
 "Last-Translator: kevin claude everard <kevin@math.uni-sb.de>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -5756,8 +5756,8 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "Toolbaren zerécksetzen"
 
-#: kdeui/kedittoolbar.cpp:447 khtml/khtmlview.cpp:2485
-#: khtml/khtmlview.cpp:2518 khtml/rendering/render_form.cpp:312
+#: kdeui/kedittoolbar.cpp:447 khtml/html/html_formimpl.cpp:1992
+#: khtml/khtmlview.cpp:2485 khtml/khtmlview.cpp:2518
 msgid "Reset"
 msgstr "Zerécksetzen"
 
@@ -6039,7 +6039,7 @@ msgstr "Rechtschreifkontroll"
 msgid "&Finished"
 msgstr "&Fäerdeg"
 
-#: kdeui/kcombobox.cpp:441 khtml/rendering/render_form.cpp:403
+#: kdeui/kcombobox.cpp:441 khtml/rendering/render_form.cpp:387
 msgid "Clear &History"
 msgstr "&History läschen"
 
@@ -6609,7 +6609,7 @@ msgstr "Automatësch Kontroll"
 msgid "Allow Tabulations"
 msgstr "Tabellarësch Unuerdnung zouloossen"
 
-#: kdeui/ktextedit.cpp:347 khtml/rendering/render_form.cpp:346
+#: kdeui/ktextedit.cpp:347 khtml/rendering/render_form.cpp:330
 msgid "Spell Checking"
 msgstr "Rechtschreifkontroll"
 
@@ -7243,9 +7243,8 @@ msgstr ""
 "<qt>De Formular gët no<BR><B>%1</B><BR>op ärem lokalen Dateiesystem verschéckt "
 "gin.<BR>Wëllt dir de Formular ofsenden?"
 
-#: khtml/html/html_formimpl.cpp:1484 khtml/khtml_part.cpp:4788
-#: khtml/khtmlview.cpp:2471 khtml/khtmlview.cpp:2513
-#: khtml/rendering/render_form.cpp:296
+#: khtml/html/html_formimpl.cpp:1484 khtml/html/html_formimpl.cpp:2000
+#: khtml/khtml_part.cpp:4788 khtml/khtmlview.cpp:2471 khtml/khtmlview.cpp:2513
 msgid "Submit"
 msgstr "Verschécken"
 
