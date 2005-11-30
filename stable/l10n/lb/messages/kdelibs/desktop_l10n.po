@@ -1,0 +1,350 @@
+# translation of desktop_l10n.po to Luxembourgish
+# kevin claude everard <kevin@math.uni-sb.de>, 2005.
+msgid ""
+msgstr ""
+"Project-Id-Version: desktop_l10n\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2005-10-26 00:59+0000\n"
+"PO-Revision-Date: 2005-10-25 22:00+0200\n"
+"Last-Translator: kevin claude everard <kevin@math.uni-sb.de>\n"
+"Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.10.2\n"
+
+#: af/messages/entry.desktop:2
+msgid "Name=Afrikaans"
+msgstr "Name=Afrikaans"
+
+#: ar/messages/entry.desktop:2
+msgid "Name=Arabic"
+msgstr "Name=Arabesch"
+
+#: az/messages/entry.desktop:2
+msgid "Name=Azerbaijani"
+msgstr "Name=Aserbaidjanesch"
+
+#: be/messages/entry.desktop:2
+msgid "Name=Belarusian"
+msgstr "Name=Wäissrussesch"
+
+#: bg/messages/entry.desktop:2
+msgid "Name=Bulgarian"
+msgstr "Name=Bulgaresch"
+
+#: bn/messages/entry.desktop:2
+msgid "Name=Bengali"
+msgstr "Name=Bengalesch"
+
+#: br/messages/entry.desktop:2
+msgid "Name=Breton"
+msgstr "Name=Bretonesch"
+
+#: bs/messages/entry.desktop:2
+msgid "Name=Bosnian"
+msgstr "Name=Bosnesch"
+
+#: ca/messages/entry.desktop:2
+msgid "Name=Catalan"
+msgstr "Name=Katalanesch"
+
+#: cs/messages/entry.desktop:2
+msgid "Name=Czech"
+msgstr "Name=Tschechesch"
+
+#: cy/messages/entry.desktop:2
+msgid "Name=Welsh"
+msgstr "Name=Wallisesch"
+
+#: da/messages/entry.desktop:2
+msgid "Name=Danish"
+msgstr "Name=Dänesch"
+
+#: de/messages/entry.desktop:2
+msgid "Name=German"
+msgstr "Name=Däitsch"
+
+#: el/messages/entry.desktop:2
+msgid "Name=Greek"
+msgstr "Name=Griichesch"
+
+#: en_GB/messages/entry.desktop:2
+msgid "Name=British English"
+msgstr "Name=Englesch (UK)"
+
+#: eo/messages/entry.desktop:2
+msgid "Name=Esperanto"
+msgstr "Name=Esperanto"
+
+#: es/messages/entry.desktop:2
+msgid "Name=Spanish"
+msgstr "Name=Spuenesch"
+
+#: et/messages/entry.desktop:2
+msgid "Name=Estonian"
+msgstr "Name=Eestnesch"
+
+#: eu/messages/entry.desktop:2
+msgid "Name=Basque"
+msgstr "Name=Baskesch"
+
+#: fa/messages/entry.desktop:2
+msgid "Name=Farsi"
+msgstr "Name=Farsi"
+
+#: fi/messages/entry.desktop:2
+msgid "Name=Finnish"
+msgstr "Name=Finnesch"
+
+#: fr/messages/entry.desktop:2
+msgid "Name=French"
+msgstr "Name=Franséisch"
+
+#: fy/messages/entry.desktop:2
+msgid "Name=Frisian"
+msgstr "Name=Frisesch"
+
+#: ga/messages/entry.desktop:2
+msgid "Name=Irish"
+msgstr "Name=Iresch"
+
+#: gl/messages/entry.desktop:2
+msgid "Name=Galician"
+msgstr "Name=Gallizesch"
+
+#: he/messages/entry.desktop:2
+msgid "Name=Hebrew"
+msgstr "Name=Hebräesch"
+
+#: hi/messages/entry.desktop:2
+msgid "Name=Hindi"
+msgstr "Name=Hindi"
+
+#: hr/messages/entry.desktop:2
+msgid "Name=Croatian"
+msgstr "Name=Kroatesch"
+
+#: hsb/messages/entry.desktop:2
+msgid "Name=Upper Sorbian"
+msgstr "Name=Uewersorbesch"
+
+#: hu/messages/entry.desktop:2
+msgid "Name=Hungarian"
+msgstr "Name=Ungaresch"
+
+#: id/messages/entry.desktop:2
+msgid "Name=Indonesian"
+msgstr "Name=Indonesesch"
+
+#: is/messages/entry.desktop:2
+msgid "Name=Icelandic"
+msgstr "Name=Islännesch"
+
+#: it/messages/entry.desktop:2
+msgid "Name=Italian"
+msgstr "Name=Italienesch"
+
+#: ja/messages/entry.desktop:2
+msgid "Name=Japanese"
+msgstr "Name=Japanesch"
+
+#: ka/messages/entry.desktop:2
+msgid "Name=Georgian"
+msgstr "Name=Georgesch"
+
+#: kk/messages/entry.desktop:2
+msgid "Name=Kazakh"
+msgstr "Name=Kasachesch"
+
+#: km/messages/entry.desktop:2
+msgid "Name=Khmer"
+msgstr "Name=Khmer"
+
+#: ko/messages/entry.desktop:2
+msgid "Name=Korean"
+msgstr "Name=Koreanesch"
+
+#: ku/messages/entry.desktop:2
+msgid "Name=Kurdish"
+msgstr "Name=Kurdesch"
+
+#: ky/messages/entry.desktop:2
+msgid "Name=Kirghiz"
+msgstr "Name=Kirgisesch"
+
+#: lb/messages/entry.desktop:2
+msgid "Name=Luxembourgish"
+msgstr "Name=Lëtzebuergesch"
+
+#: lo/messages/entry.desktop:2
+msgid "Name=Lao"
+msgstr "Name=Laotesch"
+
+#: lt/messages/entry.desktop:2
+msgid "Name=Lithuanian"
+msgstr "Name=Litauesch"
+
+#: lv/messages/entry.desktop:2
+msgid "Name=Latvian"
+msgstr "Name=Lettesch"
+
+#: mi/messages/entry.desktop:2
+msgid "Name=Maori"
+msgstr "Name=Maori"
+
+#: mk/messages/entry.desktop:2
+msgid "Name=Macedonian"
+msgstr "Name=Mazedonesch"
+
+#: mn/messages/entry.desktop:2
+msgid "Name=Mongolian"
+msgstr "Name=Mongolesch"
+
+#: ms/messages/entry.desktop:2
+msgid "Name=Malay"
+msgstr "Name=Malayesch"
+
+#: mt/messages/entry.desktop:2
+msgid "Name=Maltese"
+msgstr "Name=Maltesesch"
+
+#: nb/messages/entry.desktop:2
+msgid "Name=Norwegian Bokmål"
+msgstr "Name=Norwegesche Bokmål"
+
+#: nds/messages/entry.desktop:2
+msgid "Name=Low Saxon"
+msgstr "Name=Niddersächsesch"
+
+#: nl/messages/entry.desktop:2
+msgid "Name=Dutch"
+msgstr "Name=Hollännesch"
+
+#: nn/messages/entry.desktop:2
+msgid "Name=Norwegian Nynorsk"
+msgstr "Name=Norwegeschen Nynorsk"
+
+#: nso/messages/entry.desktop:2
+msgid "Name=Northern Sotho"
+msgstr "Name=Nördlecht Sotho"
+
+#: oc/messages/entry.desktop:2
+msgid "Name=Occitan"
+msgstr "Name=Okzitanesch"
+
+#: pa/messages/entry.desktop:2
+msgid "Name=Punjabi"
+msgstr "Name=Pandjabi"
+
+#: pl/messages/entry.desktop:2
+msgid "Name=Polish"
+msgstr "Name=Polnesch"
+
+#: pt/messages/entry.desktop:2
+msgid "Name=Portuguese"
+msgstr "Name=Portugisesch"
+
+#: pt_BR/messages/entry.desktop:2
+msgid "Name=Brazil portuguese"
+msgstr "Name=Brasilianescht Portugisesch"
+
+#: ro/messages/entry.desktop:2
+msgid "Name=Romanian"
+msgstr "Name=Rumänesch"
+
+#: ru/messages/entry.desktop:2
+msgid "Name=Russian"
+msgstr "Name=Russesch"
+
+#: rw/messages/entry.desktop:2
+msgid "Name=Kinyarwanda"
+msgstr "Name=Kinyarwanda"
+
+#: se/messages/entry.desktop:2
+msgid "Name=Northern Sami"
+msgstr "Name=Nördlecht Sawi"
+
+#: sk/messages/entry.desktop:2
+msgid "Name=Slovak"
+msgstr "Name=Slovakesch"
+
+#: sl/messages/entry.desktop:2
+msgid "Name=Slovenian"
+msgstr "Name=Slovenesch"
+
+#: sq/messages/entry.desktop:2
+msgid "Name=Albanian"
+msgstr "Name=Albanesch"
+
+#: sr/messages/entry.desktop:2
+msgid "Name=Serbian"
+msgstr "Name=Serbesch"
+
+#: sr@Latn/messages/entry.desktop:2
+msgid "Name=Serbian Latin"
+msgstr "Name=Serbesch (latäinescht Alphabet)"
+
+#: ss/messages/entry.desktop:2
+msgid "Name=Swati"
+msgstr "Name=Swati"
+
+#: sv/messages/entry.desktop:2
+msgid "Name=Swedish"
+msgstr "Name=Schwedesch"
+
+#: ta/messages/entry.desktop:2
+msgid "Name=Tamil"
+msgstr "Name=Tamil"
+
+#: tg/messages/entry.desktop:2
+msgid "Name=Tajik"
+msgstr "Name=Tadjikesch"
+
+#: th/messages/entry.desktop:2
+msgid "Name=Thai"
+msgstr "Name=Thailännesch"
+
+#: tr/messages/entry.desktop:2
+msgid "Name=Turkish"
+msgstr "Name=Türkesch"
+
+#: tt/messages/entry.desktop:2
+msgid "Name=Tatar"
+msgstr "Name=Tataresch"
+
+#: uk/messages/entry.desktop:2
+msgid "Name=Ukrainian"
+msgstr "Name=Ukrainesch"
+
+#: uz/messages/entry.desktop:2
+msgid "Name=Uzbek"
+msgstr "Name=Usbekesch"
+
+#: ven/messages/entry.desktop:2
+msgid "Name=Venda"
+msgstr "Name=Venda"
+
+#: vi/messages/entry.desktop:2
+msgid "Name=Vietnamese"
+msgstr "Name=Vietnamesesch"
+
+#: wa/messages/entry.desktop:2
+msgid "Name=Walloon"
+msgstr "Name=Wallounesch"
+
+#: xh/messages/entry.desktop:2
+msgid "Name=Xhosa"
+msgstr "Name=Xhosa"
+
+#: zh_CN/messages/entry.desktop:2
+msgid "Name=Simplified Chinese"
+msgstr "Name=Einfacht Chinesesch"
+
+#: zh_TW/messages/entry.desktop:2
+msgid "Name=Chinese"
+msgstr "Name=Chinesesch"
+
+#: zu/messages/entry.desktop:2
+msgid "Name=Zulu"
+msgstr "Name=Zulu"
