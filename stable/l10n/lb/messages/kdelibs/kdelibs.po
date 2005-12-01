@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2005-11-07 02:45+0100\n"
+"POT-Creation-Date: 2005-12-01 02:50+0100\n"
 "PO-Revision-Date: 2005-10-25 22:16+0200\n"
 "Last-Translator: kevin claude everard <kevin@math.uni-sb.de>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -4015,7 +4015,7 @@ msgstr "Vietnamesësch"
 msgid "South-Eastern Europe"
 msgstr "Südosteuropäësch"
 
-#: kdecore/kcharsets.cpp:537
+#: kdecore/kcharsets.cpp:512
 msgid ""
 "_: Descriptive Encoding Name\n"
 "%1 ( %2 )"
@@ -6389,11 +6389,11 @@ msgstr "&Iwwer %1"
 msgid "About &KDE"
 msgstr "Iwwer &KDE"
 
-#: kdeui/kactionclasses.cpp:2085
+#: kdeui/kactionclasses.cpp:2102
 msgid "Exit F&ull Screen Mode"
 msgstr "Aus dem &Vollbildmodus erausgoën"
 
-#: kdeui/kactionclasses.cpp:2090 kdeui/kstdaction_p.h:98
+#: kdeui/kactionclasses.cpp:2107 kdeui/kstdaction_p.h:98
 msgid "F&ull Screen Mode"
 msgstr "&Vollbildmodus"
 
@@ -7264,44 +7264,44 @@ msgstr "KDE"
 msgid "(%1/s)"
 msgstr "(%1/s)"
 
-#: khtml/khtml_part.cpp:6780
+#: khtml/khtml_part.cpp:6813
 msgid "Security Warning"
 msgstr "Sëcherheetswarnung"
 
-#: khtml/khtml_part.cpp:6786
+#: khtml/khtml_part.cpp:6819
 msgid "<qt>Access by untrusted page to<BR><B>%1</B><BR> denied."
 msgstr ""
 "<qt>Zougang op<BR><B>%1</B><BR>duerch eng Säit, déi als nët sëcher ugesinn ass, "
 "verweigert."
 
-#: khtml/java/kjavaappletserver.cpp:784 khtml/khtml_part.cpp:6787
+#: khtml/java/kjavaappletserver.cpp:784 khtml/khtml_part.cpp:6820
 msgid "Security Alert"
 msgstr "Sëcherheetsnoricht"
 
-#: khtml/khtml_part.cpp:7212
+#: khtml/khtml_part.cpp:7245
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr ""
 "Den digitale Portemonnaie '%1' ass op a gët fir Formularer a Passwierder "
 "benotzt."
 
-#: khtml/khtml_part.cpp:7266
+#: khtml/khtml_part.cpp:7299
 msgid "&Close Wallet"
 msgstr "Portemonnaie &zoumaachen"
 
-#: khtml/khtml_part.cpp:7309
+#: khtml/khtml_part.cpp:7342
 msgid "JavaScript &Debugger"
 msgstr "JavaScript-&Debugger"
 
-#: khtml/khtml_part.cpp:7344
+#: khtml/khtml_part.cpp:7377
 msgid "This page was prevented from opening a new window via JavaScript."
 msgstr ""
 "Dëss Säit ass dovun ofgehal ginn, mat JavaScript eng nei fënster opzemaachen."
 
-#: khtml/khtml_part.cpp:7350
+#: khtml/khtml_part.cpp:7383
 msgid "Popup Window Blocked"
 msgstr "Popup-Fënster blockéiert"
 
-#: khtml/khtml_part.cpp:7350
+#: khtml/khtml_part.cpp:7383
 msgid ""
 "This page has attempted to open a popup window but was blocked.\n"
 "You can click on this icon in the status bar to control this behavior\n"
@@ -7311,7 +7311,7 @@ msgstr ""
 "an ass blockéiert ginn. Klickt op dësst Symbol an der Statusbar fir d'Fënster\n"
 "awer opzemaachen oder Astellunge virzehuelen."
 
-#: khtml/khtml_part.cpp:7364
+#: khtml/khtml_part.cpp:7397
 #, c-format
 msgid ""
 "_n: &Show Blocked Popup Window\n"
@@ -7320,11 +7320,11 @@ msgstr ""
 "Blockéiert Popup-Fënster &weisen\n"
 "%n blockéiert Popup-Fënstere weisen"
 
-#: khtml/khtml_part.cpp:7365
+#: khtml/khtml_part.cpp:7398
 msgid "Show Blocked Window Passive Popup &Notification"
 msgstr "Passiv &Norichtefënster bei blockéierte Popup-Fënsteren uweisen"
 
-#: khtml/khtml_part.cpp:7367
+#: khtml/khtml_part.cpp:7400
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "JavaScript fir Fënsteren nei opzemaache &configuréieren..."
 
@@ -7385,7 +7385,7 @@ msgstr "fatale Parsing-Feeler: %1, Zeil %2, Kolonn %3"
 msgid "XML parsing error"
 msgstr "XML Parsing-Feeler"
 
-#: khtml/xml/dom_docimpl.cpp:1989
+#: khtml/xml/dom_docimpl.cpp:1992
 msgid "Basic Page Style"
 msgstr "Grondstil"
 

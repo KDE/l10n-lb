@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: libksirtet\n"
-"POT-Creation-Date: 2005-09-02 02:36+0200\n"
+"POT-Creation-Date: 2005-11-30 03:21+0100\n"
 "PO-Revision-Date: 2005-11-14 22:37+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -341,7 +341,7 @@ msgstr "Feeler bei der Opléisung vum Numm fir \"%1\""
 msgid "Error opening socket"
 msgstr "Feeler beim Opmaachen vum Socket"
 
-#: common/ai.cpp:302
+#: common/ai.cpp:304
 msgid "Thinking depth:"
 msgstr "Grëndlechkeet beim Iwwerleeën:"
 
@@ -503,4 +503,3 @@ msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
 msgstr "michel.ludwig@kdemail.net"
-

@@ -1,11 +1,10 @@
 # translation of kicker.po to Luxembourgish
 # Michel Ludwig <michel.ludwig@kdemail.net>, 2005.
 # kevin claude everard <kevin@math.uni-sb.de>, 2005.
-
 msgid ""
 msgstr ""
 "Project-Id-Version: kicker\n"
-"POT-Creation-Date: 2005-11-02 02:48+0100\n"
+"POT-Creation-Date: 2005-11-30 03:20+0100\n"
 "PO-Revision-Date: 2005-10-13 15:46+0200\n"
 "Last-Translator: kevin claude everard <kevin@math.uni-sb.de>\n"
 "Language-Team: luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -69,7 +68,8 @@ msgstr "%1 Miniprogramm-Handler"
 
 #: core/container_applet.cpp:108
 msgid "The %1 applet could not be loaded. Please check your installation."
-msgstr "De Miniprogramm %1 konnt nët geluede gin. Kuckt är Installatioun w.e.g. no."
+msgstr ""
+"De Miniprogramm %1 konnt nët geluede gin. Kuckt är Installatioun w.e.g. no."
 
 #: core/container_applet.cpp:110
 msgid "Applet Loading Error"
@@ -127,47 +127,47 @@ msgstr "Persoun, déi sëch aktuell drëm këmmert"
 msgid "Kiosk mode"
 msgstr "Kiosk-Modus"
 
-#: core/panelextension.cpp:311
+#: core/panelextension.cpp:342
 msgid "Add &Applet to Menubar..."
 msgstr "&Miniprogramm an d'Menüleescht dobäimaachen..."
 
-#: core/panelextension.cpp:312
+#: core/panelextension.cpp:343
 msgid "Add &Applet to Panel..."
 msgstr "&Miniprogramm an d'Leescht dobäimaachen..."
 
-#: core/panelextension.cpp:315
+#: core/panelextension.cpp:346
 msgid "Add Appli&cation to Menubar"
 msgstr "&Programm an d'Menüleescht dobäimaachen"
 
-#: core/panelextension.cpp:316
+#: core/panelextension.cpp:347
 msgid "Add Appli&cation to Panel"
 msgstr "&Programm an d'Leescht dobäimaachen"
 
-#: core/panelextension.cpp:320
+#: core/panelextension.cpp:351
 msgid "&Remove From Menubar"
 msgstr "&Vun der Menüleescht ewechmaachen"
 
-#: core/panelextension.cpp:321
+#: core/panelextension.cpp:352
 msgid "&Remove From Panel"
 msgstr "&Vun der Leescht ewechmaachen"
 
-#: core/panelextension.cpp:326
+#: core/panelextension.cpp:357
 msgid "Add New &Panel"
 msgstr "Nei &Leescht dobäimaachen"
 
-#: core/panelextension.cpp:328
+#: core/panelextension.cpp:359
 msgid "Remove Pa&nel"
 msgstr "Leescht &ewechmaachen"
 
-#: core/panelextension.cpp:337 core/panelextension.cpp:351
+#: core/panelextension.cpp:366 core/panelextension.cpp:382
 msgid "&Lock Panels"
 msgstr "Leeschte &spären"
 
-#: core/panelextension.cpp:341
+#: core/panelextension.cpp:372
 msgid "&Configure Panel..."
 msgstr "Leescht &configuréieren..."
 
-#: core/panelextension.cpp:350
+#: core/panelextension.cpp:381
 msgid "Un&lock Panels"
 msgstr "Leeschten ent&spären"
 
@@ -524,7 +524,8 @@ msgstr "Spezialknäppercher"
 #: rc.cpp:24
 #, no-c-format
 msgid "<qt>Select here the only applet category that you want to show</qt>"
-msgstr "<qt>Wielt hei déi eenzeg Miniprogramm-Kategorie aus, déi dir uweise wëllt.</qt>"
+msgstr ""
+"<qt>Wielt hei déi eenzeg Miniprogramm-Kategorie aus, déi dir uweise wëllt.</qt>"
 
 #. i18n: file ui/appletview.ui line 123
 #: rc.cpp:27
@@ -724,4 +725,3 @@ msgstr "Gréisst"
 #, no-c-format
 msgid "Custom size"
 msgstr "Eege Gréisst"
-

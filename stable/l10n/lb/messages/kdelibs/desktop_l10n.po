@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_l10n\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2005-10-26 00:59+0000\n"
+"POT-Creation-Date: 2005-12-01 02:03+0000\n"
 "PO-Revision-Date: 2005-10-25 22:00+0200\n"
 "Last-Translator: kevin claude everard <kevin@math.uni-sb.de>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -149,14 +149,6 @@ msgstr "Name=Italienesch"
 msgid "Name=Japanese"
 msgstr "Name=Japanesch"
 
-#: ka/messages/entry.desktop:2
-msgid "Name=Georgian"
-msgstr "Name=Georgesch"
-
-#: kk/messages/entry.desktop:2
-msgid "Name=Kazakh"
-msgstr "Name=Kasachesch"
-
 #: km/messages/entry.desktop:2
 msgid "Name=Khmer"
 msgstr "Name=Khmer"
@@ -168,10 +160,6 @@ msgstr "Name=Koreanesch"
 #: ku/messages/entry.desktop:2
 msgid "Name=Kurdish"
 msgstr "Name=Kurdesch"
-
-#: ky/messages/entry.desktop:2
-msgid "Name=Kirghiz"
-msgstr "Name=Kirgisesch"
 
 #: lb/messages/entry.desktop:2
 msgid "Name=Luxembourgish"
@@ -348,3 +336,12 @@ msgstr "Name=Chinesesch"
 #: zu/messages/entry.desktop:2
 msgid "Name=Zulu"
 msgstr "Name=Zulu"
+
+#~ msgid "Name=Georgian"
+#~ msgstr "Name=Georgesch"
+
+#~ msgid "Name=Kazakh"
+#~ msgstr "Name=Kasachesch"
+
+#~ msgid "Name=Kirghiz"
+#~ msgstr "Name=Kirgisesch"
