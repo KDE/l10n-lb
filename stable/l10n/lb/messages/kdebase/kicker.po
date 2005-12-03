@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kicker\n"
-"POT-Creation-Date: 2005-11-30 03:20+0100\n"
+"POT-Creation-Date: 2005-12-03 03:04+0100\n"
 "PO-Revision-Date: 2005-10-13 15:46+0200\n"
 "Last-Translator: kevin claude everard <kevin@math.uni-sb.de>\n"
 "Language-Team: luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -107,23 +107,23 @@ msgstr "Opklapp-Start-Menü"
 msgid "Toggle Showing Desktop"
 msgstr "Büro weisen un/aus"
 
-#: core/main.cpp:45
+#: core/main.cpp:46
 msgid "The KDE panel"
 msgstr "D'KDE-Leescht"
 
-#: core/main.cpp:106
+#: core/main.cpp:107
 msgid "KDE Panel"
 msgstr "KDE-Leescht"
 
-#: core/main.cpp:108
+#: core/main.cpp:109
 msgid "(c) 1999-2004, The KDE Team"
 msgstr "(c) 1999-2004, D'Team vu KDE"
 
-#: core/main.cpp:110
+#: core/main.cpp:111
 msgid "Current maintainer"
 msgstr "Persoun, déi sëch aktuell drëm këmmert"
 
-#: core/main.cpp:118
+#: core/main.cpp:119
 msgid "Kiosk mode"
 msgstr "Kiosk-Modus"
 
