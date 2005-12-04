@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2005-12-01 02:50+0100\n"
+"POT-Creation-Date: 2005-12-04 03:01+0100\n"
 "PO-Revision-Date: 2005-10-25 22:16+0200\n"
 "Last-Translator: kevin claude everard <kevin@math.uni-sb.de>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1039,7 +1039,7 @@ msgstr "Dateien"
 msgid "Continue"
 msgstr "Weider"
 
-#: common_texts.cpp:150 kmdi/kmdimainfrm.cpp:999
+#: common_texts.cpp:150 kmdi/kmdimainfrm.cpp:995
 msgid "Restore"
 msgstr "Zerécksetzen"
 
@@ -2484,19 +2484,19 @@ msgstr "&Siichte fir d'Toolen"
 msgid "MDI Mode"
 msgstr "MDI-Modus"
 
-#: kmdi/kmdiguiclient.cpp:144 kmdi/kmdimainfrm.cpp:2598
+#: kmdi/kmdiguiclient.cpp:144 kmdi/kmdimainfrm.cpp:2594
 msgid "&Toplevel Mode"
 msgstr "&Toplevel-Modus"
 
-#: kmdi/kmdiguiclient.cpp:144 kmdi/kmdimainfrm.cpp:2599
+#: kmdi/kmdiguiclient.cpp:144 kmdi/kmdimainfrm.cpp:2595
 msgid "C&hildframe Mode"
 msgstr "C&hildframe-Modus"
 
-#: kmdi/kmdiguiclient.cpp:144 kmdi/kmdimainfrm.cpp:2600
+#: kmdi/kmdiguiclient.cpp:144 kmdi/kmdimainfrm.cpp:2596
 msgid "Ta&b Page Mode"
 msgstr "Ta&b-Page-Modus"
 
-#: kmdi/kmdiguiclient.cpp:144 kmdi/kmdimainfrm.cpp:2601
+#: kmdi/kmdiguiclient.cpp:144 kmdi/kmdimainfrm.cpp:2597
 msgid "I&DEAl Mode"
 msgstr "I&DEAI-Modus"
 
@@ -2540,67 +2540,67 @@ msgstr "%1 weisen"
 msgid "Hide %1"
 msgstr "%1 nët weisen"
 
-#: kmdi/kmdimainfrm.cpp:983
+#: kmdi/kmdimainfrm.cpp:979
 msgid "Window"
 msgstr "Fënster"
 
-#: kmdi/kmdimainfrm.cpp:996
+#: kmdi/kmdimainfrm.cpp:992
 msgid "Undock"
 msgstr "Ofdocken"
 
-#: kmdi/kmdimainfrm.cpp:1006
+#: kmdi/kmdimainfrm.cpp:1002
 msgid "Dock"
 msgstr "Undocken"
 
-#: kmdi/kmdimainfrm.cpp:1011
+#: kmdi/kmdimainfrm.cpp:1007
 msgid "Operations"
 msgstr "Aktiounen"
 
-#: kmdi/kmdimainfrm.cpp:2581
+#: kmdi/kmdimainfrm.cpp:2577
 msgid "Close &All"
 msgstr "&Alles zoumaachen"
 
-#: kmdi/kmdimainfrm.cpp:2590
+#: kmdi/kmdimainfrm.cpp:2586
 msgid "&Minimize All"
 msgstr "Alles k&leng maachen"
 
-#: kmdi/kmdimainfrm.cpp:2596
+#: kmdi/kmdimainfrm.cpp:2592
 msgid "&MDI Mode"
 msgstr "&MDI-Modus"
 
-#: kmdi/kmdimainfrm.cpp:2623
+#: kmdi/kmdimainfrm.cpp:2619
 msgid "&Tile"
 msgstr "&Kachelen"
 
-#: kmdi/kmdimainfrm.cpp:2625
+#: kmdi/kmdimainfrm.cpp:2621
 msgid "Ca&scade Windows"
 msgstr "Kaska&déieren"
 
-#: kmdi/kmdimainfrm.cpp:2626
+#: kmdi/kmdimainfrm.cpp:2622
 msgid "Cascade &Maximized"
 msgstr "&Grouss kaskadéieren"
 
-#: kmdi/kmdimainfrm.cpp:2627
+#: kmdi/kmdimainfrm.cpp:2623
 msgid "Expand &Vertically"
 msgstr "&Vertikal ausdehnen"
 
-#: kmdi/kmdimainfrm.cpp:2628
+#: kmdi/kmdimainfrm.cpp:2624
 msgid "Expand &Horizontally"
 msgstr "&Horizontal ausdehnen"
 
-#: kmdi/kmdimainfrm.cpp:2629
+#: kmdi/kmdimainfrm.cpp:2625
 msgid "Tile &Non-Overlapped"
 msgstr "&Nët iwwerdenee kachelen"
 
-#: kmdi/kmdimainfrm.cpp:2630
+#: kmdi/kmdimainfrm.cpp:2626
 msgid "Tile Overla&pped"
 msgstr "&Iwwerdenee kachelen"
 
-#: kmdi/kmdimainfrm.cpp:2631
+#: kmdi/kmdimainfrm.cpp:2627
 msgid "Tile V&ertically"
 msgstr "V&ertikal kachelen"
 
-#: kmdi/kmdimainfrm.cpp:2637
+#: kmdi/kmdimainfrm.cpp:2633
 msgid "&Dock/Undock"
 msgstr "&Undocken/Ofdocken"
 
