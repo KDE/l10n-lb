@@ -36,4 +36,3 @@ msgstr "Format:"
 #: resourcenetconfig.cpp:48
 msgid "Location:"
 msgstr "Adress:"
-

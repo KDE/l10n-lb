@@ -24,4 +24,3 @@ msgstr "D'Datei '%1' huet kee binärt Format."
 #: binaryformat.cpp:148
 msgid "File '%1' is the wrong version."
 msgstr "D'Datei '%1' léit an der falscher Versioun vir."
-

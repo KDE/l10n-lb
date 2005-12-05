@@ -27,4 +27,3 @@ msgstr "An der Root-XWindow ausféieren"
 #: main.cpp:51
 msgid "Start screen saver in demo mode"
 msgstr "De Bildschiermschoner am Demonstratiounsmodus starten"
-

@@ -35,4 +35,3 @@ msgstr "Format:"
 #: resourcefileconfig.cpp:51
 msgid "Location:"
 msgstr "Adress:"
-

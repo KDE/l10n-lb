@@ -76,4 +76,3 @@ msgstr "Et ass keng Beschreiwung verfügbar"
 #, c-format
 msgid "Configure - %1"
 msgstr "Configuréieren - %1"
-

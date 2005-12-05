@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2005-12-04 03:01+0100\n"
+"POT-Creation-Date: 2005-12-05 03:03+0100\n"
 "PO-Revision-Date: 2005-10-25 22:16+0200\n"
 "Last-Translator: kevin claude everard <kevin@math.uni-sb.de>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -5756,7 +5756,7 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "Toolbaren zerécksetzen"
 
-#: kdeui/kedittoolbar.cpp:447 khtml/html/html_formimpl.cpp:1992
+#: kdeui/kedittoolbar.cpp:447 khtml/html/html_formimpl.cpp:1987
 #: khtml/khtmlview.cpp:2485 khtml/khtmlview.cpp:2518
 msgid "Reset"
 msgstr "Zerécksetzen"
@@ -7243,7 +7243,7 @@ msgstr ""
 "<qt>De Formular gët no<BR><B>%1</B><BR>op ärem lokalen Dateiesystem verschéckt "
 "gin.<BR>Wëllt dir de Formular ofsenden?"
 
-#: khtml/html/html_formimpl.cpp:1484 khtml/html/html_formimpl.cpp:2000
+#: khtml/html/html_formimpl.cpp:1479 khtml/html/html_formimpl.cpp:1995
 #: khtml/khtml_part.cpp:4788 khtml/khtmlview.cpp:2471 khtml/khtmlview.cpp:2513
 msgid "Submit"
 msgstr "Verschécken"
@@ -7385,7 +7385,7 @@ msgstr "fatale Parsing-Feeler: %1, Zeil %2, Kolonn %3"
 msgid "XML parsing error"
 msgstr "XML Parsing-Feeler"
 
-#: khtml/xml/dom_docimpl.cpp:1992
+#: khtml/xml/dom_docimpl.cpp:2008
 msgid "Basic Page Style"
 msgstr "Grondstil"
 
