@@ -1,16 +1,17 @@
 # translation of kdelibs.po to Luxembourgish
 # kevin claude everard <kevin@math.uni-sb.de>, 2005.
+# Michel Ludwig <michel.ludwig@kdemail.net>, 2005.
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
 "POT-Creation-Date: 2005-12-08 03:03+0100\n"
-"PO-Revision-Date: 2005-10-25 22:16+0200\n"
-"Last-Translator: kevin claude everard <kevin@math.uni-sb.de>\n"
+"PO-Revision-Date: 2005-12-09 19:53+0100\n"
+"Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.10.2\n"
+"X-Generator: KBabel 1.11\n"
 
 #. i18n: file ./interfaces/ktexteditor/editorchooser_ui.ui line 16
 #: rc.cpp:3
@@ -77,10 +78,8 @@ msgstr "Haaptkierzel:"
 #. i18n: file ./kdeui/kshortcutdialog_advanced.ui line 155
 #: rc.cpp:33
 #, no-c-format
-msgid ""
-"The currently set shortcut or the shortcut you are entering will show up here."
-msgstr ""
-"Den aktuellen Tastekierzel oder deen, deen dir grad agitt, gesitt dir hei."
+msgid "The currently set shortcut or the shortcut you are entering will show up here."
+msgstr "Den aktuellen Tastekierzel oder deen, deen dir grad agitt, gesitt dir hei."
 
 #. i18n: file ./kdeui/kshortcutdialog_advanced.ui line 182
 #: rc.cpp:36 rc.cpp:42 rc.cpp:99
@@ -104,7 +103,7 @@ msgstr "Méi-Tasten-Modus"
 #: rc.cpp:51
 #, no-c-format
 msgid "Enable the entry of multi-key shortcuts"
-msgstr "Kierzel vun ë puer Tasten zouloossen"
+msgstr "Kierzel vun e puer Tasten zouloossen"
 
 #. i18n: file ./kdeui/kshortcutdialog_advanced.ui line 219
 #: rc.cpp:54
@@ -114,7 +113,7 @@ msgid ""
 "shortcut consists of a sequence of up to 4 keys.  For example, you could assign "
 "\"Ctrl+F,B\" to Font-Bold and \"Ctrl+F,U\" to Font-Underline."
 msgstr ""
-"Wielt dëst Haischen fir Kierzel vun ë puer Tasten zouzëloossen. Esou Kierzele "
+"Wielt dëst Haischen fir Kierzel vun e puer Tasten zouzëloossen. Esou Kierzele "
 "bestinn aus enger Sequenz vu bis zu 4 Tasten. Zum Beispill kënnt dir fir \"Text "
 "ënnersträichen\" de Kierzel \"Ctrl+F,U\" wielen, a fir \"Text kursiv\" de "
 "Kierzel \"Ctrl+F,I\"."
@@ -218,15 +217,15 @@ msgid ""
 "</qt>"
 msgstr ""
 "<qt>"
-"<p> Dësst Wuert ass \"onbekannt\", well ët am aktuelle Wierderbuch nët "
-"virkënnt. Ët kéint och ë Wuert aus enger anerer Sprooch sinn.</p>\n"
-"<p>Falls d'Wuert nët falsch geschriwwe ginn ass, kënnt dir ët mat <b>"
+"<p> Dësst Wuert ass \"onbekannt\", well et am aktuelle Wierderbuch net "
+"virkënnt. Et kéint och e Wuert aus enger anerer Sprooch sinn.</p>\n"
+"<p>Falls d'Wuert net falsch geschriwwe ginn ass, kënnt dir et mat <b>"
 "an d'Wierderbuch Dobäischreiwen</b> an Zukunft ouni Problem benotzen. Mat engem "
 "Klick op <b>Ignoréieren</b> oder <b>Alles Ignoréieren</b> "
-"kënnt dir d'Wuert onverännert loossen ouni ët an d'Wierderbuch ze schreiwen.</p>"
+"kënnt dir d'Wuert onverännert loossen ouni et an d'Wierderbuch ze schreiwen.</p>"
 "\n"
 "<p>Ass d'Wuert awer falsch geschriwwen, da kënnt dir ën Ersatz an der Lëscht "
-"hei drënner eraussichen oder selwer een agin. Duerch ë Klick op <b>Ersetzen</b> "
+"hei drënner eraussichen oder selwer een agin. Duerch e Klick op <b>Ersetzen</b> "
 "oder <b>Alles Ersetzen</b> ginn d'Ännerungen da virgeholl.</p>\n"
 "</qt>"
 
@@ -285,7 +284,7 @@ msgid ""
 msgstr ""
 "<qt>\n"
 "<p>Hei gesitt der ën Auszuch aus dem Text, deen dat onbekannt Wuert a sengem "
-"Kontext weist. Wann dës Informatioun nët duer geet, fir dee beschten Ersatz "
+"Kontext weist. Wann dës Informatioun net duer geet, fir dee beschten Ersatz "
 "erauszesichen, kënnt dir zeréck op den Dokument klicken, an do méi ee groussen "
 "Deel vum Text liesen. </p>\n"
 "</qt>"
@@ -312,11 +311,11 @@ msgid ""
 msgstr ""
 "<qt>\n"
 "<p>Dat onbekannt Wuert ass fonnt ginn an als \"onbekannt\" consideréiert ginn, "
-"well ët nët am Wierderbuch steet."
+"well et net am Wierderbuch steet."
 "<br>\n"
-"Klickt hei, wann dir mengt, dass dat onbekannt Wuert nët falsch geschriwwe ginn "
-"as, a wann dir verhënnere wëllt, dass ët an Zukunft weiderhi fonnt gët. Falls "
-"dir ët onverännert loosse wëllt, ouni eppes an d'Wierderbuch ze schreiwen, da "
+"Klickt hei, wann dir mengt, dass dat onbekannt Wuert net falsch geschriwwe ginn "
+"as, a wann dir verhënnere wëllt, dass et an Zukunft weiderhi fonnt gët. Falls "
+"dir et onverännert loosse wëllt, ouni eppes an d'Wierderbuch ze schreiwen, da "
 "klickt op <b>Ignoréieren</b> oder <b>Alles Ignoréieren</b>.</p>\n"
 "</qt>"
 
@@ -365,7 +364,7 @@ msgid ""
 "</qt>"
 msgstr ""
 "<qt>\n"
-"<p>Wann dat onbekannt Wuert falsch geschriwwe ginn ass, kuckt no ob ët eng "
+"<p>Wann dat onbekannt Wuert falsch geschriwwe ginn ass, kuckt no ob et eng "
 "Verbesserung gët, fir dann do dropp ze klicken. Wa kee Wuert aus der Lëscht als "
 "Ersatz gëeegent ass, kënnt dir dat richtegt Wuert selwer an d'Këscht uëwe "
 "schreiwen.</p>\n"
@@ -438,7 +437,7 @@ msgid ""
 msgstr ""
 "<qt>\n"
 "<p>Klickt hei fir dësst Optriede vum onbekannte Wuert sinn ze loossen.</p>\n"
-"<p>Dat ass virun allem nëtzlech wann d'Wuert ën Numm, Acronym oder ë Wuert aus "
+"<p>Dat ass virun allem nëtzlech wann d'Wuert ën Numm, Acronym oder e Wuert aus "
 "enger anerer Sprooch ass.</p>\n"
 "</qt>"
 
@@ -461,7 +460,7 @@ msgid ""
 msgstr ""
 "<qt>\n"
 "<p>Klickt hei fir all Optriede vum onbekannte Wuert sinn ze loossen.</p>\n"
-"<p>Dat ass virun allem nëtzlech wann d'Wuert ën Numm, Acronym oder ë Wuert aus "
+"<p>Dat ass virun allem nëtzlech wann d'Wuert ën Numm, Acronym oder e Wuert aus "
 "enger anerer Sprooch ass.</p>\n"
 "</qt>"
 
@@ -510,8 +509,8 @@ msgstr ""
 "Dësen Dialog weist iech eng Notificatioun an Detailer vu Feeleren am Script, "
 "déi op Internetsäiten virkomme kënnen.  An de meeschte Fäll läit dat un engem "
 "Feeler vum Verfaasser vun der Säit.  Da kënnt dir de Webmaster op de Feeler "
-"opmierksam maachen.  Ët kann awer och sinn, dass ët d'Resultat vun engem "
-"Programméierfeler am Konqueror ass.  Schreiwt dann w.e.g. ë Käfer-Bericht, deen "
+"opmierksam maachen.  Et kann awer och sinn, dass et d'Resultat vun engem "
+"Programméierfeler am Konqueror ass.  Schreiwt dann w.e.g. e Käfer-Bericht, deen "
 "dir un http://bugs.kde.org/ schécke kënnt."
 
 #. i18n: file ./khtml/kjserrordlg.ui line 39
@@ -1185,7 +1184,7 @@ msgstr "&Astellungen..."
 
 #: common_texts.cpp:193 kdeui/kmessagebox.cpp:928
 msgid "Do not show this message again"
-msgstr "Dëss Noricht nët méi weisen"
+msgstr "Dëss Noricht net méi weisen"
 
 #: common_texts.cpp:211
 msgid ""
@@ -1449,7 +1448,7 @@ msgstr "Iwwerall weisen"
 msgid ""
 "_: window operation\n"
 "Un-Sticky"
-msgstr "Nët méi iwwerall weisen"
+msgstr "Net méi iwwerall weisen"
 
 #: kjs/object.cpp:346
 msgid "No default value"
@@ -1493,7 +1492,7 @@ msgstr "Ongülteg Basis fir d'Referenz"
 
 #: kjs/reference.cpp:127
 msgid "Can't find variable: "
-msgstr "D'Variabel ass nët fonnt ginn: "
+msgstr "D'Variabel ass net fonnt ginn: "
 
 #: kjs/reference.cpp:134
 msgid "Base is not an object"
@@ -1518,7 +1517,7 @@ msgstr "Feeler am KScript"
 
 #: interfaces/kscript/scriptmanager.cpp:129
 msgid "Unable find script \"%1\"."
-msgstr "Script \"%1\" nët fonnt."
+msgstr "Script \"%1\" net fonnt."
 
 #: interfaces/kscript/scriptloader.cpp:40
 msgid "KDE Scripts"
@@ -1546,7 +1545,7 @@ msgstr "&Duebel Gréisst"
 
 #: kabc/addressbook.cpp:346 kabc/addressbook.cpp:365
 msgid "Unable to load resource '%1'"
-msgstr "Konnt d'Quell '%1' nët lueden"
+msgstr "Konnt d'Quell '%1' net lueden"
 
 #: kabc/key.cpp:127
 msgid "X509"
@@ -1613,7 +1612,7 @@ msgid ""
 "Address book file <b>%1</b> not found! Make sure the old address book is "
 "located there and you have read permission for this file."
 msgstr ""
-"D'Datei <b>%1</b> am Adressbuch ass nët fonnt ginn! Vergewëssert iech, dass dat "
+"D'Datei <b>%1</b> am Adressbuch ass net fonnt ginn! Vergewëssert iech, dass dat "
 "aalt Adressbuch do ass, an ob dir déi Datei liesen dierft."
 
 #: kabc/kab2kabc.cpp:435
@@ -1622,11 +1621,11 @@ msgstr "Kab-no-Kabc-Konvertéierer"
 
 #: kabc/resource.cpp:332
 msgid "Loading resource '%1' failed!"
-msgstr "D'Quell '%1' konnt nët geluede ginn!"
+msgstr "D'Quell '%1' konnt net geluede ginn!"
 
 #: kabc/resource.cpp:343
 msgid "Saving resource '%1' failed!"
-msgstr "D'Quell '%1' konnt nët gespäichert ginn!"
+msgstr "D'Quell '%1' konnt net gespäichert ginn!"
 
 #: kabc/resourceselectdialog.cpp:39 kresources/selectdialog.cpp:42
 msgid "Resource Selection"
@@ -2042,7 +2041,7 @@ msgstr "Bevirzugt Adress"
 
 #: kabc/lock.cpp:92
 msgid "Unable to open lock file."
-msgstr "D'Datei konnt nët gespaart ginn."
+msgstr "D'Datei konnt net gespaart ginn."
 
 #: kabc/lock.cpp:105
 msgid "The resource '%1' is locked by application '%2'."
@@ -2050,12 +2049,11 @@ msgstr "D'Quell '%1' ass duerch de Programm '%2' gespaart."
 
 #: kabc/lock.cpp:145
 msgid "Unlock failed. Lock file is owned by other process: %1 (%2)"
-msgstr ""
-"D'Sperr konnt nët opgehuewe ginn. D'Sperrdatei gehéiert zum Prozess: %1 (%2)"
+msgstr "D'Sperr konnt net opgehuewe ginn. D'Sperrdatei gehéiert zum Prozess: %1 (%2)"
 
 #: kabc/stdaddressbook.cpp:152
 msgid "Unable to save to resource '%1'. It is locked."
-msgstr "Konnt d'Quell '%1' nët späicheren. Si ass gespaart."
+msgstr "Konnt d'Quell '%1' net späicheren. Si ass gespaart."
 
 #: kabc/addresseedialog.cpp:60
 msgid "Select Addressee"
@@ -2299,7 +2297,7 @@ msgstr "D'Entrée am Menü betounen"
 
 #: kded/kde-menu.cpp:40
 msgid "Do not check if sycoca database is up to date"
-msgstr "Nët nokucken, ob d'Sycoca-Datebank aktuell ass"
+msgstr "Net nokucken, ob d'Sycoca-Datebank aktuell ass"
 
 #: kded/kde-menu.cpp:41
 msgid "The id of the menu entry to locate"
@@ -2307,7 +2305,7 @@ msgstr "D'Kennung vun der Menüentrée, déi ze sichen ass"
 
 #: kded/kde-menu.cpp:99
 msgid "Menu item '%1' could not be highlighted."
-msgstr "D'Menüentrée '%1' konnt nët betount ginn."
+msgstr "D'Menüentrée '%1' konnt net betount ginn."
 
 #: kded/kde-menu.cpp:111
 msgid ""
@@ -2318,7 +2316,7 @@ msgid ""
 msgstr ""
 "KDE-Menü-Ufro.\n"
 "Mat dësem Tool gesäit een a wéi engem Menü eng Uwendung gewise gët.\n"
-"D'Optioun --highlight gët eng optësch Hëllef, wou \n"
+"D'Optioun --highlight gëtt eng optësch Hëllef, wou \n"
 " d'Uwendung am KDE-Menü ze fannen ass."
 
 #: kded/kde-menu.cpp:116
@@ -2344,11 +2342,11 @@ msgstr ""
 
 #: kded/kde-menu.cpp:164
 msgid "No menu item '%1'."
-msgstr "D'Entrée '%1' ass nët am Menü."
+msgstr "D'Entrée '%1' ass net am Menü."
 
 #: kded/kde-menu.cpp:168
 msgid "Menu item '%1' not found in menu."
-msgstr "D'Entrée '%1' konnt am Menü nët fonnt ginn."
+msgstr "D'Entrée '%1' konnt am Menü net fonnt ginn."
 
 #: kded/khostname.cpp:41
 msgid "Old hostname"
@@ -2359,20 +2357,16 @@ msgid "New hostname"
 msgstr "Neien Numm fir den Host"
 
 #: kded/khostname.cpp:79
-msgid ""
-"Error: HOME environment variable not set.\n"
-msgstr ""
-"Feeler: D'HOME-Variabel ass nët festgeluecht ginn.\n"
+msgid "Error: HOME environment variable not set.\n"
+msgstr "Feeler: D'HOME-Variabel ass net festgeluecht ginn.\n"
 
 #: kded/khostname.cpp:88
-msgid ""
-"Error: DISPLAY environment variable not set.\n"
-msgstr ""
-"Feeler: D'DISPLAY-Variabel ass nët festgeluecht ginn.\n"
+msgid "Error: DISPLAY environment variable not set.\n"
+msgstr "Feeler: D'DISPLAY-Variabel ass net festgeluecht ginn.\n"
 
 #: kded/khostname.cpp:355
 msgid "KDontChangeTheHostName"
-msgstr "KDE: Den Numm vum Host nët veränneren"
+msgstr "KDE: Den Numm vum Host net veränneren"
 
 #: kded/khostname.cpp:356
 msgid "Informs KDE about a change in hostname"
@@ -2388,8 +2382,7 @@ msgstr "KDE-Daemon"
 
 #: kded/kded.cpp:805
 msgid "KDE Daemon - triggers Sycoca database updates when needed"
-msgstr ""
-"KDE-Daemon: Léist d'Aktualiséierunge vun der Sycoca-Datebank aus, wa gebraucht"
+msgstr "KDE-Daemon: Léist d'Aktualiséierunge vun der Sycoca-Datebank aus, wa gebraucht"
 
 #: kded/kbuildsycoca.cpp:498
 msgid ""
@@ -2398,7 +2391,7 @@ msgid ""
 "full.\n"
 msgstr ""
 "Feeler beim Erstelle vun der Datebank: '%1'.\n"
-"Kuckt w.e.g. no, ob de Späicher voll ass an ob d'Permissiounen um Dossier di "
+"Kuckt w.e.g. no, ob de Späicher net voll ass an ob d'Permissiounen um Dossier déi "
 "richteg sinn.\n"
 
 #: kded/kbuildsycoca.cpp:498 kded/kbuildsycoca.cpp:527
@@ -2413,12 +2406,12 @@ msgid ""
 "full.\n"
 msgstr ""
 "Feeler beim Schreiwe vun der Datebank: '%1'.\n"
-"Kuckt w.e.g. no, ob de Späicher voll ass an ob d'Permissiounen um Dossier di "
+"Kuckt w.e.g. no, ob de Späicher net voll ass an ob d'Permissiounen um Dossier déi "
 "richteg sinn.\n"
 
 #: kded/kbuildsycoca.cpp:710
 msgid "Do not signal applications to update"
-msgstr "Déi Uwendungen, déi z'aktualiséiere sinn nët uweisen"
+msgstr "Déi Uwendungen, déi z'aktualiséiere sinn net uweisen"
 
 #: kded/kbuildsycoca.cpp:711
 msgid "Disable incremental update, re-read everything"
@@ -2470,7 +2463,7 @@ msgstr "Wëllt dir d'KDE-Configuratioun nach eng Kéier lueden?"
 
 #: kded/kbuildsycoca.cpp:768
 msgid "Do Not Reload"
-msgstr "Nët nach eng Kéier lueden"
+msgstr "Net nach eng Kéier lueden"
 
 #: kded/kbuildsycoca.cpp:968
 msgid "Configuration information reloaded successfully."
@@ -2538,7 +2531,7 @@ msgstr "%1 weisen"
 #: kmdi/kmdiguiclient.cpp:265
 #, c-format
 msgid "Hide %1"
-msgstr "%1 nët weisen"
+msgstr "%1 net weisen"
 
 #: kmdi/kmdimainfrm.cpp:979
 msgid "Window"
@@ -2590,7 +2583,7 @@ msgstr "&Horizontal ausdehnen"
 
 #: kmdi/kmdimainfrm.cpp:2625
 msgid "Tile &Non-Overlapped"
-msgstr "&Nët iwwerdenee kachelen"
+msgstr "&Net iwwerdenee kachelen"
 
 #: kmdi/kmdimainfrm.cpp:2626
 msgid "Tile Overla&pped"
@@ -2657,7 +2650,7 @@ msgstr "D'Bibliothéik %1 huet keng Factory, déi mat KDE kompatibel ass."
 
 #: kdecore/klibloader.cpp:425
 msgid "Library files for \"%1\" not found in paths."
-msgstr "D'Bibliothéiksdatei \"%1\" ass iwwert äre Wee nët fonnt ginn."
+msgstr "D'Bibliothéiksdatei \"%1\" ass iwwert äre Wee net fonnt ginn."
 
 #: kdecore/kapplication.cpp:931
 msgid ""
@@ -2835,26 +2828,23 @@ msgid "sets the application GUI style"
 msgstr "Leet de GUI-Stil fir d'Uwendung fest"
 
 #: kdecore/kapplication.cpp:1439
-msgid ""
-"sets the client geometry of the main widget - see man X for the argument format"
+msgid "sets the client geometry of the main widget - see man X for the argument format"
 msgstr ""
 "Leet d'Geometrie vum Haaptelement am Client-Programm fest. De Format vun den "
 "Argumenter fannt dir mat \"man X\" eraus"
 
 #: kdecore/kapplication.cpp:1479
-msgid ""
-"The style %1 was not found\n"
-msgstr ""
-"De Stil %1 ass nët fonnt ginn\n"
+msgid "The style %1 was not found\n"
+msgstr "De Stil %1 ass net fonnt ginn\n"
 
 #: kdecore/kapplication.cpp:1940 kstyles/klegacy/klegacystyle.cpp:3044
 #: kstyles/web/webstyle.cpp:1604
 msgid "modified"
-msgstr "nach nët gespäichert"
+msgstr "nach net gespäichert"
 
 #: kdecore/kapplication.cpp:2206 kdecore/kapplication.cpp:2241
 msgid "Could not Launch Help Center"
-msgstr "Konnt den Hëllefszentrum nët starten"
+msgstr "Konnt den Hëllefszentrum net starten"
 
 #: kdecore/kapplication.cpp:2207 kdecore/kapplication.cpp:2242
 #, c-format
@@ -2863,13 +2853,13 @@ msgid ""
 "\n"
 "%1"
 msgstr ""
-"Konnt de KDE-Hëllefszentrum nët starten:\n"
+"Konnt de KDE-Hëllefszentrum net starten:\n"
 "\n"
 "%1"
 
 #: kdecore/kapplication.cpp:2505
 msgid "Could not Launch Mail Client"
-msgstr "Konnt de Mailprogramm nët starten"
+msgstr "Konnt de Mailprogramm net starten"
 
 #: kdecore/kapplication.cpp:2506
 #, c-format
@@ -2878,13 +2868,13 @@ msgid ""
 "\n"
 "%1"
 msgstr ""
-"Konnt de Mailprogramm nët starten:\n"
+"Konnt de Mailprogramm net starten:\n"
 "\n"
 "%1"
 
 #: kdecore/kapplication.cpp:2527
 msgid "Could not Launch Browser"
-msgstr "Konnt de Browser nët starten"
+msgstr "Konnt de Browser net starten"
 
 #: kdecore/kapplication.cpp:2528
 #, c-format
@@ -2893,21 +2883,17 @@ msgid ""
 "\n"
 "%1"
 msgstr ""
-"Konnt de Browser nët starten:\n"
+"Konnt de Browser net starten:\n"
 "\n"
 "%1"
 
 #: kdecore/kapplication.cpp:2592
-msgid ""
-"Could not register with DCOP.\n"
-msgstr ""
-"Konnt nët bei DCOP umellen.\n"
+msgid "Could not register with DCOP.\n"
+msgstr "Konnt net bei DCOP umellen.\n"
 
 #: kdecore/kapplication.cpp:2624
-msgid ""
-"KLauncher could not be reached via DCOP.\n"
-msgstr ""
-"De KLauncher konnt nët iwwer DCOP erreecht ginn\n"
+msgid "KLauncher could not be reached via DCOP.\n"
+msgstr "De KLauncher konnt net iwwer DCOP erreecht ginn\n"
 
 #: kdecore/kwinmodule.cpp:413
 #, c-format
@@ -2915,16 +2901,12 @@ msgid "Desktop %1"
 msgstr "Büro %1"
 
 #: kdecore/kconfigbackend.cpp:1087 kdecore/kconfigbackend.cpp:1096
-msgid ""
-"Will not save configuration.\n"
-msgstr ""
-"D'Configuratioun gët nët gespäichert.\n"
+msgid "Will not save configuration.\n"
+msgstr "D'Configuratioun gëtt net gespäichert.\n"
 
 #: kdecore/kconfigbackend.cpp:1089 kdecore/kconfigbackend.cpp:1097
-msgid ""
-"Configuration file \"%1\" not writable.\n"
-msgstr ""
-"D'Configuratiounsdatei \"%1\" konnt nët geschriwwe ginn.\n"
+msgid "Configuration file \"%1\" not writable.\n"
+msgstr "D'Configuratiounsdatei \"%1\" konnt net geschriwwe ginn.\n"
 
 #: kdecore/kconfigbackend.cpp:1104
 msgid "Please contact your system administrator."
@@ -2952,16 +2934,12 @@ msgid "This application was written by somebody who wants to remain anonymous."
 msgstr "Den Auteur vun dësem Programm wëllt anonym bleiwen."
 
 #: kdecore/kcmdlineargs.cpp:625
-msgid ""
-"Please use http://bugs.kde.org to report bugs.\n"
-msgstr ""
-"Mellt eventuell Käfere w.e.g. ënnert http://bugs.kde.org.\n"
+msgid "Please use http://bugs.kde.org to report bugs.\n"
+msgstr "Mellt eventuell Käfere w.e.g. ënnert http://bugs.kde.org.\n"
 
 #: kdecore/kcmdlineargs.cpp:628 kdecore/kcmdlineargs.cpp:630
-msgid ""
-"Please report bugs to %1.\n"
-msgstr ""
-"Mellt eventuell Käfere w.e.g. bei %1.\n"
+msgid "Please report bugs to %1.\n"
+msgstr "Mellt eventuell Käfere w.e.g. bei %1.\n"
 
 #: kdecore/kcmdlineargs.cpp:656
 msgid "Unexpected argument '%1'."
@@ -2988,10 +2966,8 @@ msgid "[%1-options]"
 msgstr "[%1-Optiounen]"
 
 #: kdecore/kcmdlineargs.cpp:812
-msgid ""
-"Usage: %1 %2\n"
-msgstr ""
-"Verwendung: %1 %2\n"
+msgid "Usage: %1 %2\n"
+msgstr "Verwendung: %1 %2\n"
 
 #: kdecore/kcmdlineargs.cpp:815
 msgid "Generic options"
@@ -3047,8 +3023,7 @@ msgstr ""
 
 #: kdecore/kcmdlineargs.cpp:1277
 msgid "The files/URLs opened by the application will be deleted after use"
-msgstr ""
-"D'Dateien/URLen, déi vum Programm opgemaach gi sinn, ginn häerno nees geläscht"
+msgstr "D'Dateien/URLen, déi vum Programm opgemaach gi sinn, ginn häerno nees geläscht"
 
 #: kdecore/ksockaddr.cpp:112
 msgid "<unknown socket>"
@@ -3711,7 +3686,7 @@ msgstr "ouni Feeler"
 
 #: kdecore/netsupp.cpp:897
 msgid "address family for nodename not supported"
-msgstr "Famill vun Adresse fir den Node nët ënnerstëtzt"
+msgstr "Famill vun Adresse fir den Node net ënnerstëtzt"
 
 #: kdecore/netsupp.cpp:898 kdecore/network/kresolver.cpp:559
 msgid "temporary failure in name resolution"
@@ -3723,11 +3698,11 @@ msgstr "Falsche Wert fir 'ai_flags'"
 
 #: kdecore/netsupp.cpp:900 kdecore/network/kresolver.cpp:560
 msgid "non-recoverable failure in name resolution"
-msgstr "Nët behiefbare Feeler bei der Opléisung vum Numm"
+msgstr "Net behiefbare Feeler bei der Opléisung vum Numm"
 
 #: kdecore/netsupp.cpp:901
 msgid "'ai_family' not supported"
-msgstr "'ai_family' gët nët ënnerstëtzt"
+msgstr "'ai_family' gëtt net ënnerstëtzt"
 
 #: kdecore/netsupp.cpp:902 kdecore/network/kresolver.cpp:562
 msgid "memory allocation failure"
@@ -3739,15 +3714,15 @@ msgstr "Keng Adress gehéiert zum Node"
 
 #: kdecore/netsupp.cpp:904 kdecore/network/kresolver.cpp:563
 msgid "name or service not known"
-msgstr "Numm oder Service nët bekannt"
+msgstr "Numm oder Service net bekannt"
 
 #: kdecore/netsupp.cpp:905
 msgid "servname not supported for ai_socktype"
-msgstr "Servernumm fir 'ai_socktype' nët ënnerstëtzt"
+msgstr "Servernumm fir 'ai_socktype' net ënnerstëtzt"
 
 #: kdecore/netsupp.cpp:906
 msgid "'ai_socktype' not supported"
-msgstr "'ai socktype' nët ënnerstëtzt"
+msgstr "'ai socktype' net ënnerstëtzt"
 
 #: kdecore/netsupp.cpp:907
 msgid "system error"
@@ -4038,14 +4013,12 @@ msgid ""
 "The completion is ambiguous, more than one\n"
 "match is available.\n"
 msgstr ""
-"D'Ergänzung ass nët eendäideg, méi wéi \n"
+"D'Ergänzung ass net eendäideg, méi wéi \n"
 "eng Méiglechkeet ass fonnt ginn.\n"
 
 #: kdecore/kcompletion.cpp:643
-msgid ""
-"There is no matching item available.\n"
-msgstr ""
-"Näischt passendes fonnt ginn.\n"
+msgid "There is no matching item available.\n"
+msgstr "Näischt passendes fonnt ginn.\n"
 
 #: kdecore/kcalendarsystemhebrew.cpp:402
 msgid "Tishrey"
@@ -4111,7 +4084,7 @@ msgid ""
 "<p>For more information on KDE internationalization visit "
 "http://i18n.kde.org</p>"
 msgstr ""
-"<p>KDE gët a vill verschidde Sproochen iwwersat. Ën décke Merci dowéinst un all "
+"<p>KDE gëtt a vill verschidde Sproochen iwwersat. Ën décke Merci dowéinst un all "
 "Iwwersetzungsteam op der Welt.</p>"
 "<p>Méi Informatioune fannt dir op http://i18n.kde.org</p>"
 
@@ -4214,7 +4187,7 @@ msgstr "Beispill fir cfgc"
 
 #: kdecore/network/kresolver.cpp:558
 msgid "requested family not supported for this host name"
-msgstr "Gefroot Famill gët fir dësen Hostnumm nët ënnerstëtzt"
+msgstr "Gefroot Famill gëtt fir dësen Hostnumm net ënnerstëtzt"
 
 #: kdecore/network/kresolver.cpp:561
 msgid "invalid flags"
@@ -4222,15 +4195,15 @@ msgstr "Ongülteg Werter"
 
 #: kdecore/network/kresolver.cpp:564
 msgid "requested family not supported"
-msgstr "Gefroot Famill gët nët ënnerstëtzt"
+msgstr "Gefroot Famill gëtt net ënnerstëtzt"
 
 #: kdecore/network/kresolver.cpp:565
 msgid "requested service not supported for this socket type"
-msgstr "Gefroote Service gët fir dësen Socket-Typ nët ënnerstëtzt"
+msgstr "Gefroote Service gëtt fir dësen Socket-Typ net ënnerstëtzt"
 
 #: kdecore/network/kresolver.cpp:566
 msgid "requested socket type not supported"
-msgstr "Gefroote Socket-Typ gët nët ënnerstëtzt"
+msgstr "Gefroote Socket-Typ gëtt net ënnerstëtzt"
 
 #: kdecore/network/kresolver.cpp:567
 msgid "unknown error"
@@ -4257,13 +4230,13 @@ msgstr "Kee Feeler"
 msgid ""
 "_: Socket error code LookupFailure\n"
 "name lookup has failed"
-msgstr "Den Numm konnt nët nogekuckt ginn"
+msgstr "Den Numm konnt net nogekuckt ginn"
 
 #: kdecore/network/ksocketbase.cpp:182
 msgid ""
 "_: Socket error code AddressInUse\n"
 "address already in use"
-msgstr "Dëss adress gët scho benotzt"
+msgstr "Dëss adress gëtt scho benotzt"
 
 #: kdecore/network/ksocketbase.cpp:187
 msgid ""
@@ -4281,13 +4254,13 @@ msgstr "De Socket ass schonn erstallt ginn"
 msgid ""
 "_: Socket error code NotBound\n"
 "socket is not bound"
-msgstr "De Socket ass nët gebonn"
+msgstr "De Socket ass net gebonn"
 
 #: kdecore/network/ksocketbase.cpp:202
 msgid ""
 "_: Socket error code NotCreated\n"
 "socket has not been created"
-msgstr "De Socket ass nach nët erstallt ginn"
+msgstr "De Socket ass nach net erstallt ginn"
 
 #: kdecore/network/ksocketbase.cpp:207
 msgid ""
@@ -4311,7 +4284,7 @@ msgstr "D'Verbindungszäit ass iwwerschratt ginn"
 msgid ""
 "_: Socket error code InProgress\n"
 "operation is already in progress"
-msgstr "D'Aktioun gët schonn duerchgeféiert"
+msgstr "D'Aktioun gëtt schonn duerchgeféiert"
 
 #: kdecore/network/ksocketbase.cpp:227
 msgid ""
@@ -4323,7 +4296,7 @@ msgstr "Netzwierkfeler"
 msgid ""
 "_: Socket error code NotSupported\n"
 "operation is not supported"
-msgstr "Dëss Aktioun gët nët ënnerstëtzt"
+msgstr "Dëss Aktioun gëtt net ënnerstëtzt"
 
 #: kdecore/network/ksocketbase.cpp:237
 msgid ""
@@ -4405,7 +4378,7 @@ msgstr "Gitt w.e.g. ën Numm an."
 
 #: knewstuff/uploaddialog.cpp:173
 msgid "Old upload information found, fill out fields?"
-msgstr "Ët sinn al Upload-Informatioune fonnt ginn. Domat d'Felder ausfëllen?"
+msgstr "Et sinn al Upload-Informatioune fonnt ginn. Domat d'Felder ausfëllen?"
 
 #: knewstuff/uploaddialog.cpp:173
 msgid "Fill Out"
@@ -4413,11 +4386,11 @@ msgstr "Ausfëllen"
 
 #: knewstuff/uploaddialog.cpp:173
 msgid "Do Not Fill Out"
-msgstr "Nët Ausfëllen"
+msgstr "Net Ausfëllen"
 
 #: knewstuff/knewstuffgeneric.cpp:133
 msgid "The file '%1' already exists. Do you want to overwrite it?"
-msgstr "D'Datei '%1' gëtt ët schonn. Soll se iwwerschriwwe ginn?"
+msgstr "D'Datei '%1' gëtt et schonn. Soll se iwwerschriwwe ginn?"
 
 #: khtml/khtml_ext.cpp:823 knewstuff/knewstuffgeneric.cpp:135
 msgid "Overwrite"
@@ -4514,7 +4487,7 @@ msgstr "Installatioun"
 
 #: knewstuff/downloaddialog.cpp:594
 msgid "Installation failed."
-msgstr "Installatioun nët gaang."
+msgstr "Installatioun net gaang."
 
 #: knewstuff/downloaddialog.cpp:687
 msgid "Preview not available."
@@ -4531,41 +4504,31 @@ msgstr "Nei Saachen erfollegräich installéiert."
 
 #: knewstuff/engine.cpp:226
 msgid "Failed to install hot new stuff."
-msgstr "Di nei Saache konnten nët installéiert ginn."
+msgstr "Déi nei Saache konnten net installéiert ginn."
 
 #: knewstuff/engine.cpp:281
 msgid "Unable to create file to upload."
-msgstr "D'Datei fir eroppzeluede konnt nët erstallt ginn."
+msgstr "D'Datei fir eroppzeluede konnt net erstallt ginn."
 
 #: knewstuff/engine.cpp:296
-msgid ""
-"The files to be uploaded have been created at:\n"
-msgstr ""
-"D'Dateie fir eroppzeluede sinn do erstallt ginn:\n"
+msgid "The files to be uploaded have been created at:\n"
+msgstr "D'Dateie fir eroppzeluede sinn do erstallt ginn:\n"
 
 #: knewstuff/engine.cpp:297
-msgid ""
-"Data file: %1\n"
-msgstr ""
-"Datendatei: %1\n"
+msgid "Data file: %1\n"
+msgstr "Datendatei: %1\n"
 
 #: knewstuff/engine.cpp:299
-msgid ""
-"Preview image: %1\n"
-msgstr ""
-"Virschau vum Bild:%1\n"
+msgid "Preview image: %1\n"
+msgstr "Virschau vum Bild:%1\n"
 
 #: knewstuff/engine.cpp:301
-msgid ""
-"Content information: %1\n"
-msgstr ""
-"Beschreiwung vum Inhalt: %1\n"
+msgid "Content information: %1\n"
+msgstr "Beschreiwung vum Inhalt: %1\n"
 
 #: knewstuff/engine.cpp:302
-msgid ""
-"Those files can now be uploaded.\n"
-msgstr ""
-"Dëss Dateie kënnen elo eroppgeluede ginn.\n"
+msgid "Those files can now be uploaded.\n"
+msgstr "Dëss Dateie kënnen elo eroppgeluede ginn.\n"
 
 #: knewstuff/engine.cpp:303
 msgid "Beware that any people might have access to them at any time."
@@ -4600,7 +4563,7 @@ msgid ""
 "There was an error with the downloaded resource tarball file. Possible causes "
 "are damaged archive or invalid directory structure in the archive."
 msgstr ""
-"!et gët ë Problem mam Archiv, dat erofgeluede ginn ass. Méiglech Grënn sinn ë "
+"Et gëtt e Problem mam Archiv, dat erofgeluede ginn ass. Méiglech Grënn sinn e "
 "beschiedegt Archiv oder eng onerlaabt Dossier-Struktur am Archiv."
 
 #: knewstuff/knewstuffsecure.cpp:83
@@ -4613,11 +4576,11 @@ msgstr "Keng Schlëssele fonnt."
 
 #: knewstuff/knewstuffsecure.cpp:99
 msgid "The validation failed for unknown reason."
-msgstr "D'Validatioun ass aus onbekannte Grënn nët gaang."
+msgstr "D'Validatioun ass aus onbekannte Grënn net gaang."
 
 #: knewstuff/knewstuffsecure.cpp:106
 msgid "The MD5SUM check failed, the archive might be broken."
-msgstr "D'MD5SUM-Kontroll ass nët gaang, den Archiv ass wahrscheinlech futti."
+msgstr "D'MD5SUM-Kontroll ass net gaang, den Archiv ass wahrscheinlech futti."
 
 #: knewstuff/knewstuffsecure.cpp:111
 msgid "The signature is bad, the archive might be broken or altered."
@@ -4625,7 +4588,7 @@ msgstr "D'Signatur ass schlecht, den Archiv kéinnt futti oder verännert sinn."
 
 #: knewstuff/knewstuffsecure.cpp:121
 msgid "The signature is valid, but untrusted."
-msgstr "D'Signatur ass zwar gülteg, mais nët vertrauenswürdeg."
+msgstr "D'Signatur ass zwar gülteg, mais net vertrauenswürdeg."
 
 #: knewstuff/knewstuffsecure.cpp:127
 msgid "The signature is unknown."
@@ -4653,7 +4616,7 @@ msgstr ""
 "sinn: <b>%1</b>"
 "<br>%2"
 "<br>"
-"<br>D'Installatioun vun de Ressourcen ass <b>nët recommandéiert</b>."
+"<br>D'Installatioun vun de Ressourcen ass <b>net recommandéiert</b>."
 "<br>"
 "<br>Wëllt der mat der Installatioun virufueren?</qt>"
 
@@ -4671,7 +4634,7 @@ msgstr "Gülteg Ressource"
 
 #: knewstuff/knewstuffsecure.cpp:190
 msgid "The signing failed for unknown reason."
-msgstr "D'Ënnerschreiwen ass aus engem onbekannte Grond nët gaang."
+msgstr "D'Ënnerschreiwen ass aus engem onbekannte Grond net gaang."
 
 #: knewstuff/knewstuffsecure.cpp:195
 msgid ""
@@ -4679,7 +4642,7 @@ msgid ""
 "passphrase.\n"
 "Proceed without signing the resource?"
 msgstr ""
-"Ët gët keng Schlësselen fir z'ënnerschreiwen oder dir hutt dat falscht "
+"Et gëtt keng Schlësselen fir z'ënnerschreiwen oder dir hutt dat falscht "
 "Passwuert agin.\n"
 "Soll weidergemaach ginn, ouni d'Ressource z'ënnerschreiwen?"
 
@@ -4689,9 +4652,9 @@ msgid ""
 "gpg</i> is installed, otherwise verification of downloaded resources will not "
 "be possible.</qt>"
 msgstr ""
-"<qt>Kann de <i>gpg</i> nët luede fir d'verfügbar Schlësselen nozefroën. Kuckt "
-"w.e.g. no, ob den <i>gpg</i> installéiert ass, well soss kënnen di erofgeluede "
-"Ressourcen nët verifizéiert ginn.</qt>"
+"<qt>Kann de <i>gpg</i> net luede fir d'verfügbar Schlësselen nozefroën. Kuckt "
+"w.e.g. no, ob den <i>gpg</i> installéiert ass, well soss kënnen déi erofgeluede "
+"Ressourcen net verifizéiert ginn.</qt>"
 
 #: knewstuff/security.cpp:177
 msgid ""
@@ -4707,9 +4670,9 @@ msgid ""
 "<i>gpg</i> is installed, otherwise verification of downloaded resources will "
 "not be possible.</qt>"
 msgstr ""
-"<qt>Kann de <i>gpg</i> nët luede fir d'Validitéit vun der Datei ze préifen. "
-"Kuckt w.e.g. no, ob den <i>gpg</i> installéiert ass, well soss kënnen di "
-"erofgeluede Ressourcen nët verifizéiert ginn.</qt>"
+"<qt>Kann de <i>gpg</i> net luede fir d'Validitéit vun der Datei ze préifen. "
+"Kuckt w.e.g. no, ob den <i>gpg</i> installéiert ass, well soss kënnen déi "
+"erofgeluede Ressourcen net verifizéiert ginn.</qt>"
 
 #: knewstuff/security.cpp:317
 msgid "Select Signing Key"
@@ -4724,9 +4687,9 @@ msgid ""
 "<qt>Cannot start <i>gpg</i> and sign the file. Make sure that <i>gpg</i> "
 "is installed, otherwise signing of the resources will not be possible.</qt>"
 msgstr ""
-"<qt>Kann de <i>gpg</i> nët luede fir d'Datei z'ënnerschreiwen. Kuckt w.e.g. no, "
-"ob den <i>gpg</i> installéiert ass, well soss kënnen di erofgeluede Ressourcen "
-"nët ënnerschriwwe ginn.</qt>"
+"<qt>Kann de <i>gpg</i> net luede fir d'Datei z'ënnerschreiwen. Kuckt w.e.g. no, "
+"ob den <i>gpg</i> installéiert ass, well soss kënnen déi erofgeluede Ressourcen "
+"net ënnerschriwwe ginn.</qt>"
 
 #: knewstuff/ghns.cpp:50
 msgid "Get hot new stuff:"
@@ -4802,7 +4765,7 @@ msgstr "&Nach Keng"
 
 #: kdeui/kkeydialog.cpp:399
 msgid "The selected action will not be associated with any key."
-msgstr "Déi ausgewielten Aktioun gët kenger Tastekombinatioun zougedeelt."
+msgstr "Déi ausgewielten Aktioun gëtt kenger Tastekombinatioun zougedeelt."
 
 #: kdeui/kkeydialog.cpp:402
 msgid ""
@@ -4815,7 +4778,7 @@ msgid ""
 "This will bind the default key to the selected action. Usually a reasonable "
 "choice."
 msgstr ""
-"Bënnt d'Standardkombinatioun un di ausgewielten Aktioun. Dat ass normalerweis e "
+"Bënnt d'Standardkombinatioun un déi ausgewielten Aktioun. Dat ass normalerweis e "
 "gudde Choix."
 
 #: kdeui/kkeydialog.cpp:410
@@ -4927,13 +4890,12 @@ msgstr "Bildauschnëtt wielen"
 
 #: kdeui/kpixmapregionselectordialog.cpp:31
 msgid "Please click and drag on the image to select the region of interest:"
-msgstr ""
-"Klickt an zitt w.e.g. iwwert d'Bild fir de gewënschte Beräich ze wielen:"
+msgstr "Klickt an zitt w.e.g. iwwert d'Bild fir de gewënschte Beräich ze wielen:"
 
 #: kdeui/ksconfig.cpp:100
 msgid "Create &root/affix combinations not in dictionary"
 msgstr ""
-"Eng Kombinatioun aus Wuertstamm+&Zousätz erstellen, déi nët am Wierderbuch "
+"Eng Kombinatioun aus Wuertstamm+&Zousätz erstellen, déi net am Wierderbuch "
 "steet"
 
 #: kdeui/ksconfig.cpp:105
@@ -5117,7 +5079,7 @@ msgid ""
 "The supplied KAboutData object does not exist."
 msgstr ""
 "Keng Informatioun verfügbar.\n"
-"Ët gët kee passend KAboutData-Objekt."
+"Et gëtt kee passend KAboutData-Objekt."
 
 #: kdeui/kaboutapplication.cpp:105
 msgid "A&uthor"
@@ -5136,8 +5098,7 @@ msgstr ""
 "fir eventuell Käferen ze mellen.\n"
 
 #: kdeui/kaboutapplication.cpp:119 kdeui/kaboutapplication.cpp:122
-msgid ""
-"Please report bugs to <a href=\"mailto:%1\">%2</a>.\n"
+msgid "Please report bugs to <a href=\"mailto:%1\">%2</a>.\n"
 msgstr ""
 "Mellt w.e.g. eventuell Käferen an enger E-Mail un <a href=\"mailto:%1\">%2</a>"
 ".\n"
@@ -5252,15 +5213,14 @@ msgstr "Hei kënnt dir d'Schrëftgréisst wielen, déi benotzt soll ginn."
 
 #: kdeui/kfontdialog.cpp:299
 msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
-msgstr ""
-"Ëch hätt gär dräi Wirschtercher mat Fritten a Ketchup, ouni Zalot a Geméis"
+msgstr "Ëch hätt gär dräi Wirschtercher mat Fritten a Ketchup, ouni Zalot a Geméis"
 
 #: kdeui/kfontdialog.cpp:304
 msgid ""
 "This sample text illustrates the current settings. You may edit it to test "
 "special characters."
 msgstr ""
-"Dëse Beispilltext illustréiert déi momentan Astellungen. Dir kënnt ë veränneren "
+"Dëse Beispilltext illustréiert déi momentan Astellungen. Dir kënnt e veränneren "
 "fir d'Duerstellung vu speziellen Zeechen ze kucken."
 
 #: kdeui/kfontdialog.cpp:313 kdeui/kfontdialog.cpp:323
@@ -5304,7 +5264,7 @@ msgstr "Fro"
 #: kdeui/kmessagebox.cpp:575 kdeui/kmessagebox.cpp:647
 #: kdeui/kmessagebox.cpp:723
 msgid "Do not ask again"
-msgstr "Nët méi froën"
+msgstr "Net méi froën"
 
 #: kdeui/kaboutdialog.cpp:1533 kdeui/khelpmenu.cpp:213
 #: kdeui/kmessagebox.cpp:975
@@ -5350,7 +5310,7 @@ msgstr ""
 "href=\"http://www.gnu.org/philosophy/free-sw.html\">fräier Software</a> "
 "verschriwwen hun."
 "<br>"
-"<br>De Quellcode gët weder vun enger Firma kontrolléiert, nach vun enger "
+"<br>De Quellcode gëtt weder vun enger Firma kontrolléiert, nach vun enger "
 "Organisatioun. Jidfereen ass ageluede fir matzemaachen."
 "<br>"
 "<br>Gitt op <A HREF=\"http://www.kde.org/\">http://www.kde.org</A> "
@@ -5372,14 +5332,14 @@ msgid ""
 msgstr ""
 "Software kann ëmmer verbessert ginn, an d'Team vu KDE ass prett fir dorunn ze "
 "schaffen. Trotzdem sidd dir - de Benotzer - wichtëg, fir eis besched ze soën, "
-"wann eppes nët sou klappt wéi ët soll."
+"wann eppes net sou klappt wéi et soll."
 "<br>"
-"<br>Am KDE ass ë System fir Problemer ze verfollëgen. Gitt op <A "
+"<br>Am KDE ass e System fir Problemer ze verfollëgen. Gitt op <A "
 "HREF=\"http://bugs.kde.org/\">http://bugs.kde.org</A> "
-"oder benotzt den \"Ë Käfer mellen\"-Dialog am \"Hëllef\"-Menu fir Käferen zë "
+"oder benotzt den \"E Käfer mellen\"-Dialog am \"Hëllef\"-Menu fir Käferen ze "
 "mellen."
 "<br>"
-"<br>Wann dir ë Verbesserungsvirschlag hutt, kënnt dir de System fir "
+"<br>Wann dir e Verbesserungsvirschlag hutt, kënnt dir de System fir "
 "d'Verfollëgung vu Feelere benotzen fir do äre Wonsch z'äusseren. Vergewëssert "
 "iech just, dass dir ënnert \"Gravitéit\" d'Auswiel \"Wonsch\" trefft."
 
@@ -5425,7 +5385,7 @@ msgid ""
 "<br>"
 "<br>Thank you very much in advance for your support."
 msgstr ""
-"KDE ass gratis fir seng Benotzer, mais nët fir d'Auteuren."
+"KDE ass gratis fir seng Benotzer, mais net fir d'Auteuren."
 "<br>"
 "<br>Dofir huet d'Team vu KDE zu Tübingen d'KDE e.V. gegrënnt. KDE e.V. "
 "repräsentéiert de Projekt am juristëschen an am finanzielle Beräich. Gitt op <a "
@@ -5433,7 +5393,7 @@ msgstr ""
 "fir iech iwwert de KDE e.V. z'informéieren."
 "<br>"
 "<br>D'KDE-Team brauch finanziell Ënnerstëtzung. Dee gréissten Deel vun de Suën "
-"gët fir d'Käschte vun de Membere gebraucht, déi wärend hirer Contributioun zu "
+"gëtt fir d'Käschte vun de Membere gebraucht, déi wärend hirer Contributioun zu "
 "KDE entstane sinn. Hëlleft och dir w.e.g. mat engem klengen Don. Ënnert <a "
 "href=\"http://www.kde.org/support/\">http://www.kde.org/support/</a>"
 "kritt dir gewise, wéi dat geet."
@@ -5476,8 +5436,7 @@ msgid "Discard changes"
 msgstr "Ännerunge verwerfen"
 
 #: kdeui/kstdguiitem.cpp:121
-msgid ""
-"Pressing this button will discard all recent changes made in this dialog"
+msgid "Pressing this button will discard all recent changes made in this dialog"
 msgstr "Dréckt dëse Knäppche fir d'Ännerungen ze verwerfen"
 
 #: kdeui/kstdguiitem.cpp:127
@@ -5486,11 +5445,11 @@ msgstr "Date späicheren"
 
 #: kdeui/kstdguiitem.cpp:132
 msgid "&Do Not Save"
-msgstr "&Nët Späicheren"
+msgstr "&Net Späicheren"
 
 #: kdeui/kstdguiitem.cpp:133
 msgid "Don't save data"
-msgstr "Daten nët späicheren"
+msgstr "Daten net späicheren"
 
 #: kdeui/kstdaction_p.h:44 kdeui/kstdguiitem.cpp:138
 msgid "Save &As..."
@@ -5718,7 +5677,7 @@ msgid ""
 "help us and  describe the widget, you are welcome to <a "
 "href=\"submit-whatsthis\">send us \"What's This\" help</a> for it."
 msgstr ""
-"<b>Nët definéiert</b>"
+"<b>Net definéiert</b>"
 "<br>Keng passend \"Wat ass dat\"-Hëllef fonnt. Wann dir eis hëllefe wëllt an "
 "dat Element beschreiwe wëllt, kënnt dir eis <a href=\"submit-whatsthis\">"
 "eng \"Wat ass dat\"-Hëllef</a> schécken."
@@ -5778,10 +5737,8 @@ msgid "Change &Icon..."
 msgstr "&Symbol änneren..."
 
 #: kdeui/kedittoolbar.cpp:991
-msgid ""
-"This element will be replaced with all the elements of an embedded component."
-msgstr ""
-"Dësst Element gët duerch all Elementer vun enger agebetter Komponent ersat."
+msgid "This element will be replaced with all the elements of an embedded component."
+msgstr "Dësst Element gëtt duerch all Elementer vun enger agebetter Komponent ersat."
 
 #: kdeui/kedittoolbar.cpp:993
 msgid "<Merge>"
@@ -5796,8 +5753,8 @@ msgid ""
 "This is a dynamic list of actions. You can move it, but if you remove it you "
 "won't be able to re-add it."
 msgstr ""
-"Dat hei ass eng dynamësch Lëscht vun Aktiounen. Dir kënn së réckelen, mais wann "
-"dir së läscht, kënnt dir së nët méi zeréckhuelen."
+"Dat hei ass eng dynamësch Lëscht vun Aktiounen. Dir kënn se réckelen, mais wann "
+"dir se läscht, kënnt dir se net méi zeréckhuelen."
 
 #: kdeui/kedittoolbar.cpp:1002
 #, c-format
@@ -5849,7 +5806,7 @@ msgid ""
 "Unable to read X11 RGB color strings. The following file location(s) were "
 "examined:\n"
 msgstr ""
-"Konnt d'X11-RGB-Faarfstringen nët liesen. Di folgend\n"
+"Konnt d'X11-RGB-Faarfstringen net liesen. Déi folgend\n"
 "Späicherplaze sinn durchsicht ginn:\n"
 
 #: kdeui/kcolordialog.cpp:938
@@ -5908,7 +5865,7 @@ msgstr "&Ufank"
 
 #: kdeui/kstdaction.cpp:238
 msgid "Show Menubar<p>Shows the menubar again after it has been hidden"
-msgstr "Menübar weisen<p>Weist d'Menübar nees un, nodeems së verstoppt gi war"
+msgstr "Menübar weisen<p>Weist d'Menübar nees un, nodeems se verstoppt gi war"
 
 #: kdeui/kstdaction.cpp:240
 msgid "Hide &Menubar"
@@ -5921,8 +5878,8 @@ msgid ""
 "inside the window itself."
 msgstr ""
 "Menübar verstoppen"
-"<p>D'Menübar verstoppen. Dir kënnt së zeréckhuelen, wann dir an der Fënster "
-"selwer di riets Maustast klickt."
+"<p>D'Menübar verstoppen. Dir kënnt se zeréckhuelen, wann dir an der Fënster "
+"selwer déi riets Maustast klickt."
 
 #: kdeui/kstdaction.cpp:272 kdeui/kstdaction_p.h:97
 msgid "Show St&atusbar"
@@ -5935,7 +5892,7 @@ msgid ""
 "status information."
 msgstr ""
 "Statusbar weisen"
-"<p>Weist d'Statusbar. Dat ass di Leescht ënnen an der Fënster fir "
+"<p>Weist d'Statusbar. Dat ass déi Leescht ënnen an der Fënster fir "
 "d'Statusinformatiounen."
 
 #: kdeui/kstdaction.cpp:276
@@ -5949,7 +5906,7 @@ msgid ""
 "status information."
 msgstr ""
 "Statusbar verstoppen"
-"<p>Verstoppt d'Statusbar. Dat ass di Leescht ënnen an der Fënster fir "
+"<p>Verstoppt d'Statusbar. Dat ass déi Leescht ënnen an der Fënster fir "
 "d'Statusinformatiounen."
 
 #: kdeui/kpassdlg.cpp:370
@@ -5976,7 +5933,7 @@ msgid ""
 " - using a mixture of upper- and lower-case letters;\n"
 " - using numbers or symbols, such as #, as well as letters."
 msgstr ""
-"De Passwuert-Sëcherheetsmeter gët ën Hinweis iwwert d'Sëcherheet vun deem "
+"De Passwuert-Sëcherheetsmeter gëtt ën Hinweis iwwert d'Sëcherheet vun deem "
 "Passwuert, dat dir lo grad agin hutt.  Fir är Passwierder méi sëcher ze "
 "maachen, probéiert:\n"
 " - méi ee laangt Passwuert;\n"
@@ -5989,8 +5946,7 @@ msgstr "Passwierder si verschidden"
 
 #: kdeui/kpassdlg.cpp:513
 msgid "You entered two different passwords. Please try again."
-msgstr ""
-"Dir hutt zwee verschidde Passwierder agin. Probéiert w.e.g. nach eng Kéier."
+msgstr "Dir hutt zwee verschidde Passwierder agin. Probéiert w.e.g. nach eng Kéier."
 
 #: kdeui/kpassdlg.cpp:520
 msgid ""
@@ -6002,7 +5958,7 @@ msgid ""
 "\n"
 "Would you like to use this password anyway?"
 msgstr ""
-"Dat Passwuert, dat dir agin hutt, ass nët ganz sëcher. Fir är Passwierder méi "
+"Dat Passwuert, dat dir agin hutt, ass net ganz sëcher. Fir är Passwierder méi "
 "sëcher ze maachen, probéiert:\n"
 " - méi ee laangt Passwuert;\n"
 " - eng Mëschung aus grouss- a klenggeschriwwene Bustawen;\n"
@@ -6103,14 +6059,13 @@ msgstr "&Erofréckelen"
 
 #: kdeui/kbugreport.cpp:70
 msgid "Submit Bug Report"
-msgstr "Ë Käfer mellen"
+msgstr "E Käfer mellen"
 
 #: kdeui/kbugreport.cpp:110
-msgid ""
-"Your email address. If incorrect, use the Configure Email button to change it"
+msgid "Your email address. If incorrect, use the Configure Email button to change it"
 msgstr ""
-"Är E-Mail-Adress. Wa së falsch ass, dréckt op den \"E-Mail "
-"configuréieren\"-Knäppche fir së z'änneren"
+"Är E-Mail-Adress. Wa se falsch ass, dréckt op den \"E-Mail "
+"configuréieren\"-Knäppche fir se z'änneren"
 
 #: kdeui/kbugreport.cpp:111
 msgid "From:"
@@ -6212,7 +6167,7 @@ msgid ""
 msgstr ""
 "Gitt hei den Text an (wa méiglech op Englësch), deen dir als Bericht aschécke "
 "wëllt.\n"
-"Wann dir op \"Fortschécken\" klickt, gët eng E-Mail un de Verwalter vun dësem "
+"Wann dir op \"Fortschécken\" klickt, gëtt eng E-Mail un de Verwalter vun dësem "
 "Programm geschéckt.\n"
 
 #: kdeui/kbugreport.cpp:252
@@ -6223,10 +6178,10 @@ msgid ""
 "The information displayed above will be transferred to that server."
 msgstr ""
 "Fir e Käfer ze mellen, klickt op dee Knäppchen hei drënner.\n"
-"Eng Fënster vun ärem Web-Browser gët op der Säit http://bugs.kde.org "
+"Eng Fënster vun ärem Web-Browser gëtt op der Säit http://bugs.kde.org "
 "opgemaach,\n"
-"wou dir ë Formular ausfëlle kënnt.\n"
-"D'Informatioun hei driwwer gët op de Server geschéckt."
+"wou dir e Formular ausfëlle kënnt.\n"
+"D'Informatioun hei driwwer gëtt op de Server geschéckt."
 
 #: kdeui/kbugreport.cpp:260
 msgid "&Launch Bug Report Wizard"
@@ -6243,7 +6198,7 @@ msgid ""
 "You must specify both a subject and a description before the report can be "
 "sent."
 msgstr ""
-"Dir musst ë Betreff an eng Beschreiwung ugin, éier dir de Bericht verschécke "
+"Dir musst e Betreff an eng Beschreiwung ugin, éier dir de Bericht verschécke "
 "kënnt."
 
 #: kdeui/kbugreport.cpp:386
@@ -6263,7 +6218,7 @@ msgstr ""
 "<ul>"
 "<li>aner Software oder de ganze System mat ofstierze loossen</li>"
 "<li>fir ën erhiefleche Verloscht vun Date verantwortlech sinn</li>"
-"<li>ë serieut Sëcherheetslaach am System, wou dat infizéiert Pakéit "
+"<li>e serieut Sëcherheetslaach am System, wou dat infizéiert Pakéit "
 "installéiert ass, provozéieren</li></ul>\n"
 "<p>Erfëllt äre Käfer ee vun deene Critèren? Falls nët, wielt w.e.g. méi eng "
 "schwaach Gravitéit aus. Merci.</p>"
@@ -6286,7 +6241,7 @@ msgstr ""
 "<li>dat a Fro kommend Pakéit gréisstendeels oder vollstänneg onbrauchbar "
 "mëcht</li>"
 "<li>fir de Verloscht vun Date verantwortlech sinn</li>"
-"<li>ë Sëcherheetslaach am System provozéieren, dat den Zougaang zu de "
+"<li>e Sëcherheetslaach am System provozéieren, dat den Zougaang zu de "
 "Benotzer-Accounte fräigëtt</li></ul>\n"
 "<p>Erfëllt äre Käfer ee vun deene Critèren? Falls nët, wielt w.e.g. méi eng "
 "schwaach Gravitéit aus. Merci.</p>"
@@ -6297,7 +6252,7 @@ msgid ""
 "Please submit a bug report manually...\n"
 "See http://bugs.kde.org/ for instructions."
 msgstr ""
-"Konnt de Bericht nët fortschécken.\n"
+"Konnt de Bericht net fortschécken.\n"
 "Mellt äre Käfer w.e.g. manuell...\n"
 "Gitt op http://bugs.kde.org/ fir Uweisungen."
 
@@ -6378,7 +6333,7 @@ msgstr "Wat ass &dat"
 
 #: kdeui/khelpmenu.cpp:145 kdeui/kstdaction_p.h:111
 msgid "&Report Bug..."
-msgstr "Ë Käfer &mellen..."
+msgstr "E Käfer &mellen..."
 
 #: kdeui/khelpmenu.cpp:156 kdeui/kstdaction_p.h:112
 #, c-format
@@ -6420,10 +6375,8 @@ msgid "Tip of the Day"
 msgstr "Rotschlag vum Dag"
 
 #: kdeui/ktip.cpp:224
-msgid ""
-"Did you know...?\n"
-msgstr ""
-"Wousst dir schonn...?\n"
+msgid "Did you know...?\n"
+msgstr "Wousst dir schonn...?\n"
 
 #: kdeui/ktip.cpp:287
 msgid "&Show tips on startup"
@@ -6772,10 +6725,9 @@ msgid "Add URL to Filter"
 msgstr "URL bei de Filter dobäimaachen"
 
 #: khtml/khtml_ext.cpp:823
-msgid ""
-"A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
-"Eng Datei mam Numm \"%1\" gëtt ët schonn. Sidd dir sëcher, dass dir së "
+"Eng Datei mam Numm \"%1\" gëtt et schonn. Sidd dir sëcher, dass dir se "
 "iwwerschreiwe wëllt?"
 
 #: khtml/khtml_ext.cpp:823
@@ -6784,7 +6736,7 @@ msgstr "Datei iwwerschreiwen?"
 
 #: khtml/khtml_ext.cpp:884 kparts/browserrun.cpp:385
 msgid "The Download Manager (%1) could not be found in your $PATH "
-msgstr "Den Download-Manager (%1) konnt an ärem PATH nët fonnt ginn "
+msgstr "Den Download-Manager (%1) konnt an ärem PATH net fonnt ginn "
 
 #: khtml/khtml_ext.cpp:885 kparts/browserrun.cpp:386
 msgid ""
@@ -6792,9 +6744,9 @@ msgid ""
 "\n"
 "The integration with Konqueror will be disabled!"
 msgstr ""
-"Probéiert, ët nach eng Kéier z'installéieren  \n"
+"Probéiert, et nach eng Kéier z'installéieren  \n"
 "\n"
-"D'Integratioun an de Konqueror gët ofgeschalt!"
+"D'Integratioun an de Konqueror gëtt ofgeschalt!"
 
 #: khtml/khtml_ext.cpp:978
 #, no-c-format
@@ -6820,7 +6772,7 @@ msgstr ""
 "<p><strong>'Biller drécken'</strong></p>"
 "<p>Wann dësst Haische markéiert ass, ginn d'Biller op der HTML-Säit gedréckt. "
 "Den Drockvirgang kéint méi laang daueren a méi Tënt oder Toner verbrauchen.</p>"
-"<p>Wann dësst Haischen nët markéiert ass, gët just den Text vun der HTML-Säit "
+"<p>Wann dësst Haischen net markéiert ass, gëtt just den Text vun der HTML-Säit "
 "gedréckt, ouni d'Biller. Den Dockvirgang ass da méi schnell a verbrauch manner "
 "Tënt oder Toner.</p> </qt>"
 
@@ -6836,10 +6788,10 @@ msgid ""
 msgstr ""
 "<qt>"
 "<p><strong>'Header drécken'</strong></p>"
-"<p>Wann dësst Haische markéiert ass, gët ën Header vun enger Zeil uewen op all "
+"<p>Wann dësst Haische markéiert ass, gëtt ën Header vun enger Zeil uewen op all "
 "Säit matgedréckt. Dësen Header enthält den aktuellen Datum, d'URL vun der Säit, "
-"déi gedréckt gët an d'Nummer vun der Säit.</p>"
-"<p>Wann dësst Haischen nët markéiert ass, gët d'HTML-Säit ouni esou een Header "
+"déi gedréckt gëtt an d'Nummer vun der Säit.</p>"
+"<p>Wann dësst Haischen net markéiert ass, gëtt d'HTML-Säit ouni esou een Header "
 "gedréckt.</p> </qt>"
 
 #: khtml/khtml_printsettings.cpp:56
@@ -6857,10 +6809,10 @@ msgid ""
 msgstr ""
 "<qt>"
 "<p><strong>'Dréckerfrëndleche Modus'</strong></p>"
-"<p>Wann dësst Haische markéiert ass, gët d'HTML-Säit schwaarz-wäiss gedréckt. "
+"<p>Wann dësst Haische markéiert ass, gëtt d'HTML-Säit schwaarz-wäiss gedréckt. "
 "Den Dockvirgang ass da méi schnell a verbrauch manner Tënt oder Toner.</p>"
-"<p>Wann dësst Haischen nët markéiert ass, gët d'Säit esou faarwëg gedréckt, wéi "
-"dir së um Bildschirm gesitt. Den Drockvirgang kéint da méi laang daueren a "
+"<p>Wann dësst Haischen net markéiert ass, gëtt d'Säit esou faarwëg gedréckt, wéi "
+"dir se um Bildschirm gesitt. Den Drockvirgang kéint da méi laang daueren a "
 "wäert sëcher méi Tënt oder Toner verbrauchen.</p> </qt>"
 
 #: khtml/khtml_printsettings.cpp:71
@@ -6955,7 +6907,7 @@ msgid ""
 msgstr ""
 "Schrëft vergréisseren"
 "<p>D'Schrëft an dëser Fënster méi grouss maachen. Klickt op d'Maustast an haalt "
-"së un, fir ë Menü mat all de méigleche Schrëftgréissten ze gesin."
+"se un, fir e Menü mat all de méigleche Schrëftgréissten ze gesin."
 
 #: khtml/khtml_part.cpp:366
 msgid "Shrink Font"
@@ -6969,7 +6921,7 @@ msgid ""
 msgstr ""
 "Schrëft verklengeren"
 "<p>D'Schrëft an dëser Fënster méi kleng maachen. Klickt op d'Maustast an haalt "
-"së un, fir ë Menü mat all de méigleche Schrëftgréissten ze gesin."
+"se un, fir e Menü mat all de méigleche Schrëftgréissten ze gesin."
 
 #: khtml/khtml_part.cpp:374
 msgid ""
@@ -7023,7 +6975,7 @@ msgstr "Caret-Modus un/aus"
 
 #: khtml/khtml_part.cpp:617
 msgid "The fake user-agent '%1' is in use."
-msgstr "Dee geschmuggelte User-Agent '%1' gët benotzt."
+msgstr "Dee geschmuggelte User-Agent '%1' gëtt benotzt."
 
 #: khtml/khtml_part.cpp:1080
 msgid "This web page contains coding errors."
@@ -7051,11 +7003,11 @@ msgstr "D'Biller op dëser Säit weisen"
 
 #: khtml/khtml_part.cpp:1538 khtml/khtml_part.cpp:1629
 msgid "Session is secured with %1 bit %2."
-msgstr "Di aktuell Verbindung ass ofgesëchert duerch %1 bit %2."
+msgstr "Déi aktuell Verbindung ass ofgesëchert duerch %1 bit %2."
 
 #: khtml/khtml_part.cpp:1539 khtml/khtml_part.cpp:1631
 msgid "Session is not secured."
-msgstr "Di aktuell Verbindung ass nët ofgesëchert."
+msgstr "Déi aktuell Verbindung ass net ofgesëchert."
 
 #: khtml/khtml_part.cpp:1718
 #, c-format
@@ -7072,7 +7024,7 @@ msgstr "Feeler: "
 
 #: khtml/khtml_part.cpp:1758
 msgid "The requested operation could not be completed"
-msgstr "Déi gewënschten Operatioun konnt nët duerchgefouert ginn"
+msgstr "Déi gewënschten Operatioun konnt net duerchgefouert ginn"
 
 #: khtml/khtml_part.cpp:1764
 msgid "Technical Reason: "
@@ -7167,7 +7119,7 @@ msgid ""
 "<qt>This untrusted page links to<BR><B>%1</B>.<BR>Do you want to follow the "
 "link?"
 msgstr ""
-"<qt>Dëss Säit ass als \"nët sëcher\" agestuft ginn an enthält de Link <BR><B>"
+"<qt>Dëss Säit ass als \"net sëcher\" agestuft ginn an enthält de Link <BR><B>"
 "%1</B>.</BR>Wëllt dir déi Adress opruffen?"
 
 #: khtml/khtml_part.cpp:3918
@@ -7201,7 +7153,7 @@ msgid ""
 "A third party may be able to intercept and view this information.\n"
 "Are you sure you wish to continue?"
 msgstr ""
-"Warnung:  Dësst ass ë sëchere Formular, mais ë versicht, är Daten "
+"Warnung:  Dësst ass e sëchere Formular, mais e versicht, är Daten "
 "onverschlësselt ze verschécken.\n"
 "Een Drëtte kéint dëss Informatioun offänken a kucken.\n"
 "Wëllt dir sëcher weiderfueren?"
@@ -7240,7 +7192,7 @@ msgid ""
 "<qt>The form will be submitted to <BR><B>%1</B><BR>on your local filesystem.<BR>"
 "Do you want to submit the form?"
 msgstr ""
-"<qt>De Formular gët no<BR><B>%1</B><BR>op ärem lokalen Dateiesystem verschéckt "
+"<qt>De Formular gëtt no<BR><B>%1</B><BR>op ärem lokalen Dateiesystem verschéckt "
 "gin.<BR>Wëllt dir de Formular ofsenden?"
 
 #: khtml/html/html_formimpl.cpp:1479 khtml/html/html_formimpl.cpp:1995
@@ -7271,7 +7223,7 @@ msgstr "Sëcherheetswarnung"
 #: khtml/khtml_part.cpp:6821
 msgid "<qt>Access by untrusted page to<BR><B>%1</B><BR> denied."
 msgstr ""
-"<qt>Zougang op<BR><B>%1</B><BR>duerch eng Säit, déi als nët sëcher ugesinn ass, "
+"<qt>Zougang op<BR><B>%1</B><BR>duerch eng Säit, déi als net sëcher ugesinn ass, "
 "verweigert."
 
 #: khtml/java/kjavaappletserver.cpp:784 khtml/khtml_part.cpp:6822
@@ -7281,7 +7233,7 @@ msgstr "Sëcherheetsnoricht"
 #: khtml/khtml_part.cpp:7247
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr ""
-"Den digitale Portemonnaie '%1' ass op a gët fir Formularer a Passwierder "
+"Den digitale Portemonnaie '%1' ass op a gëtt fir Formularer a Passwierder "
 "benotzt."
 
 #: khtml/khtml_part.cpp:7301
@@ -7294,8 +7246,7 @@ msgstr "JavaScript-&Debugger"
 
 #: khtml/khtml_part.cpp:7379
 msgid "This page was prevented from opening a new window via JavaScript."
-msgstr ""
-"Dëss Säit ass dovun ofgehal ginn, mat JavaScript eng nei fënster opzemaachen."
+msgstr "Dëss Säit ass dovun ofgehal ginn, mat JavaScript eng nei fënster opzemaachen."
 
 #: khtml/khtml_part.cpp:7385
 msgid "Popup Window Blocked"
@@ -7346,7 +7297,7 @@ msgstr "Link fonnt: \"%1\"."
 
 #: khtml/khtmlview.cpp:1624
 msgid "Link not found: \"%1\"."
-msgstr "Link nët fonnt: \"%1\"."
+msgstr "Link net fonnt: \"%1\"."
 
 #: khtml/khtmlview.cpp:1632
 msgid "Text found: \"%1\"."
@@ -7354,7 +7305,7 @@ msgstr "Text fonnt: \"%1\"."
 
 #: khtml/khtmlview.cpp:1637
 msgid "Text not found: \"%1\"."
-msgstr "Text nët fonnt: \"%1\"."
+msgstr "Text net fonnt: \"%1\"."
 
 #: khtml/khtmlview.cpp:1681
 msgid "Access Keys activated"
@@ -7395,7 +7346,7 @@ msgstr "JavaScript-Feeler"
 
 #: khtml/ecma/kjs_debugwin.cpp:305
 msgid "&Do not show this message again"
-msgstr "&Dëss Noricht nët méi weisen"
+msgstr "&Dëss Noricht net méi weisen"
 
 #: khtml/ecma/kjs_debugwin.cpp:369
 msgid "JavaScript Debugger"
@@ -7448,7 +7399,7 @@ msgid ""
 "\n"
 "%1"
 msgstr ""
-"E Feeler ass beim Versuch, ë Script op dëser Säit lafen ze loossen, "
+"E Feeler ass beim Versuch, e Script op dëser Säit lafen ze loossen, "
 "opgetrueden.\n"
 "\n"
 "%1"
@@ -7460,7 +7411,7 @@ msgid ""
 "%1 line %2:\n"
 "%3"
 msgstr ""
-"E Feeler ass beim Versuch, ë Script op dëser Säit lafen ze loossen, "
+"E Feeler ass beim Versuch, e Script op dëser Säit lafen ze loossen, "
 "opgetrueden.\n"
 "\n"
 "%1, Zeil %2:\n"
@@ -7494,7 +7445,7 @@ msgstr "Erlaben"
 
 #: khtml/ecma/kjs_html.cpp:2172 khtml/ecma/kjs_window.cpp:1363
 msgid "Do Not Allow"
-msgstr "Nët erlaben"
+msgstr "Net erlaben"
 
 #: khtml/ecma/kjs_window.cpp:1641
 msgid "Close window?"
@@ -7508,22 +7459,21 @@ msgstr "Bestätegung noutwendeg"
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
-msgstr "Wëllt dir ë Lieszeeche fir \"%1\" an är Sammlung dobäimaachen?"
+msgstr "Wëllt dir e Lieszeeche fir \"%1\" an är Sammlung dobäimaachen?"
 
 #: khtml/ecma/kjs_window.cpp:2419
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
 "added to your collection?"
-msgstr ""
-"Wëllt dir ë Lieszeeche mam Numm \"%2\" fir \"%1\" an är Sammlung dobäimaachen?"
+msgstr "Wëllt dir e Lieszeeche mam Numm \"%2\" fir \"%1\" an är Sammlung dobäimaachen?"
 
 #: khtml/ecma/kjs_window.cpp:2427
 msgid "JavaScript Attempted Bookmark Insert"
-msgstr "JavaScript huet probéiert, ë Lieszeechen dobäizemaachen"
+msgstr "JavaScript huet probéiert, e Lieszeechen dobäizemaachen"
 
 #: khtml/ecma/kjs_window.cpp:2431
 msgid "Disallow"
-msgstr "Nët zouloossen"
+msgstr "Net zouloossen"
 
 #: khtml/ecma/kjs_proxy.cpp:387
 msgid ""
@@ -7531,7 +7481,7 @@ msgid ""
 "applications may become less responsive.\n"
 "Do you want to abort the script?"
 msgstr ""
-"Ë Script op dëser Säit fréiert de KHTML an. Wann d'Ausféierung fortgesat gët, "
+"E Script op dëser Säit fréiert de KHTML an. Wann d'Ausféierung fortgesat gët, "
 "gin eventuell och aner Programmer mat abezunn.\n"
 "Wëllt dir d'Ausféierung vum Script ofbriechen?"
 
@@ -7549,7 +7499,7 @@ msgid ""
 "JavaScript.\n"
 "Do you want to allow the form to be submitted?"
 msgstr ""
-"Dëss Säit probéiert, ë Formular ofzeschécken, deen iwwer JavaScript eng nei "
+"Dëss Säit probéiert, e Formular ofzeschécken, deen iwwer JavaScript eng nei "
 "Fënster opmëcht.\n"
 "Wëllt dir dat zouloossen?"
 
@@ -7559,7 +7509,7 @@ msgid ""
 "<p>%1</p> in a new browser window via JavaScript.<br />"
 "Do you want to allow the form to be submitted?</qt>"
 msgstr ""
-"<qt>Dëss Säit probéiert, ë Formular ofzeschécken, deen iwwer JavaScript "
+"<qt>Dëss Säit probéiert, e Formular ofzeschécken, deen iwwer JavaScript "
 "<p>%1</p> an enger neier Fënster opmëcht."
 "<br/>Wëllt dir dat zouloossen?</qt>"
 
@@ -7572,7 +7522,7 @@ msgid ""
 "The following files will not be uploaded because they could not be found.\n"
 "Do you want to continue?"
 msgstr ""
-"Di folgend Dateie ginn nët eroppgeluede well si nët fonnt gi sinn.\n"
+"Déi folgend Dateie ginn net eroppgeluede well si net fonnt gi sinn.\n"
 "Wëllt dir weiderfueren?"
 
 #: khtml/html/html_formimpl.cpp:354
@@ -7615,7 +7565,7 @@ msgstr "Nie fir &dëss Säit"
 
 #: khtml/html/html_formimpl.cpp:610
 msgid "Do Not Store"
-msgstr "Nët späicheren"
+msgstr "Net späicheren"
 
 #: khtml/html/html_formimpl.cpp:615
 msgid ""
@@ -7625,7 +7575,7 @@ msgid ""
 msgstr ""
 "De Konqueror kann ärt Passwuert an engem verschlësselte Portemonnaie "
 "späicheren. Wann de Portemonnaie opgespaart gët, kann ën automatësch "
-"d'Umeldungsinformatioun fir dëss Säit opruffen, wann dir së fir d'nächst Kéier "
+"d'Umeldungsinformatioun fir dëss Säit opruffen, wann dir se fir d'nächst Kéier "
 "besicht. Wëllt dir d'Informatioun elo späicheren?"
 
 #: khtml/html/html_formimpl.cpp:620
@@ -7665,11 +7615,11 @@ msgstr "KDE-Plugin fir Java-Miniprogrammer"
 
 #: khtml/java/kjavaapplet.cpp:225
 msgid "Initializing Applet \"%1\"..."
-msgstr "Miniprogramm \"%1\" gët initialiséiert..."
+msgstr "Miniprogramm \"%1\" gëtt initialiséiert..."
 
 #: khtml/java/kjavaapplet.cpp:232
 msgid "Starting Applet \"%1\"..."
-msgstr "Miniprogramm \"%1\" gët gestart..."
+msgstr "Miniprogramm \"%1\" gëtt gestart..."
 
 #: khtml/java/kjavaapplet.cpp:239
 msgid "Applet \"%1\" started"
@@ -7685,7 +7635,7 @@ msgstr "Amgaang, de Miniprogramm ze lueden"
 
 #: khtml/java/kjavaappletserver.cpp:149
 msgid "Error: java executable not found"
-msgstr "Feeler: Java-Programm nët fonnt"
+msgstr "Feeler: Java-Programm net fonnt"
 
 #: khtml/java/kjavaappletserver.cpp:633
 msgid "Signed by (validation: "
@@ -7733,7 +7683,7 @@ msgstr "Zeréckgezunn"
 
 #: khtml/java/kjavaappletserver.cpp:656
 msgid "Untrusted"
-msgstr "Nët als sëcher agestuft"
+msgstr "Net als sëcher agestuft"
 
 #: khtml/java/kjavaappletserver.cpp:658
 msgid "SignatureFailed"
@@ -7761,7 +7711,7 @@ msgstr "Java-Miniprogramm mat Zertifikaten zouloossen:"
 
 #: khtml/java/kjavaappletserver.cpp:790
 msgid "the following permission"
-msgstr "di folgend Zouloossungskriterien"
+msgstr "déi folgend Zouloossungskriterien"
 
 #: khtml/java/kjavaappletserver.cpp:801
 msgid "&Reject All"
@@ -7801,7 +7751,7 @@ msgstr "Eroflueden"
 
 #: khtml/rendering/render_frames.cpp:824
 msgid "Do Not Download"
-msgstr "Nët eroflueden"
+msgstr "Net eroflueden"
 
 #: kinit/kinit.cpp:440
 msgid ""
@@ -7809,7 +7759,7 @@ msgid ""
 "The system may have reached the maximum number of open files possible or the "
 "maximum number of open files that you are allowed to use has been reached."
 msgstr ""
-"Kann deen neie Prozess nët starten.\n"
+"Kann deen neie Prozess net starten.\n"
 "Déi maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn oder déi vun iech "
 "agestallte maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn."
 
@@ -7825,14 +7775,14 @@ msgstr ""
 
 #: kinit/kinit.cpp:553
 msgid "Could not find '%1' executable."
-msgstr "Konnt de Programm '%1' nët fannen."
+msgstr "Konnt de Programm '%1' net fannen."
 
 #: kinit/kinit.cpp:569
 msgid ""
 "Could not open library '%1'.\n"
 "%2"
 msgstr ""
-"Konnt d'Bibliothéik '%1' nët opmaachen.\n"
+"Konnt d'Bibliothéik '%1' net opmaachen.\n"
 "%2"
 
 #: kinit/kinit.cpp:570 kinit/kinit.cpp:613
@@ -7844,7 +7794,7 @@ msgid ""
 "Could not find 'kdemain' in '%1'.\n"
 "%2"
 msgstr ""
-"Konnt de 'kdemain' am '%1' nët fannen.\n"
+"Konnt de 'kdemain' am '%1' net fannen.\n"
 "%2"
 
 #: kinit/klauncher_main.cpp:52
@@ -7852,16 +7802,16 @@ msgid ""
 "klauncher: This program is not supposed to be started manually.\n"
 "klauncher: It is started automatically by kdeinit.\n"
 msgstr ""
-"KLauncher: Dëse Programm sollt am Fong nët manuell gestart ginn.\n"
-"Ë gët vu kdeinit automatësch opgeruff.\n"
+"KLauncher: Dëse Programm sollt am Fong net manuell gestart ginn.\n"
+"E gëtt vu kdeinit automatësch opgeruff.\n"
 
 #: kinit/klauncher.cpp:725
 msgid "KDEInit could not launch '%1'."
-msgstr "KDEInit konnt '%1' nët starten."
+msgstr "KDEInit konnt '%1' net starten."
 
 #: kinit/klauncher.cpp:900 kinit/klauncher.cpp:925 kinit/klauncher.cpp:942
 msgid "Could not find service '%1'."
-msgstr "Konnt de Service '%1' nët fannen."
+msgstr "Konnt de Service '%1' net fannen."
 
 #: kinit/klauncher.cpp:957 kinit/klauncher.cpp:993
 msgid "Service '%1' is malformatted."
@@ -7870,19 +7820,15 @@ msgstr "De Service '%1' huet ën ongültege Format."
 #: kinit/klauncher.cpp:1069
 #, c-format
 msgid "Launching %1"
-msgstr "%1 gët gestart"
+msgstr "%1 gëtt gestart"
 
 #: kinit/klauncher.cpp:1263
-msgid ""
-"Unknown protocol '%1'.\n"
-msgstr ""
-"Onbekannte Protokoll '%1'.\n"
+msgid "Unknown protocol '%1'.\n"
+msgstr "Onbekannte Protokoll '%1'.\n"
 
 #: kinit/klauncher.cpp:1316
-msgid ""
-"Error loading '%1'.\n"
-msgstr ""
-"Feeler beim Luede vun '%1'.\n"
+msgid "Error loading '%1'.\n"
+msgstr "Feeler beim Luede vun '%1'.\n"
 
 #: kconf_update/kconf_update.cpp:43
 msgid "Keep output results from scripts"
@@ -7914,8 +7860,7 @@ msgstr "KSpell2-Configuratioun"
 
 #: kdewidgets/makekdewidgets.cpp:15
 msgid "Builds Qt widget plugins from an ini style description file."
-msgstr ""
-"Baut Qt-Widget-Pluginen aus enger \"ini\"-ähnlecher Beschreiwungsdatei."
+msgstr "Baut Qt-Widget-Pluginen aus enger \"ini\"-ähnlecher Beschreiwungsdatei."
 
 #: kdewidgets/makekdewidgets.cpp:113
 msgid "Output file"
@@ -7963,8 +7908,7 @@ msgstr ""
 
 #: kunittest/modrunner.cpp:42
 msgid "Only run modules whose filenames match the regexp."
-msgstr ""
-"Nëmmen déi Moduler lafe loossen, déi deem reguläre Muster entspriechen."
+msgstr "Nëmmen déi Moduler lafe loossen, déi deem reguläre Muster entspriechen."
 
 #: kunittest/modrunner.cpp:43
 msgid ""
@@ -7975,8 +7919,7 @@ msgstr ""
 "d'Optioun 'query' fir d'Moduler auszewielen."
 
 #: kunittest/modrunner.cpp:44
-msgid ""
-"Disables debug capturing. You typically use this option when you use the GUI."
+msgid "Disables debug capturing. You typically use this option when you use the GUI."
 msgstr ""
 "Schalt d'Debug-Ausgab aus. Dir benotzt dëss Optioun normalerweis wann dir an "
 "der GUI schafft."
@@ -8003,7 +7946,7 @@ msgid ""
 "Do you want to save your changes or discard them?"
 msgstr ""
 "Den Dokument \"%1\" ass verännert ginn.\n"
-"Wëllt dir ë späicheren oder sou si loosse, wéi e war?"
+"Wëllt dir e späicheren oder sou si loosse, wéi e war?"
 
 #: kparts/part.cpp:493
 msgid "Close Document"
@@ -8117,8 +8060,8 @@ msgid ""
 "searched for within the document and any occurrence is replaced with the "
 "replacement text.</qt>"
 msgstr ""
-"<qt>Wann dir op den <b>Ersetzen</b>-Knäppche klickt, da gët am Dokument no deem "
-"Text, deen dir uewen agin hutt, gesicht, an all Optriede gët duerch den "
+"<qt>Wann dir op den <b>Ersetzen</b>-Knäppche klickt, da gëtt am Dokument no deem "
+"Text, deen dir uewen agin hutt, gesicht, an all Optriede gëtt duerch den "
 "Ersatztext ersat.</qt>"
 
 #: kutils/kfinddialog.cpp:240
@@ -8130,19 +8073,18 @@ msgid ""
 "<qt>If you press the <b>Find</b> button, the text you entered above is searched "
 "for within the document.</qt>"
 msgstr ""
-"<qt>Wann dir op de<b>Sichen</b>-Knäppche klickt, gët am Dokument no deem Text, "
+"<qt>Wann dir op de<b>Sichen</b>-Knäppche klickt, gëtt am Dokument no deem Text, "
 "deen dir uewen agin hutt, gesicht.</qt>"
 
 #: kutils/kfinddialog.cpp:247
-msgid ""
-"Enter a pattern to search for, or select a previous pattern from the list."
+msgid "Enter a pattern to search for, or select a previous pattern from the list."
 msgstr ""
-"Gitt w.e.g. ë Muster an, no deem gesicht soll ginn, oder wielt ee Muster aus "
+"Gitt w.e.g. e Muster an, no deem gesicht soll ginn, oder wielt ee Muster aus "
 "der Lëscht."
 
 #: kutils/kfinddialog.cpp:250
 msgid "If enabled, search for a regular expression."
-msgstr "Wann ugeschalt, gët no engem regulären Ausdrock gesicht."
+msgstr "Wann ugeschalt, gëtt no engem regulären Ausdrock gesicht."
 
 #: kutils/kfinddialog.cpp:252
 msgid "Click here to edit your regular expression using a graphical editor."
@@ -8162,16 +8104,16 @@ msgid ""
 "<p>To include (a literal <code><b>\\N</b></code> in your replacement, put an "
 "extra backslash in front of it, like <code><b>\\\\N</b></code>.</qt>"
 msgstr ""
-"<qt>Wann ugeschalt, gët all Optriede vun <code><b>\\N</b></code>, woubäi <code>"
+"<qt>Wann ugeschalt, gëtt all Optriede vun <code><b>\\N</b></code>, woubäi <code>"
 "<b>N</b></code> eng ganz Zuel ass, duerch déi passend Plaz (\"Substring an "
 "Uféierungszeechen\") aus dem Muster ersat."
 "<p>Fir <code><b>\\N</b></code> (aus Buchstawen) an ärer Ersetzung mat "
-"anzebezéien, setzt ë backslash virdrunn, wéi z.B. <code><b>\\\\N</b></code>"
+"anzebezéien, setzt e backslash virdrunn, wéi z.B. <code><b>\\\\N</b></code>"
 ".</qt>"
 
 #: kutils/kfinddialog.cpp:263
 msgid "Click for a menu of available captures."
-msgstr "Klickt fir ë Menü mat verfügbaren Treffer ze kréien."
+msgstr "Klickt fir e Menü mat verfügbaren Treffer ze kréien."
 
 #: kutils/kfinddialog.cpp:265
 msgid "Require word boundaries in both ends of a match to succeed."
@@ -8190,7 +8132,7 @@ msgid ""
 "Perform a case sensitive search: entering the pattern 'Joe' will not match "
 "'joe' or 'JOE', only 'Joe'."
 msgstr ""
-"Op Grouss- a Klengschreiwung gët opgepasst: 'Kevin' ass nët dat Selwëcht wéi "
+"Op Grouss- a Klengschreiwung gëtt opgepasst: 'Kevin' ass net dat Selwëcht wéi "
 "'KEVIN' oder 'kevin'."
 
 #: kutils/kfinddialog.cpp:274
@@ -8215,11 +8157,11 @@ msgstr "Zeechesaatz"
 
 #: kutils/kfinddialog.cpp:453
 msgid "Repeats, Zero or More Times"
-msgstr "Widerhuelung (guer nët oder ë puer Kéieren)"
+msgstr "Widerhuelung (guer net oder e puer Kéieren)"
 
 #: kutils/kfinddialog.cpp:454
 msgid "Repeats, One or More Times"
-msgstr "Widerhuelung (eng Kéier oder ë puer Kéieren)"
+msgstr "Widerhuelung (eng Kéier oder e puer Kéieren)"
 
 #: kutils/kfinddialog.cpp:455
 msgid "Optional"
@@ -8273,30 +8215,30 @@ msgid ""
 "module could not be loaded properly. Most likely the factory declaration was "
 "wrong, or the create_* function was missing.</qt>"
 msgstr ""
-"<qt>Ët ass ë Feeler beim Luede vum Modul '%1' opgetrueden."
+"<qt>Et ass e Feeler beim Luede vum Modul '%1' opgetrueden."
 "<br>"
 "<br>D'Datei um Büro (%2) an d'Bibliothéik (%3) si fonnt ginn, mais de Modul "
-"konnt trotzdem nët richteg geluede ginn. Wahrscheinlech ass "
+"konnt trotzdem net richteg geluede ginn. Wahrscheinlech ass "
 "d'Factory-Deklaratioun falsch oder d'Funktioun create_* feelt.</qt>"
 
 #: kutils/kcmoduleloader.cpp:110
 msgid "The specified library %1 could not be found."
-msgstr "Déi spezifizéiert Bibliothéik %1 ass nët fonnt ginn."
+msgstr "Déi spezifizéiert Bibliothéik %1 ass net fonnt ginn."
 
 #: kutils/kcmoduleloader.cpp:131
 msgid "The module %1 could not be found."
-msgstr "De Modul %1 ass nët fonnt ginn."
+msgstr "De Modul %1 ass net fonnt ginn."
 
 #: kutils/kcmoduleloader.cpp:132
 msgid ""
 "<qt>"
 "<p>The diagnostics is:"
 "<br>The desktop file %1 could not be found.</qt>"
-msgstr "<qt><p>D'Diagnos ass:<br>D'Bürosdatei %1 konnt nët fonnt ginn.</qt>"
+msgstr "<qt><p>D'Diagnos ass:<br>D'Bürosdatei %1 konnt net fonnt ginn.</qt>"
 
 #: kutils/kcmoduleloader.cpp:151
 msgid "The module %1 could not be loaded."
-msgstr "De Modul %1 konnt nët geluede ginn."
+msgstr "De Modul %1 konnt net geluede ginn."
 
 #: kutils/kcmoduleloader.cpp:170
 msgid "The module %1 is not a valid configuration module."
@@ -8307,11 +8249,11 @@ msgid ""
 "<qt>"
 "<p>The diagnostics is:"
 "<br>The desktop file %1 does not specify a library.</qt>"
-msgstr "<qt><p>D'Diagnos ass:<br>D'Bürosdatei %1 gët keng Bibliothéik un.</qt>"
+msgstr "<qt><p>D'Diagnos ass:<br>D'Bürosdatei %1 gëtt keng Bibliothéik un.</qt>"
 
 #: kutils/kcmoduleloader.cpp:205
 msgid "There was an error loading the module."
-msgstr "Ët ass ë Feeler beim Luede vum Modul opgetrueden."
+msgstr "Et ass e Feeler beim Luede vum Modul opgetrueden."
 
 #: kutils/kcmoduleloader.cpp:205 kutils/kcmoduleloader.cpp:273
 msgid ""
@@ -8332,11 +8274,11 @@ msgstr ""
 "<br>%1"
 "<p>Méiglech Grënn:</p>"
 "<ul>"
-"<li>Ë Feeler ass bei der leschter KDE-Aktualiséierung opgetrueden an huet ë "
+"<li>E Feeler ass bei der leschter KDE-Aktualiséierung opgetrueden an huet e "
 "verwaist Kontrollmodul iwwereg gelooss."
 "<li>Dir hutt al friem Moduler doruechter leien.</ul>"
 "<p>Kuckt dëss Punkten opmierksam duerch a probéiert, dee Modul ze läschen. Wann "
-"dat nët klappt, frot bei ärem Verdeler no.</p></qt>"
+"dat net klappt, frot bei ärem Verdeler no.</p></qt>"
 
 #: kutils/kreplace.cpp:49
 msgid "&All"
@@ -8352,7 +8294,7 @@ msgstr "'%1' duerch '%2' ersetzen?"
 
 #: kutils/kreplace.cpp:105 kutils/kreplace.cpp:300
 msgid "No text was replaced."
-msgstr "Ët ass näischt ersat ginn."
+msgstr "Et ass näischt ersat ginn."
 
 #: kutils/kreplace.cpp:107 kutils/kreplace.cpp:302
 #, c-format
@@ -8417,12 +8359,11 @@ msgstr ""
 
 #: kutils/kpluginselector.cpp:536
 msgid "(This plugin is not configurable)"
-msgstr "(Dëse Plugin kënnt dir nët configuréieren)"
+msgstr "(Dëse Plugin kënnt dir net configuréieren)"
 
 #: kutils/kreplacedialog.cpp:137
 msgid "Your replacement string is referencing a capture greater than '\\%1', "
-msgstr ""
-"Ären Ersatz-String verweist op eng Fondplaz, déi méi grouss ass wéi '\\%1', "
+msgstr "Ären Ersatz-String verweist op eng Fondplaz, déi méi grouss ass wéi '\\%1', "
 
 #: kutils/kreplacedialog.cpp:140
 #, c-format
@@ -8491,8 +8432,8 @@ msgid ""
 msgstr ""
 "Dëse Beräich verlaangt no besonnege Permissiounen, wahrscheinlech fir "
 "Verännerungen um ganze System. Dofir musst dir d'root-Passwuert agin, fir "
-"d'Eegeschafte vum Modul änneren ze kënnen. Wann dir dat Passwuert nët agitt, "
-"gët de Modul ofgeschalt."
+"d'Eegeschafte vum Modul änneren ze kënnen. Wann dir dat Passwuert net agitt, "
+"gëtt de Modul ofgeschalt."
 
 #: kutils/kcmoduleproxy.cpp:251
 #, c-format
@@ -8519,7 +8460,7 @@ msgstr "Ressource"
 
 #: kresources/selectdialog.cpp:95
 msgid "There is no resource available!"
-msgstr "Ët ass keng Ressource do!"
+msgstr "Et ass keng Ressource do!"
 
 #: kresources/kcmkresources.cpp:44
 msgid "kcmkresources"
@@ -8572,7 +8513,7 @@ msgstr "&Als Standard benotzen"
 
 #: kresources/configpage.cpp:283
 msgid "There is no standard resource! Please select one."
-msgstr "Ët ass keng Standard-Ressource do! Wielt w.e.g. eng aus."
+msgstr "Et ass keng Standard-Ressource do! Wielt w.e.g. eng aus."
 
 #: kresources/configpage.cpp:298
 msgid "Please select type of the new resource:"
@@ -8580,20 +8521,19 @@ msgstr "Wielt w.e.g. den Typ vum neie Modul:"
 
 #: kresources/configpage.cpp:308
 msgid "Unable to create resource of type '%1'."
-msgstr "Konnt d'Ressource vum Typ '%1' nët erstellen."
+msgstr "Konnt d'Ressource vum Typ '%1' net erstellen."
 
 #: kresources/configpage.cpp:360
 msgid ""
 "You cannot remove your standard resource! Please select a new standard resource "
 "first."
 msgstr ""
-"Dir kënnt är Standard-Ressource nët ewechmaachen! Wielt w.e.g. fir d'Éischt eng "
+"Dir kënnt är Standard-Ressource net ewechmaachen! Wielt w.e.g. fir d'Éischt eng "
 "nei Standard-Ressource aus."
 
 #: kresources/configpage.cpp:394 kresources/configpage.cpp:413
 msgid "You cannot use a read-only resource as standard!"
-msgstr ""
-"Dir kënnt keng Ressource, déi nëmme fir ze liesen ass, als Standard benotzen!"
+msgstr "Dir kënnt keng Ressource, déi nëmme fir ze liesen ass, als Standard benotzen!"
 
 #: kresources/configpage.cpp:418
 msgid "You cannot use an inactive resource as standard!"
@@ -8604,7 +8544,7 @@ msgid ""
 "You cannot deactivate the standard resource. Choose another standard resource "
 "first."
 msgstr ""
-"Dir kënnt är Standard-Ressource nët deaktivéieren! Wielt w.e.g. fir d'Éischt "
+"Dir kënnt är Standard-Ressource net deaktivéieren! Wielt w.e.g. fir d'Éischt "
 "eng nei Standard-Ressource aus."
 
 #: kresources/configpage.cpp:528
@@ -8612,7 +8552,7 @@ msgid ""
 "There is no valid standard resource! Please select one which is neither "
 "read-only nor inactive."
 msgstr ""
-"Ët ass keng gülteg Standard-Ressource do! Wielt w.e.g. eng, déi nët inaktiv "
+"Et ass keng gülteg Standard-Ressource do! Wielt w.e.g. eng, déi net inaktiv "
 "oder nëmme fir ze liesen ass."
 
 #: kab/addressbook.cc:168
@@ -8703,11 +8643,11 @@ msgstr "Kategorien"
 
 #: kab/addressbook.cc:419 kab/addressbook.cc:1067
 msgid "Cannot initialize local variables."
-msgstr "Kann déi lokal Variablen nët initialiséieren."
+msgstr "Kann déi lokal Variablen net initialiséieren."
 
 #: kab/addressbook.cc:420 kab/addressbook.cc:1068
 msgid "Out of Memory"
-msgstr "Nët genuch Späicher"
+msgstr "Net genuch Späicher"
 
 #: kab/addressbook.cc:437
 msgid ""
@@ -8716,9 +8656,9 @@ msgid ""
 "Make sure you have not removed write permission from your local KDE directory "
 "(usually ~/.kde)."
 msgstr ""
-"Är lokal kab-Configuratiounsdatei \"%1\" konnt nët erstallt ginn. De kab "
-"funktionéiert wahrscheinlech nët richteg ouni déi Datei.\n"
-"Kuckt no, ob dir d'Schreiwerlaabnis nët vun ärem lokale KDE-Dossier ewechgeholl "
+"Är lokal kab-Configuratiounsdatei \"%1\" konnt net erstallt ginn. De kab "
+"funktionéiert wahrscheinlech net richteg ouni déi Datei.\n"
+"Kuckt no, ob dir d'Schreiwerlaabnis net vun ärem lokale KDE-Dossier ewechgeholl "
 "hutt (meeschtens ~/.kde)."
 
 #: kab/addressbook.cc:461
@@ -8728,9 +8668,9 @@ msgid ""
 "Make sure you have not removed write permission from your local KDE directory "
 "(usually ~/.kde)."
 msgstr ""
-"Är standard kab-Datebankdatei \"%1\" konnt nët erstallt ginn. De kab "
-"funktionéiert wahrscheinlech nët richteg ouni déi Datei.\n"
-"Kuckt no, ob dir d'Schreiwerlaabnis nët vun ärem lokale KDE-Dossier ewechgeholl "
+"Är standard kab-Datebankdatei \"%1\" konnt net erstallt ginn. De kab "
+"funktionéiert wahrscheinlech net richteg ouni déi Datei.\n"
+"Kuckt no, ob dir d'Schreiwerlaabnis net vun ärem lokale KDE-Dossier ewechgeholl "
 "hutt (meeschtens ~/.kde)."
 
 #: kab/addressbook.cc:471
@@ -8743,7 +8683,7 @@ msgstr ""
 
 #: kab/addressbook.cc:492
 msgid "Cannot create backup file (permission denied)."
-msgstr "Konnt d'Sëcherungsdatei nët erstellen (Zougrëff nët erlaabt)."
+msgstr "Konnt d'Sëcherungsdatei net erstellen (Zougrëff net erlaabt)."
 
 #: kab/addressbook.cc:493 kab/addressbook.cc:500 kab/addressbook.cc:509
 #: kab/addressbook.cc:579 kab/addressbook.cc:587 kab/addressbook.cc:614
@@ -8756,8 +8696,7 @@ msgstr "Dateifeler"
 
 #: kab/addressbook.cc:498
 msgid "Cannot open backup file for writing (permission denied)."
-msgstr ""
-"Konnt d'Sëcherungsdatei nët fir d'Schreiwen opmaachen (Zougrëff nët erlaabt)."
+msgstr "Konnt d'Sëcherungsdatei net fir d'Schreiwen opmaachen (Zougrëff net erlaabt)."
 
 #: kab/addressbook.cc:507
 msgid ""
@@ -8778,11 +8717,11 @@ msgid ""
 "Close it if you intended to do so.\n"
 "Your file will be closed by default."
 msgstr ""
-"Déi aktuell gelueden Datei \"%1\" kann nët nach eng Kéier geluede ginn. kab ka "
-"së zoumaachen oder späicheren.\n"
+"Déi aktuell gelueden Datei \"%1\" kann net nach eng Kéier geluede ginn. kab ka "
+"se zoumaachen oder späicheren.\n"
 "Späichert së, wann dir är Datendatei ongewollt geläscht hutt.\n"
-"Maacht së zou wann dir dat nët ongewollt gemaach hutt.\n"
-"Standardméisseg gët är Datei zougemaach."
+"Maacht se zou wann dir dat net ongewollt gemaach hutt.\n"
+"Standardméisseg gëtt är Datei zougemaach."
 
 #: kab/addressbook.cc:583
 msgid "(Safety copy on file error)"
@@ -8790,7 +8729,7 @@ msgstr "(Sëcherheetskoppi bei engem Dateifeler)"
 
 #: kab/addressbook.cc:586
 msgid "Cannot save the file; will close it now."
-msgstr "Konnt d'Datei nët späicheren, së gët elo zougemaach."
+msgstr "Konnt d'Datei net späicheren, se gëtt elo zougemaach."
 
 #: kab/addressbook.cc:609
 msgid "File opened."
@@ -8798,19 +8737,19 @@ msgstr "Datei opgemaach."
 
 #: kab/addressbook.cc:613
 msgid "Could not load the file."
-msgstr "Konnt d'Datei nët opmaachen."
+msgstr "Konnt d'Datei net opmaachen."
 
 #: kab/addressbook.cc:616
 msgid "No such file."
-msgstr "Sou eng Datei gët ët nët."
+msgstr "Sou eng Datei gëtt et net."
 
 #: kab/addressbook.cc:622
 msgid "The file \"%1\" cannot be found. Create a new one?"
-msgstr "D'Datei \"%1\" konnt nët fonnt ginn. Wëllt dir eng nei erstellen?"
+msgstr "D'Datei \"%1\" konnt net fonnt ginn. Wëllt dir eng nei erstellen?"
 
 #: kab/addressbook.cc:624
 msgid "No Such File"
-msgstr "Sou eng Datei gët ët nët"
+msgstr "Sou eng Datei gëtt et net"
 
 #: kab/addressbook.cc:625
 msgid "Create"
@@ -8834,7 +8773,7 @@ msgstr "(Eidel Entrée)"
 
 #: kab/addressbook.cc:825
 msgid "Cannot reload configuration file!"
-msgstr "Konnt d'Configuratiounsdatei nët nach eng Kéier lueden!"
+msgstr "Konnt d'Configuratiounsdatei net nach eng Kéier lueden!"
 
 #: kab/addressbook.cc:830
 msgid "Configuration file reloaded."
@@ -8846,7 +8785,7 @@ msgstr "Datei gespäichert."
 
 #: kab/addressbook.cc:898
 msgid "Permission denied."
-msgstr "Zougrëff nët erlaabt."
+msgstr "Zougrëff net erlaabt."
 
 #: kab/addressbook.cc:904
 msgid "File closed."
@@ -8857,8 +8796,8 @@ msgid ""
 "The file you wanted to change could not be locked.\n"
 "It is probably in use by another application or read-only."
 msgstr ""
-"Déi Datei, déi dir ännere wollt, konnt nët ofgespaart ginn.\n"
-"Së gët wahrscheinlech grad vun engem anere Programm benotzt oder ass nëmme fir "
+"Déi Datei, déi dir ännere wollt, konnt net ofgespaart ginn.\n"
+"Se gëtt wahrscheinlech grad vun engem anere Programm benotzt oder ass nëmme fir "
 "ze liesen."
 
 #: kab/addressbook.cc:1599
@@ -8866,7 +8805,7 @@ msgid ""
 "Cannot find kab's template file.\n"
 "You cannot create new files."
 msgstr ""
-"Konnt dem kab seng Virlag-Datei nët fannen.\n"
+"Konnt dem kab seng Virlag-Datei net fannen.\n"
 "Dir kënnt keng nei Dateien erstellen."
 
 #: kab/addressbook.cc:1607
@@ -8874,7 +8813,7 @@ msgid ""
 "Cannot read kab's template file.\n"
 "You cannot create new files."
 msgstr ""
-"Konnt dem kab seng Virlag-Datei nët liesen.\n"
+"Konnt dem kab seng Virlag-Datei net liesen.\n"
 "Dir kënnt keng nei Dateien erstellen."
 
 #: kab/addressbook.cc:1609
@@ -8886,19 +8825,19 @@ msgid ""
 "Cannot create the file\n"
 "\""
 msgstr ""
-"Konnt d'Datei nët erstellen\n"
+"Konnt d'Datei net erstellen\n"
 " \""
 
 #: kab/addressbook.cc:1618 kab/addressbook.cc:1627
 msgid "Could not create the new file."
-msgstr "Konnt déi nei Datei nët erstellen."
+msgstr "Konnt déi nei Datei net erstellen."
 
 #: kab/addressbook.cc:1625 kab/addressbook.cc:1677
 msgid ""
 "Cannot save the file\n"
 "\""
 msgstr ""
-"Konnt d'Datei nët späicheren\n"
+"Konnt d'Datei net späicheren\n"
 "\""
 
 #: kab/addressbook.cc:1651
@@ -8906,20 +8845,20 @@ msgid ""
 "Cannot find kab's configuration template file.\n"
 "kab cannot be configured."
 msgstr ""
-"Konnt dem kab seng Configuratiounsvirlag-Datei nët fannen.\n"
-"De kab kann nët configuréiert ginn."
+"Konnt dem kab seng Configuratiounsvirlag-Datei net fannen.\n"
+"De kab kann net configuréiert ginn."
 
 #: kab/addressbook.cc:1660
 msgid ""
 "Cannot read kab's configuration template file.\n"
 "kab cannot be configured."
 msgstr ""
-"Konnt dem kab seng Configuratiounsvirlag-Datei nët liesen.\n"
-"De kab kann nët configuréiert ginn."
+"Konnt dem kab seng Configuratiounsvirlag-Datei net liesen.\n"
+"De kab kann net configuréiert ginn."
 
 #: kab/addressbook.cc:1670 kab/addressbook.cc:1679
 msgid "Could not create the new configuration file."
-msgstr "Konnt déi nei Configuratiounsdatei nët erstellen."
+msgstr "Konnt déi nei Configuratiounsdatei net erstellen."
 
 #: kab/addressbook.cc:1700
 msgid ""
@@ -8927,17 +8866,17 @@ msgid ""
 "There may be a formatting error.\n"
 "kab cannot be configured."
 msgstr ""
-"Konnt dem kab seng lokal Configuratiounsdatei nët lueden.\n"
-"Ët kéint sëch em ë Feeler am Format handelen.\n"
-"De kab kann nët configuréiert ginn."
+"Konnt dem kab seng lokal Configuratiounsdatei net lueden.\n"
+"Et kéint sëch em e Feeler am Format handelen.\n"
+"De kab kann net configuréiert ginn."
 
 #: kab/addressbook.cc:1708
 msgid ""
 "Cannot find kab's local configuration file.\n"
 "kab cannot be configured."
 msgstr ""
-"Konnt dem kab seng lokal Configuratiounsdatei nët fannen.\n"
-"De kab kann nët configuréiert ginn."
+"Konnt dem kab seng lokal Configuratiounsdatei net fannen.\n"
+"De kab kann net configuréiert ginn."
 
 #: kab/addressbook.cc:1744
 msgid "fixed"
@@ -8969,7 +8908,7 @@ msgstr "Datum"
 
 #: kab/kabapi.cc:134
 msgid "Your new entry could not be added."
-msgstr "Är nei Entrée konnt nët dobäigemaach ginn."
+msgstr "Är nei Entrée konnt net dobäigemaach ginn."
 
 #: arts/kde/kconverttest.cc:23 arts/kde/kiotest.cc:17
 #: arts/kde/kiotestslow.cc:83
@@ -9119,7 +9058,7 @@ msgstr "&Fäerdeg"
 
 #: kcert/kcertpart.cc:418 kcert/kcertpart.cc:440
 msgid "Save failed."
-msgstr "Späicheren nët gaang."
+msgstr "Späicheren net gaang."
 
 #: kcert/kcertpart.cc:418 kcert/kcertpart.cc:440 kcert/kcertpart.cc:455
 #: kcert/kcertpart.cc:460 kcert/kcertpart.cc:496 kcert/kcertpart.cc:532
@@ -9143,8 +9082,7 @@ msgstr "Passwuert vum Zertifikat"
 
 #: kcert/kcertpart.cc:496
 msgid "The certificate file could not be loaded. Try a different password?"
-msgstr ""
-"D'Zertifikatsdatei konnt nët geluede ginn. Ën anert Passwuert probéieren?"
+msgstr "D'Zertifikatsdatei konnt net geluede ginn. Ën anert Passwuert probéieren?"
 
 #: kcert/kcertpart.cc:496
 msgid "Try Different"
@@ -9152,11 +9090,11 @@ msgstr "Probéieren"
 
 #: kcert/kcertpart.cc:532 kcert/kcertpart.cc:566
 msgid "This file cannot be opened."
-msgstr "Dëss Datei kann nët opgemaach ginn."
+msgstr "Dëss Datei kann net opgemaach ginn."
 
 #: kcert/kcertpart.cc:599
 msgid "I do not know how to handle this type of file."
-msgstr "Ëch weess nët, wéi ëch mat sou Dateien ëmgoë soll."
+msgstr "Ëch weess net, wéi ëch mat sou Dateien ëmgoe soll."
 
 #: kcert/kcertpart.cc:619
 msgid "0 - Site Certificate"
@@ -9167,7 +9105,7 @@ msgid ""
 "A certificate with that name already exists. Are you sure that you wish to "
 "replace it?"
 msgstr ""
-"Ën Zertifikat mat dësem Numm gët ët schonn. Sidd dir sëcher, dass dir ët "
+"Ën Zertifikat mat dësem Numm gëtt et schonn. Sidd dir sëcher, dass dir et "
 "ersetze wëllt?"
 
 #: kcert/kcertpart.cc:741 kcert/kcertpart.cc:759
@@ -9216,7 +9154,7 @@ msgstr "Keng Datei vum Portemonnaie."
 
 #: kwallet/backend/kwalletbackend.cc:258
 msgid "Unsupported file format revision."
-msgstr "Nët ënnerstëtzt Revisioun vum Dateiformat."
+msgstr "Net ënnerstëtzte Revisioun vum Dateiformat."
 
 #: kwallet/backend/kwalletbackend.cc:260
 msgid "Unknown encryption scheme."
@@ -9234,7 +9172,7 @@ msgstr ""
 
 #: kwallet/backend/kwalletbackend.cc:268
 msgid "Read error - possibly incorrect password."
-msgstr "Liesfeler - wahrscheinlech ë falscht Passwuert."
+msgstr "Liesfeler - wahrscheinlech e falscht Passwuert."
 
 #: kwallet/backend/kwalletbackend.cc:270
 msgid "Decryption error."
@@ -9370,7 +9308,7 @@ msgstr "&Rotschlag vum Dag"
 
 #: kdecore/kde-config.cpp.in:14
 msgid "A little program to output installation paths"
-msgstr "Ë klenge Programm fir Installatiounsweeer auszegin"
+msgstr "E klenge Programm fir Installatiounsweeër auszegin"
 
 #: kdecore/kde-config.cpp.in:18
 msgid "expand ${prefix} and ${exec_prefix} in output"
@@ -9509,16 +9447,12 @@ msgid "UNIX Sockets (specific for both current host and current user)"
 msgstr "UNIX-Sockets (déi vum Host a vum Benotzer)"
 
 #: kdecore/kde-config.cpp.in:203
-msgid ""
-"%1 - unknown type\n"
-msgstr ""
-"%1 - onbekannten Typ\n"
+msgid "%1 - unknown type\n"
+msgstr "%1 - onbekannten Typ\n"
 
 #: kdecore/kde-config.cpp.in:228
-msgid ""
-"%1 - unknown type of userpath\n"
-msgstr ""
-"%1 - onbekannten Typ vum Benotzerwee\n"
+msgid "%1 - unknown type of userpath\n"
+msgstr "%1 - onbekannten Typ vum Benotzerwee\n"
 
 #: attic/qtmultilineedit.cpp:2129
 msgid "Undo"
@@ -9693,8 +9627,8 @@ msgstr ""
 "Benotzeruewerflächen, onofhängeg vum Betriebsystem.</p>"
 "<p>Qt liwwert Portéierungsméiglechkeeten op MS&nbsp;Windows, "
 "Mac&nbsp;OS&nbsp;X, Linux, an op alle grousse kommerziellen Unix-Varianten."
-"<br>Qt gët ët och fir Abaugeräter.</p>"
-"<p>Qt ass ë Produkt vun Trolltech. Gitt op <tt>http://www.trolltech.com/qt/</tt> "
+"<br>Qt gëtt et och fir Abaugeräter.</p>"
+"<p>Qt ass e Produkt vun Trolltech. Gitt op <tt>http://www.trolltech.com/qt/</tt> "
 "fir méi Informatiounen.</p>"
 
 #: dialogs/qmessagebox.cpp:1551
@@ -9727,11 +9661,11 @@ msgstr "&Hëllef"
 
 #: kernel/qaccel.cpp:470
 msgid "%1, %2 not defined"
-msgstr "%1, %2 nët definéiert"
+msgstr "%1, %2 net definéiert"
 
 #: kernel/qaccel.cpp:506
 msgid "Ambiguous \"%1\" not handled"
-msgstr "Méideideg \"%1\" nët verschafft"
+msgstr "Méideideg \"%1\" net verschafft"
 
 #: kernel/qapplication.cpp:2896
 msgid ""
@@ -10599,13 +10533,13 @@ msgstr "Onbekannte Feeler"
 msgid ""
 "_: QFile\n"
 "Could not read from the file"
-msgstr "Konnt d'Datei nët liesen"
+msgstr "Konnt d'Datei net liesen"
 
 #: tools/qfile.cpp:62
 msgid ""
 "_: QFile\n"
 "Could not write to the file"
-msgstr "Konnt nët an d'Datei schreiwen"
+msgstr "Konnt net an d'Datei schreiwen"
 
 #: widgets/qlineedit.cpp:2136 widgets/qtextedit.cpp:5471
 msgid "&Undo"
@@ -10827,8 +10761,7 @@ msgstr ""
 msgid ""
 "_: QXml\n"
 "standalone declaration expected while reading the XML declaration"
-msgstr ""
-"Beim Liese vun der XML-Deklaratioun ass eng Eenzel-Deklaratioun erwaart ginn"
+msgstr "Beim Liese vun der XML-Deklaratioun ass eng Eenzel-Deklaratioun erwaart ginn"
 
 #: qxml_clean.cpp:67
 msgid ""
@@ -10858,26 +10791,25 @@ msgstr "Feeler beim Parse vun enger Referenz"
 msgid ""
 "_: QXml\n"
 "internal general entity reference not allowed in DTD"
-msgstr "Intern allgemeng Entity-Referenz ass nët zougelooss am DTD"
+msgstr "Intern allgemeng Entity-Referenz ass net zougelooss am DTD"
 
 #: qxml_clean.cpp:72
 msgid ""
 "_: QXml\n"
 "external parsed general entity reference not allowed in attribute value"
-msgstr ""
-"Extern agelies, allgemeng Entity-Referenz ass nët zougelooss am Attribut-Wert"
+msgstr "Extern agelies, allgemeng Entity-Referenz ass net zougelooss am Attribut-Wert"
 
 #: qxml_clean.cpp:73
 msgid ""
 "_: QXml\n"
 "external parsed general entity reference not allowed in DTD"
-msgstr "Extern agelies, allgemeng Entity-Referenz ass nët zougelooss am DTD"
+msgstr "Extern agelies, allgemeng Entity-Referenz ass net zougelooss am DTD"
 
 #: qxml_clean.cpp:74
 msgid ""
 "_: QXml\n"
 "unparsed entity reference in wrong context"
-msgstr "Nët agelies Entity-Referenz ass am falsche Kontext"
+msgstr "Net agelies Entity-Referenz ass am falsche Kontext"
 
 #: qxml_clean.cpp:75
 msgid ""
@@ -10890,3 +10822,4 @@ msgid ""
 "_: QXml\n"
 "error in the text declaration of an external entity"
 msgstr "Feeler an der Text-Deklaratioun vun enger externer Entity"
+
