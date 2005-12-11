@@ -39,4 +39,3 @@ msgstr "Of&mellen..."
 #: lockout.cpp:238
 msgid "&Configure Session Manager..."
 msgstr "Sëtzungsmanager &configuréieren..."
-

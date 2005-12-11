@@ -35,4 +35,3 @@ msgstr "Méi Bildschiermer"
 #: display.cpp:45
 msgid "Power Control"
 msgstr "Alimentatiounskontroll"
-

@@ -18,7 +18,8 @@ msgid ""
 "Could not open the file, probably due to an unsupported file format.\n"
 "%1"
 msgstr ""
-"Konnt d'Datei net opmaachen, wahrscheinlech wéinst engem net ënnerstëtzten Dateiformat.\n"
+"Konnt d'Datei net opmaachen, wahrscheinlech wéinst engem net ënnerstëtzten "
+"Dateiformat.\n"
 "%1"
 
 #: tar.cc:460
@@ -28,6 +29,6 @@ msgid ""
 "unsupported.\n"
 "%1"
 msgstr ""
-"D'Archivdatei konnt net opgemat ginn, wahrscheinlech well d'Format net ënnerstëtzt gëtt.\n"
+"D'Archivdatei konnt net opgemat ginn, wahrscheinlech well d'Format net "
+"ënnerstëtzt gëtt.\n"
 "%1"
-
