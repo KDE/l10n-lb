@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
 "POT-Creation-Date: 2005-12-10 03:03+0100\n"
-"PO-Revision-Date: 2005-12-12 23:23+0100\n"
+"PO-Revision-Date: 2005-12-13 00:00+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -154,7 +154,7 @@ msgstr "&Siicht"
 #: rc.cpp:72 rc.cpp:75
 #, no-c-format
 msgid "&Go"
-msgstr "&Goën"
+msgstr "&Goen"
 
 #. i18n: file ./kdeui/ui_standards.rc line 133
 #: common_texts.cpp:182 rc.cpp:78
@@ -3061,7 +3061,7 @@ msgstr "<h2>Kuerzbefehler ewechgeholl</h2>"
 
 #: kdecore/kcheckaccelerators.cpp:206
 msgid "<h2>Accelerators added (just for your info)</h2>"
-msgstr "<h2>Kuerzbefehler dobäigemaach (nëmme fir bescheed ze soën)</h2>"
+msgstr "<h2>Kuerzbefehler dobäigemaach (nëmme fir bescheed ze soen)</h2>"
 
 #: kdecore/kstdaccel.cpp:54
 msgid "New"
@@ -5331,7 +5331,7 @@ msgid ""
 "called \"Wishlist\"."
 msgstr ""
 "Software kann ëmmer verbessert ginn, an d'Team vu KDE ass prett fir dorunn ze "
-"schaffen. Trotzdem sidd dir - de Benotzer - wichtëg, fir eis besched ze soën, "
+"schaffen. Trotzdem sidd dir - de Benotzer - wichtëg, fir eis besched ze soen, "
 "wann eppes net sou klappt wéi et soll."
 "<br>"
 "<br>Am KDE ass e System fir Problemer ze verfollëgen. Gitt op <A "
@@ -5479,7 +5479,7 @@ msgstr "Systemverwaltungsm&odus..."
 
 #: kdeui/kstdguiitem.cpp:153
 msgid "Enter Administrator Mode"
-msgstr "An de Systemverwaltungsmodus goën"
+msgstr "An de Systemverwaltungsmodus goen"
 
 #: kdeui/kstdguiitem.cpp:154
 msgid ""
@@ -5524,7 +5524,7 @@ msgstr "&Zeréck"
 
 #: kdeui/kstdguiitem.cpp:189
 msgid "Go back one step"
-msgstr "Ee Schrack zeréckgoën"
+msgstr "Ee Schrack zeréckgoen"
 
 #: kdeui/kstdaction.cpp:56 kdeui/kstdguiitem.cpp:196
 msgid ""
@@ -5534,7 +5534,7 @@ msgstr "&No Vir"
 
 #: kdeui/kstdguiitem.cpp:197
 msgid "Go forward one step"
-msgstr "Ee Schrack no vir goën"
+msgstr "Ee Schrack no vir goen"
 
 #: kdeui/kstdguiitem.cpp:208
 msgid "Opens the print dialog to print the current document"
@@ -6283,7 +6283,7 @@ msgstr "<qt>Sidd dir sëcher, dass dir <b>%1</b> zoumaache wëllt ?</qt>"
 
 #: kdeui/ksystemtray.cpp:192
 msgid "Confirm Quit From System Tray"
-msgstr "Aus dem Systemberäich erausgoën"
+msgstr "Aus dem Systemberäich erausgoen"
 
 #: kdeui/kpixmapregionselectorwidget.cpp:141
 msgid "Image Operations"
@@ -6346,7 +6346,7 @@ msgstr "Iwwer &KDE"
 
 #: kdeui/kactionclasses.cpp:2102
 msgid "Exit F&ull Screen Mode"
-msgstr "Aus dem &Vollbildmodus erausgoën"
+msgstr "Aus dem &Vollbildmodus erausgoen"
 
 #: kdeui/kactionclasses.cpp:2107 kdeui/kstdaction_p.h:98
 msgid "F&ull Screen Mode"
@@ -9259,15 +9259,15 @@ msgstr "&Nächst Säit"
 
 #: kdeui/kstdaction_p.h:84
 msgid "&Go To..."
-msgstr "&Goën..."
+msgstr "&Goen..."
 
 #: kdeui/kstdaction_p.h:85
 msgid "&Go to Page..."
-msgstr "Op d'Säit &goën..."
+msgstr "Op d'Säit &goen..."
 
 #: kdeui/kstdaction_p.h:86
 msgid "&Go to Line..."
-msgstr "Op d'Zeil &goën..."
+msgstr "Op d'Zeil &goen..."
 
 #: kdeui/kstdaction_p.h:87
 msgid "&First Page"
