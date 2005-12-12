@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kicker\n"
 "POT-Creation-Date: 2005-12-03 03:04+0100\n"
-"PO-Revision-Date: 2005-12-09 20:48+0100\n"
+"PO-Revision-Date: 2005-12-12 23:31+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -36,7 +36,7 @@ msgstr "K Menü"
 
 #: buttons/nonkdeappbutton.cpp:245
 msgid "Cannot execute non-KDE application."
-msgstr "Kann dee KDE-frieme Programm nët ausféieren."
+msgstr "Kann dee KDE-frieme Programm net ausféieren."
 
 #: buttons/nonkdeappbutton.cpp:246
 msgid "Kicker Error"
@@ -48,7 +48,7 @@ msgstr "Programmer"
 
 #: buttons/urlbutton.cpp:192
 msgid "The file %1 does not exist"
-msgstr "D'Datei %1 gët ët nët"
+msgstr "D'Datei %1 gëtt et net"
 
 #: buttons/windowlistbutton.cpp:39
 msgid "Window List"
@@ -68,8 +68,7 @@ msgstr "%1 Miniprogramm-Handler"
 
 #: core/container_applet.cpp:108
 msgid "The %1 applet could not be loaded. Please check your installation."
-msgstr ""
-"De Miniprogramm %1 konnt nët geluede gin. Kuckt är Installatioun w.e.g. no."
+msgstr "De Miniprogramm %1 konnt net geluede gin. Kuckt är Installatioun w.e.g. no."
 
 #: core/container_applet.cpp:110
 msgid "Applet Loading Error"
@@ -89,7 +88,7 @@ msgid ""
 "installation. "
 msgstr ""
 "D'KDE Kontrollleescht (de kicker) konnt wéinst engem Problem mat ärer "
-"Installatioun d'Haaptleescht nët lueden. "
+"Installatioun d'Haaptleescht net lueden. "
 
 #: core/extensionmanager.cpp:114
 msgid "Fatal Error!"
@@ -268,11 +267,11 @@ msgstr "'%1' ass kee gültegen Dossier."
 
 #: ui/browser_mnu.cpp:126 ui/browser_mnu.cpp:135
 msgid "Failed to Read Folder"
-msgstr "Konnt den Dossier nët liesen"
+msgstr "Konnt den Dossier net liesen"
 
 #: ui/browser_mnu.cpp:143
 msgid "Not Authorized to Read Folder"
-msgstr "Dir hutt nët dat Recht fir den Dossier ze liesen"
+msgstr "Dir hutt net dat Recht fir den Dossier ze liesen"
 
 #: ui/browser_mnu.cpp:151
 msgid "Open in File Manager"
@@ -303,7 +302,7 @@ msgid ""
 "The selected file is not executable.\n"
 "Do you want to select another file?"
 msgstr ""
-"Déi ausgewielten Datei ass nët ausféierbar.\n"
+"Déi ausgewielten Datei ass net ausféierbar.\n"
 "Wëllt dir eng aner Datei auswielen?"
 
 #: ui/exe_dlg.cpp:190
@@ -365,9 +364,9 @@ msgid ""
 "the KDE Panel and Desktop menus have actions for switching between sessions.</p>"
 msgstr ""
 "<p>Dir hutt ausgewielt fir eng aner Bürossëtzung opzemaachen."
-"<br>Déi aktuell Sëtzung gët verstoppt an ën neien Umelde-Bildschierm gët "
+"<br>Déi aktuell Sëtzung gëtt verstoppt an ën neien Umelde-Bildschierm gëtt "
 "ugewisen."
-"<br>Eng F-Tast gëtt fir jidfer Sëtzung reservéiert; F%1 gët normalerwies fir "
+"<br>Eng F-Tast gëtt fir jidfer Sëtzung reservéiert; F%1 gëtt normalerwies fir "
 "déi éischt Sëtzung geholl, F%2 fir déi zweet, a sou weider. Dir kënnt tëschent "
 "de Sëtzunge wiesselen andeems dir Ctrl, Alt, an déi passend F-Tast zur "
 "selwëchter Zait dréckt. Zousätzlech hun d'KDE-Leescht an d'Bürosmenüen Aktioune "
@@ -486,7 +485,7 @@ msgstr "Michel Ludwig & Kevin Claude Everard"
 msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
-msgstr "miclud@studcs.uni-sb.de; kevin@math.uni-sb.de"
+msgstr "michel.ludwig@kdemail.net; kevin@math.uni-sb.de"
 
 #. i18n: file ui/appletview.ui line 35
 #: rc.cpp:6
@@ -524,8 +523,7 @@ msgstr "Spezialknäppercher"
 #: rc.cpp:24
 #, no-c-format
 msgid "<qt>Select here the only applet category that you want to show</qt>"
-msgstr ""
-"<qt>Wielt hei déi eenzeg Miniprogramm-Kategorie aus, déi dir uweise wëllt.</qt>"
+msgstr "<qt>Wielt hei déi eenzeg Miniprogramm-Kategorie aus, déi dir uweise wëllt.</qt>"
 
 #. i18n: file ui/appletview.ui line 123
 #: rc.cpp:27
@@ -551,7 +549,7 @@ msgid ""
 "If it is not in your $PATH then you will need to provide an absolute path."
 msgstr ""
 "Gitt den Numm vun der ausféierbarer Datei an, déi gestart soll gin, wann dëse "
-"Knäppchen ausgewielt gët. Wann ën nët an ärem $PATH ass, da musst dir ën "
+"Knäppchen ausgewielt gët. Wann ën net an ärem $PATH ass, da musst dir ën "
 "absolute Wee ugin."
 
 #. i18n: file ui/nonKDEButtonSettings.ui line 38
@@ -620,8 +618,8 @@ msgid ""
 "that KConfigXT won't write a config file unless there is at least one "
 "non-default entry."
 msgstr ""
-"Leet fest op dëss Leescht am Moment existéiert oder nët. Haaptsächlech fir ze "
-"vermeiden, dass de KConfigXT keng Configuratiounsdatei schreiwt wann ët nët op "
+"Leet fest op dëss Leescht am Moment existéiert oder net. Haaptsächlech fir ze "
+"vermeiden, dass de KConfigXT keng Configuratiounsdatei schreiwt wann et net op "
 "mannst eng Entrée gët, déi kenger Standard-Entrée entsprëcht."
 
 #. i18n: file core/extensionSettings.kcfg line 18
@@ -725,3 +723,4 @@ msgstr "Gréisst"
 #, no-c-format
 msgid "Custom size"
 msgstr "Eege Gréisst"
+
