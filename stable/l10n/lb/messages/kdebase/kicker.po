@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kicker\n"
 "POT-Creation-Date: 2005-12-03 03:04+0100\n"
-"PO-Revision-Date: 2005-12-12 23:31+0100\n"
+"PO-Revision-Date: 2005-12-13 23:06+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -68,8 +68,7 @@ msgstr "%1 Miniprogramm-Handler"
 
 #: core/container_applet.cpp:108
 msgid "The %1 applet could not be loaded. Please check your installation."
-msgstr ""
-"De Miniprogramm %1 konnt net geluede gin. Kuckt är Installatioun w.e.g. no."
+msgstr "De Miniprogramm %1 konnt net geluede ginn. Kuckt är Installatioun w.e.g. no."
 
 #: core/container_applet.cpp:110
 msgid "Applet Loading Error"
@@ -524,8 +523,7 @@ msgstr "Spezialknäppercher"
 #: rc.cpp:24
 #, no-c-format
 msgid "<qt>Select here the only applet category that you want to show</qt>"
-msgstr ""
-"<qt>Wielt hei déi eenzeg Miniprogramm-Kategorie aus, déi dir uweise wëllt.</qt>"
+msgstr "<qt>Wielt hei déi eenzeg Miniprogramm-Kategorie aus, déi dir uweise wëllt.</qt>"
 
 #. i18n: file ui/appletview.ui line 123
 #: rc.cpp:27
@@ -550,8 +548,8 @@ msgid ""
 "Enter the name of the executable file to be run when this button is selected. "
 "If it is not in your $PATH then you will need to provide an absolute path."
 msgstr ""
-"Gitt den Numm vun der ausféierbarer Datei an, déi gestart soll gin, wann dëse "
-"Knäppchen ausgewielt gët. Wann ën net an ärem $PATH ass, da musst dir ën "
+"Gitt den Numm vun der ausféierbarer Datei an, déi gestart soll ginn, wann dëse "
+"Knäppchen ausgewielt gëtt. Wann ën net an ärem $PATH ass, da musst dir ën "
 "absolute Wee ugin."
 
 #. i18n: file ui/nonKDEButtonSettings.ui line 38
@@ -585,7 +583,7 @@ msgid ""
 "Select this option if the command is a command line application and you wish to "
 "be able to see its output when run."
 msgstr ""
-"Wielt dëss Optioun aus, wann de Befeel ë Kommandozeileprogramm as, a wann dir "
+"Wielt dëss Optioun aus, wann de Befeel ë Kommandozeileprogramm ass, a wann dir "
 "séng Ausgab gesi wëllt wann ë leeft."
 
 #. i18n: file ui/nonKDEButtonSettings.ui line 75
@@ -622,7 +620,7 @@ msgid ""
 msgstr ""
 "Leet fest op dëss Leescht am Moment existéiert oder net. Haaptsächlech fir ze "
 "vermeiden, dass de KConfigXT keng Configuratiounsdatei schreiwt wann et net op "
-"mannst eng Entrée gët, déi kenger Standard-Entrée entsprëcht."
+"mannst eng Entrée gëtt, déi kenger Standard-Entrée entsprëcht."
 
 #. i18n: file core/extensionSettings.kcfg line 18
 #: rc.cpp:87
@@ -682,7 +680,7 @@ msgstr "Verzögerung virum automatësche Verstoppen"
 #: rc.cpp:114
 #, no-c-format
 msgid "The trigger location for unhides"
-msgstr "Beräich, an dem d'Verstoppen opgehuewe gët"
+msgstr "Beräich, an dem d'Verstoppen opgehuewe gëtt"
 
 #. i18n: file core/extensionSettings.kcfg line 76
 #: rc.cpp:117
@@ -725,3 +723,4 @@ msgstr "Gréisst"
 #, no-c-format
 msgid "Custom size"
 msgstr "Eege Gréisst"
+
