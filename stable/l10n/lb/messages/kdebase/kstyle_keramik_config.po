@@ -19,4 +19,3 @@ msgstr "Grëffer vun de Scrolleeschten ervirhiewen"
 #: keramikconf.cpp:49
 msgid "Animate progress bars"
 msgstr "Fortschrëttsuweiser animéieren"
-
