@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kicker\n"
 "POT-Creation-Date: 2005-12-21 03:07+0100\n"
-"PO-Revision-Date: 2005-12-13 23:06+0100\n"
+"PO-Revision-Date: 2005-12-21 12:15+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -68,8 +68,7 @@ msgstr "%1 Miniprogramm-Handler"
 
 #: core/container_applet.cpp:108
 msgid "The %1 applet could not be loaded. Please check your installation."
-msgstr ""
-"De Miniprogramm %1 konnt net geluede ginn. Kuckt är Installatioun w.e.g. no."
+msgstr "De Miniprogramm %1 konnt net geluede ginn. Kuckt är Installatioun w.e.g. no."
 
 #: core/container_applet.cpp:110
 msgid "Applet Loading Error"
@@ -524,8 +523,7 @@ msgstr "Spezialknäppercher"
 #: rc.cpp:24
 #, no-c-format
 msgid "<qt>Select here the only applet category that you want to show</qt>"
-msgstr ""
-"<qt>Wielt hei déi eenzeg Miniprogramm-Kategorie aus, déi dir uweise wëllt.</qt>"
+msgstr "<qt>Wielt hei déi eenzeg Miniprogramm-Kategorie aus, déi dir uweise wëllt.</qt>"
 
 #. i18n: file ui/appletview.ui line 123
 #: rc.cpp:27
@@ -614,15 +612,15 @@ msgstr "&Beschreiwung:"
 
 #. i18n: file core/extensionSettings.kcfg line 14
 #: rc.cpp:84
-#, fuzzy, no-c-format
+#, no-c-format
 msgid ""
 "Whether this panel actually exists or not. Primarily to work around the fact "
 "that KConfigXT won't write a config file unless there is at least one "
 "non-default entry."
 msgstr ""
-"Leet fest op dëss Leescht am Moment existéiert oder net. Haaptsächlech fir ze "
+"Leet fest, op dës Leescht am Moment existéiert oder net. Haaptsächlech fir ze "
 "vermeiden, dass de KConfigXT keng Configuratiounsdatei schreiwt wann et net op "
-"mannst eng Entrée gëtt, déi kenger Standard-Entrée entsprëcht."
+"mannst eng Net-Standard-Entrée gëtt."
 
 #. i18n: file core/extensionSettings.kcfg line 18
 #: rc.cpp:87
@@ -725,3 +723,4 @@ msgstr "Gréisst"
 #, no-c-format
 msgid "Custom size"
 msgstr "Eege Gréisst"
+
