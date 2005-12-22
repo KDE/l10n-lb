@@ -51,10 +51,12 @@ msgstr "Name=Ausféierer fir Bash-Kommandozeil-Skripter"
 
 #: interfaces/kscript/sample/shellscript.desktop:68
 msgid "Comment=Runs bash shell scripts from inside the application."
-msgstr "Comment=Féiert Skripter fir d'Bash-Kommandozeil aus dem Programm selwer aus."
+msgstr ""
+"Comment=Féiert Skripter fir d'Bash-Kommandozeil aus dem Programm selwer aus."
 
 #: interfaces/kscript/scriptinterface.desktop:5
-msgid "Comment=This is a generic test script engine for testing the script interface."
+msgid ""
+"Comment=This is a generic test script engine for testing the script interface."
 msgstr ""
 "Comment=Dësst ass eng allgemeng Test-Skript-Engine fir de Skript-Interface ze "
 "testen."
@@ -138,7 +140,8 @@ msgid "Name=KTextEditor Autobookmarker"
 msgstr "Name=Automateschen Lieszeechesetzer fir den KTextEditor "
 
 #: kate/plugins/autobookmarker/ktexteditor_autobookmarker.desktop:57
-msgid "Comment=Set bookmarks on lines matching a pattern when documents are loaded"
+msgid ""
+"Comment=Set bookmarks on lines matching a pattern when documents are loaded"
 msgstr ""
 "Comment=Setzt Lieszeechen op d'Zeilen, déi ee bestëmmtent Muster enthalen, wann "
 "d'Dokument geluede gëtt"
@@ -174,7 +177,8 @@ msgid "Name=KTextEditor Word Completion Plugin"
 msgstr "Name=KTextEditor-Wuert-Vervollstännegungs-Plugin"
 
 #: kate/plugins/wordcompletion/ktexteditor_docwordcompletion.desktop:58
-msgid "Comment=Directional or popup-based completion from words in the document"
+msgid ""
+"Comment=Directional or popup-based completion from words in the document"
 msgstr ""
 "Comment=Direktional oder Opklapp-Fënster-baséiert Vervollstännegung vu Wierder "
 "am Dokument"
@@ -909,7 +913,8 @@ msgstr "Name=Textergänzung: rotéierent"
 
 #: kdecore/eventsrc:265
 msgid "Comment=The end of the list of matches has been reached"
-msgstr "Comment=D'Enn vun der Lëscht mat den Iwwerteneestëmmungen ass erreecht ginn"
+msgstr ""
+"Comment=D'Enn vun der Lëscht mat den Iwwerteneestëmmungen ass erreecht ginn"
 
 #: kdecore/eventsrc:323
 msgid "Name=Textcompletion: no match"
@@ -968,7 +973,8 @@ msgid "Name=Catastrophe"
 msgstr "Name=Katastroph"
 
 #: kdecore/eventsrc:1240
-msgid "Comment=A very serious error occurred, at least causing the program to exit"
+msgid ""
+"Comment=A very serious error occurred, at least causing the program to exit"
 msgstr ""
 "Comment=E ganz schlëmme Feeler ass opgetrueden, deen op Mannst zum Ophale vum "
 "Programm gefouert huet"
@@ -1437,7 +1443,8 @@ msgstr "Name=Ongültegt Proxy-Skript"
 
 #: kio/misc/kpac/eventsrc:135
 msgid "Comment=The downloaded proxy configuration script is invalid"
-msgstr "Comment=D'Proxy-Configuratiounsskript, dat erofgelude gouf, ass ongülteg"
+msgstr ""
+"Comment=D'Proxy-Configuratiounsskript, dat erofgelude gouf, ass ongülteg"
 
 #: kio/misc/kpac/eventsrc:201
 msgid "Name=Script download error"
@@ -1453,7 +1460,8 @@ msgstr "Name=Feeler beim Evaluéieren vum Skript"
 
 #: kio/misc/kpac/eventsrc:396
 msgid "Comment=There was an error executing the proxy configuration script"
-msgstr "Comment=Et gouf e Feeler beim Ausféiere vum Proxy-Konfiguratiounsskript"
+msgstr ""
+"Comment=Et gouf e Feeler beim Ausféiere vum Proxy-Konfiguratiounsskript"
 
 #: kio/misc/kpac/proxyscout.desktop:4
 msgid "Name=Proxy Scout"
@@ -1573,7 +1581,8 @@ msgstr "Name=HéichKontrast"
 
 #: kstyles/highcontrast/highcontrast.themerc:48
 msgid "Comment=A style that works well with high contrast color schemes"
-msgstr "Comment=E Stil, dee gutt bei Faarfschemaë mat engem héiche Kontrast passt"
+msgstr ""
+"Comment=E Stil, dee gutt bei Faarfschemaë mat engem héiche Kontrast passt"
 
 #: kstyles/plastik/plastik.themerc:2
 msgid "Name=Plastik"
@@ -1645,7 +1654,8 @@ msgstr "Name=Liichte Stil, 2. Versioun"
 
 #: kstyles/themes/light-v2.themerc:72
 msgid "Comment=Second revision of the simple and elegant 'Light' widget style."
-msgstr "Comment=Zweet Versioun vum einfachen and eleganten 'liichte' Widget-Stil"
+msgstr ""
+"Comment=Zweet Versioun vum einfachen and eleganten 'liichte' Widget-Stil"
 
 #: kstyles/themes/light-v3.themerc:2
 msgid "Name=Light Style, 3rd revision"
@@ -1653,7 +1663,8 @@ msgstr "Name=Liichte Stil, 3. Versioun"
 
 #: kstyles/themes/light-v3.themerc:72
 msgid "Comment=Third revision of the simple and elegant 'Light' widget style."
-msgstr "Comment=Drëtt Versioun vum einfachen and eleganten 'liichte' Widget-Stil"
+msgstr ""
+"Comment=Drëtt Versioun vum einfachen and eleganten 'liichte' Widget-Stil"
 
 #: kstyles/themes/mega.themerc:2
 msgid "Name=MegaGradient highcolor style"
@@ -2931,4 +2942,3 @@ msgstr "Name=KDE-VillFaarwen"
 #: pics/hicolor/index.theme:52
 msgid "Comment=Fallback icon theme"
 msgstr "Comment=Ersatzsymbolthema"
-

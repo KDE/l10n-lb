@@ -68,7 +68,8 @@ msgstr "%1 Miniprogramm-Handler"
 
 #: core/container_applet.cpp:108
 msgid "The %1 applet could not be loaded. Please check your installation."
-msgstr "De Miniprogramm %1 konnt net geluede ginn. Kuckt är Installatioun w.e.g. no."
+msgstr ""
+"De Miniprogramm %1 konnt net geluede ginn. Kuckt är Installatioun w.e.g. no."
 
 #: core/container_applet.cpp:110
 msgid "Applet Loading Error"
@@ -523,7 +524,8 @@ msgstr "Spezialknäppercher"
 #: rc.cpp:24
 #, no-c-format
 msgid "<qt>Select here the only applet category that you want to show</qt>"
-msgstr "<qt>Wielt hei déi eenzeg Miniprogramm-Kategorie aus, déi dir uweise wëllt.</qt>"
+msgstr ""
+"<qt>Wielt hei déi eenzeg Miniprogramm-Kategorie aus, déi dir uweise wëllt.</qt>"
 
 #. i18n: file ui/appletview.ui line 123
 #: rc.cpp:27
@@ -723,4 +725,3 @@ msgstr "Gréisst"
 #, no-c-format
 msgid "Custom size"
 msgstr "Eege Gréisst"
-
