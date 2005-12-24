@@ -1,0 +1,56 @@
+# translation of kwriteconfig.po to Luxembourgish
+# Michel Ludwig <michel.ludwig@kdemail.net>, 2005.
+msgid ""
+msgstr ""
+"Project-Id-Version: kwriteconfig\n"
+"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"PO-Revision-Date: 2005-12-24 11:51+0100\n"
+"Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
+"Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11\n"
+
+#: kwriteconfig.cpp:19
+msgid "Use <file> instead of global config"
+msgstr "Benotz <file> amplaz vun der globaler Configuratiounsdatei"
+
+#: kwriteconfig.cpp:20
+msgid "Group to look in"
+msgstr "Grupp an där gekuckt soll ginn"
+
+#: kwriteconfig.cpp:21
+msgid "Key to look for"
+msgstr "Schlëssel no deem gesicht soll ginn"
+
+#: kwriteconfig.cpp:22
+msgid ""
+"Type of variable. Use \"bool\" for a boolean, otherwise it is treated as a "
+"string"
+msgstr "Typ vun der Variabel. Benotzt \"bool\" fir de Boolschen Typ, anerefalls gëtt se als eng Zeechekette behandelt"
+
+#: kwriteconfig.cpp:23
+msgid "The value to write. Mandatory, on a shell use '' for empty"
+msgstr "De Wäert dee geschriwwe soll ginn, obligatoresch. Bei enger Shell benotzt \" fir en eidele Wäert unzeginn"
+
+#: kwriteconfig.cpp:28
+msgid "KWriteConfig"
+msgstr "KWriteConfig"
+
+#: kwriteconfig.cpp:30
+msgid "Write KConfig entries - for use in shell scripts"
+msgstr "Schreift KConfig-Entréen - zur Benotzung a Shellskripter"
+
+#: _translatorinfo.cpp:1
+msgid ""
+"_: NAME OF TRANSLATORS\n"
+"Your names"
+msgstr "Michel Ludwig"
+
+#: _translatorinfo.cpp:3
+msgid ""
+"_: EMAIL OF TRANSLATORS\n"
+"Your emails"
+msgstr "michel.ludwig@kdemail.net"
+
