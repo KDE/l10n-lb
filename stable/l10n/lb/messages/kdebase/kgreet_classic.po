@@ -43,4 +43,3 @@ msgstr "Net-erkannten Agabopfuederung \"%1\""
 #: kgreet_classic.cpp:497
 msgid "Username + password (classic)"
 msgstr "Benotzernumm + Passwuert (klassesch)"
-

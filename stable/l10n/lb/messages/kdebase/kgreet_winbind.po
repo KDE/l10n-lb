@@ -52,4 +52,3 @@ msgstr "Net-erkannten Agabopfuederung \"%1\""
 #: kgreet_winbind.cpp:609
 msgid "Winbind / Samba"
 msgstr "Winbind / Samba"
-

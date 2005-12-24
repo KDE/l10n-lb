@@ -19,4 +19,3 @@ msgstr "Protokollnumm"
 #: kio_home.cpp:36 kio_home.cpp:37
 msgid "Socket name"
 msgstr "Socketnumm"
-

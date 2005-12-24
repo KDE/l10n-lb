@@ -32,4 +32,3 @@ msgstr "Dateinumm zevill laang"
 #: kio_nfs.cpp:1077
 msgid "Disk quota exceeded"
 msgstr "Späicherlimit um Dateisystem iwwerschratt"
-
