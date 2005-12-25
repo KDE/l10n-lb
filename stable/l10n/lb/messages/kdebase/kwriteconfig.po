@@ -28,11 +28,15 @@ msgstr "Schlëssel no deem gesicht soll ginn"
 msgid ""
 "Type of variable. Use \"bool\" for a boolean, otherwise it is treated as a "
 "string"
-msgstr "Typ vun der Variabel. Benotzt \"bool\" fir de Boolschen Typ, anerefalls gëtt se als eng Zeechekette behandelt"
+msgstr ""
+"Typ vun der Variabel. Benotzt \"bool\" fir de Boolschen Typ, anerefalls gëtt se "
+"als eng Zeechekette behandelt"
 
 #: kwriteconfig.cpp:23
 msgid "The value to write. Mandatory, on a shell use '' for empty"
-msgstr "De Wäert dee geschriwwe soll ginn, obligatoresch. Bei enger Shell benotzt \" fir en eidele Wäert unzeginn"
+msgstr ""
+"De Wäert dee geschriwwe soll ginn, obligatoresch. Bei enger Shell benotzt \" "
+"fir en eidele Wäert unzeginn"
 
 #: kwriteconfig.cpp:28
 msgid "KWriteConfig"
@@ -53,4 +57,3 @@ msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
 msgstr "michel.ludwig@kdemail.net"
-

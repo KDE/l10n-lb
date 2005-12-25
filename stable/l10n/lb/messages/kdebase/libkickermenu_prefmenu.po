@@ -23,4 +23,3 @@ msgstr "Kontrollzentrum"
 #: prefmenu.cpp:317
 msgid "No Entries"
 msgstr "Keng Entréen"
-
