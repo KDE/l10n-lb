@@ -38,4 +38,3 @@ msgstr "E Konqueror-Plugin fir d'Drécker-Verwaltung"
 #, no-c-format
 msgid "Print Manager Toolbar"
 msgstr "Drockmanager-Toolbar"
-
