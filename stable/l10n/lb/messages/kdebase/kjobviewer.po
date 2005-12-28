@@ -30,7 +30,8 @@ msgstr "All Dréckeren"
 
 #: kjobviewer.cpp:130
 msgid "There is no default printer. Start with --all to see all printers."
-msgstr "Et gëtt kee Standarddrécker. Start mat --all fir all d'Dréckeren ze gesinn."
+msgstr ""
+"Et gëtt kee Standarddrécker. Start mat --all fir all d'Dréckeren ze gesinn."
 
 #: kjobviewer.cpp:130
 msgid "Print Error"
@@ -67,4 +68,3 @@ msgstr "Optree&g"
 #, no-c-format
 msgid "F&ilter"
 msgstr "F&ilter"
-

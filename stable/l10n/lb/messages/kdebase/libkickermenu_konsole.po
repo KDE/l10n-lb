@@ -34,4 +34,3 @@ msgstr "Sëtzungen nach eng Kéier lueden"
 #: konsolebookmarkmenu.cpp:93
 msgid "Netscape Bookmarks"
 msgstr "Netscape-Lieszeechen"
-

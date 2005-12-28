@@ -23,4 +23,3 @@ msgstr "Netzwierkdossier dobäimaachen"
 #: remotemenu.cpp:72
 msgid "Manage Network Folders"
 msgstr "Netzwierkdossieren géréieren"
-
