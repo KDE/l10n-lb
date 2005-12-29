@@ -26,17 +26,22 @@ msgstr "Ausféieren >"
 
 #: runapplet.cpp:226
 msgid "You have to enter a command to execute or a URL to be opened first."
-msgstr "Dir musst fir d'éischt e Kommando ugi wat ausgeféiert soll ginn, oder eng URL déi opgemat soll ginn."
+msgstr ""
+"Dir musst fir d'éischt e Kommando ugi wat ausgeféiert soll ginn, oder eng URL "
+"déi opgemat soll ginn."
 
 #: runapplet.cpp:237
 msgid ""
 "Unable to log out properly.\n"
 "The session manager cannot be contacted. You can try to force a shutdown by "
-"pressing Ctrl+Alt+Backspace. Note, however, that your current session will "
-"not be saved with a forced shutdown."
+"pressing Ctrl+Alt+Backspace. Note, however, that your current session will not "
+"be saved with a forced shutdown."
 msgstr ""
 "Kann iech net propper ofmellen.\n"
-"De Sëtzungsmanager kann net kontaktéiert ginn. Dir kënnt versichen d'Ausschalten ze forcéieren an deems dir Ctrl+Alt+Zeréck-Tast dréckt. Beuecht awer w.e.g., dass är aktuell Sëtzung net gespäichert gëtt bei engem forcéierten Ausschalten."
+"De Sëtzungsmanager kann net kontaktéiert ginn. Dir kënnt versichen "
+"d'Ausschalten ze forcéieren an deems dir Ctrl+Alt+Zeréck-Tast dréckt. Beuecht "
+"awer w.e.g., dass är aktuell Sëtzung net gespäichert gëtt bei engem forcéierten "
+"Ausschalten."
 
 #: runapplet.cpp:268
 msgid ""
@@ -55,4 +60,3 @@ msgid ""
 msgstr ""
 "<qt>Konnt <b>%1</b> net ausféieren.\n"
 "Verbessert de Kommando oder d'URL w.e.g. a versicht et nach eng Kéier.</qt>"
-
