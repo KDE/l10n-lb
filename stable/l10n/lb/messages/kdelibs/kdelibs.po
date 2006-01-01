@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2005-12-28 03:11+0100\n"
+"POT-Creation-Date: 2006-01-01 03:11+0100\n"
 "PO-Revision-Date: 2005-12-18 23:11+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -4545,19 +4545,19 @@ msgstr ""
 "Virschau: %1\n"
 "Inhalt: %2\n"
 
-#: knewstuff/downloaddialog.cpp:592
+#: knewstuff/downloaddialog.cpp:595
 msgid "Installation successful."
 msgstr "Installatioun erfollegräich."
 
-#: knewstuff/downloaddialog.cpp:592 knewstuff/downloaddialog.cpp:594
+#: knewstuff/downloaddialog.cpp:595 knewstuff/downloaddialog.cpp:597
 msgid "Installation"
 msgstr "Installatioun"
 
-#: knewstuff/downloaddialog.cpp:594
+#: knewstuff/downloaddialog.cpp:597
 msgid "Installation failed."
 msgstr "Installatioun net gaang."
 
-#: knewstuff/downloaddialog.cpp:687
+#: knewstuff/downloaddialog.cpp:690
 msgid "Preview not available."
 msgstr "Keng Virschau do."
 
