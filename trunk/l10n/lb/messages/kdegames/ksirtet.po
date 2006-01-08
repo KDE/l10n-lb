@@ -153,4 +153,3 @@ msgstr "KSirtet ass eng Adaptatioun vum bekannten Tetris-Spill"
 #: main.cpp:28
 msgid "Removed Lines"
 msgstr "Ewechgemate Linnen"
-
