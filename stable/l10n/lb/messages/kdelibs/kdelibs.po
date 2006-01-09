@@ -1,11 +1,11 @@
 # translation of kdelibs.po to Luxembourgish
 # kevin claude everard <kevin@math.uni-sb.de>, 2005.
-# Michel Ludwig <michel.ludwig@kdemail.net>, 2005.
+# Michel Ludwig <michel.ludwig@kdemail.net>, 2005, 2006.
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
 "POT-Creation-Date: 2006-01-07 03:11+0100\n"
-"PO-Revision-Date: 2005-12-18 23:11+0100\n"
+"PO-Revision-Date: 2006-01-09 23:14+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -5750,10 +5750,9 @@ msgstr "Joër auswielen"
 
 #: kdeui/kdatepicker.cpp:170
 msgid "Select the current day"
-msgstr "Haidëgen Dag auswielen"
+msgstr "Heitegen Dag auswielen"
 
 #: kdeui/kwhatsthismanager.cpp:50
-#, fuzzy
 msgid ""
 "<b>Not Defined</b>"
 "<br>There is no \"What's This?\" help assigned to this widget. If you want to "
@@ -5761,9 +5760,9 @@ msgid ""
 "href=\"submit-whatsthis\">send us your own \"What's This?\" help</a> for it."
 msgstr ""
 "<b>Net definéiert</b>"
-"<br>Keng passend \"Wat ass dat\"-Hëllef fonnt. Wann dir eis hëllefe wëllt an "
+"<br>Keng passend \"Wat ass dat ?\"-Hëllef fonnt. Wann dir eis hëllefe wëllt an "
 "dat Element beschreiwe wëllt, kënnt dir eis <a href=\"submit-whatsthis\">"
-"eng \"Wat ass dat\"-Hëllef</a> schécken."
+"är eegen \"Wat ass dat ?\"-Hëllef</a> schécken."
 
 #: kdeui/kshortcutdialog.cpp:68
 msgid "Configure Shortcut"
@@ -10935,3 +10934,4 @@ msgid ""
 "_: QXml\n"
 "error in the text declaration of an external entity"
 msgstr "Feeler an der Text-Deklaratioun vun enger externer Entity"
+

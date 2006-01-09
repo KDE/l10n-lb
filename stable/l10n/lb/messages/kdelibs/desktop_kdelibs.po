@@ -1,11 +1,11 @@
 # translation of desktop_kdelibs.po to Luxembourgish
-# Michel Ludwig <michel.ludwig@kdemail.net>, 2005.
+# Michel Ludwig <michel.ludwig@kdemail.net>, 2005, 2006.
 msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2006-01-08 02:25+0000\n"
-"PO-Revision-Date: 2005-12-21 12:20+0100\n"
+"PO-Revision-Date: 2006-01-09 23:09+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -692,9 +692,8 @@ msgid "Name=Romanian"
 msgstr "Name=Rumänesch"
 
 #: kdecore/all_languages.desktop:7336
-#, fuzzy
 msgid "Name=Romany"
-msgstr "Name=Rumänesch"
+msgstr "Name=Romani"
 
 #: kdecore/all_languages.desktop:7352
 msgid "Name=Russian"
@@ -893,9 +892,8 @@ msgid "Name=Chinese Simplified"
 msgstr "Name=Einfacht Chinesesch"
 
 #: kdecore/all_languages.desktop:10070
-#, fuzzy
 msgid "Name=Chinese (Hong Kong)"
-msgstr "Name=Chinesesch"
+msgstr "Name=Chinesesch (Hong Kong)"
 
 #: kdecore/all_languages.desktop:10087
 msgid "Name=Chinese Traditional"
@@ -2952,3 +2950,4 @@ msgstr "Name=KDE-VillFaarwen"
 #: pics/hicolor/index.theme:52
 msgid "Comment=Fallback icon theme"
 msgstr "Comment=Ersatzsymbolthema"
+
