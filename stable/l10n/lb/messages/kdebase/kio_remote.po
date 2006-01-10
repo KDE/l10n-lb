@@ -23,4 +23,3 @@ msgstr "Socketnumm"
 #: remoteimpl.cpp:198
 msgid "Add a Network Folder"
 msgstr "En Netzwierkdossier dobäimaachen"
-

@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2006-01-07 03:11+0100\n"
+"POT-Creation-Date: 2006-01-10 03:10+0100\n"
 "PO-Revision-Date: 2006-01-09 23:14+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -8407,11 +8407,11 @@ msgstr ""
 "1 Ersetzung duerchgefouert.\n"
 "%n Ersetzungen duerchgefouert."
 
-#: kutils/kfind.cpp:651 kutils/kreplace.cpp:307
+#: kutils/kfind.cpp:650 kutils/kreplace.cpp:307
 msgid "Beginning of document reached."
 msgstr "Ufank vum Dokument erreecht."
 
-#: kutils/kfind.cpp:653 kutils/kreplace.cpp:309
+#: kutils/kfind.cpp:652 kutils/kreplace.cpp:309
 msgid "End of document reached."
 msgstr "Enn vum Dokument erreecht."
 
@@ -8493,7 +8493,7 @@ msgstr ""
 msgid "<qt>Find next occurrence of '<b>%1</b>'?</qt>"
 msgstr "<qt>Dat nächst Optriede vun '<b>%1</b>' sichen?</qt>"
 
-#: kutils/kfind.cpp:624 kutils/kfind.cpp:644
+#: kutils/kfind.cpp:623 kutils/kfind.cpp:643
 #, c-format
 msgid ""
 "_n: 1 match found.\n"
@@ -8502,19 +8502,19 @@ msgstr ""
 "1 Iwwereneestëmmung fonnt.\n"
 "%n Iwwereneestëmmunge fonnt."
 
-#: kutils/kfind.cpp:626
+#: kutils/kfind.cpp:625
 msgid "<qt>No matches found for '<b>%1</b>'.</qt>"
 msgstr "<qt>Keng Iwwereneestëmmung fonnt fir '<b>%1</b>'.</qt>"
 
-#: kutils/kfind.cpp:646
+#: kutils/kfind.cpp:645
 msgid "No matches found for '<b>%1</b>'."
 msgstr "Keng Iwwereneestëmmung fonnt fir '<b>%1</b>'."
 
-#: kutils/kfind.cpp:660
+#: kutils/kfind.cpp:659
 msgid "Continue from the end?"
 msgstr "Vun hanne weidersichen?"
 
-#: kutils/kfind.cpp:661
+#: kutils/kfind.cpp:660
 msgid "Continue from the beginning?"
 msgstr "Um Ufank weidersichen?"
 
@@ -10934,4 +10934,3 @@ msgid ""
 "_: QXml\n"
 "error in the text declaration of an external entity"
 msgstr "Feeler an der Text-Deklaratioun vun enger externer Entity"
-
