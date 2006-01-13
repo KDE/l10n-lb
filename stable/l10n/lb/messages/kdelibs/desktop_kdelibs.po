@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-01-12 02:24+0000\n"
+"POT-Creation-Date: 2006-01-13 02:25+0000\n"
 "PO-Revision-Date: 2006-01-09 23:09+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -895,11 +895,11 @@ msgstr "Name=Einfacht Chinesesch"
 msgid "Name=Chinese (Hong Kong)"
 msgstr "Name=Chinesesch (Hong Kong)"
 
-#: kdecore/all_languages.desktop:10098
+#: kdecore/all_languages.desktop:10099
 msgid "Name=Chinese Traditional"
 msgstr "Name=Traditionellt Chinesesch"
 
-#: kdecore/all_languages.desktop:10152
+#: kdecore/all_languages.desktop:10153
 msgid "Name=Zulu"
 msgstr "Name=Zulu"
 
