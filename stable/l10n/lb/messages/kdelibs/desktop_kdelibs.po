@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2006-01-13 02:25+0000\n"
-"PO-Revision-Date: 2006-01-09 23:09+0100\n"
+"PO-Revision-Date: 2006-01-16 18:29+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -2331,7 +2331,7 @@ msgstr "Comment=Bibliothéiksdatei"
 
 #: mimetypes/application/x-shellscript.desktop:3
 msgid "Comment=Shell Script"
-msgstr "Comment=Kommandozeilëskript"
+msgstr "Comment=Kommandozeileskript"
 
 #: mimetypes/application/x-shockwave-flash.desktop:7
 msgid "Comment=Shockwave Flash Media"
@@ -2950,3 +2950,4 @@ msgstr "Name=KDE-VillFaarwen"
 #: pics/hicolor/index.theme:52
 msgid "Comment=Fallback icon theme"
 msgstr "Comment=Ersatzsymbolthema"
+

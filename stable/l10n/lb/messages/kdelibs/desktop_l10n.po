@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: desktop_l10n\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2006-01-10 02:24+0000\n"
-"PO-Revision-Date: 2006-01-09 23:05+0100\n"
+"PO-Revision-Date: 2006-01-16 18:31+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -287,9 +287,8 @@ msgid "Name=Tamil"
 msgstr "Name=Tamil"
 
 #: te/messages/entry.desktop:2
-#, fuzzy
 msgid "Name=Telugu"
-msgstr "Name=Zulu"
+msgstr "Name=Telugu"
 
 #: tg/messages/entry.desktop:2
 msgid "Name=Tajik"
@@ -346,3 +345,4 @@ msgstr "Name=Chinesesch"
 #: zu/messages/entry.desktop:2
 msgid "Name=Zulu"
 msgstr "Name=Zulu"
+
