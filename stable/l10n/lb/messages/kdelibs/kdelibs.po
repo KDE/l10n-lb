@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2006-01-14 03:13+0100\n"
+"POT-Creation-Date: 2006-01-18 03:14+0100\n"
 "PO-Revision-Date: 2006-01-09 23:14+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -939,7 +939,7 @@ msgstr "&Schneiden"
 msgid "C&ut"
 msgstr "S&chneiden"
 
-#: common_texts.cpp:106 kdeui/kfontdialog.cpp:136
+#: common_texts.cpp:106 kdeui/kfontdialog.cpp:132
 msgid "Font"
 msgstr "Schrëft"
 
@@ -996,7 +996,7 @@ msgstr "Änneren"
 msgid "&Delete"
 msgstr "&Läschen"
 
-#: common_texts.cpp:125 kdeui/kfontdialog.cpp:229 kdeui/kfontdialog.cpp:480
+#: common_texts.cpp:125 kdeui/kfontdialog.cpp:225 kdeui/kfontdialog.cpp:476
 msgid "Italic"
 msgstr "Kursiv"
 
@@ -4144,7 +4144,7 @@ msgstr "Adar I"
 msgid "Adar II"
 msgstr "Adar II"
 
-#: kdecore/kaboutdata.cpp:363
+#: kdecore/kaboutdata.cpp:388
 msgid ""
 "_: replace this with information about your translation team\n"
 "<p>KDE is translated into many languages thanks to the work of the translation "
@@ -4156,7 +4156,7 @@ msgstr ""
 "all Iwwersetzungsteam op der Welt.</p>"
 "<p>Méi Informatioune fannt dir op http://i18n.kde.org</p>"
 
-#: kdecore/kaboutdata.cpp:418
+#: kdecore/kaboutdata.cpp:443
 msgid ""
 "No licensing terms for this program have been specified.\n"
 "Please check the documentation or the source for any\n"
@@ -4166,7 +4166,7 @@ msgstr ""
 "Kuckt w.e.g. an der Dokumentatioun oder am\n"
 "Quellcode no de Lizenzbedingungen\n"
 
-#: kdecore/kaboutdata.cpp:425
+#: kdecore/kaboutdata.cpp:450
 #, c-format
 msgid "This program is distributed under the terms of the %1."
 msgstr "Dëse Programm ass ënnert de Bedingunge vun %1 veröffentlëcht ginn."
@@ -5195,89 +5195,89 @@ msgstr "Iwwe&rsetzung"
 msgid "&License Agreement"
 msgstr "&Lizenz"
 
-#: kdeui/kfontdialog.cpp:105
+#: kdeui/kfontdialog.cpp:101
 msgid "Here you can choose the font to be used."
 msgstr "Hei kënnt dir eng Schrëft eraussichen."
 
-#: kdeui/kfontdialog.cpp:117
+#: kdeui/kfontdialog.cpp:113
 msgid "Requested Font"
 msgstr "Gewënscht Schrëft"
 
-#: kdeui/kfontdialog.cpp:140
+#: kdeui/kfontdialog.cpp:136
 msgid "Change font family?"
 msgstr "Schrëftfamill änneren?"
 
-#: kdeui/kfontdialog.cpp:142
+#: kdeui/kfontdialog.cpp:138
 msgid "Enable this checkbox to change the font family settings."
 msgstr "Wielt dësst Haische fir d'Astellunge vun der Schrëftfamill z'änneren."
 
-#: kdeui/kcharselect.cpp:383 kdeui/kfontdialog.cpp:148
+#: kdeui/kcharselect.cpp:383 kdeui/kfontdialog.cpp:144
 msgid "Font:"
 msgstr "Schrëft:"
 
-#: kdeui/kfontdialog.cpp:155
+#: kdeui/kfontdialog.cpp:151
 msgid "Font style"
 msgstr "Schrëftstil"
 
-#: kdeui/kfontdialog.cpp:159
+#: kdeui/kfontdialog.cpp:155
 msgid "Change font style?"
 msgstr "Stil änneren?"
 
-#: kdeui/kfontdialog.cpp:161
+#: kdeui/kfontdialog.cpp:157
 msgid "Enable this checkbox to change the font style settings."
 msgstr "Wielt dësst Haische fir d'Astellunge vum Schrëftstil z'änneren."
 
-#: kdeui/kfontdialog.cpp:167
+#: kdeui/kfontdialog.cpp:163
 msgid "Font style:"
 msgstr "Schrëftstil:"
 
-#: kdeui/kfontdialog.cpp:175
+#: kdeui/kfontdialog.cpp:171
 msgid "Size"
 msgstr "Gréisst"
 
-#: kdeui/kfontdialog.cpp:179
+#: kdeui/kfontdialog.cpp:175
 msgid "Change font size?"
 msgstr "Schrëftgréisst änneren?"
 
-#: kdeui/kfontdialog.cpp:181
+#: kdeui/kfontdialog.cpp:177
 msgid "Enable this checkbox to change the font size settings."
 msgstr "Wielt dësst Haische fir d'Astellunge vun der Schrëftgréisst z'änneren."
 
-#: kdeui/kfontdialog.cpp:187
+#: kdeui/kfontdialog.cpp:183
 msgid "Size:"
 msgstr "Gréisst:"
 
-#: kdeui/kfontdialog.cpp:203
+#: kdeui/kfontdialog.cpp:199
 msgid "Here you can choose the font family to be used."
 msgstr "Hei kënnt dir d'Schrëftfamill wielen, déi benotzt soll ginn."
 
-#: kdeui/kfontdialog.cpp:225
+#: kdeui/kfontdialog.cpp:221
 msgid "Here you can choose the font style to be used."
 msgstr "Hei kënnt dir de Schrëftstil wielen, dee benotzt soll ginn."
 
-#: kdeui/kfontdialog.cpp:228 kdeui/kfontdialog.cpp:476
-#: kdeui/kfontdialog.cpp:478 kdeui/kfontdialog.cpp:487
-#: kdeui/kfontdialog.cpp:488
+#: kdeui/kfontdialog.cpp:224 kdeui/kfontdialog.cpp:472
+#: kdeui/kfontdialog.cpp:474 kdeui/kfontdialog.cpp:483
+#: kdeui/kfontdialog.cpp:484
 msgid "Regular"
 msgstr "Normal"
 
-#: kdeui/kfontdialog.cpp:230
+#: kdeui/kfontdialog.cpp:226
 msgid "Bold"
 msgstr "Fett"
 
-#: kdeui/kfontdialog.cpp:231
+#: kdeui/kfontdialog.cpp:227
 msgid "Bold Italic"
 msgstr "Fett kursiv"
 
-#: kdeui/kfontdialog.cpp:248
+#: kdeui/kfontdialog.cpp:244
 msgid "Relative"
 msgstr "Relativ"
 
-#: kdeui/kfontdialog.cpp:250
+#: kdeui/kfontdialog.cpp:246
 msgid "Font size<br><i>fixed</i> or <i>relative</i><br>to environment"
 msgstr "Schrëftgréisst <br><i>fest</i> oder <i>relativ</i><br>zum Rescht"
 
-#: kdeui/kfontdialog.cpp:252
+#: kdeui/kfontdialog.cpp:248
 msgid ""
 "Here you can switch between fixed font size and font size to be calculated "
 "dynamically and adjusted to changing environment (e.g. widget dimensions, paper "
@@ -5287,16 +5287,16 @@ msgstr ""
 "Schrëftgréisst, déi dynamësch berechent gëtt, an déi sëch dem Rescht (z.B. der "
 "Gréisst vun de Schalteren oder der Gréisst vum Pabeier) upasst. "
 
-#: kdeui/kfontdialog.cpp:276
+#: kdeui/kfontdialog.cpp:272
 msgid "Here you can choose the font size to be used."
 msgstr "Hei kënnt dir d'Schrëftgréisst wielen, déi benotzt soll ginn."
 
-#: kdeui/kfontdialog.cpp:299
+#: kdeui/kfontdialog.cpp:295
 msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
 msgstr ""
 "Ëch hätt gär dräi Wirschtercher mat Fritten a Ketchup, ouni Zalot a Geméis"
 
-#: kdeui/kfontdialog.cpp:304
+#: kdeui/kfontdialog.cpp:300
 msgid ""
 "This sample text illustrates the current settings. You may edit it to test "
 "special characters."
@@ -5304,7 +5304,7 @@ msgstr ""
 "Dëse Beispilltext illustréiert déi momentan Astellungen. Dir kënnt e veränneren "
 "fir d'Duerstellung vu speziellen Zeechen ze kucken."
 
-#: kdeui/kfontdialog.cpp:313 kdeui/kfontdialog.cpp:323
+#: kdeui/kfontdialog.cpp:309 kdeui/kfontdialog.cpp:319
 msgid "Actual Font"
 msgstr "Aktuell Schrëft"
 
@@ -5993,23 +5993,23 @@ msgstr ""
 "<p>Verstoppt d'Statusbar. Dat ass déi Leescht ënnen an der Fënster fir "
 "d'Statusinformatiounen."
 
-#: kdeui/kpassdlg.cpp:370
+#: kdeui/kpassdlg.cpp:371
 msgid "&Password:"
 msgstr "&Passwuert:"
 
-#: kdeui/kpassdlg.cpp:389
+#: kdeui/kpassdlg.cpp:390
 msgid "&Keep password"
 msgstr "Passwuert &bäibehalen"
 
-#: kdeui/kpassdlg.cpp:401
+#: kdeui/kpassdlg.cpp:402
 msgid "&Verify:"
 msgstr "&Nokucken:"
 
-#: kdeui/kpassdlg.cpp:423
+#: kdeui/kpassdlg.cpp:424
 msgid "Password strength meter:"
 msgstr "Passwuert-Sëcherheetsmeter:"
 
-#: kdeui/kpassdlg.cpp:427
+#: kdeui/kpassdlg.cpp:428
 msgid ""
 "The password strength meter gives an indication of the security of the password "
 "you have entered.  To improve the strength of the password, try:\n"
@@ -6024,16 +6024,16 @@ msgstr ""
 " - eng Mëschung aus grouss- a klenggeschriwwene Bustawen;\n"
 " - eng Mëschung aus Zuelen oder Zeechen (z.B. #) a Bustawen."
 
-#: kdeui/kpassdlg.cpp:443 kdeui/kpassdlg.cpp:615
+#: kdeui/kpassdlg.cpp:444 kdeui/kpassdlg.cpp:616
 msgid "Passwords do not match"
 msgstr "Passwierder si verschidden"
 
-#: kdeui/kpassdlg.cpp:513
+#: kdeui/kpassdlg.cpp:514
 msgid "You entered two different passwords. Please try again."
 msgstr ""
 "Dir hutt zwee verschidde Passwierder agin. Probéiert w.e.g. nach eng Kéier."
 
-#: kdeui/kpassdlg.cpp:520
+#: kdeui/kpassdlg.cpp:521
 msgid ""
 "The password you have entered has a low strength. To improve the strength of "
 "the password, try:\n"
@@ -6051,15 +6051,15 @@ msgstr ""
 "\n"
 "Wëllt dir dësst Passwuert trotzdem bäibehalen?"
 
-#: kdeui/kpassdlg.cpp:528
+#: kdeui/kpassdlg.cpp:529
 msgid "Low Password Strength"
 msgstr "Niddereg Passwuert-Sëcherheet"
 
-#: kdeui/kpassdlg.cpp:609
+#: kdeui/kpassdlg.cpp:610
 msgid "Password is empty"
 msgstr "D'Passwuert ass eidel"
 
-#: kdeui/kpassdlg.cpp:612
+#: kdeui/kpassdlg.cpp:613
 #, c-format
 msgid ""
 "_n: Password must be at least 1 character long\n"
@@ -6068,7 +6068,7 @@ msgstr ""
 "D'Passwuert muss mindestens aus engem Zeeche bestoën\n"
 "D'Passwuert muss mindestens %n Zeeche laang sinn"
 
-#: kdeui/kpassdlg.cpp:614
+#: kdeui/kpassdlg.cpp:615
 msgid "Passwords match"
 msgstr "Selwëcht Passwierder"
 
