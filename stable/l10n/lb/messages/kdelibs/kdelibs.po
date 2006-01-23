@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2006-01-22 03:14+0100\n"
+"POT-Creation-Date: 2006-01-23 03:14+0100\n"
 "PO-Revision-Date: 2006-01-09 23:14+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -7566,7 +7566,7 @@ msgstr "JavaScript huet probéiert, e Lieszeechen dobäizemaachen"
 msgid "Disallow"
 msgstr "Net zouloossen"
 
-#: khtml/ecma/kjs_proxy.cpp:387
+#: khtml/ecma/kjs_proxy.cpp:388
 msgid ""
 "A script on this page is causing KHTML to freeze. If it continues to run, other "
 "applications may become less responsive.\n"
@@ -7576,11 +7576,11 @@ msgstr ""
 "ginn eventuell och aner Programmer mat abezunn.\n"
 "Wëllt dir d'Ausféierung vum Script ofbriechen?"
 
-#: khtml/ecma/kjs_proxy.cpp:387
+#: khtml/ecma/kjs_proxy.cpp:388
 msgid "JavaScript"
 msgstr "JavaScript"
 
-#: khtml/ecma/kjs_proxy.cpp:387
+#: khtml/ecma/kjs_proxy.cpp:388
 msgid "&Abort"
 msgstr "&Ofbriechen"
 
@@ -7844,7 +7844,7 @@ msgstr "Eroflueden"
 msgid "Do Not Download"
 msgstr "Net eroflueden"
 
-#: kinit/kinit.cpp:440
+#: kinit/kinit.cpp:442
 msgid ""
 "Unable to start new process.\n"
 "The system may have reached the maximum number of open files possible or the "
@@ -7854,7 +7854,7 @@ msgstr ""
 "Déi maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn oder déi vun iech "
 "agestallte maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn."
 
-#: kinit/kinit.cpp:462
+#: kinit/kinit.cpp:464
 msgid ""
 "Unable to create new process.\n"
 "The system may have reached the maximum number of processes possible or the "
@@ -7864,11 +7864,11 @@ msgstr ""
 "Déi maximal Unzuel vu Prozesser kéint erreecht sinn oder déi vun iech "
 "agestallte maximal Unzuel vu Prozesser kéint erreecht sinn."
 
-#: kinit/kinit.cpp:553
+#: kinit/kinit.cpp:555
 msgid "Could not find '%1' executable."
 msgstr "Konnt de Programm '%1' net fannen."
 
-#: kinit/kinit.cpp:569
+#: kinit/kinit.cpp:571
 msgid ""
 "Could not open library '%1'.\n"
 "%2"
@@ -7876,11 +7876,11 @@ msgstr ""
 "Konnt d'Bibliothéik '%1' net opmaachen.\n"
 "%2"
 
-#: kinit/kinit.cpp:570 kinit/kinit.cpp:613
+#: kinit/kinit.cpp:572 kinit/kinit.cpp:615
 msgid "Unknown error"
 msgstr "Onbekannte Feeler"
 
-#: kinit/kinit.cpp:612
+#: kinit/kinit.cpp:614
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
 "%2"
