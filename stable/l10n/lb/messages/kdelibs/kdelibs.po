@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2006-01-25 03:12+0100\n"
+"POT-Creation-Date: 2006-01-28 03:14+0100\n"
 "PO-Revision-Date: 2006-01-09 23:14+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -7426,7 +7426,7 @@ msgstr "fatale Parsing-Feeler: %1, Zeil %2, Kolonn %3"
 msgid "XML parsing error"
 msgstr "XML Parsing-Feeler"
 
-#: khtml/xml/dom_docimpl.cpp:2007
+#: khtml/xml/dom_docimpl.cpp:2001
 msgid "Basic Page Style"
 msgstr "Grondstil"
 
