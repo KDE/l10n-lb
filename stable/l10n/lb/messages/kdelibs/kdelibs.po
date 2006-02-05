@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2006-02-02 03:14+0100\n"
+"POT-Creation-Date: 2006-02-05 03:53+0100\n"
 "PO-Revision-Date: 2006-01-09 23:14+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -7507,7 +7507,7 @@ msgstr ""
 "%1, Zeil %2:\n"
 "%3"
 
-#: khtml/ecma/kjs_html.cpp:2129 khtml/ecma/kjs_window.cpp:1358
+#: khtml/ecma/kjs_html.cpp:2125 khtml/ecma/kjs_window.cpp:1358
 msgid "Confirmation: JavaScript Popup"
 msgstr "Bestätegung: JavaScript-Fënsteren"
 
@@ -7529,11 +7529,11 @@ msgstr ""
 "<p>%1</p>an enger neier Fënster iwwert JavaScript opzemaachen."
 "<br/>Wëllt dir dat zouloossen?</qt>"
 
-#: khtml/ecma/kjs_html.cpp:2136 khtml/ecma/kjs_window.cpp:1366
+#: khtml/ecma/kjs_html.cpp:2132 khtml/ecma/kjs_window.cpp:1366
 msgid "Allow"
 msgstr "Erlaben"
 
-#: khtml/ecma/kjs_html.cpp:2136 khtml/ecma/kjs_window.cpp:1366
+#: khtml/ecma/kjs_html.cpp:2132 khtml/ecma/kjs_window.cpp:1366
 msgid "Do Not Allow"
 msgstr "Net erlaben"
 
@@ -7545,24 +7545,24 @@ msgstr "Fënster zoumaachen?"
 msgid "Confirmation Required"
 msgstr "Bestätegung noutwendeg"
 
-#: khtml/ecma/kjs_window.cpp:2423
+#: khtml/ecma/kjs_window.cpp:2443
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr "Wëllt dir e Lieszeeche fir \"%1\" an är Sammlung dobäimaachen?"
 
-#: khtml/ecma/kjs_window.cpp:2426
+#: khtml/ecma/kjs_window.cpp:2446
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
 "added to your collection?"
 msgstr ""
 "Wëllt dir e Lieszeeche mam Numm \"%2\" fir \"%1\" an är Sammlung dobäimaachen?"
 
-#: khtml/ecma/kjs_window.cpp:2434
+#: khtml/ecma/kjs_window.cpp:2454
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr "JavaScript huet probéiert, e Lieszeechen dobäizemaachen"
 
-#: khtml/ecma/kjs_window.cpp:2438
+#: khtml/ecma/kjs_window.cpp:2458
 msgid "Disallow"
 msgstr "Net zouloossen"
 
@@ -7584,7 +7584,7 @@ msgstr "JavaScript"
 msgid "&Abort"
 msgstr "&Ofbriechen"
 
-#: khtml/ecma/kjs_html.cpp:2131
+#: khtml/ecma/kjs_html.cpp:2127
 msgid ""
 "This site is submitting a form which will open up a new browser window via "
 "JavaScript.\n"
@@ -7594,7 +7594,7 @@ msgstr ""
 "Fënster opmëcht.\n"
 "Wëllt dir dat zouloossen?"
 
-#: khtml/ecma/kjs_html.cpp:2134
+#: khtml/ecma/kjs_html.cpp:2130
 msgid ""
 "<qt>This site is submitting a form which will open "
 "<p>%1</p> in a new browser window via JavaScript.<br />"
