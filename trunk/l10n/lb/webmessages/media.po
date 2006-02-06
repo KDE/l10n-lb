@@ -1,0 +1,236 @@
+# translation of media.po to Luxembourgish
+# Michel Ludwig <michel.ludwig@kdemail.net>, 2006.
+# Copyright (C) 2006 Free Software Foundation, Inc.
+msgid ""
+msgstr ""
+"Project-Id-Version: media\n"
+"POT-Creation-Date: 2005-05-21 16:56+0200\n"
+"PO-Revision-Date: 2006-02-06 18:57+0100\n"
+"Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
+"Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.1\n"
+
+msgid "Latest News"
+msgstr "Leschten Neiegkeeten"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Headline"
+msgstr "Schlagzeil"
+
+msgid "This is a list of the latest news headlines shown on KDE Dot News"
+msgstr "Dëst ass eng Lëscht vun de leschte Schlagzeilen déi op KDE-Dot-News gewise goufen"
+
+msgid "Read the full article on dot.kde.org"
+msgstr "Liest de kompletten Artikel op dot.kde.org"
+
+msgid "View older news items"
+msgstr "Kuckt méi al Neiegkeeten"
+
+msgid "more news..."
+msgstr "Méi Neiegkeeten"
+
+msgid "News from dot.kde.org is currently unavailable."
+msgstr "Neiegkeete vun dot.kde.org sinn am Moment net verfügbar"
+
+msgid "Latest Applications"
+msgstr "Neitste Programmer"
+
+msgid "List of latest third party application releases for KDE"
+msgstr "Lëscht vun den neitste KDE-Programmer déi net vun der KDE-Communautéit hiergestallt goufen"
+
+msgid "Application / Release"
+msgstr "Programm / Versioun"
+
+msgid "View <a href=\"http://kde-apps.org/\">more applications...</a>"
+msgstr "Kuckt no <a href=\"http://kde-apps.org/\">weidere Programmer...</a>"
+
+msgid "Disclaimer: "
+msgstr "Haftungsausschloss: "
+
+msgid ""
+"Application feed provided by <a href=\"http://kde-apps.org/\">kde-apps.org</"
+"a>, an independent KDE website."
+msgstr ""
+"D'Lëscht vun de Programmer gouf bereetgestallt vu <a href=\"http://kde-apps.org/\">kde-apps.org</"
+"a>, eng onofhängeg KDE-Websäit."
+
+msgid "New application list from kde-apps.org is currently not available."
+msgstr "Lëschte vun neie Programmer vu kde-apps.org sinn am Moment net verfügbar"
+
+msgid "Search:"
+msgstr "Sichen:"
+
+msgid "kde.org"
+msgstr "kde.org"
+
+msgid "kde-look.org"
+msgstr "kde-look.org"
+
+msgid "Applications"
+msgstr "Programmer"
+
+msgid "Documentation"
+msgstr "Dokumentatioun"
+
+msgid "Search"
+msgstr "Sichen"
+
+msgid "Hotspot"
+msgstr "Hotspot"
+
+msgid "KDE Home"
+msgstr "KDE-Heem"
+
+msgid "KDE Accessibility Home"
+msgstr "KDE-Accessibility-Heem"
+
+msgid "Description of Access Keys"
+msgstr "Beschreiwung vun den Zougrëffstasten"
+
+msgid "Maintained by"
+msgstr "Betreit vun"
+
+msgid ""
+"Maintained by <a href=\"&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#x77;e&#098;"
+"ma&#115;t&#x65;&#x72;&#64;kde&#46;or&#x67;\">kde.org Webmaster</a><br />\n"
+msgstr ""
+"Betreit vun <a href=\"&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#x77;e&#098;"
+"ma&#115;t&#x65;&#x72;&#64;kde&#46;or&#x67;\">kde.org Webmaster</a><br />\n"
+
+msgid "KDE and K Desktop Environment are trademarks of"
+msgstr "KDE an K Desktop Environment sinn agedroe Wuerenzeechen vu"
+
+msgid "KDE e.V."
+msgstr "KDE e.V."
+
+msgid "Legal"
+msgstr "Rechtlecht"
+
+msgid "K Desktop Environment"
+msgstr "K Bürosemgebung"
+
+msgid "Choose your location"
+msgstr "Wielt äre Standuert"
+
+msgid "KDE in Your Country"
+msgstr "KDE an ärem Land"
+
+msgid "Chile"
+msgstr "Chile"
+
+msgid "Latin America"
+msgstr "Latäin Amerika"
+
+msgid "China"
+msgstr "China"
+
+msgid "Iran"
+msgstr "Iran"
+
+msgid "Israel"
+msgstr "Israel"
+
+msgid "Japan"
+msgstr "Japan"
+
+msgid "Korea"
+msgstr "Korea"
+
+msgid "Taiwan"
+msgstr "Taiwan"
+
+msgid "Turkey"
+msgstr "Türkei"
+
+msgid "Bulgaria"
+msgstr "Bulgarien"
+
+msgid "Czech Republic"
+msgstr "Tschechesch Republik"
+
+msgid "France"
+msgstr "Frankräich"
+
+msgid "Germany"
+msgstr "Däitschland"
+
+msgid "Great Britain"
+msgstr "Groussbritannien"
+
+msgid "Iceland"
+msgstr "Island"
+
+msgid "Ireland"
+msgstr "Irland"
+
+msgid "Italy"
+msgstr "Italien"
+
+msgid "Netherlands"
+msgstr "Holland"
+
+msgid "Poland"
+msgstr "Polen"
+
+msgid "Romania"
+msgstr "Rumänien"
+
+msgid "Russia"
+msgstr "Russland"
+
+msgid "Spain"
+msgstr "Spuenien"
+
+msgid "Ukraine"
+msgstr "Ukrain"
+
+msgid "Yugoslavia"
+msgstr "Jugoslawien"
+
+msgid "Regional KDE Mirrors"
+msgstr "Regional KDE-Mirrors"
+
+msgid "United States"
+msgstr "Vereenegt Staten"
+
+msgid "Thailand"
+msgstr "Thailand"
+
+msgid "Australia"
+msgstr "Australien"
+
+msgid "Austria"
+msgstr "Éisterräich"
+
+msgid "Lithuania"
+msgstr "Litauen"
+
+msgid "Portugal"
+msgstr "Portugal"
+
+msgid "Sweden"
+msgstr "Schweden"
+
+msgid "Switzerland"
+msgstr "Schwäiz"
+
+msgid "Skip to Link Menu"
+msgstr "Zum Link-Menü sprangen"
+
+msgid "Error while opening $rdf_file"
+msgstr "Feeler beim Opmaache vun der $rdf_file"
+
+msgid "Questions"
+msgstr "Froen"
+
+msgid "Answers"
+msgstr "Äntwerten"
+
+msgid "[Up to Questions]"
+msgstr "[Erop bei d'Froen]"
+
