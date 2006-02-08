@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-02-07 03:09+0000\n"
+"POT-Creation-Date: 2006-02-08 03:08+0000\n"
 "PO-Revision-Date: 2006-01-16 18:29+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2630,6 +2630,11 @@ msgstr "Comment=Portéierbart Graymap-Bild"
 #: mimetypes/image/x-portable-pixmap.desktop:7
 msgid "Comment=Portable Pixmap Image"
 msgstr "Comment=Portéierbart Pixmap-Bild"
+
+#: mimetypes/image/x-raw.desktop:7
+#, fuzzy
+msgid "Comment=RAW Camera File"
+msgstr "Comment=C-Header-Datei"
 
 #: mimetypes/image/x-rgb.desktop:7
 msgid "Comment=SGI Image (RGB)"
