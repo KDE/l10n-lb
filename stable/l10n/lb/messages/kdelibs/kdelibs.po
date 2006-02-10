@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2006-02-09 03:55+0100\n"
+"POT-Creation-Date: 2006-02-10 03:56+0100\n"
 "PO-Revision-Date: 2006-01-09 23:14+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -12,720 +12,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11\n"
-
-#. i18n: file ./interfaces/ktexteditor/editorchooser_ui.ui line 16
-#: rc.cpp:3
-#, no-c-format
-msgid "Editor Chooser"
-msgstr "Editor Auswielen"
-
-#. i18n: file ./interfaces/ktexteditor/editorchooser_ui.ui line 41
-#: rc.cpp:6
-#, no-c-format
-msgid ""
-"Please choose the default text editing component that you wish to use in this "
-"application. If you choose <B>System Default</B>, the application will honor "
-"your changes in the Control Center. All other choices will override that "
-"setting."
-msgstr ""
-"Wielt w.e.g. de standard Texteditor, deen dir an dësem Programm wëllt benotzen. "
-"Wann dir ierch fir den <B> System-Standard</B> entscheed, da ginn all är "
-"Ännerungen am Kontrollzentrum gespäichert. All anere Choix ignoréiert déi "
-"Astellung."
-
-#. i18n: file ./kdecore/kconfig_compiler/general_base.ui line 16
-#: rc.cpp:9
-#, no-c-format
-msgid "AutoExampleDialog"
-msgstr "AutoBeispillsdialog"
-
-#. i18n: file ./kdecore/kconfig_compiler/general_base.ui line 27
-#: rc.cpp:12
-#, no-c-format
-msgid "OneOption"
-msgstr "Eng Optioun"
-
-#. i18n: file ./kdecore/kconfig_compiler/general_base.ui line 40
-#: rc.cpp:15
-#, no-c-format
-msgid "AnotherOption:"
-msgstr "Eng aner Optioun:"
-
-#. i18n: file ./kdecore/kconfig_compiler/myoptions_base.ui line 24
-#: rc.cpp:18
-#, no-c-format
-msgid "MyString:"
-msgstr "Mäi String:"
-
-#. i18n: file ./kcert/kcertpart.rc line 4
-#: rc.cpp:21
-#, no-c-format
-msgid "&Certificate"
-msgstr "&Zertifikat"
-
-#. i18n: file ./kdeui/kshortcutdialog_advanced.ui line 58
-#: rc.cpp:25
-#, no-c-format
-msgid "Alternate shortcut:"
-msgstr "Alternative Kierzel:"
-
-#. i18n: file ./kdeui/kshortcutdialog_advanced.ui line 69
-#: rc.cpp:28
-#, no-c-format
-msgid "Primary shortcut:"
-msgstr "Haaptkierzel:"
-
-#. i18n: file ./kdeui/kshortcutdialog_advanced.ui line 155
-#: rc.cpp:33
-#, no-c-format
-msgid ""
-"The currently set shortcut or the shortcut you are entering will show up here."
-msgstr ""
-"Den aktuellen Tastekierzel oder deen, deen dir grad agitt, gesitt dir hei."
-
-#. i18n: file ./kdeui/kshortcutdialog_advanced.ui line 182
-#: rc.cpp:36 rc.cpp:42 rc.cpp:99
-#, no-c-format
-msgid "x"
-msgstr "x"
-
-#. i18n: file ./kdeui/kshortcutdialog_advanced.ui line 188
-#: rc.cpp:39 rc.cpp:45 rc.cpp:102
-#, no-c-format
-msgid "Clear shortcut"
-msgstr "Kierzel läschen"
-
-#. i18n: file ./kdeui/kshortcutdialog_advanced.ui line 213
-#: rc.cpp:48
-#, no-c-format
-msgid "Multi-key mode"
-msgstr "Méi-Tasten-Modus"
-
-#. i18n: file ./kdeui/kshortcutdialog_advanced.ui line 216
-#: rc.cpp:51
-#, no-c-format
-msgid "Enable the entry of multi-key shortcuts"
-msgstr "Kierzel vun e puer Tasten zouloossen"
-
-#. i18n: file ./kdeui/kshortcutdialog_advanced.ui line 219
-#: rc.cpp:54
-#, no-c-format
-msgid ""
-"Select this checkbox to enable the entry of multi-key shortcuts.  A multi-key "
-"shortcut consists of a sequence of up to 4 keys.  For example, you could assign "
-"\"Ctrl+F,B\" to Font-Bold and \"Ctrl+F,U\" to Font-Underline."
-msgstr ""
-"Wielt dëst Haischen fir Kierzel vun e puer Tasten zouzëloossen. Esou Kierzele "
-"bestinn aus enger Sequenz vu bis zu 4 Tasten. Zum Beispill kënnt dir fir \"Text "
-"ënnersträichen\" de Kierzel \"Ctrl+F,U\" wielen, a fir \"Text kursiv\" de "
-"Kierzel \"Ctrl+F,I\"."
-
-#. i18n: file ./kdeui/ui_standards.rc line 4
-#: common_texts.cpp:77 rc.cpp:57 rc.cpp:278
-#, no-c-format
-msgid "&File"
-msgstr "&Datei"
-
-#. i18n: file ./kdeui/ui_standards.rc line 33
-#: common_texts.cpp:131 rc.cpp:60
-#, no-c-format
-msgid "&Game"
-msgstr "S&pill"
-
-#. i18n: file ./kdeui/ui_standards.rc line 57
-#: common_texts.cpp:81 rc.cpp:63 rc.cpp:245 rc.cpp:281
-#, no-c-format
-msgid "&Edit"
-msgstr "V&eränneren"
-
-#. i18n: file ./kdeui/ui_standards.rc line 80
-#: rc.cpp:66
-#, no-c-format
-msgid ""
-"_: Menu title\n"
-"&Move"
-msgstr "&Réckelen"
-
-#. i18n: file ./kdeui/ui_standards.rc line 97
-#: common_texts.cpp:84 rc.cpp:69 rc.cpp:284
-#, no-c-format
-msgid "&View"
-msgstr "&Siicht"
-
-#. i18n: file ./kdeui/ui_standards.rc line 112
-#: rc.cpp:72 rc.cpp:75
-#, no-c-format
-msgid "&Go"
-msgstr "&Goen"
-
-#. i18n: file ./kdeui/ui_standards.rc line 133
-#: common_texts.cpp:182 rc.cpp:78
-#, no-c-format
-msgid "&Bookmarks"
-msgstr "&Lieszeechen"
-
-#. i18n: file ./kdeui/ui_standards.rc line 139
-#: common_texts.cpp:185 rc.cpp:81
-#, no-c-format
-msgid "&Tools"
-msgstr "&Verschiddenes"
-
-#. i18n: file ./kdeui/ui_standards.rc line 143
-#: common_texts.cpp:192 rc.cpp:84
-#, no-c-format
-msgid "&Settings"
-msgstr "&Astellungen"
-
-#. i18n: file ./kdeui/ui_standards.rc line 184
-#: common_texts.cpp:254 rc.cpp:90 rc.cpp:287
-#, no-c-format
-msgid "Main Toolbar"
-msgstr "Haapt-Toolbar"
-
-#. i18n: file ./kdeui/kshortcutdialog_simple.ui line 27
-#: rc.cpp:93
-#, no-c-format
-msgid "Shortcut:"
-msgstr "Kierzel:"
-
-#. i18n: file ./kdeui/kshortcutdialog_simple.ui line 65
-#: rc.cpp:96
-#, no-c-format
-msgid "Alt+Tab"
-msgstr "Alt+Tab"
-
-#. i18n: file ./kdeui/kspellui.ui line 38
-#: rc.cpp:105 rc.cpp:323
-#, no-c-format
-msgid "Unknown word:"
-msgstr "Onbekannt Wuert:"
-
-#. i18n: file ./kdeui/kspellui.ui line 44
-#: rc.cpp:108 rc.cpp:120 rc.cpp:326 rc.cpp:338
-#, no-c-format
-msgid ""
-"<qt>"
-"<p>This word was considered to be an \"unknown word\" because it does not match "
-"any entry in the dictionary currently in use. It may also be a word in a "
-"foreign language.</p>\n"
-"<p>If the word is not misspelled, you may add it to the dictionary by clicking "
-"<b>Add to Dictionary</b>. If you don't want to add the unknown word to the "
-"dictionary, but you want to leave it unchanged, click <b>Ignore</b> or <b>"
-"Ignore All</b>.</p>\n"
-"<p>However, if the word is misspelled, you can try to find the correct "
-"replacement in the list below. If you cannot find a replacement there, you may "
-"type it in the text box below, and click <b>Replace</b> or <b>Replace All</b>"
-".</p>\n"
-"</qt>"
-msgstr ""
-"<qt>"
-"<p> Dësst Wuert ass \"onbekannt\", well et am aktuelle Wierderbuch net "
-"virkënnt. Et kéint och e Wuert aus enger anerer Sprooch sinn.</p>\n"
-"<p>Falls d'Wuert net falsch geschriwwe ginn ass, kënnt dir et mat <b>"
-"an d'Wierderbuch Dobäischreiwen</b> an Zukunft ouni Problem benotzen. Mat engem "
-"Klick op <b>Ignoréieren</b> oder <b>Alles Ignoréieren</b> "
-"kënnt dir d'Wuert onverännert loossen ouni et an d'Wierderbuch ze schreiwen.</p>"
-"\n"
-"<p>Ass d'Wuert awer falsch geschriwwen, da kënnt dir ën Ersatz an der Lëscht "
-"hei drënner eraussichen oder selwer een agin. Duerch e Klick op <b>Ersetzen</b> "
-"oder <b>Alles Ersetzen</b> ginn d'Ännerungen da virgeholl.</p>\n"
-"</qt>"
-
-#. i18n: file ./kdeui/kspellui.ui line 52
-#: rc.cpp:114 rc.cpp:332
-#, no-c-format
-msgid "<b>misspelled</b>"
-msgstr "<b>falsch geschriwwen</b>"
-
-#. i18n: file ./kdeui/kspellui.ui line 55
-#: rc.cpp:117 rc.cpp:335
-#, no-c-format
-msgid "Unknown word"
-msgstr "Onbekannt Wuert"
-
-#. i18n: file ./kdeui/kspellui.ui line 69
-#: rc.cpp:126 rc.cpp:344
-#, no-c-format
-msgid "&Language:"
-msgstr "&Sprooch:"
-
-#. i18n: file ./kdeui/kspellui.ui line 77
-#: rc.cpp:129 rc.cpp:224 rc.cpp:347 rc.cpp:405
-#, no-c-format
-msgid ""
-"<qt>\n"
-"<p>Select the language of the document you are proofing here.</p>\n"
-"</qt>"
-msgstr ""
-"<qt>\n"
-"<p>Wielt hei d'Sprooch vun deem Dokument, dat nogekuckt soll ginn.</p>\n"
-"</qt>"
-
-#. i18n: file ./kdeui/kspellui.ui line 88
-#: rc.cpp:134 rc.cpp:352
-#, no-c-format
-msgid "... the <b>misspelled</b> word shown in context ..."
-msgstr "... dat <b>falsch geschriwwent</b> Wuert am Kontext..."
-
-#. i18n: file ./kdeui/kspellui.ui line 94
-#: rc.cpp:137 rc.cpp:355
-#, no-c-format
-msgid "Text excerpt showing the unknown word in its context."
-msgstr "Auszuch aus dem Text mam onbekannte Wuert am Zesummenhang."
-
-#. i18n: file ./kdeui/kspellui.ui line 99
-#: rc.cpp:140 rc.cpp:358
-#, no-c-format
-msgid ""
-"<qt>\n"
-"<p>Here you can see a text excerpt showing the unknown word in its context. If "
-"this information is not sufficient to choose the best replacement for the "
-"unknown word, you can click on the document you are proofing, read a larger "
-"part of the text and then return here to continue proofing.</p>\n"
-"</qt>"
-msgstr ""
-"<qt>\n"
-"<p>Hei gesitt der ën Auszuch aus dem Text, deen dat onbekannt Wuert a sengem "
-"Kontext weist. Wann dës Informatioun net duer geet, fir dee beschten Ersatz "
-"erauszesichen, kënnt dir zeréck op den Dokument klicken, an do méi ee groussen "
-"Deel vum Text liesen. </p>\n"
-"</qt>"
-
-#. i18n: file ./kdeui/kspellui.ui line 107
-#: rc.cpp:145 rc.cpp:363
-#, no-c-format
-msgid "<< Add to Dictionary"
-msgstr "<< An d'Wierderbuch Dobäischreiwen"
-
-#. i18n: file ./kdeui/kspellui.ui line 113
-#: rc.cpp:148 rc.cpp:366
-#, no-c-format
-msgid ""
-"<qt>\n"
-"<p>The unknown word was detected and considered unknown because it is not "
-"included in the dictionary."
-"<br>\n"
-"Click here if you consider that the unknown word is not misspelled and you want "
-"to avoid wrongly detecting it again in the future. If you want to let it remain "
-"as is, but not add it to the dictionary, then click <b>Ignore</b> or <b>"
-"Ignore All</b> instead.</p>\n"
-"</qt>"
-msgstr ""
-"<qt>\n"
-"<p>Dat onbekannt Wuert ass fonnt ginn an als \"onbekannt\" consideréiert ginn, "
-"well et net am Wierderbuch steet."
-"<br>\n"
-"Klickt hei, wann dir mengt, dass dat onbekannt Wuert net falsch geschriwwe ginn "
-"as, a wann dir verhënnere wëllt, dass et an Zukunft weiderhi fonnt gëtt. Falls "
-"dir et onverännert loosse wëllt, ouni eppes an d'Wierderbuch ze schreiwen, da "
-"klickt op <b>Ignoréieren</b> oder <b>Alles Ignoréieren</b>.</p>\n"
-"</qt>"
-
-#. i18n: file ./kdeui/kspellui.ui line 138
-#: rc.cpp:154 rc.cpp:421
-#, no-c-format
-msgid "R&eplace All"
-msgstr "Alles &Ersetzen"
-
-#. i18n: file ./kdeui/kspellui.ui line 143
-#: rc.cpp:157 rc.cpp:424
-#, no-c-format
-msgid ""
-"<qt>\n"
-"<p>Click here to replace all occurrences of the unknown text with the text in "
-"the edit box above (to the left).</p>\n"
-"</qt>"
-msgstr ""
-"<qt>\n"
-"<p>Klickt hei fir all Optrieden vum onbekannten Text duerch den Text an der "
-"Edit-Këscht uëwe lénks z'ersetzen.</p>\n"
-"</qt>"
-
-#. i18n: file ./kdeui/kspellui.ui line 149
-#: rc.cpp:162 rc.cpp:372
-#, no-c-format
-msgid "Suggested Words"
-msgstr "Méiglech Ersatzwierder"
-
-#. i18n: file ./kdeui/kspellui.ui line 165
-#: rc.cpp:165 rc.cpp:375
-#, no-c-format
-msgid "Suggestion List"
-msgstr "Lëscht mat Beispiller"
-
-#. i18n: file ./kdeui/kspellui.ui line 171
-#: rc.cpp:168 rc.cpp:378
-#, no-c-format
-msgid ""
-"<qt>\n"
-"<p>If the unknown word is misspelled, you should check if the correction for it "
-"is available and if it is, click on it. If none of the words in this list is a "
-"good replacement you may type the correct word in the edit box above.</p>\n"
-"<p>To correct this word click <b>Replace</b> if you want to correct only this "
-"occurrence or <b>Replace All</b> if you want to correct all occurrences.</p>\n"
-"</qt>"
-msgstr ""
-"<qt>\n"
-"<p>Wann dat onbekannt Wuert falsch geschriwwe ginn ass, kuckt no ob et eng "
-"Verbesserung gëtt, fir dann do dropp ze klicken. Wa kee Wuert aus der Lëscht "
-"als Ersatz gëeegent ass, kënnt dir dat richtegt Wuert selwer an d'Këscht uëwe "
-"schreiwen.</p>\n"
-"<p>Klickt op <b>Ersetzen</b> oder op <b>Alles Ersetzen</b>"
-", je nodeems ob dir een oder all Optriede vum onbekannte Wuert verbessere "
-"wëllt.</p>\n"
-"</qt>"
-
-#. i18n: file ./kdeui/kspellui.ui line 179
-#: kdeui/keditcl2.cpp:833 kutils/kfinddialog.cpp:231 rc.cpp:174 rc.cpp:413
-#, no-c-format
-msgid "&Replace"
-msgstr "E&rsetzen"
-
-#. i18n: file ./kdeui/kspellui.ui line 184
-#: rc.cpp:177 rc.cpp:416
-#, no-c-format
-msgid ""
-"<qt>\n"
-"<p>Click here to replace this occurrence of the unknown text with the text in "
-"the edit box above (to the left).</p>\n"
-"</qt>"
-msgstr ""
-"<qt>\n"
-"<p>Klickt hei fir dësst Optriede vum onbekannten Text duerch den Text aus der "
-"Këscht uëwe lénks z'ersetzen.</p>\n"
-"</qt>"
-
-#. i18n: file ./kdeui/kspellui.ui line 192
-#: rc.cpp:182 rc.cpp:384
-#, no-c-format
-msgid "Replace &with:"
-msgstr "Ersetzen &duerch:"
-
-#. i18n: file ./kdeui/kspellui.ui line 201
-#: rc.cpp:185 rc.cpp:209 rc.cpp:387 rc.cpp:393
-#, no-c-format
-msgid ""
-"<qt>\n"
-"<p>If the unknown word is misspelled, you should type the correction for your "
-"misspelled word here or select it from the list below.</p>\n"
-"<p>You can then click <b>Replace</b> if you want to correct only this "
-"occurrence of the word or <b>Replace All</b> if you want to correct all "
-"occurrences.</p>\n"
-"</qt>"
-msgstr ""
-"<qt>\n"
-"<p>Schreiwt hei d'Verbesserung fir d'falsch geschriwwent Wuert oder wielt ën "
-"Ersatz aus der Lëscht </p>\n"
-"<p>Dono kënnt dir op <b>Ersetzen</b> oder op <b>Alles Ersetzen</b> "
-"klicken, je nodeems, ob dir een oder all Optriede vum onbekannten Text "
-"verbessere wëllt.</p>\n"
-"</qt>"
-
-#. i18n: file ./kdeui/kspellui.ui line 209
-#: rc.cpp:191 rc.cpp:429
-#, no-c-format
-msgid "&Ignore"
-msgstr "&Ignoréieren"
-
-#. i18n: file ./kdeui/kspellui.ui line 215
-#: rc.cpp:194 rc.cpp:432
-#, no-c-format
-msgid ""
-"<qt>\n"
-"<p>Click here to let this occurrence of the unknown word remain as is.</p>\n"
-"<p>This action is useful when the word is a name, an acronym, a foreign word or "
-"any other unknown word that you want to use but not add to the dictionary.</p>\n"
-"</qt>"
-msgstr ""
-"<qt>\n"
-"<p>Klickt hei fir dësst Optriede vum onbekannte Wuert sinn ze loossen.</p>\n"
-"<p>Dat ass virun allem nëtzlech wann d'Wuert ën Numm, Acronym oder e Wuert aus "
-"enger anerer Sprooch ass.</p>\n"
-"</qt>"
-
-#. i18n: file ./kdeui/kspellui.ui line 223
-#: rc.cpp:200 rc.cpp:438
-#, no-c-format
-msgid "I&gnore All"
-msgstr "Alles Ign&oréieren"
-
-#. i18n: file ./kdeui/kspellui.ui line 229
-#: rc.cpp:203 rc.cpp:441 rc.cpp:450
-#, no-c-format
-msgid ""
-"<qt>\n"
-"<p>Click here to let all occurrences of the unknown word remain as they are.</p>"
-"\n"
-"<p>This action is useful when the word is a name, an acronym, a foreign word or "
-"any other unknown word that you want to use but not add to the dictionary.</p>\n"
-"</qt>"
-msgstr ""
-"<qt>\n"
-"<p>Klickt hei fir all Optriede vum onbekannte Wuert sinn ze loossen.</p>\n"
-"<p>Dat ass virun allem nëtzlech wann d'Wuert ën Numm, Acronym oder e Wuert aus "
-"enger anerer Sprooch ass.</p>\n"
-"</qt>"
-
-#. i18n: file ./kdeui/kspellui.ui line 248
-#: rc.cpp:215 rc.cpp:410
-#, no-c-format
-msgid "S&uggest"
-msgstr "&Virschloen"
-
-#. i18n: file ./kdeui/kspellui.ui line 254
-#: kdeui/ksconfig.cpp:293 rc.cpp:218 rc.cpp:399
-#, no-c-format
-msgid "English"
-msgstr "Englësch"
-
-#. i18n: file ./kdeui/kspellui.ui line 261
-#: rc.cpp:221 rc.cpp:402
-#, no-c-format
-msgid "Language Selection"
-msgstr "Auswiel vun der Sprooch"
-
-#. i18n: file ./khtml/khtml_popupmenu.rc line 11
-#: rc.cpp:229
-#, no-c-format
-msgid "Frame"
-msgstr "Frame"
-
-#. i18n: file ./khtml/kjserrordlg.ui line 17
-#: rc.cpp:232
-#, no-c-format
-msgid "JavaScript Errors"
-msgstr "Feeleren am JavaScript"
-
-#. i18n: file ./khtml/kjserrordlg.ui line 20
-#: rc.cpp:235
-#, no-c-format
-msgid ""
-"This dialog provides you with notification and details of scripting errors that "
-"occur on web pages.  In many cases it is due to an error in the web site as "
-"designed by its author.  In other cases it is the result of a programming error "
-"in Konqueror.  If you suspect the former, please contact the webmaster of the "
-"site in question.  Conversely if you suspect an error in Konqueror, please file "
-"a bug report at http://bugs.kde.org/.  A test case which illustrates the "
-"problem will be appreciated."
-msgstr ""
-"Dësen Dialog weist iech eng Notificatioun an Detailer vu Feeleren am Script, "
-"déi op Internetsäiten virkomme kënnen.  An de meeschte Fäll läit dat un engem "
-"Feeler vum Verfaasser vun der Säit.  Da kënnt dir de Webmaster op de Feeler "
-"opmierksam maachen.  Et kann awer och sinn, dass et d'Resultat vun engem "
-"Programméierfeler am Konqueror ass.  Schreiwt dann w.e.g. e Käfer-Bericht, deen "
-"dir un http://bugs.kde.org/ schécke kënnt."
-
-#. i18n: file ./khtml/kjserrordlg.ui line 39
-#: kdeui/kstdaction_p.h:58 kdeui/kstdguiitem.cpp:161 rc.cpp:241
-#, no-c-format
-msgid "C&lear"
-msgstr "Eidelmaa&chen"
-
-#. i18n: file ./khtml/htmlpageinfo.ui line 26
-#: rc.cpp:248
-#, no-c-format
-msgid "Document Information"
-msgstr "Informatiounen zum Dokument"
-
-#. i18n: file ./khtml/htmlpageinfo.ui line 37
-#: kdecore/kconfig_compiler/autoexample.cpp:54 rc.cpp:251
-#, no-c-format
-msgid "General"
-msgstr "Allgemeng"
-
-#. i18n: file ./khtml/htmlpageinfo.ui line 64
-#: rc.cpp:254
-#, no-c-format
-msgid "URL:"
-msgstr "URL:"
-
-#. i18n: file ./khtml/htmlpageinfo.ui line 122
-#: rc.cpp:257
-#, no-c-format
-msgid "Title:"
-msgstr "Titel:"
-
-#. i18n: file ./khtml/htmlpageinfo.ui line 141
-#: rc.cpp:260
-#, no-c-format
-msgid "Last modified:"
-msgstr "Als Lescht geännert:"
-
-#. i18n: file ./khtml/htmlpageinfo.ui line 160
-#: rc.cpp:263
-#, no-c-format
-msgid "Document encoding:"
-msgstr "Zeechesaatz vum Dokument:"
-
-#. i18n: file ./khtml/htmlpageinfo.ui line 188
-#: rc.cpp:266
-#, no-c-format
-msgid "HTTP Headers"
-msgstr "HTTP-Headeren"
-
-#. i18n: file ./khtml/htmlpageinfo.ui line 197
-#: rc.cpp:269
-#, no-c-format
-msgid "Property"
-msgstr "Eegeschaft"
-
-#. i18n: file ./khtml/htmlpageinfo.ui line 208
-#: khtml/java/kjavaappletviewer.cpp:132 rc.cpp:272
-#, no-c-format
-msgid "Value"
-msgstr "Wert"
-
-#. i18n: file ./kspell2/ui/configui.ui line 26
-#: rc.cpp:290
-#, no-c-format
-msgid ""
-"This is the default language that the spell checker will use. The drop down box "
-"will list all of the dictionaries of your existing languages."
-msgstr ""
-
-#. i18n: file ./kspell2/ui/configui.ui line 34
-#: common_texts.cpp:118 kdeui/keditcl2.cpp:723 kdeui/keditcl2.cpp:862
-#: kutils/kfinddialog.cpp:161 rc.cpp:293
-#, no-c-format
-msgid "Options"
-msgstr "Optiounen"
-
-#. i18n: file ./kspell2/ui/configui.ui line 45
-#: rc.cpp:296
-#, no-c-format
-msgid "Enable &background spellchecking"
-msgstr "R&echtschreifkontroll am Hannergrond uschalten"
-
-#. i18n: file ./kspell2/ui/configui.ui line 48
-#: rc.cpp:299
-#, no-c-format
-msgid ""
-"If checked, the \"spell as you type\" mode is active and all misspelled words "
-"are immediately highlighted."
-msgstr ""
-
-#. i18n: file ./kspell2/ui/configui.ui line 56
-#: rc.cpp:302
-#, no-c-format
-msgid "Skip all &uppercase words"
-msgstr "&Iwwerall grouss geschriwwe Wierder iwwersprangen"
-
-#. i18n: file ./kspell2/ui/configui.ui line 59
-#: rc.cpp:305
-#, no-c-format
-msgid ""
-"If checked, words that consist of only uppercase letters are not spell checked. "
-"This is useful if you have a lot of acronyms, such as KDE for example."
-msgstr ""
-
-#. i18n: file ./kspell2/ui/configui.ui line 67
-#: rc.cpp:308
-#, no-c-format
-msgid "S&kip run-together words"
-msgstr "&Zesummegesate Wierder iwwersprangen"
-
-#. i18n: file ./kspell2/ui/configui.ui line 70
-#: rc.cpp:311
-#, no-c-format
-msgid ""
-"If checked, concatenated words made of existing words are not spell checked. "
-"This is useful in some languages."
-msgstr ""
-
-#. i18n: file ./kspell2/ui/configui.ui line 80
-#: rc.cpp:314
-#, no-c-format
-msgid "Default language:"
-msgstr "Standardsprooch:"
-
-#. i18n: file ./kspell2/ui/configui.ui line 91
-#: rc.cpp:317
-#, no-c-format
-msgid "Ignore These Words"
-msgstr "Dëss Wierder ignoréieren"
-
-#. i18n: file ./kspell2/ui/configui.ui line 97
-#: rc.cpp:320
-#, no-c-format
-msgid ""
-"To add a word you want to ignore, type it in the top edit field and click Add. "
-"To remove a word, highlight it in the list and click Remove."
-msgstr ""
-
-#. i18n: file ./kspell2/ui/kspell2ui.ui line 282
-#: rc.cpp:447
-#, no-c-format
-msgid "Autocorrect"
-msgstr "Automatësch Verbesserung"
-
-#. i18n: file ./dnssd/kcm_kdnssd.kcfg line 9
-#: rc.cpp:456
-#, no-c-format
-msgid "Additional domains for browsing"
-msgstr ""
-
-#. i18n: file ./dnssd/kcm_kdnssd.kcfg line 10
-#: rc.cpp:459
-#, no-c-format
-msgid "List of 'wide-area' (non link-local) domains that should be browsed."
-msgstr ""
-
-#. i18n: file ./dnssd/kcm_kdnssd.kcfg line 13
-#: rc.cpp:462
-#, no-c-format
-msgid "Browse local network"
-msgstr ""
-
-#. i18n: file ./dnssd/kcm_kdnssd.kcfg line 14
-#: rc.cpp:465
-#, no-c-format
-msgid ""
-"If true .local domain will be browsed. It is always link-local, using multicast "
-"DNS."
-msgstr ""
-
-#. i18n: file ./dnssd/kcm_kdnssd.kcfg line 18
-#: rc.cpp:468
-#, no-c-format
-msgid "Recursive search for domains"
-msgstr ""
-
-#. i18n: file ./dnssd/kcm_kdnssd.kcfg line 19
-#: rc.cpp:471
-#, no-c-format
-msgid "Removed in KDE 3.5.0"
-msgstr ""
-
-#. i18n: file ./dnssd/kcm_kdnssd.kcfg line 25
-#: rc.cpp:474
-#, no-c-format
-msgid ""
-"Select publishing in LAN (multicast) or WAN (unicast, needs configured DNS "
-"server)"
-msgstr ""
-
-#. i18n: file ./dnssd/kcm_kdnssd.kcfg line 26
-#: rc.cpp:477
-#, no-c-format
-msgid ""
-"Specifies if publishing should be by default link-local using multicast DNS "
-"(LAN) or 'wide-area' using normal DNS server (WAN)."
-msgstr ""
-
-#. i18n: file ./dnssd/kcm_kdnssd.kcfg line 34
-#: rc.cpp:480
-#, no-c-format
-msgid "Name of default publishing domain for WAN"
-msgstr ""
-
-#. i18n: file ./dnssd/kcm_kdnssd.kcfg line 36
-#: rc.cpp:483
-#, no-c-format
-msgid ""
-"Domain name for publishing using 'wide-area' (normal DNS) ZeroConf. This must "
-"match domain specified in /etc/mdnsd.conf. This value is used only if "
-"PublishType is set to WAN.\n"
-msgstr ""
 
 #: _translatorinfo.cpp:1
 msgid ""
@@ -932,9 +218,17 @@ msgstr "&Si loossen"
 msgid "Discard"
 msgstr "Si loossen"
 
+#: common_texts.cpp:77
+msgid "&File"
+msgstr "&Datei"
+
 #: common_texts.cpp:80 kdecore/kstdaccel.cpp:59
 msgid "Edit"
 msgstr "Veränneren"
+
+#: common_texts.cpp:81
+msgid "&Edit"
+msgstr "V&eränneren"
 
 #: common_texts.cpp:82
 msgid "&Options"
@@ -943,6 +237,10 @@ msgstr "&Optiounen"
 #: common_texts.cpp:83
 msgid "View"
 msgstr "Siicht"
+
+#: common_texts.cpp:84
+msgid "&View"
+msgstr "&Siicht"
 
 #: common_texts.cpp:85
 msgid "E&xit"
@@ -1049,6 +347,11 @@ msgstr "&Drécken..."
 msgid "Sorry"
 msgstr "Pardon"
 
+#: common_texts.cpp:118 kdeui/keditcl2.cpp:723 kdeui/keditcl2.cpp:862
+#: kutils/kfinddialog.cpp:161
+msgid "Options"
+msgstr "Optiounen"
+
 #: common_texts.cpp:119 kdeui/kstdguiitem.cpp:269
 msgid "Remove"
 msgstr "Ewechmaachen"
@@ -1072,6 +375,10 @@ msgstr "Kursiv"
 #: common_texts.cpp:126
 msgid "Roman"
 msgstr "Normal"
+
+#: common_texts.cpp:131
+msgid "&Game"
+msgstr "S&pill"
 
 #: common_texts.cpp:132 kdeui/kmessagebox.cpp:913
 msgid "Information"
@@ -1260,6 +567,10 @@ msgstr "&Weidersichen"
 msgid "Bookmarks"
 msgstr "Lieszeechen"
 
+#: common_texts.cpp:182
+msgid "&Bookmarks"
+msgstr "&Lieszeechen"
+
 #: common_texts.cpp:183 kdeui/kstdaction_p.h:90
 msgid "&Add Bookmark"
 msgstr "Lieszeechen &dobäimaachen"
@@ -1267,6 +578,10 @@ msgstr "Lieszeechen &dobäimaachen"
 #: common_texts.cpp:184
 msgid "&Edit Bookmarks..."
 msgstr "Lieszeechen ä&nneren..."
+
+#: common_texts.cpp:185
+msgid "&Tools"
+msgstr "&Verschiddenes"
 
 #: common_texts.cpp:186 kdeui/kstdaction_p.h:93
 msgid "&Spelling..."
@@ -1292,6 +607,10 @@ msgstr "&Tastenzouweisunge configuréieren..."
 #: common_texts.cpp:191
 msgid "&Preferences..."
 msgstr "&Astellungen..."
+
+#: common_texts.cpp:192
+msgid "&Settings"
+msgstr "&Astellungen"
 
 #: common_texts.cpp:193 kdeui/kmessagebox.cpp:928
 msgid "Do not show this message again"
@@ -1506,6 +825,10 @@ msgid ""
 "_: QAccel\n"
 "NumberSign"
 msgstr "Zuelenzeechen"
+
+#: common_texts.cpp:254
+msgid "Main Toolbar"
+msgstr "Haapt-Toolbar"
 
 #: common_texts.cpp:257 common_texts.cpp:261
 msgid ""
@@ -4314,6 +3637,10 @@ msgstr "KConfig-Compiler"
 msgid "autoconfig example"
 msgstr "Beispill fir autoconfig"
 
+#: kdecore/kconfig_compiler/autoexample.cpp:54
+msgid "General"
+msgstr "Allgemeng"
+
 #: kdecore/kconfig_compiler/autoexample.cpp:57
 msgid "MyOptions"
 msgstr "Meng Optiounen"
@@ -5078,6 +4405,10 @@ msgstr "Zemberek"
 msgid "&Client:"
 msgstr "&Programm:"
 
+#: kdeui/ksconfig.cpp:293
+msgid "English"
+msgstr "Englësch"
+
 #: kdeui/ksconfig.cpp:296
 msgid "Spanish"
 msgstr "Spuenësch"
@@ -5640,6 +4971,10 @@ msgid ""
 msgstr ""
 "Wann dir op <b>Systemverwaltungsmodus</b> klickt, gitt dir nom Root-Passwuert "
 "gefrot fir Ännerunge firzehuelen, déi no Administrator-Rechter verlaangen."
+
+#: kdeui/kstdaction_p.h:58 kdeui/kstdguiitem.cpp:161
+msgid "C&lear"
+msgstr "Eidelmaa&chen"
 
 #: kdeui/kstdguiitem.cpp:162
 msgid "Clear input"
@@ -6682,6 +6017,10 @@ msgstr "&Hannerzeg sichen"
 #: kdeui/keditcl2.cpp:833
 msgid "Replace &All"
 msgstr "&Alles ersetzen"
+
+#: kdeui/keditcl2.cpp:833 kutils/kfinddialog.cpp:231
+msgid "&Replace"
+msgstr "E&rsetzen"
 
 #: kdeui/keditcl2.cpp:852
 msgid "Replace with:"
@@ -7756,6 +7095,10 @@ msgstr "Parameter vum Miniprogramm"
 #: khtml/java/kjavaappletviewer.cpp:131
 msgid "Parameter"
 msgstr "Parameter"
+
+#: khtml/java/kjavaappletviewer.cpp:132
+msgid "Value"
+msgstr "Wert"
 
 #: khtml/java/kjavaappletviewer.cpp:133
 msgid "Class"
@@ -11003,3 +10346,257 @@ msgid ""
 "_: QXml\n"
 "error in the text declaration of an external entity"
 msgstr "Feeler an der Text-Deklaratioun vun enger externer Entity"
+
+#~ msgid "Editor Chooser"
+#~ msgstr "Editor Auswielen"
+
+#~ msgid "Please choose the default text editing component that you wish to use in this application. If you choose <B>System Default</B>, the application will honor your changes in the Control Center. All other choices will override that setting."
+#~ msgstr "Wielt w.e.g. de standard Texteditor, deen dir an dësem Programm wëllt benotzen. Wann dir ierch fir den <B> System-Standard</B> entscheed, da ginn all är Ännerungen am Kontrollzentrum gespäichert. All anere Choix ignoréiert déi Astellung."
+
+#~ msgid "AutoExampleDialog"
+#~ msgstr "AutoBeispillsdialog"
+
+#~ msgid "OneOption"
+#~ msgstr "Eng Optioun"
+
+#~ msgid "AnotherOption:"
+#~ msgstr "Eng aner Optioun:"
+
+#~ msgid "MyString:"
+#~ msgstr "Mäi String:"
+
+#~ msgid "&Certificate"
+#~ msgstr "&Zertifikat"
+
+#~ msgid "Alternate shortcut:"
+#~ msgstr "Alternative Kierzel:"
+
+#~ msgid "Primary shortcut:"
+#~ msgstr "Haaptkierzel:"
+
+#~ msgid "The currently set shortcut or the shortcut you are entering will show up here."
+#~ msgstr "Den aktuellen Tastekierzel oder deen, deen dir grad agitt, gesitt dir hei."
+
+#~ msgid "x"
+#~ msgstr "x"
+
+#~ msgid "Clear shortcut"
+#~ msgstr "Kierzel läschen"
+
+#~ msgid "Multi-key mode"
+#~ msgstr "Méi-Tasten-Modus"
+
+#~ msgid "Enable the entry of multi-key shortcuts"
+#~ msgstr "Kierzel vun e puer Tasten zouloossen"
+
+#~ msgid "Select this checkbox to enable the entry of multi-key shortcuts.  A multi-key shortcut consists of a sequence of up to 4 keys.  For example, you could assign \"Ctrl+F,B\" to Font-Bold and \"Ctrl+F,U\" to Font-Underline."
+#~ msgstr "Wielt dëst Haischen fir Kierzel vun e puer Tasten zouzëloossen. Esou Kierzele bestinn aus enger Sequenz vu bis zu 4 Tasten. Zum Beispill kënnt dir fir \"Text ënnersträichen\" de Kierzel \"Ctrl+F,U\" wielen, a fir \"Text kursiv\" de Kierzel \"Ctrl+F,I\"."
+
+#~ msgid ""
+#~ "_: Menu title\n"
+#~ "&Move"
+#~ msgstr "&Réckelen"
+
+#~ msgid "&Go"
+#~ msgstr "&Goen"
+
+#~ msgid "Shortcut:"
+#~ msgstr "Kierzel:"
+
+#~ msgid "Alt+Tab"
+#~ msgstr "Alt+Tab"
+
+#~ msgid "Unknown word:"
+#~ msgstr "Onbekannt Wuert:"
+
+#~ msgid ""
+#~ "<qt><p>This word was considered to be an \"unknown word\" because it does not match any entry in the dictionary currently in use. It may also be a word in a foreign language.</p>\n"
+#~ "<p>If the word is not misspelled, you may add it to the dictionary by clicking <b>Add to Dictionary</b>. If you don't want to add the unknown word to the dictionary, but you want to leave it unchanged, click <b>Ignore</b> or <b>Ignore All</b>.</p>\n"
+#~ "<p>However, if the word is misspelled, you can try to find the correct replacement in the list below. If you cannot find a replacement there, you may type it in the text box below, and click <b>Replace</b> or <b>Replace All</b>.</p>\n"
+#~ "</qt>"
+#~ msgstr ""
+#~ "<qt><p> Dësst Wuert ass \"onbekannt\", well et am aktuelle Wierderbuch net virkënnt. Et kéint och e Wuert aus enger anerer Sprooch sinn.</p>\n"
+#~ "<p>Falls d'Wuert net falsch geschriwwe ginn ass, kënnt dir et mat <b>an d'Wierderbuch Dobäischreiwen</b> an Zukunft ouni Problem benotzen. Mat engem Klick op <b>Ignoréieren</b> oder <b>Alles Ignoréieren</b> kënnt dir d'Wuert onverännert loossen ouni et an d'Wierderbuch ze schreiwen.</p>\n"
+#~ "<p>Ass d'Wuert awer falsch geschriwwen, da kënnt dir ën Ersatz an der Lëscht hei drënner eraussichen oder selwer een agin. Duerch e Klick op <b>Ersetzen</b> oder <b>Alles Ersetzen</b> ginn d'Ännerungen da virgeholl.</p>\n"
+#~ "</qt>"
+
+#~ msgid "<b>misspelled</b>"
+#~ msgstr "<b>falsch geschriwwen</b>"
+
+#~ msgid "Unknown word"
+#~ msgstr "Onbekannt Wuert"
+
+#~ msgid "&Language:"
+#~ msgstr "&Sprooch:"
+
+#~ msgid ""
+#~ "<qt>\n"
+#~ "<p>Select the language of the document you are proofing here.</p>\n"
+#~ "</qt>"
+#~ msgstr ""
+#~ "<qt>\n"
+#~ "<p>Wielt hei d'Sprooch vun deem Dokument, dat nogekuckt soll ginn.</p>\n"
+#~ "</qt>"
+
+#~ msgid "... the <b>misspelled</b> word shown in context ..."
+#~ msgstr "... dat <b>falsch geschriwwent</b> Wuert am Kontext..."
+
+#~ msgid "Text excerpt showing the unknown word in its context."
+#~ msgstr "Auszuch aus dem Text mam onbekannte Wuert am Zesummenhang."
+
+#~ msgid ""
+#~ "<qt>\n"
+#~ "<p>Here you can see a text excerpt showing the unknown word in its context. If this information is not sufficient to choose the best replacement for the unknown word, you can click on the document you are proofing, read a larger part of the text and then return here to continue proofing.</p>\n"
+#~ "</qt>"
+#~ msgstr ""
+#~ "<qt>\n"
+#~ "<p>Hei gesitt der ën Auszuch aus dem Text, deen dat onbekannt Wuert a sengem Kontext weist. Wann dës Informatioun net duer geet, fir dee beschten Ersatz erauszesichen, kënnt dir zeréck op den Dokument klicken, an do méi ee groussen Deel vum Text liesen. </p>\n"
+#~ "</qt>"
+
+#~ msgid "<< Add to Dictionary"
+#~ msgstr "<< An d'Wierderbuch Dobäischreiwen"
+
+#~ msgid ""
+#~ "<qt>\n"
+#~ "<p>The unknown word was detected and considered unknown because it is not included in the dictionary.<br>\n"
+#~ "Click here if you consider that the unknown word is not misspelled and you want to avoid wrongly detecting it again in the future. If you want to let it remain as is, but not add it to the dictionary, then click <b>Ignore</b> or <b>Ignore All</b> instead.</p>\n"
+#~ "</qt>"
+#~ msgstr ""
+#~ "<qt>\n"
+#~ "<p>Dat onbekannt Wuert ass fonnt ginn an als \"onbekannt\" consideréiert ginn, well et net am Wierderbuch steet.<br>\n"
+#~ "Klickt hei, wann dir mengt, dass dat onbekannt Wuert net falsch geschriwwe ginn as, a wann dir verhënnere wëllt, dass et an Zukunft weiderhi fonnt gëtt. Falls dir et onverännert loosse wëllt, ouni eppes an d'Wierderbuch ze schreiwen, da klickt op <b>Ignoréieren</b> oder <b>Alles Ignoréieren</b>.</p>\n"
+#~ "</qt>"
+
+#~ msgid "R&eplace All"
+#~ msgstr "Alles &Ersetzen"
+
+#~ msgid ""
+#~ "<qt>\n"
+#~ "<p>Click here to replace all occurrences of the unknown text with the text in the edit box above (to the left).</p>\n"
+#~ "</qt>"
+#~ msgstr ""
+#~ "<qt>\n"
+#~ "<p>Klickt hei fir all Optrieden vum onbekannten Text duerch den Text an der Edit-Këscht uëwe lénks z'ersetzen.</p>\n"
+#~ "</qt>"
+
+#~ msgid "Suggested Words"
+#~ msgstr "Méiglech Ersatzwierder"
+
+#~ msgid "Suggestion List"
+#~ msgstr "Lëscht mat Beispiller"
+
+#~ msgid ""
+#~ "<qt>\n"
+#~ "<p>If the unknown word is misspelled, you should check if the correction for it is available and if it is, click on it. If none of the words in this list is a good replacement you may type the correct word in the edit box above.</p>\n"
+#~ "<p>To correct this word click <b>Replace</b> if you want to correct only this occurrence or <b>Replace All</b> if you want to correct all occurrences.</p>\n"
+#~ "</qt>"
+#~ msgstr ""
+#~ "<qt>\n"
+#~ "<p>Wann dat onbekannt Wuert falsch geschriwwe ginn ass, kuckt no ob et eng Verbesserung gëtt, fir dann do dropp ze klicken. Wa kee Wuert aus der Lëscht als Ersatz gëeegent ass, kënnt dir dat richtegt Wuert selwer an d'Këscht uëwe schreiwen.</p>\n"
+#~ "<p>Klickt op <b>Ersetzen</b> oder op <b>Alles Ersetzen</b>, je nodeems ob dir een oder all Optriede vum onbekannte Wuert verbessere wëllt.</p>\n"
+#~ "</qt>"
+
+#~ msgid ""
+#~ "<qt>\n"
+#~ "<p>Click here to replace this occurrence of the unknown text with the text in the edit box above (to the left).</p>\n"
+#~ "</qt>"
+#~ msgstr ""
+#~ "<qt>\n"
+#~ "<p>Klickt hei fir dësst Optriede vum onbekannten Text duerch den Text aus der Këscht uëwe lénks z'ersetzen.</p>\n"
+#~ "</qt>"
+
+#~ msgid "Replace &with:"
+#~ msgstr "Ersetzen &duerch:"
+
+#~ msgid ""
+#~ "<qt>\n"
+#~ "<p>If the unknown word is misspelled, you should type the correction for your misspelled word here or select it from the list below.</p>\n"
+#~ "<p>You can then click <b>Replace</b> if you want to correct only this occurrence of the word or <b>Replace All</b> if you want to correct all occurrences.</p>\n"
+#~ "</qt>"
+#~ msgstr ""
+#~ "<qt>\n"
+#~ "<p>Schreiwt hei d'Verbesserung fir d'falsch geschriwwent Wuert oder wielt ën Ersatz aus der Lëscht </p>\n"
+#~ "<p>Dono kënnt dir op <b>Ersetzen</b> oder op <b>Alles Ersetzen</b> klicken, je nodeems, ob dir een oder all Optriede vum onbekannten Text verbessere wëllt.</p>\n"
+#~ "</qt>"
+
+#~ msgid "&Ignore"
+#~ msgstr "&Ignoréieren"
+
+#~ msgid ""
+#~ "<qt>\n"
+#~ "<p>Click here to let this occurrence of the unknown word remain as is.</p>\n"
+#~ "<p>This action is useful when the word is a name, an acronym, a foreign word or any other unknown word that you want to use but not add to the dictionary.</p>\n"
+#~ "</qt>"
+#~ msgstr ""
+#~ "<qt>\n"
+#~ "<p>Klickt hei fir dësst Optriede vum onbekannte Wuert sinn ze loossen.</p>\n"
+#~ "<p>Dat ass virun allem nëtzlech wann d'Wuert ën Numm, Acronym oder e Wuert aus enger anerer Sprooch ass.</p>\n"
+#~ "</qt>"
+
+#~ msgid "I&gnore All"
+#~ msgstr "Alles Ign&oréieren"
+
+#~ msgid ""
+#~ "<qt>\n"
+#~ "<p>Click here to let all occurrences of the unknown word remain as they are.</p>\n"
+#~ "<p>This action is useful when the word is a name, an acronym, a foreign word or any other unknown word that you want to use but not add to the dictionary.</p>\n"
+#~ "</qt>"
+#~ msgstr ""
+#~ "<qt>\n"
+#~ "<p>Klickt hei fir all Optriede vum onbekannte Wuert sinn ze loossen.</p>\n"
+#~ "<p>Dat ass virun allem nëtzlech wann d'Wuert ën Numm, Acronym oder e Wuert aus enger anerer Sprooch ass.</p>\n"
+#~ "</qt>"
+
+#~ msgid "S&uggest"
+#~ msgstr "&Virschloen"
+
+#~ msgid "Language Selection"
+#~ msgstr "Auswiel vun der Sprooch"
+
+#~ msgid "Frame"
+#~ msgstr "Frame"
+
+#~ msgid "JavaScript Errors"
+#~ msgstr "Feeleren am JavaScript"
+
+#~ msgid "This dialog provides you with notification and details of scripting errors that occur on web pages.  In many cases it is due to an error in the web site as designed by its author.  In other cases it is the result of a programming error in Konqueror.  If you suspect the former, please contact the webmaster of the site in question.  Conversely if you suspect an error in Konqueror, please file a bug report at http://bugs.kde.org/.  A test case which illustrates the problem will be appreciated."
+#~ msgstr "Dësen Dialog weist iech eng Notificatioun an Detailer vu Feeleren am Script, déi op Internetsäiten virkomme kënnen.  An de meeschte Fäll läit dat un engem Feeler vum Verfaasser vun der Säit.  Da kënnt dir de Webmaster op de Feeler opmierksam maachen.  Et kann awer och sinn, dass et d'Resultat vun engem Programméierfeler am Konqueror ass.  Schreiwt dann w.e.g. e Käfer-Bericht, deen dir un http://bugs.kde.org/ schécke kënnt."
+
+#~ msgid "Document Information"
+#~ msgstr "Informatiounen zum Dokument"
+
+#~ msgid "URL:"
+#~ msgstr "URL:"
+
+#~ msgid "Title:"
+#~ msgstr "Titel:"
+
+#~ msgid "Last modified:"
+#~ msgstr "Als Lescht geännert:"
+
+#~ msgid "Document encoding:"
+#~ msgstr "Zeechesaatz vum Dokument:"
+
+#~ msgid "HTTP Headers"
+#~ msgstr "HTTP-Headeren"
+
+#~ msgid "Property"
+#~ msgstr "Eegeschaft"
+
+#~ msgid "Enable &background spellchecking"
+#~ msgstr "R&echtschreifkontroll am Hannergrond uschalten"
+
+#~ msgid "Skip all &uppercase words"
+#~ msgstr "&Iwwerall grouss geschriwwe Wierder iwwersprangen"
+
+#~ msgid "S&kip run-together words"
+#~ msgstr "&Zesummegesate Wierder iwwersprangen"
+
+#~ msgid "Default language:"
+#~ msgstr "Standardsprooch:"
+
+#~ msgid "Ignore These Words"
+#~ msgstr "Dëss Wierder ignoréieren"
+
+#~ msgid "Autocorrect"
+#~ msgstr "Automatësch Verbesserung"
