@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2006-02-12 03:58+0100\n"
+"POT-Creation-Date: 2006-02-14 03:49+0100\n"
 "PO-Revision-Date: 2006-01-09 23:14+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -3537,18 +3537,19 @@ msgid "Adar II"
 msgstr "Adar II"
 
 #: kdecore/kaboutdata.cpp:388
+#, fuzzy
 msgid ""
 "_: replace this with information about your translation team\n"
 "<p>KDE is translated into many languages thanks to the work of the translation "
 "teams all over the world.</p>"
-"<p>For more information on KDE internationalization visit "
-"http://i18n.kde.org</p>"
+"<p>For more information on KDE internationalization visit <a "
+"href=\"http://l10n.kde.org\">http://l10n.kde.org</a></p>"
 msgstr ""
 "<p>KDE gëtt a vill verschidde Sproochen iwwersat. Ën décke Merci dowéinst un "
 "all Iwwersetzungsteam op der Welt.</p>"
 "<p>Méi Informatioune fannt dir op http://i18n.kde.org</p>"
 
-#: kdecore/kaboutdata.cpp:443
+#: kdecore/kaboutdata.cpp:444
 msgid ""
 "No licensing terms for this program have been specified.\n"
 "Please check the documentation or the source for any\n"
@@ -3558,7 +3559,7 @@ msgstr ""
 "Kuckt w.e.g. an der Dokumentatioun oder am\n"
 "Quellcode no de Lizenzbedingungen\n"
 
-#: kdecore/kaboutdata.cpp:450
+#: kdecore/kaboutdata.cpp:451
 #, c-format
 msgid "This program is distributed under the terms of the %1."
 msgstr "Dëse Programm ass ënnert de Bedingunge vun %1 veröffentlëcht ginn."
