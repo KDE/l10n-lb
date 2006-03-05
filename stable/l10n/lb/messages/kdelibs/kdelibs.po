@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2006-03-04 03:43+0100\n"
+"POT-Creation-Date: 2006-03-05 03:41+0100\n"
 "PO-Revision-Date: 2006-01-09 23:14+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -864,8 +864,8 @@ msgstr "Inhalt"
 msgid "About"
 msgstr "Iwwer"
 
-#: common_texts.cpp:63 common_texts.cpp:176 kdeui/kaboutapplication.cpp:62
-#: kdeui/kaboutapplication.cpp:86
+#: common_texts.cpp:63 common_texts.cpp:176 kdeui/kaboutapplication.cpp:64
+#: kdeui/kaboutapplication.cpp:88
 msgid "&About"
 msgstr "&Iwwer"
 
@@ -1041,7 +1041,7 @@ msgstr "Änneren"
 msgid "&Delete"
 msgstr "&Läschen"
 
-#: common_texts.cpp:125 kdeui/kfontdialog.cpp:225 kdeui/kfontdialog.cpp:476
+#: common_texts.cpp:125 kdeui/kfontdialog.cpp:225 kdeui/kfontdialog.cpp:477
 msgid "Italic"
 msgstr "Kursiv"
 
@@ -5182,11 +5182,12 @@ msgstr ""
 "Dësst ass eng Virschau vun der Schrëft \"%1\". Mat engem Klick op "
 "\"Auswielen...\" kënnt dir Ännerunge virhuelen."
 
-#: kdeui/kaboutapplication.cpp:61
+#. i18n "??" is displayed as (pseudo-)version when no data is known about the application
+#: kdeui/kaboutapplication.cpp:63
 msgid "??"
 msgstr "??"
 
-#: kdeui/kaboutapplication.cpp:65
+#: kdeui/kaboutapplication.cpp:67
 msgid ""
 "No information available.\n"
 "The supplied KAboutData object does not exist."
@@ -5194,15 +5195,15 @@ msgstr ""
 "Keng Informatioun verfügbar.\n"
 "Et gëtt kee passend KAboutData-Objekt."
 
-#: kdeui/kaboutapplication.cpp:105
+#: kdeui/kaboutapplication.cpp:107
 msgid "A&uthor"
 msgstr "A&uteur"
 
-#: kdeui/kaboutapplication.cpp:105
+#: kdeui/kaboutapplication.cpp:107
 msgid "A&uthors"
 msgstr "A&uteuren"
 
-#: kdeui/kaboutapplication.cpp:115
+#: kdeui/kaboutapplication.cpp:117
 msgid ""
 "Please use <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> "
 "to report bugs.\n"
@@ -5210,22 +5211,22 @@ msgstr ""
 "Benotzt w.e.g. <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> "
 "fir eventuell Käferen ze mellen.\n"
 
-#: kdeui/kaboutapplication.cpp:119 kdeui/kaboutapplication.cpp:122
+#: kdeui/kaboutapplication.cpp:121 kdeui/kaboutapplication.cpp:124
 msgid ""
 "Please report bugs to <a href=\"mailto:%1\">%2</a>.\n"
 msgstr ""
 "Mellt w.e.g. eventuell Käferen an enger E-Mail un <a href=\"mailto:%1\">%2</a>"
 ".\n"
 
-#: kdeui/kaboutapplication.cpp:147
+#: kdeui/kaboutapplication.cpp:149
 msgid "&Thanks To"
 msgstr "&Merci un"
 
-#: kdeui/kaboutapplication.cpp:174
+#: kdeui/kaboutapplication.cpp:176
 msgid "T&ranslation"
 msgstr "Iwwe&rsetzung"
 
-#: kdeui/kaboutapplication.cpp:179
+#: kdeui/kaboutapplication.cpp:181
 msgid "&License Agreement"
 msgstr "&Lizenz"
 
@@ -5289,9 +5290,9 @@ msgstr "Hei kënnt dir d'Schrëftfamill wielen, déi benotzt soll ginn."
 msgid "Here you can choose the font style to be used."
 msgstr "Hei kënnt dir de Schrëftstil wielen, dee benotzt soll ginn."
 
-#: kdeui/kfontdialog.cpp:224 kdeui/kfontdialog.cpp:472
-#: kdeui/kfontdialog.cpp:474 kdeui/kfontdialog.cpp:483
-#: kdeui/kfontdialog.cpp:484
+#: kdeui/kfontdialog.cpp:224 kdeui/kfontdialog.cpp:473
+#: kdeui/kfontdialog.cpp:475 kdeui/kfontdialog.cpp:484
+#: kdeui/kfontdialog.cpp:485
 msgid "Regular"
 msgstr "Normal"
 
@@ -5325,12 +5326,13 @@ msgstr ""
 msgid "Here you can choose the font size to be used."
 msgstr "Hei kënnt dir d'Schrëftgréisst wielen, déi benotzt soll ginn."
 
-#: kdeui/kfontdialog.cpp:295
+#. i18n: This is a classical test phrase. (It contains all letters from A to Z.)
+#: kdeui/kfontdialog.cpp:296
 msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
 msgstr ""
 "Ëch hätt gär dräi Wirschtercher mat Fritten a Ketchup, ouni Zalot a Geméis"
 
-#: kdeui/kfontdialog.cpp:300
+#: kdeui/kfontdialog.cpp:301
 msgid ""
 "This sample text illustrates the current settings. You may edit it to test "
 "special characters."
@@ -5338,7 +5340,7 @@ msgstr ""
 "Dëse Beispilltext illustréiert déi momentan Astellungen. Dir kënnt e veränneren "
 "fir d'Duerstellung vu speziellen Zeechen ze kucken."
 
-#: kdeui/kfontdialog.cpp:309 kdeui/kfontdialog.cpp:319
+#: kdeui/kfontdialog.cpp:310 kdeui/kfontdialog.cpp:320
 msgid "Actual Font"
 msgstr "Aktuell Schrëft"
 
