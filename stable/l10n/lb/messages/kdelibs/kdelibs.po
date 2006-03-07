@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2006-03-06 03:49+0100\n"
+"POT-Creation-Date: 2006-03-07 03:51+0100\n"
 "PO-Revision-Date: 2006-01-09 23:14+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -7581,24 +7581,24 @@ msgstr "Fënster zoumaachen?"
 msgid "Confirmation Required"
 msgstr "Bestätegung noutwendeg"
 
-#: khtml/ecma/kjs_window.cpp:2481
+#: khtml/ecma/kjs_window.cpp:2504
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr "Wëllt dir e Lieszeeche fir \"%1\" an är Sammlung dobäimaachen?"
 
-#: khtml/ecma/kjs_window.cpp:2484
+#: khtml/ecma/kjs_window.cpp:2507
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
 "added to your collection?"
 msgstr ""
 "Wëllt dir e Lieszeeche mam Numm \"%2\" fir \"%1\" an är Sammlung dobäimaachen?"
 
-#: khtml/ecma/kjs_window.cpp:2492
+#: khtml/ecma/kjs_window.cpp:2515
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr "JavaScript huet probéiert, e Lieszeechen dobäizemaachen"
 
-#: khtml/ecma/kjs_window.cpp:2496
+#: khtml/ecma/kjs_window.cpp:2519
 msgid "Disallow"
 msgstr "Net zouloossen"
 
