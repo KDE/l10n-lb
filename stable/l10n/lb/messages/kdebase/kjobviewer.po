@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kjobviewer\n"
-"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"POT-Creation-Date: 2006-03-12 03:46+0100\n"
 "PO-Revision-Date: 2005-12-27 21:28+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -24,16 +24,16 @@ msgid ""
 "Your emails"
 msgstr "michel.ludwig@kdemail.net"
 
-#: kjobviewer.cpp:123
+#: kjobviewer.cpp:124
 msgid "All Printers"
 msgstr "All Dréckeren"
 
-#: kjobviewer.cpp:130
+#: kjobviewer.cpp:131
 msgid "There is no default printer. Start with --all to see all printers."
 msgstr ""
 "Et gëtt kee Standarddrécker. Start mat --all fir all d'Dréckeren ze gesinn."
 
-#: kjobviewer.cpp:130
+#: kjobviewer.cpp:131
 msgid "Print Error"
 msgstr "Feeler beim Drécken"
 
