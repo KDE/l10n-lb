@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2006-03-15 03:51+0100\n"
+"POT-Creation-Date: 2006-03-16 03:49+0100\n"
 "PO-Revision-Date: 2006-01-09 23:14+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -879,7 +879,7 @@ msgstr "Onbenannt"
 
 #: common_texts.cpp:67 kdecore/kapplication.cpp:1380
 #: kdecore/kapplication.cpp:2207 kdecore/kapplication.cpp:2242
-#: kdecore/kapplication.cpp:2511 kdecore/kapplication.cpp:2533
+#: kdecore/kapplication.cpp:2513 kdecore/kapplication.cpp:2535
 #: kdecore/kdebug.cpp:295 kdeui/kdialogbase.cpp:908 kdeui/kstdguiitem.cpp:99
 msgid "&OK"
 msgstr "&OK"
@@ -1005,7 +1005,7 @@ msgid "&Save"
 msgstr "&Späicheren"
 
 #: common_texts.cpp:111 khtml/khtml_part.cpp:3919 khtml/khtml_part.cpp:4123
-#: khtml/khtml_part.cpp:4437 khtml/khtml_run.cpp:83 kparts/browserrun.cpp:414
+#: khtml/khtml_part.cpp:4437 khtml/khtml_run.cpp:83 kparts/browserrun.cpp:417
 msgid "Save As"
 msgstr "Späicheren als"
 
@@ -2953,11 +2953,11 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdecore/kapplication.cpp:2510
+#: kdecore/kapplication.cpp:2512
 msgid "Could not Launch Mail Client"
 msgstr "Konnt de Mailprogramm net starten"
 
-#: kdecore/kapplication.cpp:2511
+#: kdecore/kapplication.cpp:2513
 #, c-format
 msgid ""
 "Could not launch the mail client:\n"
@@ -2968,11 +2968,11 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdecore/kapplication.cpp:2532
+#: kdecore/kapplication.cpp:2534
 msgid "Could not Launch Browser"
 msgstr "Konnt de Browser net starten"
 
-#: kdecore/kapplication.cpp:2533
+#: kdecore/kapplication.cpp:2535
 #, c-format
 msgid ""
 "Could not launch the browser:\n"
@@ -2983,13 +2983,13 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdecore/kapplication.cpp:2597
+#: kdecore/kapplication.cpp:2599
 msgid ""
 "Could not register with DCOP.\n"
 msgstr ""
 "Konnt net bei DCOP umellen.\n"
 
-#: kdecore/kapplication.cpp:2629
+#: kdecore/kapplication.cpp:2631
 msgid ""
 "KLauncher could not be reached via DCOP.\n"
 msgstr ""
@@ -6859,11 +6859,11 @@ msgstr ""
 msgid "Overwrite File?"
 msgstr "Datei iwwerschreiwen?"
 
-#: khtml/khtml_ext.cpp:884 kparts/browserrun.cpp:385
+#: khtml/khtml_ext.cpp:884 kparts/browserrun.cpp:388
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "Den Download-Manager (%1) konnt an ärem PATH net fonnt ginn "
 
-#: khtml/khtml_ext.cpp:885 kparts/browserrun.cpp:386
+#: khtml/khtml_ext.cpp:885 kparts/browserrun.cpp:389
 msgid ""
 "Try to reinstall it  \n"
 "\n"
@@ -8086,19 +8086,19 @@ msgstr ""
 msgid "Close Document"
 msgstr "Dokument zoumaachen"
 
-#: kparts/browserrun.cpp:271
+#: kparts/browserrun.cpp:273
 msgid "Do you really want to execute '%1'? "
 msgstr "Wëllt dir '%1' wiirklech lafe loossen? "
 
-#: kparts/browserrun.cpp:272
+#: kparts/browserrun.cpp:274
 msgid "Execute File?"
 msgstr "Datei ausféieren?"
 
-#: kparts/browserrun.cpp:272
+#: kparts/browserrun.cpp:274
 msgid "Execute"
 msgstr "Ausféieren"
 
-#: kparts/browserrun.cpp:290
+#: kparts/browserrun.cpp:292
 msgid ""
 "Open '%2'?\n"
 "Type: %1"
@@ -8106,7 +8106,7 @@ msgstr ""
 "'%2' opmaachen?\n"
 "Typ: %1"
 
-#: kparts/browserrun.cpp:292
+#: kparts/browserrun.cpp:294
 msgid ""
 "Open '%3'?\n"
 "Name: %2\n"
@@ -8116,15 +8116,15 @@ msgstr ""
 "Numm: %2\n"
 "Typ: %1"
 
-#: kparts/browserrun.cpp:306
+#: kparts/browserrun.cpp:308
 msgid "&Open with '%1'"
 msgstr "Mat '%1' &opmaachen"
 
-#: kparts/browserrun.cpp:307
+#: kparts/browserrun.cpp:309
 msgid "&Open With..."
 msgstr "&Opmaache mat..."
 
-#: kparts/browserrun.cpp:348
+#: kparts/browserrun.cpp:351
 msgid "&Open"
 msgstr "&Opmaachen"
 
