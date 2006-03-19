@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2006-03-16 03:49+0100\n"
+"POT-Creation-Date: 2006-03-19 03:53+0100\n"
 "PO-Revision-Date: 2006-01-09 23:14+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -5834,7 +5834,7 @@ msgid "Reset Toolbars"
 msgstr "Toolbaren zerécksetzen"
 
 #: kdeui/kedittoolbar.cpp:447 khtml/html/html_formimpl.cpp:2071
-#: khtml/khtmlview.cpp:2522 khtml/khtmlview.cpp:2555
+#: khtml/khtmlview.cpp:2526 khtml/khtmlview.cpp:2559
 msgid "Reset"
 msgstr "Zerécksetzen"
 
@@ -7321,7 +7321,7 @@ msgstr ""
 "ginn.<BR>Wëllt dir de Formular ofsenden?"
 
 #: khtml/html/html_formimpl.cpp:1509 khtml/html/html_formimpl.cpp:2079
-#: khtml/khtml_part.cpp:4797 khtml/khtmlview.cpp:2508 khtml/khtmlview.cpp:2550
+#: khtml/khtml_part.cpp:4797 khtml/khtmlview.cpp:2512 khtml/khtmlview.cpp:2554
 msgid "Submit"
 msgstr "Verschécken"
 
@@ -7405,39 +7405,39 @@ msgstr "Passiv &Norichtefënster bei blockéierte Popup-Fënsteren uweisen"
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "JavaScript fir Fënsteren nei opzemaache &configuréieren..."
 
-#: khtml/khtmlview.cpp:1618
+#: khtml/khtmlview.cpp:1622
 msgid "Find stopped."
 msgstr "Sicht opgehal."
 
-#: khtml/khtmlview.cpp:1629
+#: khtml/khtmlview.cpp:1633
 msgid "Starting -- find links as you type"
 msgstr "Startvirgang -- Linke beim antippen ergänzen"
 
-#: khtml/khtmlview.cpp:1635
+#: khtml/khtmlview.cpp:1639
 msgid "Starting -- find text as you type"
 msgstr "Startvirgang -- Text beim antippen ergänzen"
 
-#: khtml/khtmlview.cpp:1656
+#: khtml/khtmlview.cpp:1660
 msgid "Link found: \"%1\"."
 msgstr "Link fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1661
+#: khtml/khtmlview.cpp:1665
 msgid "Link not found: \"%1\"."
 msgstr "Link net fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1669
+#: khtml/khtmlview.cpp:1673
 msgid "Text found: \"%1\"."
 msgstr "Text fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1674
+#: khtml/khtmlview.cpp:1678
 msgid "Text not found: \"%1\"."
 msgstr "Text net fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1718
+#: khtml/khtmlview.cpp:1722
 msgid "Access Keys activated"
 msgstr "Kuerztasten ugeschalt"
 
-#: khtml/khtmlview.cpp:2737
+#: khtml/khtmlview.cpp:2741
 #, c-format
 msgid "Print %1"
 msgstr "%1 drécken"
