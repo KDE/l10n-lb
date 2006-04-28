@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kio_system\n"
-"POT-Creation-Date: 2005-10-12 02:41+0200\n"
+"POT-Creation-Date: 2006-04-28 03:54+0200\n"
 "PO-Revision-Date: 2005-12-23 21:05+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -12,10 +12,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11\n"
 
-#: kio_system.cpp:36
+#: kio_system.cpp:35
 msgid "Protocol name"
 msgstr "Protokollnumm"
 
-#: kio_system.cpp:37 kio_system.cpp:38
+#: kio_system.cpp:36 kio_system.cpp:37
 msgid "Socket name"
 msgstr "Socketnumm"
