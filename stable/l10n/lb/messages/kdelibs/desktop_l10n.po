@@ -6,13 +6,13 @@ msgstr ""
 "Project-Id-Version: desktop_l10n\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2006-05-01 02:09+0000\n"
-"PO-Revision-Date: 2006-01-16 18:31+0100\n"
+"PO-Revision-Date: 2006-05-01 21:11+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11\n"
+"X-Generator: KBabel 1.11.2\n"
 
 #: af/messages/entry.desktop:2
 msgid "Name=Afrikaans"
@@ -151,9 +151,8 @@ msgid "Name=Japanese"
 msgstr "Name=Japanesch"
 
 #: ka/messages/entry.desktop:2
-#, fuzzy
 msgid "Name=Georgian"
-msgstr "Name=Däitsch"
+msgstr "Name=Georgesch"
 
 #: km/messages/entry.desktop:2
 msgid "Name=Khmer"
@@ -350,3 +349,4 @@ msgstr "Name=Chinesesch"
 #: zu/messages/entry.desktop:2
 msgid "Name=Zulu"
 msgstr "Name=Zulu"
+
