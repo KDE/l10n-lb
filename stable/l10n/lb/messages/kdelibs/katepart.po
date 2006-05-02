@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: katepart\n"
-"POT-Creation-Date: 2005-11-07 02:44+0100\n"
+"POT-Creation-Date: 2006-04-25 03:50+0200\n"
 "PO-Revision-Date: 2005-12-27 22:07+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team:  <kde-i18n-lb@kde.org>\n"
@@ -44,22 +44,27 @@ msgstr "Syntax-&Guide drécken"
 
 #: part/kateprinter.cpp:659
 msgid ""
-"<p>This option is only available if some text is selected in the "
-"document.</p><p>If available and enabled, only the selected text is "
-"printed.</p>"
-msgstr "<p>Dëss Optioun ass nëmme verfügbar, wann Text am Dokument ausgewielt gouf.</p><p>Wa se verfügbar an ugeschalt ass, gëtt nëmmen den ausgewielten Text gedréckt.</p>"
+"<p>This option is only available if some text is selected in the document.</p>"
+"<p>If available and enabled, only the selected text is printed.</p>"
+msgstr ""
+"<p>Dëss Optioun ass nëmme verfügbar, wann Text am Dokument ausgewielt gouf.</p>"
+"<p>Wa se verfügbar an ugeschalt ass, gëtt nëmmen den ausgewielten Text "
+"gedréckt.</p>"
 
 #: part/kateprinter.cpp:662
 msgid ""
-"<p>If enabled, line numbers will be printed on the left side of the "
-"page(s).</p>"
-msgstr "<p>Wann se ugeschalt ass, ginn d'Zeilennummeren op de lénke Rand vun de Säiten gedréckt.</p>"
+"<p>If enabled, line numbers will be printed on the left side of the page(s).</p>"
+msgstr ""
+"<p>Wann se ugeschalt ass, ginn d'Zeilennummeren op de lénke Rand vun de Säiten "
+"gedréckt.</p>"
 
 #: part/kateprinter.cpp:664
 msgid ""
-"<p>Print a box displaying typographical conventions for the document type, "
-"as defined by the syntax highlighting being used."
-msgstr "<p>Dréckt eng Këscht déi d'typographesch Konventioune fir den Dokumenttyp uweist, wéi se vum aktuell benotzte Syntax-Ervirhiewungsmodus virgi ginn."
+"<p>Print a box displaying typographical conventions for the document type, as "
+"defined by the syntax highlighting being used."
+msgstr ""
+"<p>Dréckt eng Këscht déi d'typographesch Konventioune fir den Dokumenttyp "
+"uweist, wéi se vum aktuell benotzte Syntax-Ervirhiewungsmodus virgi ginn."
 
 #: part/kateprinter.cpp:700
 msgid "Hea&der && Footer"
@@ -115,28 +120,45 @@ msgstr "&Hannergrond"
 
 #: part/kateprinter.cpp:788
 msgid "<p>Format of the page header. The following tags are supported:</p>"
-msgstr "<p>Format vun de Kappzeilen. Déi folgend Formatuweisunge ginn ënnerstëtzt:</p>"
+msgstr ""
+"<p>Format vun de Kappzeilen. Déi folgend Formatuweisunge ginn ënnerstëtzt:</p>"
 
 #: part/kateprinter.cpp:790
 msgid ""
-"<ul><li><tt>%u</tt>: current user name</li><li><tt>%d</tt>: complete "
-"date/time in short format</li><li><tt>%D</tt>: complete date/time in long "
-"format</li><li><tt>%h</tt>: current time</li><li><tt>%y</tt>: current date "
-"in short format</li><li><tt>%Y</tt>: current date in long "
-"format</li><li><tt>%f</tt>: file name</li><li><tt>%U</tt>: full URL of the "
-"document</li><li><tt>%p</tt>: page number</li></ul><br><u>Note:</u> Do "
-"<b>not</b> use the '|' (vertical bar) character."
-msgstr "<ul><li><tt>%u</tt>: aktuellen Benotzernumm</li><li><tt>%d</tt>: kompletten Datum/Zäit am Kuerzformat</li><li><tt>%D</tt>: kompletten Datum/Zäit am Laangformat</li><li><tt>%h</tt>: aktuell Zäit</li><li><tt>%y</tt>: aktuellen Datum am Kuerzformat</li><li><tt>%Y</tt>: aktuellen Datum am Laangformat</li><li><tt>%f</tt>: Dateinumm</li><li><tt>%U</tt>: komplett URL vum Dokument</li><li><tt>%p</tt>: Säitennummer</li></ul><br><u>Opgepasst:</u> Benotzt <b>net</b> de vertikale Strich '|'."
+"<ul>"
+"<li><tt>%u</tt>: current user name</li>"
+"<li><tt>%d</tt>: complete date/time in short format</li>"
+"<li><tt>%D</tt>: complete date/time in long format</li>"
+"<li><tt>%h</tt>: current time</li>"
+"<li><tt>%y</tt>: current date in short format</li>"
+"<li><tt>%Y</tt>: current date in long format</li>"
+"<li><tt>%f</tt>: file name</li>"
+"<li><tt>%U</tt>: full URL of the document</li>"
+"<li><tt>%p</tt>: page number</li></ul>"
+"<br><u>Note:</u> Do <b>not</b> use the '|' (vertical bar) character."
+msgstr ""
+"<ul>"
+"<li><tt>%u</tt>: aktuellen Benotzernumm</li>"
+"<li><tt>%d</tt>: kompletten Datum/Zäit am Kuerzformat</li>"
+"<li><tt>%D</tt>: kompletten Datum/Zäit am Laangformat</li>"
+"<li><tt>%h</tt>: aktuell Zäit</li>"
+"<li><tt>%y</tt>: aktuellen Datum am Kuerzformat</li>"
+"<li><tt>%Y</tt>: aktuellen Datum am Laangformat</li>"
+"<li><tt>%f</tt>: Dateinumm</li>"
+"<li><tt>%U</tt>: komplett URL vum Dokument</li>"
+"<li><tt>%p</tt>: Säitennummer</li></ul>"
+"<br><u>Opgepasst:</u> Benotzt <b>net</b> de vertikale Strich '|'."
 
 #: part/kateprinter.cpp:804
 msgid "<p>Format of the page footer. The following tags are supported:</p>"
-msgstr "<p>Format vun de Fousszeilen. Déi folgend Formatuweisunge ginn ënnerstëtzt:</p>"
+msgstr ""
+"<p>Format vun de Fousszeilen. Déi folgend Formatuweisunge ginn ënnerstëtzt:</p>"
 
 #: part/kateprinter.cpp:908
 msgid "L&ayout"
 msgstr "L&ayout"
 
-#: part/kateprinter.cpp:915 part/kateschema.cpp:832
+#: part/kateprinter.cpp:915 part/kateschema.cpp:834
 msgid "&Schema:"
 msgstr "&Schema:"
 
@@ -166,16 +188,23 @@ msgstr "Faar&f:"
 
 #: part/kateprinter.cpp:954
 msgid ""
-"<p>If enabled, the background color of the editor will be used.</p><p>This "
-"may be useful if your color scheme is designed for a dark background.</p>"
-msgstr "<p>Wann ugeschalt, gëtt d'Hannergrondfaarf vum Editor benotzt.</p><p>Dësst kann nëtzlech sinn, wann ärt Faarfschema fir en däischteren Hannergrond entworf gouf.</p>"
+"<p>If enabled, the background color of the editor will be used.</p>"
+"<p>This may be useful if your color scheme is designed for a dark "
+"background.</p>"
+msgstr ""
+"<p>Wann ugeschalt, gëtt d'Hannergrondfaarf vum Editor benotzt.</p>"
+"<p>Dësst kann nëtzlech sinn, wann ärt Faarfschema fir en däischteren "
+"Hannergrond entworf gouf.</p>"
 
 #: part/kateprinter.cpp:957
 msgid ""
 "<p>If enabled, a box as defined in the properties below will be drawn around "
 "the contents of each page. The Header and Footer will be separated from the "
 "contents with a line as well.</p>"
-msgstr "<p>Wann ugeschalt, gëtt eng Rumm, wéi an den Eegeschafte ënnendrënner definéiert, ronderëm d'Inhalter vun all Säit gedréckt. D'Kapp- an d'Fousszeilen ginn och vun den Inhalter mat enger Linn getrennt.</p>"
+msgstr ""
+"<p>Wann ugeschalt, gëtt eng Rumm, wéi an den Eegeschafte ënnendrënner "
+"definéiert, ronderëm d'Inhalter vun all Säit gedréckt. D'Kapp- an d'Fousszeilen "
+"ginn och vun den Inhalter mat enger Linn getrennt.</p>"
 
 #: part/kateprinter.cpp:961
 msgid "The width of the box outline"
@@ -195,7 +224,9 @@ msgstr "Lies&zeechen setzen"
 
 #: part/katebookmarks.cpp:80
 msgid "If a line has no bookmark then add one, otherwise remove it."
-msgstr "Wann eng Zeil kee Lieszeechen huet, maach eent dobäi, anerefalls maach et ewech."
+msgstr ""
+"Wann eng Zeil kee Lieszeechen huet, maach eent dobäi, anerefalls maach et "
+"ewech."
 
 #: part/katebookmarks.cpp:81
 msgid "Clear &Bookmark"
@@ -342,13 +373,13 @@ msgstr ""
 msgid "All people who have contributed and I have forgotten to mention"
 msgstr "All d'Leit, déi matgehollef hunn an déi ech vergiess hunn ze ernimmen"
 
-#: _translatorinfo.cpp:1 part/katefactory.cpp:114 _translatorinfo.cpp:1
+#: _translatorinfo.cpp:1 part/katefactory.cpp:114
 msgid ""
 "_: NAME OF TRANSLATORS\n"
 "Your names"
 msgstr "Michel Ludwig"
 
-#: _translatorinfo.cpp:3 part/katefactory.cpp:114 _translatorinfo.cpp:3
+#: _translatorinfo.cpp:3 part/katefactory.cpp:114
 msgid ""
 "_: EMAIL OF TRANSLATORS\n"
 "Your emails"
@@ -368,8 +399,8 @@ msgstr ""
 
 #: part/katesearch.cpp:78
 msgid ""
-"Look up a piece of text or regular expression and replace the result with "
-"some given text."
+"Look up a piece of text or regular expression and replace the result with some "
+"given text."
 msgstr ""
 
 #: part/katesearch.cpp:329
@@ -457,8 +488,8 @@ msgstr ""
 
 #: part/katesearch.cpp:885
 msgid ""
-"<p>Usage: <code>ifind:[:bcrs] PATTERN</code><br>ifind does incremental or "
-"'as-you-type' search</p>"
+"<p>Usage: <code>ifind:[:bcrs] PATTERN</code>"
+"<br>ifind does incremental or 'as-you-type' search</p>"
 msgstr ""
 
 #: part/katesearch.cpp:889
@@ -467,24 +498,26 @@ msgstr ""
 
 #: part/katesearch.cpp:892
 msgid ""
-"<h4><caption>Options</h4><p><b>b</b> - Search backward<br><b>c</b> - Search "
-"from cursor<br><b>r</b> - Pattern is a regular expression<br><b>s</b> - Case "
-"sensitive search"
+"<h4><caption>Options</h4>"
+"<p><b>b</b> - Search backward"
+"<br><b>c</b> - Search from cursor"
+"<br><b>r</b> - Pattern is a regular expression"
+"<br><b>s</b> - Case sensitive search"
 msgstr ""
 
 #: part/katesearch.cpp:901
 msgid ""
-"<br><b>e</b> - Search in selected text only<br><b>w</b> - Search whole words "
-"only"
+"<br><b>e</b> - Search in selected text only"
+"<br><b>w</b> - Search whole words only"
 msgstr ""
 
 #: part/katesearch.cpp:907
 msgid ""
-"<br><b>p</b> - Prompt for replace</p><p>If REPLACEMENT is not present, an "
-"empty string is used.</p><p>If you want to have whitespace in your PATTERN, "
-"you need to quote both PATTERN and REPLACEMENT with either single or double "
-"quotes. To have the quote characters in the strings, prepend them with a "
-"backslash."
+"<br><b>p</b> - Prompt for replace</p>"
+"<p>If REPLACEMENT is not present, an empty string is used.</p>"
+"<p>If you want to have whitespace in your PATTERN, you need to quote both "
+"PATTERN and REPLACEMENT with either single or double quotes. To have the quote "
+"characters in the strings, prepend them with a backslash."
 msgstr ""
 
 #: part/kateluaindentscript.cpp:86
@@ -515,14 +548,14 @@ msgstr ""
 
 #: part/kateluaindentscript.cpp:139
 msgid ""
-"document.removeText:Four parameters needed (start line, start col,end line, "
-"end col)"
+"document.removeText:Four parameters needed (start line, start col,end line, end "
+"col)"
 msgstr ""
 
 #: part/kateluaindentscript.cpp:143
 msgid ""
-"document.removeText:Four parameters needed (start line, start col,end line, "
-"end col) (4x number)"
+"document.removeText:Four parameters needed (start line, start col,end line, end "
+"col) (4x number)"
 msgstr ""
 
 #: part/kateluaindentscript.cpp:152
@@ -550,100 +583,100 @@ msgstr ""
 msgid "(Unknown)"
 msgstr "(Onbekannt)"
 
-#: part/katedocument.cpp:429
+#: part/katedocument.cpp:431
 msgid "Fonts & Colors"
 msgstr "Schrëften & Faarwen"
 
-#: part/katedocument.cpp:432
+#: part/katedocument.cpp:434
 msgid "Cursor & Selection"
 msgstr "Cursor & Auswielen"
 
-#: part/katedocument.cpp:435
+#: part/katedocument.cpp:437
 msgid "Editing"
 msgstr "Veränneren"
 
-#: part/katedocument.cpp:438
+#: part/katedocument.cpp:440
 msgid "Indentation"
 msgstr "Aréckung"
 
-#: part/katedocument.cpp:441
+#: part/katedocument.cpp:443
 msgid "Open/Save"
 msgstr "Opmaachen/Späicheren"
 
-#: part/katedocument.cpp:444
+#: part/katedocument.cpp:446
 msgid "Highlighting"
 msgstr "Ervirhierwen"
 
-#: part/katedocument.cpp:447
+#: part/katedocument.cpp:449
 msgid "Filetypes"
 msgstr "Dateitypen"
 
-#: part/katedocument.cpp:450
+#: part/katedocument.cpp:452
 msgid "Shortcuts"
 msgstr "Kierzel"
 
-#: part/katedocument.cpp:453
+#: part/katedocument.cpp:455
 msgid "Plugins"
 msgstr "Plugins"
 
-#: part/katedocument.cpp:470
+#: part/katedocument.cpp:472
 msgid "Font & Color Schemas"
 msgstr "Schrëft- & Faarfschemas"
 
-#: part/katedocument.cpp:473
+#: part/katedocument.cpp:475
 msgid "Cursor & Selection Behavior"
 msgstr ""
 
-#: part/katedocument.cpp:476
+#: part/katedocument.cpp:478
 msgid "Editing Options"
 msgstr ""
 
-#: part/katedocument.cpp:479
+#: part/katedocument.cpp:481
 msgid "Indentation Rules"
 msgstr ""
 
-#: part/katedocument.cpp:482
+#: part/katedocument.cpp:484
 msgid "File Opening & Saving"
 msgstr ""
 
-#: part/katedocument.cpp:485
+#: part/katedocument.cpp:487
 msgid "Highlighting Rules"
 msgstr ""
 
-#: part/katedocument.cpp:488
+#: part/katedocument.cpp:490
 msgid "Filetype Specific Settings"
 msgstr ""
 
-#: part/katedocument.cpp:491
+#: part/katedocument.cpp:493
 msgid "Shortcuts Configuration"
 msgstr ""
 
-#: part/katedocument.cpp:494
+#: part/katedocument.cpp:496
 msgid "Plugin Manager"
 msgstr "Plugin-Manager"
 
-#: part/katedocument.cpp:2402
+#: part/katedocument.cpp:2414
 msgid ""
 "The file %1 could not be loaded completely, as there is not enough temporary "
 "disk storage for it."
 msgstr ""
 
-#: part/katedocument.cpp:2404
+#: part/katedocument.cpp:2416
 msgid ""
 "The file %1 could not be loaded, as it was not possible to read from it.\n"
 "\n"
 "Check if you have read access to this file."
 msgstr ""
 
-#: part/katedocument.cpp:2414 part/katedocument.cpp:2478
+#: part/katedocument.cpp:2426 part/katedocument.cpp:2492
 msgid "The file %1 is a binary, saving it will result in a corrupt file."
 msgstr ""
 
-#: part/katedocument.cpp:2415
+#: part/katedocument.cpp:2427
 msgid "Binary File Opened"
 msgstr "Binär Datei opgemat"
 
-#: part/katedocument.cpp:2471
+#: part/katedocument.cpp:2485
 msgid ""
 "This file could not be loaded correctly due to lack of temporary disk space. "
 "Saving it could cause data loss.\n"
@@ -651,44 +684,44 @@ msgid ""
 "Do you really want to save it?"
 msgstr ""
 
-#: part/katedocument.cpp:2471 part/katedocument.cpp:2498
-#: part/katedocument.cpp:2509 part/katedocument.cpp:2674
+#: part/katedocument.cpp:2485 part/katedocument.cpp:2512
+#: part/katedocument.cpp:2523 part/katedocument.cpp:2688
 msgid "Possible Data Loss"
 msgstr "Méigleche Verloscht vu Donnéen"
 
-#: part/katedocument.cpp:2471 part/katedocument.cpp:2480
-#: part/katedocument.cpp:2492 part/katedocument.cpp:2498
-#: part/katedocument.cpp:2509
+#: part/katedocument.cpp:2485 part/katedocument.cpp:2494
+#: part/katedocument.cpp:2506 part/katedocument.cpp:2512
+#: part/katedocument.cpp:2523
 msgid "Save Nevertheless"
 msgstr "Trozdem späicheren"
 
-#: part/katedocument.cpp:2479
+#: part/katedocument.cpp:2493
 msgid "Trying to Save Binary File"
 msgstr "Versichen eng binär Datei ze späicheren"
 
-#: part/katedocument.cpp:2492
+#: part/katedocument.cpp:2506
 msgid ""
 "Do you really want to save this unmodified file? You could overwrite changed "
 "data in the file on disk."
 msgstr ""
 
-#: part/katedocument.cpp:2492
+#: part/katedocument.cpp:2506
 msgid "Trying to Save Unmodified File"
 msgstr "Versichen eng onverännert Datei ze späicheren"
 
-#: part/katedocument.cpp:2498
+#: part/katedocument.cpp:2512
 msgid ""
-"Do you really want to save this file? Both your open file and the file on "
-"disk were changed. There could be some data lost."
+"Do you really want to save this file? Both your open file and the file on disk "
+"were changed. There could be some data lost."
 msgstr ""
 
-#: part/katedocument.cpp:2509
+#: part/katedocument.cpp:2523
 msgid ""
-"The selected encoding cannot encode every unicode character in this "
-"document. Do you really want to save it? There could be some data lost."
+"The selected encoding cannot encode every unicode character in this document. "
+"Do you really want to save it? There could be some data lost."
 msgstr ""
 
-#: part/katedocument.cpp:2560
+#: part/katedocument.cpp:2574
 msgid ""
 "The document could not be saved, as it was not possible to write to %1.\n"
 "\n"
@@ -696,59 +729,62 @@ msgid ""
 "available."
 msgstr ""
 
-#: part/katedocument.cpp:2673
+#: part/katedocument.cpp:2687
 msgid "Do you really want to continue to close this file? Data loss may occur."
 msgstr ""
 
-#: part/katedocument.cpp:2674
+#: part/katedocument.cpp:2688
 msgid "Close Nevertheless"
 msgstr "Trozdem zoumaachen"
 
-#: part/katedocument.cpp:4260 part/katedocument.cpp:4920 part/kateview.cpp:867
+#: part/katedocument.cpp:4253 part/katedocument.cpp:4935 part/kateview.cpp:860
 msgid "Save File"
 msgstr "Datei späicheren"
 
-#: part/katedocument.cpp:4269
+#: part/katedocument.cpp:4262
 msgid "Save failed"
 msgstr "Späicheren ass feelgeschloen"
 
-#: part/katedialogs.cpp:1606 part/katedocument.cpp:4331
+#: part/katedialogs.cpp:1606 part/katedocument.cpp:4324
 msgid "What do you want to do?"
 msgstr "Wat wëllt dir maachen ?"
 
-#: part/katedocument.cpp:4332
+#: part/katedocument.cpp:4325
 msgid "File Was Changed on Disk"
 msgstr "Datei gouf um Dateisystem verännert"
 
-#: part/katedialogs.cpp:1584 part/katedocument.cpp:4332
+#: part/katedialogs.cpp:1584 part/katedocument.cpp:4325
 msgid "&Reload File"
 msgstr "Datei nei l&ueden"
 
-#: part/katedocument.cpp:4332
+#: part/katedocument.cpp:4325
 msgid "&Ignore Changes"
 msgstr "Ännerungen &ignoréieren"
 
-#: part/katedocument.cpp:4837
+#: part/katedocument.cpp:4852
 msgid "The file '%1' was modified by another program."
 msgstr "D'Datei '%1' gouf vun engem anere Programm verännert."
 
-#: part/katedocument.cpp:4840
+#: part/katedocument.cpp:4855
 msgid "The file '%1' was created by another program."
 msgstr "D'Datei '%1' gouf vun engem anere Programm erstallt."
 
-#: part/katedocument.cpp:4843
+#: part/katedocument.cpp:4858
 msgid "The file '%1' was deleted by another program."
 msgstr "D'Datei '%1' gouf vun engem anere Programm geläscht."
 
-#: part/katedocument.cpp:4948 part/kateview.cpp:894
-msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
-msgstr "Eng Datei mam Numm \"%1\" gëtt et schonns. Sidd dir sëcher, dass dir se iwwerschreiwe wëllt ?"
+#: part/katedocument.cpp:4963 part/kateview.cpp:887
+msgid ""
+"A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgstr ""
+"Eng Datei mam Numm \"%1\" gëtt et schonns. Sidd dir sëcher, dass dir se "
+"iwwerschreiwe wëllt ?"
 
-#: part/katedocument.cpp:4950 part/kateview.cpp:895
+#: part/katedocument.cpp:4965 part/kateview.cpp:888
 msgid "Overwrite File?"
 msgstr "Datei iwwerschreiwen ?"
 
-#: part/katedocument.cpp:4951 part/kateview.cpp:896
+#: part/katedocument.cpp:4966 part/kateview.cpp:889
 msgid "&Overwrite"
 msgstr "Iwwerschrei&wen"
 
@@ -794,7 +830,8 @@ msgid "Delete the current file type."
 msgstr "Den aktuellen Dateityp läschen."
 
 #: part/katefiletype.cpp:335
-msgid "The name of the filetype will be the text of the corresponding menu item."
+msgid ""
+"The name of the filetype will be the text of the corresponding menu item."
 msgstr ""
 
 #: part/katefiletype.cpp:337
@@ -803,24 +840,24 @@ msgstr ""
 
 #: part/katefiletype.cpp:339
 msgid ""
-"<p>This string allows you to configure Kate's settings for the files "
-"selected by this mimetype using Kate variables. You can set almost any "
-"configuration option, such as highlight, indent-mode, encoding, "
-"etc.</p><p>For a full list of known variables, see the manual.</p>"
+"<p>This string allows you to configure Kate's settings for the files selected "
+"by this mimetype using Kate variables. You can set almost any configuration "
+"option, such as highlight, indent-mode, encoding, etc.</p>"
+"<p>For a full list of known variables, see the manual.</p>"
 msgstr ""
 
 #: part/katefiletype.cpp:344
 msgid ""
-"The wildcards mask allows you to select files by filename. A typical mask "
-"uses an asterisk and the file extension, for example <code>*.txt; "
-"*.text</code>. The string is a semicolon-separated list of masks."
+"The wildcards mask allows you to select files by filename. A typical mask uses "
+"an asterisk and the file extension, for example <code>*.txt; *.text</code>"
+". The string is a semicolon-separated list of masks."
 msgstr ""
 
 #: part/katefiletype.cpp:349
 msgid ""
 "The mime type mask allows you to select files by mimetype. The string is a "
-"semicolon-separated list of mimetypes, for example <code>text/plain; "
-"text/english</code>."
+"semicolon-separated list of mimetypes, for example <code>"
+"text/plain; text/english</code>."
 msgstr ""
 
 #: part/katefiletype.cpp:353
@@ -829,8 +866,8 @@ msgstr ""
 
 #: part/katefiletype.cpp:355
 msgid ""
-"Sets a priority for this file type. If more than one file type selects the "
-"same file, the one with the highest priority will be used."
+"Sets a priority for this file type. If more than one file type selects the same "
+"file, the one with the highest priority will be used."
 msgstr ""
 
 #: part/katefiletype.cpp:427
@@ -845,8 +882,8 @@ msgstr "Eegeschafte vun %1"
 #: part/katefiletype.cpp:504
 msgid ""
 "Select the MimeTypes you want for this file type.\n"
-"Please note that this will automatically edit the associated file extensions "
-"as well."
+"Please note that this will automatically edit the associated file extensions as "
+"well."
 msgstr ""
 
 #: part/katedialogs.cpp:1417 part/katefiletype.cpp:506
@@ -865,8 +902,7 @@ msgstr "Verfügbar Kommandoen"
 
 #: part/kateviewhelpers.cpp:239
 msgid ""
-"<p>For help on individual commands, do <code>'help "
-"&lt;command&gt;'</code></p>"
+"<p>For help on individual commands, do <code>'help &lt;command&gt;'</code></p>"
 msgstr ""
 
 #: part/kateviewhelpers.cpp:250
@@ -879,10 +915,11 @@ msgstr "Et gëtt keen esou ee Kommando <b>%1</b>"
 
 #: part/kateviewhelpers.cpp:258
 msgid ""
-"<p>This is the Katepart <b>command line</b>.<br>Syntax: <code><b>command [ "
-"arguments ]</b></code><br>For a list of available commands, enter "
-"<code><b>help list</b></code><br>For help for individual commands, enter "
-"<code><b>help &lt;command&gt;</b></code></p>"
+"<p>This is the Katepart <b>command line</b>."
+"<br>Syntax: <code><b>command [ arguments ]</b></code>"
+"<br>For a list of available commands, enter <code><b>help list</b></code>"
+"<br>For help for individual commands, enter <code><b>help &lt;command&gt;</b>"
+"</code></p>"
 msgstr ""
 
 #: part/kateviewhelpers.cpp:345
@@ -980,14 +1017,16 @@ msgstr ""
 
 #: part/kateschema.cpp:358
 msgid ""
-"<p>Sets the background color of the selection.</p><p>To set the text color "
-"for selected text, use the \"<b>Configure Highlighting</b>\" dialog.</p>"
+"<p>Sets the background color of the selection.</p>"
+"<p>To set the text color for selected text, use the \"<b>"
+"Configure Highlighting</b>\" dialog.</p>"
 msgstr ""
 
 #: part/kateschema.cpp:361
 msgid ""
-"<p>Sets the background color of the selected marker type.</p><p><b>Note</b>: "
-"The marker color is displayed lightly because of transparency.</p>"
+"<p>Sets the background color of the selected marker type.</p>"
+"<p><b>Note</b>: The marker color is displayed lightly because of "
+"transparency.</p>"
 msgstr ""
 
 #: part/kateschema.cpp:364
@@ -996,27 +1035,27 @@ msgstr ""
 
 #: part/kateschema.cpp:365
 msgid ""
-"<p>Sets the background color of the currently active line, which means the "
-"line where your cursor is positioned.</p>"
+"<p>Sets the background color of the currently active line, which means the line "
+"where your cursor is positioned.</p>"
 msgstr ""
 
 #: part/kateschema.cpp:368
 msgid ""
-"<p>This color will be used to draw the line numbers (if enabled) and the "
-"lines in the code-folding pane.</p>"
+"<p>This color will be used to draw the line numbers (if enabled) and the lines "
+"in the code-folding pane.</p>"
 msgstr ""
 
 #: part/kateschema.cpp:370
 msgid ""
-"<p>Sets the bracket matching color. This means, if you place the cursor e.g. "
-"at a <b>(</b>, the matching <b>)</b> will be highlighted with this color.</p>"
+"<p>Sets the bracket matching color. This means, if you place the cursor e.g. at "
+"a <b>(</b>, the matching <b>)</b> will be highlighted with this color.</p>"
 msgstr ""
 
 #: part/kateschema.cpp:374
 msgid ""
-"<p>Sets the color of Word Wrap-related markers:</p><dl><dt>Static Word "
-"Wrap</dt><dd>A vertical line which shows the column where text is going to "
-"be wrapped</dd><dt>Dynamic Word Wrap</dt><dd>An arrow shown to the left of "
+"<p>Sets the color of Word Wrap-related markers:</p><dl><dt>Static Word Wrap</dt>"
+"<dd>A vertical line which shows the column where text is going to be "
+"wrapped</dd><dt>Dynamic Word Wrap</dt><dd>An arrow shown to the left of "
 "visually-wrapped lines</dd></dl>"
 msgstr ""
 
@@ -1027,10 +1066,11 @@ msgstr ""
 #: part/kateschema.cpp:605
 msgid ""
 "This list displays the default styles for the current schema and offers the "
-"means to edit them. The style name reflects the current style settings.<p>To "
-"edit the colors, click the colored squares, or select the color to edit from "
-"the popup menu.<p>You can unset the Background and Selected Background "
-"colors from the popup menu when appropriate."
+"means to edit them. The style name reflects the current style settings."
+"<p>To edit the colors, click the colored squares, or select the color to edit "
+"from the popup menu."
+"<p>You can unset the Background and Selected Background colors from the popup "
+"menu when appropriate."
 msgstr ""
 
 #: part/katedialogs.cpp:1258 part/kateschema.cpp:689
@@ -1039,129 +1079,134 @@ msgstr "Erv&irhiewung:"
 
 #: part/kateschema.cpp:711
 msgid ""
-"This list displays the contexts of the current syntax highlight mode and "
-"offers the means to edit them. The context name reflects the current style "
-"settings.<p>To edit using the keyboard, press <strong>&lt;SPACE&gt;</strong> "
-"and choose a property from the popup menu.<p>To edit the colors, click the "
-"colored squares, or select the color to edit from the popup menu.<p>You can "
-"unset the Background and Selected Background colors from the context menu "
-"when appropriate."
+"This list displays the contexts of the current syntax highlight mode and offers "
+"the means to edit them. The context name reflects the current style settings."
+"<p>To edit using the keyboard, press <strong>&lt;SPACE&gt;</strong> "
+"and choose a property from the popup menu."
+"<p>To edit the colors, click the colored squares, or select the color to edit "
+"from the popup menu."
+"<p>You can unset the Background and Selected Background colors from the context "
+"menu when appropriate."
 msgstr ""
 
-#: part/kateschema.cpp:838 plugins/autobookmarker/autobookmarker.cpp:406
+#: part/kateschema.cpp:840 plugins/autobookmarker/autobookmarker.cpp:406
 msgid "&New..."
 msgstr "&Nei..."
 
-#: part/kateschema.cpp:851
+#: part/kateschema.cpp:853
 msgid "Colors"
 msgstr "Faarwen"
 
-#: part/kateschema.cpp:857
+#: part/kateschema.cpp:859
 msgid "Normal Text Styles"
 msgstr "Normalen Textstil"
 
-#: part/kateschema.cpp:861
+#: part/kateschema.cpp:863
 msgid "Highlighting Text Styles"
 msgstr ""
 
-#: part/kateschema.cpp:866
+#: part/kateschema.cpp:868
 msgid "&Default schema for %1:"
 msgstr "Stan&dardschema fir %1:"
 
-#: part/kateschema.cpp:964
+#: part/kateschema.cpp:966
 msgid "Name for New Schema"
 msgstr "Numm fir en neit Schema"
 
-#: part/kateschema.cpp:964
+#: part/kateschema.cpp:966
 msgid "Name:"
 msgstr "Numm:"
 
-#: part/kateschema.cpp:964
+#: part/kateschema.cpp:966
 msgid "New Schema"
 msgstr "Neit Schema"
 
-#: part/kateschema.cpp:1051
+#: part/kateschema.cpp:1053
 msgid "Context"
 msgstr "Kontext"
 
 #: part/kateautoindent.cpp:95 part/katehighlight.cpp:3142
-#: part/kateschema.cpp:1056
+#: part/kateschema.cpp:1058
 msgid "Normal"
 msgstr "Normal"
 
-#: part/kateschema.cpp:1057
+#: part/kateschema.cpp:1059
 msgid "Selected"
 msgstr "Ausgewielt"
 
-#: part/kateschema.cpp:1058
+#: part/kateschema.cpp:1060
 msgid "Background"
 msgstr "Hannergrond"
 
-#: part/kateschema.cpp:1059
+#: part/kateschema.cpp:1061
 msgid "Background Selected"
 msgstr "Hannergrond ausgewielt"
 
-#: part/kateschema.cpp:1061
+#: part/kateschema.cpp:1063
 msgid "Use Default Style"
 msgstr "Standard-Stil benotzen"
 
-#: part/kateschema.cpp:1095
+#: part/kateschema.cpp:1097
 msgid "&Bold"
 msgstr "&Fett"
 
-#: part/kateschema.cpp:1097
+#: part/kateschema.cpp:1099
 msgid "&Italic"
 msgstr "&Kursiv"
 
-#: part/kateschema.cpp:1099
+#: part/kateschema.cpp:1101
 msgid "&Underline"
 msgstr "&Ënnerstrach"
 
-#: part/kateschema.cpp:1101
+#: part/kateschema.cpp:1103
 msgid "S&trikeout"
 msgstr "Due&rchgestrach"
 
-#: part/kateschema.cpp:1106
+#: part/kateschema.cpp:1108
 msgid "Normal &Color..."
 msgstr "N&ormal Faarf..."
 
-#: part/kateschema.cpp:1107
+#: part/kateschema.cpp:1109
 msgid "&Selected Color..."
 msgstr "Au&sgewielt-Faarf..."
 
-#: part/kateschema.cpp:1108
+#: part/kateschema.cpp:1110
 msgid "&Background Color..."
 msgstr "Hanner&grondfaarf..."
 
-#: part/kateschema.cpp:1109
+#: part/kateschema.cpp:1111
 msgid "S&elected Background Color..."
 msgstr "Ausgewi&elt-Hannergrondfaarf..."
 
-#: part/kateschema.cpp:1120
+#: part/kateschema.cpp:1122
 msgid "Unset Background Color"
 msgstr ""
 
-#: part/kateschema.cpp:1122
+#: part/kateschema.cpp:1124
 msgid "Unset Selected Background Color"
 msgstr ""
 
-#: part/kateschema.cpp:1127
+#: part/kateschema.cpp:1129
 msgid "Use &Default Style"
 msgstr "Stan&dard-Stil benotzen"
 
-#: part/kateschema.cpp:1341
+#: part/kateschema.cpp:1352
 msgid ""
 "\"Use Default Style\" will be automatically unset when you change any style "
 "properties."
 msgstr ""
 
-#: part/kateschema.cpp:1342
+#: part/kateschema.cpp:1353
 msgid "Kate Styles"
 msgstr "Kate-Stiler"
 
 #: part/katesyntaxdocument.cpp:76
-msgid "<qt>The error <b>%4</b><br> has been detected in the file %1 at %2/%3</qt>"
-msgstr "<qt>De Feeler <b>%4</b><br> gouf an der Datei %1 bei %2/%3 festgestallt</qt>"
+msgid ""
+"<qt>The error <b>%4</b>"
+"<br> has been detected in the file %1 at %2/%3</qt>"
+msgstr ""
+"<qt>De Feeler <b>%4</b>"
+"<br> gouf an der Datei %1 bei %2/%3 festgestallt</qt>"
 
 #: part/katesyntaxdocument.cpp:84
 #, c-format
@@ -1251,12 +1296,12 @@ msgstr ""
 
 #: part/katedialogs.cpp:208
 msgid ""
-"Indentations of more than the selected number of spaces will not be "
-"shortened."
+"Indentations of more than the selected number of spaces will not be shortened."
 msgstr ""
 
 #: part/katedialogs.cpp:211
-msgid "This allows the <b>Tab</b> key to be used to increase the indentation level."
+msgid ""
+"This allows the <b>Tab</b> key to be used to increase the indentation level."
 msgstr ""
 
 #: part/katedialogs.cpp:214
@@ -1281,8 +1326,8 @@ msgstr ""
 
 #: part/katedialogs.cpp:224
 msgid ""
-"If this button is enabled, additional indenter specific options are "
-"available and can be configured in an extra dialog."
+"If this button is enabled, additional indenter specific options are available "
+"and can be configured in an extra dialog."
 msgstr ""
 
 #: part/katedialogs.cpp:275
@@ -1339,23 +1384,23 @@ msgstr ""
 
 #: part/katedialogs.cpp:393
 msgid ""
-"When selected, pressing the home key will cause the cursor to skip "
-"whitespace and go to the start of a line's text."
+"When selected, pressing the home key will cause the cursor to skip whitespace "
+"and go to the start of a line's text."
 msgstr ""
 
 #: part/katedialogs.cpp:397
 msgid ""
 "When on, moving the insertion cursor using the <b>Left</b> and <b>Right</b> "
-"keys will go on to previous/next line at beginning/end of the line, similar "
-"to most editors.<p>When off, the insertion cursor cannot be moved left of "
-"the line start, but it can be moved off the line end, which can be very "
-"handy for programmers."
+"keys will go on to previous/next line at beginning/end of the line, similar to "
+"most editors."
+"<p>When off, the insertion cursor cannot be moved left of the line start, but "
+"it can be moved off the line end, which can be very handy for programmers."
 msgstr ""
 
 #: part/katedialogs.cpp:403
 msgid ""
-"Selects whether the PageUp and PageDown keys should alter the vertical "
-"position of the cursor relative to the top of the view."
+"Selects whether the PageUp and PageDown keys should alter the vertical position "
+"of the cursor relative to the top of the view."
 msgstr ""
 
 #: part/katedialogs.cpp:465
@@ -1432,12 +1477,13 @@ msgstr ""
 
 #: part/katedialogs.cpp:534
 msgid ""
-"Automatically start a new line of text when the current line exceeds the "
-"length specified by the <b>Wrap words at:</b> option.<p>This option does not "
-"wrap existing lines of text - use the <b>Apply Static Word Wrap</b> option "
-"in the <b>Tools</b> menu for that purpose.<p>If you want lines to be "
-"<i>visually wrapped</i> instead, according to the width of the view, enable "
-"<b>Dynamic Word Wrap</b> in the <b>View Defaults</b> config page."
+"Automatically start a new line of text when the current line exceeds the length "
+"specified by the <b>Wrap words at:</b> option."
+"<p>This option does not wrap existing lines of text - use the <b>"
+"Apply Static Word Wrap</b> option in the <b>Tools</b> menu for that purpose."
+"<p>If you want lines to be <i>visually wrapped</i> instead, according to the "
+"width of the view, enable <b>Dynamic Word Wrap</b> in the <b>View Defaults</b> "
+"config page."
 msgstr ""
 
 #: part/katedialogs.cpp:542
@@ -1454,34 +1500,37 @@ msgstr ""
 
 #: part/katedialogs.cpp:548
 msgid ""
-"The editor will display a symbol to indicate the presence of a tab in the "
-"text."
+"The editor will display a symbol to indicate the presence of a tab in the text."
 msgstr ""
 
 #: part/katedialogs.cpp:552
-msgid "Sets the number of undo/redo steps to record. More steps uses more memory."
+msgid ""
+"Sets the number of undo/redo steps to record. More steps uses more memory."
 msgstr ""
 
 #: part/katedialogs.cpp:555
 msgid ""
 "This determines where KateView will get the search text from (this will be "
 "automatically entered into the Find Text dialog): "
-"<br><ul><li><b>Nowhere:</b> Don't guess the search "
-"text.</li><li><b>Selection Only:</b> Use the current text selection, if "
-"available.</li><li><b>Selection, then Current Word:</b> Use the current "
-"selection if available, otherwise use the current word.</li><li><b>Current "
-"Word Only:</b> Use the word that the cursor is currently resting on, if "
-"available.</li><li><b>Current Word, then Selection:</b> Use the current word "
-"if available, otherwise use the current selection.</li></ul>Note that, in "
-"all the above modes, if a search string has not been or cannot be "
-"determined, then the Find Text Dialog will fall back to the last search text."
+"<br>"
+"<ul>"
+"<li><b>Nowhere:</b> Don't guess the search text.</li>"
+"<li><b>Selection Only:</b> Use the current text selection, if available.</li>"
+"<li><b>Selection, then Current Word:</b> Use the current selection if "
+"available, otherwise use the current word.</li>"
+"<li><b>Current Word Only:</b> Use the word that the cursor is currently resting "
+"on, if available.</li>"
+"<li><b>Current Word, then Selection:</b> Use the current word if available, "
+"otherwise use the current selection.</li></ul>Note that, in all the above "
+"modes, if a search string has not been or cannot be determined, then the Find "
+"Text Dialog will fall back to the last search text."
 msgstr ""
 
 #: part/katedialogs.cpp:580
 msgid ""
 "If this is enabled, the editor will calculate the number of spaces up to the "
-"next tab position as defined by the tab width, and insert that number of "
-"spaces instead of a TAB character."
+"next tab position as defined by the tab width, and insert that number of spaces "
+"instead of a TAB character."
 msgstr ""
 
 #: part/katedialogs.cpp:584
@@ -1493,8 +1542,8 @@ msgstr ""
 #: part/katedialogs.cpp:587
 msgid ""
 "<p>If this option is checked, a vertical line will be drawn at the word wrap "
-"column as defined in the <strong>Editing</strong> properties.<p>Note that "
-"the word wrap marker is only drawn if you use a fixed pitch font."
+"column as defined in the <strong>Editing</strong> properties."
+"<p>Note that the word wrap marker is only drawn if you use a fixed pitch font."
 msgstr ""
 
 #: part/katedialogs.cpp:643
@@ -1576,8 +1625,8 @@ msgstr ""
 
 #: part/katedialogs.cpp:694 part/kateview.cpp:357
 msgid ""
-"If this option is checked, the text lines will be wrapped at the view border "
-"on the screen."
+"If this option is checked, the text lines will be wrapped at the view border on "
+"the screen."
 msgstr ""
 
 #: part/katedialogs.cpp:696 part/kateview.cpp:360
@@ -1586,41 +1635,47 @@ msgstr ""
 
 #: part/katedialogs.cpp:701
 msgid ""
-"<p>Enables the start of dynamically wrapped lines to be aligned vertically "
-"to the indentation level of the first line.  This can help to make code and "
-"markup more readable.</p><p>Additionally, this allows you to set a maximum "
-"width of the screen, as a percentage, after which dynamically wrapped lines "
-"will no longer be vertically aligned.  For example, at 50%, lines whose "
-"indentation levels are deeper than 50% of the width of the screen will not "
-"have vertical alignment applied to subsequent wrapped lines.</p>"
+"<p>Enables the start of dynamically wrapped lines to be aligned vertically to "
+"the indentation level of the first line.  This can help to make code and markup "
+"more readable.</p>"
+"<p>Additionally, this allows you to set a maximum width of the screen, as a "
+"percentage, after which dynamically wrapped lines will no longer be vertically "
+"aligned.  For example, at 50%, lines whose indentation levels are deeper than "
+"50% of the width of the screen will not have vertical alignment applied to "
+"subsequent wrapped lines.</p>"
 msgstr ""
 
 #: part/katedialogs.cpp:710
 msgid ""
-"If this option is checked, every new view will display line numbers on the "
-"left hand side."
+"If this option is checked, every new view will display line numbers on the left "
+"hand side."
 msgstr ""
 
 #: part/katedialogs.cpp:713
 msgid ""
 "If this option is checked, every new view will display an icon border on the "
-"left hand side.<br><br>The icon border shows bookmark signs, for instance."
+"left hand side."
+"<br>"
+"<br>The icon border shows bookmark signs, for instance."
 msgstr ""
 
 #: part/katedialogs.cpp:717
 msgid ""
 "If this option is checked, every new view will show marks on the vertical "
-"scrollbar.<br><br>These marks will, for instance, show bookmarks."
+"scrollbar."
+"<br>"
+"<br>These marks will, for instance, show bookmarks."
 msgstr ""
 
 #: part/katedialogs.cpp:721
 msgid ""
-"If this option is checked, every new view will display marks for code "
-"folding, if code folding is available."
+"If this option is checked, every new view will display marks for code folding, "
+"if code folding is available."
 msgstr ""
 
 #: part/katedialogs.cpp:724
-msgid "Choose how the bookmarks should be ordered in the <b>Bookmarks</b> menu."
+msgid ""
+"Choose how the bookmarks should be ordered in the <b>Bookmarks</b> menu."
 msgstr ""
 
 #: part/katedialogs.cpp:726
@@ -1629,14 +1684,14 @@ msgstr ""
 
 #: part/katedialogs.cpp:728
 msgid ""
-"Each new bookmark will be added to the bottom, independently from where it "
-"is placed in the document."
+"Each new bookmark will be added to the bottom, independently from where it is "
+"placed in the document."
 msgstr ""
 
 #: part/katedialogs.cpp:731
 msgid ""
-"If this is enabled, the editor will display vertical line to help "
-"identifying indent lines."
+"If this is enabled, the editor will display vertical lines to help identify "
+"indent lines."
 msgstr ""
 
 #: part/katedialogs.cpp:847
@@ -1724,14 +1779,14 @@ msgstr ""
 #: part/katedialogs.cpp:912
 msgid ""
 "<p>Backing up on save will cause Kate to copy the disk file to "
-"'&lt;prefix&gt;&lt;filename&gt;&lt;suffix&gt;' before saving changes.<p>The "
-"suffix defaults to <strong>~</strong> and prefix is empty by default"
+"'&lt;prefix&gt;&lt;filename&gt;&lt;suffix&gt;' before saving changes."
+"<p>The suffix defaults to <strong>~</strong> and prefix is empty by default"
 msgstr ""
 
 #: part/katedialogs.cpp:916
 msgid ""
-"Check this if you want the editor to autodetect the end of line type.The "
-"first found end of line type will be used for the whole file."
+"Check this if you want the editor to autodetect the end of line type.The first "
+"found end of line type will be used for the whole file."
 msgstr ""
 
 #: part/katedialogs.cpp:919
@@ -1758,17 +1813,18 @@ msgstr ""
 
 #: part/katedialogs.cpp:930
 msgid ""
-"The editor will load given number of blocks (of around 2048 lines) of text "
-"into memory; if the filesize is bigger than this the other blocks are "
-"swapped  to disk and loaded transparently as-needed.<br> This can cause "
-"little delays while navigating in the document; a larger block count "
-"increases the editing speed at the cost of memory. <br>For normal usage, "
-"just choose the highest possible block count: limit it only if you have "
-"problems with the memory usage."
+"The editor will load given number of blocks (of around 2048 lines) of text into "
+"memory; if the filesize is bigger than this the other blocks are swapped  to "
+"disk and loaded transparently as-needed."
+"<br> This can cause little delays while navigating in the document; a larger "
+"block count increases the editing speed at the cost of memory. "
+"<br>For normal usage, just choose the highest possible block count: limit it "
+"only if you have problems with the memory usage."
 msgstr ""
 
 #: part/katedialogs.cpp:969
-msgid "You did not provide a backup suffix or prefix. Using default suffix: '~'"
+msgid ""
+"You did not provide a backup suffix or prefix. Using default suffix: '~'"
 msgstr ""
 
 #: part/katedialogs.cpp:970
@@ -1806,8 +1862,8 @@ msgstr "Ero&flueden..."
 
 #: part/katedialogs.cpp:1323
 msgid ""
-"Choose a <em>Syntax Highlight mode</em> from this list to view its "
-"properties below."
+"Choose a <em>Syntax Highlight mode</em> from this list to view its properties "
+"below."
 msgstr ""
 
 #: part/katedialogs.cpp:1326
@@ -1819,29 +1875,30 @@ msgstr ""
 #: part/katedialogs.cpp:1329
 msgid ""
 "The list of Mime Types used to determine which files to highlight using the "
-"current highlight mode.<p>Click the wizard button on the left of the entry "
-"field to display the MimeType selection dialog."
+"current highlight mode."
+"<p>Click the wizard button on the left of the entry field to display the "
+"MimeType selection dialog."
 msgstr ""
 
 #: part/katedialogs.cpp:1333
 msgid ""
-"Display a dialog with a list of all available mime types to choose "
-"from.<p>The <strong>File Extensions</strong> entry will automatically be "
-"edited as well."
+"Display a dialog with a list of all available mime types to choose from."
+"<p>The <strong>File Extensions</strong> entry will automatically be edited as "
+"well."
 msgstr ""
 
 #: part/katedialogs.cpp:1337
 msgid ""
-"Click this button to download new or updated syntax highlight descriptions "
-"from the Kate website."
+"Click this button to download new or updated syntax highlight descriptions from "
+"the Kate website."
 msgstr ""
 
 #: part/katedialogs.cpp:1415
 msgid ""
 "Select the MimeTypes you want highlighted using the '%1' syntax highlight "
 "rules.\n"
-"Please note that this will automatically edit the associated file extensions "
-"as well."
+"Please note that this will automatically edit the associated file extensions as "
+"well."
 msgstr ""
 
 #: part/katedialogs.cpp:1430
@@ -1893,7 +1950,8 @@ msgid "File Changed on Disk"
 msgstr "Datei gouf um Dateisystem geännert"
 
 #: part/katedialogs.cpp:1585
-msgid "Reload the file from disk. If you have unsaved changes, they will be lost."
+msgid ""
+"Reload the file from disk. If you have unsaved changes, they will be lost."
 msgstr ""
 
 #: part/katedialogs.cpp:1590
@@ -1916,8 +1974,8 @@ msgstr "Differenzen u&weisen"
 
 #: part/katedialogs.cpp:1617
 msgid ""
-"Calculates the difference between the editor contents and the disk file "
-"using diff(1) and opens the diff file with the default application for that."
+"Calculates the difference between the editor contents and the disk file using "
+"diff(1) and opens the diff file with the default application for that."
 msgstr ""
 
 #: part/katedialogs.cpp:1621
@@ -1928,24 +1986,24 @@ msgstr "Iwwerschreiwen"
 msgid "Overwrite the disk file with the editor content."
 msgstr ""
 
-#: part/katedialogs.cpp:1673
+#: part/katedialogs.cpp:1690
 msgid ""
-"The diff command failed. Please make sure that diff(1) is installed and in "
-"your PATH."
-msgstr ""
-
-#: part/katedialogs.cpp:1675
-msgid "Error Creating Diff"
-msgstr "Feeler beim Erstelle vum Diff"
-
-#: part/katedialogs.cpp:1688
-msgid ""
-"Ignoring means that you will not be warned again (unless the disk file "
-"changes once more): if you save the document, you will overwrite the file on "
-"disk; if you do not save then the disk file (if present) is what you have."
+"The diff command failed. Please make sure that diff(1) is installed and in your "
+"PATH."
 msgstr ""
 
 #: part/katedialogs.cpp:1692
+msgid "Error Creating Diff"
+msgstr "Feeler beim Erstelle vum Diff"
+
+#: part/katedialogs.cpp:1705
+msgid ""
+"Ignoring means that you will not be warned again (unless the disk file changes "
+"once more): if you save the document, you will overwrite the file on disk; if "
+"you do not save then the disk file (if present) is what you have."
+msgstr ""
+
+#: part/katedialogs.cpp:1709
 msgid "You Are on Your Own"
 msgstr "Dir sidd op iech alleng gestallt"
 
@@ -1966,33 +2024,33 @@ msgstr "Kommando gouf net fonnt"
 msgid "JavaScript file not found"
 msgstr "JavaScript-Datei gouff net fonnt"
 
-#: part/katespell.cpp:56
+#: part/katespell.cpp:57
 msgid "Spelling (from cursor)..."
 msgstr ""
 
-#: part/katespell.cpp:57
+#: part/katespell.cpp:58
 msgid "Check the document's spelling from the cursor and forward"
 msgstr ""
 
-#: part/katespell.cpp:59
+#: part/katespell.cpp:60
 msgid "Spellcheck Selection..."
 msgstr ""
 
-#: part/katespell.cpp:60
+#: part/katespell.cpp:61
 msgid "Check spelling of the selected text"
 msgstr ""
 
-#: part/katespell.cpp:108
+#: part/katespell.cpp:122
 msgid "Spellcheck"
 msgstr "Rechtschreifkontroll"
 
-#: part/katespell.cpp:188
+#: part/katespell.cpp:202
 msgid ""
 "The spelling program could not be started. Please make sure you have set the "
 "correct spelling program and that it is properly configured and in your PATH."
 msgstr ""
 
-#: part/katespell.cpp:193
+#: part/katespell.cpp:207
 msgid "The spelling program seems to have crashed."
 msgstr ""
 
@@ -2005,7 +2063,8 @@ msgid "Paste previously copied or cut clipboard contents"
 msgstr ""
 
 #: part/kateview.cpp:219
-msgid "Use this command to copy the currently selected text to the system clipboard."
+msgid ""
+"Use this command to copy the currently selected text to the system clipboard."
 msgstr ""
 
 #: part/kateview.cpp:221
@@ -2037,8 +2096,10 @@ msgstr ""
 #: part/kateview.cpp:236
 msgid ""
 "Use this command to wrap all lines of the current document which are longer "
-"than the width of the current view, to fit into this view.<br><br> This is a "
-"static word wrap, meaning it is not updated when the view is resized."
+"than the width of the current view, to fit into this view."
+"<br>"
+"<br> This is a static word wrap, meaning it is not updated when the view is "
+"resized."
 msgstr ""
 
 #: part/kateview.cpp:241
@@ -2047,9 +2108,10 @@ msgstr "A&récken"
 
 #: part/kateview.cpp:242
 msgid ""
-"Use this to indent a selected block of text.<br><br>You can configure "
-"whether tabs should be honored and used or replaced with spaces, in the "
-"configuration dialog."
+"Use this to indent a selected block of text."
+"<br>"
+"<br>You can configure whether tabs should be honored and used or replaced with "
+"spaces, in the configuration dialog."
 msgstr ""
 
 #: part/kateview.cpp:244
@@ -2066,9 +2128,11 @@ msgstr "&Propert Arécken"
 
 #: part/kateview.cpp:248
 msgid ""
-"Use this to clean the indentation of a selected block of text (only "
-"tabs/only spaces)<br><br>You can configure whether tabs should be honored "
-"and used or replaced with spaces, in the configuration dialog."
+"Use this to clean the indentation of a selected block of text (only tabs/only "
+"spaces)"
+"<br>"
+"<br>You can configure whether tabs should be honored and used or replaced with "
+"spaces, in the configuration dialog."
 msgstr ""
 
 #: part/kateview.cpp:251
@@ -2077,8 +2141,7 @@ msgstr "&Alignéieren"
 
 #: part/kateview.cpp:252
 msgid ""
-"Use this to align the current line or block of text to its proper indent "
-"level."
+"Use this to align the current line or block of text to its proper indent level."
 msgstr ""
 
 #: part/kateview.cpp:254
@@ -2087,9 +2150,9 @@ msgstr "Ausk&ommentéieren"
 
 #: part/kateview.cpp:256
 msgid ""
-"This command comments out the current line or a selected block of "
-"text.<BR><BR>The characters for single/multiple line comments are defined "
-"within the language's highlighting."
+"This command comments out the current line or a selected block of text.<BR><BR>"
+"The characters for single/multiple line comments are defined within the "
+"language's highlighting."
 msgstr ""
 
 #: part/kateview.cpp:259
@@ -2117,8 +2180,8 @@ msgstr "Grouss geschriwen"
 
 #: part/kateview.cpp:271
 msgid ""
-"Convert the selection to uppercase, or the character to the right of the "
-"cursor if no text is selected."
+"Convert the selection to uppercase, or the character to the right of the cursor "
+"if no text is selected."
 msgstr ""
 
 #: part/kateview.cpp:274
@@ -2127,8 +2190,8 @@ msgstr "Kleng geschriwen"
 
 #: part/kateview.cpp:276
 msgid ""
-"Convert the selection to lowercase, or the character to the right of the "
-"cursor if no text is selected."
+"Convert the selection to lowercase, or the character to the right of the cursor "
+"if no text is selected."
 msgstr ""
 
 #: part/kateview.cpp:279
@@ -2137,8 +2200,7 @@ msgstr ""
 
 #: part/kateview.cpp:281
 msgid ""
-"Capitalize the selection, or the word under the cursor if no text is "
-"selected."
+"Capitalize the selection, or the word under the cursor if no text is selected."
 msgstr ""
 
 #: part/kateview.cpp:284
@@ -2163,8 +2225,8 @@ msgstr ""
 
 #: part/kateview.cpp:305
 msgid ""
-"This command opens a dialog and lets you choose a line that you want the "
-"cursor to move to."
+"This command opens a dialog and lets you choose a line that you want the cursor "
+"to move to."
 msgstr ""
 
 #: part/kateview.cpp:307
@@ -2211,8 +2273,8 @@ msgstr ""
 
 #: part/kateview.cpp:332
 msgid ""
-"If you have selected something within the current document, this will no "
-"longer be selected."
+"If you have selected something within the current document, this will no longer "
+"be selected."
 msgstr ""
 
 #: part/kateview.cpp:334
@@ -2291,8 +2353,8 @@ msgstr ""
 
 #: part/kateview.cpp:381
 msgid ""
-"Show/hide the icon border.<BR><BR> The icon border shows bookmark symbols, "
-"for instance."
+"Show/hide the icon border.<BR><BR> The icon border shows bookmark symbols, for "
+"instance."
 msgstr ""
 
 #: part/kateview.cpp:382
@@ -2317,8 +2379,8 @@ msgstr ""
 
 #: part/kateview.cpp:395
 msgid ""
-"Show/hide the marks on the vertical scrollbar.<BR><BR>The marks, for "
-"instance, show bookmarks."
+"Show/hide the marks on the vertical scrollbar.<BR><BR>"
+"The marks, for instance, show bookmarks."
 msgstr ""
 
 #: part/kateview.cpp:396
@@ -2331,8 +2393,8 @@ msgstr ""
 
 #: part/kateview.cpp:403
 msgid ""
-"Show/hide the Word Wrap Marker, a vertical line drawn at the word wrap "
-"column as defined in the editing properties"
+"Show/hide the Word Wrap Marker, a vertical line drawn at the word wrap column "
+"as defined in the editing properties"
 msgstr ""
 
 #: part/kateview.cpp:405
@@ -2511,65 +2573,65 @@ msgstr ""
 msgid "Backspace"
 msgstr ""
 
-#: part/kateview.cpp:622
+#: part/kateview.cpp:625
 msgid "Collapse Toplevel"
 msgstr ""
 
-#: part/kateview.cpp:624
+#: part/kateview.cpp:627
 msgid "Expand Toplevel"
 msgstr ""
 
-#: part/kateview.cpp:626
+#: part/kateview.cpp:629
 msgid "Collapse One Local Level"
 msgstr ""
 
-#: part/kateview.cpp:628
+#: part/kateview.cpp:631
 msgid "Expand One Local Level"
 msgstr ""
 
-#: part/kateview.cpp:633
+#: part/kateview.cpp:636
 msgid "Show the code folding region tree"
 msgstr ""
 
-#: part/kateview.cpp:634
+#: part/kateview.cpp:637
 msgid "Basic template code test"
 msgstr ""
 
-#: part/kateview.cpp:696
+#: part/kateview.cpp:699
 msgid " OVR "
 msgstr "IWW"
 
-#: part/kateview.cpp:698
+#: part/kateview.cpp:701
 msgid " INS "
 msgstr "AFÜG"
 
-#: part/kateview.cpp:701
+#: part/kateview.cpp:704
 msgid " R/O "
 msgstr ""
 
-#: part/kateview.cpp:706
+#: part/kateview.cpp:709
 #, c-format
 msgid " Line: %1"
 msgstr "Zeil: %1"
 
-#: part/kateview.cpp:707
+#: part/kateview.cpp:710
 #, c-format
 msgid " Col: %1"
 msgstr "Kol: %1"
 
-#: part/kateview.cpp:710
+#: part/kateview.cpp:713
 msgid " BLK "
 msgstr ""
 
-#: part/kateview.cpp:710
+#: part/kateview.cpp:713
 msgid " NORM "
 msgstr " NORM "
 
-#: part/kateview.cpp:896
+#: part/kateview.cpp:889
 msgid "Overwrite the file"
 msgstr "D'Datei iwwerschreiwen"
 
-#: part/kateview.cpp:1781
+#: part/kateview.cpp:1774
 msgid "Export File as HTML"
 msgstr "Datei als HTML exportéieren"
 
@@ -2579,8 +2641,7 @@ msgstr "Normalen Text"
 
 #: part/katehighlight.cpp:1966
 msgid ""
-"<B>%1</B>: Deprecated syntax. Attribute (%2) not addressed by symbolic "
-"name<BR>"
+"<B>%1</B>: Deprecated syntax. Attribute (%2) not addressed by symbolic name<BR>"
 msgstr ""
 
 #: part/katehighlight.cpp:2331
@@ -2588,7 +2649,8 @@ msgid "<B>%1</B>: Deprecated syntax. Context %2 has no symbolic name<BR>"
 msgstr ""
 
 #: part/katehighlight.cpp:2375
-msgid "<B>%1</B>:Deprecated syntax. Context %2 not addressed by a symbolic name"
+msgid ""
+"<B>%1</B>:Deprecated syntax. Context %2 not addressed by a symbolic name"
 msgstr ""
 
 #: part/katehighlight.cpp:2482
@@ -2608,7 +2670,8 @@ msgid ""
 msgstr ""
 
 #: part/katehighlight.cpp:2832
-msgid "<B>%1</B>: Specified multiline comment region (%2) could not be resolved<BR>"
+msgid ""
+"<B>%1</B>: Specified multiline comment region (%2) could not be resolved<BR>"
 msgstr ""
 
 #: part/katehighlight.cpp:3143
@@ -2742,7 +2805,7 @@ msgstr "ABC"
 #. i18n: file data/abc.xml line 5
 #: rc.cpp:46 rc.cpp:58 rc.cpp:106 rc.cpp:118 rc.cpp:146 rc.cpp:154 rc.cpp:158
 #: rc.cpp:166 rc.cpp:182 rc.cpp:286 rc.cpp:306 rc.cpp:314 rc.cpp:338
-#: rc.cpp:382 rc.cpp:410 rc.cpp:414
+#: rc.cpp:382 rc.cpp:414 rc.cpp:418
 msgid ""
 "_: Language Section\n"
 "Other"
@@ -2760,8 +2823,8 @@ msgstr "Ada"
 #: rc.cpp:134 rc.cpp:138 rc.cpp:150 rc.cpp:174 rc.cpp:178 rc.cpp:202
 #: rc.cpp:218 rc.cpp:226 rc.cpp:238 rc.cpp:242 rc.cpp:246 rc.cpp:254
 #: rc.cpp:270 rc.cpp:282 rc.cpp:290 rc.cpp:294 rc.cpp:298 rc.cpp:334
-#: rc.cpp:346 rc.cpp:350 rc.cpp:358 rc.cpp:390 rc.cpp:394 rc.cpp:418
-#: rc.cpp:426 rc.cpp:446 rc.cpp:466 rc.cpp:506 rc.cpp:522 rc.cpp:526
+#: rc.cpp:346 rc.cpp:350 rc.cpp:358 rc.cpp:390 rc.cpp:394 rc.cpp:422
+#: rc.cpp:430 rc.cpp:450 rc.cpp:470 rc.cpp:510 rc.cpp:526 rc.cpp:530
 msgid ""
 "_: Language Section\n"
 "Sources"
@@ -2775,7 +2838,7 @@ msgid ""
 msgstr "AHDL"
 
 #. i18n: file data/ahdl.xml line 3
-#: rc.cpp:54 rc.cpp:450 rc.cpp:490 rc.cpp:494
+#: rc.cpp:54 rc.cpp:454 rc.cpp:494 rc.cpp:498
 msgid ""
 "_: Language Section\n"
 "Hardware"
@@ -2795,15 +2858,15 @@ msgid ""
 "ANSI C89"
 msgstr "ANSI C89"
 
-#. i18n: file data/apache.xml line 3
+#. i18n: file data/apache.xml line 15
 #: rc.cpp:64
 msgid ""
 "_: Language\n"
 "Apache Configuration"
 msgstr "Apache-Configuratioun"
 
-#. i18n: file data/apache.xml line 3
-#: rc.cpp:66 rc.cpp:110 rc.cpp:162 rc.cpp:206 rc.cpp:250 rc.cpp:502
+#. i18n: file data/apache.xml line 15
+#: rc.cpp:66 rc.cpp:110 rc.cpp:162 rc.cpp:206 rc.cpp:250 rc.cpp:506
 msgid ""
 "_: Language Section\n"
 "Configuration"
@@ -2840,7 +2903,8 @@ msgstr "ASP"
 #. i18n: file data/asp.xml line 3
 #: rc.cpp:78 rc.cpp:90 rc.cpp:122 rc.cpp:142 rc.cpp:170 rc.cpp:214 rc.cpp:230
 #: rc.cpp:258 rc.cpp:266 rc.cpp:274 rc.cpp:310 rc.cpp:326 rc.cpp:378
-#: rc.cpp:438 rc.cpp:478 rc.cpp:498 rc.cpp:510 rc.cpp:514 rc.cpp:518
+#: rc.cpp:410 rc.cpp:442 rc.cpp:482 rc.cpp:502 rc.cpp:514 rc.cpp:518
+#: rc.cpp:522
 msgid ""
 "_: Language Section\n"
 "Markup"
@@ -2856,8 +2920,8 @@ msgstr "AWK"
 #. i18n: file data/awk.xml line 3
 #: rc.cpp:82 rc.cpp:86 rc.cpp:126 rc.cpp:186 rc.cpp:190 rc.cpp:234 rc.cpp:262
 #: rc.cpp:302 rc.cpp:318 rc.cpp:362 rc.cpp:366 rc.cpp:374 rc.cpp:398
-#: rc.cpp:402 rc.cpp:406 rc.cpp:422 rc.cpp:430 rc.cpp:442 rc.cpp:470
-#: rc.cpp:482 rc.cpp:486
+#: rc.cpp:402 rc.cpp:406 rc.cpp:426 rc.cpp:434 rc.cpp:446 rc.cpp:474
+#: rc.cpp:486 rc.cpp:490
 msgid ""
 "_: Language Section\n"
 "Scripts"
@@ -3060,8 +3124,8 @@ msgid ""
 msgstr "4GL"
 
 #. i18n: file data/fgl-4gl.xml line 3
-#: rc.cpp:194 rc.cpp:198 rc.cpp:278 rc.cpp:386 rc.cpp:454 rc.cpp:458
-#: rc.cpp:462
+#: rc.cpp:194 rc.cpp:198 rc.cpp:278 rc.cpp:386 rc.cpp:458 rc.cpp:462
+#: rc.cpp:466
 msgid ""
 "_: Language Section\n"
 "Database"
@@ -3096,7 +3160,7 @@ msgid ""
 msgstr "GDL"
 
 #. i18n: file data/gdl.xml line 3
-#: rc.cpp:210 rc.cpp:322 rc.cpp:354 rc.cpp:434 rc.cpp:474
+#: rc.cpp:210 rc.cpp:322 rc.cpp:354 rc.cpp:438 rc.cpp:478
 msgid ""
 "_: Language Section\n"
 "Scientific"
@@ -3151,7 +3215,7 @@ msgid ""
 "IDL"
 msgstr "IDL"
 
-#. i18n: file data/ilerpg.xml line 2
+#. i18n: file data/ilerpg.xml line 48
 #: rc.cpp:240
 msgid ""
 "_: Language\n"
@@ -3326,7 +3390,7 @@ msgid ""
 "Music Publisher"
 msgstr "Music Publisher"
 
-#. i18n: file data/nasm.xml line 26
+#. i18n: file data/nasm.xml line 31
 #: rc.cpp:340
 msgid ""
 "_: Language\n"
@@ -3368,7 +3432,7 @@ msgid ""
 "Perl"
 msgstr "Perl"
 
-#. i18n: file data/php.xml line 3
+#. i18n: file data/php.xml line 9
 #: rc.cpp:364
 msgid ""
 "_: Language\n"
@@ -3431,7 +3495,7 @@ msgid ""
 "Python"
 msgstr "Python"
 
-#. i18n: file data/r.xml line 9
+#. i18n: file data/r.xml line 11
 #: rc.cpp:400
 msgid ""
 "_: Language\n"
@@ -3445,211 +3509,219 @@ msgid ""
 "REXX"
 msgstr "REXX"
 
-#. i18n: file data/rib.xml line 8
+#. i18n: file data/rhtml.xml line 47
 #: rc.cpp:408
+#, fuzzy
+msgid ""
+"_: Language\n"
+"Ruby/Rails/RHTML"
+msgstr "HTML"
+
+#. i18n: file data/rib.xml line 8
+#: rc.cpp:412
 msgid ""
 "_: Language\n"
 "RenderMan RIB"
 msgstr "RenderMan RIB"
 
 #. i18n: file data/rpmspec.xml line 3
-#: rc.cpp:412
+#: rc.cpp:416
 msgid ""
 "_: Language\n"
 "RPM Spec"
 msgstr "RPM-Spec"
 
 #. i18n: file data/rsiidl.xml line 3
-#: rc.cpp:416
+#: rc.cpp:420
 msgid ""
 "_: Language\n"
 "RSI IDL"
 msgstr "RSI IDL"
 
 #. i18n: file data/ruby.xml line 37
-#: rc.cpp:420
+#: rc.cpp:424
 msgid ""
 "_: Language\n"
 "Ruby"
 msgstr "Ruby"
 
 #. i18n: file data/sather.xml line 3
-#: rc.cpp:424
+#: rc.cpp:428
 msgid ""
 "_: Language\n"
 "Sather"
 msgstr "Sather"
 
 #. i18n: file data/scheme.xml line 43
-#: rc.cpp:428
+#: rc.cpp:432
 msgid ""
 "_: Language\n"
 "Scheme"
 msgstr "Scheme"
 
 #. i18n: file data/sci.xml line 3
-#: rc.cpp:432
+#: rc.cpp:436
 msgid ""
 "_: Language\n"
 "scilab"
 msgstr "scilab"
 
 #. i18n: file data/sgml.xml line 3
-#: rc.cpp:436
+#: rc.cpp:440
 msgid ""
 "_: Language\n"
 "SGML"
 msgstr "SGML"
 
 #. i18n: file data/sieve.xml line 4
-#: rc.cpp:440
+#: rc.cpp:444
 msgid ""
 "_: Language\n"
 "Sieve"
 msgstr "Sieve"
 
 #. i18n: file data/sml.xml line 3
-#: rc.cpp:444
+#: rc.cpp:448
 msgid ""
 "_: Language\n"
 "SML"
 msgstr "SML"
 
 #. i18n: file data/spice.xml line 4
-#: rc.cpp:448
+#: rc.cpp:452
 msgid ""
 "_: Language\n"
 "Spice"
 msgstr "Spice"
 
 #. i18n: file data/sql-mysql.xml line 4
-#: rc.cpp:452
+#: rc.cpp:456
 msgid ""
 "_: Language\n"
 "SQL (MySQL)"
 msgstr "SQL (MySQL)"
 
 #. i18n: file data/sql-postgresql.xml line 4
-#: rc.cpp:456
+#: rc.cpp:460
 msgid ""
 "_: Language\n"
 "SQL (PostgreSQL)"
 msgstr "SQL (PostgreSQL)"
 
 #. i18n: file data/sql.xml line 6
-#: rc.cpp:460
+#: rc.cpp:464
 msgid ""
 "_: Language\n"
 "SQL"
 msgstr "SQL"
 
 #. i18n: file data/stata.xml line 3
-#: rc.cpp:464
+#: rc.cpp:468
 msgid ""
 "_: Language\n"
 "Stata"
 msgstr "Stata"
 
 #. i18n: file data/tcl.xml line 8
-#: rc.cpp:468
+#: rc.cpp:472
 msgid ""
 "_: Language\n"
 "Tcl/Tk"
 msgstr "Tcl/Tk"
 
 #. i18n: file data/tibasic.xml line 3
-#: rc.cpp:472
+#: rc.cpp:476
 msgid ""
 "_: Language\n"
 "TI Basic"
 msgstr "TI Basic"
 
 #. i18n: file data/txt2tags.xml line 5
-#: rc.cpp:476
+#: rc.cpp:480
 msgid ""
 "_: Language\n"
 "txt2tags"
 msgstr "txt2tags"
 
 #. i18n: file data/uscript.xml line 3
-#: rc.cpp:480
+#: rc.cpp:484
 msgid ""
 "_: Language\n"
 "UnrealScript"
 msgstr "UnrealScript"
 
 #. i18n: file data/velocity.xml line 3
-#: rc.cpp:484
+#: rc.cpp:488
 msgid ""
 "_: Language\n"
 "Velocity"
 msgstr "Velocity"
 
 #. i18n: file data/verilog.xml line 3
-#: rc.cpp:488
+#: rc.cpp:492
 msgid ""
 "_: Language\n"
 "Verilog"
 msgstr "Verilog"
 
 #. i18n: file data/vhdl.xml line 3
-#: rc.cpp:492
+#: rc.cpp:496
 msgid ""
 "_: Language\n"
 "VHDL"
 msgstr "VHDL"
 
 #. i18n: file data/vrml.xml line 3
-#: rc.cpp:496
+#: rc.cpp:500
 msgid ""
 "_: Language\n"
 "VRML"
 msgstr "VRML"
 
 #. i18n: file data/winehq.xml line 3
-#: rc.cpp:500
+#: rc.cpp:504
 msgid ""
 "_: Language\n"
 "WINE Config"
 msgstr "WINE-Config"
 
 #. i18n: file data/xharbour.xml line 3
-#: rc.cpp:504
+#: rc.cpp:508
 msgid ""
 "_: Language\n"
 "xHarbour"
 msgstr "xHarbour"
 
 #. i18n: file data/xml.xml line 7
-#: rc.cpp:508
+#: rc.cpp:512
 msgid ""
 "_: Language\n"
 "XML"
 msgstr "XML"
 
 #. i18n: file data/xmldebug.xml line 3
-#: rc.cpp:512
+#: rc.cpp:516
 msgid ""
 "_: Language\n"
 "XML (Debug)"
 msgstr "XML (Debug)"
 
 #. i18n: file data/xslt.xml line 53
-#: rc.cpp:516
+#: rc.cpp:520
 msgid ""
 "_: Language\n"
 "xslt"
 msgstr "xslt"
 
 #. i18n: file data/yacas.xml line 3
-#: rc.cpp:520
+#: rc.cpp:524
 msgid ""
 "_: Language\n"
 "yacas"
 msgstr "yacas"
 
 #. i18n: file data/yacc.xml line 23
-#: rc.cpp:524
+#: rc.cpp:528
 msgid ""
 "_: Language\n"
 "Yacc/Bison"
@@ -3683,36 +3755,37 @@ msgstr ""
 msgid "Automatic Completion Popup"
 msgstr ""
 
-#: plugins/wordcompletion/docwordcompletion.cpp:473
+#: plugins/wordcompletion/docwordcompletion.cpp:467
 msgid "Automatically &show completion list"
+msgstr ""
+
+#: plugins/wordcompletion/docwordcompletion.cpp:480
+msgid ""
+"_: Translators: This is the first part of two strings wich will comprise the "
+"sentence 'Show completions when a word is at least N characters'. The first "
+"part is on the right side of the N, which is represented by a spinbox widget, "
+"followed by the second part: 'characters long'. Characters is a ingeger number "
+"between and including 1 and 30. Feel free to leave the second part of the "
+"sentence blank if it suits your language better. \n"
+"Show completions &when a word is at least"
 msgstr ""
 
 #: plugins/wordcompletion/docwordcompletion.cpp:486
 msgid ""
-"_: Translators: This is the first part of two strings wich will comprise the "
-"sentence 'Show completions when a word is at least N characters'. The first "
-"part is on the right side of the N, which is represented by a spinbox "
-"widget, followed by the second part: 'characters long'. Characters is a "
-"ingeger number between and including 1 and 30. Feel free to leave the second "
-"part of the sentence blank if it suits your language better. \n"
-"Show completions &when a word is at least"
-msgstr ""
-
-#: plugins/wordcompletion/docwordcompletion.cpp:492
-msgid ""
-"_: This is the second part of two strings that will comprise teh sentence "
-"'Show completions when a word is at least N characters'\n"
+"_: This is the second part of two strings that will comprise teh sentence 'Show "
+"completions when a word is at least N characters'\n"
 "characters long."
 msgstr ""
 
-#: plugins/wordcompletion/docwordcompletion.cpp:495
+#: plugins/wordcompletion/docwordcompletion.cpp:489
 msgid ""
 "Enable the automatic completion list popup as default. The popup can be "
 "disabled on a view basis from the 'Tools' menu."
 msgstr ""
 
-#: plugins/wordcompletion/docwordcompletion.cpp:498
-msgid "Define the length a word should have before the completion list is displayed."
+#: plugins/wordcompletion/docwordcompletion.cpp:492
+msgid ""
+"Define the length a word should have before the completion list is displayed."
 msgstr ""
 
 #: plugins/insertfile/insertfileplugin.cpp:79
@@ -3736,7 +3809,8 @@ msgid "Insert File Error"
 msgstr "Feeler beim Afüge vun der Datei"
 
 #: plugins/insertfile/insertfileplugin.cpp:130
-msgid "<p>The file <strong>%1</strong> does not exist or is not readable, aborting."
+msgid ""
+"<p>The file <strong>%1</strong> does not exist or is not readable, aborting."
 msgstr ""
 
 #: plugins/insertfile/insertfileplugin.cpp:134
@@ -3759,9 +3833,9 @@ msgstr ""
 #: plugins/kdatatool/kate_kdatatool.cpp:183
 msgid ""
 "Data tools are only available when text is selected, or when the right mouse "
-"button is clicked over a word. If no data tools are offered even when text "
-"is selected, you need to install them. Some data tools are part of the "
-"KOffice package."
+"button is clicked over a word. If no data tools are offered even when text is "
+"selected, you need to install them. Some data tools are part of the KOffice "
+"package."
 msgstr ""
 
 #: plugins/isearch/ISearchPlugin.cpp:68 plugins/isearch/ISearchPlugin.cpp:371
@@ -3838,8 +3912,8 @@ msgstr ""
 
 #: plugins/isearch/ISearchPlugin.cpp:269
 msgid ""
-"_: Incremental Search has passed both the end of the document and the "
-"original starting position\n"
+"_: Incremental Search has passed both the end of the document and the original "
+"starting position\n"
 "Overwrapped I-Search:"
 msgstr ""
 
@@ -3893,8 +3967,7 @@ msgstr "Op Grou&ss-/Klengschreiwung oppassen "
 
 #: plugins/autobookmarker/autobookmarker.cpp:302
 msgid ""
-"<p>If enabled, the pattern matching will be case sensitive, otherwise "
-"not.</p>"
+"<p>If enabled, the pattern matching will be case sensitive, otherwise not.</p>"
 msgstr ""
 
 #: plugins/autobookmarker/autobookmarker.cpp:305
@@ -3904,8 +3977,8 @@ msgstr ""
 #: plugins/autobookmarker/autobookmarker.cpp:309
 msgid ""
 "<p>If enabled, the pattern matching will use minimal matching; if you do not "
-"know what that is, please read the appendix on regular expressions in the "
-"kate manual.</p>"
+"know what that is, please read the appendix on regular expressions in the kate "
+"manual.</p>"
 msgstr ""
 
 #: plugins/autobookmarker/autobookmarker.cpp:313
@@ -3914,32 +3987,32 @@ msgstr "Da&teimask:"
 
 #: plugins/autobookmarker/autobookmarker.cpp:319
 msgid ""
-"<p>A list of filename masks, separated by semicolons. This can be used to "
-"limit the usage of this entity to files with matching names.</p><p>Use the "
-"wizard button to the right of the mimetype entry below to easily fill out "
-"both lists.</p>"
+"<p>A list of filename masks, separated by semicolons. This can be used to limit "
+"the usage of this entity to files with matching names.</p>"
+"<p>Use the wizard button to the right of the mimetype entry below to easily "
+"fill out both lists.</p>"
 msgstr ""
 
 #: plugins/autobookmarker/autobookmarker.cpp:330
 msgid ""
-"<p>A list of mime types, separated by semicolon. This can be used to limit "
-"the usage of this entity to files with matching mime types.</p><p>Use the "
-"wizard button on the right to get a list of existing file types to choose "
-"from, using it will fill in the file masks as well.</p>"
+"<p>A list of mime types, separated by semicolon. This can be used to limit the "
+"usage of this entity to files with matching mime types.</p>"
+"<p>Use the wizard button on the right to get a list of existing file types to "
+"choose from, using it will fill in the file masks as well.</p>"
 msgstr ""
 
 #: plugins/autobookmarker/autobookmarker.cpp:340
 msgid ""
-"<p>Click this button to display a checkable list of mimetypes available on "
-"your system. When used, the file masks entry above will be filled in with "
-"the corresponding masks.</p>"
+"<p>Click this button to display a checkable list of mimetypes available on your "
+"system. When used, the file masks entry above will be filled in with the "
+"corresponding masks.</p>"
 msgstr ""
 
 #: plugins/autobookmarker/autobookmarker.cpp:365
 msgid ""
 "Select the MimeTypes for this pattern.\n"
-"Please note that this will automatically edit the associated file extensions "
-"as well."
+"Please note that this will automatically edit the associated file extensions as "
+"well."
 msgstr ""
 
 #: plugins/autobookmarker/autobookmarker.cpp:385
@@ -3961,11 +4034,13 @@ msgstr "Dateimasken"
 #: plugins/autobookmarker/autobookmarker.cpp:394
 msgid ""
 "<p>This list shows your configured autobookmark entities. When a document is "
-"opened, each entity is used in the following way: <ol><li>The entity is "
-"dismissed, if a mime and/or filename mask is defined, and neither matches "
-"the document.</li><li>Otherwise each line of the document is tried against "
-"the pattern, and a bookmark is set on matching lines.</li></ul><p>Use the "
-"buttons below to manage your collection of entities.</p>"
+"opened, each entity is used in the following way: "
+"<ol>"
+"<li>The entity is dismissed, if a mime and/or filename mask is defined, and "
+"neither matches the document.</li>"
+"<li>Otherwise each line of the document is tried against the pattern, and a "
+"bookmark is set on matching lines.</li></ul>"
+"<p>Use the buttons below to manage your collection of entities.</p>"
 msgstr ""
 
 #: plugins/autobookmarker/autobookmarker.cpp:409
@@ -3983,4 +4058,3 @@ msgstr "Veränn&eren..."
 #: plugins/autobookmarker/autobookmarker.cpp:419
 msgid "Press this button to edit the currently selected entity."
 msgstr ""
-

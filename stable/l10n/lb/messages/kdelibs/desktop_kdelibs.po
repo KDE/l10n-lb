@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-04-28 02:09+0000\n"
+"POT-Creation-Date: 2006-05-02 02:09+0000\n"
 "PO-Revision-Date: 2006-05-01 21:26+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -51,10 +51,12 @@ msgstr "Name=Ausféierer fir Bash-Kommandozeil-Skripter"
 
 #: interfaces/kscript/sample/shellscript.desktop:69
 msgid "Comment=Runs bash shell scripts from inside the application."
-msgstr "Comment=Féiert Skripter fir d'Bash-Kommandozeil aus dem Programm selwer aus."
+msgstr ""
+"Comment=Féiert Skripter fir d'Bash-Kommandozeil aus dem Programm selwer aus."
 
 #: interfaces/kscript/scriptinterface.desktop:5
-msgid "Comment=This is a generic test script engine for testing the script interface."
+msgid ""
+"Comment=This is a generic test script engine for testing the script interface."
 msgstr ""
 "Comment=Dësst ass eng allgemeng Test-Skript-Engine fir de Skript-Interface ze "
 "testen."
@@ -138,7 +140,8 @@ msgid "Name=KTextEditor Autobookmarker"
 msgstr "Name=Automateschen Lieszeechesetzer fir den KTextEditor "
 
 #: kate/plugins/autobookmarker/ktexteditor_autobookmarker.desktop:58
-msgid "Comment=Set bookmarks on lines matching a pattern when documents are loaded"
+msgid ""
+"Comment=Set bookmarks on lines matching a pattern when documents are loaded"
 msgstr ""
 "Comment=Setzt Lieszeechen op d'Zeilen, déi ee bestëmmtent Muster enthalen, wann "
 "d'Dokument geluede gëtt"
@@ -174,7 +177,8 @@ msgid "Name=KTextEditor Word Completion Plugin"
 msgstr "Name=KTextEditor-Wuert-Vervollstännegungs-Plugin"
 
 #: kate/plugins/wordcompletion/ktexteditor_docwordcompletion.desktop:60
-msgid "Comment=Directional or popup-based completion from words in the document"
+msgid ""
+"Comment=Directional or popup-based completion from words in the document"
 msgstr ""
 "Comment=Direktional oder Opklapp-Fënster-baséiert Vervollstännegung vu Wierder "
 "am Dokument"
@@ -679,223 +683,223 @@ msgstr "Name=Brazilianescht Portugisesch"
 msgid "Name=Quechua"
 msgstr "Name=Quechua-Sprooch"
 
-#: kdecore/all_languages.desktop:7430
+#: kdecore/all_languages.desktop:7429
 msgid "Name=Rundi"
 msgstr "Name=Rundi-Sprooch"
 
-#: kdecore/all_languages.desktop:7469
+#: kdecore/all_languages.desktop:7467
 msgid "Name=Romanian"
 msgstr "Name=Rumänesch"
 
-#: kdecore/all_languages.desktop:7547
+#: kdecore/all_languages.desktop:7545
 msgid "Name=Romany"
 msgstr "Name=Romani"
 
-#: kdecore/all_languages.desktop:7582
+#: kdecore/all_languages.desktop:7580
 msgid "Name=Russian"
 msgstr "Name=Russesch"
 
-#: kdecore/all_languages.desktop:7662
+#: kdecore/all_languages.desktop:7660
 msgid "Name=Kinyarwanda"
 msgstr "Name=Ruanda-Sprooch"
 
-#: kdecore/all_languages.desktop:7708
+#: kdecore/all_languages.desktop:7705
 msgid "Name=Sanskrit"
 msgstr "Name=Sanskrit"
 
-#: kdecore/all_languages.desktop:7759
+#: kdecore/all_languages.desktop:7756
 msgid "Name=Sardinian"
 msgstr "Name=Sardinesch"
 
-#: kdecore/all_languages.desktop:7827
+#: kdecore/all_languages.desktop:7824
 msgid "Name=Sindhi"
 msgstr "Name=Sindhi-Sprooch"
 
-#: kdecore/all_languages.desktop:7868
+#: kdecore/all_languages.desktop:7864
 msgid "Name=Northern Sami"
 msgstr "Name=Nördlecht Sami"
 
-#: kdecore/all_languages.desktop:7941
+#: kdecore/all_languages.desktop:7937
 msgid "Name=Sango"
 msgstr "Name=Sango-Sprooch"
 
-#: kdecore/all_languages.desktop:7979
+#: kdecore/all_languages.desktop:7974
 msgid "Name=Sinhalese"
 msgstr "Name=Singhalesesch"
 
-#: kdecore/all_languages.desktop:8045
+#: kdecore/all_languages.desktop:8040
 msgid "Name=Slovak"
 msgstr "Name=Slowakesch"
 
-#: kdecore/all_languages.desktop:8121
+#: kdecore/all_languages.desktop:8116
 msgid "Name=Slovenian"
 msgstr "Name=Slowenesch"
 
-#: kdecore/all_languages.desktop:8199
+#: kdecore/all_languages.desktop:8194
 msgid "Name=Samoan"
 msgstr "Name=Samoanesch"
 
-#: kdecore/all_languages.desktop:8267
+#: kdecore/all_languages.desktop:8262
 msgid "Name=Shona"
 msgstr "Name=Shona"
 
-#: kdecore/all_languages.desktop:8306
+#: kdecore/all_languages.desktop:8301
 msgid "Name=Somali"
 msgstr "Name=Somalesch"
 
-#: kdecore/all_languages.desktop:8366
+#: kdecore/all_languages.desktop:8361
 msgid "Name=Albanian"
 msgstr "Name=Albanesch"
 
-#: kdecore/all_languages.desktop:8440
+#: kdecore/all_languages.desktop:8435
 msgid "Name=Serbian"
 msgstr "Name=Serbesch"
 
-#: kdecore/all_languages.desktop:8517
+#: kdecore/all_languages.desktop:8512
 msgid "Name=Serbian Latin"
 msgstr "Name=Latäinescht Serbesch"
 
-#: kdecore/all_languages.desktop:8559
+#: kdecore/all_languages.desktop:8554
 msgid "Name=Swati"
 msgstr "Name=Swazi"
 
-#: kdecore/all_languages.desktop:8603
+#: kdecore/all_languages.desktop:8597
 msgid "Name=Sotho, Southern"
 msgstr "Name=Südlecht Sotho"
 
-#: kdecore/all_languages.desktop:8674
+#: kdecore/all_languages.desktop:8668
 msgid "Name=Sundanese"
 msgstr "Name=Sudanesesch"
 
-#: kdecore/all_languages.desktop:8742
+#: kdecore/all_languages.desktop:8736
 msgid "Name=Swedish"
 msgstr "Name=Schwedesch"
 
-#: kdecore/all_languages.desktop:8820
+#: kdecore/all_languages.desktop:8814
 msgid "Name=Swahili"
 msgstr "Name=Swahili"
 
-#: kdecore/all_languages.desktop:8869
+#: kdecore/all_languages.desktop:8863
 msgid "Name=Tamil"
 msgstr "Name=Tamil"
 
-#: kdecore/all_languages.desktop:8929
+#: kdecore/all_languages.desktop:8923
 msgid "Name=Telugu"
 msgstr "Name=Telugu"
 
-#: kdecore/all_languages.desktop:8972
+#: kdecore/all_languages.desktop:8966
 msgid "Name=Tajik"
 msgstr "Name=Tadschikesch"
 
-#: kdecore/all_languages.desktop:9038
+#: kdecore/all_languages.desktop:9032
 msgid "Name=Thai"
 msgstr "Name=Thai"
 
-#: kdecore/all_languages.desktop:9105
+#: kdecore/all_languages.desktop:9099
 msgid "Name=Tigrinya"
 msgstr "Name=Tigrinja-Sprooch"
 
-#: kdecore/all_languages.desktop:9155
+#: kdecore/all_languages.desktop:9149
 msgid "Name=Turkmen"
 msgstr "Name=Turkmenesch"
 
-#: kdecore/all_languages.desktop:9224
+#: kdecore/all_languages.desktop:9218
 msgid "Name=Tswana"
 msgstr "Name=Tswana-Sprooch"
 
-#: kdecore/all_languages.desktop:9269
+#: kdecore/all_languages.desktop:9263
 msgid "Name=Tonga"
 msgstr "Name=Tonga"
 
-#: kdecore/all_languages.desktop:9308
+#: kdecore/all_languages.desktop:9302
 msgid "Name=Turkish"
 msgstr "Name=Türkesch"
 
-#: kdecore/all_languages.desktop:9386
+#: kdecore/all_languages.desktop:9380
 msgid "Name=Tsonga"
 msgstr "Name=Tsonga-Sprooch"
 
-#: kdecore/all_languages.desktop:9426
+#: kdecore/all_languages.desktop:9420
 msgid "Name=Tatar"
 msgstr "Name=Tataresch"
 
-#: kdecore/all_languages.desktop:9485
+#: kdecore/all_languages.desktop:9479
 msgid "Name=Twi"
 msgstr "Name=Akan-Sprooch"
 
-#: kdecore/all_languages.desktop:9522
+#: kdecore/all_languages.desktop:9516
 msgid "Name=Tahitian"
 msgstr "Name=Tahitesch"
 
-#: kdecore/all_languages.desktop:9591
+#: kdecore/all_languages.desktop:9585
 msgid "Name=Uighur"
 msgstr "Name=Uiguresch"
 
-#: kdecore/all_languages.desktop:9644
+#: kdecore/all_languages.desktop:9638
 msgid "Name=Ukrainian"
 msgstr "Name=Ukrainesch"
 
-#: kdecore/all_languages.desktop:9723
+#: kdecore/all_languages.desktop:9717
 msgid "Name=Urdu"
 msgstr "Name=Urdu"
 
-#: kdecore/all_languages.desktop:9763
+#: kdecore/all_languages.desktop:9757
 msgid "Name=Uzbek"
 msgstr "Name=Usbekesch"
 
-#: kdecore/all_languages.desktop:9830
+#: kdecore/all_languages.desktop:9824
 msgid "Name=Venda"
 msgstr "Name=Venda"
 
-#: kdecore/all_languages.desktop:9858
+#: kdecore/all_languages.desktop:9852
 msgid "Name=Vietnamese"
 msgstr "Name=Vietnamesesch"
 
-#: kdecore/all_languages.desktop:9935
+#: kdecore/all_languages.desktop:9929
 msgid "Name=Volapük"
 msgstr "Name=Volapük"
 
-#: kdecore/all_languages.desktop:9973
+#: kdecore/all_languages.desktop:9967
 msgid "Name=Walloon"
 msgstr "Name=Wallounesch"
 
-#: kdecore/all_languages.desktop:10043
+#: kdecore/all_languages.desktop:10037
 msgid "Name=Wolof"
 msgstr "Name=Wolof-Sprooch"
 
-#: kdecore/all_languages.desktop:10086
+#: kdecore/all_languages.desktop:10080
 msgid "Name=Xhosa"
 msgstr "Name=Xhosa"
 
-#: kdecore/all_languages.desktop:10126
+#: kdecore/all_languages.desktop:10120
 msgid "Name=Yiddish"
 msgstr "Name=Jiddesch"
 
-#: kdecore/all_languages.desktop:10184
+#: kdecore/all_languages.desktop:10178
 msgid "Name=Yoruba"
 msgstr "Name=Yoruba-Sprooch"
 
-#: kdecore/all_languages.desktop:10231
+#: kdecore/all_languages.desktop:10225
 msgid "Name=Zhuang"
 msgstr "Name=Zhuang"
 
-#: kdecore/all_languages.desktop:10267
+#: kdecore/all_languages.desktop:10261
 msgid "Name=Chinese"
 msgstr "Name=Chinesesch"
 
-#: kdecore/all_languages.desktop:10348
+#: kdecore/all_languages.desktop:10342
 msgid "Name=Chinese Simplified"
 msgstr "Name=Einfacht Chinesesch"
 
-#: kdecore/all_languages.desktop:10405
+#: kdecore/all_languages.desktop:10399
 msgid "Name=Chinese (Hong Kong)"
 msgstr "Name=Chinesesch (Hong Kong)"
 
-#: kdecore/all_languages.desktop:10446
+#: kdecore/all_languages.desktop:10440
 msgid "Name=Chinese Traditional"
 msgstr "Name=Traditionellt Chinesesch"
 
-#: kdecore/all_languages.desktop:10503
+#: kdecore/all_languages.desktop:10497
 msgid "Name=Zulu"
 msgstr "Name=Zulu"
 
@@ -917,7 +921,8 @@ msgstr "Name=Textergänzung: rotéierent"
 
 #: kdecore/eventsrc:273
 msgid "Comment=The end of the list of matches has been reached"
-msgstr "Comment=D'Enn vun der Lëscht mat den Iwwerteneestëmmungen ass erreecht ginn"
+msgstr ""
+"Comment=D'Enn vun der Lëscht mat den Iwwerteneestëmmungen ass erreecht ginn"
 
 #: kdecore/eventsrc:332
 msgid "Name=Textcompletion: no match"
@@ -976,7 +981,8 @@ msgid "Name=Catastrophe"
 msgstr "Name=Katastroph"
 
 #: kdecore/eventsrc:1266
-msgid "Comment=A very serious error occurred, at least causing the program to exit"
+msgid ""
+"Comment=A very serious error occurred, at least causing the program to exit"
 msgstr ""
 "Comment=E ganz schlëmme Feeler ass opgetrueden, deen op Mannst zum Ophale vum "
 "Programm gefouert huet"
@@ -1445,7 +1451,8 @@ msgstr "Name=Ongültegt Proxy-Skript"
 
 #: kio/misc/kpac/eventsrc:139
 msgid "Comment=The downloaded proxy configuration script is invalid"
-msgstr "Comment=D'Proxy-Configuratiounsskript, dat erofgelude gouf, ass ongülteg"
+msgstr ""
+"Comment=D'Proxy-Configuratiounsskript, dat erofgelude gouf, ass ongülteg"
 
 #: kio/misc/kpac/eventsrc:207
 msgid "Name=Script download error"
@@ -1461,7 +1468,8 @@ msgstr "Name=Feeler beim Evaluéieren vum Skript"
 
 #: kio/misc/kpac/eventsrc:408
 msgid "Comment=There was an error executing the proxy configuration script"
-msgstr "Comment=Et gouf e Feeler beim Ausféiere vum Proxy-Konfiguratiounsskript"
+msgstr ""
+"Comment=Et gouf e Feeler beim Ausféiere vum Proxy-Konfiguratiounsskript"
 
 #: kio/misc/kpac/proxyscout.desktop:4
 msgid "Name=Proxy Scout"
@@ -1581,7 +1589,8 @@ msgstr "Name=HéichKontrast"
 
 #: kstyles/highcontrast/highcontrast.themerc:52
 msgid "Comment=A style that works well with high contrast color schemes"
-msgstr "Comment=E Stil, dee gutt bei Faarfschemaë mat engem héiche Kontrast passt"
+msgstr ""
+"Comment=E Stil, dee gutt bei Faarfschemaë mat engem héiche Kontrast passt"
 
 #: kstyles/plastik/plastik.themerc:2
 msgid "Name=Plastik"
@@ -1653,7 +1662,8 @@ msgstr "Name=Liichte Stil, 2. Versioun"
 
 #: kstyles/themes/light-v2.themerc:73
 msgid "Comment=Second revision of the simple and elegant 'Light' widget style."
-msgstr "Comment=Zweet Versioun vum einfachen and eleganten 'liichte' Widget-Stil"
+msgstr ""
+"Comment=Zweet Versioun vum einfachen and eleganten 'liichte' Widget-Stil"
 
 #: kstyles/themes/light-v3.themerc:2
 msgid "Name=Light Style, 3rd revision"
@@ -1661,7 +1671,8 @@ msgstr "Name=Liichte Stil, 3. Versioun"
 
 #: kstyles/themes/light-v3.themerc:73
 msgid "Comment=Third revision of the simple and elegant 'Light' widget style."
-msgstr "Comment=Drëtt Versioun vum einfachen and eleganten 'liichte' Widget-Stil"
+msgstr ""
+"Comment=Drëtt Versioun vum einfachen and eleganten 'liichte' Widget-Stil"
 
 #: kstyles/themes/mega.themerc:2
 msgid "Name=MegaGradient highcolor style"
@@ -2943,4 +2954,3 @@ msgstr "Name=KDE-VillFaarwen"
 #: pics/hicolor/index.theme:54
 msgid "Comment=Fallback icon theme"
 msgstr "Comment=Ersatzsymbolthema"
-
