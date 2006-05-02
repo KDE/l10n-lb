@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
 "POT-Creation-Date: 2006-04-29 03:53+0200\n"
-"PO-Revision-Date: 2006-05-01 21:29+0200\n"
+"PO-Revision-Date: 2006-05-02 21:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -126,7 +126,7 @@ msgstr "&Réckelen"
 #: common_texts.cpp:84 rc.cpp:57 rc.cpp:272
 #, no-c-format
 msgid "&View"
-msgstr "&Siicht"
+msgstr "&Usiicht"
 
 #. i18n: file ./kdeui/ui_standards.rc line 112
 #: rc.cpp:60 rc.cpp:63
@@ -2564,7 +2564,7 @@ msgstr "D'Configuratiounsdate sinn nei geluede ginn."
 
 #: kmdi/kmdi/guiclient.cpp:79 kmdi/kmdiguiclient.cpp:139
 msgid "Tool &Views"
-msgstr "&Siichte fir d'Toolen"
+msgstr "&Usiichte fir d'Toolen"
 
 #: kmdi/kmdiguiclient.cpp:142
 msgid "MDI Mode"
@@ -10972,3 +10972,4 @@ msgid ""
 "_: QXml\n"
 "error in the text declaration of an external entity"
 msgstr "Feeler an der Text-Deklaratioun vun enger externer Entity"
+
