@@ -10972,4 +10972,3 @@ msgid ""
 "_: QXml\n"
 "error in the text declaration of an external entity"
 msgstr "Feeler an der Text-Deklaratioun vun enger externer Entity"
-
