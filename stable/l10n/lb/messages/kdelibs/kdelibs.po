@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2006-05-05 03:51+0200\n"
+"POT-Creation-Date: 2006-05-06 03:51+0200\n"
 "PO-Revision-Date: 2006-05-02 21:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1005,7 +1005,7 @@ msgid "&Save"
 msgstr "&Späicheren"
 
 #: common_texts.cpp:111 khtml/khtml_part.cpp:3926 khtml/khtml_part.cpp:4130
-#: khtml/khtml_part.cpp:4444 khtml/khtml_run.cpp:83 kparts/browserrun.cpp:417
+#: khtml/khtml_part.cpp:4444 khtml/khtml_run.cpp:83 kparts/browserrun.cpp:419
 msgid "Save As"
 msgstr "Späicheren als"
 
@@ -6861,11 +6861,11 @@ msgstr ""
 msgid "Overwrite File?"
 msgstr "Datei iwwerschreiwen?"
 
-#: khtml/khtml_ext.cpp:884 kparts/browserrun.cpp:388
+#: khtml/khtml_ext.cpp:884 kparts/browserrun.cpp:390
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "Den Download-Manager (%1) konnt an ärem PATH net fonnt ginn "
 
-#: khtml/khtml_ext.cpp:885 kparts/browserrun.cpp:389
+#: khtml/khtml_ext.cpp:885 kparts/browserrun.cpp:391
 msgid ""
 "Try to reinstall it  \n"
 "\n"
@@ -8088,19 +8088,19 @@ msgstr ""
 msgid "Close Document"
 msgstr "Dokument zoumaachen"
 
-#: kparts/browserrun.cpp:273
+#: kparts/browserrun.cpp:275
 msgid "Do you really want to execute '%1'? "
 msgstr "Wëllt dir '%1' wiirklech lafe loossen? "
 
-#: kparts/browserrun.cpp:274
+#: kparts/browserrun.cpp:276
 msgid "Execute File?"
 msgstr "Datei ausféieren?"
 
-#: kparts/browserrun.cpp:274
+#: kparts/browserrun.cpp:276
 msgid "Execute"
 msgstr "Ausféieren"
 
-#: kparts/browserrun.cpp:292
+#: kparts/browserrun.cpp:294
 msgid ""
 "Open '%2'?\n"
 "Type: %1"
@@ -8108,7 +8108,7 @@ msgstr ""
 "'%2' opmaachen?\n"
 "Typ: %1"
 
-#: kparts/browserrun.cpp:294
+#: kparts/browserrun.cpp:296
 msgid ""
 "Open '%3'?\n"
 "Name: %2\n"
@@ -8118,15 +8118,15 @@ msgstr ""
 "Numm: %2\n"
 "Typ: %1"
 
-#: kparts/browserrun.cpp:308
+#: kparts/browserrun.cpp:310
 msgid "&Open with '%1'"
 msgstr "Mat '%1' &opmaachen"
 
-#: kparts/browserrun.cpp:309
+#: kparts/browserrun.cpp:311
 msgid "&Open With..."
 msgstr "&Opmaache mat..."
 
-#: kparts/browserrun.cpp:351
+#: kparts/browserrun.cpp:353
 msgid "&Open"
 msgstr "&Opmaachen"
 
