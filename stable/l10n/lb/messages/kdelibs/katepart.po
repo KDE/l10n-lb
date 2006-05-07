@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: katepart\n"
-"POT-Creation-Date: 2006-04-25 03:50+0200\n"
+"POT-Creation-Date: 2006-05-07 03:53+0200\n"
 "PO-Revision-Date: 2005-12-27 22:07+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team:  <kde-i18n-lb@kde.org>\n"
@@ -2040,17 +2040,17 @@ msgstr ""
 msgid "Check spelling of the selected text"
 msgstr ""
 
-#: part/katespell.cpp:122
+#: part/katespell.cpp:125
 msgid "Spellcheck"
 msgstr "Rechtschreifkontroll"
 
-#: part/katespell.cpp:202
+#: part/katespell.cpp:205
 msgid ""
 "The spelling program could not be started. Please make sure you have set the "
 "correct spelling program and that it is properly configured and in your PATH."
 msgstr ""
 
-#: part/katespell.cpp:207
+#: part/katespell.cpp:210
 msgid "The spelling program seems to have crashed."
 msgstr ""
 
