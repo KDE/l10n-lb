@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2006-05-20 03:53+0200\n"
+"POT-Creation-Date: 2006-05-21 03:53+0200\n"
 "PO-Revision-Date: 2006-05-02 21:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -5713,19 +5713,19 @@ msgstr "Test"
 msgid "&Overwrite"
 msgstr "&Iwwerschreiwen"
 
-#: kdeui/ksyntaxhighlighter.cpp:472 kdeui/ksyntaxhighlighter.cpp:579
+#: kdeui/ksyntaxhighlighter.cpp:476 kdeui/ksyntaxhighlighter.cpp:583
 msgid "As-you-type spell checking enabled."
 msgstr "Autom. Rechtschreifkontroll ugeschalt."
 
-#: kdeui/ksyntaxhighlighter.cpp:474
+#: kdeui/ksyntaxhighlighter.cpp:478
 msgid "As-you-type spell checking disabled."
 msgstr "Autom. Rechtschreifkontroll ausgeschalt."
 
-#: kdeui/ksyntaxhighlighter.cpp:521
+#: kdeui/ksyntaxhighlighter.cpp:525
 msgid "Incremental Spellcheck"
 msgstr "Zouwues-Rechtschreifkontroll"
 
-#: kdeui/ksyntaxhighlighter.cpp:581
+#: kdeui/ksyntaxhighlighter.cpp:585
 msgid "Too many misspelled words. As-you-type spell checking disabled."
 msgstr ""
 "Ze vill falsch geschriwwe Wierder. D'automatësch Rechtschreifkontroll ass "
