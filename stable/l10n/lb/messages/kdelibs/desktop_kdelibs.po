@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-06-06 02:12+0000\n"
+"POT-Creation-Date: 2006-06-07 02:11+0000\n"
 "PO-Revision-Date: 2006-05-01 21:26+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2259,6 +2259,11 @@ msgstr "Comment=MagicPoint-Präsentatioun"
 #: mimetypes/application/x-mimearchive.desktop:7
 msgid "Comment=Mime Encapsulated Web Archive"
 msgstr "Comment=Mime-gekapselt Webarchiv"
+
+#: mimetypes/application/x-mplayer2.desktop:7
+#, fuzzy
+msgid "Comment=Microsoft Media"
+msgstr "Comment=Microsoft-AVI-Video"
 
 #: mimetypes/application/x-msaccess.desktop:7
 msgid "Comment=Microsoft Access Database"
