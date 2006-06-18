@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2006-06-17 03:57+0200\n"
+"POT-Creation-Date: 2006-06-18 03:55+0200\n"
 "PO-Revision-Date: 2006-05-02 21:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -7547,7 +7547,7 @@ msgstr ""
 "%1, Zeil %2:\n"
 "%3"
 
-#: khtml/ecma/kjs_html.cpp:2146 khtml/ecma/kjs_window.cpp:1362
+#: khtml/ecma/kjs_html.cpp:2132 khtml/ecma/kjs_window.cpp:1362
 msgid "Confirmation: JavaScript Popup"
 msgstr "Bestätegung: JavaScript-Fënsteren"
 
@@ -7569,11 +7569,11 @@ msgstr ""
 "<p>%1</p>an enger neier Fënster iwwert JavaScript opzemaachen."
 "<br/>Wëllt dir dat zouloossen?</qt>"
 
-#: khtml/ecma/kjs_html.cpp:2153 khtml/ecma/kjs_window.cpp:1370
+#: khtml/ecma/kjs_html.cpp:2139 khtml/ecma/kjs_window.cpp:1370
 msgid "Allow"
 msgstr "Erlaben"
 
-#: khtml/ecma/kjs_html.cpp:2153 khtml/ecma/kjs_window.cpp:1370
+#: khtml/ecma/kjs_html.cpp:2139 khtml/ecma/kjs_window.cpp:1370
 msgid "Do Not Allow"
 msgstr "Net erlaben"
 
@@ -7624,7 +7624,7 @@ msgstr "JavaScript"
 msgid "&Abort"
 msgstr "&Ofbriechen"
 
-#: khtml/ecma/kjs_html.cpp:2148
+#: khtml/ecma/kjs_html.cpp:2134
 msgid ""
 "This site is submitting a form which will open up a new browser window via "
 "JavaScript.\n"
@@ -7634,7 +7634,7 @@ msgstr ""
 "Fënster opmëcht.\n"
 "Wëllt dir dat zouloossen?"
 
-#: khtml/ecma/kjs_html.cpp:2151
+#: khtml/ecma/kjs_html.cpp:2137
 msgid ""
 "<qt>This site is submitting a form which will open "
 "<p>%1</p> in a new browser window via JavaScript.<br />"
@@ -7644,7 +7644,7 @@ msgstr ""
 "<p>%1</p> an enger neier Fënster opmëcht."
 "<br/>Wëllt dir dat zouloossen?</qt>"
 
-#: khtml/html/htmlparser.cpp:1697
+#: khtml/html/htmlparser.cpp:1698
 msgid "This is a searchable index. Enter search keywords: "
 msgstr "Dësem Index kënnt dir duerchsichen. Gitt Stëchwierder an: "
 
