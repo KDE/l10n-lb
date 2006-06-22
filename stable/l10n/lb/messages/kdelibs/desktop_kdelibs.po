@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2006-06-20 02:11+0000\n"
-"PO-Revision-Date: 2006-05-01 21:26+0200\n"
+"PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -51,12 +51,10 @@ msgstr "Name=Ausféierer fir Bash-Kommandozeil-Skripter"
 
 #: interfaces/kscript/sample/shellscript.desktop:70
 msgid "Comment=Runs bash shell scripts from inside the application."
-msgstr ""
-"Comment=Féiert Skripter fir d'Bash-Kommandozeil aus dem Programm selwer aus."
+msgstr "Comment=Féiert Skripter fir d'Bash-Kommandozeil aus dem Programm selwer aus."
 
 #: interfaces/kscript/scriptinterface.desktop:5
-msgid ""
-"Comment=This is a generic test script engine for testing the script interface."
+msgid "Comment=This is a generic test script engine for testing the script interface."
 msgstr ""
 "Comment=Dësst ass eng allgemeng Test-Skript-Engine fir de Skript-Interface ze "
 "testen."
@@ -140,8 +138,7 @@ msgid "Name=KTextEditor Autobookmarker"
 msgstr "Name=Automateschen Lieszeechesetzer fir den KTextEditor "
 
 #: kate/plugins/autobookmarker/ktexteditor_autobookmarker.desktop:58
-msgid ""
-"Comment=Set bookmarks on lines matching a pattern when documents are loaded"
+msgid "Comment=Set bookmarks on lines matching a pattern when documents are loaded"
 msgstr ""
 "Comment=Setzt Lieszeechen op d'Zeilen, déi ee bestëmmtent Muster enthalen, wann "
 "d'Dokument geluede gëtt"
@@ -177,8 +174,7 @@ msgid "Name=KTextEditor Word Completion Plugin"
 msgstr "Name=KTextEditor-Wuert-Vervollstännegungs-Plugin"
 
 #: kate/plugins/wordcompletion/ktexteditor_docwordcompletion.desktop:61
-msgid ""
-"Comment=Directional or popup-based completion from words in the document"
+msgid "Comment=Directional or popup-based completion from words in the document"
 msgstr ""
 "Comment=Direktional oder Opklapp-Fënster-baséiert Vervollstännegung vu Wierder "
 "am Dokument"
@@ -921,8 +917,7 @@ msgstr "Name=Textergänzung: rotéierent"
 
 #: kdecore/eventsrc:279
 msgid "Comment=The end of the list of matches has been reached"
-msgstr ""
-"Comment=D'Enn vun der Lëscht mat den Iwwerteneestëmmungen ass erreecht ginn"
+msgstr "Comment=D'Enn vun der Lëscht mat den Iwwerteneestëmmungen ass erreecht ginn"
 
 #: kdecore/eventsrc:340
 msgid "Name=Textcompletion: no match"
@@ -981,8 +976,7 @@ msgid "Name=Catastrophe"
 msgstr "Name=Katastroph"
 
 #: kdecore/eventsrc:1284
-msgid ""
-"Comment=A very serious error occurred, at least causing the program to exit"
+msgid "Comment=A very serious error occurred, at least causing the program to exit"
 msgstr ""
 "Comment=E ganz schlëmme Feeler ass opgetrueden, deen op Mannst zum Ophale vum "
 "Programm gefouert huet"
@@ -1451,8 +1445,7 @@ msgstr "Name=Ongültegt Proxy-Skript"
 
 #: kio/misc/kpac/eventsrc:139
 msgid "Comment=The downloaded proxy configuration script is invalid"
-msgstr ""
-"Comment=D'Proxy-Configuratiounsskript, dat erofgelude gouf, ass ongülteg"
+msgstr "Comment=D'Proxy-Configuratiounsskript, dat erofgelude gouf, ass ongülteg"
 
 #: kio/misc/kpac/eventsrc:207
 msgid "Name=Script download error"
@@ -1468,8 +1461,7 @@ msgstr "Name=Feeler beim Evaluéieren vum Skript"
 
 #: kio/misc/kpac/eventsrc:408
 msgid "Comment=There was an error executing the proxy configuration script"
-msgstr ""
-"Comment=Et gouf e Feeler beim Ausféiere vum Proxy-Konfiguratiounsskript"
+msgstr "Comment=Et gouf e Feeler beim Ausféiere vum Proxy-Konfiguratiounsskript"
 
 #: kio/misc/kpac/proxyscout.desktop:4
 msgid "Name=Proxy Scout"
@@ -1589,8 +1581,7 @@ msgstr "Name=HéichKontrast"
 
 #: kstyles/highcontrast/highcontrast.themerc:53
 msgid "Comment=A style that works well with high contrast color schemes"
-msgstr ""
-"Comment=E Stil, dee gutt bei Faarfschemaë mat engem héiche Kontrast passt"
+msgstr "Comment=E Stil, dee gutt bei Faarfschemaë mat engem héiche Kontrast passt"
 
 #: kstyles/plastik/plastik.themerc:2
 msgid "Name=Plastik"
@@ -1662,8 +1653,7 @@ msgstr "Name=Liichte Stil, 2. Versioun"
 
 #: kstyles/themes/light-v2.themerc:74
 msgid "Comment=Second revision of the simple and elegant 'Light' widget style."
-msgstr ""
-"Comment=Zweet Versioun vum einfachen and eleganten 'liichte' Widget-Stil"
+msgstr "Comment=Zweet Versioun vum einfachen and eleganten 'liichte' Widget-Stil"
 
 #: kstyles/themes/light-v3.themerc:2
 msgid "Name=Light Style, 3rd revision"
@@ -1671,8 +1661,7 @@ msgstr "Name=Liichte Stil, 3. Versioun"
 
 #: kstyles/themes/light-v3.themerc:74
 msgid "Comment=Third revision of the simple and elegant 'Light' widget style."
-msgstr ""
-"Comment=Drëtt Versioun vum einfachen and eleganten 'liichte' Widget-Stil"
+msgstr "Comment=Drëtt Versioun vum einfachen and eleganten 'liichte' Widget-Stil"
 
 #: kstyles/themes/mega.themerc:2
 msgid "Name=MegaGradient highcolor style"
@@ -2077,7 +2066,7 @@ msgstr "Comment=Desktop-Configuratiounsdatei"
 
 #: mimetypes/application/x-dvi.desktop:3
 msgid "Comment=TeX Device Independent File"
-msgstr "Comment=Gerät-onofhängeg Datei vun TeX (DVI)"
+msgstr "Comment=Gerät-onofhängeg Datei vum TeX (DVI)"
 
 #: mimetypes/application/x-egon.desktop:7
 msgid "Comment=Egon Animator"
@@ -2261,9 +2250,8 @@ msgid "Comment=Mime Encapsulated Web Archive"
 msgstr "Comment=Mime-gekapselt Webarchiv"
 
 #: mimetypes/application/x-mplayer2.desktop:7
-#, fuzzy
 msgid "Comment=Microsoft Media"
-msgstr "Comment=Microsoft-AVI-Video"
+msgstr "Comment=Microsoft Media"
 
 #: mimetypes/application/x-msaccess.desktop:7
 msgid "Comment=Microsoft Access Database"
@@ -2959,3 +2947,4 @@ msgstr "Name=KDE-VillFaarwen"
 #: pics/hicolor/index.theme:55
 msgid "Comment=Fallback icon theme"
 msgstr "Comment=Ersatzsymbolthema"
+

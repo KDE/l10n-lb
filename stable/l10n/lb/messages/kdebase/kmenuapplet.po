@@ -1,0 +1,20 @@
+# translation of kmenuapplet.po to Luxembourgish
+# Michel Ludwig <michel.ludwig@kdemail.net>, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: kmenuapplet\n"
+"POT-Creation-Date: 2005-05-18 21:24+0200\n"
+"PO-Revision-Date: 2006-06-22 17:00+0200\n"
+"Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
+"Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.2\n"
+
+#: menuapplet.cpp:342
+msgid ""
+"You do not appear to have enabled the standalone menubar; enable it in the "
+"Behavior control module for desktop."
+msgstr "Et schéngt net esou, wéi wann dir déi eegestänneg Menüleescht ugeschalt hutt; schalt se am Verhalenskontrollmodul fir den Bureau un."
+
