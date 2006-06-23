@@ -53,7 +53,8 @@ msgstr ""
 "gedréckt.</p>"
 
 #: part/kateprinter.cpp:662
-msgid "<p>If enabled, line numbers will be printed on the left side of the page(s).</p>"
+msgid ""
+"<p>If enabled, line numbers will be printed on the left side of the page(s).</p>"
 msgstr ""
 "<p>Wann se ugeschalt ass, ginn d'Zeilennummeren op de lénke Rand vun de Säiten "
 "gedréckt.</p>"
@@ -120,7 +121,8 @@ msgstr "&Hannergrond"
 
 #: part/kateprinter.cpp:788
 msgid "<p>Format of the page header. The following tags are supported:</p>"
-msgstr "<p>Format vun de Kappzeilen. Déi folgend Formatuweisunge ginn ënnerstëtzt:</p>"
+msgstr ""
+"<p>Format vun de Kappzeilen. Déi folgend Formatuweisunge ginn ënnerstëtzt:</p>"
 
 #: part/kateprinter.cpp:790
 msgid ""
@@ -150,7 +152,8 @@ msgstr ""
 
 #: part/kateprinter.cpp:804
 msgid "<p>Format of the page footer. The following tags are supported:</p>"
-msgstr "<p>Format vun de Fousszeilen. Déi folgend Formatuweisunge ginn ënnerstëtzt:</p>"
+msgstr ""
+"<p>Format vun de Fousszeilen. Déi folgend Formatuweisunge ginn ënnerstëtzt:</p>"
 
 #: part/kateprinter.cpp:908
 msgid "L&ayout"
@@ -772,7 +775,8 @@ msgid "The file '%1' was deleted by another program."
 msgstr "D'Datei '%1' gouf vun engem anere Programm geläscht."
 
 #: part/katedocument.cpp:4963 part/kateview.cpp:887
-msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgid ""
+"A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
 "Eng Datei mam Numm \"%1\" gëtt et schonns. Sidd dir sëcher, dass dir se "
 "iwwerschreiwe wëllt ?"
@@ -827,7 +831,8 @@ msgid "Delete the current file type."
 msgstr "Den aktuellen Dateityp läschen."
 
 #: part/katefiletype.cpp:335
-msgid "The name of the filetype will be the text of the corresponding menu item."
+msgid ""
+"The name of the filetype will be the text of the corresponding menu item."
 msgstr ""
 
 #: part/katefiletype.cpp:337
@@ -897,7 +902,8 @@ msgid "Available Commands"
 msgstr "Verfügbar Kommandoen"
 
 #: part/kateviewhelpers.cpp:239
-msgid "<p>For help on individual commands, do <code>'help &lt;command&gt;'</code></p>"
+msgid ""
+"<p>For help on individual commands, do <code>'help &lt;command&gt;'</code></p>"
 msgstr ""
 
 #: part/kateviewhelpers.cpp:250
@@ -1290,11 +1296,13 @@ msgid "Check this if you want to indent with spaces rather than tabs."
 msgstr ""
 
 #: part/katedialogs.cpp:208
-msgid "Indentations of more than the selected number of spaces will not be shortened."
+msgid ""
+"Indentations of more than the selected number of spaces will not be shortened."
 msgstr ""
 
 #: part/katedialogs.cpp:211
-msgid "This allows the <b>Tab</b> key to be used to increase the indentation level."
+msgid ""
+"This allows the <b>Tab</b> key to be used to increase the indentation level."
 msgstr ""
 
 #: part/katedialogs.cpp:214
@@ -1492,11 +1500,13 @@ msgid ""
 msgstr ""
 
 #: part/katedialogs.cpp:548
-msgid "The editor will display a symbol to indicate the presence of a tab in the text."
+msgid ""
+"The editor will display a symbol to indicate the presence of a tab in the text."
 msgstr ""
 
 #: part/katedialogs.cpp:552
-msgid "Sets the number of undo/redo steps to record. More steps uses more memory."
+msgid ""
+"Sets the number of undo/redo steps to record. More steps uses more memory."
 msgstr ""
 
 #: part/katedialogs.cpp:555
@@ -1665,7 +1675,8 @@ msgid ""
 msgstr ""
 
 #: part/katedialogs.cpp:724
-msgid "Choose how the bookmarks should be ordered in the <b>Bookmarks</b> menu."
+msgid ""
+"Choose how the bookmarks should be ordered in the <b>Bookmarks</b> menu."
 msgstr ""
 
 #: part/katedialogs.cpp:726
@@ -1813,7 +1824,8 @@ msgid ""
 msgstr ""
 
 #: part/katedialogs.cpp:969
-msgid "You did not provide a backup suffix or prefix. Using default suffix: '~'"
+msgid ""
+"You did not provide a backup suffix or prefix. Using default suffix: '~'"
 msgstr ""
 
 #: part/katedialogs.cpp:970
@@ -1939,7 +1951,8 @@ msgid "File Changed on Disk"
 msgstr "Datei gouf um Dateisystem geännert"
 
 #: part/katedialogs.cpp:1585
-msgid "Reload the file from disk. If you have unsaved changes, they will be lost."
+msgid ""
+"Reload the file from disk. If you have unsaved changes, they will be lost."
 msgstr ""
 
 #: part/katedialogs.cpp:1590
@@ -2051,7 +2064,8 @@ msgid "Paste previously copied or cut clipboard contents"
 msgstr ""
 
 #: part/kateview.cpp:219
-msgid "Use this command to copy the currently selected text to the system clipboard."
+msgid ""
+"Use this command to copy the currently selected text to the system clipboard."
 msgstr ""
 
 #: part/kateview.cpp:221
@@ -2127,7 +2141,8 @@ msgid "&Align"
 msgstr "&Alignéieren"
 
 #: part/kateview.cpp:252
-msgid "Use this to align the current line or block of text to its proper indent level."
+msgid ""
+"Use this to align the current line or block of text to its proper indent level."
 msgstr ""
 
 #: part/kateview.cpp:254
@@ -2185,7 +2200,8 @@ msgid "Capitalize"
 msgstr ""
 
 #: part/kateview.cpp:281
-msgid "Capitalize the selection, or the word under the cursor if no text is selected."
+msgid ""
+"Capitalize the selection, or the word under the cursor if no text is selected."
 msgstr ""
 
 #: part/kateview.cpp:284
@@ -2625,7 +2641,8 @@ msgid "Normal Text"
 msgstr "Normalen Text"
 
 #: part/katehighlight.cpp:1966
-msgid "<B>%1</B>: Deprecated syntax. Attribute (%2) not addressed by symbolic name<BR>"
+msgid ""
+"<B>%1</B>: Deprecated syntax. Attribute (%2) not addressed by symbolic name<BR>"
 msgstr ""
 
 #: part/katehighlight.cpp:2331
@@ -2633,7 +2650,8 @@ msgid "<B>%1</B>: Deprecated syntax. Context %2 has no symbolic name<BR>"
 msgstr ""
 
 #: part/katehighlight.cpp:2375
-msgid "<B>%1</B>:Deprecated syntax. Context %2 not addressed by a symbolic name"
+msgid ""
+"<B>%1</B>:Deprecated syntax. Context %2 not addressed by a symbolic name"
 msgstr ""
 
 #: part/katehighlight.cpp:2482
@@ -2653,7 +2671,8 @@ msgid ""
 msgstr ""
 
 #: part/katehighlight.cpp:2832
-msgid "<B>%1</B>: Specified multiline comment region (%2) could not be resolved<BR>"
+msgid ""
+"<B>%1</B>: Specified multiline comment region (%2) could not be resolved<BR>"
 msgstr ""
 
 #: part/katehighlight.cpp:3143
@@ -3765,7 +3784,8 @@ msgid ""
 msgstr ""
 
 #: plugins/wordcompletion/docwordcompletion.cpp:492
-msgid "Define the length a word should have before the completion list is displayed."
+msgid ""
+"Define the length a word should have before the completion list is displayed."
 msgstr ""
 
 #: plugins/insertfile/insertfileplugin.cpp:79
@@ -3789,7 +3809,8 @@ msgid "Insert File Error"
 msgstr "Feeler beim Afüge vun der Datei"
 
 #: plugins/insertfile/insertfileplugin.cpp:130
-msgid "<p>The file <strong>%1</strong> does not exist or is not readable, aborting."
+msgid ""
+"<p>The file <strong>%1</strong> does not exist or is not readable, aborting."
 msgstr ""
 
 #: plugins/insertfile/insertfileplugin.cpp:134
@@ -3945,7 +3966,8 @@ msgid "Case &sensitive"
 msgstr "Op Grou&ss-/Klengschreiwung oppassen "
 
 #: plugins/autobookmarker/autobookmarker.cpp:302
-msgid "<p>If enabled, the pattern matching will be case sensitive, otherwise not.</p>"
+msgid ""
+"<p>If enabled, the pattern matching will be case sensitive, otherwise not.</p>"
 msgstr ""
 
 #: plugins/autobookmarker/autobookmarker.cpp:305
@@ -4036,4 +4058,3 @@ msgstr "Veränn&eren..."
 #: plugins/autobookmarker/autobookmarker.cpp:419
 msgid "Press this button to edit the currently selected entity."
 msgstr ""
-

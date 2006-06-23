@@ -54,8 +54,10 @@ msgstr "Haaptkierzel:"
 #. i18n: file ./kdeui/kshortcutdialog_advanced.ui line 155
 #: rc.cpp:21
 #, no-c-format
-msgid "The currently set shortcut or the shortcut you are entering will show up here."
-msgstr "Den aktuellen Tastekierzel oder deen, deen dir grad agitt, gesitt dir hei."
+msgid ""
+"The currently set shortcut or the shortcut you are entering will show up here."
+msgstr ""
+"Den aktuellen Tastekierzel oder deen, deen dir grad agitt, gesitt dir hei."
 
 #. i18n: file ./kdeui/kshortcutdialog_advanced.ui line 182
 #: rc.cpp:24 rc.cpp:30 rc.cpp:87
@@ -2136,7 +2138,8 @@ msgstr ""
 
 #: kabc/lock.cpp:145
 msgid "Unlock failed. Lock file is owned by other process: %1 (%2)"
-msgstr "D'Sperr konnt net opgehuewe ginn. D'Sperrdatei gehéiert zum Prozess: %1 (%2)"
+msgstr ""
+"D'Sperr konnt net opgehuewe ginn. D'Sperrdatei gehéiert zum Prozess: %1 (%2)"
 
 #: kabc/stdaddressbook.cpp:152
 msgid "Unable to save to resource '%1'. It is locked."
@@ -2444,12 +2447,16 @@ msgid "New hostname"
 msgstr "Neien Numm fir den Host"
 
 #: kded/khostname.cpp:79
-msgid "Error: HOME environment variable not set.\n"
-msgstr "Feeler: D'HOME-Variabel ass net festgeluecht ginn.\n"
+msgid ""
+"Error: HOME environment variable not set.\n"
+msgstr ""
+"Feeler: D'HOME-Variabel ass net festgeluecht ginn.\n"
 
 #: kded/khostname.cpp:88
-msgid "Error: DISPLAY environment variable not set.\n"
-msgstr "Feeler: D'DISPLAY-Variabel ass net festgeluecht ginn.\n"
+msgid ""
+"Error: DISPLAY environment variable not set.\n"
+msgstr ""
+"Feeler: D'DISPLAY-Variabel ass net festgeluecht ginn.\n"
 
 #: kded/khostname.cpp:359
 msgid "KDontChangeTheHostName"
@@ -2469,7 +2476,8 @@ msgstr "KDE-Daemon"
 
 #: kded/kded.cpp:857
 msgid "KDE Daemon - triggers Sycoca database updates when needed"
-msgstr "KDE-Daemon: Léist d'Aktualiséierunge vun der Sycoca-Datebank aus, wa gebraucht"
+msgstr ""
+"KDE-Daemon: Léist d'Aktualiséierunge vun der Sycoca-Datebank aus, wa gebraucht"
 
 #: kded/kbuildsycoca.cpp:498
 msgid ""
@@ -2915,14 +2923,17 @@ msgid "sets the application GUI style"
 msgstr "Leet de GUI-Stil fir d'Uwendung fest"
 
 #: kdecore/kapplication.cpp:1438
-msgid "sets the client geometry of the main widget - see man X for the argument format"
+msgid ""
+"sets the client geometry of the main widget - see man X for the argument format"
 msgstr ""
 "Leet d'Geometrie vum Haaptelement am Client-Programm fest. De Format vun den "
 "Argumenter fannt dir mat \"man X\" eraus"
 
 #: kdecore/kapplication.cpp:1478
-msgid "The style %1 was not found\n"
-msgstr "De Stil %1 ass net fonnt ginn\n"
+msgid ""
+"The style %1 was not found\n"
+msgstr ""
+"De Stil %1 ass net fonnt ginn\n"
 
 #: kdecore/kapplication.cpp:1939 kstyles/klegacy/klegacystyle.cpp:3044
 #: kstyles/web/webstyle.cpp:1604
@@ -2975,12 +2986,16 @@ msgstr ""
 "%1"
 
 #: kdecore/kapplication.cpp:2598
-msgid "Could not register with DCOP.\n"
-msgstr "Konnt net bei DCOP umellen.\n"
+msgid ""
+"Could not register with DCOP.\n"
+msgstr ""
+"Konnt net bei DCOP umellen.\n"
 
 #: kdecore/kapplication.cpp:2630
-msgid "KLauncher could not be reached via DCOP.\n"
-msgstr "De KLauncher konnt net iwwer DCOP erreecht ginn\n"
+msgid ""
+"KLauncher could not be reached via DCOP.\n"
+msgstr ""
+"De KLauncher konnt net iwwer DCOP erreecht ginn\n"
 
 #: kdecore/kwinmodule.cpp:413
 #, c-format
@@ -2988,12 +3003,16 @@ msgid "Desktop %1"
 msgstr "Büro %1"
 
 #: kdecore/kconfigbackend.cpp:1087 kdecore/kconfigbackend.cpp:1096
-msgid "Will not save configuration.\n"
-msgstr "D'Configuratioun gëtt net gespäichert.\n"
+msgid ""
+"Will not save configuration.\n"
+msgstr ""
+"D'Configuratioun gëtt net gespäichert.\n"
 
 #: kdecore/kconfigbackend.cpp:1089 kdecore/kconfigbackend.cpp:1097
-msgid "Configuration file \"%1\" not writable.\n"
-msgstr "D'Configuratiounsdatei \"%1\" konnt net geschriwwe ginn.\n"
+msgid ""
+"Configuration file \"%1\" not writable.\n"
+msgstr ""
+"D'Configuratiounsdatei \"%1\" konnt net geschriwwe ginn.\n"
 
 #: kdecore/kconfigbackend.cpp:1104
 msgid "Please contact your system administrator."
@@ -3021,12 +3040,16 @@ msgid "This application was written by somebody who wants to remain anonymous."
 msgstr "Den Auteur vun dësem Programm wëllt anonym bleiwen."
 
 #: kdecore/kcmdlineargs.cpp:625
-msgid "Please use http://bugs.kde.org to report bugs.\n"
-msgstr "Mellt eventuell Käfere w.e.g. ënnert http://bugs.kde.org.\n"
+msgid ""
+"Please use http://bugs.kde.org to report bugs.\n"
+msgstr ""
+"Mellt eventuell Käfere w.e.g. ënnert http://bugs.kde.org.\n"
 
 #: kdecore/kcmdlineargs.cpp:628 kdecore/kcmdlineargs.cpp:630
-msgid "Please report bugs to %1.\n"
-msgstr "Mellt eventuell Käfere w.e.g. bei %1.\n"
+msgid ""
+"Please report bugs to %1.\n"
+msgstr ""
+"Mellt eventuell Käfere w.e.g. bei %1.\n"
 
 #: kdecore/kcmdlineargs.cpp:656
 msgid "Unexpected argument '%1'."
@@ -3053,8 +3076,10 @@ msgid "[%1-options]"
 msgstr "[%1-Optiounen]"
 
 #: kdecore/kcmdlineargs.cpp:812
-msgid "Usage: %1 %2\n"
-msgstr "Verwendung: %1 %2\n"
+msgid ""
+"Usage: %1 %2\n"
+msgstr ""
+"Verwendung: %1 %2\n"
 
 #: kdecore/kcmdlineargs.cpp:815
 msgid "Generic options"
@@ -3110,7 +3135,8 @@ msgstr ""
 
 #: kdecore/kcmdlineargs.cpp:1277
 msgid "The files/URLs opened by the application will be deleted after use"
-msgstr "D'Dateien/URLen, déi vum Programm opgemaach gi sinn, ginn häerno nees geläscht"
+msgstr ""
+"D'Dateien/URLen, déi vum Programm opgemaach gi sinn, ginn häerno nees geläscht"
 
 #: kdecore/ksockaddr.cpp:112
 msgid "<unknown socket>"
@@ -4104,8 +4130,10 @@ msgstr ""
 "eng Méiglechkeet ass fonnt ginn.\n"
 
 #: kdecore/kcompletion.cpp:643
-msgid "There is no matching item available.\n"
-msgstr "Näischt passendes fonnt ginn.\n"
+msgid ""
+"There is no matching item available.\n"
+msgstr ""
+"Näischt passendes fonnt ginn.\n"
 
 #: kdecore/kcalendarsystemhebrew.cpp:402
 msgid "Tishrey"
@@ -4589,24 +4617,34 @@ msgid "Unable to create file to upload."
 msgstr "D'Datei fir eropzeluede konnt net erstallt ginn."
 
 #: knewstuff/engine.cpp:296
-msgid "The files to be uploaded have been created at:\n"
-msgstr "D'Dateie fir eropzeluede sinn do erstallt ginn:\n"
+msgid ""
+"The files to be uploaded have been created at:\n"
+msgstr ""
+"D'Dateie fir eropzeluede sinn do erstallt ginn:\n"
 
 #: knewstuff/engine.cpp:297
-msgid "Data file: %1\n"
-msgstr "Datendatei: %1\n"
+msgid ""
+"Data file: %1\n"
+msgstr ""
+"Datendatei: %1\n"
 
 #: knewstuff/engine.cpp:299
-msgid "Preview image: %1\n"
-msgstr "Virschau vum Bild:%1\n"
+msgid ""
+"Preview image: %1\n"
+msgstr ""
+"Virschau vum Bild:%1\n"
 
 #: knewstuff/engine.cpp:301
-msgid "Content information: %1\n"
-msgstr "Beschreiwung vum Inhalt: %1\n"
+msgid ""
+"Content information: %1\n"
+msgstr ""
+"Beschreiwung vum Inhalt: %1\n"
 
 #: knewstuff/engine.cpp:302
-msgid "Those files can now be uploaded.\n"
-msgstr "Dëss Dateie kënnen elo eropgeluede ginn.\n"
+msgid ""
+"Those files can now be uploaded.\n"
+msgstr ""
+"Dëss Dateie kënnen elo eropgeluede ginn.\n"
 
 #: knewstuff/engine.cpp:303
 msgid "Beware that any people might have access to them at any time."
@@ -4968,7 +5006,8 @@ msgstr "Bildauschnëtt wielen"
 
 #: kdeui/kpixmapregionselectordialog.cpp:31
 msgid "Please click and drag on the image to select the region of interest:"
-msgstr "Klickt an zitt w.e.g. iwwert d'Bild fir de gewënschte Beräich ze wielen:"
+msgstr ""
+"Klickt an zitt w.e.g. iwwert d'Bild fir de gewënschte Beräich ze wielen:"
 
 #: kdeui/ksconfig.cpp:102
 msgid "Create &root/affix combinations not in dictionary"
@@ -5177,7 +5216,8 @@ msgstr ""
 "fir eventuell Käferen ze mellen.\n"
 
 #: kdeui/kaboutapplication.cpp:121 kdeui/kaboutapplication.cpp:124
-msgid "Please report bugs to <a href=\"mailto:%1\">%2</a>.\n"
+msgid ""
+"Please report bugs to <a href=\"mailto:%1\">%2</a>.\n"
 msgstr ""
 "Mellt w.e.g. eventuell Käferen an enger E-Mail un <a href=\"mailto:%1\">%2</a>"
 ".\n"
@@ -5293,7 +5333,8 @@ msgstr "Hei kënnt dir d'Schrëftgréisst wielen, déi benotzt soll ginn."
 #. i18n: This is a classical test phrase. (It contains all letters from A to Z.)
 #: kdeui/kfontdialog.cpp:296
 msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
-msgstr "Ëch hätt gär dräi Wirschtercher mat Fritten a Ketchup, ouni Zalot a Geméis"
+msgstr ""
+"Ëch hätt gär dräi Wirschtercher mat Fritten a Ketchup, ouni Zalot a Geméis"
 
 #: kdeui/kfontdialog.cpp:301
 msgid ""
@@ -5516,7 +5557,8 @@ msgid "Discard changes"
 msgstr "Ännerunge verwerfen"
 
 #: kdeui/kstdguiitem.cpp:121
-msgid "Pressing this button will discard all recent changes made in this dialog"
+msgid ""
+"Pressing this button will discard all recent changes made in this dialog"
 msgstr "Dréckt dëse Knäppche fir d'Ännerungen ze verwerfen"
 
 #: kdeui/kstdguiitem.cpp:127
@@ -5817,8 +5859,10 @@ msgid "Change &Icon..."
 msgstr "&Symbol änneren..."
 
 #: kdeui/kedittoolbar.cpp:991
-msgid "This element will be replaced with all the elements of an embedded component."
-msgstr "Dësst Element gëtt duerch all Elementer vun enger agebetter Komponent ersat."
+msgid ""
+"This element will be replaced with all the elements of an embedded component."
+msgstr ""
+"Dësst Element gëtt duerch all Elementer vun enger agebetter Komponent ersat."
 
 #: kdeui/kedittoolbar.cpp:993
 msgid "<Merge>"
@@ -6026,7 +6070,8 @@ msgstr "Passwierder si verschidden"
 
 #: kdeui/kpassdlg.cpp:514
 msgid "You entered two different passwords. Please try again."
-msgstr "Dir hutt zwee verschidde Passwierder agin. Probéiert w.e.g. nach eng Kéier."
+msgstr ""
+"Dir hutt zwee verschidde Passwierder agin. Probéiert w.e.g. nach eng Kéier."
 
 #: kdeui/kpassdlg.cpp:521
 msgid ""
@@ -6142,7 +6187,8 @@ msgid "Submit Bug Report"
 msgstr "E Käfer mellen"
 
 #: kdeui/kbugreport.cpp:110
-msgid "Your email address. If incorrect, use the Configure Email button to change it"
+msgid ""
+"Your email address. If incorrect, use the Configure Email button to change it"
 msgstr ""
 "Är E-Mail-Adress. Wa se falsch ass, dréckt op den \"E-Mail "
 "configuréieren\"-Knäppche fir se z'änneren"
@@ -6455,8 +6501,10 @@ msgid "Tip of the Day"
 msgstr "Rotschlag vum Dag"
 
 #: kdeui/ktip.cpp:224
-msgid "Did you know...?\n"
-msgstr "Wousst dir schonn...?\n"
+msgid ""
+"Did you know...?\n"
+msgstr ""
+"Wousst dir schonn...?\n"
 
 #: kdeui/ktip.cpp:287
 msgid "&Show tips on startup"
@@ -6805,7 +6853,8 @@ msgid "Add URL to Filter"
 msgstr "URL bei de Filter dobäimaachen"
 
 #: khtml/khtml_ext.cpp:823
-msgid "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
+msgid ""
+"A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
 "Eng Datei mam Numm \"%1\" gëtt et schonn. Sidd dir sëcher, dass dir se "
 "iwwerschreiwe wëllt?"
@@ -7326,7 +7375,8 @@ msgstr "JavaScript-&Debugger"
 
 #: khtml/khtml_part.cpp:7374
 msgid "This page was prevented from opening a new window via JavaScript."
-msgstr "Dëss Säit ass dovun ofgehal ginn, mat JavaScript eng nei fënster opzemaachen."
+msgstr ""
+"Dëss Säit ass dovun ofgehal ginn, mat JavaScript eng nei fënster opzemaachen."
 
 #: khtml/khtml_part.cpp:7380
 msgid "Popup Window Blocked"
@@ -7545,7 +7595,8 @@ msgstr "Wëllt dir e Lieszeeche fir \"%1\" an är Sammlung dobäimaachen?"
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
 "added to your collection?"
-msgstr "Wëllt dir e Lieszeeche mam Numm \"%2\" fir \"%1\" an är Sammlung dobäimaachen?"
+msgstr ""
+"Wëllt dir e Lieszeeche mam Numm \"%2\" fir \"%1\" an är Sammlung dobäimaachen?"
 
 #: khtml/ecma/kjs_window.cpp:2537
 msgid "JavaScript Attempted Bookmark Insert"
@@ -7903,12 +7954,16 @@ msgid "Launching %1"
 msgstr "%1 gëtt gestart"
 
 #: kinit/klauncher.cpp:1281
-msgid "Unknown protocol '%1'.\n"
-msgstr "Onbekannte Protokoll '%1'.\n"
+msgid ""
+"Unknown protocol '%1'.\n"
+msgstr ""
+"Onbekannte Protokoll '%1'.\n"
 
 #: kinit/klauncher.cpp:1334
-msgid "Error loading '%1'.\n"
-msgstr "Feeler beim Luede vun '%1'.\n"
+msgid ""
+"Error loading '%1'.\n"
+msgstr ""
+"Feeler beim Luede vun '%1'.\n"
 
 #: kconf_update/kconf_update.cpp:43
 msgid "Keep output results from scripts"
@@ -7940,7 +7995,8 @@ msgstr "KSpell2-Configuratioun"
 
 #: kdewidgets/makekdewidgets.cpp:15
 msgid "Builds Qt widget plugins from an ini style description file."
-msgstr "Baut Qt-Widget-Pluginen aus enger \"ini\"-ähnlecher Beschreiwungsdatei."
+msgstr ""
+"Baut Qt-Widget-Pluginen aus enger \"ini\"-ähnlecher Beschreiwungsdatei."
 
 #: kdewidgets/makekdewidgets.cpp:113
 msgid "Output file"
@@ -7988,7 +8044,8 @@ msgstr ""
 
 #: kunittest/modrunner.cpp:42
 msgid "Only run modules whose filenames match the regexp."
-msgstr "Nëmmen déi Moduler lafe loossen, déi deem reguläre Muster entspriechen."
+msgstr ""
+"Nëmmen déi Moduler lafe loossen, déi deem reguläre Muster entspriechen."
 
 #: kunittest/modrunner.cpp:43
 msgid ""
@@ -7999,7 +8056,8 @@ msgstr ""
 "d'Optioun 'query' fir d'Moduler auszewielen."
 
 #: kunittest/modrunner.cpp:44
-msgid "Disables debug capturing. You typically use this option when you use the GUI."
+msgid ""
+"Disables debug capturing. You typically use this option when you use the GUI."
 msgstr ""
 "Schalt d'Debug-Ausgab aus. Dir benotzt dëss Optioun normalerweis wann dir an "
 "der GUI schafft."
@@ -8157,7 +8215,8 @@ msgstr ""
 "deen dir uewen agin hutt, gesicht.</qt>"
 
 #: kutils/kfinddialog.cpp:247
-msgid "Enter a pattern to search for, or select a previous pattern from the list."
+msgid ""
+"Enter a pattern to search for, or select a previous pattern from the list."
 msgstr ""
 "Gitt w.e.g. e Muster an, no deem gesicht soll ginn, oder wielt ee Muster aus "
 "der Lëscht."
@@ -8446,7 +8505,8 @@ msgstr "(Dëse Plugin kënnt dir net configuréieren)"
 
 #: kutils/kreplacedialog.cpp:137
 msgid "Your replacement string is referencing a capture greater than '\\%1', "
-msgstr "Ären Ersatz-String verweist op eng Fondplaz, déi méi grouss ass wéi '\\%1', "
+msgstr ""
+"Ären Ersatz-String verweist op eng Fondplaz, déi méi grouss ass wéi '\\%1', "
 
 #: kutils/kreplacedialog.cpp:140
 #, c-format
@@ -8616,7 +8676,8 @@ msgstr ""
 
 #: kresources/configpage.cpp:394 kresources/configpage.cpp:413
 msgid "You cannot use a read-only resource as standard!"
-msgstr "Dir kënnt keng Ressource, déi nëmme fir ze liesen ass, als Standard benotzen!"
+msgstr ""
+"Dir kënnt keng Ressource, déi nëmme fir ze liesen ass, als Standard benotzen!"
 
 #: kresources/configpage.cpp:418
 msgid "You cannot use an inactive resource as standard!"
@@ -8779,7 +8840,8 @@ msgstr "Dateifeler"
 
 #: kab/addressbook.cc:498
 msgid "Cannot open backup file for writing (permission denied)."
-msgstr "Konnt d'Sëcherungsdatei net fir d'Schreiwen opmaachen (Zougrëff net erlaabt)."
+msgstr ""
+"Konnt d'Sëcherungsdatei net fir d'Schreiwen opmaachen (Zougrëff net erlaabt)."
 
 #: kab/addressbook.cc:507
 msgid ""
@@ -9165,7 +9227,8 @@ msgstr "Passwuert vum Zertifikat"
 
 #: kcert/kcertpart.cc:496
 msgid "The certificate file could not be loaded. Try a different password?"
-msgstr "D'Zertifikatsdatei konnt net geluede ginn. Ën anert Passwuert probéieren?"
+msgstr ""
+"D'Zertifikatsdatei konnt net geluede ginn. Ën anert Passwuert probéieren?"
 
 #: kcert/kcertpart.cc:496
 msgid "Try Different"
@@ -9530,12 +9593,16 @@ msgid "UNIX Sockets (specific for both current host and current user)"
 msgstr "UNIX-Sockets (déi vum Host a vum Benotzer)"
 
 #: kdecore/kde-config.cpp.in:203
-msgid "%1 - unknown type\n"
-msgstr "%1 - onbekannten Typ\n"
+msgid ""
+"%1 - unknown type\n"
+msgstr ""
+"%1 - onbekannten Typ\n"
 
 #: kdecore/kde-config.cpp.in:228
-msgid "%1 - unknown type of userpath\n"
-msgstr "%1 - onbekannten Typ vum Benotzerwee\n"
+msgid ""
+"%1 - unknown type of userpath\n"
+msgstr ""
+"%1 - onbekannten Typ vum Benotzerwee\n"
 
 #: attic/qtmultilineedit.cpp:2129
 msgid "Undo"
@@ -10844,7 +10911,8 @@ msgstr ""
 msgid ""
 "_: QXml\n"
 "standalone declaration expected while reading the XML declaration"
-msgstr "Beim Liese vun der XML-Deklaratioun ass eng Eenzel-Deklaratioun erwaart ginn"
+msgstr ""
+"Beim Liese vun der XML-Deklaratioun ass eng Eenzel-Deklaratioun erwaart ginn"
 
 #: qxml_clean.cpp:67
 msgid ""
@@ -10880,7 +10948,8 @@ msgstr "Intern allgemeng Entity-Referenz ass net zougelooss am DTD"
 msgid ""
 "_: QXml\n"
 "external parsed general entity reference not allowed in attribute value"
-msgstr "Extern agelies, allgemeng Entity-Referenz ass net zougelooss am Attribut-Wert"
+msgstr ""
+"Extern agelies, allgemeng Entity-Referenz ass net zougelooss am Attribut-Wert"
 
 #: qxml_clean.cpp:73
 msgid ""
@@ -10905,4 +10974,3 @@ msgid ""
 "_: QXml\n"
 "error in the text declaration of an external entity"
 msgstr "Feeler an der Text-Deklaratioun vun enger externer Entity"
-
