@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: katepart\n"
-"POT-Creation-Date: 2006-05-07 03:53+0200\n"
+"POT-Creation-Date: 2006-07-03 03:56+0200\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2783,7 +2783,11 @@ msgstr ""
 msgid "Unknown command '%1'"
 msgstr "Onbekanntent Kommando '%1'"
 
-#: part/katecmds.cpp:537
+#: part/katecmds.cpp:494
+msgid "Sorry, but Kate is not able to replace newlines, yet"
+msgstr ""
+
+#: part/katecmds.cpp:536
 #, c-format
 msgid ""
 "_n: 1 replacement done\n"
