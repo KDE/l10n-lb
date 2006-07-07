@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2006-07-04 03:57+0200\n"
+"POT-Creation-Date: 2006-07-07 03:55+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -8346,7 +8346,7 @@ msgstr "Dir musst ën Text agin, no deem der siche wëllt."
 msgid "Invalid regular expression."
 msgstr "Ongültege regulären Ausdrock."
 
-#: kutils/kcmoduleloader.cpp:97
+#: kutils/kcmoduleloader.cpp:98
 msgid ""
 "<qt>There was an error when loading the module '%1'."
 "<br>"
@@ -8360,30 +8360,30 @@ msgstr ""
 "konnt trotzdem net richteg geluede ginn. Wahrscheinlech ass "
 "d'Factory-Deklaratioun falsch oder d'Funktioun create_* feelt.</qt>"
 
-#: kutils/kcmoduleloader.cpp:110
+#: kutils/kcmoduleloader.cpp:111
 msgid "The specified library %1 could not be found."
 msgstr "Déi spezifizéiert Bibliothéik %1 ass net fonnt ginn."
 
-#: kutils/kcmoduleloader.cpp:131
+#: kutils/kcmoduleloader.cpp:132
 msgid "The module %1 could not be found."
 msgstr "De Modul %1 ass net fonnt ginn."
 
-#: kutils/kcmoduleloader.cpp:132
+#: kutils/kcmoduleloader.cpp:133
 msgid ""
 "<qt>"
 "<p>The diagnostics is:"
 "<br>The desktop file %1 could not be found.</qt>"
 msgstr "<qt><p>D'Diagnos ass:<br>D'Bürosdatei %1 konnt net fonnt ginn.</qt>"
 
-#: kutils/kcmoduleloader.cpp:151
+#: kutils/kcmoduleloader.cpp:152
 msgid "The module %1 could not be loaded."
 msgstr "De Modul %1 konnt net geluede ginn."
 
-#: kutils/kcmoduleloader.cpp:170
+#: kutils/kcmoduleloader.cpp:171
 msgid "The module %1 is not a valid configuration module."
 msgstr "De Modul %1 ass kee gültege Configuratiounsmodul."
 
-#: kutils/kcmoduleloader.cpp:171
+#: kutils/kcmoduleloader.cpp:172
 msgid ""
 "<qt>"
 "<p>The diagnostics is:"
@@ -8393,11 +8393,11 @@ msgstr ""
 "<p>D'Diagnos ass:"
 "<br>D'Bürosdatei %1 gëtt keng Bibliothéik un.</qt>"
 
-#: kutils/kcmoduleloader.cpp:205
+#: kutils/kcmoduleloader.cpp:206
 msgid "There was an error loading the module."
 msgstr "Et ass e Feeler beim Luede vum Modul opgetrueden."
 
-#: kutils/kcmoduleloader.cpp:205 kutils/kcmoduleloader.cpp:273
+#: kutils/kcmoduleloader.cpp:206 kutils/kcmoduleloader.cpp:274
 msgid ""
 "<qt>"
 "<p>The diagnostics is:"
