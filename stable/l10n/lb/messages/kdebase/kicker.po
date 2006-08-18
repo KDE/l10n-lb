@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kicker\n"
-"POT-Creation-Date: 2006-03-25 03:54+0100\n"
+"POT-Creation-Date: 2006-08-18 04:04+0200\n"
 "PO-Revision-Date: 2005-12-21 12:15+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -175,7 +175,7 @@ msgstr "Leeschten ent&spären"
 msgid "Add Applet"
 msgstr "Miniprogramm dobäimaachen"
 
-#: ui/addappletvisualfeedback.cpp:59
+#: ui/addappletvisualfeedback.cpp:60
 msgid "%1 Added"
 msgstr "%1 dobäigemaach"
 
