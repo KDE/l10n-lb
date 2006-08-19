@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kicker\n"
-"POT-Creation-Date: 2006-08-18 04:04+0200\n"
+"POT-Creation-Date: 2006-08-19 04:05+0200\n"
 "PO-Revision-Date: 2005-12-21 12:15+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -107,23 +107,23 @@ msgstr "Opklapp-Start-Menü"
 msgid "Toggle Showing Desktop"
 msgstr "Büro weisen un/aus"
 
-#: core/main.cpp:46
+#: core/main.cpp:47
 msgid "The KDE panel"
 msgstr "D'KDE-Leescht"
 
-#: core/main.cpp:107
+#: core/main.cpp:110
 msgid "KDE Panel"
 msgstr "KDE-Leescht"
 
-#: core/main.cpp:109
+#: core/main.cpp:112
 msgid "(c) 1999-2004, The KDE Team"
 msgstr "(c) 1999-2004, D'Team vu KDE"
 
-#: core/main.cpp:111
+#: core/main.cpp:114
 msgid "Current maintainer"
 msgstr "Persoun, déi sëch aktuell drëm këmmert"
 
-#: core/main.cpp:119
+#: core/main.cpp:122
 msgid "Kiosk mode"
 msgstr "Kiosk-Modus"
 
@@ -171,7 +171,7 @@ msgstr "Leescht &configuréieren..."
 msgid "Un&lock Panels"
 msgstr "Leeschten ent&spären"
 
-#: ui/addapplet.cpp:227
+#: ui/addapplet.cpp:231
 msgid "Add Applet"
 msgstr "Miniprogramm dobäimaachen"
 
