@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: katepart\n"
-"POT-Creation-Date: 2006-07-11 03:21+0200\n"
+"POT-Creation-Date: 2006-08-21 04:00+0200\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -738,7 +738,7 @@ msgstr ""
 msgid "Close Nevertheless"
 msgstr "Trozdem zoumaachen"
 
-#: part/katedocument.cpp:4253 part/katedocument.cpp:4935 part/kateview.cpp:860
+#: part/katedocument.cpp:4253 part/katedocument.cpp:4986 part/kateview.cpp:860
 msgid "Save File"
 msgstr "Datei späicheren"
 
@@ -762,30 +762,30 @@ msgstr "Datei nei l&ueden"
 msgid "&Ignore Changes"
 msgstr "Ännerungen &ignoréieren"
 
-#: part/katedocument.cpp:4852
+#: part/katedocument.cpp:4903
 msgid "The file '%1' was modified by another program."
 msgstr "D'Datei '%1' gouf vun engem anere Programm verännert."
 
-#: part/katedocument.cpp:4855
+#: part/katedocument.cpp:4906
 msgid "The file '%1' was created by another program."
 msgstr "D'Datei '%1' gouf vun engem anere Programm erstallt."
 
-#: part/katedocument.cpp:4858
+#: part/katedocument.cpp:4909
 msgid "The file '%1' was deleted by another program."
 msgstr "D'Datei '%1' gouf vun engem anere Programm geläscht."
 
-#: part/katedocument.cpp:4963 part/kateview.cpp:887
+#: part/katedocument.cpp:5014 part/kateview.cpp:887
 msgid ""
 "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
 "Eng Datei mam Numm \"%1\" gëtt et schonns. Sidd dir sëcher, dass dir se "
 "iwwerschreiwe wëllt ?"
 
-#: part/katedocument.cpp:4965 part/kateview.cpp:888
+#: part/katedocument.cpp:5016 part/kateview.cpp:888
 msgid "Overwrite File?"
 msgstr "Datei iwwerschreiwen ?"
 
-#: part/katedocument.cpp:4966 part/kateview.cpp:889
+#: part/katedocument.cpp:5017 part/kateview.cpp:889
 msgid "&Overwrite"
 msgstr "Iwwerschrei&wen"
 
