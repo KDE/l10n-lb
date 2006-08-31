@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2006-08-30 02:32+0200\n"
+"POT-Creation-Date: 2006-08-31 02:31+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -6748,11 +6748,13 @@ msgid "&Copy Text"
 msgstr "Text &kopéieren"
 
 #: khtml/khtml_ext.cpp:475
-msgid "Search '%1' at %2"
+#, fuzzy
+msgid "Search for '%1' with %2"
 msgstr "No '%1' an %2 sichen"
 
 #: khtml/khtml_ext.cpp:484
-msgid "Search '%1' At"
+#, fuzzy
+msgid "Search for '%1' with"
 msgstr "No '%1' siche bei"
 
 #: khtml/khtml_ext.cpp:513

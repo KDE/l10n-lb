@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kicker\n"
-"POT-Creation-Date: 2006-08-29 02:34+0200\n"
+"POT-Creation-Date: 2006-08-31 02:33+0200\n"
 "PO-Revision-Date: 2005-12-21 12:15+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -448,31 +448,31 @@ msgstr "Dëse Menu dobäimaachen"
 msgid "Add Non-KDE Application"
 msgstr "KDE-frieme Programm dobäimaachen"
 
-#: ui/service_mnu.cpp:480
+#: ui/service_mnu.cpp:488
 msgid "Add Item to Desktop"
 msgstr "Element op de Büro dobäimaachen"
 
-#: ui/service_mnu.cpp:486
+#: ui/service_mnu.cpp:494
 msgid "Add Item to Main Panel"
 msgstr "Element an d'Haaptleescht dobäimaachen"
 
-#: ui/service_mnu.cpp:492
+#: ui/service_mnu.cpp:500
 msgid "Edit Item"
 msgstr "Element veränneren"
 
-#: ui/service_mnu.cpp:498
+#: ui/service_mnu.cpp:506
 msgid "Put Into Run Dialog"
 msgstr "Bei \"Kommandozeil ausféieren\" maachen"
 
-#: ui/service_mnu.cpp:507
+#: ui/service_mnu.cpp:515
 msgid "Add Menu to Desktop"
 msgstr "Menü op de Büro dobäimaachen"
 
-#: ui/service_mnu.cpp:513
+#: ui/service_mnu.cpp:521
 msgid "Add Menu to Main Panel"
 msgstr "Menü op d'Haaptleescht dobäimaachen"
 
-#: ui/service_mnu.cpp:519
+#: ui/service_mnu.cpp:527
 msgid "Edit Menu"
 msgstr "Menu veränneren"
 
