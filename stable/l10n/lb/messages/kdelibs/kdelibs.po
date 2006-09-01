@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2006-08-31 02:31+0200\n"
+"POT-Creation-Date: 2006-09-01 02:32+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1076,7 +1076,7 @@ msgstr "Sichen..."
 msgid "Stop"
 msgstr "Stop"
 
-#: common_texts.cpp:138 kdeui/keditlistbox.cpp:135
+#: common_texts.cpp:138 kdeui/keditlistbox.cpp:136
 #: kresources/configpage.cpp:127
 msgid "&Remove"
 msgstr "&Ewechmaachen"
@@ -4498,7 +4498,7 @@ msgstr "Net Ausfëllen"
 msgid "The file '%1' already exists. Do you want to overwrite it?"
 msgstr "D'Datei '%1' gëtt et schonn. Soll se iwwerschriwwe ginn?"
 
-#: khtml/khtml_ext.cpp:823 knewstuff/knewstuffgeneric.cpp:135
+#: khtml/khtml_ext.cpp:827 knewstuff/knewstuffgeneric.cpp:135
 msgid "Overwrite"
 msgstr "Iwwerschreiwen"
 
@@ -6170,15 +6170,15 @@ msgstr "&Detailer"
 msgid "Get help..."
 msgstr "Hëllef ufroen..."
 
-#: kdeui/keditlistbox.cpp:123
+#: kdeui/keditlistbox.cpp:124
 msgid "&Add"
 msgstr "&Dobäimaachen"
 
-#: kdeui/keditlistbox.cpp:147
+#: kdeui/keditlistbox.cpp:148
 msgid "Move &Up"
 msgstr "Er&opréckelen"
 
-#: kdeui/keditlistbox.cpp:152
+#: kdeui/keditlistbox.cpp:153
 msgid "Move &Down"
 msgstr "&Erofréckelen"
 
@@ -6743,133 +6743,133 @@ msgstr "Bild - %1x%2 Pixelen"
 msgid "Done."
 msgstr "Fäerdeg."
 
-#: khtml/khtml_ext.cpp:431
+#: khtml/khtml_ext.cpp:434
 msgid "&Copy Text"
 msgstr "Text &kopéieren"
 
-#: khtml/khtml_ext.cpp:475
+#: khtml/khtml_ext.cpp:479
 #, fuzzy
 msgid "Search for '%1' with %2"
 msgstr "No '%1' an %2 sichen"
 
-#: khtml/khtml_ext.cpp:484
+#: khtml/khtml_ext.cpp:488
 #, fuzzy
 msgid "Search for '%1' with"
 msgstr "No '%1' siche bei"
 
-#: khtml/khtml_ext.cpp:513
+#: khtml/khtml_ext.cpp:517
 msgid "Open '%1'"
 msgstr "'%1' opmaachen"
 
-#: khtml/khtml_ext.cpp:520 khtml/khtml_ext.cpp:577
+#: khtml/khtml_ext.cpp:524 khtml/khtml_ext.cpp:581
 msgid "Stop Animations"
 msgstr "Animatiounen unhalen"
 
-#: khtml/khtml_ext.cpp:528
+#: khtml/khtml_ext.cpp:532
 msgid "Copy Email Address"
 msgstr "E-Mail-Adress kopéieren"
 
-#: khtml/khtml_ext.cpp:533
+#: khtml/khtml_ext.cpp:537
 msgid "&Save Link As..."
 msgstr "Link &späicheren als..."
 
-#: khtml/khtml_ext.cpp:535
+#: khtml/khtml_ext.cpp:539
 msgid "Copy &Link Address"
 msgstr "Adress vum &Link kopéieren"
 
-#: khtml/khtml_ext.cpp:545
+#: khtml/khtml_ext.cpp:549
 msgid "Open in New &Window"
 msgstr "An enger neier &Fënster opmaachen"
 
-#: khtml/khtml_ext.cpp:547
+#: khtml/khtml_ext.cpp:551
 msgid "Open in &This Window"
 msgstr "An &dëser Fënster opmaachen"
 
-#: khtml/khtml_ext.cpp:549
+#: khtml/khtml_ext.cpp:553
 msgid "Open in &New Tab"
 msgstr "An engem neien &Tab opmaachen"
 
-#: khtml/khtml_ext.cpp:551
+#: khtml/khtml_ext.cpp:555
 msgid "Reload Frame"
 msgstr "Frame nei lueden"
 
-#: khtml/khtml_ext.cpp:556
+#: khtml/khtml_ext.cpp:560
 msgid "Block IFrame..."
 msgstr "IFrame blockéieren..."
 
-#: khtml/khtml_ext.cpp:559 khtml/khtml_part.cpp:256
+#: khtml/khtml_ext.cpp:563 khtml/khtml_part.cpp:256
 msgid "View Frame Source"
 msgstr "Quell vum Frame kucken"
 
-#: khtml/khtml_ext.cpp:561
+#: khtml/khtml_ext.cpp:565
 msgid "View Frame Information"
 msgstr "Frame-Informatioun kucken"
 
-#: khtml/khtml_ext.cpp:565 khtml/khtml_part.cpp:404
+#: khtml/khtml_ext.cpp:569 khtml/khtml_part.cpp:404
 msgid "Print Frame..."
 msgstr "Frame drécken..."
 
-#: khtml/khtml_ext.cpp:566 khtml/khtml_part.cpp:262
+#: khtml/khtml_ext.cpp:570 khtml/khtml_part.cpp:262
 msgid "Save &Frame As..."
 msgstr "&Frame späicheren als..."
 
-#: khtml/khtml_ext.cpp:596
+#: khtml/khtml_ext.cpp:600
 msgid "Save Image As..."
 msgstr "Bild späicheren als..."
 
-#: khtml/khtml_ext.cpp:598
+#: khtml/khtml_ext.cpp:602
 msgid "Send Image..."
 msgstr "Bild verschécken..."
 
-#: khtml/khtml_ext.cpp:603
+#: khtml/khtml_ext.cpp:607
 msgid "Copy Image"
 msgstr "Bild kopéieren"
 
-#: khtml/khtml_ext.cpp:608
+#: khtml/khtml_ext.cpp:612
 msgid "Copy Image Location"
 msgstr "Adress vum Bild kopéieren"
 
-#: khtml/khtml_ext.cpp:613
+#: khtml/khtml_ext.cpp:617
 msgid "View Image (%1)"
 msgstr "Bild kucken (%1)"
 
-#: khtml/khtml_ext.cpp:618
+#: khtml/khtml_ext.cpp:622
 msgid "Block Image..."
 msgstr "Bild blockéieren..."
 
-#: khtml/khtml_ext.cpp:624
+#: khtml/khtml_ext.cpp:628
 #, c-format
 msgid "Block Images From %1"
 msgstr "Biller vun %1 blockéieren"
 
-#: khtml/khtml_ext.cpp:648
+#: khtml/khtml_ext.cpp:652
 msgid "Save Link As"
 msgstr "Link späicheren als"
 
-#: khtml/khtml_ext.cpp:668
+#: khtml/khtml_ext.cpp:672
 msgid "Save Image As"
 msgstr "Bild späicheren als"
 
-#: khtml/khtml_ext.cpp:682 khtml/khtml_ext.cpp:695
+#: khtml/khtml_ext.cpp:686 khtml/khtml_ext.cpp:699
 msgid "Add URL to Filter"
 msgstr "URL bei de Filter dobäimaachen"
 
-#: khtml/khtml_ext.cpp:823
+#: khtml/khtml_ext.cpp:827
 msgid ""
 "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
 "Eng Datei mam Numm \"%1\" gëtt et schonn. Sidd dir sëcher, dass dir se "
 "iwwerschreiwe wëllt?"
 
-#: khtml/khtml_ext.cpp:823
+#: khtml/khtml_ext.cpp:827
 msgid "Overwrite File?"
 msgstr "Datei iwwerschreiwen?"
 
-#: khtml/khtml_ext.cpp:884 kparts/browserrun.cpp:390
+#: khtml/khtml_ext.cpp:888 kparts/browserrun.cpp:390
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "Den Download-Manager (%1) konnt an ärem PATH net fonnt ginn "
 
-#: khtml/khtml_ext.cpp:885 kparts/browserrun.cpp:391
+#: khtml/khtml_ext.cpp:889 kparts/browserrun.cpp:391
 msgid ""
 "Try to reinstall it  \n"
 "\n"
@@ -6879,12 +6879,12 @@ msgstr ""
 "\n"
 "D'Integratioun an de Konqueror gëtt ofgeschalt!"
 
-#: khtml/khtml_ext.cpp:978
+#: khtml/khtml_ext.cpp:982
 #, no-c-format
 msgid "Default Font Size (100%)"
 msgstr "Standard-Schrëftgréisst (100%)"
 
-#: khtml/khtml_ext.cpp:991
+#: khtml/khtml_ext.cpp:995
 #, no-c-format
 msgid "%1%"
 msgstr "%1%"
@@ -7886,7 +7886,7 @@ msgstr "Eroflueden"
 msgid "Do Not Download"
 msgstr "Net eroflueden"
 
-#: kinit/kinit.cpp:442
+#: kinit/kinit.cpp:474
 msgid ""
 "Unable to start new process.\n"
 "The system may have reached the maximum number of open files possible or the "
@@ -7896,7 +7896,7 @@ msgstr ""
 "Déi maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn oder déi vun iech "
 "agestallte maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn."
 
-#: kinit/kinit.cpp:464
+#: kinit/kinit.cpp:496
 msgid ""
 "Unable to create new process.\n"
 "The system may have reached the maximum number of processes possible or the "
@@ -7906,11 +7906,11 @@ msgstr ""
 "Déi maximal Unzuel vu Prozesser kéint erreecht sinn oder déi vun iech "
 "agestallte maximal Unzuel vu Prozesser kéint erreecht sinn."
 
-#: kinit/kinit.cpp:555
+#: kinit/kinit.cpp:588
 msgid "Could not find '%1' executable."
 msgstr "Konnt de Programm '%1' net fannen."
 
-#: kinit/kinit.cpp:571
+#: kinit/kinit.cpp:604
 msgid ""
 "Could not open library '%1'.\n"
 "%2"
@@ -7918,11 +7918,11 @@ msgstr ""
 "Konnt d'Bibliothéik '%1' net opmaachen.\n"
 "%2"
 
-#: kinit/kinit.cpp:572 kinit/kinit.cpp:615
+#: kinit/kinit.cpp:605 kinit/kinit.cpp:648
 msgid "Unknown error"
 msgstr "Onbekannte Feeler"
 
-#: kinit/kinit.cpp:614
+#: kinit/kinit.cpp:647
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
 "%2"
