@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2006-09-03 02:33+0200\n"
+"POT-Creation-Date: 2006-09-04 02:31+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -7886,7 +7886,7 @@ msgstr "Eroflueden"
 msgid "Do Not Download"
 msgstr "Net eroflueden"
 
-#: kinit/kinit.cpp:474
+#: kinit/kinit.cpp:475
 msgid ""
 "Unable to start new process.\n"
 "The system may have reached the maximum number of open files possible or the "
@@ -7896,7 +7896,7 @@ msgstr ""
 "Déi maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn oder déi vun iech "
 "agestallte maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn."
 
-#: kinit/kinit.cpp:496
+#: kinit/kinit.cpp:497
 msgid ""
 "Unable to create new process.\n"
 "The system may have reached the maximum number of processes possible or the "
@@ -7906,11 +7906,11 @@ msgstr ""
 "Déi maximal Unzuel vu Prozesser kéint erreecht sinn oder déi vun iech "
 "agestallte maximal Unzuel vu Prozesser kéint erreecht sinn."
 
-#: kinit/kinit.cpp:588
+#: kinit/kinit.cpp:589
 msgid "Could not find '%1' executable."
 msgstr "Konnt de Programm '%1' net fannen."
 
-#: kinit/kinit.cpp:604
+#: kinit/kinit.cpp:605
 msgid ""
 "Could not open library '%1'.\n"
 "%2"
@@ -7918,11 +7918,11 @@ msgstr ""
 "Konnt d'Bibliothéik '%1' net opmaachen.\n"
 "%2"
 
-#: kinit/kinit.cpp:605 kinit/kinit.cpp:648
+#: kinit/kinit.cpp:606 kinit/kinit.cpp:649
 msgid "Unknown error"
 msgstr "Onbekannte Feeler"
 
-#: kinit/kinit.cpp:647
+#: kinit/kinit.cpp:648
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
 "%2"
