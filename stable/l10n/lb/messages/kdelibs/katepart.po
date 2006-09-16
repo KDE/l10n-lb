@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: katepart\n"
-"POT-Creation-Date: 2006-09-04 02:31+0200\n"
+"POT-Creation-Date: 2006-09-16 02:32+0200\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -738,54 +738,54 @@ msgstr ""
 msgid "Close Nevertheless"
 msgstr "Trozdem zoumaachen"
 
-#: part/katedocument.cpp:4254 part/katedocument.cpp:4987 part/kateview.cpp:860
+#: part/katedocument.cpp:4256 part/katedocument.cpp:4989 part/kateview.cpp:860
 msgid "Save File"
 msgstr "Datei späicheren"
 
-#: part/katedocument.cpp:4263
+#: part/katedocument.cpp:4265
 msgid "Save failed"
 msgstr "Späicheren ass feelgeschloen"
 
-#: part/katedialogs.cpp:1615 part/katedocument.cpp:4325
+#: part/katedialogs.cpp:1615 part/katedocument.cpp:4327
 msgid "What do you want to do?"
 msgstr "Wat wëllt dir maachen ?"
 
-#: part/katedocument.cpp:4326
+#: part/katedocument.cpp:4328
 msgid "File Was Changed on Disk"
 msgstr "Datei gouf um Dateisystem verännert"
 
-#: part/katedialogs.cpp:1593 part/katedocument.cpp:4326
+#: part/katedialogs.cpp:1593 part/katedocument.cpp:4328
 msgid "&Reload File"
 msgstr "Datei nei l&ueden"
 
-#: part/katedocument.cpp:4326
+#: part/katedocument.cpp:4328
 msgid "&Ignore Changes"
 msgstr "Ännerungen &ignoréieren"
 
-#: part/katedocument.cpp:4904
+#: part/katedocument.cpp:4906
 msgid "The file '%1' was modified by another program."
 msgstr "D'Datei '%1' gouf vun engem anere Programm verännert."
 
-#: part/katedocument.cpp:4907
+#: part/katedocument.cpp:4909
 msgid "The file '%1' was created by another program."
 msgstr "D'Datei '%1' gouf vun engem anere Programm erstallt."
 
-#: part/katedocument.cpp:4910
+#: part/katedocument.cpp:4912
 msgid "The file '%1' was deleted by another program."
 msgstr "D'Datei '%1' gouf vun engem anere Programm geläscht."
 
-#: part/katedocument.cpp:5015 part/kateview.cpp:887
+#: part/katedocument.cpp:5017 part/kateview.cpp:887
 msgid ""
 "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
 "Eng Datei mam Numm \"%1\" gëtt et schonns. Sidd dir sëcher, dass dir se "
 "iwwerschreiwe wëllt ?"
 
-#: part/katedocument.cpp:5017 part/kateview.cpp:888
+#: part/katedocument.cpp:5019 part/kateview.cpp:888
 msgid "Overwrite File?"
 msgstr "Datei iwwerschreiwen ?"
 
-#: part/katedocument.cpp:5018 part/kateview.cpp:889
+#: part/katedocument.cpp:5020 part/kateview.cpp:889
 msgid "&Overwrite"
 msgstr "Iwwerschrei&wen"
 
@@ -2007,14 +2007,14 @@ msgstr ""
 msgid "Error Creating Diff"
 msgstr "Feeler beim Erstelle vum Diff"
 
-#: part/katedialogs.cpp:1714
+#: part/katedialogs.cpp:1716
 msgid ""
 "Ignoring means that you will not be warned again (unless the disk file changes "
 "once more): if you save the document, you will overwrite the file on disk; if "
 "you do not save then the disk file (if present) is what you have."
 msgstr ""
 
-#: part/katedialogs.cpp:1718
+#: part/katedialogs.cpp:1720
 msgid "You Are on Your Own"
 msgstr "Dir sidd op iech alleng gestallt"
 
