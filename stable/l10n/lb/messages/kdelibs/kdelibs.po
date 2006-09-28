@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2006-09-26 02:30+0200\n"
+"POT-Creation-Date: 2006-09-28 02:32+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -3156,23 +3156,23 @@ msgstr "%1 Port %2"
 msgid "<empty UNIX socket>"
 msgstr "<empty UNIX socket>"
 
-#: kdecore/kcheckaccelerators.cpp:150
+#: kdecore/kcheckaccelerators.cpp:148
 msgid "Dr. Klash' Accelerator Diagnosis"
 msgstr "Dem Dr. Klash seng Diagnos iwwer Kierzelen"
 
-#: kdecore/kcheckaccelerators.cpp:157
+#: kdecore/kcheckaccelerators.cpp:155
 msgid "&Disable automatic checking"
 msgstr "Automatësch Kontroll &ofschalten"
 
-#: kdecore/kcheckaccelerators.cpp:195
+#: kdecore/kcheckaccelerators.cpp:193
 msgid "<h2>Accelerators changed</h2>"
 msgstr "<h2>Kuerzbefehler geännert</h2>"
 
-#: kdecore/kcheckaccelerators.cpp:201
+#: kdecore/kcheckaccelerators.cpp:199
 msgid "<h2>Accelerators removed</h2>"
 msgstr "<h2>Kuerzbefehler ewechgeholl</h2>"
 
-#: kdecore/kcheckaccelerators.cpp:206
+#: kdecore/kcheckaccelerators.cpp:204
 msgid "<h2>Accelerators added (just for your info)</h2>"
 msgstr "<h2>Kuerzbefehler dobäigemaach (nëmme fir bescheed ze soen)</h2>"
 
