@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-08-23 00:46+0000\n"
+"POT-Creation-Date: 2006-09-30 00:47+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -37,7 +37,7 @@ msgstr "Comment=Instant Messenger mat engem DCOP-Interface"
 msgid "Name=Instant Messenger"
 msgstr "Name=Instant Messenger"
 
-#: interfaces/kimproxy/interface/kcm_instantmessenger.desktop:53
+#: interfaces/kimproxy/interface/kcm_instantmessenger.desktop:54
 msgid ""
 "Comment=The instant messenger allows two-way chat between individuals and "
 "groups."
@@ -1454,19 +1454,19 @@ msgid "Comment=The downloaded proxy configuration script is invalid"
 msgstr ""
 "Comment=D'Proxy-Configuratiounsskript, dat erofgelude gouf, ass ongülteg"
 
-#: kio/misc/kpac/eventsrc:206
+#: kio/misc/kpac/eventsrc:207
 msgid "Name=Script download error"
 msgstr "Name=Feeler beim Erofluede vum Skript"
 
-#: kio/misc/kpac/eventsrc:274
+#: kio/misc/kpac/eventsrc:275
 msgid "Comment=The proxy configuration script could not be downloaded"
 msgstr "Comment=D'Proxy-Konfiguratiounsskript konnt net erofgeluede ginn"
 
-#: kio/misc/kpac/eventsrc:342
+#: kio/misc/kpac/eventsrc:344
 msgid "Name=Script evaluation error"
 msgstr "Name=Feeler beim Evaluéieren vum Skript"
 
-#: kio/misc/kpac/eventsrc:407
+#: kio/misc/kpac/eventsrc:409
 msgid "Comment=There was an error executing the proxy configuration script"
 msgstr ""
 "Comment=Et gouf e Feeler beim Ausféiere vum Proxy-Konfiguratiounsskript"
