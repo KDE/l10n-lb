@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kfileaudiopreview\n"
-"POT-Creation-Date: 2005-05-18 21:23+0200\n"
+"POT-Creation-Date: 2006-10-03 02:33+0200\n"
 "PO-Revision-Date: 2005-12-10 21:24+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -12,10 +12,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11\n"
 
-#: kfileaudiopreview.cpp:65
+#: kfileaudiopreview.cpp:67
 msgid "Media Player"
 msgstr "Medienofspiller"
 
-#: kfileaudiopreview.cpp:91
+#: kfileaudiopreview.cpp:93
 msgid "Play &automatically"
 msgstr "&Automatesch ofspillen"
