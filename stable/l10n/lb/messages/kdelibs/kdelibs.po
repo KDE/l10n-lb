@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2006-10-03 02:33+0200\n"
+"POT-Creation-Date: 2006-10-15 02:34+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -7456,19 +7456,19 @@ msgstr "KHTML"
 msgid "Embeddable HTML component"
 msgstr "Abettungsfäheg HTML-Komponent"
 
-#: khtml/xml/xml_tokenizer.cpp:314
+#: khtml/xml/xml_tokenizer.cpp:312
 msgid "the document is not in the correct file format"
 msgstr "den Dokument ass am falschen Dateiformat"
 
-#: khtml/xml/xml_tokenizer.cpp:320
+#: khtml/xml/xml_tokenizer.cpp:318
 msgid "fatal parsing error: %1 in line %2, column %3"
 msgstr "fatale Parsing-Feeler: %1, Zeil %2, Kolonn %3"
 
-#: khtml/xml/xml_tokenizer.cpp:481
+#: khtml/xml/xml_tokenizer.cpp:477
 msgid "XML parsing error"
 msgstr "XML Parsing-Feeler"
 
-#: khtml/xml/dom_docimpl.cpp:2011
+#: khtml/xml/dom_docimpl.cpp:2069
 msgid "Basic Page Style"
 msgstr "Grondstil"
 
@@ -7646,7 +7646,7 @@ msgstr ""
 "<p>%1</p> an enger neier Fënster opmëcht."
 "<br/>Wëllt dir dat zouloossen?</qt>"
 
-#: khtml/html/htmlparser.cpp:1706
+#: khtml/html/htmlparser.cpp:1702
 msgid "This is a searchable index. Enter search keywords: "
 msgstr "Dësem Index kënnt dir duerchsichen. Gitt Stëchwierder an: "
 
