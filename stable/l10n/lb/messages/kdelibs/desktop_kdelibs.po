@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-10-02 00:47+0000\n"
+"POT-Creation-Date: 2006-10-21 00:48+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1247,11 +1247,11 @@ msgstr "Name=PDF-Datei mailen"
 msgid "Comment=KSendFax"
 msgstr "Comment=KSendFax"
 
-#: kdeprint/specials.desktop:950
+#: kdeprint/specials.desktop:949
 msgid "Description=Use ksendfax to fax the current document"
 msgstr "Description=Benotzt de ksendfax fir dat aktuellt Dokument ze faxen"
 
-#: kdeprint/specials.desktop:1027
+#: kdeprint/specials.desktop:1026
 msgid "Name=Advanced Faxing Tool (ksendfax)"
 msgstr "Name=Erweiderte Faxprogramm (ksendfax)"
 
