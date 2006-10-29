@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2006-10-28 03:20+0200\n"
+"POT-Creation-Date: 2006-10-29 02:34+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -5838,7 +5838,7 @@ msgid "Reset Toolbars"
 msgstr "Toolbaren zerécksetzen"
 
 #: kdeui/kedittoolbar.cpp:447 khtml/html/html_formimpl.cpp:2113
-#: khtml/khtmlview.cpp:2488 khtml/khtmlview.cpp:2521
+#: khtml/khtmlview.cpp:2497 khtml/khtmlview.cpp:2530
 msgid "Reset"
 msgstr "Zerécksetzen"
 
@@ -7327,7 +7327,7 @@ msgstr ""
 "ginn.<BR>Wëllt dir de Formular ofsenden?"
 
 #: khtml/html/html_formimpl.cpp:1527 khtml/html/html_formimpl.cpp:2121
-#: khtml/khtml_part.cpp:4815 khtml/khtmlview.cpp:2474 khtml/khtmlview.cpp:2516
+#: khtml/khtml_part.cpp:4815 khtml/khtmlview.cpp:2483 khtml/khtmlview.cpp:2525
 msgid "Submit"
 msgstr "Verschécken"
 
@@ -7443,7 +7443,7 @@ msgstr "Text net fonnt: \"%1\"."
 msgid "Access Keys activated"
 msgstr "Kuerztasten ugeschalt"
 
-#: khtml/khtmlview.cpp:2703
+#: khtml/khtmlview.cpp:2712
 #, c-format
 msgid "Print %1"
 msgstr "%1 drécken"
