@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: katepart\n"
-"POT-Creation-Date: 2006-10-31 02:33+0100\n"
+"POT-Creation-Date: 2006-11-03 02:33+0100\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -3456,7 +3456,7 @@ msgid ""
 "Perl"
 msgstr "Perl"
 
-#. i18n: file data/php.xml line 9
+#. i18n: file data/php.xml line 21
 #: rc.cpp:368
 msgid ""
 "_: Language\n"
