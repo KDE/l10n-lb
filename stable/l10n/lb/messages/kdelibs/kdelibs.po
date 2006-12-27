@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2006-12-24 02:35+0100\n"
+"POT-Creation-Date: 2006-12-27 02:35+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -6033,23 +6033,23 @@ msgstr ""
 "<p>Verstoppt d'Statusbar. Dat ass déi Leescht ënnen an der Fënster fir "
 "d'Statusinformatiounen."
 
-#: kdeui/kpassdlg.cpp:371
+#: kdeui/kpassdlg.cpp:372
 msgid "&Password:"
 msgstr "&Passwuert:"
 
-#: kdeui/kpassdlg.cpp:390
+#: kdeui/kpassdlg.cpp:391
 msgid "&Keep password"
 msgstr "Passwuert &bäibehalen"
 
-#: kdeui/kpassdlg.cpp:402
+#: kdeui/kpassdlg.cpp:403
 msgid "&Verify:"
 msgstr "&Nokucken:"
 
-#: kdeui/kpassdlg.cpp:424
+#: kdeui/kpassdlg.cpp:425
 msgid "Password strength meter:"
 msgstr "Passwuert-Sëcherheetsmeter:"
 
-#: kdeui/kpassdlg.cpp:428
+#: kdeui/kpassdlg.cpp:429
 msgid ""
 "The password strength meter gives an indication of the security of the password "
 "you have entered.  To improve the strength of the password, try:\n"
@@ -6064,16 +6064,16 @@ msgstr ""
 " - eng Mëschung aus grouss- a klenggeschriwwene Bustawen;\n"
 " - eng Mëschung aus Zuelen oder Zeechen (z.B. #) a Bustawen."
 
-#: kdeui/kpassdlg.cpp:444 kdeui/kpassdlg.cpp:616
+#: kdeui/kpassdlg.cpp:445 kdeui/kpassdlg.cpp:617
 msgid "Passwords do not match"
 msgstr "Passwierder si verschidden"
 
-#: kdeui/kpassdlg.cpp:514
+#: kdeui/kpassdlg.cpp:515
 msgid "You entered two different passwords. Please try again."
 msgstr ""
 "Dir hutt zwee verschidde Passwierder agin. Probéiert w.e.g. nach eng Kéier."
 
-#: kdeui/kpassdlg.cpp:521
+#: kdeui/kpassdlg.cpp:522
 msgid ""
 "The password you have entered has a low strength. To improve the strength of "
 "the password, try:\n"
@@ -6091,15 +6091,15 @@ msgstr ""
 "\n"
 "Wëllt dir dësst Passwuert trotzdem bäibehalen?"
 
-#: kdeui/kpassdlg.cpp:529
+#: kdeui/kpassdlg.cpp:530
 msgid "Low Password Strength"
 msgstr "Niddereg Passwuert-Sëcherheet"
 
-#: kdeui/kpassdlg.cpp:610
+#: kdeui/kpassdlg.cpp:611
 msgid "Password is empty"
 msgstr "D'Passwuert ass eidel"
 
-#: kdeui/kpassdlg.cpp:613
+#: kdeui/kpassdlg.cpp:614
 #, c-format
 msgid ""
 "_n: Password must be at least 1 character long\n"
@@ -6108,7 +6108,7 @@ msgstr ""
 "D'Passwuert muss mindestens aus engem Zeeche bestoën\n"
 "D'Passwuert muss mindestens %n Zeeche laang sinn"
 
-#: kdeui/kpassdlg.cpp:615
+#: kdeui/kpassdlg.cpp:616
 msgid "Passwords match"
 msgstr "Selwëcht Passwierder"
 
