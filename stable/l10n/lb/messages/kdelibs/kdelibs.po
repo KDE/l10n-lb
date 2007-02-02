@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2007-01-30 02:36+0100\n"
+"POT-Creation-Date: 2007-02-02 02:28+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -3004,7 +3004,7 @@ msgid ""
 msgstr ""
 "De KLauncher konnt net iwwer DCOP erreecht ginn\n"
 
-#: kdecore/kwinmodule.cpp:452
+#: kdecore/kwinmodule.cpp:456
 #, c-format
 msgid "Desktop %1"
 msgstr "Büro %1"
