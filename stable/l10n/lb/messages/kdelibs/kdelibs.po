@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2007-02-06 02:25+0100\n"
+"POT-Creation-Date: 2007-02-10 02:36+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1203,7 +1203,7 @@ msgid "&Replace..."
 msgstr "E&rsetzen..."
 
 #: common_texts.cpp:173 kabc/ldapconfigwidget.cpp:156
-#: kabc/ldapconfigwidget.cpp:168 kdeui/klineedit.cpp:898
+#: kabc/ldapconfigwidget.cpp:168 kdeui/klineedit.cpp:914
 #: kdeui/ktoolbar.cpp:2058
 msgid "Default"
 msgstr "Standard"
@@ -3305,7 +3305,7 @@ msgstr "Vollbildmodus"
 msgid "What's This"
 msgstr "Wat ass dat"
 
-#: kdecore/kstdaccel.cpp:99 kdecore/kstdaccel.cpp:100 kdeui/klineedit.cpp:870
+#: kdecore/kstdaccel.cpp:99 kdecore/kstdaccel.cpp:100 kdeui/klineedit.cpp:886
 msgid "Text Completion"
 msgstr "Ergänzung vum Text"
 
@@ -4938,7 +4938,7 @@ msgstr "Kierzelen"
 msgid "Default key:"
 msgstr "Standardtast:"
 
-#: kdeui/kkeybutton.cpp:89 kdeui/kkeydialog.cpp:536 kdeui/klineedit.cpp:873
+#: kdeui/kkeybutton.cpp:89 kdeui/kkeydialog.cpp:536 kdeui/klineedit.cpp:889
 msgid "None"
 msgstr "Keng"
 
@@ -5405,23 +5405,23 @@ msgstr "Net méi froen"
 msgid "About %1"
 msgstr "Iwwer %1"
 
-#: kdeui/klineedit.cpp:874
+#: kdeui/klineedit.cpp:890
 msgid "Manual"
 msgstr "Manuell"
 
-#: kdeui/klineedit.cpp:875
+#: kdeui/klineedit.cpp:891
 msgid "Automatic"
 msgstr "Automatësch"
 
-#: kdeui/klineedit.cpp:876
+#: kdeui/klineedit.cpp:892
 msgid "Dropdown List"
 msgstr "Ausklapplëscht"
 
-#: kdeui/klineedit.cpp:877
+#: kdeui/klineedit.cpp:893
 msgid "Short Automatic"
 msgstr "Automatësch kuerz"
 
-#: kdeui/klineedit.cpp:878
+#: kdeui/klineedit.cpp:894
 msgid "Dropdown List && Automatic"
 msgstr "Ausklapplëscht && Automatik"
 
