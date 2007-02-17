@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2007-02-12 02:35+0100\n"
+"POT-Creation-Date: 2007-02-17 02:34+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2473,15 +2473,15 @@ msgstr "KDE: Den Numm vum Host net veränneren"
 msgid "Informs KDE about a change in hostname"
 msgstr "Informéiert de KDE vun enger Verännerung vum Numm vum Host"
 
-#: kded/kded.cpp:719
+#: kded/kded.cpp:721
 msgid "Check Sycoca database only once"
 msgstr "An der Sycoca-Datebank just eng Kéier nokucken"
 
-#: kded/kded.cpp:859
+#: kded/kded.cpp:861
 msgid "KDE Daemon"
 msgstr "KDE-Daemon"
 
-#: kded/kded.cpp:861
+#: kded/kded.cpp:863
 msgid "KDE Daemon - triggers Sycoca database updates when needed"
 msgstr ""
 "KDE-Daemon: Léist d'Aktualiséierunge vun der Sycoca-Datebank aus, wa gebraucht"
