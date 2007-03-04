@@ -1,0 +1,72 @@
+# translation of kjobviewer.po to Luxembourgish
+# Michel Ludwig <michel.ludwig@kdemail.net>, 2005.
+msgid ""
+msgstr ""
+"Project-Id-Version: kjobviewer\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2006-08-14 19:25+0200\n"
+"PO-Revision-Date: 2005-12-27 21:28+0100\n"
+"Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
+"Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: kjobviewer.cpp:131
+msgid "All Printers"
+msgstr "All Dréckeren"
+
+#: kjobviewer.cpp:138
+msgid "There is no default printer. Start with --all to see all printers."
+msgstr ""
+"Et gëtt kee Standarddrécker. Start mat --all fir all d'Dréckeren ze gesinn."
+
+#: kjobviewer.cpp:138
+msgid "Print Error"
+msgstr "Feeler beim Drécken"
+
+#: main.cpp:29
+msgid "The printer for which jobs are requested"
+msgstr "Den Drécker fir deen Drockoptreeg ugefrot solle ginn"
+
+#: main.cpp:30
+msgid "Show job viewer at startup"
+msgstr "Optrag-Uweiser beim Starte weisen"
+
+#: main.cpp:31
+msgid "Show jobs for all printers"
+msgstr "Optreeg fir all Dréckeren uweisen"
+
+#: main.cpp:38
+msgid "KJobViewer"
+msgstr "KJobViewer"
+
+#: main.cpp:38
+msgid "A print job viewer"
+msgstr "En Uweiser fir Drockoptreeg"
+
+#. i18n: tag text
+#. i18n: file kjobviewerui.rc line 4
+#: rc.cpp:4
+#, no-c-format
+msgid "&Jobs"
+msgstr "Optree&g"
+
+#. i18n: tag text
+#. i18n: file kjobviewerui.rc line 13
+#: rc.cpp:8
+#, no-c-format
+msgid "F&ilter"
+msgstr "F&ilter"
+
+#: rc.cpp:9
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Michel Ludwig"
+
+#: rc.cpp:10
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "michel.ludwig@kdemail.net"

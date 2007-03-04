@@ -1,0 +1,65 @@
+# translation of krunapplet.po to Luxembourgish
+# Michel Ludwig <michel.ludwig@kdemail.net>, 2005.
+msgid ""
+msgstr ""
+"Project-Id-Version: krunapplet\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-02-20 08:25+0100\n"
+"PO-Revision-Date: 2005-12-28 21:21+0100\n"
+"Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
+"Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11\n"
+
+#: runapplet.cpp:63
+msgid "Run command:"
+msgstr "Kommando ausféieren"
+
+#: runapplet.cpp:178
+msgid "< Run"
+msgstr "< Ausféieren"
+
+#: runapplet.cpp:185
+msgid "Run >"
+msgstr "Ausféieren >"
+
+#: runapplet.cpp:234
+msgid "You have to enter a command to execute or a URL to be opened first."
+msgstr ""
+"Dir musst fir d'éischt e Kommando ugi wat ausgeféiert soll ginn, oder eng "
+"URL déi opgemat soll ginn."
+
+#: runapplet.cpp:245
+msgid ""
+"Unable to log out properly.\n"
+"The session manager cannot be contacted. You can try to force a shutdown by "
+"pressing Ctrl+Alt+Backspace. Note, however, that your current session will "
+"not be saved with a forced shutdown."
+msgstr ""
+"Kann iech net propper ofmellen.\n"
+"De Sëtzungsmanager kann net kontaktéiert ginn. Dir kënnt versichen "
+"d'Ausschalten ze forcéieren an deems dir Ctrl+Alt+Zeréck-Tast dréckt. "
+"Beuecht awer w.e.g., dass är aktuell Sëtzung net gespäichert gëtt bei engem "
+"forcéierten Ausschalten."
+
+#: runapplet.cpp:276
+#, qt-format
+msgid ""
+"<qt>The program name or command <b>%1</b>\n"
+"cannot be found. Please correct the command\n"
+"or URL and try again</qt>"
+msgstr ""
+"<qt>De Programmnumm oder Kommando <b>%1</b>\n"
+"konnt net fonnt ginn. Iwwerpréift de Kommando\n"
+"oder d'URL w.e.g. a versicht et nach eng Kéier</qt>"
+
+#: runapplet.cpp:288
+#, qt-format
+msgid ""
+"<qt>Could not run <b>%1</b>.\n"
+"Please correct the command or URL and try again.</qt>"
+msgstr ""
+"<qt>Konnt <b>%1</b> net ausféieren.\n"
+"Verbessert de Kommando oder d'URL w.e.g. a versicht et nach eng Kéier.</qt>"

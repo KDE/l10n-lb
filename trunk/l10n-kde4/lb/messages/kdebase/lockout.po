@@ -1,0 +1,42 @@
+# translation of lockout.po to Luxembourgish
+# Michel Ludwig <michel.ludwig@kdemail.net>, 2005.
+msgid ""
+msgstr ""
+"Project-Id-Version: lockout\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2007-02-20 08:25+0100\n"
+"PO-Revision-Date: 2005-12-10 21:27+0100\n"
+"Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
+"Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11\n"
+
+#: lockout.cpp:90
+msgid "Lock the session"
+msgstr "D'Sëtzung spären"
+
+#: lockout.cpp:91
+msgid "Log out"
+msgstr "Ofmellen"
+
+#: lockout.cpp:229
+msgid "Lock Session"
+msgstr "Sëtzung spären"
+
+#: lockout.cpp:232 lockout.cpp:253
+msgid "&Transparent"
+msgstr "&Transparent"
+
+#: lockout.cpp:234
+msgid "&Configure Screen Saver..."
+msgstr "Bildschiermschoner &configuréieren"
+
+#: lockout.cpp:250
+msgid "&Log Out..."
+msgstr "Of&mellen..."
+
+#: lockout.cpp:255
+msgid "&Configure Session Manager..."
+msgstr "Sëtzungsmanager &configuréieren..."
