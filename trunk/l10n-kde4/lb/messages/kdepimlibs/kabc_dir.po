@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kabc_dir\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-03-28 10:03+0200\n"
+"POT-Creation-Date: 2007-01-09 08:14+0100\n"
 "PO-Revision-Date: 2005-12-04 22:59+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -13,6 +13,26 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11\n"
 
+#: resourcedir.cpp:173
+#, qt-format
+msgid "Unable to open file '%1' for reading"
+msgstr "D'Datei '%1' konnt net fir ze liesen opgemat ginn"
+
+#: resourcedir.cpp:193
+#, qt-format
+msgid "Loading resource '%1' failed!"
+msgstr "D'Luede vun der Ressource '%1' ass feelgeschloen !"
+
+#: resourcedir.cpp:216
+#, qt-format
+msgid "Unable to open file '%1' for writing"
+msgstr "D'Datei '%1' konnt net fir ze schreiwen opgemat ginn"
+
+#: resourcedir.cpp:237
+#, qt-format
+msgid "Saving resource '%1' failed!"
+msgstr "D'Späichere vun der Ressource '%1' ass feelgeschloen !"
+
 #: resourcedirconfig.cpp:42
 msgid "Format:"
 msgstr "Format:"
@@ -20,15 +40,3 @@ msgstr "Format:"
 #: resourcedirconfig.cpp:48
 msgid "Location:"
 msgstr "Adress:"
-
-#~ msgid "Unable to open file '%1' for reading"
-#~ msgstr "D'Datei '%1' konnt net fir ze liesen opgemat ginn"
-
-#~ msgid "Loading resource '%1' failed!"
-#~ msgstr "D'Luede vun der Ressource '%1' ass feelgeschloen !"
-
-#~ msgid "Unable to open file '%1' for writing"
-#~ msgstr "D'Datei '%1' konnt net fir ze schreiwen opgemat ginn"
-
-#~ msgid "Saving resource '%1' failed!"
-#~ msgstr "D'Späichere vun der Ressource '%1' ass feelgeschloen !"

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kabcformat_binary\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-03-28 10:03+0200\n"
+"POT-Creation-Date: 2006-08-28 07:54+0200\n"
 "PO-Revision-Date: 2005-12-04 23:04+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -18,8 +18,12 @@ msgstr ""
 msgid "Not a file?"
 msgstr "Keng Datei ?"
 
-#~ msgid "File '%1' is not binary format."
-#~ msgstr "D'Datei '%1' huet kee binärt Format."
+#: binaryformat.cpp:143
+#, qt-format
+msgid "File '%1' is not binary format."
+msgstr "D'Datei '%1' huet kee binärt Format."
 
-#~ msgid "File '%1' is the wrong version."
-#~ msgstr "D'Datei '%1' léit an der falscher Versioun vir."
+#: binaryformat.cpp:148
+#, qt-format
+msgid "File '%1' is the wrong version."
+msgstr "D'Datei '%1' léit an der falscher Versioun vir."
