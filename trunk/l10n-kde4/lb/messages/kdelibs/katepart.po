@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-02-25 08:17+0100\n"
+"POT-Creation-Date: 2007-03-09 07:06+0100\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2141,10 +2141,6 @@ msgstr ""
 #: part/kateview.cpp:751
 msgid "Backspace"
 msgstr "Ewechmaachen"
-
-#: part/kateview.cpp:760
-msgid "Debug TemplateCode"
-msgstr ""
 
 #: part/kateview.cpp:780
 msgid "Collapse Toplevel"
