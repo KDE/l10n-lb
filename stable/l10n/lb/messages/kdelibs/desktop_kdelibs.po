@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-03-10 01:25+0000\n"
+"POT-Creation-Date: 2007-03-11 01:26+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1008,48 +1008,48 @@ msgstr "Comment=KDE gëtt zougemat"
 msgid "Name=Logout canceled"
 msgstr "Name=Ofmellen"
 
-#: kdecore/eventsrc:1730
+#: kdecore/eventsrc:1733
 #, fuzzy
 msgid "Comment=KDE logout was canceled"
 msgstr "Comment=KDED-Modul"
 
-#: kdecore/eventsrc:1740
+#: kdecore/eventsrc:1746
 msgid "Name=Print error"
 msgstr "Name=Dréckfeeler"
 
-#: kdecore/eventsrc:1820
+#: kdecore/eventsrc:1826
 msgid "Comment=A print error has occurred"
 msgstr "Comment=En Dréckfeeler ass opgetrueden"
 
-#: kdecore/eventsrc:1898
+#: kdecore/eventsrc:1904
 msgid "Name=Information message"
 msgstr "Name=Informatioun"
 
-#: kdecore/eventsrc:1972
+#: kdecore/eventsrc:1978
 msgid "Comment=An information message is being shown"
 msgstr "Comment=Eng Informatiounsnoricht gëtt ugewisen"
 
-#: kdecore/eventsrc:2050
+#: kdecore/eventsrc:2056
 msgid "Name=Warning message"
 msgstr "Name=Warnung"
 
-#: kdecore/eventsrc:2123
+#: kdecore/eventsrc:2129
 msgid "Comment=A warning message is being shown"
 msgstr "Comment=Eng Warnungsnoricht gëtt ugewisen"
 
-#: kdecore/eventsrc:2202
+#: kdecore/eventsrc:2208
 msgid "Name=Critical message"
 msgstr "Name=Kritesch Noricht"
 
-#: kdecore/eventsrc:2274
+#: kdecore/eventsrc:2280
 msgid "Comment=A critical message is being shown"
 msgstr "Comment=Eng kritesch Noricht gëtt ugewisen"
 
-#: kdecore/eventsrc:2352
+#: kdecore/eventsrc:2358
 msgid "Name=Question"
 msgstr "Name=Fro"
 
-#: kdecore/eventsrc:2425
+#: kdecore/eventsrc:2431
 msgid "Comment=A question is being asked"
 msgstr "Comment=Eng Fro gëtt ugewisen"
 
