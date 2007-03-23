@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeprint\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-03-13 07:11+0100\n"
+"POT-Creation-Date: 2007-03-23 18:03+0100\n"
 "PO-Revision-Date: 2006-05-02 18:19+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -150,86 +150,86 @@ msgstr "Netzwierkdrécker (TCP)"
 msgid "File printer (print to file)"
 msgstr ""
 
-#: lpd/kmlpdmanager.cpp:87
+#: lpd/kmlpdmanager.cpp:88
 msgctxt "Unknown type of local printer queue"
 msgid "Unknown"
 msgstr ""
 
-#: lpd/kmlpdmanager.cpp:87
+#: lpd/kmlpdmanager.cpp:88
 #, qt-format
 msgid "Local printer queue (%1)"
 msgstr ""
 
-#: lpd/kmlpdmanager.cpp:88
+#: lpd/kmlpdmanager.cpp:89
 msgid "<Not available>"
 msgstr "<Net verfügbar>"
 
-#: lpd/kmlpdmanager.cpp:89
+#: lpd/kmlpdmanager.cpp:90
 msgctxt "Unknown Driver"
 msgid "Unknown"
 msgstr ""
 
-#: lpd/kmlpdmanager.cpp:95
+#: lpd/kmlpdmanager.cpp:96
 #, qt-format
 msgid "Remote LPD queue %1@%2"
 msgstr ""
 
-#: lpd/kmlpdmanager.cpp:158
+#: lpd/kmlpdmanager.cpp:159
 #, qt-format
 msgid "Unable to create spool directory %1 for printer %2."
 msgstr ""
 
-#: lpd/kmlpdmanager.cpp:165
+#: lpd/kmlpdmanager.cpp:166
 #, qt-format
 msgid "Unable to save information for printer <b>%1</b>."
 msgstr ""
 
-#: lpd/kmlpdmanager.cpp:193
+#: lpd/kmlpdmanager.cpp:194
 #, qt-format
 msgid ""
 "Unable to set correct permissions on spool directory %1 for printer <b>%2</"
 "b>."
 msgstr ""
 
-#: lpd/kmlpdmanager.cpp:237
+#: lpd/kmlpdmanager.cpp:238
 msgid "Permission denied: you must be root."
 msgstr ""
 
-#: lpd/kmlpdmanager.cpp:244
+#: lpd/kmlpdmanager.cpp:245
 #, qt-format
 msgid "Unable to execute command \"%1\"."
 msgstr ""
 
-#: lpd/kmlpdmanager.cpp:319
+#: lpd/kmlpdmanager.cpp:320
 msgid "Unable to write printcap file."
 msgstr ""
 
-#: lpd/kmlpdmanager.cpp:376
+#: lpd/kmlpdmanager.cpp:377
 #, qt-format
 msgid "Could not find driver <b>%1</b> in printtool database."
 msgstr ""
 
-#: lpd/kmlpdmanager.cpp:415
+#: lpd/kmlpdmanager.cpp:416
 #, qt-format
 msgid "Could not find printer <b>%1</b> in printcap file."
 msgstr ""
 
-#: lpd/kmlpdmanager.cpp:444
+#: lpd/kmlpdmanager.cpp:445
 msgid "No driver found (raw printer)"
 msgstr ""
 
-#: lpd/kmlpdmanager.cpp:446
+#: lpd/kmlpdmanager.cpp:447
 msgid "Printer type not recognized."
 msgstr ""
 
-#: lpd/kmlpdmanager.cpp:456
+#: lpd/kmlpdmanager.cpp:457
 #, qt-format
 msgid ""
 "The driver device <b>%1</b> is not compiled in your GhostScript "
 "distribution. Check your installation or use another driver."
 msgstr ""
 
-#: lpd/kmlpdmanager.cpp:564
+#: lpd/kmlpdmanager.cpp:565
 msgid "Unable to write driver associated files in spool directory."
 msgstr ""
 
