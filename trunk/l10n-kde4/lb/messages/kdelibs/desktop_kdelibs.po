@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-03-27 07:51+0000\n"
+"POT-Creation-Date: 2007-03-31 19:48+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1011,6 +1011,11 @@ msgctxt "Name"
 msgid "KDE Plugin Information"
 msgstr "KDE-Plugininformatioun"
 
+#: kdecore/sonnet/sonnetspeller.desktop:6
+msgctxt "Comment"
+msgid "KSpell Client"
+msgstr "KSpell-Zougrëffsprogramm"
+
 #: kded/kdedmodule.desktop:5
 msgctxt "Comment"
 msgid "KDED Module"
@@ -1885,11 +1890,6 @@ msgstr ""
 msgctxt "Name"
 msgid "HSpell"
 msgstr "HSpell"
-
-#: sonnet/spelling/sonnetspeller.desktop:6
-msgctxt "Comment"
-msgid "KSpell Client"
-msgstr "KSpell-Zougrëffsprogramm"
 
 #~ msgctxt "Comment"
 #~ msgid "All Files and Folders"
