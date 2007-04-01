@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-03-31 19:48+0000\n"
+"POT-Creation-Date: 2007-04-01 03:39+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1779,7 +1779,7 @@ msgctxt "Comment"
 msgid "Sound System Configuration"
 msgstr "KDE-System-Norichten"
 
-#: phonon/kcm/kcm_phonon.desktop:18
+#: phonon/kcm/kcm_phonon.desktop:19
 msgctxt "Keywords"
 msgid ""
 "Sound,Phonon,Audio,Video,Output,Device,Notification,Music,Communication,"
@@ -1797,7 +1797,7 @@ msgctxt "Name"
 msgid "Fake"
 msgstr ""
 
-#: phonon/tests/fakebackend/fake.desktop:13
+#: phonon/tests/fakebackend/fake.desktop:14
 msgctxt "Comment"
 msgid "Testing Backend"
 msgstr ""
@@ -1827,7 +1827,7 @@ msgctxt "Name"
 msgid "FakeHw"
 msgstr ""
 
-#: solid/backends/fakehw/solid_fakehw.desktop:10
+#: solid/backends/fakehw/solid_fakehw.desktop:11
 msgctxt "Comment"
 msgid "Fake Hardware discovery"
 msgstr ""
@@ -1837,7 +1837,7 @@ msgctxt "Name"
 msgid "Fake Net"
 msgstr ""
 
-#: solid/backends/fakenet/solid_fakenet.desktop:10
+#: solid/backends/fakenet/solid_fakenet.desktop:11
 msgctxt "Comment"
 msgid "Fake Network Management"
 msgstr ""
@@ -1854,7 +1854,7 @@ msgctxt "Comment"
 msgid "Hardware Integration Configuration"
 msgstr "Automatesch Proxy-Configuratioun"
 
-#: solid/kcm/kcm_solid.desktop:19
+#: solid/kcm/kcm_solid.desktop:20
 msgctxt "Keywords"
 msgid "Solid,Hardware,Power,Network,Discovery,Management"
 msgstr ""
