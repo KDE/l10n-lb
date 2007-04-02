@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeprint\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-03-31 05:34+0200\n"
+"POT-Creation-Date: 2007-04-02 05:37+0200\n"
 "PO-Revision-Date: 2006-05-02 18:19+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -414,14 +414,14 @@ msgid "Internal error."
 msgstr ""
 
 #: lpr/matichandler.cpp:255 lpr/matichandler.cpp:359
-#: cups/kmcupsmanager.cpp:542
+#: cups/kmcupsmanager.cpp:543
 msgid ""
 "Unable to find the executable foomatic-datafile in your PATH. Check that "
 "Foomatic is correctly installed."
 msgstr ""
 
 #: lpr/matichandler.cpp:287 lpr/matichandler.cpp:406
-#: cups/kmcupsmanager.cpp:574
+#: cups/kmcupsmanager.cpp:575
 #, qt-format
 msgid ""
 "Unable to create the Foomatic driver [%1,%2]. Either that driver does not "
@@ -1056,7 +1056,7 @@ msgstr ""
 msgid "Preparing to upload driver to host %1"
 msgstr ""
 
-#: cups/cupsaddsmb2.cpp:417 management/networkscanner.cpp:151
+#: cups/cupsaddsmb2.cpp:417 management/networkscanner.cpp:141
 msgid "&Abort"
 msgstr "Ofb&riechen"
 
@@ -1164,7 +1164,7 @@ msgid ""
 msgstr ""
 
 #: cups/kmwipp.cpp:42 rlpr/kmwrlpr.cpp:62 rlpr/kmproprlpr.cpp:34
-#: management/kmwlpd.cpp:46
+#: management/kmwlpd.cpp:47
 msgid "Host:"
 msgstr ""
 
@@ -1529,61 +1529,61 @@ msgstr ""
 msgid "You must select a device."
 msgstr "Dir musst e Gerät auswielen."
 
-#: cups/kmcupsmanager.cpp:727
+#: cups/kmcupsmanager.cpp:728
 msgid "Library cupsdconf not found. Check your installation."
 msgstr ""
 
-#: cups/kmcupsmanager.cpp:733
+#: cups/kmcupsmanager.cpp:734
 #, qt-format
 msgid "Symbol %1 not found in cupsdconf library."
 msgstr ""
 
-#: cups/kmcupsmanager.cpp:808
+#: cups/kmcupsmanager.cpp:809
 msgid "&Export Driver..."
 msgstr ""
 
-#: cups/kmcupsmanager.cpp:814
+#: cups/kmcupsmanager.cpp:815
 msgid "&Printer IPP Report"
 msgstr ""
 
-#: cups/kmcupsmanager.cpp:863 cups/kmwippprinter.cpp:218
+#: cups/kmcupsmanager.cpp:864 cups/kmwippprinter.cpp:218
 #, qt-format
 msgid "IPP Report for %1"
 msgstr ""
 
-#: cups/kmcupsmanager.cpp:867
+#: cups/kmcupsmanager.cpp:868
 msgid "Unable to retrieve printer information. Error received:"
 msgstr ""
 
-#: cups/kmcupsmanager.cpp:880
+#: cups/kmcupsmanager.cpp:881
 msgid "Server"
 msgstr "Server"
 
-#: cups/kmcupsmanager.cpp:921
+#: cups/kmcupsmanager.cpp:917
 msgid "the IPP request failed for an unknown reason"
 msgstr ""
 
-#: cups/kmcupsmanager.cpp:920
+#: cups/kmcupsmanager.cpp:916
 #, qt-format
 msgid ""
 "Connection to CUPS server failed. Check that the CUPS server is correctly "
 "installed and running. Error: %1."
 msgstr ""
 
-#: cups/kmcupsmanager.cpp:950
+#: cups/kmcupsmanager.cpp:957
 msgid "connection refused"
 msgstr ""
 
-#: cups/kmcupsmanager.cpp:953
+#: cups/kmcupsmanager.cpp:960
 msgid "host not found"
 msgstr ""
 
-#: cups/kmcupsmanager.cpp:957
+#: cups/kmcupsmanager.cpp:963
 #, qt-format
 msgid "read failed (%1)"
 msgstr ""
 
-#: cups/kmcupsmanager.cpp:961
+#: cups/kmcupsmanager.cpp:967
 #, qt-format
 msgid ""
 "Connection to CUPS server failed. Check that the CUPS server is correctly "
@@ -1784,7 +1784,7 @@ msgid "&Host:"
 msgstr ""
 
 #: cups/kmcupsconfigwidget.cpp:71 rlpr/kmproxywidget.cpp:37
-#: management/networkscanner.cpp:327 management/kmwsocketutil.cpp:63
+#: management/networkscanner.cpp:322 management/kmwsocketutil.cpp:61
 msgid "&Port:"
 msgstr ""
 
@@ -2115,7 +2115,7 @@ msgstr ""
 msgid "Remote LPD Queue Settings"
 msgstr ""
 
-#: rlpr/kmwrlpr.cpp:63 rlpr/kmproprlpr.cpp:35 management/kmwlpd.cpp:47
+#: rlpr/kmwrlpr.cpp:63 rlpr/kmproprlpr.cpp:35 management/kmwlpd.cpp:48
 msgid "Queue:"
 msgstr ""
 
@@ -2752,27 +2752,27 @@ msgstr ""
 #. i18n: file kprintpreviewui.rc line 16
 #. i18n: tag text
 #. i18n: file ./kprintpreviewui.rc line 16
-#: management/networkscanner.cpp:113 management/kmwdrivertest.cpp:57 rc.cpp:16
+#: management/networkscanner.cpp:107 management/kmwdrivertest.cpp:57 rc.cpp:16
 #: rc.cpp:32
 #, fuzzy, no-c-format
 msgid "&Settings"
 msgstr "Astellungen"
 
-#: management/networkscanner.cpp:114 management/networkscanner.cpp:182
+#: management/networkscanner.cpp:108 management/networkscanner.cpp:173
 msgid "Sc&an"
 msgstr ""
 
-#: management/networkscanner.cpp:117
+#: management/networkscanner.cpp:111
 msgid "Network scan:"
 msgstr ""
 
-#: management/networkscanner.cpp:118 management/networkscanner.cpp:281
-#: management/networkscanner.cpp:292
+#: management/networkscanner.cpp:112 management/networkscanner.cpp:275
+#: management/networkscanner.cpp:286
 #, qt-format
 msgid "Subnet: %1"
 msgstr ""
 
-#: management/networkscanner.cpp:163
+#: management/networkscanner.cpp:153
 #, qt-format
 msgid ""
 "You are about to scan a subnet (%1.*) that does not correspond to the "
@@ -2780,32 +2780,32 @@ msgid ""
 "subnet anyway?"
 msgstr ""
 
-#: management/networkscanner.cpp:166
+#: management/networkscanner.cpp:156
 msgid "&Scan"
 msgstr ""
 
-#: management/networkscanner.cpp:326 management/kmwsocketutil.cpp:62
+#: management/networkscanner.cpp:321 management/kmwsocketutil.cpp:60
 msgid "&Subnetwork:"
 msgstr ""
 
-#: management/networkscanner.cpp:328 management/kmwsocketutil.cpp:64
+#: management/networkscanner.cpp:323 management/kmwsocketutil.cpp:62
 msgid "&Timeout (ms):"
 msgstr ""
 
-#: management/networkscanner.cpp:371 management/kmwsocketutil.cpp:107
+#: management/networkscanner.cpp:366 management/kmwsocketutil.cpp:105
 msgid "Scan Configuration"
 msgstr ""
 
-#: management/networkscanner.cpp:384 management/networkscanner.cpp:390
-#: management/kmwsocketutil.cpp:120 management/kmwsocketutil.cpp:126
+#: management/networkscanner.cpp:379 management/networkscanner.cpp:385
+#: management/kmwsocketutil.cpp:118 management/kmwsocketutil.cpp:124
 msgid "Wrong subnetwork specification."
 msgstr ""
 
-#: management/networkscanner.cpp:398 management/kmwsocketutil.cpp:134
+#: management/networkscanner.cpp:393 management/kmwsocketutil.cpp:132
 msgid "Wrong timeout specification."
 msgstr ""
 
-#: management/networkscanner.cpp:401 management/kmwsocketutil.cpp:137
+#: management/networkscanner.cpp:396 management/kmwsocketutil.cpp:135
 msgid "Wrong port specification."
 msgstr ""
 
@@ -3610,21 +3610,21 @@ msgstr ""
 msgid "exec:/"
 msgstr "exec:/"
 
-#: management/kmwlpd.cpp:41
+#: management/kmwlpd.cpp:42
 msgid "LPD Queue Information"
 msgstr ""
 
-#: management/kmwlpd.cpp:44
+#: management/kmwlpd.cpp:45
 msgid ""
 "<p>Enter the information concerning the remote LPD queue; this wizard will "
 "check it before continuing.</p>"
 msgstr ""
 
-#: management/kmwlpd.cpp:54
+#: management/kmwlpd.cpp:55
 msgid "Some information is missing."
 msgstr ""
 
-#: management/kmwlpd.cpp:61
+#: management/kmwlpd.cpp:62
 #, qt-format
 msgid "Cannot find queue %1 on server %2; do you want to continue anyway?"
 msgstr ""
