@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ksystemtrayapplet\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-11-17 07:58+0100\n"
+"POT-Creation-Date: 2007-04-03 05:45+0200\n"
 "PO-Revision-Date: 2005-12-10 21:38+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -13,15 +13,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11\n"
 
-#: systemtrayapplet.cpp:206
+#: systemtrayapplet.cpp:207
 msgid "Configure System Tray"
 msgstr "Systemoflag configuréieren"
 
-#: systemtrayapplet.cpp:216
+#: systemtrayapplet.cpp:217
 msgid "Hidden icons:"
 msgstr "Verstoppte Symboler:"
 
-#: systemtrayapplet.cpp:217
+#: systemtrayapplet.cpp:218
 msgid "Visible icons:"
 msgstr "Sichtbar Symboler:"
 

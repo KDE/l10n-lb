@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ksirtet\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-02-18 08:19+0100\n"
+"POT-Creation-Date: 2007-04-03 05:45+0200\n"
 "PO-Revision-Date: 2005-11-14 22:42+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -104,57 +104,49 @@ msgstr "Faarf vum Drecksblock:"
 
 #. i18n: tag label
 #. i18n: file ksirtet.kcfg line 8
-#: rc.cpp:4
-#, no-c-format
+#: rc.cpp:3
 msgid "Use old rotation style."
 msgstr "Benotz den ale Rotatiounsstil"
 
 #. i18n: tag label
 #. i18n: file ksirtet.kcfg line 14
-#: rc.cpp:8
-#, no-c-format
+#: rc.cpp:6
 msgid "Occupied lines"
 msgstr "Besate Linnen"
 
 #. i18n: tag label
 #. i18n: file ksirtet.kcfg line 20
-#: rc.cpp:12
-#, no-c-format
+#: rc.cpp:9
 msgid "Number of holes"
 msgstr "Unzuel vun de Lächer"
 
 #. i18n: tag label
 #. i18n: file ksirtet.kcfg line 26
-#: rc.cpp:16
-#, no-c-format
+#: rc.cpp:12
 msgid "Number of spaces"
 msgstr "Unzuel vun de Freiraim"
 
 #. i18n: tag label
 #. i18n: file ksirtet.kcfg line 32
-#: rc.cpp:20
-#, no-c-format
+#: rc.cpp:15
 msgid "Peak-to-peak distance"
 msgstr "Distanz vu Spëtzt-zu-Spëtzt"
 
 #. i18n: tag label
 #. i18n: file ksirtet.kcfg line 38
-#: rc.cpp:24
-#, no-c-format
+#: rc.cpp:18
 msgid "Mean height"
 msgstr "Mëttler Héicht"
 
 #. i18n: tag label
 #. i18n: file ksirtet.kcfg line 44
-#: rc.cpp:28
-#, no-c-format
+#: rc.cpp:21
 msgid "Number of full lines"
 msgstr "Unzuel vun de volle Linnen"
 
 #. i18n: tag text
 #. i18n: file ksirtetui.rc line 6
-#: rc.cpp:32
-#, no-c-format
+#: rc.cpp:24
 msgid "&Mode"
 msgstr "&Modus"
 
