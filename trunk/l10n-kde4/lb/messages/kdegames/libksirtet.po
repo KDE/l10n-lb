@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libksirtet\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-02-20 08:26+0100\n"
+"POT-Creation-Date: 2007-04-06 05:51+0200\n"
 "PO-Revision-Date: 2005-11-14 22:37+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Generator: KBabel 1.10.2\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: base/baseboard.cpp:206
+#: base/baseboard.cpp:210
 msgid "Blocks removed"
 msgstr "Ewechgemate Bléck"
 
@@ -90,15 +90,15 @@ msgstr "Stuf #%1 färdeg"
 msgid "Game Over"
 msgstr "Spill eriwwer"
 
-#: base/main.cpp:85
+#: base/main.cpp:89
 msgid "Game"
 msgstr "Spill"
 
-#: base/main.cpp:87
+#: base/main.cpp:91
 msgid "Appearance"
 msgstr ""
 
-#: base/main.cpp:89
+#: base/main.cpp:93
 msgid "Colors"
 msgstr "Faarwen"
 
@@ -259,12 +259,12 @@ msgstr "KI"
 msgid "None"
 msgstr "Keen"
 
-#: lib/mp_interface.cpp:113
+#: lib/mp_interface.cpp:112
 #, qt-format
 msgid "Human %1"
 msgstr "Mënsch %1"
 
-#: lib/mp_interface.cpp:114
+#: lib/mp_interface.cpp:113
 #, qt-format
 msgid "AI %1"
 msgstr "KI %1"
@@ -386,31 +386,31 @@ msgstr "Héicht vum läschten Spiller"
 msgid "Shadow of the current piece"
 msgstr "Schied vum aktuelle Stéck>"
 
-#: common/field.cpp:72
+#: common/field.cpp:68
 msgid "Next player's height"
 msgstr "Héicht vum nächste Spiller"
 
-#: common/field.cpp:82
+#: common/field.cpp:78
 msgid "Next Tile"
 msgstr "Nächst Stéck"
 
-#: common/field.cpp:176
+#: common/field.cpp:174
 msgid "Elapsed time"
 msgstr "Ofgelafen Zäit"
 
-#: common/field.cpp:179
+#: common/field.cpp:177
 msgid "Display the elapsed time."
 msgstr "Weis d'Zäit, déi ofgelaf ass, un."
 
-#: common/field.cpp:180
+#: common/field.cpp:178
 msgid "Stage"
 msgstr "Stuf"
 
-#: common/field.cpp:183
+#: common/field.cpp:181
 msgid "Score"
 msgstr "Punktzuel"
 
-#: common/field.cpp:186
+#: common/field.cpp:184
 msgid ""
 "<qt>Display the current score.<br/>It turns <font color=\"blue\">blue</font> "
 "if it is a highscore and <font color=\"red\">red</font> if it is the best "
@@ -420,7 +420,7 @@ msgstr ""
 "font> falls der et an d'Beschtelëscht geschafft hutt, an <font color=\"red"
 "\">rout</font>, wann et déi bescht lokal Punktzuel ass.</qt>"
 
-#: common/field.cpp:187 common/highscores.cpp:15
+#: common/field.cpp:185 common/highscores.cpp:15
 msgid "Level"
 msgstr "Niveau"
 
