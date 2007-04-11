@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-04-10 05:39+0200\n"
+"POT-Creation-Date: 2007-04-11 05:35+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -6635,7 +6635,7 @@ msgstr "Mam Ersetzen ufänken"
 msgid "Unknown"
 msgstr "Onbekannt"
 
-#: kdeui/widgets/kkeysequencewidget.cpp:315
+#: kdeui/widgets/kkeysequencewidget.cpp:313
 #, fuzzy
 #| msgid "Input file"
 msgctxt "What the user inputs now will be taken as the new shortcut"
@@ -9819,11 +9819,11 @@ msgctxt "Opposite to Back"
 msgid "&Next"
 msgstr "&Weider"
 
-#: kde3support/kdeui/k3spell.cpp:1182
+#: kde3support/kdeui/k3spell.cpp:1180
 msgid "You have to restart the dialog for changes to take effect"
 msgstr "Dir musst den Dialog nei opmaache fir dass d'Ännerunge virgeholl ginn"
 
-#: kde3support/kdeui/k3spell.cpp:1408
+#: kde3support/kdeui/k3spell.cpp:1406
 msgid "Spell Checker"
 msgstr "Rechtschreifkontroll"
 
