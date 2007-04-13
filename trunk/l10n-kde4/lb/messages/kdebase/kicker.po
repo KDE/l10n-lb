@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kicker\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-04-04 05:41+0200\n"
+"POT-Creation-Date: 2007-04-13 06:10+0200\n"
 "PO-Revision-Date: 2005-12-21 12:15+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -87,19 +87,19 @@ msgstr ""
 msgid "Applet Loading Error"
 msgstr "Feeler beim Luede vum Miniprogramm"
 
-#: core/container_extension.cpp:1569 core/container_extension.cpp:1581
+#: core/container_extension.cpp:1568 core/container_extension.cpp:1580
 msgid "Show panel"
 msgstr "Kontrollleescht weisen"
 
-#: core/container_extension.cpp:1573 core/container_extension.cpp:1585
+#: core/container_extension.cpp:1572 core/container_extension.cpp:1584
 msgid "Hide panel"
 msgstr "Kontrollleescht verstoppen"
 
-#: core/containerarea.cpp:1258
+#: core/containerarea.cpp:1257
 msgid "Add as &File Manager URL"
 msgstr "Als &Dateimanager-URL dobäimaachen"
 
-#: core/containerarea.cpp:1261
+#: core/containerarea.cpp:1260
 msgid "Add as Quick&Browser"
 msgstr "Als &Schnellduerchkucker dobäimaachen"
 
@@ -308,23 +308,23 @@ msgstr "Dossier auswielen"
 msgid "'%1' is not a valid folder."
 msgstr "'%1' ass kee gültegen Dossier."
 
-#: ui/browser_mnu.cpp:138
+#: ui/browser_mnu.cpp:137
 msgid "Failed to Read Folder"
 msgstr "Konnt den Dossier net liesen"
 
-#: ui/browser_mnu.cpp:149
+#: ui/browser_mnu.cpp:148
 msgid "Not Authorized to Read Folder"
 msgstr "Dir hutt net dat Recht fir den Dossier ze liesen"
 
-#: ui/browser_mnu.cpp:158
+#: ui/browser_mnu.cpp:157
 msgid "Open in File Manager"
 msgstr "Am Dateimanager opmaachen"
 
-#: ui/browser_mnu.cpp:160
+#: ui/browser_mnu.cpp:159
 msgid "Open in Terminal"
 msgstr "Am Terminal opmaachen"
 
-#: ui/browser_mnu.cpp:306
+#: ui/browser_mnu.cpp:305
 msgid "More"
 msgstr "Méi"
 
