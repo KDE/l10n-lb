@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kjobviewer\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-04-04 05:41+0200\n"
+"POT-Creation-Date: 2007-04-18 05:43+0200\n"
 "PO-Revision-Date: 2005-12-27 21:28+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -47,14 +47,10 @@ msgstr "KJobViewer"
 msgid "A print job viewer"
 msgstr "En Uweiser fir Drockoptreeg"
 
-#. i18n: tag text
-#. i18n: file kjobviewerui.rc line 4
 #: rc.cpp:3
 msgid "&Jobs"
 msgstr "Optree&g"
 
-#. i18n: tag text
-#. i18n: file kjobviewerui.rc line 13
 #: rc.cpp:6
 msgid "F&ilter"
 msgstr "F&ilter"
