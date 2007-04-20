@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-04-18 05:43+0200\n"
+"POT-Creation-Date: 2007-04-20 05:49+0200\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1541,25 +1541,25 @@ msgstr ""
 
 #: part/katesearchbar.cpp:76
 #, fuzzy
-msgid "&Case Sensitive"
+msgid "&Case sensitive"
 msgstr "Op Grouss-/Klengschreiwung oppassen"
 
 #: part/katesearchbar.cpp:79
-msgid "&Whole Words"
+msgid "&Whole words"
 msgstr ""
 
 #: part/katesearchbar.cpp:82
 #, fuzzy
-msgid "&Regular Expression"
+msgid "&Regular expression"
 msgstr "Regulären Ausdrock"
 
 #: part/katesearchbar.cpp:85
-msgid "&From Cursor"
+msgid "&From cursor"
 msgstr ""
 
 #: part/katesearchbar.cpp:88
 #, fuzzy
-msgid "&Selection Only"
+msgid "&Selection only"
 msgstr "Auswielmodus"
 
 #: part/katesearchbar.cpp:91
