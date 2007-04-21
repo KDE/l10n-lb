@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-04-20 05:49+0200\n"
+"POT-Creation-Date: 2007-04-21 05:44+0200\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1075,16 +1075,16 @@ msgstr "De Kommando \"%1\" ass feelgeschloen."
 msgid "No such command: \"%1\""
 msgstr "Et gëtt keen esou ee Kommando: \"%1\""
 
-#: part/kateviewhelpers.cpp:762 part/kateschema.cpp:191
+#: part/kateviewhelpers.cpp:763 part/kateschema.cpp:191
 msgid "Bookmark"
 msgstr "Lieszeechen"
 
-#: part/kateviewhelpers.cpp:1276 part/kateviewhelpers.cpp:1277
+#: part/kateviewhelpers.cpp:1277 part/kateviewhelpers.cpp:1278
 #, qt-format
 msgid "Mark Type %1"
 msgstr "Markéierungstyp %1"
 
-#: part/kateviewhelpers.cpp:1296
+#: part/kateviewhelpers.cpp:1297
 msgid "Set Default Mark Type"
 msgstr "Standard-Markéierungstyp festleeën"
 
