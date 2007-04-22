@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libksirtet\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-04-16 05:50+0200\n"
+"POT-Creation-Date: 2007-04-22 05:50+0200\n"
 "PO-Revision-Date: 2005-11-14 22:37+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -19,23 +19,19 @@ msgstr ""
 msgid "Blocks removed"
 msgstr "Ewechgemate Bléck"
 
-#: base/factory.cpp:25
-msgid "Core engine"
-msgstr "Haaptengine"
-
-#: base/field.cpp:15
+#: base/basefield.cpp:21
 msgid "Start"
 msgstr "Ufänken"
 
-#: base/field.cpp:15
+#: base/basefield.cpp:21
 msgid "Resume"
 msgstr "Weidermaachen"
 
-#: base/field.cpp:15
+#: base/basefield.cpp:21
 msgid "Proceed"
 msgstr "Fuer duer"
 
-#: base/field.cpp:40
+#: base/basefield.cpp:45
 #, qt-format
 msgid ""
 "%1\n"
@@ -44,7 +40,7 @@ msgstr ""
 "%1\n"
 "(KI Spiller)"
 
-#: base/field.cpp:41
+#: base/basefield.cpp:46
 #, qt-format
 msgid ""
 "%1\n"
@@ -53,7 +49,7 @@ msgstr ""
 "%1\n"
 "(Mënschleche Spiller)"
 
-#: base/field.cpp:43
+#: base/basefield.cpp:48
 msgid ""
 "\n"
 "Waiting for server"
@@ -61,34 +57,38 @@ msgstr ""
 "\n"
 "Waarden op de Server"
 
-#: base/field.cpp:52
+#: base/basefield.cpp:57
 msgid "Stage #1"
 msgstr "Stuf #1"
 
-#: base/field.cpp:77
+#: base/basefield.cpp:82
 msgid "Arcade game"
 msgstr "Arkad-Spill"
 
-#: base/field.cpp:111
+#: base/basefield.cpp:116
 msgid "Game paused"
 msgstr "Spill ugehalen"
 
-#: base/field.cpp:122
+#: base/basefield.cpp:127
 msgid "Game over"
 msgstr "Spill eriwwer"
 
-#: base/field.cpp:125
+#: base/basefield.cpp:130
 msgid "The End"
 msgstr "D'Enn"
 
-#: base/field.cpp:127
+#: base/basefield.cpp:132
 #, qt-format
 msgid "Stage #%1 done"
 msgstr "Stuf #%1 färdeg"
 
-#: base/field.cpp:136
+#: base/basefield.cpp:141
 msgid "Game Over"
 msgstr "Spill eriwwer"
+
+#: base/factory.cpp:25
+msgid "Core engine"
+msgstr "Haaptengine"
 
 #: base/main.cpp:89
 msgid "Game"
@@ -372,45 +372,45 @@ msgstr "Grëndlechkeet beim Iwwerleeën:"
 msgid "Piece glued"
 msgstr "Stéck ugepescht"
 
-#: common/field.cpp:45
+#: common/field.cpp:51
 msgid "Display the progress to complete the current level or stage."
 msgstr ""
 "Weis den Fortschrëtt fir den aktuellen Niveau oder déi aktuell Stuf färdeg "
 "ze maachen."
 
-#: common/field.cpp:52
+#: common/field.cpp:62
 msgid "Previous player's height"
 msgstr "Héicht vum läschten Spiller"
 
-#: common/field.cpp:62
+#: common/field.cpp:70
 msgid "Shadow of the current piece"
 msgstr "Schied vum aktuelle Stéck>"
 
-#: common/field.cpp:68
+#: common/field.cpp:75
 msgid "Next player's height"
 msgstr "Héicht vum nächste Spiller"
 
-#: common/field.cpp:78
+#: common/field.cpp:85
 msgid "Next Tile"
 msgstr "Nächst Stéck"
 
-#: common/field.cpp:174
+#: common/field.cpp:177
 msgid "Elapsed time"
 msgstr "Ofgelafen Zäit"
 
-#: common/field.cpp:177
+#: common/field.cpp:180
 msgid "Display the elapsed time."
 msgstr "Weis d'Zäit, déi ofgelaf ass, un."
 
-#: common/field.cpp:178
+#: common/field.cpp:181
 msgid "Stage"
 msgstr "Stuf"
 
-#: common/field.cpp:181
+#: common/field.cpp:184
 msgid "Score"
 msgstr "Punktzuel"
 
-#: common/field.cpp:184
+#: common/field.cpp:187
 msgid ""
 "<qt>Display the current score.<br/>It turns <font color=\"blue\">blue</font> "
 "if it is a highscore and <font color=\"red\">red</font> if it is the best "
@@ -420,7 +420,7 @@ msgstr ""
 "font> falls der et an d'Beschtelëscht geschafft hutt, an <font color=\"red"
 "\">rout</font>, wann et déi bescht lokal Punktzuel ass.</qt>"
 
-#: common/field.cpp:185 common/highscores.cpp:15
+#: common/field.cpp:188 common/highscores.cpp:15
 msgid "Level"
 msgstr "Niveau"
 
