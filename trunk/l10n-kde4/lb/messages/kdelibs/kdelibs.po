@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-04-23 05:38+0200\n"
+"POT-Creation-Date: 2007-04-24 05:53+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -173,7 +173,7 @@ msgstr "Benotzer:"
 msgid "Keep password"
 msgstr "Passwuert &bäibehalen"
 
-#: rc.cpp:114 kdeui/findreplace/kfinddialog.cpp:176
+#: rc.cpp:114 kdeui/findreplace/kfinddialog.cpp:147
 msgid "Options"
 msgstr "Optiounen"
 
@@ -369,7 +369,7 @@ msgstr ""
 "der Këscht uëwe lénks z'ersetzen.</p>\n"
 "</qt>"
 
-#: rc.cpp:224 rc.cpp:816 kdeui/findreplace/kfinddialog.cpp:254
+#: rc.cpp:224 rc.cpp:816 kdeui/findreplace/kfinddialog.cpp:225
 msgid "&Replace"
 msgstr "E&rsetzen"
 
@@ -595,7 +595,7 @@ msgstr ""
 "Bericht, deen dir un http://bugs.kde.org/ schécke kënnt."
 
 #: rc.cpp:376 kdeui/util/kstandardguiitem.cpp:180
-#: kdeui/shortcuts/kcheckaccelerators.cpp:169
+#: kdeui/shortcuts/kcheckaccelerators.cpp:170
 #: kdeui/actions/kstandardaction_p.h:49
 msgid "&Close"
 msgstr "&Zoumaachen"
@@ -962,7 +962,7 @@ msgid "Step to next line..."
 msgstr ""
 
 #: rc.cpp:643 rc.cpp:945 kdeui/util/kstandardguiitem.cpp:265
-#: kdeui/util/kkeyserver_x11.cpp:109 kdeui/findreplace/kreplace.cpp:323
+#: kdeui/util/kkeyserver_x11.cpp:109 kdeui/findreplace/kreplace.cpp:324
 #: khtml/ecma/kjs_debugwin.cpp:483 khtml/ecma/debugger/debugwindow.cpp:176
 #: kross/ui/view.cpp:310
 msgid "Stop"
@@ -3168,7 +3168,7 @@ msgid "Name:"
 msgstr "Numm:"
 
 #: knewstuff/knewstuff2/ui/uploaddialog.cpp:84
-#: kdeui/dialogs/kbugreport.cpp:204
+#: kdeui/dialogs/kbugreport.cpp:205
 msgid "Version:"
 msgstr "Versioun:"
 
@@ -3746,24 +3746,24 @@ msgstr "Alt"
 msgid "Meta"
 msgstr "Meta"
 
-#: kdeui/util/ksystemtrayicon.cpp:104
+#: kdeui/util/ksystemtrayicon.cpp:105
 msgid "Minimize"
 msgstr "Kleng maachen"
 
-#: kdeui/util/ksystemtrayicon.cpp:162
+#: kdeui/util/ksystemtrayicon.cpp:163
 msgid "&Minimize"
 msgstr "&Grouss maachen"
 
-#: kdeui/util/ksystemtrayicon.cpp:166
+#: kdeui/util/ksystemtrayicon.cpp:167
 msgid "&Restore"
 msgstr "Zeréck&setzen"
 
-#: kdeui/util/ksystemtrayicon.cpp:186
+#: kdeui/util/ksystemtrayicon.cpp:187
 #, qt-format
 msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgstr "<qt>Sidd dir sëcher, dass dir <b>%1</b> zoumaache wëllt ?</qt>"
 
-#: kdeui/util/ksystemtrayicon.cpp:189
+#: kdeui/util/ksystemtrayicon.cpp:190
 msgid "Confirm Quit From System Tray"
 msgstr "Aus dem Systemberäich erausgoen"
 
@@ -3873,7 +3873,7 @@ msgstr "Input-Feld eidelmaachen"
 msgid "Clear the input in the edit field"
 msgstr "Den Inhalt vum Input-Feld läschen"
 
-#: kdeui/util/kstandardguiitem.cpp:174 kdeui/actions/kstandardaction.cpp:88
+#: kdeui/util/kstandardguiitem.cpp:174 kdeui/actions/kstandardaction.cpp:87
 msgctxt "show help"
 msgid "&Help"
 msgstr "&Hëllef"
@@ -3894,7 +3894,7 @@ msgstr "&Standardastellungen"
 msgid "Reset all items to their default values"
 msgstr "All Elementer op hir Standardwerter zerécksetzen"
 
-#: kdeui/util/kstandardguiitem.cpp:194 kdeui/actions/kstandardaction.cpp:73
+#: kdeui/util/kstandardguiitem.cpp:194 kdeui/actions/kstandardaction.cpp:72
 msgctxt "go back"
 msgid "&Back"
 msgstr "&Zeréck"
@@ -3903,7 +3903,7 @@ msgstr "&Zeréck"
 msgid "Go back one step"
 msgstr "Ee Schrack zeréckgoen"
 
-#: kdeui/util/kstandardguiitem.cpp:202 kdeui/actions/kstandardaction.cpp:79
+#: kdeui/util/kstandardguiitem.cpp:202 kdeui/actions/kstandardaction.cpp:78
 msgctxt "go forward"
 msgid "&Forward"
 msgstr "&No Vir"
@@ -3969,7 +3969,7 @@ msgstr "&Asetzen"
 msgid "Confi&gure..."
 msgstr "Confi&guréieren..."
 
-#: kdeui/util/kstandardguiitem.cpp:260 kdeui/findreplace/kfinddialog.cpp:262
+#: kdeui/util/kstandardguiitem.cpp:260 kdeui/findreplace/kfinddialog.cpp:233
 msgid "&Find"
 msgstr "&Sichen"
 
@@ -4061,7 +4061,7 @@ msgstr "Opmaachen"
 msgid "Paste"
 msgstr "Peschen"
 
-#: kdeui/util/kkeyserver_x11.cpp:117 kdeui/findreplace/kfinddialog.cpp:136
+#: kdeui/util/kkeyserver_x11.cpp:117 kdeui/findreplace/kfinddialog.cpp:107
 #: kdeui/shortcuts/kstandardshortcut.cpp:84
 msgid "Find"
 msgstr "Sichen"
@@ -4393,7 +4393,7 @@ msgstr "Dëss Noricht net méi weisen"
 msgid "About %1"
 msgstr "Iwwer %1"
 
-#: kdeui/dialogs/kconfigdialog.cpp:65 kdeui/actions/kcodecaction.cpp:111
+#: kdeui/dialogs/kconfigdialog.cpp:60 kdeui/actions/kcodecaction.cpp:111
 #: kfile/kfilewidget.cpp:326 kutils/kcmultidialog.cpp:126
 msgid "Configure"
 msgstr "Configuréieren"
@@ -4550,47 +4550,47 @@ msgstr "Iwwe&rsetzung"
 msgid "&License Agreement"
 msgstr "&Lizenz"
 
-#: kdeui/dialogs/kbugreport.cpp:101
+#: kdeui/dialogs/kbugreport.cpp:102
 msgid "Submit Bug Report"
 msgstr "E Käfer mellen"
 
-#: kdeui/dialogs/kbugreport.cpp:137
+#: kdeui/dialogs/kbugreport.cpp:138
 msgid ""
 "Your email address. If incorrect, use the Configure Email button to change it"
 msgstr ""
 "Är E-Mail-Adress. Wa se falsch ass, dréckt op den \"E-Mail configuréieren\"-"
 "Knäppche fir se z'änneren"
 
-#: kdeui/dialogs/kbugreport.cpp:138
+#: kdeui/dialogs/kbugreport.cpp:139
 msgid "From:"
 msgstr "Vun:"
 
-#: kdeui/dialogs/kbugreport.cpp:147
+#: kdeui/dialogs/kbugreport.cpp:148
 msgid "Configure Email..."
 msgstr "E-Mail configuréiren..."
 
-#: kdeui/dialogs/kbugreport.cpp:154
+#: kdeui/dialogs/kbugreport.cpp:155
 msgid "The email address this bug report is sent to."
 msgstr "D'E-Mail-Adress, wou de Käfer gemellt gëtt."
 
-#: kdeui/dialogs/kbugreport.cpp:155
+#: kdeui/dialogs/kbugreport.cpp:156
 msgid "To:"
 msgstr "Un:"
 
-#: kdeui/dialogs/kbugreport.cpp:162
+#: kdeui/dialogs/kbugreport.cpp:163
 msgid "&Send"
 msgstr "&Fortschécken"
 
-#: kdeui/dialogs/kbugreport.cpp:162
+#: kdeui/dialogs/kbugreport.cpp:163
 msgid "Send bug report."
 msgstr "De Bericht fortschécken."
 
-#: kdeui/dialogs/kbugreport.cpp:163
+#: kdeui/dialogs/kbugreport.cpp:164
 #, qt-format
 msgid "Send this bug report to %1."
 msgstr "Dëse Käfer bei %1 mellen."
 
-#: kdeui/dialogs/kbugreport.cpp:174
+#: kdeui/dialogs/kbugreport.cpp:175
 msgid ""
 "The application for which you wish to submit a bug report - if incorrect, "
 "please use the Report Bug menu item of the correct application"
@@ -4598,11 +4598,11 @@ msgstr ""
 "De Programm an deem dir de Käfer fonnt hutt - Falls hei dee falsche Programm "
 "steet, bënotzt w.e.g. de \"Käfer Mellen\"-Menü vun deem richtege Programm"
 
-#: kdeui/dialogs/kbugreport.cpp:175
+#: kdeui/dialogs/kbugreport.cpp:176
 msgid "Application: "
 msgstr "Programm: "
 
-#: kdeui/dialogs/kbugreport.cpp:203
+#: kdeui/dialogs/kbugreport.cpp:204
 msgid ""
 "The version of this application - please make sure that no newer version is "
 "available before sending a bug report"
@@ -4610,48 +4610,48 @@ msgstr ""
 "D'Versioun vum Programm - Kuckt w.e.g. no, ob keng méi nei Versioun eraus "
 "ass, éier dir de Bericht verschéckt"
 
-#: kdeui/dialogs/kbugreport.cpp:210
+#: kdeui/dialogs/kbugreport.cpp:211
 msgid "no version set (programmer error!)"
 msgstr "keng Versioun (Feeler vum Programméierer!)"
 
-#: kdeui/dialogs/kbugreport.cpp:220
+#: kdeui/dialogs/kbugreport.cpp:221
 msgid "OS:"
 msgstr "OS:"
 
-#: kdeui/dialogs/kbugreport.cpp:232
+#: kdeui/dialogs/kbugreport.cpp:233
 msgid "Compiler:"
 msgstr "Compiler:"
 
-#: kdeui/dialogs/kbugreport.cpp:240
+#: kdeui/dialogs/kbugreport.cpp:241
 msgid "Se&verity"
 msgstr "Gra&vitéit"
 
-#: kdeui/dialogs/kbugreport.cpp:242
+#: kdeui/dialogs/kbugreport.cpp:243
 msgid "Critical"
 msgstr "Kritësch"
 
-#: kdeui/dialogs/kbugreport.cpp:242
+#: kdeui/dialogs/kbugreport.cpp:243
 msgid "Grave"
 msgstr "Schlëmm"
 
-#: kdeui/dialogs/kbugreport.cpp:242
+#: kdeui/dialogs/kbugreport.cpp:243
 msgctxt "normal severity"
 msgid "Normal"
 msgstr "Normal"
 
-#: kdeui/dialogs/kbugreport.cpp:242
+#: kdeui/dialogs/kbugreport.cpp:243
 msgid "Wishlist"
 msgstr "Wonsch"
 
-#: kdeui/dialogs/kbugreport.cpp:242
+#: kdeui/dialogs/kbugreport.cpp:243
 msgid "Translation"
 msgstr "Iwwersetzung"
 
-#: kdeui/dialogs/kbugreport.cpp:259
+#: kdeui/dialogs/kbugreport.cpp:260
 msgid "S&ubject: "
 msgstr "Be&treff: "
 
-#: kdeui/dialogs/kbugreport.cpp:266
+#: kdeui/dialogs/kbugreport.cpp:267
 msgid ""
 "Enter the text (in English if possible) that you wish to submit for the bug "
 "report.\n"
@@ -4663,7 +4663,7 @@ msgstr ""
 "Wann dir op \"Fortschécken\" klickt, gëtt eng E-Mail un de Verwalter vun "
 "dësem Programm geschéckt.\n"
 
-#: kdeui/dialogs/kbugreport.cpp:287
+#: kdeui/dialogs/kbugreport.cpp:288
 #, fuzzy
 msgid ""
 "<qt>To submit a bug report, click on the button below. This will open a web "
@@ -4677,16 +4677,16 @@ msgstr ""
 "wou dir e Formular ausfëlle kënnt.\n"
 "D'Informatioun hei driwwer gëtt op de Server geschéckt."
 
-#: kdeui/dialogs/kbugreport.cpp:298
+#: kdeui/dialogs/kbugreport.cpp:299
 msgid "&Launch Bug Report Wizard"
 msgstr "Käfer-Mellen-Assistent &starten"
 
-#: kdeui/dialogs/kbugreport.cpp:347
+#: kdeui/dialogs/kbugreport.cpp:348
 msgctxt "unknown program name"
 msgid "unknown"
 msgstr "Onbekannt"
 
-#: kdeui/dialogs/kbugreport.cpp:412
+#: kdeui/dialogs/kbugreport.cpp:413
 msgid ""
 "You must specify both a subject and a description before the report can be "
 "sent."
@@ -4694,7 +4694,7 @@ msgstr ""
 "Dir musst e Betreff an eng Beschreiwung ugin, éier dir de Bericht verschécke "
 "kënnt."
 
-#: kdeui/dialogs/kbugreport.cpp:422
+#: kdeui/dialogs/kbugreport.cpp:423
 msgid ""
 "<p>You chose the severity <b>Critical</b>. Please note that this severity is "
 "intended only for bugs that</p><ul><li>break unrelated software on the "
@@ -4712,7 +4712,7 @@ msgstr ""
 "<p>Erfëllt äre Käfer ee vun deene Critèren? Falls net, wielt w.e.g. méi eng "
 "schwaach Gravitéit aus. Merci.</p>"
 
-#: kdeui/dialogs/kbugreport.cpp:433
+#: kdeui/dialogs/kbugreport.cpp:434
 msgid ""
 "<p>You chose the severity <b>Grave</b>. Please note that this severity is "
 "intended only for bugs that</p><ul><li>make the package in question unusable "
@@ -4730,7 +4730,7 @@ msgstr ""
 "<p>Erfëllt äre Käfer ee vun deene Critèren? Falls net, wielt w.e.g. méi eng "
 "schwaach Gravitéit aus. Merci.</p>"
 
-#: kdeui/dialogs/kbugreport.cpp:447
+#: kdeui/dialogs/kbugreport.cpp:448
 msgid ""
 "Unable to send the bug report.\n"
 "Please submit a bug report manually...\n"
@@ -4740,11 +4740,11 @@ msgstr ""
 "Mellt äre Käfer w.e.g. manuell...\n"
 "Gitt op http://bugs.kde.org/ fir Uweisungen."
 
-#: kdeui/dialogs/kbugreport.cpp:455
+#: kdeui/dialogs/kbugreport.cpp:456
 msgid "Bug report sent, thank you for your input."
 msgstr "Käfer gemellt. Merci fir är Hëllef."
 
-#: kdeui/dialogs/kbugreport.cpp:464
+#: kdeui/dialogs/kbugreport.cpp:465
 msgid ""
 "Close and discard\n"
 "edited message?"
@@ -4753,7 +4753,7 @@ msgstr ""
 "verännert Noricht\n"
 "si loossen?"
 
-#: kdeui/dialogs/kbugreport.cpp:465
+#: kdeui/dialogs/kbugreport.cpp:466
 msgid "Close Message"
 msgstr "Noricht zoumaachen"
 
@@ -4942,71 +4942,67 @@ msgstr ""
 msgid "Actual Font"
 msgstr "Aktuell Schrëft"
 
-#: kdeui/findreplace/kfinddialog.cpp:65 kdeui/findreplace/kfinddialog.cpp:80
+#: kdeui/findreplace/kfinddialog.cpp:64
 msgid "Find Text"
 msgstr "Text sichen"
 
-#: kdeui/findreplace/kfinddialog.cpp:95
-msgid "Replace Text"
-msgstr "Text ersetzen"
-
-#: kdeui/findreplace/kfinddialog.cpp:142
+#: kdeui/findreplace/kfinddialog.cpp:113
 msgid "&Text to find:"
 msgstr "&Text, deen ze sichen ass:"
 
-#: kdeui/findreplace/kfinddialog.cpp:146
+#: kdeui/findreplace/kfinddialog.cpp:117
 msgid "Regular e&xpression"
 msgstr "Re&gulären Ausdrock"
 
-#: kdeui/findreplace/kfinddialog.cpp:147
+#: kdeui/findreplace/kfinddialog.cpp:118
 msgid "&Edit..."
 msgstr "V&eränneren..."
 
-#: kdeui/findreplace/kfinddialog.cpp:156
+#: kdeui/findreplace/kfinddialog.cpp:127
 msgid "Replace With"
 msgstr "Ersetzen duerch"
 
-#: kdeui/findreplace/kfinddialog.cpp:162
+#: kdeui/findreplace/kfinddialog.cpp:133
 msgid "Replace&ment text:"
 msgstr "Er&satztext:"
 
-#: kdeui/findreplace/kfinddialog.cpp:166
+#: kdeui/findreplace/kfinddialog.cpp:137
 msgid "Use p&laceholders"
 msgstr "P&lazhaler benotzen"
 
-#: kdeui/findreplace/kfinddialog.cpp:167
+#: kdeui/findreplace/kfinddialog.cpp:138
 msgid "Insert Place&holder"
 msgstr "Plaz&haler asetzen"
 
-#: kdeui/findreplace/kfinddialog.cpp:182
+#: kdeui/findreplace/kfinddialog.cpp:153
 msgid "C&ase sensitive"
 msgstr "Op Grouss-/Klengschreiwung opp&assen"
 
-#: kdeui/findreplace/kfinddialog.cpp:183
+#: kdeui/findreplace/kfinddialog.cpp:154
 msgid "&Whole words only"
 msgstr "Nëmme &ganz Wierder"
 
-#: kdeui/findreplace/kfinddialog.cpp:184
+#: kdeui/findreplace/kfinddialog.cpp:155
 msgid "From c&ursor"
 msgstr "Vum C&ursor un"
 
-#: kdeui/findreplace/kfinddialog.cpp:185
+#: kdeui/findreplace/kfinddialog.cpp:156
 msgid "Find &backwards"
 msgstr "&Hannerzeg sichen"
 
-#: kdeui/findreplace/kfinddialog.cpp:186
+#: kdeui/findreplace/kfinddialog.cpp:157
 msgid "&Selected text"
 msgstr "&Ausgewielten Text"
 
-#: kdeui/findreplace/kfinddialog.cpp:193
+#: kdeui/findreplace/kfinddialog.cpp:164
 msgid "&Prompt on replace"
 msgstr "Virum Ersetzen no&froen"
 
-#: kdeui/findreplace/kfinddialog.cpp:255
+#: kdeui/findreplace/kfinddialog.cpp:226
 msgid "Start replace"
 msgstr "Mam Ersetzen ufänken"
 
-#: kdeui/findreplace/kfinddialog.cpp:256
+#: kdeui/findreplace/kfinddialog.cpp:227
 msgid ""
 "<qt>If you press the <b>Replace</b> button, the text you entered above is "
 "searched for within the document and any occurrence is replaced with the "
@@ -5016,11 +5012,11 @@ msgstr ""
 "deem Text, deen dir uewen agin hutt, gesicht, an all Optriede gëtt duerch "
 "den Ersatztext ersat.</qt>"
 
-#: kdeui/findreplace/kfinddialog.cpp:263
+#: kdeui/findreplace/kfinddialog.cpp:234
 msgid "Start searching"
 msgstr "Mat der Sicht ufänken"
 
-#: kdeui/findreplace/kfinddialog.cpp:264
+#: kdeui/findreplace/kfinddialog.cpp:235
 msgid ""
 "<qt>If you press the <b>Find</b> button, the text you entered above is "
 "searched for within the document.</qt>"
@@ -5028,28 +5024,28 @@ msgstr ""
 "<qt>Wann dir op de<b>Sichen</b>-Knäppche klickt, gëtt am Dokument no deem "
 "Text, deen dir uewen agin hutt, gesicht.</qt>"
 
-#: kdeui/findreplace/kfinddialog.cpp:270
+#: kdeui/findreplace/kfinddialog.cpp:241
 msgid ""
 "Enter a pattern to search for, or select a previous pattern from the list."
 msgstr ""
 "Gitt w.e.g. e Muster an, no deem gesicht soll ginn, oder wielt ee Muster aus "
 "der Lëscht."
 
-#: kdeui/findreplace/kfinddialog.cpp:273
+#: kdeui/findreplace/kfinddialog.cpp:244
 msgid "If enabled, search for a regular expression."
 msgstr "Wann ugeschalt, gëtt no engem regulären Ausdrock gesicht."
 
-#: kdeui/findreplace/kfinddialog.cpp:275
+#: kdeui/findreplace/kfinddialog.cpp:246
 msgid "Click here to edit your regular expression using a graphical editor."
 msgstr ""
 "Klickt hei fir mat engem grafëschen Editor un ärem regulären Ausdrock ze "
 "schaffen."
 
-#: kdeui/findreplace/kfinddialog.cpp:277
+#: kdeui/findreplace/kfinddialog.cpp:248
 msgid "Enter a replacement string, or select a previous one from the list."
 msgstr "Gitt w.e.g. ën Ersatz-String an, oder wielt een aus der Lëscht."
 
-#: kdeui/findreplace/kfinddialog.cpp:279
+#: kdeui/findreplace/kfinddialog.cpp:250
 msgid ""
 "<qt>If enabled, any occurrence of <code><b>\\N</b></code>, where <code><b>N</"
 "b></code> is a integer number, will be replaced with the corresponding "
@@ -5063,23 +5059,23 @@ msgstr ""
 "\\N</b></code> (aus Buchstawen) an ärer Ersetzung mat anzebezéien, setzt e "
 "backslash virdrunn, wéi z.B. <code><b>\\\\N</b></code>.</qt>"
 
-#: kdeui/findreplace/kfinddialog.cpp:286
+#: kdeui/findreplace/kfinddialog.cpp:257
 msgid "Click for a menu of available captures."
 msgstr "Klickt fir e Menü mat verfügbaren Treffer ze kréien."
 
-#: kdeui/findreplace/kfinddialog.cpp:288
+#: kdeui/findreplace/kfinddialog.cpp:259
 msgid "Require word boundaries in both ends of a match to succeed."
 msgstr "Wuertgrenzen op béide Säite vun engem Treffer gi gebraucht."
 
-#: kdeui/findreplace/kfinddialog.cpp:290
+#: kdeui/findreplace/kfinddialog.cpp:261
 msgid "Start searching at the current cursor location rather than at the top."
 msgstr "Beim Cursor mat der Sicht ufänken, amplaz ganz uewen."
 
-#: kdeui/findreplace/kfinddialog.cpp:292
+#: kdeui/findreplace/kfinddialog.cpp:263
 msgid "Only search within the current selection."
 msgstr "Nëmme bannent der aktueller Selectioun sichen."
 
-#: kdeui/findreplace/kfinddialog.cpp:294
+#: kdeui/findreplace/kfinddialog.cpp:265
 msgid ""
 "Perform a case sensitive search: entering the pattern 'Joe' will not match "
 "'joe' or 'JOE', only 'Joe'."
@@ -5087,153 +5083,153 @@ msgstr ""
 "Op Grouss- a Klengschreiwung gëtt opgepasst: 'Kevin' ass net dat Selwëcht "
 "wéi 'KEVIN' oder 'kevin'."
 
-#: kdeui/findreplace/kfinddialog.cpp:297
+#: kdeui/findreplace/kfinddialog.cpp:268
 msgid "Search backwards."
 msgstr "Hannerzeg sichen."
 
-#: kdeui/findreplace/kfinddialog.cpp:299
+#: kdeui/findreplace/kfinddialog.cpp:270
 msgid "Ask before replacing each match found."
 msgstr "Froen, éier en Treffer ersat gëtt."
 
-#: kdeui/findreplace/kfinddialog.cpp:474
+#: kdeui/findreplace/kfinddialog.cpp:445
 msgid "Any Character"
 msgstr "Iergendeen Zeechen"
 
-#: kdeui/findreplace/kfinddialog.cpp:475
+#: kdeui/findreplace/kfinddialog.cpp:446
 msgid "Start of Line"
 msgstr "Ufank vun der Zeil"
 
-#: kdeui/findreplace/kfinddialog.cpp:476
+#: kdeui/findreplace/kfinddialog.cpp:447
 #: kdeui/shortcuts/kstandardshortcut.cpp:101
 msgid "End of Line"
 msgstr "Enn vun der Linn"
 
-#: kdeui/findreplace/kfinddialog.cpp:477
+#: kdeui/findreplace/kfinddialog.cpp:448
 msgid "Set of Characters"
 msgstr "Zeechesaatz"
 
-#: kdeui/findreplace/kfinddialog.cpp:478
+#: kdeui/findreplace/kfinddialog.cpp:449
 msgid "Repeats, Zero or More Times"
 msgstr "Widerhuelung (guer net oder e puer Kéieren)"
 
-#: kdeui/findreplace/kfinddialog.cpp:479
+#: kdeui/findreplace/kfinddialog.cpp:450
 msgid "Repeats, One or More Times"
 msgstr "Widerhuelung (eng Kéier oder e puer Kéieren)"
 
-#: kdeui/findreplace/kfinddialog.cpp:480
+#: kdeui/findreplace/kfinddialog.cpp:451
 msgid "Optional"
 msgstr "Optional"
 
-#: kdeui/findreplace/kfinddialog.cpp:481
+#: kdeui/findreplace/kfinddialog.cpp:452
 msgid "Escape"
 msgstr "Esc"
 
-#: kdeui/findreplace/kfinddialog.cpp:482
+#: kdeui/findreplace/kfinddialog.cpp:453
 msgid "TAB"
 msgstr "Tab"
 
-#: kdeui/findreplace/kfinddialog.cpp:483
+#: kdeui/findreplace/kfinddialog.cpp:454
 msgid "Newline"
 msgstr "Nei Zeil"
 
-#: kdeui/findreplace/kfinddialog.cpp:484
+#: kdeui/findreplace/kfinddialog.cpp:455
 msgid "Carriage Return"
 msgstr "Récklaf vum Won"
 
-#: kdeui/findreplace/kfinddialog.cpp:485
+#: kdeui/findreplace/kfinddialog.cpp:456
 msgid "White Space"
 msgstr "Eidel Plaz"
 
-#: kdeui/findreplace/kfinddialog.cpp:486
+#: kdeui/findreplace/kfinddialog.cpp:457
 msgid "Digit"
 msgstr "Zuel"
 
-#: kdeui/findreplace/kfinddialog.cpp:579
+#: kdeui/findreplace/kfinddialog.cpp:550
 msgid "Complete Match"
 msgstr "Vollstänneg Iwwereneestëmmung"
 
-#: kdeui/findreplace/kfinddialog.cpp:584
+#: kdeui/findreplace/kfinddialog.cpp:555
 #, qt-format
 msgid "Captured Text (%1)"
 msgstr "Text fonnt (%1)"
 
-#: kdeui/findreplace/kfinddialog.cpp:592
+#: kdeui/findreplace/kfinddialog.cpp:563
 msgid "You must enter some text to search for."
 msgstr "Dir musst ën Text agin, no deem der siche wëllt."
 
-#: kdeui/findreplace/kfinddialog.cpp:603
+#: kdeui/findreplace/kfinddialog.cpp:574
 msgid "Invalid regular expression."
 msgstr "Ongültege regulären Ausdrock."
 
-#: kdeui/findreplace/kreplace.cpp:47 kdeui/findreplace/kreplace.cpp:51
+#: kdeui/findreplace/kreplace.cpp:48 kdeui/findreplace/kreplace.cpp:52
 #: kdeui/shortcuts/kstandardshortcut.cpp:87
 #: kross/modules/scriptmanager.cpp:264 kcert/kcertpart.cc:739
 #: kcert/kcertpart.cc:755
 msgid "Replace"
 msgstr "Ersetzen"
 
-#: kdeui/findreplace/kreplace.cpp:49
+#: kdeui/findreplace/kreplace.cpp:50
 msgid "&All"
 msgstr "&Alleguer"
 
-#: kdeui/findreplace/kreplace.cpp:50
+#: kdeui/findreplace/kreplace.cpp:51
 msgid "&Skip"
 msgstr "&Iwwersprangen"
 
-#: kdeui/findreplace/kreplace.cpp:62
+#: kdeui/findreplace/kreplace.cpp:63
 #, qt-format
 msgid "Replace '%1' with '%2'?"
 msgstr "'%1' duerch '%2' ersetzen?"
 
-#: kdeui/findreplace/kreplace.cpp:109 kdeui/findreplace/kreplace.cpp:304
+#: kdeui/findreplace/kreplace.cpp:110 kdeui/findreplace/kreplace.cpp:305
 msgid "No text was replaced."
 msgstr "Et ass näischt ersat ginn."
 
-#: kdeui/findreplace/kreplace.cpp:111 kdeui/findreplace/kreplace.cpp:306
+#: kdeui/findreplace/kreplace.cpp:112 kdeui/findreplace/kreplace.cpp:307
 #, fuzzy, qt-format
 msgid "1 replacement done."
 msgid_plural "%1 replacements done."
 msgstr[0] "1 Ersetzung duerchgefouert."
 msgstr[1] "%1 Ersetzungen duerchgefouert."
 
-#: kdeui/findreplace/kreplace.cpp:311 kdeui/findreplace/kfind.cpp:667
+#: kdeui/findreplace/kreplace.cpp:312 kdeui/findreplace/kfind.cpp:667
 msgid "Beginning of document reached."
 msgstr "Ufank vum Dokument erreecht."
 
-#: kdeui/findreplace/kreplace.cpp:313 kdeui/findreplace/kfind.cpp:669
+#: kdeui/findreplace/kreplace.cpp:314 kdeui/findreplace/kfind.cpp:669
 msgid "End of document reached."
 msgstr "Enn vum Dokument erreecht."
 
-#: kdeui/findreplace/kreplace.cpp:320
+#: kdeui/findreplace/kreplace.cpp:321
 msgid "Do you want to restart search from the end?"
 msgstr "Wëllt dir vun hanne weidersichen?"
 
-#: kdeui/findreplace/kreplace.cpp:321
+#: kdeui/findreplace/kreplace.cpp:322
 msgid "Do you want to restart search at the beginning?"
 msgstr "Wëllt dir um Ufank weidersichen?"
 
-#: kdeui/findreplace/kreplace.cpp:323
+#: kdeui/findreplace/kreplace.cpp:324
 msgid "Restart"
 msgstr "Nei ufänken"
 
-#: kdeui/findreplace/kreplacedialog.cpp:148
+#: kdeui/findreplace/kreplacedialog.cpp:149
 #, qt-format
 msgid "Your replacement string is referencing a capture greater than '\\%1', "
 msgstr ""
 "Ären Ersatz-String verweist op eng Fondplaz, déi méi grouss ass wéi '\\%1', "
 
-#: kdeui/findreplace/kreplacedialog.cpp:150
+#: kdeui/findreplace/kreplacedialog.cpp:151
 #, fuzzy, qt-format
 msgid "but your pattern only defines 1 capture."
 msgid_plural "but your pattern only defines %1 captures."
 msgstr[0] "mais ärt Muster definéiert just 1 Fondplaz."
 msgstr[1] "mais ärt Muster definéiert just %1 Fondplazen."
 
-#: kdeui/findreplace/kreplacedialog.cpp:152
+#: kdeui/findreplace/kreplacedialog.cpp:153
 msgid "but your pattern defines no captures."
 msgstr "mais ärt Muster definéiert keng Fondplaz"
 
-#: kdeui/findreplace/kreplacedialog.cpp:153
+#: kdeui/findreplace/kreplacedialog.cpp:154
 msgid ""
 "\n"
 "Please correct."
@@ -5479,27 +5475,27 @@ msgstr "Element an der Lëscht virdrunn"
 msgid "Next Item in List"
 msgstr "Nächst Element an der Lëscht"
 
-#: kdeui/shortcuts/kcheckaccelerators.cpp:156
+#: kdeui/shortcuts/kcheckaccelerators.cpp:157
 msgid "Dr. Klash' Accelerator Diagnosis"
 msgstr "Dem Dr. Klash seng Diagnos iwwer Kierzelen"
 
-#: kdeui/shortcuts/kcheckaccelerators.cpp:165
+#: kdeui/shortcuts/kcheckaccelerators.cpp:166
 msgid "&Disable automatic checking"
 msgstr "Automatësch Kontroll &ofschalten"
 
-#: kdeui/shortcuts/kcheckaccelerators.cpp:205
+#: kdeui/shortcuts/kcheckaccelerators.cpp:206
 msgid "<h2>Accelerators changed</h2>"
 msgstr "<h2>Kuerzbefehler geännert</h2>"
 
-#: kdeui/shortcuts/kcheckaccelerators.cpp:211
+#: kdeui/shortcuts/kcheckaccelerators.cpp:212
 msgid "<h2>Accelerators removed</h2>"
 msgstr "<h2>Kuerzbefehler ewechgeholl</h2>"
 
-#: kdeui/shortcuts/kcheckaccelerators.cpp:216
+#: kdeui/shortcuts/kcheckaccelerators.cpp:217
 msgid "<h2>Accelerators added (just for your info)</h2>"
 msgstr "<h2>Kuerzbefehler dobäigemaach (nëmme fir bescheed ze soen)</h2>"
 
-#: kdeui/kernel/kapplication.cpp:592
+#: kdeui/kernel/kapplication.cpp:593
 msgctxt ""
 "Dear Translator! Translate this string to the string 'LTR' in left-to-right "
 "languages (as English) or to 'RTL' in right-to-left languages (such as "
@@ -5507,7 +5503,7 @@ msgctxt ""
 msgid "LTR"
 msgstr ""
 
-#: kdeui/kernel/kapplication.cpp:827
+#: kdeui/kernel/kapplication.cpp:828
 #, qt-format
 msgid "The style %1 was not found\n"
 msgstr "De Stil %1 ass net fonnt ginn\n"
@@ -5530,7 +5526,7 @@ msgid "Exit F&ull Screen Mode"
 msgstr "Aus dem &Vollbildmodus erausgoen"
 
 #: kdeui/actions/kcodecaction.cpp:78 kdeui/widgets/klineedit.cpp:1053
-#: kdeui/widgets/ktoolbar.cpp:273
+#: kdeui/widgets/ktoolbar.cpp:274
 msgid "Default"
 msgstr "Standard"
 
@@ -5541,24 +5537,24 @@ msgctxt "Encodings menu"
 msgid "Autodetect"
 msgstr "Automatësch Verbesserung"
 
-#: kdeui/actions/kstandardaction.cpp:85
+#: kdeui/actions/kstandardaction.cpp:84
 msgctxt "beginning (of line)"
 msgid "&Home"
 msgstr "&Ufank"
 
-#: kdeui/actions/kstandardaction.cpp:452 kdeui/actions/kstandardaction_p.h:96
+#: kdeui/actions/kstandardaction.cpp:451 kdeui/actions/kstandardaction_p.h:96
 msgid "Show &Menubar"
 msgstr "&Menübar weisen"
 
-#: kdeui/actions/kstandardaction.cpp:461
+#: kdeui/actions/kstandardaction.cpp:460
 msgid "Show Menubar<p>Shows the menubar again after it has been hidden"
 msgstr "Menübar weisen<p>Weist d'Menübar nees un, nodeems se verstoppt gi war"
 
-#: kdeui/actions/kstandardaction.cpp:463
+#: kdeui/actions/kstandardaction.cpp:462
 msgid "Hide &Menubar"
 msgstr "&Menübar verstoppen"
 
-#: kdeui/actions/kstandardaction.cpp:464
+#: kdeui/actions/kstandardaction.cpp:463
 msgid ""
 "Hide Menubar<p>Hide the menubar. You can usually get it back using the right "
 "mouse button inside the window itself."
@@ -5566,11 +5562,11 @@ msgstr ""
 "Menübar verstoppen<p>D'Menübar verstoppen. Dir kënnt se zeréckhuelen, wann "
 "dir an der Fënster selwer déi riets Maustast klickt."
 
-#: kdeui/actions/kstandardaction.cpp:475 kdeui/actions/kstandardaction_p.h:98
+#: kdeui/actions/kstandardaction.cpp:474 kdeui/actions/kstandardaction_p.h:98
 msgid "Show St&atusbar"
 msgstr "St&atusbar weisen"
 
-#: kdeui/actions/kstandardaction.cpp:481
+#: kdeui/actions/kstandardaction.cpp:480
 msgid ""
 "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of the "
 "window used for status information."
@@ -5578,11 +5574,11 @@ msgstr ""
 "Statusbar weisen<p>Weist d'Statusbar. Dat ass déi Leescht ënnen an der "
 "Fënster fir d'Statusinformatiounen."
 
-#: kdeui/actions/kstandardaction.cpp:483
+#: kdeui/actions/kstandardaction.cpp:482
 msgid "Hide St&atusbar"
 msgstr "St&atusbar vestoppen"
 
-#: kdeui/actions/kstandardaction.cpp:484
+#: kdeui/actions/kstandardaction.cpp:483
 msgid ""
 "Hide Statusbar<p>Hides the statusbar, which is the bar at the bottom of the "
 "window used for status information."
@@ -5636,7 +5632,7 @@ msgstr "Bei d'Benotzerdefinéiert Faarwen &dobäimaachen"
 msgid "Configure Shortcut"
 msgstr "Kierzel configuréieren"
 
-#: kdeui/xmlgui/kxmlguibuilder.cpp:182 kdeui/xmlgui/kxmlguibuilder.cpp:366
+#: kdeui/xmlgui/kxmlguibuilder.cpp:183 kdeui/xmlgui/kxmlguibuilder.cpp:367
 #, fuzzy
 msgid "No text"
 msgstr "Keen Text!"
@@ -6037,27 +6033,27 @@ msgctxt "What the user inputs now will be taken as the new shortcut"
 msgid "Input"
 msgstr "Quelldatei"
 
-#: kdeui/widgets/keditlistbox.cpp:228
+#: kdeui/widgets/keditlistbox.cpp:227
 msgid "&Add"
 msgstr "&Dobäimaachen"
 
-#: kdeui/widgets/keditlistbox.cpp:240
+#: kdeui/widgets/keditlistbox.cpp:239
 msgid "&Remove"
 msgstr "&Ewechmaachen"
 
-#: kdeui/widgets/keditlistbox.cpp:252
+#: kdeui/widgets/keditlistbox.cpp:251
 msgid "Move &Up"
 msgstr "Er&opréckelen"
 
-#: kdeui/widgets/keditlistbox.cpp:257
+#: kdeui/widgets/keditlistbox.cpp:256
 msgid "Move &Down"
 msgstr "&Erofréckelen"
 
-#: kdeui/widgets/khistorycombobox.cpp:168 khtml/rendering/render_form.cpp:427
+#: kdeui/widgets/khistorycombobox.cpp:178 khtml/rendering/render_form.cpp:427
 msgid "Clear &History"
 msgstr "&History läschen"
 
-#: kdeui/widgets/khistorycombobox.cpp:308
+#: kdeui/widgets/khistorycombobox.cpp:318
 msgid "No further item in the history."
 msgstr "Keen Element méi an der History."
 
@@ -6095,84 +6091,84 @@ msgstr "&Iwwer %1"
 msgid "About &KDE"
 msgstr "Iwwer &KDE"
 
-#: kdeui/widgets/ktoolbar.cpp:238
+#: kdeui/widgets/ktoolbar.cpp:239
 msgid "Toolbar Menu"
 msgstr "Toolbar-Menü"
 
-#: kdeui/widgets/ktoolbar.cpp:240
+#: kdeui/widgets/ktoolbar.cpp:241
 msgid "Orientation"
 msgstr "Ausriichtung"
 
-#: kdeui/widgets/ktoolbar.cpp:243
+#: kdeui/widgets/ktoolbar.cpp:244
 msgctxt "toolbar position string"
 msgid "Top"
 msgstr "Uewen"
 
-#: kdeui/widgets/ktoolbar.cpp:245
+#: kdeui/widgets/ktoolbar.cpp:246
 msgctxt "toolbar position string"
 msgid "Left"
 msgstr "Lénks"
 
-#: kdeui/widgets/ktoolbar.cpp:246
+#: kdeui/widgets/ktoolbar.cpp:247
 msgctxt "toolbar position string"
 msgid "Right"
 msgstr "Riets"
 
-#: kdeui/widgets/ktoolbar.cpp:247
+#: kdeui/widgets/ktoolbar.cpp:248
 msgctxt "toolbar position string"
 msgid "Bottom"
 msgstr "Ënnen"
 
-#: kdeui/widgets/ktoolbar.cpp:255
+#: kdeui/widgets/ktoolbar.cpp:256
 msgid "Text Position"
 msgstr "Positioun vum Text"
 
-#: kdeui/widgets/ktoolbar.cpp:258
+#: kdeui/widgets/ktoolbar.cpp:259
 msgid "Icons Only"
 msgstr "Nëmme Symboler"
 
-#: kdeui/widgets/ktoolbar.cpp:260
+#: kdeui/widgets/ktoolbar.cpp:261
 msgid "Text Only"
 msgstr "Nëmmen Text"
 
-#: kdeui/widgets/ktoolbar.cpp:261
+#: kdeui/widgets/ktoolbar.cpp:262
 msgid "Text Alongside Icons"
 msgstr "Text nierwt de Symboler"
 
-#: kdeui/widgets/ktoolbar.cpp:262
+#: kdeui/widgets/ktoolbar.cpp:263
 msgid "Text Under Icons"
 msgstr "Text ënnert de Symboler"
 
-#: kdeui/widgets/ktoolbar.cpp:270
+#: kdeui/widgets/ktoolbar.cpp:271
 msgid "Icon Size"
 msgstr "Gréisst vum Symbol"
 
-#: kdeui/widgets/ktoolbar.cpp:293 kdeui/widgets/ktoolbar.cpp:313
+#: kdeui/widgets/ktoolbar.cpp:294 kdeui/widgets/ktoolbar.cpp:314
 #, qt-format
 msgid "Small (%1x%2)"
 msgstr "Kleng (%1x%2)"
 
-#: kdeui/widgets/ktoolbar.cpp:295 kdeui/widgets/ktoolbar.cpp:315
+#: kdeui/widgets/ktoolbar.cpp:296 kdeui/widgets/ktoolbar.cpp:316
 #, qt-format
 msgid "Medium (%1x%2)"
 msgstr "Mëttel (%1x%2)"
 
-#: kdeui/widgets/ktoolbar.cpp:297 kdeui/widgets/ktoolbar.cpp:317
+#: kdeui/widgets/ktoolbar.cpp:298 kdeui/widgets/ktoolbar.cpp:318
 #, qt-format
 msgid "Large (%1x%2)"
 msgstr "Grouss (%1x%2)"
 
-#: kdeui/widgets/ktoolbar.cpp:299 kdeui/widgets/ktoolbar.cpp:319
+#: kdeui/widgets/ktoolbar.cpp:300 kdeui/widgets/ktoolbar.cpp:320
 #, qt-format
 msgid "Huge (%1x%2)"
 msgstr "Risëg (%1x%2)"
 
-#: kdeui/widgets/ktoolbar.cpp:339
+#: kdeui/widgets/ktoolbar.cpp:340
 #, fuzzy
 msgid "Lock Toolbars"
 msgstr "Toolbaren"
 
-#: kdeui/widgets/ktoolbar.cpp:342
+#: kdeui/widgets/ktoolbar.cpp:343
 #, fuzzy
 msgid "Unlock Toolbars"
 msgstr "Toolbaren"
@@ -6917,120 +6913,120 @@ msgstr "Bild - %1x%2 Pixelen"
 msgid "Done."
 msgstr "Fäerdeg."
 
-#: khtml/khtml_ext.cpp:430
+#: khtml/khtml_ext.cpp:431
 msgid "&Copy Text"
 msgstr "Text &kopéieren"
 
-#: khtml/khtml_ext.cpp:475
+#: khtml/khtml_ext.cpp:476
 #, fuzzy, qt-format
 msgid "Search for '%1' with %2"
 msgstr "No '%1' an %2 sichen"
 
-#: khtml/khtml_ext.cpp:486
+#: khtml/khtml_ext.cpp:487
 #, fuzzy, qt-format
 msgid "Search for '%1' with"
 msgstr "No '%1' siche bei"
 
-#: khtml/khtml_ext.cpp:520
+#: khtml/khtml_ext.cpp:521
 #, qt-format
 msgid "Open '%1'"
 msgstr "'%1' opmaachen"
 
-#: khtml/khtml_ext.cpp:530 khtml/khtml_ext.cpp:615
+#: khtml/khtml_ext.cpp:531 khtml/khtml_ext.cpp:616
 msgid "Stop Animations"
 msgstr "Animatiounen unhalen"
 
-#: khtml/khtml_ext.cpp:539
+#: khtml/khtml_ext.cpp:540
 msgid "Copy Email Address"
 msgstr "E-Mail-Adress kopéieren"
 
-#: khtml/khtml_ext.cpp:545
+#: khtml/khtml_ext.cpp:546
 msgid "&Save Link As..."
 msgstr "Link &späicheren als..."
 
-#: khtml/khtml_ext.cpp:549
+#: khtml/khtml_ext.cpp:550
 msgid "Copy &Link Address"
 msgstr "Adress vum &Link kopéieren"
 
-#: khtml/khtml_ext.cpp:560
+#: khtml/khtml_ext.cpp:561
 msgid "Open in New &Window"
 msgstr "An enger neier &Fënster opmaachen"
 
-#: khtml/khtml_ext.cpp:565
+#: khtml/khtml_ext.cpp:566
 msgid "Open in &This Window"
 msgstr "An &dëser Fënster opmaachen"
 
-#: khtml/khtml_ext.cpp:569
+#: khtml/khtml_ext.cpp:570
 msgid "Open in &New Tab"
 msgstr "An engem neien &Tab opmaachen"
 
-#: khtml/khtml_ext.cpp:574
+#: khtml/khtml_ext.cpp:575
 msgid "Reload Frame"
 msgstr "Frame nei lueden"
 
-#: khtml/khtml_ext.cpp:580
+#: khtml/khtml_ext.cpp:581
 msgid "Block IFrame..."
 msgstr "IFrame blockéieren..."
 
-#: khtml/khtml_ext.cpp:586 khtml/khtml_part.cpp:262
+#: khtml/khtml_ext.cpp:587 khtml/khtml_part.cpp:262
 msgid "View Frame Source"
 msgstr "Quell vum Frame kucken"
 
-#: khtml/khtml_ext.cpp:590
+#: khtml/khtml_ext.cpp:591
 msgid "View Frame Information"
 msgstr "Frame-Informatioun kucken"
 
-#: khtml/khtml_ext.cpp:597 khtml/khtml_part.cpp:394
+#: khtml/khtml_ext.cpp:598 khtml/khtml_part.cpp:394
 msgid "Print Frame..."
 msgstr "Frame drécken..."
 
-#: khtml/khtml_ext.cpp:601 khtml/khtml_part.cpp:280
+#: khtml/khtml_ext.cpp:602 khtml/khtml_part.cpp:280
 msgid "Save &Frame As..."
 msgstr "&Frame späicheren als..."
 
-#: khtml/khtml_ext.cpp:635
+#: khtml/khtml_ext.cpp:636
 msgid "Save Image As..."
 msgstr "Bild späicheren als..."
 
-#: khtml/khtml_ext.cpp:638
+#: khtml/khtml_ext.cpp:639
 msgid "Send Image..."
 msgstr "Bild verschécken..."
 
-#: khtml/khtml_ext.cpp:643
+#: khtml/khtml_ext.cpp:644
 msgid "Copy Image"
 msgstr "Bild kopéieren"
 
-#: khtml/khtml_ext.cpp:650
+#: khtml/khtml_ext.cpp:651
 msgid "Copy Image Location"
 msgstr "Adress vum Bild kopéieren"
 
-#: khtml/khtml_ext.cpp:656
+#: khtml/khtml_ext.cpp:657
 #, qt-format
 msgid "View Image (%1)"
 msgstr "Bild kucken (%1)"
 
-#: khtml/khtml_ext.cpp:663
+#: khtml/khtml_ext.cpp:664
 msgid "Block Image..."
 msgstr "Bild blockéieren..."
 
-#: khtml/khtml_ext.cpp:670
+#: khtml/khtml_ext.cpp:671
 #, qt-format
 msgid "Block Images From %1"
 msgstr "Biller vun %1 blockéieren"
 
-#: khtml/khtml_ext.cpp:695
+#: khtml/khtml_ext.cpp:696
 msgid "Save Link As"
 msgstr "Link späicheren als"
 
-#: khtml/khtml_ext.cpp:715
+#: khtml/khtml_ext.cpp:716
 msgid "Save Image As"
 msgstr "Bild späicheren als"
 
-#: khtml/khtml_ext.cpp:729 khtml/khtml_ext.cpp:742
+#: khtml/khtml_ext.cpp:730 khtml/khtml_ext.cpp:743
 msgid "Add URL to Filter"
 msgstr "URL bei de Filter dobäimaachen"
 
-#: khtml/khtml_ext.cpp:876
+#: khtml/khtml_ext.cpp:877
 #, qt-format
 msgid ""
 "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
@@ -7038,20 +7034,20 @@ msgstr ""
 "Eng Datei mam Numm \"%1\" gëtt et schonn. Sidd dir sëcher, dass dir se "
 "iwwerschreiwe wëllt?"
 
-#: khtml/khtml_ext.cpp:876
+#: khtml/khtml_ext.cpp:877
 msgid "Overwrite File?"
 msgstr "Datei iwwerschreiwen?"
 
-#: khtml/khtml_ext.cpp:876
+#: khtml/khtml_ext.cpp:877
 msgid "Overwrite"
 msgstr "Iwwerschreiwen"
 
-#: khtml/khtml_ext.cpp:937 kparts/browserrun.cpp:374
+#: khtml/khtml_ext.cpp:938 kparts/browserrun.cpp:374
 #, qt-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "Den Download-Manager (%1) konnt an ärem PATH net fonnt ginn "
 
-#: khtml/khtml_ext.cpp:938 kparts/browserrun.cpp:375
+#: khtml/khtml_ext.cpp:939 kparts/browserrun.cpp:375
 #, fuzzy
 msgid ""
 "Try to reinstall it  \n"
@@ -7062,12 +7058,12 @@ msgstr ""
 "\n"
 "D'Integratioun an de Konqueror gëtt ofgeschalt!"
 
-#: khtml/khtml_ext.cpp:1024
+#: khtml/khtml_ext.cpp:1025
 #, no-c-format
 msgid "Default Font Size (100%)"
 msgstr "Standard-Schrëftgréisst (100%)"
 
-#: khtml/khtml_ext.cpp:1037
+#: khtml/khtml_ext.cpp:1038
 #, no-c-format, qt-format
 msgid "%1%"
 msgstr "%1%"
@@ -7660,7 +7656,7 @@ msgstr "fatale Parsing-Feeler: %1, Zeil %2, Kolonn %3"
 msgid "XML parsing error"
 msgstr "XML Parsing-Feeler"
 
-#: khtml/xml/dom_docimpl.cpp:2083
+#: khtml/xml/dom_docimpl.cpp:2079
 msgid "Basic Page Style"
 msgstr "Grondstil"
 
@@ -8493,28 +8489,28 @@ msgstr "KConf-Aktualiséierung"
 msgid "KDE Tool for updating user configuration files"
 msgstr "KDE-Tool fir d'Aktualiséierung vu Benotzer-Configuartiounsdateien"
 
-#: kdewidgets/makekdewidgets.cpp:12
+#: kdewidgets/makekdewidgets.cpp:17
 msgid "Builds Qt widget plugins from an ini style description file."
 msgstr ""
 "Baut Qt-Widget-Pluginen aus enger \"ini\"-ähnlecher Beschreiwungsdatei."
 
-#: kdewidgets/makekdewidgets.cpp:74
+#: kdewidgets/makekdewidgets.cpp:79
 msgid "Input file"
 msgstr "Quelldatei"
 
-#: kdewidgets/makekdewidgets.cpp:75
+#: kdewidgets/makekdewidgets.cpp:80
 msgid "Output file"
 msgstr "Output-Datei"
 
-#: kdewidgets/makekdewidgets.cpp:76
+#: kdewidgets/makekdewidgets.cpp:81
 msgid "Name of the plugin class to generate"
 msgstr "Numm vun der Plugin-Klass, déi erstallt gi soll"
 
-#: kdewidgets/makekdewidgets.cpp:77
+#: kdewidgets/makekdewidgets.cpp:82
 msgid "Default widget group name to display in designer"
 msgstr "Standardnumm vum Widget-Grupp, deen am Designer ugewise gi soll"
 
-#: kdewidgets/makekdewidgets.cpp:90
+#: kdewidgets/makekdewidgets.cpp:95
 msgid "makekdewidgets"
 msgstr "KDE-Widgets erstellen"
 
@@ -10748,6 +10744,9 @@ msgstr "%1 - onbekannten Typ\n"
 #, qt-format
 msgid "%1 - unknown type of userpath\n"
 msgstr "%1 - onbekannten Typ vum Benotzerwee\n"
+
+#~ msgid "Replace Text"
+#~ msgstr "Text ersetzen"
 
 #, fuzzy
 #~| msgid "F&ull Screen Mode"
