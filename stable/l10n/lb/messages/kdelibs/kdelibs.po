@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2007-04-13 02:14+0200\n"
+"POT-Creation-Date: 2007-04-27 02:14+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2720,7 +2720,7 @@ msgstr "Gr&ouss maachen"
 msgid "&Maximize"
 msgstr "&Kleng maachen"
 
-#: kdeui/ksystemtray.cpp:154 kmdi/kmdichildfrm.cpp:1263
+#: kdeui/ksystemtray.cpp:155 kmdi/kmdichildfrm.cpp:1263
 msgid "&Minimize"
 msgstr "&Grouss maachen"
 
@@ -6420,11 +6420,11 @@ msgstr "Noricht zoumaachen"
 msgid "Custom..."
 msgstr "Benotzerdefinéiert..."
 
-#: kdeui/ksystemtray.cpp:189
+#: kdeui/ksystemtray.cpp:190
 msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgstr "<qt>Sidd dir sëcher, dass dir <b>%1</b> zoumaache wëllt ?</qt>"
 
-#: kdeui/ksystemtray.cpp:192
+#: kdeui/ksystemtray.cpp:193
 msgid "Confirm Quit From System Tray"
 msgstr "Aus dem Systemberäich erausgoen"
 
