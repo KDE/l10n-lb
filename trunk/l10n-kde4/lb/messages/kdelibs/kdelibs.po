@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-04-28 05:46+0200\n"
+"POT-Creation-Date: 2007-04-30 05:49+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2837,106 +2837,106 @@ msgstr ""
 msgid "KLibLoader: Unknown error"
 msgstr "Onbekannte Feeler"
 
-#: kdecore/config/kconfigbackend.cpp:180 kdecore/config/kconfigbackend.cpp:189
+#: kdecore/config/kconfigbackend.cpp:200 kdecore/config/kconfigbackend.cpp:209
 msgid "Will not save configuration.\n"
 msgstr "D'Configuratioun gëtt net gespäichert.\n"
 
-#: kdecore/config/kconfigbackend.cpp:182 kdecore/config/kconfigbackend.cpp:190
+#: kdecore/config/kconfigbackend.cpp:202 kdecore/config/kconfigbackend.cpp:210
 #, qt-format
 msgid "Configuration file \"%1\" not writable.\n"
 msgstr "D'Configuratiounsdatei \"%1\" konnt net geschriwwe ginn.\n"
 
-#: kdecore/config/kconfigbackend.cpp:197
+#: kdecore/config/kconfigbackend.cpp:217
 msgid "Please contact your system administrator."
 msgstr "Mellt iech w.e.g. bei ärer Systemverwaltung."
 
-#: kdecore/network/k3socketaddress.cpp:622
+#: kdecore/network/k3socketaddress.cpp:623
 #, qt-format
 msgctxt "1: the unknown socket address family number"
 msgid "Unknown family %1"
 msgstr "Onbekannt Socket-Famill %1"
 
-#: kdecore/network/k3socketbase.cpp:208
+#: kdecore/network/k3socketbase.cpp:209
 msgctxt "Socket error code NoError"
 msgid "no error"
 msgstr "Kee Feeler"
 
-#: kdecore/network/k3socketbase.cpp:213
+#: kdecore/network/k3socketbase.cpp:214
 msgctxt "Socket error code LookupFailure"
 msgid "name lookup has failed"
 msgstr "Den Numm konnt net nogekuckt ginn"
 
-#: kdecore/network/k3socketbase.cpp:218
+#: kdecore/network/k3socketbase.cpp:219
 msgctxt "Socket error code AddressInUse"
 msgid "address already in use"
 msgstr "Dëss adress gëtt scho benotzt"
 
-#: kdecore/network/k3socketbase.cpp:223
+#: kdecore/network/k3socketbase.cpp:224
 msgctxt "Socket error code AlreadyBound"
 msgid "socket is already bound"
 msgstr "De Socket ass scho gebonn"
 
-#: kdecore/network/k3socketbase.cpp:228
+#: kdecore/network/k3socketbase.cpp:229
 msgctxt "Socket error code AlreadyCreated"
 msgid "socket is already created"
 msgstr "De Socket ass schonn erstallt ginn"
 
-#: kdecore/network/k3socketbase.cpp:233
+#: kdecore/network/k3socketbase.cpp:234
 msgctxt "Socket error code NotBound"
 msgid "socket is not bound"
 msgstr "De Socket ass net gebonn"
 
-#: kdecore/network/k3socketbase.cpp:238
+#: kdecore/network/k3socketbase.cpp:239
 msgctxt "Socket error code NotCreated"
 msgid "socket has not been created"
 msgstr "De Socket ass nach net erstallt ginn"
 
-#: kdecore/network/k3socketbase.cpp:243
+#: kdecore/network/k3socketbase.cpp:244
 msgctxt "Socket error code WouldBlock"
 msgid "operation would block"
 msgstr "Dëss Aktioun géif blockéieren"
 
-#: kdecore/network/k3socketbase.cpp:248
+#: kdecore/network/k3socketbase.cpp:249
 msgctxt "Socket error code ConnectionRefused"
 msgid "connection actively refused"
 msgstr "D'Verbindung ass ofgeleent ginn"
 
-#: kdecore/network/k3socketbase.cpp:253
+#: kdecore/network/k3socketbase.cpp:254
 msgctxt "Socket error code ConnectionTimedOut"
 msgid "connection timed out"
 msgstr "D'Verbindungszäit ass iwwerschratt ginn"
 
-#: kdecore/network/k3socketbase.cpp:258
+#: kdecore/network/k3socketbase.cpp:259
 msgctxt "Socket error code InProgress"
 msgid "operation is already in progress"
 msgstr "D'Aktioun gëtt schonn duerchgeféiert"
 
-#: kdecore/network/k3socketbase.cpp:263
+#: kdecore/network/k3socketbase.cpp:264
 msgctxt "Socket error code NetFailure"
 msgid "network failure occurred"
 msgstr "Netzwierkfeler"
 
-#: kdecore/network/k3socketbase.cpp:268
+#: kdecore/network/k3socketbase.cpp:269
 msgctxt "Socket error code NotSupported"
 msgid "operation is not supported"
 msgstr "Dëss Aktioun gëtt net ënnerstëtzt"
 
-#: kdecore/network/k3socketbase.cpp:273
+#: kdecore/network/k3socketbase.cpp:274
 msgctxt "Socket error code Timeout"
 msgid "timed operation timed out"
 msgstr "D'Zäit fir dëss Aktioun ass iwwerschratt ginn"
 
-#: kdecore/network/k3socketbase.cpp:278
+#: kdecore/network/k3socketbase.cpp:279
 msgctxt "Socket error code UnknownError"
 msgid "an unknown/unexpected error has happened"
 msgstr "Ën onerwaarten/onbekannte Feeler ass opgetrueden"
 
-#: kdecore/network/k3socketbase.cpp:283
+#: kdecore/network/k3socketbase.cpp:284
 msgctxt "Socket error code RemotelyDisconnected"
 msgid "remote host closed connection"
 msgstr "Deen Aneren huet d'Verbindung ofgebrach"
 
-#: kdecore/network/netsupp.cpp:890 kdecore/network/k3resolver.cpp:538
+#: kdecore/network/netsupp.cpp:890 kdecore/network/k3resolver.cpp:540
 msgid "no error"
 msgstr "ouni Feeler"
 
@@ -2944,7 +2944,7 @@ msgstr "ouni Feeler"
 msgid "address family for nodename not supported"
 msgstr "Famill vun Adresse fir den Node net ënnerstëtzt"
 
-#: kdecore/network/netsupp.cpp:892 kdecore/network/k3resolver.cpp:540
+#: kdecore/network/netsupp.cpp:892 kdecore/network/k3resolver.cpp:542
 msgid "temporary failure in name resolution"
 msgstr "Temporäre Feeler bei der Opléisung vum Numm"
 
@@ -2952,7 +2952,7 @@ msgstr "Temporäre Feeler bei der Opléisung vum Numm"
 msgid "invalid value for 'ai_flags'"
 msgstr "Falsche Wert fir 'ai_flags'"
 
-#: kdecore/network/netsupp.cpp:894 kdecore/network/k3resolver.cpp:541
+#: kdecore/network/netsupp.cpp:894 kdecore/network/k3resolver.cpp:543
 msgid "non-recoverable failure in name resolution"
 msgstr "Net behiefbare Feeler bei der Opléisung vum Numm"
 
@@ -2960,7 +2960,7 @@ msgstr "Net behiefbare Feeler bei der Opléisung vum Numm"
 msgid "'ai_family' not supported"
 msgstr "'ai_family' gëtt net ënnerstëtzt"
 
-#: kdecore/network/netsupp.cpp:896 kdecore/network/k3resolver.cpp:543
+#: kdecore/network/netsupp.cpp:896 kdecore/network/k3resolver.cpp:545
 msgid "memory allocation failure"
 msgstr "Feeler bei der Allocatioun vu Späicherplaz"
 
@@ -2968,7 +2968,7 @@ msgstr "Feeler bei der Allocatioun vu Späicherplaz"
 msgid "no address associated with nodename"
 msgstr "Keng Adress gehéiert zum Node"
 
-#: kdecore/network/netsupp.cpp:898 kdecore/network/k3resolver.cpp:544
+#: kdecore/network/netsupp.cpp:898 kdecore/network/k3resolver.cpp:546
 msgid "name or service not known"
 msgstr "Numm oder Service net bekannt"
 
@@ -2984,37 +2984,37 @@ msgstr "'ai socktype' net ënnerstëtzt"
 msgid "system error"
 msgstr "Feeler am System"
 
-#: kdecore/network/k3resolver.cpp:539
+#: kdecore/network/k3resolver.cpp:541
 msgid "requested family not supported for this host name"
 msgstr "Gefroot Famill gëtt fir dësen Hostnumm net ënnerstëtzt"
 
-#: kdecore/network/k3resolver.cpp:542
+#: kdecore/network/k3resolver.cpp:544
 msgid "invalid flags"
 msgstr "Ongülteg Werter"
 
-#: kdecore/network/k3resolver.cpp:545
+#: kdecore/network/k3resolver.cpp:547
 msgid "requested family not supported"
 msgstr "Gefroot Famill gëtt net ënnerstëtzt"
 
-#: kdecore/network/k3resolver.cpp:546
+#: kdecore/network/k3resolver.cpp:548
 msgid "requested service not supported for this socket type"
 msgstr "Gefroote Service gëtt fir dësen Socket-Typ net ënnerstëtzt"
 
-#: kdecore/network/k3resolver.cpp:547
+#: kdecore/network/k3resolver.cpp:549
 msgid "requested socket type not supported"
 msgstr "Gefroote Socket-Typ gëtt net ënnerstëtzt"
 
-#: kdecore/network/k3resolver.cpp:548
+#: kdecore/network/k3resolver.cpp:550
 msgid "unknown error"
 msgstr "Onbekannte Feeler"
 
-#: kdecore/network/k3resolver.cpp:550
+#: kdecore/network/k3resolver.cpp:552
 #, qt-format
 msgctxt "1: the i18n'ed system error code, from errno"
 msgid "system error: %1"
 msgstr "Feeler am System: %1"
 
-#: kdecore/network/k3resolver.cpp:561
+#: kdecore/network/k3resolver.cpp:563
 msgid "request was canceled"
 msgstr "D'Ufro ass ofgebrach ginn"
 
@@ -3523,7 +3523,7 @@ msgid ""
 "%1"
 msgstr "Konnt de Service '%1' net fannen."
 
-#: kdecore/services/kmimetype.cpp:125
+#: kdecore/services/kmimetype.cpp:130
 msgid "No mime types installed."
 msgstr ""
 
@@ -4889,21 +4889,21 @@ msgid "Please click and drag on the image to select the region of interest:"
 msgstr ""
 "Klickt an zitt w.e.g. iwwert d'Bild fir de gewënschte Beräich ze wielen:"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:278 kdeui/widgets/klineedit.cpp:1026
+#: kdeui/dialogs/kshortcutsdialog.cpp:277 kdeui/widgets/klineedit.cpp:1026
 msgid "None"
 msgstr "Keng"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:363
+#: kdeui/dialogs/kshortcutsdialog.cpp:362
 msgid "Shortcuts"
 msgstr "Kierzelen"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:606
-#: kdeui/dialogs/kshortcutsdialog.cpp:644
-#: kdeui/dialogs/kshortcutsdialog.cpp:660
+#: kdeui/dialogs/kshortcutsdialog.cpp:610
+#: kdeui/dialogs/kshortcutsdialog.cpp:638
+#: kdeui/dialogs/kshortcutsdialog.cpp:654
 msgid "Key Conflict"
 msgstr "Tastekonflikt"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:607
+#: kdeui/dialogs/kshortcutsdialog.cpp:611
 #, qt-format
 msgid ""
 "The '%1' key combination has already been allocated to the \"%2\" action.\n"
@@ -4912,17 +4912,17 @@ msgstr ""
 "D'Tastekombinatioun \"%1\" ass scho mat der Aktioun \"%2\" verbonn.\n"
 "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:611
-#: kdeui/dialogs/kshortcutsdialog.cpp:649
-#: kdeui/dialogs/kshortcutsdialog.cpp:665 kdeui/shortcuts/kglobalaccel.cpp:340
+#: kdeui/dialogs/kshortcutsdialog.cpp:615
+#: kdeui/dialogs/kshortcutsdialog.cpp:643
+#: kdeui/dialogs/kshortcutsdialog.cpp:659 kdeui/shortcuts/kglobalaccel.cpp:445
 msgid "Reassign"
 msgstr "Nei zouuerdnen"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:632
+#: kdeui/dialogs/kshortcutsdialog.cpp:626
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Konflikt mat der Standardkombinatioun vum Programm"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:633
+#: kdeui/dialogs/kshortcutsdialog.cpp:627
 #, fuzzy, qt-format
 msgid ""
 "The '%1' key combination has already been allocated to the standard action "
@@ -4932,7 +4932,7 @@ msgstr ""
 "D'Tastekombinatioun \"%1\" ass scho mat der Standardaktioun \"%2\" verbonn.\n"
 "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:645
+#: kdeui/dialogs/kshortcutsdialog.cpp:639
 #, fuzzy, qt-format
 msgid ""
 "The '%1' shape gesture has already been allocated to the \"%2\" action.\n"
@@ -4941,7 +4941,7 @@ msgstr ""
 "D'Tastekombinatioun \"%1\" ass scho mat der Aktioun \"%2\" verbonn.\n"
 "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:661
+#: kdeui/dialogs/kshortcutsdialog.cpp:655
 #, fuzzy, qt-format
 msgid ""
 "The '%1' rocker gesture has already been allocated to the \"%2\" action.\n"
@@ -4950,7 +4950,7 @@ msgstr ""
 "D'Tastekombinatioun \"%1\" ass scho mat der Aktioun \"%2\" verbonn.\n"
 "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:1014
+#: kdeui/dialogs/kshortcutsdialog.cpp:1008
 msgid "Configure Shortcuts"
 msgstr "Tastekierzel configuréieren"
 
@@ -5886,15 +5886,19 @@ msgstr "All siichtbar Kolonnen"
 msgid "S&earch:"
 msgstr "Siche&n:"
 
-#: kdeui/shortcuts/kglobalaccel.cpp:334
+#: kdeui/shortcuts/kglobalaccel.cpp:439
 msgid "Conflict with Global Shortcut"
 msgstr "Konflikt mat allgemengem Kierzel"
 
-#: kdeui/shortcuts/kglobalaccel.cpp:335
-#, qt-format
+#: kdeui/shortcuts/kglobalaccel.cpp:440
+#, fuzzy, qt-format
+#| msgid ""
+#| "The '%1' key combination has already been allocated to the global action "
+#| "\"%2\".\n"
+#| "Do you want to reassign it from that action to the current one?"
 msgid ""
 "The '%1' key combination has already been allocated to the global action \"%2"
-"\".\n"
+"\" in %3.\n"
 "Do you want to reassign it from that action to the current one?"
 msgstr ""
 "D'Tastekombinatioun \"%1\" ass scho mat der globaler Aktioun \"%2\" "
@@ -9425,9 +9429,14 @@ msgstr "Basis ass keen Objekt"
 msgid "Could not construct value"
 msgstr "Konnt d'Datei net opmaachen."
 
-#: kjsembed/kjsembed/eventproxy.cpp:104
+#: kjsembed/kjsembed/eventproxy.cpp:105
 #, qt-format
 msgid "Bad event handler: Object %1 Identifier %2 Method %3 Type: %4."
+msgstr ""
+
+#: kjsembed/kjsembed/eventproxy.cpp:132
+#, qt-format
+msgid "Exception calling '%1' function from %2:%3:%4"
 msgstr ""
 
 #: kjsembed/kjsembed/qformbuilder_binding.cpp:56
@@ -9445,9 +9454,14 @@ msgstr "Konnt de Service '%1' net fannen."
 msgid "Must supply a filename."
 msgstr ""
 
-#: kjsembed/kjsembed/slotproxy.cpp:122
+#: kjsembed/kjsembed/slotproxy.cpp:107
 #, qt-format
-msgid "Exception calling '%1' slot from %2:%3"
+msgid "Bad slot handler: Object %1 Identifier %2 Method %3 Signature: %4."
+msgstr ""
+
+#: kjsembed/kjsembed/slotproxy.cpp:129
+#, qt-format
+msgid "Exception calling '%1' slot from %2:%3:%4"
 msgstr ""
 
 #: kjsembed/kjsembed/qwidget_binding.cpp:160
