@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-05-01 05:47+0200\n"
+"POT-Creation-Date: 2007-05-02 05:53+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -9921,20 +9921,20 @@ msgstr "Aarbëcht"
 msgid "controls the brightness of the video images"
 msgstr ""
 
-#: phonon/volumeslider.cpp:34 phonon/volumeslider.cpp:122
-#: phonon/volumeslider.cpp:133
+#: phonon/volumeslider.cpp:35 phonon/volumeslider.cpp:138
+#: phonon/volumeslider.cpp:149
 #, fuzzy, qt-format
 msgid "Volume: %1%"
 msgstr "Lautstäerkt erop"
 
-#: phonon/volumeslider.cpp:35 phonon/volumeslider.cpp:73
+#: phonon/volumeslider.cpp:36 phonon/volumeslider.cpp:77
 #, qt-format
 msgid ""
 "Use this slider to adjust the volume. The leftmost position is 0%, the "
 "rightmost is %1%"
 msgstr ""
 
-#: phonon/volumeslider.cpp:119
+#: phonon/volumeslider.cpp:135
 msgid "Muted"
 msgstr ""
 
