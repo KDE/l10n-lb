@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2007-04-27 02:14+0200\n"
+"POT-Creation-Date: 2007-05-07 02:14+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2143,7 +2143,7 @@ msgid "Unlock failed. Lock file is owned by other process: %1 (%2)"
 msgstr ""
 "D'Sperr konnt net opgehuewe ginn. D'Sperrdatei gehéiert zum Prozess: %1 (%2)"
 
-#: kabc/stdaddressbook.cpp:152
+#: kabc/stdaddressbook.cpp:148
 msgid "Unable to save to resource '%1'. It is locked."
 msgstr "Konnt d'Quell '%1' net späicheren. Si ass gespaart."
 
