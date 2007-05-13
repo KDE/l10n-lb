@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-05-10 05:49+0200\n"
+"POT-Creation-Date: 2007-05-13 05:49+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -80,7 +80,7 @@ msgid "&Game"
 msgstr "S&pill"
 
 #. i18n: tag text
-#. i18n: file ./kdeui/ui_standards.rc line 57
+#. i18n: file ./kdeui/ui_standards.rc line 60
 #. i18n: tag text
 #. i18n: file ./khtml/khtml.rc line 4
 #. i18n: tag text
@@ -90,13 +90,13 @@ msgid "&Edit"
 msgstr "V&eränneren"
 
 #. i18n: tag text
-#. i18n: file ./kdeui/ui_standards.rc line 80
+#. i18n: file ./kdeui/ui_standards.rc line 83
 #: rc.cpp:29
 msgid "&Move"
 msgstr "&Réckelen"
 
 #. i18n: tag text
-#. i18n: file ./kdeui/ui_standards.rc line 97
+#. i18n: file ./kdeui/ui_standards.rc line 100
 #. i18n: tag text
 #. i18n: file ./khtml/khtml_browser.rc line 20
 #: rc.cpp:32 rc.cpp:390 kfile/kdiroperator.cpp:1376
@@ -104,39 +104,39 @@ msgid "&View"
 msgstr "&Usiicht"
 
 #. i18n: tag text
-#. i18n: file ./kdeui/ui_standards.rc line 112
+#. i18n: file ./kdeui/ui_standards.rc line 115
 #. i18n: tag text
-#. i18n: file ./kdeui/ui_standards.rc line 120
+#. i18n: file ./kdeui/ui_standards.rc line 123
 #: rc.cpp:35 rc.cpp:38
 msgid "&Go"
 msgstr "&Goen"
 
 #. i18n: tag text
-#. i18n: file ./kdeui/ui_standards.rc line 133
+#. i18n: file ./kdeui/ui_standards.rc line 136
 #: rc.cpp:41
 msgid "&Bookmarks"
 msgstr "&Lieszeechen"
 
 #. i18n: tag text
-#. i18n: file ./kdeui/ui_standards.rc line 139
+#. i18n: file ./kdeui/ui_standards.rc line 142
 #: rc.cpp:44
 msgid "&Tools"
 msgstr "&Verschiddenes"
 
 #. i18n: tag text
-#. i18n: file ./kdeui/ui_standards.rc line 143
+#. i18n: file ./kdeui/ui_standards.rc line 146
 #: rc.cpp:47
 msgid "&Settings"
 msgstr "&Astellungen"
 
 #. i18n: tag text
-#. i18n: file ./kdeui/ui_standards.rc line 170
+#. i18n: file ./kdeui/ui_standards.rc line 173
 #: rc.cpp:50 kdeui/widgets/khelpmenu.cpp:139
 msgid "&Help"
 msgstr "&Hëllef"
 
 #. i18n: tag text
-#. i18n: file ./kdeui/ui_standards.rc line 184
+#. i18n: file ./kdeui/ui_standards.rc line 187
 #. i18n: tag text
 #. i18n: file ./khtml/khtml_browser.rc line 36
 #: rc.cpp:53 rc.cpp:393
