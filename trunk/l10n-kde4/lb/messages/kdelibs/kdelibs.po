@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-05-14 05:43+0200\n"
+"POT-Creation-Date: 2007-05-15 05:53+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2792,31 +2792,31 @@ msgstr "D'Bibliothéik %1 huet keng %2-Funktioun."
 msgid "The library %1 does not offer a KDE compatible factory."
 msgstr "D'Bibliothéik %1 huet keng Factory, déi mat KDE kompatibel ass."
 
-#: kdecore/util/klibloader.cpp:520
+#: kdecore/util/klibloader.cpp:501
 #, qt-format
 msgid "Library files for \"%1\" not found in paths."
 msgstr "D'Bibliothéiksdatei \"%1\" ass iwwert äre Wee net fonnt ginn."
 
-#: kdecore/util/klibloader.cpp:668
+#: kdecore/util/klibloader.cpp:649
 msgid "No service matching the requirements was found"
 msgstr ""
 
-#: kdecore/util/klibloader.cpp:670
+#: kdecore/util/klibloader.cpp:651
 msgid ""
 "The service provides no library, the Library key is missing in the .desktop "
 "file"
 msgstr ""
 
-#: kdecore/util/klibloader.cpp:674
+#: kdecore/util/klibloader.cpp:655
 #, fuzzy
 msgid "The library does not export a factory for creating components"
 msgstr "D'Bibliothéik %1 huet keng %2-Funktioun."
 
-#: kdecore/util/klibloader.cpp:676
+#: kdecore/util/klibloader.cpp:657
 msgid "The factory does not support creating components of the specified type"
 msgstr ""
 
-#: kdecore/util/klibloader.cpp:678
+#: kdecore/util/klibloader.cpp:659
 #, fuzzy
 msgid "KLibLoader: Unknown error"
 msgstr "Onbekannte Feeler"
@@ -4382,7 +4382,7 @@ msgstr "&OK"
 msgid "&Cancel"
 msgstr "&Ofbriechen"
 
-#: kdeui/util/kstandardguiitem.cpp:116 khtml/java/kjavaappletserver.cpp:851
+#: kdeui/util/kstandardguiitem.cpp:116 khtml/java/kjavaappletserver.cpp:850
 msgid "&Yes"
 msgstr "&Jo"
 
@@ -4390,7 +4390,7 @@ msgstr "&Jo"
 msgid "Yes"
 msgstr "Jo"
 
-#: kdeui/util/kstandardguiitem.cpp:121 khtml/java/kjavaappletserver.cpp:844
+#: kdeui/util/kstandardguiitem.cpp:121 khtml/java/kjavaappletserver.cpp:843
 msgid "&No"
 msgstr "&Nee"
 
@@ -6122,7 +6122,7 @@ msgctxt ""
 msgid "LTR"
 msgstr ""
 
-#: kdeui/kernel/kapplication.cpp:828
+#: kdeui/kernel/kapplication.cpp:829
 #, qt-format
 msgid "The style %1 was not found\n"
 msgstr "De Stil %1 ass net fonnt ginn\n"
@@ -6200,20 +6200,20 @@ msgstr "&Fäerdeg"
 msgid "KSpell2 Configuration"
 msgstr "KSpell2-Configuratioun"
 
-#: kdeui/sonnet/highlighter.cpp:190 kdeui/sonnet/highlighter.cpp:212
+#: kdeui/sonnet/highlighter.cpp:189 kdeui/sonnet/highlighter.cpp:210
 #: kde3support/kdeui/k3syntaxhighlighter.cpp:470
 #: kde3support/kdeui/k3syntaxhighlighter.cpp:576
 msgid "As-you-type spell checking enabled."
 msgstr "Autom. Rechtschreifkontroll ugeschalt."
 
-#: kdeui/sonnet/highlighter.cpp:192
+#: kdeui/sonnet/highlighter.cpp:191
 #: kde3support/kdeui/k3syntaxhighlighter.cpp:578
 msgid "Too many misspelled words. As-you-type spell checking disabled."
 msgstr ""
 "Ze vill falsch geschriwwe Wierder. D'automatësch Rechtschreifkontroll ass "
 "ausgeschalt ginn."
 
-#: kdeui/sonnet/highlighter.cpp:214
+#: kdeui/sonnet/highlighter.cpp:212
 #: kde3support/kdeui/k3syntaxhighlighter.cpp:472
 msgid "As-you-type spell checking disabled."
 msgstr "Autom. Rechtschreifkontroll ausgeschalt."
@@ -6617,7 +6617,7 @@ msgstr ""
 msgid "Separator, Space"
 msgstr "Mam Ersetzen ufänken"
 
-#: kdeui/widgets/kcharselectdata.cpp:531 khtml/java/kjavaappletserver.cpp:699
+#: kdeui/widgets/kcharselectdata.cpp:531 khtml/java/kjavaappletserver.cpp:698
 msgid "Unknown"
 msgstr "Onbekannt"
 
@@ -6775,22 +6775,17 @@ msgstr "Regioun"
 msgid "Comment"
 msgstr "Kommentar"
 
-#: kdeui/widgets/ktextedit.cpp:314 kde3support/kdeui/k3textedit.cpp:232
+#: kdeui/widgets/ktextedit.cpp:300 kde3support/kdeui/k3textedit.cpp:232
 msgid "Check Spelling..."
 msgstr "Rechtschreifkontroll..."
 
-#: kdeui/widgets/ktextedit.cpp:319 kde3support/kdeui/k3textedit.cpp:238
+#: kdeui/widgets/ktextedit.cpp:305 kde3support/kdeui/k3textedit.cpp:238
 msgid "Auto Spell Check"
 msgstr "Automatësch Kontroll"
 
-#: kdeui/widgets/ktextedit.cpp:324 kde3support/kdeui/k3textedit.cpp:242
+#: kdeui/widgets/ktextedit.cpp:310 kde3support/kdeui/k3textedit.cpp:242
 msgid "Allow Tabulations"
 msgstr "Tabellarësch Unuerdnung zouloossen"
-
-#: kdeui/widgets/ktextedit.cpp:420 khtml/rendering/render_form.cpp:375
-#: kde3support/kdeui/k3textedit.cpp:348
-msgid "Spell Checking"
-msgstr "Rechtschreifkontroll"
 
 #: kfile/k3fileiconview.cpp:68
 #, fuzzy
@@ -7458,8 +7453,8 @@ msgstr "Klickt hei, fir eng Schrëft ze wielen"
 msgid "Click to Edit Location"
 msgstr "Klickt hei, fir eng Schrëft ze wielen"
 
-#: khtml/khtml_run.cpp:84 khtml/khtml_part.cpp:3908 khtml/khtml_part.cpp:4122
-#: khtml/khtml_part.cpp:4443 kparts/browserrun.cpp:403
+#: khtml/khtml_run.cpp:84 khtml/khtml_part.cpp:3907 khtml/khtml_part.cpp:4121
+#: khtml/khtml_part.cpp:4442 kparts/browserrun.cpp:403
 msgid "Save As"
 msgstr "Späicheren als"
 
@@ -7542,7 +7537,7 @@ msgstr "Frame nei lueden"
 msgid "Block IFrame..."
 msgstr "IFrame blockéieren..."
 
-#: khtml/khtml_ext.cpp:587 khtml/khtml_part.cpp:262
+#: khtml/khtml_ext.cpp:587 khtml/khtml_part.cpp:261
 msgid "View Frame Source"
 msgstr "Quell vum Frame kucken"
 
@@ -7550,11 +7545,11 @@ msgstr "Quell vum Frame kucken"
 msgid "View Frame Information"
 msgstr "Frame-Informatioun kucken"
 
-#: khtml/khtml_ext.cpp:598 khtml/khtml_part.cpp:394
+#: khtml/khtml_ext.cpp:598 khtml/khtml_part.cpp:393
 msgid "Print Frame..."
 msgstr "Frame drécken..."
 
-#: khtml/khtml_ext.cpp:602 khtml/khtml_part.cpp:280
+#: khtml/khtml_ext.cpp:602 khtml/khtml_part.cpp:279
 msgid "Save &Frame As..."
 msgstr "&Frame späicheren als..."
 
@@ -7705,43 +7700,43 @@ msgstr "Biller drécken"
 msgid "Print header"
 msgstr "Header drécken"
 
-#: khtml/khtml_part.cpp:257
+#: khtml/khtml_part.cpp:256
 msgid "View Do&cument Source"
 msgstr "&Quelltext kucken"
 
-#: khtml/khtml_part.cpp:266
+#: khtml/khtml_part.cpp:265
 msgid "View Document Information"
 msgstr "Dokument-Informatioun kucken"
 
-#: khtml/khtml_part.cpp:271
+#: khtml/khtml_part.cpp:270
 msgid "Save &Background Image As..."
 msgstr "Bild am &Hannergrond späicheren als..."
 
-#: khtml/khtml_part.cpp:284
+#: khtml/khtml_part.cpp:283
 msgid "Print Rendering Tree to STDOUT"
 msgstr "Rendering-Bau op STDOUT drécken"
 
-#: khtml/khtml_part.cpp:288
+#: khtml/khtml_part.cpp:287
 msgid "Print DOM Tree to STDOUT"
 msgstr "DOM-Bam op STDOUT drécken"
 
-#: khtml/khtml_part.cpp:292
+#: khtml/khtml_part.cpp:291
 msgid "Stop Animated Images"
 msgstr "Animéiert Biller unhalen"
 
-#: khtml/khtml_part.cpp:296
+#: khtml/khtml_part.cpp:295
 msgid "Set &Encoding"
 msgstr "&Verschlësselung festléen"
 
-#: khtml/khtml_part.cpp:335
+#: khtml/khtml_part.cpp:334
 msgid "Use S&tylesheet"
 msgstr "S&til-Virlag benotzen"
 
-#: khtml/khtml_part.cpp:340
+#: khtml/khtml_part.cpp:339
 msgid "Enlarge Font"
 msgstr "Schrëft vergréisseren"
 
-#: khtml/khtml_part.cpp:344
+#: khtml/khtml_part.cpp:343
 msgid ""
 "Enlarge Font<p>Make the font in this window bigger. Click and hold down the "
 "mouse button for a menu with all available font sizes."
@@ -7750,11 +7745,11 @@ msgstr ""
 "Klickt op d'Maustast an haalt se un, fir e Menü mat all de méigleche "
 "Schrëftgréissten ze gesin."
 
-#: khtml/khtml_part.cpp:348
+#: khtml/khtml_part.cpp:347
 msgid "Shrink Font"
 msgstr "Schrëft verklengeren"
 
-#: khtml/khtml_part.cpp:352
+#: khtml/khtml_part.cpp:351
 msgid ""
 "Shrink Font<p>Make the font in this window smaller. Click and hold down the "
 "mouse button for a menu with all available font sizes."
@@ -7763,7 +7758,7 @@ msgstr ""
 "op d'Maustast an haalt se un, fir e Menü mat all de méigleche "
 "Schrëftgréissten ze gesin."
 
-#: khtml/khtml_part.cpp:358
+#: khtml/khtml_part.cpp:357
 msgid ""
 "Find text<p>Shows a dialog that allows you to find text on the displayed "
 "page."
@@ -7771,7 +7766,7 @@ msgstr ""
 "Text sichen<p>Mëcht ën Dialog op, fir op der ugewisener Säit no Text ze "
 "sichen."
 
-#: khtml/khtml_part.cpp:362
+#: khtml/khtml_part.cpp:361
 msgid ""
 "Find next<p>Find the next occurrence of the text that you have found using "
 "the <b>Find Text</b> function"
@@ -7779,7 +7774,7 @@ msgstr ""
 "Weidersichen<p>Sicht nom nächsten Optriede vum Text, deen dir mat der "
 "Funktioun <b>Text sichen</b> fonnt hutt"
 
-#: khtml/khtml_part.cpp:368
+#: khtml/khtml_part.cpp:367
 msgid ""
 "Find previous<p>Find the previous occurrence of the text that you have found "
 "using the <b>Find Text</b> function"
@@ -7787,15 +7782,15 @@ msgstr ""
 "Virdru sichen<p>Sicht weider vir no engem Optriede vum Text, deen dir mat "
 "der Funktioun <b>Text sichen</b> fonnt hutt"
 
-#: khtml/khtml_part.cpp:372
+#: khtml/khtml_part.cpp:371
 msgid "Find Text as You Type"
 msgstr "Text beim antippen ergänzen"
 
-#: khtml/khtml_part.cpp:377
+#: khtml/khtml_part.cpp:376
 msgid "Find Links as You Type"
 msgstr "Linke beim antippen ergänzen"
 
-#: khtml/khtml_part.cpp:398
+#: khtml/khtml_part.cpp:397
 msgid ""
 "Print Frame<p>Some pages have several frames. To print only a single frame, "
 "click on it and then use this function."
@@ -7803,154 +7798,154 @@ msgstr ""
 "Frame drécken<p>Verschidde Säiten hu méi wéi ee Frame. Fir just een eenzege "
 "Frame ze drécken, wielt ën aus a klickt dann op dës Funktioun."
 
-#: khtml/khtml_part.cpp:407
+#: khtml/khtml_part.cpp:406
 msgid "Toggle Caret Mode"
 msgstr "Caret-Modus un/aus"
 
-#: khtml/khtml_part.cpp:612
+#: khtml/khtml_part.cpp:611
 #, qt-format
 msgid "The fake user-agent '%1' is in use."
 msgstr "Dee geschmuggelte User-Agent '%1' gëtt benotzt."
 
-#: khtml/khtml_part.cpp:1076
+#: khtml/khtml_part.cpp:1075
 msgid "This web page contains coding errors."
 msgstr "Dës Websäit huet Kodéierungsfeler."
 
-#: khtml/khtml_part.cpp:1118
+#: khtml/khtml_part.cpp:1117
 msgid "&Hide Errors"
 msgstr "Feeler &verstoppen"
 
-#: khtml/khtml_part.cpp:1119
+#: khtml/khtml_part.cpp:1118
 msgid "&Disable Error Reporting"
 msgstr "Feelerberichter &deaktivéieren"
 
-#: khtml/khtml_part.cpp:1162
+#: khtml/khtml_part.cpp:1161
 #, qt-format
 msgid "<b>Error</b>: %1: %2"
 msgstr "<b>Feeler</b>: %1: %2"
 
-#: khtml/khtml_part.cpp:1209
+#: khtml/khtml_part.cpp:1208
 #, qt-format
 msgid "<b>Error</b>: node %1: %2"
 msgstr "<b>Feeler</b>: Node %1: %2"
 
-#: khtml/khtml_part.cpp:1352
+#: khtml/khtml_part.cpp:1351
 msgid "Display Images on Page"
 msgstr "D'Biller op dëser Säit weisen"
 
-#: khtml/khtml_part.cpp:1687
+#: khtml/khtml_part.cpp:1686
 #, qt-format
 msgid "Error while loading %1"
 msgstr "Feeler beim Luede vun %1"
 
-#: khtml/khtml_part.cpp:1689
+#: khtml/khtml_part.cpp:1688
 #, qt-format
 msgid "An error occurred while loading <B>%1</B>:"
 msgstr "E Feeler ass beim Luede vun <B>%1</B> opgetrueden:"
 
-#: khtml/khtml_part.cpp:1724
+#: khtml/khtml_part.cpp:1723
 msgid "Error: "
 msgstr "Feeler: "
 
-#: khtml/khtml_part.cpp:1727
+#: khtml/khtml_part.cpp:1726
 msgid "The requested operation could not be completed"
 msgstr "Déi gewënschten Operatioun konnt net duerchgefouert ginn"
 
-#: khtml/khtml_part.cpp:1733
+#: khtml/khtml_part.cpp:1732
 msgid "Technical Reason: "
 msgstr "Technësche Grond: "
 
-#: khtml/khtml_part.cpp:1738
+#: khtml/khtml_part.cpp:1737
 msgid "Details of the Request:"
 msgstr "Detailer vun der Ufro:"
 
-#: khtml/khtml_part.cpp:1740
+#: khtml/khtml_part.cpp:1739
 #, qt-format
 msgid "URL: %1"
 msgstr "URL: %1"
 
-#: khtml/khtml_part.cpp:1747
+#: khtml/khtml_part.cpp:1746
 #, qt-format
 msgid "Date and Time: %1"
 msgstr "Datum an Zäit: %1"
 
-#: khtml/khtml_part.cpp:1749
+#: khtml/khtml_part.cpp:1748
 #, qt-format
 msgid "Additional Information: %1"
 msgstr "Zousätzlech Informatioun: %1"
 
-#: khtml/khtml_part.cpp:1751
+#: khtml/khtml_part.cpp:1750
 msgid "Description:"
 msgstr "Beschreiwung:"
 
-#: khtml/khtml_part.cpp:1757
+#: khtml/khtml_part.cpp:1756
 msgid "Possible Causes:"
 msgstr "Méiglech Grënn:"
 
-#: khtml/khtml_part.cpp:1764
+#: khtml/khtml_part.cpp:1763
 msgid "Possible Solutions:"
 msgstr "Méiglech Léisungen:"
 
-#: khtml/khtml_part.cpp:2105
+#: khtml/khtml_part.cpp:2104
 msgid "Page loaded."
 msgstr "Säit gelueden."
 
-#: khtml/khtml_part.cpp:2107
+#: khtml/khtml_part.cpp:2106
 #, qt-format
 msgid "%1 Image of %2 loaded."
 msgid_plural "%1 Images of %2 loaded."
 msgstr[0] "%1 Bild vun %2 gelueden."
 msgstr[1] "%1 Biller vun %2 gelueden."
 
-#: khtml/khtml_part.cpp:2268
+#: khtml/khtml_part.cpp:2267
 msgid "Automatic Detection"
 msgstr "Automatësch Detektioun"
 
-#: khtml/khtml_part.cpp:3709 khtml/khtml_part.cpp:3796
-#: khtml/khtml_part.cpp:3807
+#: khtml/khtml_part.cpp:3708 khtml/khtml_part.cpp:3795
+#: khtml/khtml_part.cpp:3806
 msgid " (In new window)"
 msgstr " (an enger neier Fënster)"
 
-#: khtml/khtml_part.cpp:3748
+#: khtml/khtml_part.cpp:3747
 msgid "Symbolic Link"
 msgstr "Symbolësche Link"
 
-#: khtml/khtml_part.cpp:3750
+#: khtml/khtml_part.cpp:3749
 #, qt-format
 msgid "%1 (Link)"
 msgstr "%1 (Link)"
 
-#: khtml/khtml_part.cpp:3770
+#: khtml/khtml_part.cpp:3769
 #, qt-format
 msgid "%2 (%1 bytes)"
 msgstr "%2 (%1 byte)"
 
-#: khtml/khtml_part.cpp:3774
+#: khtml/khtml_part.cpp:3773
 #, qt-format
 msgid "%2 (%1 K)"
 msgstr "%2 (%1 K)"
 
-#: khtml/khtml_part.cpp:3809
+#: khtml/khtml_part.cpp:3808
 msgid " (In other frame)"
 msgstr " (an engem anere Frame)"
 
-#: khtml/khtml_part.cpp:3814
+#: khtml/khtml_part.cpp:3813
 msgid "Email to: "
 msgstr "E-Mail un: "
 
-#: khtml/khtml_part.cpp:3820
+#: khtml/khtml_part.cpp:3819
 msgid " - Subject: "
 msgstr " - Betreff: "
 
-#: khtml/khtml_part.cpp:3822
+#: khtml/khtml_part.cpp:3821
 msgid " - CC: "
 msgstr " - CC: "
 
-#: khtml/khtml_part.cpp:3824
+#: khtml/khtml_part.cpp:3823
 msgid " - BCC: "
 msgstr " - BCC: "
 
-#: khtml/khtml_part.cpp:3913
+#: khtml/khtml_part.cpp:3912
 #, qt-format
 msgid ""
 "<qt>This untrusted page links to<BR><B>%1</B>.<BR>Do you want to follow the "
@@ -7959,36 +7954,36 @@ msgstr ""
 "<qt>Dëss Säit ass als \"net sëcher\" agestuft ginn an enthält de Link <BR><B>"
 "%1</B>.</BR>Wëllt dir déi Adress opruffen?"
 
-#: khtml/khtml_part.cpp:3914
+#: khtml/khtml_part.cpp:3913
 msgid "Follow"
 msgstr "Opruffen"
 
-#: khtml/khtml_part.cpp:4021
+#: khtml/khtml_part.cpp:4020
 msgid "Frame Information"
 msgstr "Informatioun iwwert de Frame"
 
-#: khtml/khtml_part.cpp:4027
+#: khtml/khtml_part.cpp:4026
 #, qt-format
 msgid "   <a href=\"%1\">[Properties]</a>"
 msgstr "   <a href=\"%1\">[Eegeschaften]</a>"
 
-#: khtml/khtml_part.cpp:4110
+#: khtml/khtml_part.cpp:4109
 msgid "Save Background Image As"
 msgstr "Bild am Hannergrond späicheren als"
 
-#: khtml/khtml_part.cpp:4194
+#: khtml/khtml_part.cpp:4193
 msgid "Save Frame As"
 msgstr "Frame späicheren als"
 
-#: khtml/khtml_part.cpp:4236
+#: khtml/khtml_part.cpp:4235
 msgid "&Find in Frame..."
 msgstr "Am Frame &sichen..."
 
-#: khtml/khtml_part.cpp:4238 kdeui/actions/kstandardaction_p.h:64
+#: khtml/khtml_part.cpp:4237 kdeui/actions/kstandardaction_p.h:64
 msgid "&Find..."
 msgstr "&Sichen..."
 
-#: khtml/khtml_part.cpp:4747
+#: khtml/khtml_part.cpp:4746
 msgid ""
 "Warning:  This is a secure form but it is attempting to send your data back "
 "unencrypted.\n"
@@ -8000,16 +7995,16 @@ msgstr ""
 "Een Drëtte kéint dëss Informatioun offänken a kucken.\n"
 "Wëllt dir sëcher weiderfueren?"
 
-#: khtml/khtml_part.cpp:4750 khtml/khtml_part.cpp:4759
-#: khtml/khtml_part.cpp:4783
+#: khtml/khtml_part.cpp:4749 khtml/khtml_part.cpp:4758
+#: khtml/khtml_part.cpp:4782
 msgid "Network Transmission"
 msgstr "Netzwierk-Transmissioun"
 
-#: khtml/khtml_part.cpp:4750 khtml/khtml_part.cpp:4760
+#: khtml/khtml_part.cpp:4749 khtml/khtml_part.cpp:4759
 msgid "&Send Unencrypted"
 msgstr "Onverschlësselt &verschécken"
 
-#: khtml/khtml_part.cpp:4757
+#: khtml/khtml_part.cpp:4756
 msgid ""
 "Warning: Your data is about to be transmitted across the network "
 "unencrypted.\n"
@@ -8018,7 +8013,7 @@ msgstr ""
 "Warnung: Dir sidd dropp an dru fir är Daten onverschlësselt ze verschécken.\n"
 "Sidd dir iech sëcher, dass dir weiderfuere wëllt?"
 
-#: khtml/khtml_part.cpp:4781
+#: khtml/khtml_part.cpp:4780
 msgid ""
 "This site is attempting to submit form data via email.\n"
 "Do you want to continue?"
@@ -8026,11 +8021,11 @@ msgstr ""
 "De Server probéiert, Formular-Daten iwwert E-Mail ze verschécken.\n"
 "Wëllt dir weiderfueren?"
 
-#: khtml/khtml_part.cpp:4784
+#: khtml/khtml_part.cpp:4783
 msgid "&Send Email"
 msgstr "E-Mail &verschécken"
 
-#: khtml/khtml_part.cpp:4806
+#: khtml/khtml_part.cpp:4805
 #, qt-format
 msgid ""
 "<qt>The form will be submitted to <BR><B>%1</B><BR>on your local filesystem."
@@ -8039,12 +8034,12 @@ msgstr ""
 "<qt>De Formular gëtt no<BR><B>%1</B><BR>op ärem lokalen Dateiesystem "
 "verschéckt ginn.<BR>Wëllt dir de Formular ofsenden?"
 
-#: khtml/khtml_part.cpp:4807 khtml/khtmlview.cpp:2656 khtml/khtmlview.cpp:2698
+#: khtml/khtml_part.cpp:4806 khtml/khtmlview.cpp:2656 khtml/khtmlview.cpp:2698
 #: khtml/html/html_formimpl.cpp:1559 khtml/html/html_formimpl.cpp:2170
 msgid "Submit"
 msgstr "Verschécken"
 
-#: khtml/khtml_part.cpp:4855
+#: khtml/khtml_part.cpp:4854
 msgid ""
 "This site attempted to attach a file from your computer in the form "
 "submission. The attachment was removed for your protection."
@@ -8052,55 +8047,55 @@ msgstr ""
 "De Server huet probéiert, eng Datei aus ärem Dateiesystem un de Formular "
 "drunnzehänken. Den Unhang ass zu ärer Sëcherheet geläscht ginn."
 
-#: khtml/khtml_part.cpp:4855
+#: khtml/khtml_part.cpp:4854
 msgid "KDE"
 msgstr "KDE"
 
-#: khtml/khtml_part.cpp:5767
+#: khtml/khtml_part.cpp:5766
 #, qt-format
 msgid "(%1/s)"
 msgstr "(%1/s)"
 
-#: khtml/khtml_part.cpp:6814
+#: khtml/khtml_part.cpp:6813
 msgid "Security Warning"
 msgstr "Sëcherheetswarnung"
 
-#: khtml/khtml_part.cpp:6820
+#: khtml/khtml_part.cpp:6819
 #, qt-format
 msgid "<qt>Access by untrusted page to<BR><B>%1</B><BR> denied."
 msgstr ""
 "<qt>Zougang op<BR><B>%1</B><BR>duerch eng Säit, déi als net sëcher ugesinn "
 "ass, verweigert."
 
-#: khtml/khtml_part.cpp:6821 khtml/java/kjavaappletserver.cpp:825
+#: khtml/khtml_part.cpp:6820 khtml/java/kjavaappletserver.cpp:824
 msgid "Security Alert"
 msgstr "Sëcherheetsnoricht"
 
-#: khtml/khtml_part.cpp:7168
+#: khtml/khtml_part.cpp:7167
 #, qt-format
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr ""
 "Den digitale Portemonnaie '%1' ass op a gëtt fir Formularer a Passwierder "
 "benotzt."
 
-#: khtml/khtml_part.cpp:7225
+#: khtml/khtml_part.cpp:7224
 msgid "&Close Wallet"
 msgstr "Portemonnaie &zoumaachen"
 
-#: khtml/khtml_part.cpp:7268
+#: khtml/khtml_part.cpp:7267
 msgid "JavaScript &Debugger"
 msgstr "JavaScript-&Debugger"
 
-#: khtml/khtml_part.cpp:7306
+#: khtml/khtml_part.cpp:7305
 msgid "This page was prevented from opening a new window via JavaScript."
 msgstr ""
 "Dëss Säit ass dovun ofgehal ginn, mat JavaScript eng nei fënster opzemaachen."
 
-#: khtml/khtml_part.cpp:7312
+#: khtml/khtml_part.cpp:7311
 msgid "Popup Window Blocked"
 msgstr "Popup-Fënster blockéiert"
 
-#: khtml/khtml_part.cpp:7312
+#: khtml/khtml_part.cpp:7311
 msgid ""
 "This page has attempted to open a popup window but was blocked.\n"
 "You can click on this icon in the status bar to control this behavior\n"
@@ -8111,18 +8106,18 @@ msgstr ""
 "d'Fënster\n"
 "awer opzemaachen oder Astellunge virzehuelen."
 
-#: khtml/khtml_part.cpp:7325
+#: khtml/khtml_part.cpp:7324
 #, fuzzy, qt-format
 msgid "&Show Blocked Popup Window"
 msgid_plural "Show %1 Blocked Popup Windows"
 msgstr[0] "Blockéiert Popup-Fënster &weisen"
 msgstr[1] "%1 blockéiert Popup-Fënstere weisen"
 
-#: khtml/khtml_part.cpp:7326
+#: khtml/khtml_part.cpp:7325
 msgid "Show Blocked Window Passive Popup &Notification"
 msgstr "Passiv &Norichtefënster bei blockéierte Popup-Fënsteren uweisen"
 
-#: khtml/khtml_part.cpp:7328
+#: khtml/khtml_part.cpp:7327
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "JavaScript fir Fënsteren nei opzemaache &configuréieren..."
 
@@ -8217,16 +8212,16 @@ msgstr "KHTML"
 msgid "Embeddable HTML component"
 msgstr "Abettungsfäheg HTML-Komponent"
 
-#: khtml/xml/xml_tokenizer.cpp:312
+#: khtml/xml/xml_tokenizer.cpp:315
 msgid "the document is not in the correct file format"
 msgstr "den Dokument ass am falschen Dateiformat"
 
-#: khtml/xml/xml_tokenizer.cpp:318
+#: khtml/xml/xml_tokenizer.cpp:321
 #, qt-format
 msgid "fatal parsing error: %1 in line %2, column %3"
 msgstr "fatale Parsing-Feeler: %1, Zeil %2, Kolonn %3"
 
-#: khtml/xml/xml_tokenizer.cpp:477
+#: khtml/xml/xml_tokenizer.cpp:480
 msgid "XML parsing error"
 msgstr "XML Parsing-Feeler"
 
@@ -8329,11 +8324,11 @@ msgstr "JavaScript"
 msgid "&Abort"
 msgstr "&Ofbriechen"
 
-#: khtml/ecma/kjs_window.cpp:1579 khtml/ecma/kjs_html.cpp:2107
+#: khtml/ecma/kjs_window.cpp:1582 khtml/ecma/kjs_html.cpp:2107
 msgid "Confirmation: JavaScript Popup"
 msgstr "Bestätegung: JavaScript-Fënsteren"
 
-#: khtml/ecma/kjs_window.cpp:1582
+#: khtml/ecma/kjs_window.cpp:1585
 msgid ""
 "This site is requesting to open up a new browser window via JavaScript.\n"
 "Do you want to allow this?"
@@ -8341,7 +8336,7 @@ msgstr ""
 "Dëss Säit huet ugefrot, fir eng nei Fënster iwwert JavaScript opzemaachen.\n"
 "Wëllt dir dat zouloossen?"
 
-#: khtml/ecma/kjs_window.cpp:1585
+#: khtml/ecma/kjs_window.cpp:1588
 #, qt-format
 msgid ""
 "<qt>This site is requesting to open<p>%1</p>in a new browser window via "
@@ -8350,30 +8345,30 @@ msgstr ""
 "<qt>Dëss Säit huet ugefrot, fir<p>%1</p>an enger neier Fënster iwwert "
 "JavaScript opzemaachen.<br/>Wëllt dir dat zouloossen?</qt>"
 
-#: khtml/ecma/kjs_window.cpp:1587 khtml/ecma/kjs_html.cpp:2114
+#: khtml/ecma/kjs_window.cpp:1590 khtml/ecma/kjs_html.cpp:2114
 msgid "Allow"
 msgstr "Erlaben"
 
-#: khtml/ecma/kjs_window.cpp:1587 khtml/ecma/kjs_html.cpp:2114
+#: khtml/ecma/kjs_window.cpp:1590 khtml/ecma/kjs_html.cpp:2114
 msgid "Do Not Allow"
 msgstr "Net erlaben"
 
-#: khtml/ecma/kjs_window.cpp:1878
+#: khtml/ecma/kjs_window.cpp:1881
 msgid "Close window?"
 msgstr "Fënster zoumaachen?"
 
-#: khtml/ecma/kjs_window.cpp:1878
+#: khtml/ecma/kjs_window.cpp:1881
 msgid "Confirmation Required"
 msgstr "Bestätegung noutwendeg"
 
-#: khtml/ecma/kjs_window.cpp:2828
+#: khtml/ecma/kjs_window.cpp:2831
 #, qt-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr "Wëllt dir e Lieszeeche fir \"%1\" an är Sammlung dobäimaachen?"
 
-#: khtml/ecma/kjs_window.cpp:2831
+#: khtml/ecma/kjs_window.cpp:2834
 #, qt-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
@@ -8382,15 +8377,15 @@ msgstr ""
 "Wëllt dir e Lieszeeche mam Numm \"%2\" fir \"%1\" an är Sammlung "
 "dobäimaachen?"
 
-#: khtml/ecma/kjs_window.cpp:2839
+#: khtml/ecma/kjs_window.cpp:2842
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr "JavaScript huet probéiert, e Lieszeechen dobäizemaachen"
 
-#: khtml/ecma/kjs_window.cpp:2843
+#: khtml/ecma/kjs_window.cpp:2846
 msgid "Insert"
 msgstr "Asetzen"
 
-#: khtml/ecma/kjs_window.cpp:2843
+#: khtml/ecma/kjs_window.cpp:2846
 msgid "Disallow"
 msgstr "Net zouloossen"
 
@@ -8580,91 +8575,91 @@ msgstr "Miniprogramm \"%1\" leeft"
 msgid "Applet \"%1\" stopped"
 msgstr "Miniprogramm \"%1\" gestoppt"
 
-#: khtml/java/kjavaappletserver.cpp:148
+#: khtml/java/kjavaappletserver.cpp:147
 msgid "Loading Applet"
 msgstr "Amgaang, de Miniprogramm ze lueden"
 
-#: khtml/java/kjavaappletserver.cpp:152
+#: khtml/java/kjavaappletserver.cpp:151
 msgid "Error: java executable not found"
 msgstr "Feeler: Java-Programm net fonnt"
 
-#: khtml/java/kjavaappletserver.cpp:665
+#: khtml/java/kjavaappletserver.cpp:664
 msgid "Signed by (validation: "
 msgstr "Ënnerschriwwe vun (Nogekuckt: "
 
-#: khtml/java/kjavaappletserver.cpp:667
+#: khtml/java/kjavaappletserver.cpp:666
 msgid "Certificate (validation: "
 msgstr "Zertifikat (Nogekuckt: "
 
-#: khtml/java/kjavaappletserver.cpp:670
+#: khtml/java/kjavaappletserver.cpp:669
 msgid "Ok"
 msgstr "An der Rei"
 
-#: khtml/java/kjavaappletserver.cpp:672
+#: khtml/java/kjavaappletserver.cpp:671
 msgid "NoCARoot"
 msgstr "NoCARoot"
 
-#: khtml/java/kjavaappletserver.cpp:674
+#: khtml/java/kjavaappletserver.cpp:673
 msgid "InvalidPurpose"
 msgstr "InvalidPurpose"
 
-#: khtml/java/kjavaappletserver.cpp:676
+#: khtml/java/kjavaappletserver.cpp:675
 msgid "PathLengthExceeded"
 msgstr "PathLengthExceeded"
 
-#: khtml/java/kjavaappletserver.cpp:678
+#: khtml/java/kjavaappletserver.cpp:677
 msgid "InvalidCA"
 msgstr "InvalidCA"
 
-#: khtml/java/kjavaappletserver.cpp:680
+#: khtml/java/kjavaappletserver.cpp:679
 msgid "Expired"
 msgstr "Ofgelaf"
 
-#: khtml/java/kjavaappletserver.cpp:682
+#: khtml/java/kjavaappletserver.cpp:681
 msgid "SelfSigned"
 msgstr "SelfSigned"
 
-#: khtml/java/kjavaappletserver.cpp:684
+#: khtml/java/kjavaappletserver.cpp:683
 msgid "ErrorReadingRoot"
 msgstr "ErrorReadingRoot"
 
-#: khtml/java/kjavaappletserver.cpp:686
+#: khtml/java/kjavaappletserver.cpp:685
 msgid "Revoked"
 msgstr "Zeréckgezunn"
 
-#: khtml/java/kjavaappletserver.cpp:688
+#: khtml/java/kjavaappletserver.cpp:687
 msgid "Untrusted"
 msgstr "Net als sëcher agestuft"
 
-#: khtml/java/kjavaappletserver.cpp:690
+#: khtml/java/kjavaappletserver.cpp:689
 msgid "SignatureFailed"
 msgstr "SignatureFailed"
 
-#: khtml/java/kjavaappletserver.cpp:692
+#: khtml/java/kjavaappletserver.cpp:691
 msgid "Rejected"
 msgstr "Ofgeleent"
 
-#: khtml/java/kjavaappletserver.cpp:694
+#: khtml/java/kjavaappletserver.cpp:693
 msgid "PrivateKeyFailed"
 msgstr "PrivateKeyFailed"
 
-#: khtml/java/kjavaappletserver.cpp:696
+#: khtml/java/kjavaappletserver.cpp:695
 msgid "InvalidHost"
 msgstr "Ongültegen Host"
 
-#: khtml/java/kjavaappletserver.cpp:832
+#: khtml/java/kjavaappletserver.cpp:831
 msgid "Do you grant Java applet with certificate(s):"
 msgstr "Java-Miniprogramm mat Zertifikaten zouloossen:"
 
-#: khtml/java/kjavaappletserver.cpp:834
+#: khtml/java/kjavaappletserver.cpp:833
 msgid "the following permission"
 msgstr "déi folgend Zouloossungskriterien"
 
-#: khtml/java/kjavaappletserver.cpp:848
+#: khtml/java/kjavaappletserver.cpp:847
 msgid "&Reject All"
 msgstr "Alleguer zeréck&weisen"
 
-#: khtml/java/kjavaappletserver.cpp:854
+#: khtml/java/kjavaappletserver.cpp:853
 msgid "&Grant All"
 msgstr "Alleguer &zouloossen"
 
@@ -8680,6 +8675,10 @@ msgstr "KMultiPart"
 #: khtml/kmultipart/kmultipart.cpp:581
 msgid "Embeddable component for multipart/mixed"
 msgstr "Abettungsfäheg Komponent fir multipart/mixed"
+
+#: khtml/rendering/render_form.cpp:375 kde3support/kdeui/k3textedit.cpp:348
+msgid "Spell Checking"
+msgstr "Rechtschreifkontroll"
 
 #: khtml/rendering/render_frames.cpp:944
 #, qt-format
@@ -9091,54 +9090,54 @@ msgstr "Plugin fir de Stil am Netz"
 msgid "Not yet rated"
 msgstr "Eegeschaften"
 
-#: kmetadata/kmetadata/ui/kmetadatatagwidget.cpp:122
+#: kmetadata/kmetadata/ui/kmetadatatagwidget.cpp:127
 #, fuzzy
 #| msgid "Valid Resource"
 msgid "Tag resource..."
 msgstr "Gülteg Ressource"
 
-#: kmetadata/kmetadata/ui/kmetadatatagwidget.cpp:132
+#: kmetadata/kmetadata/ui/kmetadatatagwidget.cpp:140
 msgid "Create new tag..."
 msgstr ""
 
-#: kmetadata/kmetadata/ui/kmetadatatagwidget.cpp:137
+#: kmetadata/kmetadata/ui/kmetadatatagwidget.cpp:145
 #, fuzzy
 #| msgid "New Game"
 msgid "New Tag"
 msgstr "Neit Spill"
 
-#: kmetadata/kmetadata/ui/kmetadatatagwidget.cpp:137
+#: kmetadata/kmetadata/ui/kmetadatatagwidget.cpp:145
 #, fuzzy
 #| msgid "Please select type of the new resource:"
 msgid "Please insert the name of the new tag"
 msgstr "Wielt w.e.g. den Typ vum neie Modul:"
 
-#: kmetadata/kmetadata/ui/kmetadatatagwidget.cpp:146
+#: kmetadata/kmetadata/ui/kmetadatatagwidget.cpp:154
 #, qt-format
 msgid "The tag %1 already exists"
 msgstr ""
 
-#: kmetadata/kmetadata/ui/kmetadatatagwidget.cpp:146
+#: kmetadata/kmetadata/ui/kmetadatatagwidget.cpp:154
 #, fuzzy
 msgid "Tag exists"
 msgstr "Test"
 
-#: kmetadata/kmetadata/generated/resource.cpp:221
+#: kmetadata/kmetadata/generated/resource.cpp:215
 msgid "Success"
 msgstr ""
 
-#: kmetadata/kmetadata/generated/resource.cpp:223
+#: kmetadata/kmetadata/generated/resource.cpp:217
 #, fuzzy
 msgid "Communication error"
 msgstr "Configuratioun"
 
-#: kmetadata/kmetadata/generated/resource.cpp:225
+#: kmetadata/kmetadata/generated/resource.cpp:219
 #, fuzzy
 #| msgid "Invalid reference base"
 msgid "Invalid type in Database"
 msgstr "Ongülteg Basis fir d'Referenz"
 
-#: kmetadata/kmetadata/generated/resource.cpp:227
+#: kmetadata/kmetadata/generated/resource.cpp:221
 #, fuzzy
 #| msgctxt "QFile"
 #| msgid "Unknown error"

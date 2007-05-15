@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeprint\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-05-11 06:06+0200\n"
+"POT-Creation-Date: 2007-05-15 05:53+0200\n"
 "PO-Revision-Date: 2006-05-02 18:19+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2928,35 +2928,35 @@ msgstr ""
 msgid "Start the add printer wizard"
 msgstr ""
 
-#: management/kmdbcreator.cpp:93
+#: management/kmdbcreator.cpp:91
 msgid ""
 "No executable defined for the creation of the driver database. This "
 "operation is not implemented."
 msgstr ""
 
-#: management/kmdbcreator.cpp:96
+#: management/kmdbcreator.cpp:98
 #, qt-format
 msgid ""
 "The executable %1 could not be found in your PATH. Check that this program "
 "exists and is accessible in your PATH variable."
 msgstr ""
 
-#: management/kmdbcreator.cpp:100
+#: management/kmdbcreator.cpp:102
 #, qt-format
 msgid ""
 "Unable to start the creation of the driver database. The execution of %1 "
 "failed."
 msgstr ""
 
-#: management/kmdbcreator.cpp:115
+#: management/kmdbcreator.cpp:118
 msgid "Please wait while KDE rebuilds a driver database."
 msgstr ""
 
-#: management/kmdbcreator.cpp:116
+#: management/kmdbcreator.cpp:119
 msgid "Driver Database"
 msgstr ""
 
-#: management/kmdbcreator.cpp:173
+#: management/kmdbcreator.cpp:176
 msgid ""
 "Error while creating driver database: abnormal child-process termination."
 msgstr ""
@@ -4231,7 +4231,7 @@ msgstr ""
 msgid "Initialization..."
 msgstr ""
 
-#: kprinter.cpp:205 kprinter.cpp:1026
+#: kprinter.cpp:205 kprinter.cpp:1024
 #, qt-format
 msgid "Generating print data: page %1"
 msgstr ""
