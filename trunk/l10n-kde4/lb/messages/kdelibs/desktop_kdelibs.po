@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-05-18 03:56+0000\n"
+"POT-Creation-Date: 2007-05-19 03:53+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1041,134 +1041,6 @@ msgctxt "Comment"
 msgid "Print Through an External Program (generic)"
 msgstr "Duerch en externe Programm drécken (allgemeng)"
 
-#: kdeprint/filters/enscript.desktop:2
-msgctxt "Name"
-msgid "enscript"
-msgstr "Enscript"
-
-#: kdeprint/filters/enscript.desktop:17
-msgctxt "Comment"
-msgid "Enscript Text Filter"
-msgstr "Enscript-Textfilter"
-
-#: kdeprint/filters/imagetops.desktop:2
-msgctxt "Name"
-msgid "imagetops"
-msgstr "imagetops"
-
-#: kdeprint/filters/imagetops.desktop:19
-msgctxt "Comment"
-msgid "Generic Image to PS Filter"
-msgstr "Allgemenge Filter vu Biller zu PS"
-
-#: kdeprint/filters/pdfwrite.desktop:2
-msgctxt "Name"
-msgid "pdfwrite"
-msgstr "pdfwrite"
-
-#: kdeprint/filters/pdfwrite.desktop:14
-msgctxt "Comment"
-msgid "PDF Writer (needs Ghostscript)"
-msgstr "PDF-Schreiwer (brauch Ghostscript)"
-
-#: kdeprint/filters/poster.desktop:2
-msgctxt "Comment"
-msgid "Poster Printing"
-msgstr "Plakatdrock"
-
-#: kdeprint/filters/poster.desktop:64
-msgctxt "Description"
-msgid ""
-"Utility to print large posters on multiple small paper sheets. To use this "
-"command, the <b>poster</b> executable must be accessible in your <tt>PATH</"
-"tt>. Source code for this utility can be on the <a href=\"http://printing."
-"kde.org/downloads\">KDEPrint web site</a>. <p><b><u>WARNING:</u></b> The "
-"package found on the KDEPrint web site is a modified version of the original "
-"one that can be found on any CTAN archive mirror, but the original package "
-"will <b>not</b> work with KDE. You <b>must</b> use the package found on the "
-"<a href=\"http://printing.kde.org/downloads\">KDEPrint web site</a>."
-msgstr ""
-"Hëllefsmëttel fir grouss Plakater op kleng Pabeiergréissten ze drécken. Fir "
-"dëse Kommando benotzen ze kënnen, muss den <b>poster</b> Programm an ärem "
-"<tt>PATH</tt> sinn. Den Quellcode vun dësem Hëllefsprogramm kann een op der "
-"<a href=\"http://printing.kde.org/downloads\">KDEPrint-Websäit</a> fannen. "
-"<p><b><u>WARNUNG:</u></b>D'Distributioun, déi een op der KDEPrint-Websäit "
-"fënnt, ass eng modifizéiert Versioun vun der originaler, déi een op iergend "
-"engem CTAN-Archiv Mirror fanne kann. Déi original Distributioun "
-"funktionéiert <b>net</b> mat KDE. Dir <b>musst</b> dofir d'Distributioun vun "
-"der <a href=\"http://printing.kde.org/downloads\"> KDEPrint web site</a> "
-"Websäit benotzen."
-
-#: kdeprint/filters/ps2pdf.desktop:2
-msgctxt "Name"
-msgid "ps2pdf"
-msgstr "ps2pdf"
-
-#: kdeprint/filters/ps2pdf.desktop:11
-msgctxt "Comment"
-msgid "PostScript to PDF Converter"
-msgstr "PostScript zu PDF Konvertéierer"
-
-#: kdeprint/filters/psbook.desktop:2
-msgctxt "Name"
-msgid "psbook"
-msgstr "psbook"
-
-#: kdeprint/filters/psbook.desktop:11
-msgctxt "Comment"
-msgid "Pamphlet Printing (use with small side duplex printing)"
-msgstr "Booklet-Drock (mat schmuelsäitegem Duplexdrock benotzen)"
-
-#: kdeprint/filters/psbook1.desktop:2
-msgctxt "Name"
-msgid "psbook1"
-msgstr "psbook1"
-
-#: kdeprint/filters/psbook1.desktop:12
-msgctxt "Comment"
-msgid "Pamphlet Printing - Even Pages (step 1)"
-msgstr "Booklet-Drock - Gerued Säiten (Schrëtt 1)"
-
-#: kdeprint/filters/psbook2.desktop:2
-msgctxt "Name"
-msgid "psbook2"
-msgstr "psbook2"
-
-#: kdeprint/filters/psbook2.desktop:12
-msgctxt "Comment"
-msgid "Pamphlet Printing - Odd Pages (step 2)"
-msgstr "Booklet-Drock - Ongerued Säiten (Schrëtt 2)"
-
-#: kdeprint/filters/psnup.desktop:2
-msgctxt "Name"
-msgid "psnup"
-msgstr "psnup"
-
-#: kdeprint/filters/psnup.desktop:7
-msgctxt "Comment"
-msgid "Multiple Pages per Sheet Filter"
-msgstr "Filter fir e puer Säiten op ee Blat ze drécken"
-
-#: kdeprint/filters/psresize.desktop:2
-msgctxt "Name"
-msgid "psresize"
-msgstr "psresize"
-
-#: kdeprint/filters/psresize.desktop:15
-msgctxt "Comment"
-msgid "Scale Print Content to Fit on Another Paper Size"
-msgstr "Gréisst vum Ausdrock op eng aner Pabeiergréisst upassen"
-
-#: kdeprint/filters/psselect.desktop:2
-msgctxt "Name"
-msgid "psselect"
-msgstr "psselect"
-
-#: kdeprint/filters/psselect.desktop:13
-msgctxt "Comment"
-msgid "Page Selection/Ordering Filter"
-msgstr "Säitenauswiel-/Sortéierungsfilter"
-
 #: kdeprint/foomatic/foomatic.print:3
 msgctxt "Comment"
 msgid "Foomatic (CUPS, LPRng, PDQ)"
@@ -1892,6 +1764,113 @@ msgstr ""
 msgctxt "Name"
 msgid "HSpell"
 msgstr "HSpell"
+
+#~ msgctxt "Name"
+#~ msgid "enscript"
+#~ msgstr "Enscript"
+
+#~ msgctxt "Comment"
+#~ msgid "Enscript Text Filter"
+#~ msgstr "Enscript-Textfilter"
+
+#~ msgctxt "Name"
+#~ msgid "imagetops"
+#~ msgstr "imagetops"
+
+#~ msgctxt "Comment"
+#~ msgid "Generic Image to PS Filter"
+#~ msgstr "Allgemenge Filter vu Biller zu PS"
+
+#~ msgctxt "Name"
+#~ msgid "pdfwrite"
+#~ msgstr "pdfwrite"
+
+#~ msgctxt "Comment"
+#~ msgid "PDF Writer (needs Ghostscript)"
+#~ msgstr "PDF-Schreiwer (brauch Ghostscript)"
+
+#~ msgctxt "Comment"
+#~ msgid "Poster Printing"
+#~ msgstr "Plakatdrock"
+
+#~ msgctxt "Description"
+#~ msgid ""
+#~ "Utility to print large posters on multiple small paper sheets. To use "
+#~ "this command, the <b>poster</b> executable must be accessible in your "
+#~ "<tt>PATH</tt>. Source code for this utility can be on the <a href="
+#~ "\"http://printing.kde.org/downloads\">KDEPrint web site</a>. "
+#~ "<p><b><u>WARNING:</u></b> The package found on the KDEPrint web site is a "
+#~ "modified version of the original one that can be found on any CTAN "
+#~ "archive mirror, but the original package will <b>not</b> work with KDE. "
+#~ "You <b>must</b> use the package found on the <a href=\"http://printing."
+#~ "kde.org/downloads\">KDEPrint web site</a>."
+#~ msgstr ""
+#~ "Hëllefsmëttel fir grouss Plakater op kleng Pabeiergréissten ze drécken. "
+#~ "Fir dëse Kommando benotzen ze kënnen, muss den <b>poster</b> Programm an "
+#~ "ärem <tt>PATH</tt> sinn. Den Quellcode vun dësem Hëllefsprogramm kann een "
+#~ "op der <a href=\"http://printing.kde.org/downloads\">KDEPrint-Websäit</a> "
+#~ "fannen. <p><b><u>WARNUNG:</u></b>D'Distributioun, déi een op der KDEPrint-"
+#~ "Websäit fënnt, ass eng modifizéiert Versioun vun der originaler, déi een "
+#~ "op iergend engem CTAN-Archiv Mirror fanne kann. Déi original "
+#~ "Distributioun funktionéiert <b>net</b> mat KDE. Dir <b>musst</b> dofir "
+#~ "d'Distributioun vun der <a href=\"http://printing.kde.org/downloads\"> "
+#~ "KDEPrint web site</a> Websäit benotzen."
+
+#~ msgctxt "Name"
+#~ msgid "ps2pdf"
+#~ msgstr "ps2pdf"
+
+#~ msgctxt "Comment"
+#~ msgid "PostScript to PDF Converter"
+#~ msgstr "PostScript zu PDF Konvertéierer"
+
+#~ msgctxt "Name"
+#~ msgid "psbook"
+#~ msgstr "psbook"
+
+#~ msgctxt "Comment"
+#~ msgid "Pamphlet Printing (use with small side duplex printing)"
+#~ msgstr "Booklet-Drock (mat schmuelsäitegem Duplexdrock benotzen)"
+
+#~ msgctxt "Name"
+#~ msgid "psbook1"
+#~ msgstr "psbook1"
+
+#~ msgctxt "Comment"
+#~ msgid "Pamphlet Printing - Even Pages (step 1)"
+#~ msgstr "Booklet-Drock - Gerued Säiten (Schrëtt 1)"
+
+#~ msgctxt "Name"
+#~ msgid "psbook2"
+#~ msgstr "psbook2"
+
+#~ msgctxt "Comment"
+#~ msgid "Pamphlet Printing - Odd Pages (step 2)"
+#~ msgstr "Booklet-Drock - Ongerued Säiten (Schrëtt 2)"
+
+#~ msgctxt "Name"
+#~ msgid "psnup"
+#~ msgstr "psnup"
+
+#~ msgctxt "Comment"
+#~ msgid "Multiple Pages per Sheet Filter"
+#~ msgstr "Filter fir e puer Säiten op ee Blat ze drécken"
+
+#~ msgctxt "Name"
+#~ msgid "psresize"
+#~ msgstr "psresize"
+
+#~ msgctxt "Comment"
+#~ msgid "Scale Print Content to Fit on Another Paper Size"
+#~ msgstr "Gréisst vum Ausdrock op eng aner Pabeiergréisst upassen"
+
+#~ msgctxt "Name"
+#~ msgid "psselect"
+#~ msgstr "psselect"
+
+#~ msgctxt "Comment"
+#~ msgid "Page Selection/Ordering Filter"
+#~ msgstr "Säitenauswiel-/Sortéierungsfilter"
 
 #, fuzzy
 #~ msgctxt "Name"
