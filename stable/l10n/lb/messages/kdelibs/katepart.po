@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: katepart\n"
-"POT-Creation-Date: 2007-05-05 02:14+0200\n"
+"POT-Creation-Date: 2007-05-29 02:14+0200\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -3882,15 +3882,15 @@ msgstr "Sichen"
 msgid "Search Options"
 msgstr "Sichoptiounen"
 
-#: plugins/isearch/ISearchPlugin.cpp:106 plugins/isearch/ISearchPlugin.cpp:417
+#: plugins/isearch/ISearchPlugin.cpp:106 plugins/isearch/ISearchPlugin.cpp:412
 msgid "Case Sensitive"
 msgstr "Op Grouss-/Klengschreiwung oppassen"
 
-#: plugins/isearch/ISearchPlugin.cpp:115 plugins/isearch/ISearchPlugin.cpp:419
+#: plugins/isearch/ISearchPlugin.cpp:115 plugins/isearch/ISearchPlugin.cpp:414
 msgid "From Beginning"
 msgstr "Vum Ufank un"
 
-#: plugins/isearch/ISearchPlugin.cpp:124 plugins/isearch/ISearchPlugin.cpp:421
+#: plugins/isearch/ISearchPlugin.cpp:124 plugins/isearch/ISearchPlugin.cpp:416
 msgid "Regular Expression"
 msgstr "Regulären Ausdrock"
 
