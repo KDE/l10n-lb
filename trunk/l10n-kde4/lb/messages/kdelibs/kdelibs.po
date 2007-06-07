@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-06-06 05:14+0200\n"
+"POT-Creation-Date: 2007-06-07 05:43+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -4627,7 +4627,7 @@ msgid "Front"
 msgstr "Vir"
 
 #: kdeui/util/kkeyserver_x11.cpp:114 kdeui/shortcuts/kstandardshortcut.cpp:75
-#: kfile/kurlbutton.cpp:86
+#: kfile/kurlbutton.cpp:85
 msgid "Copy"
 msgstr "Kopéieren"
 
@@ -4636,7 +4636,7 @@ msgid "Open"
 msgstr "Opmaachen"
 
 #: kdeui/util/kkeyserver_x11.cpp:116 kdeui/shortcuts/kstandardshortcut.cpp:76
-#: kfile/kurlbutton.cpp:90
+#: kfile/kurlbutton.cpp:89
 msgid "Paste"
 msgstr "Peschen"
 
@@ -7489,23 +7489,23 @@ msgstr "P&lazhaler benotzen"
 msgid "Show Preview"
 msgstr ""
 
-#: kfile/kurltogglebutton.cpp:80
+#: kfile/kurltogglebutton.cpp:77
 #, fuzzy
 #| msgid "Click to select a font"
 msgid "Click for Location Navigation"
 msgstr "Klickt hei, fir eng Schrëft ze wielen"
 
-#: kfile/kurltogglebutton.cpp:82
+#: kfile/kurltogglebutton.cpp:79
 #, fuzzy
 #| msgid "Click to select a font"
 msgid "Click to Edit Location"
 msgstr "Klickt hei, fir eng Schrëft ze wielen"
 
-#: kfile/kurlbutton.cpp:97 kross/ui/view.cpp:505
+#: kfile/kurlbutton.cpp:96 kross/ui/view.cpp:505
 msgid "Edit"
 msgstr "Veränneren"
 
-#: kfile/kurlbutton.cpp:100
+#: kfile/kurlbutton.cpp:99
 #, fuzzy
 #| msgid "Navigation"
 msgid "Navigate"
