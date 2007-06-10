@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-06-09 05:38+0200\n"
+"POT-Creation-Date: 2007-06-10 05:16+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -4959,7 +4959,7 @@ msgstr ""
 
 #: kdeui/dialogs/kshortcutsdialog.cpp:615
 #: kdeui/dialogs/kshortcutsdialog.cpp:643
-#: kdeui/dialogs/kshortcutsdialog.cpp:659 kdeui/shortcuts/kglobalaccel.cpp:444
+#: kdeui/dialogs/kshortcutsdialog.cpp:659 kdeui/shortcuts/kglobalaccel.cpp:446
 msgid "Reassign"
 msgstr "Nei zouuerdnen"
 
@@ -5937,11 +5937,11 @@ msgstr "All siichtbar Kolonnen"
 msgid "S&earch:"
 msgstr "Siche&n:"
 
-#: kdeui/shortcuts/kglobalaccel.cpp:438
+#: kdeui/shortcuts/kglobalaccel.cpp:440
 msgid "Conflict with Global Shortcut"
 msgstr "Konflikt mat allgemengem Kierzel"
 
-#: kdeui/shortcuts/kglobalaccel.cpp:439
+#: kdeui/shortcuts/kglobalaccel.cpp:441
 #, fuzzy, qt-format
 #| msgid ""
 #| "The '%1' key combination has already been allocated to the global action "
@@ -6223,6 +6223,7 @@ msgstr ""
 "Statusbar weisen<p>Weist d'Statusbar. Dat ass déi Leescht ënnen an der "
 "Fënster fir d'Statusinformatiounen."
 
+#: kdeui/windowmanagement/kwindowsystem_qws.cpp:179
 #: kdeui/windowmanagement/kwindowsystem_x11.cpp:831
 #: kdeui/windowmanagement/kwindowsystem_mac.cpp:178
 #: kdeui/windowmanagement/kwindowsystem_win.cpp:179
@@ -8391,11 +8392,11 @@ msgstr "JavaScript"
 msgid "&Abort"
 msgstr "&Ofbriechen"
 
-#: khtml/ecma/kjs_window.cpp:1582 khtml/ecma/kjs_html.cpp:2107
+#: khtml/ecma/kjs_window.cpp:1562 khtml/ecma/kjs_html.cpp:2107
 msgid "Confirmation: JavaScript Popup"
 msgstr "Bestätegung: JavaScript-Fënsteren"
 
-#: khtml/ecma/kjs_window.cpp:1585
+#: khtml/ecma/kjs_window.cpp:1565
 msgid ""
 "This site is requesting to open up a new browser window via JavaScript.\n"
 "Do you want to allow this?"
@@ -8403,7 +8404,7 @@ msgstr ""
 "Dëss Säit huet ugefrot, fir eng nei Fënster iwwert JavaScript opzemaachen.\n"
 "Wëllt dir dat zouloossen?"
 
-#: khtml/ecma/kjs_window.cpp:1588
+#: khtml/ecma/kjs_window.cpp:1568
 #, qt-format
 msgid ""
 "<qt>This site is requesting to open<p>%1</p>in a new browser window via "
@@ -8412,30 +8413,30 @@ msgstr ""
 "<qt>Dëss Säit huet ugefrot, fir<p>%1</p>an enger neier Fënster iwwert "
 "JavaScript opzemaachen.<br/>Wëllt dir dat zouloossen?</qt>"
 
-#: khtml/ecma/kjs_window.cpp:1590 khtml/ecma/kjs_html.cpp:2114
+#: khtml/ecma/kjs_window.cpp:1570 khtml/ecma/kjs_html.cpp:2114
 msgid "Allow"
 msgstr "Erlaben"
 
-#: khtml/ecma/kjs_window.cpp:1590 khtml/ecma/kjs_html.cpp:2114
+#: khtml/ecma/kjs_window.cpp:1570 khtml/ecma/kjs_html.cpp:2114
 msgid "Do Not Allow"
 msgstr "Net erlaben"
 
-#: khtml/ecma/kjs_window.cpp:1881
+#: khtml/ecma/kjs_window.cpp:1861
 msgid "Close window?"
 msgstr "Fënster zoumaachen?"
 
-#: khtml/ecma/kjs_window.cpp:1881
+#: khtml/ecma/kjs_window.cpp:1861
 msgid "Confirmation Required"
 msgstr "Bestätegung noutwendeg"
 
-#: khtml/ecma/kjs_window.cpp:2831
+#: khtml/ecma/kjs_window.cpp:2811
 #, qt-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr "Wëllt dir e Lieszeeche fir \"%1\" an är Sammlung dobäimaachen?"
 
-#: khtml/ecma/kjs_window.cpp:2834
+#: khtml/ecma/kjs_window.cpp:2814
 #, qt-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
@@ -8444,15 +8445,15 @@ msgstr ""
 "Wëllt dir e Lieszeeche mam Numm \"%2\" fir \"%1\" an är Sammlung "
 "dobäimaachen?"
 
-#: khtml/ecma/kjs_window.cpp:2842
+#: khtml/ecma/kjs_window.cpp:2822
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr "JavaScript huet probéiert, e Lieszeechen dobäizemaachen"
 
-#: khtml/ecma/kjs_window.cpp:2846
+#: khtml/ecma/kjs_window.cpp:2826
 msgid "Insert"
 msgstr "Asetzen"
 
-#: khtml/ecma/kjs_window.cpp:2846
+#: khtml/ecma/kjs_window.cpp:2826
 msgid "Disallow"
 msgstr "Net zouloossen"
 
