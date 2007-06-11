@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-06-10 19:33+0000\n"
+"POT-Creation-Date: 2007-06-11 04:14+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1785,12 +1785,12 @@ msgctxt "Name"
 msgid "Crypto"
 msgstr ""
 
-#: security/crypto/crypto.desktop:13
+#: security/crypto/crypto.desktop:14
 msgctxt "Comment"
 msgid "Configure SSL, manage certificates, and other cryptography settings"
 msgstr ""
 
-#: security/crypto/crypto.desktop:17
+#: security/crypto/crypto.desktop:19
 msgctxt "Keywords"
 msgid ""
 "Crypto,Krypto,Cryptography,encryption,SSL,https,certificates,ciphers,TLS,"
@@ -1802,7 +1802,7 @@ msgctxt "Comment"
 msgid "Embeddable Personal Certificate Manager"
 msgstr "Abettbare perséinlechen Zertifikatsmanager"
 
-#: security/kcert/kcertpart.desktop:63
+#: security/kcert/kcertpart.desktop:64
 msgctxt "Name"
 msgid "KCertPart"
 msgstr "KCertPart"
