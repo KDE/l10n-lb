@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kicker\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-05-05 05:43+0200\n"
+"POT-Creation-Date: 2007-06-14 11:33+0200\n"
 "PO-Revision-Date: 2005-12-21 12:15+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -428,11 +428,11 @@ msgstr "&Wuerzel-Dossier"
 msgid "System &Configuration"
 msgstr "&Configuratioun vum System"
 
-#: ui/recentapps.cpp:194
+#: ui/recentapps.cpp:193
 msgid "Recently Used Applications"
 msgstr "Als lescht benotzte Programmer"
 
-#: ui/recentapps.cpp:195
+#: ui/recentapps.cpp:194
 msgid "Most Used Applications"
 msgstr "Am meeschte benotzte Programmer"
 
