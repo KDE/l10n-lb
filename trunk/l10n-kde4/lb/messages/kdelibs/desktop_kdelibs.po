@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-06-14 09:39+0000\n"
+"POT-Creation-Date: 2007-06-16 03:24+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1458,6 +1458,19 @@ msgctxt "Comment"
 msgid "A style that works well with high contrast color schemes"
 msgstr "E Stil, dee gutt bei Faarfschemaë mat engem héiche Kontrast passt"
 
+#: kstyles/oxygen/oxygen.themerc:2 pics/oxygen/index.theme:2
+msgctxt "Name"
+msgid "Oxygen"
+msgstr ""
+
+#: kstyles/oxygen/oxygen.themerc:6
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "A simple and clean style"
+msgctxt "Comment"
+msgid "A really cool style"
+msgstr "En einfachen a schlichte Stil"
+
 #: kstyles/plastik/plastik.themerc:2
 msgctxt "Name"
 msgid "Plastik"
@@ -1770,11 +1783,6 @@ msgstr "KDE-VillFaarwen"
 msgctxt "Comment"
 msgid "Fallback icon theme"
 msgstr "Ersatzsymbolthema"
-
-#: pics/oxygen/index.theme:2
-msgctxt "Name"
-msgid "Oxygen"
-msgstr ""
 
 #: pics/oxygen/index.theme:6
 msgctxt "Comment"
