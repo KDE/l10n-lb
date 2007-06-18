@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-06-17 05:23+0200\n"
+"POT-Creation-Date: 2007-06-18 05:28+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -4497,7 +4497,7 @@ msgstr "Am meeschten erofgelueden"
 msgid "Unsorted"
 msgstr "Net als sëcher agestuft"
 
-#: knewstuff/knewstuff2/core/security.cpp:70
+#: knewstuff/knewstuff2/core/security.cpp:78
 msgid ""
 "<qt>Cannot start <i>gpg</i> and retrieve the available keys. Make sure that "
 "<i>gpg</i> is installed, otherwise verification of downloaded resources will "
@@ -4507,7 +4507,7 @@ msgstr ""
 "Kuckt w.e.g. no, ob den <i>gpg</i> installéiert ass, well soss kënnen déi "
 "erofgeluede Ressourcen net verifizéiert ginn.</qt>"
 
-#: knewstuff/knewstuff2/core/security.cpp:184
+#: knewstuff/knewstuff2/core/security.cpp:216
 #, qt-format
 msgid ""
 "<qt>Enter passphrase for key <b>0x%1</b>, belonging to<br><i>%2&lt;%3&gt;</"
@@ -4516,7 +4516,7 @@ msgstr ""
 "<qt>Gitt w.e.g. d'Passwuert fir de Schlëssel <b>0x%1</b> an, deen zu <br><i>%"
 "2&lt;%3&gt;</i>gehéiert:</qt>"
 
-#: knewstuff/knewstuff2/core/security.cpp:263
+#: knewstuff/knewstuff2/core/security.cpp:304
 msgid ""
 "<qt>Cannot start <i>gpg</i> and check the validity of the file. Make sure "
 "that <i>gpg</i> is installed, otherwise verification of downloaded resources "
@@ -4526,15 +4526,15 @@ msgstr ""
 "Kuckt w.e.g. no, ob den <i>gpg</i> installéiert ass, well soss kënnen déi "
 "erofgeluede Ressourcen net verifizéiert ginn.</qt>"
 
-#: knewstuff/knewstuff2/core/security.cpp:323
+#: knewstuff/knewstuff2/core/security.cpp:365
 msgid "Select Signing Key"
 msgstr "Schlëssel fir d'Ënnerschrëft wielen"
 
-#: knewstuff/knewstuff2/core/security.cpp:323
+#: knewstuff/knewstuff2/core/security.cpp:365
 msgid "Key used for signing:"
 msgstr "Schlëssel fir z'ënnerschreiwen:"
 
-#: knewstuff/knewstuff2/core/security.cpp:344
+#: knewstuff/knewstuff2/core/security.cpp:399
 msgid ""
 "<qt>Cannot start <i>gpg</i> and sign the file. Make sure that <i>gpg</i> is "
 "installed, otherwise signing of the resources will not be possible.</qt>"
@@ -4695,7 +4695,7 @@ msgstr "&OK"
 msgid "&Cancel"
 msgstr "&Ofbriechen"
 
-#: kdeui/util/kstandardguiitem.cpp:116 khtml/java/kjavaappletserver.cpp:850
+#: kdeui/util/kstandardguiitem.cpp:116 khtml/java/kjavaappletserver.cpp:849
 msgid "&Yes"
 msgstr "&Jo"
 
@@ -4703,7 +4703,7 @@ msgstr "&Jo"
 msgid "Yes"
 msgstr "Jo"
 
-#: kdeui/util/kstandardguiitem.cpp:121 khtml/java/kjavaappletserver.cpp:843
+#: kdeui/util/kstandardguiitem.cpp:121 khtml/java/kjavaappletserver.cpp:842
 msgid "&No"
 msgstr "&Nee"
 
@@ -5378,15 +5378,15 @@ msgstr "Configuréieren"
 msgid "&Try"
 msgstr "&Probéieren"
 
-#: kdeui/dialogs/kdialog.cpp:466 kstyles/web/webstyle.cpp:1604
+#: kdeui/dialogs/kdialog.cpp:473 kstyles/web/webstyle.cpp:1604
 msgid "modified"
 msgstr "nach net gespäichert"
 
-#: kdeui/dialogs/kdialog.cpp:841
+#: kdeui/dialogs/kdialog.cpp:848
 msgid "&Details"
 msgstr "&Detailer"
 
-#: kdeui/dialogs/kdialog.cpp:981
+#: kdeui/dialogs/kdialog.cpp:988
 msgid "Get help..."
 msgstr "Hëllef ufroen..."
 
@@ -7002,7 +7002,7 @@ msgstr ""
 msgid "Separator, Space"
 msgstr "Mam Ersetzen ufänken"
 
-#: kdeui/widgets/kcharselectdata.cpp:531 khtml/java/kjavaappletserver.cpp:698
+#: kdeui/widgets/kcharselectdata.cpp:531 khtml/java/kjavaappletserver.cpp:697
 msgid "Unknown"
 msgstr "Onbekannt"
 
@@ -8490,7 +8490,7 @@ msgstr ""
 "<qt>Zougang op<BR><B>%1</B><BR>duerch eng Säit, déi als net sëcher ugesinn "
 "ass, verweigert."
 
-#: khtml/khtml_part.cpp:6820 khtml/java/kjavaappletserver.cpp:824
+#: khtml/khtml_part.cpp:6820 khtml/java/kjavaappletserver.cpp:823
 msgid "Security Alert"
 msgstr "Sëcherheetsnoricht"
 
@@ -9006,83 +9006,83 @@ msgstr "Amgaang, de Miniprogramm ze lueden"
 msgid "Error: java executable not found"
 msgstr "Feeler: Java-Programm net fonnt"
 
-#: khtml/java/kjavaappletserver.cpp:664
+#: khtml/java/kjavaappletserver.cpp:663
 msgid "Signed by (validation: "
 msgstr "Ënnerschriwwe vun (Nogekuckt: "
 
-#: khtml/java/kjavaappletserver.cpp:666
+#: khtml/java/kjavaappletserver.cpp:665
 msgid "Certificate (validation: "
 msgstr "Zertifikat (Nogekuckt: "
 
-#: khtml/java/kjavaappletserver.cpp:669
+#: khtml/java/kjavaappletserver.cpp:668
 msgid "Ok"
 msgstr "An der Rei"
 
-#: khtml/java/kjavaappletserver.cpp:671
+#: khtml/java/kjavaappletserver.cpp:670
 msgid "NoCARoot"
 msgstr "NoCARoot"
 
-#: khtml/java/kjavaappletserver.cpp:673
+#: khtml/java/kjavaappletserver.cpp:672
 msgid "InvalidPurpose"
 msgstr "InvalidPurpose"
 
-#: khtml/java/kjavaappletserver.cpp:675
+#: khtml/java/kjavaappletserver.cpp:674
 msgid "PathLengthExceeded"
 msgstr "PathLengthExceeded"
 
-#: khtml/java/kjavaappletserver.cpp:677
+#: khtml/java/kjavaappletserver.cpp:676
 msgid "InvalidCA"
 msgstr "InvalidCA"
 
-#: khtml/java/kjavaappletserver.cpp:679
+#: khtml/java/kjavaappletserver.cpp:678
 msgid "Expired"
 msgstr "Ofgelaf"
 
-#: khtml/java/kjavaappletserver.cpp:681
+#: khtml/java/kjavaappletserver.cpp:680
 msgid "SelfSigned"
 msgstr "SelfSigned"
 
-#: khtml/java/kjavaappletserver.cpp:683
+#: khtml/java/kjavaappletserver.cpp:682
 msgid "ErrorReadingRoot"
 msgstr "ErrorReadingRoot"
 
-#: khtml/java/kjavaappletserver.cpp:685
+#: khtml/java/kjavaappletserver.cpp:684
 msgid "Revoked"
 msgstr "Zeréckgezunn"
 
-#: khtml/java/kjavaappletserver.cpp:687
+#: khtml/java/kjavaappletserver.cpp:686
 msgid "Untrusted"
 msgstr "Net als sëcher agestuft"
 
-#: khtml/java/kjavaappletserver.cpp:689
+#: khtml/java/kjavaappletserver.cpp:688
 msgid "SignatureFailed"
 msgstr "SignatureFailed"
 
-#: khtml/java/kjavaappletserver.cpp:691
+#: khtml/java/kjavaappletserver.cpp:690
 msgid "Rejected"
 msgstr "Ofgeleent"
 
-#: khtml/java/kjavaappletserver.cpp:693
+#: khtml/java/kjavaappletserver.cpp:692
 msgid "PrivateKeyFailed"
 msgstr "PrivateKeyFailed"
 
-#: khtml/java/kjavaappletserver.cpp:695
+#: khtml/java/kjavaappletserver.cpp:694
 msgid "InvalidHost"
 msgstr "Ongültegen Host"
 
-#: khtml/java/kjavaappletserver.cpp:831
+#: khtml/java/kjavaappletserver.cpp:830
 msgid "Do you grant Java applet with certificate(s):"
 msgstr "Java-Miniprogramm mat Zertifikaten zouloossen:"
 
-#: khtml/java/kjavaappletserver.cpp:833
+#: khtml/java/kjavaappletserver.cpp:832
 msgid "the following permission"
 msgstr "déi folgend Zouloossungskriterien"
 
-#: khtml/java/kjavaappletserver.cpp:847
+#: khtml/java/kjavaappletserver.cpp:846
 msgid "&Reject All"
 msgstr "Alleguer zeréck&weisen"
 
-#: khtml/java/kjavaappletserver.cpp:853
+#: khtml/java/kjavaappletserver.cpp:852
 msgid "&Grant All"
 msgstr "Alleguer &zouloossen"
 
@@ -10219,11 +10219,11 @@ msgctxt "Opposite to Back"
 msgid "&Next"
 msgstr "&Weider"
 
-#: kde3support/kdeui/k3spell.cpp:1177
+#: kde3support/kdeui/k3spell.cpp:1205
 msgid "You have to restart the dialog for changes to take effect"
 msgstr "Dir musst den Dialog nei opmaache fir dass d'Ännerunge virgeholl ginn"
 
-#: kde3support/kdeui/k3spell.cpp:1403
+#: kde3support/kdeui/k3spell.cpp:1431
 msgid "Spell Checker"
 msgstr "Rechtschreifkontroll"
 
