@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-06-27 05:23+0200\n"
+"POT-Creation-Date: 2007-06-28 05:22+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -5377,8 +5377,8 @@ msgstr ""
 msgid "Reset ToolBars"
 msgstr "Toolbaren zerécksetzen"
 
-#: kdeui/dialogs/kedittoolbar.cpp:467 khtml/khtmlview.cpp:2688
-#: khtml/khtmlview.cpp:2721 khtml/html/html_formimpl.cpp:2162
+#: kdeui/dialogs/kedittoolbar.cpp:467 khtml/khtmlview.cpp:2686
+#: khtml/khtmlview.cpp:2719 khtml/html/html_formimpl.cpp:2162
 msgid "Reset"
 msgstr "Zerécksetzen"
 
@@ -8424,7 +8424,7 @@ msgstr ""
 "<qt>De Formular gëtt no<BR><B>%1</B><BR>op ärem lokalen Dateiesystem "
 "verschéckt ginn.<BR>Wëllt dir de Formular ofsenden?"
 
-#: khtml/khtml_part.cpp:4806 khtml/khtmlview.cpp:2674 khtml/khtmlview.cpp:2716
+#: khtml/khtml_part.cpp:4806 khtml/khtmlview.cpp:2672 khtml/khtmlview.cpp:2714
 #: khtml/html/html_formimpl.cpp:1559 khtml/html/html_formimpl.cpp:2170
 msgid "Submit"
 msgstr "Verschécken"
@@ -8553,43 +8553,43 @@ msgstr "Op d'Zeil &goen..."
 msgid "Remove from ignores..."
 msgstr ""
 
-#: khtml/khtmlview.cpp:1696
+#: khtml/khtmlview.cpp:1694
 msgid "Find stopped."
 msgstr "Sicht opgehal."
 
-#: khtml/khtmlview.cpp:1707
+#: khtml/khtmlview.cpp:1705
 msgid "Starting -- find links as you type"
 msgstr "Startvirgang -- Linke beim antippen ergänzen"
 
-#: khtml/khtmlview.cpp:1713
+#: khtml/khtmlview.cpp:1711
 msgid "Starting -- find text as you type"
 msgstr "Startvirgang -- Text beim antippen ergänzen"
 
-#: khtml/khtmlview.cpp:1736
+#: khtml/khtmlview.cpp:1734
 #, qt-format
 msgid "Link found: \"%1\"."
 msgstr "Link fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1741
+#: khtml/khtmlview.cpp:1739
 #, qt-format
 msgid "Link not found: \"%1\"."
 msgstr "Link net fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1749
+#: khtml/khtmlview.cpp:1747
 #, qt-format
 msgid "Text found: \"%1\"."
 msgstr "Text fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1754
+#: khtml/khtmlview.cpp:1752
 #, qt-format
 msgid "Text not found: \"%1\"."
 msgstr "Text net fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1800
+#: khtml/khtmlview.cpp:1798
 msgid "Access Keys activated"
 msgstr "Kuerztasten ugeschalt"
 
-#: khtml/khtmlview.cpp:2896
+#: khtml/khtmlview.cpp:2894
 #, qt-format
 msgid "Print %1"
 msgstr "%1 drécken"
@@ -8615,7 +8615,7 @@ msgstr "fatale Parsing-Feeler: %1, Zeil %2, Kolonn %3"
 msgid "XML parsing error"
 msgstr "XML Parsing-Feeler"
 
-#: khtml/xml/dom_docimpl.cpp:2080
+#: khtml/xml/dom_docimpl.cpp:2073
 msgid "Basic Page Style"
 msgstr "Grondstil"
 
