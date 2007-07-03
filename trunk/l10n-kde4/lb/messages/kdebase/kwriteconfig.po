@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kwriteconfig\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-07-02 05:09+0200\n"
+"POT-Creation-Date: 2007-07-03 05:05+0200\n"
 "PO-Revision-Date: 2005-12-24 11:51+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -14,19 +14,43 @@ msgstr ""
 "X-Generator: KBabel 1.11\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: kwriteconfig.cpp:21
+#: kwriteconfig.cpp:20
+msgid "KWriteConfig"
+msgstr "KWriteConfig"
+
+#: kwriteconfig.cpp:22
+msgid "Write KConfig entries - for use in shell scripts"
+msgstr "Schreift KConfig-Entréen - zur Benotzung a Shellskripter"
+
+#: kwriteconfig.cpp:24
+msgid "(c) 2001 Red Hat, Inc. & Luís Pedro Coelho"
+msgstr ""
+
+#: kwriteconfig.cpp:25
+msgid "Luís Pedro Coelho"
+msgstr ""
+
+#: kwriteconfig.cpp:26
+msgid "Bernhard Rosenkraenzer"
+msgstr ""
+
+#: kwriteconfig.cpp:26
+msgid "Wrote kreadconfig on which this is based"
+msgstr ""
+
+#: kwriteconfig.cpp:30
 msgid "Use <file> instead of global config"
 msgstr "Benotz <file> amplaz vun der globaler Configuratiounsdatei"
 
-#: kwriteconfig.cpp:22
+#: kwriteconfig.cpp:31
 msgid "Group to look in"
 msgstr "Grupp an där gekuckt soll ginn"
 
-#: kwriteconfig.cpp:23
+#: kwriteconfig.cpp:32
 msgid "Key to look for"
 msgstr "Schlëssel no deem gesicht soll ginn"
 
-#: kwriteconfig.cpp:24
+#: kwriteconfig.cpp:33
 msgid ""
 "Type of variable. Use \"bool\" for a boolean, otherwise it is treated as a "
 "string"
@@ -34,19 +58,11 @@ msgstr ""
 "Typ vun der Variabel. Benotzt \"bool\" fir de Boolschen Typ, anerefalls gëtt "
 "se als eng Zeechekette behandelt"
 
-#: kwriteconfig.cpp:25
+#: kwriteconfig.cpp:34
 msgid "The value to write. Mandatory, on a shell use '' for empty"
 msgstr ""
 "De Wäert dee geschriwwe soll ginn, obligatoresch. Bei enger Shell benotzt \" "
 "fir en eidele Wäert unzeginn"
-
-#: kwriteconfig.cpp:30
-msgid "KWriteConfig"
-msgstr "KWriteConfig"
-
-#: kwriteconfig.cpp:32
-msgid "Write KConfig entries - for use in shell scripts"
-msgstr "Schreift KConfig-Entréen - zur Benotzung a Shellskripter"
 
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"

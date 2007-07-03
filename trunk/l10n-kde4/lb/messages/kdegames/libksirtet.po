@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libksirtet\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-06-30 04:44+0200\n"
+"POT-Creation-Date: 2007-07-03 05:06+0200\n"
 "PO-Revision-Date: 2005-11-14 22:37+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -86,9 +86,37 @@ msgstr "Stuf #%1 färdeg"
 msgid "Game Over"
 msgstr "Spill eriwwer"
 
+#: base/factory.cpp:24
+msgid ""
+"(c) 1995, Eirik Eng\n"
+"(c) 1996-2004, Nicolas Hadacek"
+msgstr ""
+
 #: base/factory.cpp:25
-msgid "Core engine"
+msgid "Nicolas Hadacek"
+msgstr ""
+
+#: base/factory.cpp:25
+msgid "Core developer"
+msgstr ""
+
+#: base/factory.cpp:26
+msgid "Eirik Eng"
+msgstr ""
+
+#: base/factory.cpp:26
+#, fuzzy
+#| msgid "Core engine"
+msgid "Core engine developer"
 msgstr "Haaptengine"
+
+#: base/factory.cpp:27
+msgid "Nicolas Roffet"
+msgstr ""
+
+#: base/factory.cpp:27
+msgid "Maintainer"
+msgstr ""
 
 #: base/main.cpp:90
 msgid "Game"
@@ -408,45 +436,45 @@ msgstr "Grëndlechkeet beim Iwwerleeën:"
 msgid "Piece glued"
 msgstr "Stéck ugepescht"
 
-#: common/field.cpp:54
+#: common/field.cpp:55
 msgid "Display the progress to complete the current level or stage."
 msgstr ""
 "Weis den Fortschrëtt fir den aktuellen Niveau oder déi aktuell Stuf färdeg "
 "ze maachen."
 
-#: common/field.cpp:61
+#: common/field.cpp:62
 msgid "Previous player's height"
 msgstr "Héicht vum läschten Spiller"
 
-#: common/field.cpp:63
+#: common/field.cpp:64
 msgid "Next player's height"
 msgstr "Héicht vum nächste Spiller"
 
-#: common/field.cpp:71
+#: common/field.cpp:72
 msgid "Shadow of the current piece"
 msgstr "Schied vum aktuelle Stéck>"
 
-#: common/field.cpp:82
+#: common/field.cpp:83
 msgid "Next Tile"
 msgstr "Nächst Stéck"
 
-#: common/field.cpp:174
+#: common/field.cpp:175
 msgid "Elapsed time"
 msgstr "Ofgelafen Zäit"
 
-#: common/field.cpp:177
+#: common/field.cpp:178
 msgid "Display the elapsed time."
 msgstr "Weis d'Zäit, déi ofgelaf ass, un."
 
-#: common/field.cpp:178
+#: common/field.cpp:179
 msgid "Stage"
 msgstr "Stuf"
 
-#: common/field.cpp:181
+#: common/field.cpp:182
 msgid "Score"
 msgstr "Punktzuel"
 
-#: common/field.cpp:184
+#: common/field.cpp:185
 msgid ""
 "<qt>Display the current score.<br/>It turns <font color=\"blue\">blue</font> "
 "if it is a highscore and <font color=\"red\">red</font> if it is the best "
@@ -456,7 +484,7 @@ msgstr ""
 "font> falls der et an d'Beschtelëscht geschafft hutt, an <font color=\"red"
 "\">rout</font>, wann et déi bescht lokal Punktzuel ass.</qt>"
 
-#: common/field.cpp:185 common/highscores.cpp:15
+#: common/field.cpp:186 common/highscores.cpp:19
 msgid "Level"
 msgstr "Niveau"
 
@@ -486,7 +514,7 @@ msgstr ""
 "D'Eroffalen gëtt net gestoppt, wann d'Tast fir eroffalenzeloossen "
 "lassgelooss gëtt."
 
-#: common/highscores.cpp:29
+#: common/highscores.cpp:33
 msgid "anonymous"
 msgstr "anonym"
 

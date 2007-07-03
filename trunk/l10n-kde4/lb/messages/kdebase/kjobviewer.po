@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kjobviewer\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-04-28 05:46+0200\n"
+"POT-Creation-Date: 2007-07-03 05:05+0200\n"
 "PO-Revision-Date: 2005-12-27 21:28+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -27,25 +27,33 @@ msgstr ""
 msgid "Print Error"
 msgstr "Feeler beim Drécken"
 
-#: main.cpp:29
-msgid "The printer for which jobs are requested"
-msgstr "Den Drécker fir deen Drockoptreeg ugefrot solle ginn"
-
-#: main.cpp:30
-msgid "Show job viewer at startup"
-msgstr "Optrag-Uweiser beim Starte weisen"
-
 #: main.cpp:31
-msgid "Show jobs for all printers"
-msgstr "Optreeg fir all Dréckeren uweisen"
-
-#: main.cpp:38
 msgid "KJobViewer"
 msgstr "KJobViewer"
 
-#: main.cpp:38
+#: main.cpp:31
 msgid "A print job viewer"
 msgstr "En Uweiser fir Drockoptreeg"
+
+#: main.cpp:31
+msgid "(c) 2001, Michael Goffioul"
+msgstr ""
+
+#: main.cpp:32
+msgid "Michael Goffioul"
+msgstr ""
+
+#: main.cpp:36
+msgid "The printer for which jobs are requested"
+msgstr "Den Drécker fir deen Drockoptreeg ugefrot solle ginn"
+
+#: main.cpp:37
+msgid "Show job viewer at startup"
+msgstr "Optrag-Uweiser beim Starte weisen"
+
+#: main.cpp:38
+msgid "Show jobs for all printers"
+msgstr "Optreeg fir all Dréckeren uweisen"
 
 #. i18n: tag text
 #. i18n: file kjobviewerui.rc line 4

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ksirtet\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-04-28 05:47+0200\n"
+"POT-Creation-Date: 2007-07-03 05:06+0200\n"
 "PO-Revision-Date: 2005-11-14 22:42+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -58,47 +58,49 @@ msgid_plural "%1 Lines:"
 msgstr[0] "1 Linn:"
 msgstr[1] "%1 Linnen:"
 
-#: main.cpp:25
+#: main.cpp:73
 msgid "KSirtet"
 msgstr "KSirtet"
 
-#: main.cpp:26
+#: main.cpp:74
 msgid "KSirtet is an adaptation of the well-known Tetris game"
 msgstr "KSirtet ass eng Adaptatioun vum bekannten Tetris-Spill"
 
-#: main.cpp:28
-msgid "Removed Lines"
+#: main.cpp:76
+#, fuzzy
+#| msgid "Removed Lines"
+msgid "Removed lines"
 msgstr "Ewechgemate Linnen"
 
-#: piece.cpp:48
+#: piece.cpp:51
 msgid "Z piece color:"
 msgstr "Faarf vum Z-Stéck:"
 
-#: piece.cpp:48
+#: piece.cpp:51
 msgid "S piece color:"
 msgstr "Faarf vum S-Stéck:"
 
-#: piece.cpp:49
+#: piece.cpp:52
 msgid "I piece color:"
 msgstr "Faarf vum I-Stéck:"
 
-#: piece.cpp:49
+#: piece.cpp:52
 msgid "T piece color:"
 msgstr "Faarf vum T-Stéck:"
 
-#: piece.cpp:50
+#: piece.cpp:53
 msgid "Square color:"
 msgstr "Faarf vum Quadrat:"
 
-#: piece.cpp:50
+#: piece.cpp:53
 msgid "Mirrored L piece color:"
 msgstr "Faarf vum gespigelten L-Stéck:"
 
-#: piece.cpp:51
+#: piece.cpp:54
 msgid "L piece color:"
 msgstr "Faarf vum L-Stéck:"
 
-#: piece.cpp:51
+#: piece.cpp:54
 msgid "Garbage block color:"
 msgstr "Faarf vum Drecksblock:"
 
