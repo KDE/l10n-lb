@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kicker\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-07-03 05:05+0200\n"
+"POT-Creation-Date: 2007-07-08 04:52+0200\n"
 "PO-Revision-Date: 2005-12-21 12:15+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -95,11 +95,11 @@ msgstr "Kontrollleescht weisen"
 msgid "Hide panel"
 msgstr "Kontrollleescht verstoppen"
 
-#: core/containerarea.cpp:1256
+#: core/containerarea.cpp:1255
 msgid "Add as &File Manager URL"
 msgstr "Als &Dateimanager-URL dobäimaachen"
 
-#: core/containerarea.cpp:1259
+#: core/containerarea.cpp:1258
 msgid "Add as Quick&Browser"
 msgstr "Als &Schnellduerchkucker dobäimaachen"
 
