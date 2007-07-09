@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-07-07 04:58+0200\n"
+"POT-Creation-Date: 2007-07-09 04:53+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -4567,6 +4567,7 @@ msgid "Please describe your upload."
 msgstr ""
 
 #: knewstuff/knewstuff2/ui/uploaddialog.cpp:80 kross/ui/view.cpp:151
+#: kdeui/colors/kcolordialog.cpp:1156
 msgid "Name:"
 msgstr "Numm:"
 
@@ -10941,6 +10942,111 @@ msgstr "KUnitTest-ModRunner"
 msgid "(C) 2005 Jeroen Wijnhout"
 msgstr ""
 
+#: kdeui/colors/kcolordialog.cpp:93
+msgctxt "palette name"
+msgid "* Recent Colors *"
+msgstr "* Rezent Faarwen *"
+
+#: kdeui/colors/kcolordialog.cpp:94
+msgctxt "palette name"
+msgid "* Custom Colors *"
+msgstr "* Benotzerdefinéiert Faarwen *"
+
+#: kdeui/colors/kcolordialog.cpp:95
+msgctxt "palette name"
+msgid "Forty Colors"
+msgstr "Forty-Faarwen"
+
+#: kdeui/colors/kcolordialog.cpp:96
+msgctxt "palette name"
+msgid "Rainbow Colors"
+msgstr "Reeboufaarwen"
+
+#: kdeui/colors/kcolordialog.cpp:97
+msgctxt "palette name"
+msgid "Royal Colors"
+msgstr "Royal-Faarwen"
+
+#: kdeui/colors/kcolordialog.cpp:98
+msgctxt "palette name"
+msgid "Web Colors"
+msgstr "Web-Faarwen"
+
+#: kdeui/colors/kcolordialog.cpp:483
+msgid "Named Colors"
+msgstr "Definéiert Faarwen"
+
+#: kdeui/colors/kcolordialog.cpp:642
+msgid ""
+"Unable to read X11 RGB color strings. The following file location(s) were "
+"examined:\n"
+msgstr ""
+"Konnt d'X11-RGB-Faarfstringen net liesen. Déi folgend\n"
+"Späicherplaze sinn durchsicht ginn:\n"
+
+#: kdeui/colors/kcolordialog.cpp:947
+#, fuzzy
+#| msgid "Select Color"
+msgid "Select Color"
+msgstr "Faarf auswielen"
+
+#: kdeui/colors/kcolordialog.cpp:1016
+#, fuzzy
+msgid "Hue:"
+msgstr "H:"
+
+#: kdeui/colors/kcolordialog.cpp:1026
+#, fuzzy
+msgid "Saturation:"
+msgstr "Samschten"
+
+#: kdeui/colors/kcolordialog.cpp:1036
+#, fuzzy
+msgid "Value:"
+msgstr "Wert"
+
+#: kdeui/colors/kcolordialog.cpp:1050
+#, fuzzy
+msgid "Red:"
+msgstr "Nees zeréck"
+
+#: kdeui/colors/kcolordialog.cpp:1059
+#, fuzzy
+msgid "Green:"
+msgstr "Griichësch"
+
+#: kdeui/colors/kcolordialog.cpp:1069
+#, fuzzy
+msgid "Blue:"
+msgstr "Datei:"
+
+#: kdeui/colors/kcolordialog.cpp:1126
+msgid "&Add to Custom Colors"
+msgstr "Bei d'Benotzerdefinéiert Faarwen &dobäimaachen"
+
+#: kdeui/colors/kcolordialog.cpp:1163
+msgid "HTML:"
+msgstr "HTML:"
+
+#: kdeui/colors/kcolordialog.cpp:1246
+msgid "Default color"
+msgstr "Standardfaarf"
+
+#: kdeui/colors/kcolordialog.cpp:1330
+msgid "-default-"
+msgstr "-standard-"
+
+#: kdeui/colors/kcolordialog.cpp:1642
+msgid "-unnamed-"
+msgstr "-onbenannt-"
+
+#: kdeui/colors/kcolorcombo.cpp:354
+#, fuzzy
+#| msgid "Custom..."
+msgctxt "Custom color"
+msgid "Custom..."
+msgstr "Benotzerdefinéiert..."
+
 #: interfaces/terminal/test/main.cc:34
 #, fuzzy
 #| msgid "Test"
@@ -12274,85 +12380,6 @@ msgstr ""
 
 #~ msgid "Get hot new stuff:"
 #~ msgstr "Nei Saachen ofhuelen:"
-
-#~ msgctxt "palette name"
-#~ msgid "* Recent Colors *"
-#~ msgstr "* Rezent Faarwen *"
-
-#~ msgctxt "palette name"
-#~ msgid "* Custom Colors *"
-#~ msgstr "* Benotzerdefinéiert Faarwen *"
-
-#~ msgctxt "palette name"
-#~ msgid "Forty Colors"
-#~ msgstr "Forty-Faarwen"
-
-#~ msgctxt "palette name"
-#~ msgid "Rainbow Colors"
-#~ msgstr "Reeboufaarwen"
-
-#~ msgctxt "palette name"
-#~ msgid "Royal Colors"
-#~ msgstr "Royal-Faarwen"
-
-#~ msgctxt "palette name"
-#~ msgid "Web Colors"
-#~ msgstr "Web-Faarwen"
-
-#~ msgid "Named Colors"
-#~ msgstr "Definéiert Faarwen"
-
-#~ msgid ""
-#~ "Unable to read X11 RGB color strings. The following file location(s) were "
-#~ "examined:\n"
-#~ msgstr ""
-#~ "Konnt d'X11-RGB-Faarfstringen net liesen. Déi folgend\n"
-#~ "Späicherplaze sinn durchsicht ginn:\n"
-
-#, fuzzy
-#~ msgid "Hue:"
-#~ msgstr "H:"
-
-#, fuzzy
-#~ msgid "Saturation:"
-#~ msgstr "Samschten"
-
-#, fuzzy
-#~ msgid "Value:"
-#~ msgstr "Wert"
-
-#, fuzzy
-#~ msgid "Red:"
-#~ msgstr "Nees zeréck"
-
-#, fuzzy
-#~ msgid "Green:"
-#~ msgstr "Griichësch"
-
-#, fuzzy
-#~ msgid "Blue:"
-#~ msgstr "Datei:"
-
-#~ msgid "&Add to Custom Colors"
-#~ msgstr "Bei d'Benotzerdefinéiert Faarwen &dobäimaachen"
-
-#~ msgid "HTML:"
-#~ msgstr "HTML:"
-
-#~ msgid "Default color"
-#~ msgstr "Standardfaarf"
-
-#~ msgid "-default-"
-#~ msgstr "-standard-"
-
-#~ msgid "-unnamed-"
-#~ msgstr "-onbenannt-"
-
-#, fuzzy
-#~| msgid "Custom..."
-#~ msgctxt "Custom color"
-#~ msgid "Custom..."
-#~ msgstr "Benotzerdefinéiert..."
 
 #~ msgid "Table:"
 #~ msgstr "Tabell:"
