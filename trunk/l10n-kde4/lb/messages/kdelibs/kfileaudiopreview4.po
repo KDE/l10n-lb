@@ -1,11 +1,11 @@
-# translation of kstyle_highcontrast_config.po to Luxembourgish
+# translation of kfileaudiopreview4.po to Luxembourgish
 # Michel Ludwig <michel.ludwig@kdemail.net>, 2005.
 msgid ""
 msgstr ""
-"Project-Id-Version: kstyle_highcontrast_config\n"
+"Project-Id-Version: kfileaudiopreview4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2006-02-04 08:12+0100\n"
-"PO-Revision-Date: 2005-12-04 23:09+0100\n"
+"POT-Creation-Date: 2007-01-30 08:36+0100\n"
+"PO-Revision-Date: 2005-12-10 21:24+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -14,6 +14,10 @@ msgstr ""
 "X-Generator: KBabel 1.11\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: highcontrastconfig.cpp:49
-msgid "Use wider lines"
-msgstr "Méi breet Zeile benotzen"
+#: kfileaudiopreview.cpp:90
+msgid "Media Player"
+msgstr "Medienofspiller"
+
+#: kfileaudiopreview.cpp:113
+msgid "Play &automatically"
+msgstr "&Automatesch ofspillen"

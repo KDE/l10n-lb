@@ -1,9 +1,9 @@
-# translation of kdeprint.po to Luxembourgish
+# translation of kdeprint4.po to Luxembourgish
 #
 # Michel Ludwig <michel.ludwig@kdemail.net>, 2006.
 msgid ""
 msgstr ""
-"Project-Id-Version: kdeprint\n"
+"Project-Id-Version: kdeprint4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2007-07-05 05:15+0200\n"
 "PO-Revision-Date: 2006-05-02 18:19+0200\n"

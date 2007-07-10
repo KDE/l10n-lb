@@ -1,8 +1,8 @@
-# translation of timezones.po to Luxembourgish
+# translation of timezones4.po to Luxembourgish
 # Michel Ludwig <michel.ludwig@kdemail.net>, 2005.
 msgid ""
 msgstr ""
-"Project-Id-Version: timezones\n"
+"Project-Id-Version: timezones4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2007-04-28 05:46+0200\n"
 "PO-Revision-Date: 2005-12-14 00:02+0100\n"
