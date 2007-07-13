@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-07-11 04:47+0200\n"
+"POT-Creation-Date: 2007-07-13 05:25+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1875,184 +1875,184 @@ msgstr "Net nach eng Kéier lueden"
 msgid "Configuration information reloaded successfully."
 msgstr "D'Configuratiounsdate sinn nei geluede ginn."
 
-#: kdecore/kde-config.cpp:31
+#: kdecore/kde-config.cpp:53
 msgid "kde4-config"
 msgstr ""
 
-#: kdecore/kde-config.cpp:32
+#: kdecore/kde-config.cpp:54
 msgid "A little program to output installation paths"
 msgstr "E klenge Programm fir Installatiounsweeër auszegin"
 
-#: kdecore/kde-config.cpp:34
+#: kdecore/kde-config.cpp:56
 msgid "(C) 2000 Stephan Kulow"
 msgstr ""
 
-#: kdecore/kde-config.cpp:38
+#: kdecore/kde-config.cpp:60
 msgid "Left for legacy support"
 msgstr ""
 
-#: kdecore/kde-config.cpp:39
+#: kdecore/kde-config.cpp:61
 msgid "Compiled in prefix for KDE libraries"
 msgstr "Kompiléiert am \"prefix\" fir d'KDE-Bibliothéiken"
 
-#: kdecore/kde-config.cpp:40
+#: kdecore/kde-config.cpp:62
 msgid "Compiled in exec_prefix for KDE libraries"
 msgstr "Kompiléiert am \"exec_prefix\" fir d'KDE-Bibliothéiken"
 
-#: kdecore/kde-config.cpp:41
+#: kdecore/kde-config.cpp:63
 msgid "Compiled in library path suffix"
 msgstr "Kompiléiert am \"library path suffix\""
 
-#: kdecore/kde-config.cpp:42
+#: kdecore/kde-config.cpp:64
 msgid "Prefix in $HOME used to write files"
 msgstr "Präfix am $HOME fir Dateien ze schreiwen"
 
-#: kdecore/kde-config.cpp:43
+#: kdecore/kde-config.cpp:65
 msgid "Compiled in version string for KDE libraries"
 msgstr "Versioun bei der Kompiléierung vun de KDE-Bibliothéiken"
 
-#: kdecore/kde-config.cpp:44
+#: kdecore/kde-config.cpp:66
 msgid "Available KDE resource types"
 msgstr "Verfügbar KDE-Ressource-Typen"
 
-#: kdecore/kde-config.cpp:45
+#: kdecore/kde-config.cpp:67
 msgid "Search path for resource type"
 msgstr "Sichwee fir d'Ressource-Typen"
 
-#: kdecore/kde-config.cpp:46
+#: kdecore/kde-config.cpp:68
 msgid "Find filename inside the resource type given to --path"
 msgstr ""
 
-#: kdecore/kde-config.cpp:47
+#: kdecore/kde-config.cpp:69
 #, fuzzy
 msgid "User path: desktop|autostart|document"
 msgstr "Benotzerdefinéierte Wee: desktop|autostart|trash|document"
 
-#: kdecore/kde-config.cpp:48
+#: kdecore/kde-config.cpp:70
 msgid "Prefix to install resource files to"
 msgstr "Präfix, wou d'Ressource-Dateie gespäichert ginn"
 
-#: kdecore/kde-config.cpp:95
+#: kdecore/kde-config.cpp:117
 msgid "Applications menu (.desktop files)"
 msgstr "Uwendungsmenü (.desktop-Dateien)"
 
-#: kdecore/kde-config.cpp:96
+#: kdecore/kde-config.cpp:118
 msgid "CGIs to run from kdehelp"
 msgstr "CGIen, déi vum kdehelp aus lafen"
 
-#: kdecore/kde-config.cpp:97
+#: kdecore/kde-config.cpp:119
 msgid "Configuration files"
 msgstr "Configuratiounsdateien"
 
-#: kdecore/kde-config.cpp:98
+#: kdecore/kde-config.cpp:120
 msgid "Where applications store data"
 msgstr "Do, wou d'Programmer hir Date späicheren"
 
-#: kdecore/kde-config.cpp:99
+#: kdecore/kde-config.cpp:121
 #, fuzzy
 msgid "Emoticons"
 msgstr "[Optiounen]"
 
-#: kdecore/kde-config.cpp:100
+#: kdecore/kde-config.cpp:122
 msgid "Executables in $prefix/bin"
 msgstr "Ausféierbar Dateien am $prefix/bin"
 
-#: kdecore/kde-config.cpp:101
+#: kdecore/kde-config.cpp:123
 msgid "HTML documentation"
 msgstr "HTML-Dokumentatioun"
 
-#: kdecore/kde-config.cpp:102
+#: kdecore/kde-config.cpp:124
 msgid "Icons"
 msgstr "Symboler"
 
-#: kdecore/kde-config.cpp:103
+#: kdecore/kde-config.cpp:125
 msgid "Configuration description files"
 msgstr "Beschreiwungsdateie vun der Configuratioun"
 
-#: kdecore/kde-config.cpp:104
+#: kdecore/kde-config.cpp:126
 msgid "Libraries"
 msgstr "Bibliothéiken"
 
-#: kdecore/kde-config.cpp:105
+#: kdecore/kde-config.cpp:127
 msgid "Includes/Headers"
 msgstr "Includes/Headeren"
 
-#: kdecore/kde-config.cpp:106
+#: kdecore/kde-config.cpp:128
 msgid "Translation files for KLocale"
 msgstr "Iwwersetzungsdateie fir de KLocale"
 
-#: kdecore/kde-config.cpp:107
+#: kdecore/kde-config.cpp:129
 msgid "Mime types"
 msgstr "Mime-Typen"
 
-#: kdecore/kde-config.cpp:108
+#: kdecore/kde-config.cpp:130
 msgid "Loadable modules"
 msgstr "Moduler fir ze lueden"
 
-#: kdecore/kde-config.cpp:109 kdecore/kde-config.cpp:119
+#: kdecore/kde-config.cpp:131 kdecore/kde-config.cpp:141
 msgid "Legacy pixmaps"
 msgstr ""
 
-#: kdecore/kde-config.cpp:110
+#: kdecore/kde-config.cpp:132
 msgid "Qt plugins"
 msgstr "Qt-Pluginen"
 
-#: kdecore/kde-config.cpp:111
+#: kdecore/kde-config.cpp:133
 msgid "Services"
 msgstr "Servicer"
 
-#: kdecore/kde-config.cpp:112
+#: kdecore/kde-config.cpp:134
 msgid "Service types"
 msgstr "Service-Typen"
 
-#: kdecore/kde-config.cpp:113
+#: kdecore/kde-config.cpp:135
 msgid "Application sounds"
 msgstr "Kläng vun den Uwendungen"
 
-#: kdecore/kde-config.cpp:114
+#: kdecore/kde-config.cpp:136
 msgid "Templates"
 msgstr "Virlagen"
 
-#: kdecore/kde-config.cpp:115
+#: kdecore/kde-config.cpp:137
 msgid "Wallpapers"
 msgstr "Hannergrondbiller"
 
-#: kdecore/kde-config.cpp:116
+#: kdecore/kde-config.cpp:138
 msgid "XDG Application menu (.desktop files)"
 msgstr "XDG-Uwendungsmenü (.desktop-Dateien)"
 
-#: kdecore/kde-config.cpp:117
+#: kdecore/kde-config.cpp:139
 msgid "XDG Menu descriptions (.directory files)"
 msgstr "Beschreiwunge vun den XDG-Menüen (.directory-Dateien)"
 
-#: kdecore/kde-config.cpp:118
+#: kdecore/kde-config.cpp:140
 #, fuzzy
 msgid "XDG Icons"
 msgstr "Symboler"
 
-#: kdecore/kde-config.cpp:120
+#: kdecore/kde-config.cpp:142
 #, fuzzy
 msgid "XDG Mime Types"
 msgstr "Mime-Typen"
 
-#: kdecore/kde-config.cpp:121
+#: kdecore/kde-config.cpp:143
 msgid "XDG Menu layout (.menu files)"
 msgstr "Layout vum XDG-Menü (.menu-Dateien)"
 
-#: kdecore/kde-config.cpp:122
+#: kdecore/kde-config.cpp:144
 msgid "Temporary files (specific for both current host and current user)"
 msgstr "Temporär Dateien (déi vum Host a vum Benotzer)"
 
-#: kdecore/kde-config.cpp:123
+#: kdecore/kde-config.cpp:145
 msgid "UNIX Sockets (specific for both current host and current user)"
 msgstr "UNIX-Sockets (déi vum Host a vum Benotzer)"
 
-#: kdecore/kde-config.cpp:135
+#: kdecore/kde-config.cpp:157
 #, qt-format
 msgid "%1 - unknown type\n"
 msgstr "%1 - onbekannten Typ\n"
 
-#: kdecore/kde-config.cpp:197
+#: kdecore/kde-config.cpp:219
 #, qt-format
 msgid "%1 - unknown type of userpath\n"
 msgstr "%1 - onbekannten Typ vum Benotzerwee\n"
@@ -3309,7 +3309,7 @@ msgstr ""
 "\n"
 "Optiounen:\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1203
+#: kdecore/kernel/kcmdlineargs.cpp:1206
 msgid ""
 "\n"
 "Arguments:\n"
@@ -3317,13 +3317,13 @@ msgstr ""
 "\n"
 "Argumenter:\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1570
+#: kdecore/kernel/kcmdlineargs.cpp:1573
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr ""
 "D'Dateien/URLen, déi vum Programm opgemaach gi sinn, ginn häerno nees "
 "geläscht"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1571
+#: kdecore/kernel/kcmdlineargs.cpp:1574
 msgid "KDE-tempfile"
 msgstr ""
 
@@ -6777,7 +6777,7 @@ msgstr ""
 #: kdeui/windowmanagement/kwindowsystem_qws.cpp:163
 #: kdeui/windowmanagement/kwindowsystem_x11.cpp:854
 #: kdeui/windowmanagement/kwindowsystem_mac.cpp:168
-#: kdeui/windowmanagement/kwindowsystem_win.cpp:163
+#: kdeui/windowmanagement/kwindowsystem_win.cpp:169
 #, qt-format
 msgid "Desktop %1"
 msgstr "Büro %1"
@@ -9901,7 +9901,7 @@ msgstr "Mat '%1' &opmaachen"
 msgid "&Open With..."
 msgstr "&Opmaache mat..."
 
-#: kutils/kcmoduleloader.cpp:97
+#: kutils/kcmoduleloader.cpp:105
 #, qt-format
 msgid ""
 "<qt>There was an error when loading the module '%1'.<br><br>The desktop file "
@@ -9914,44 +9914,44 @@ msgstr ""
 "net richteg geluede ginn. Wahrscheinlech ass d'Factory-Deklaratioun falsch "
 "oder d'Funktioun create_* feelt.</qt>"
 
-#: kutils/kcmoduleloader.cpp:110
+#: kutils/kcmoduleloader.cpp:118
 #, qt-format
 msgid "The specified library %1 could not be found."
 msgstr "Déi spezifizéiert Bibliothéik %1 ass net fonnt ginn."
 
-#: kutils/kcmoduleloader.cpp:129
+#: kutils/kcmoduleloader.cpp:137
 #, qt-format
 msgid "The module %1 could not be found."
 msgstr "De Modul %1 ass net fonnt ginn."
 
-#: kutils/kcmoduleloader.cpp:130
+#: kutils/kcmoduleloader.cpp:138
 #, qt-format
 msgid ""
 "<qt><p>The diagnostics is:<br>The desktop file %1 could not be found.</qt>"
 msgstr "<qt><p>D'Diagnos ass:<br>D'Bürosdatei %1 konnt net fonnt ginn.</qt>"
 
-#: kutils/kcmoduleloader.cpp:132
+#: kutils/kcmoduleloader.cpp:140
 #, fuzzy, qt-format
 msgid "The module %1 is disabled."
 msgstr "De Modul %1 konnt net geluede ginn."
 
-#: kutils/kcmoduleloader.cpp:133
+#: kutils/kcmoduleloader.cpp:141
 msgid ""
 "<qt><p>Either the hardware/software the module configures is not available "
 "or the module has been disabled by the administrator.</p></qt>"
 msgstr ""
 
-#: kutils/kcmoduleloader.cpp:148
+#: kutils/kcmoduleloader.cpp:156
 #, qt-format
 msgid "The module %1 could not be loaded."
 msgstr "De Modul %1 konnt net geluede ginn."
 
-#: kutils/kcmoduleloader.cpp:161
+#: kutils/kcmoduleloader.cpp:169
 #, qt-format
 msgid "The module %1 is not a valid configuration module."
 msgstr "De Modul %1 ass kee gültege Configuratiounsmodul."
 
-#: kutils/kcmoduleloader.cpp:162
+#: kutils/kcmoduleloader.cpp:170
 #, qt-format
 msgid ""
 "<qt><p>The diagnostics is:<br>The desktop file %1 does not specify a library."
@@ -9959,11 +9959,11 @@ msgid ""
 msgstr ""
 "<qt><p>D'Diagnos ass:<br>D'Bürosdatei %1 gëtt keng Bibliothéik un.</qt>"
 
-#: kutils/kcmoduleloader.cpp:182
+#: kutils/kcmoduleloader.cpp:190
 msgid "There was an error loading the module."
 msgstr "Et ass e Feeler beim Luede vum Modul opgetrueden."
 
-#: kutils/kcmoduleloader.cpp:182 kutils/kcmoduleloader.cpp:197
+#: kutils/kcmoduleloader.cpp:190 kutils/kcmoduleloader.cpp:205
 #, qt-format
 msgid ""
 "<qt><p>The diagnostics is:<br>%1<p>Possible reasons:</p><ul><li>An error "
