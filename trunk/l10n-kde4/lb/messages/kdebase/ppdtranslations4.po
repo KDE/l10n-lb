@@ -1,8 +1,8 @@
-# translation of ppdtranslations.po to
+# translation of ppdtranslations4.po to
 # Michel Ludwig <michel.ludwig@kdemail.net>, 2005.
 msgid ""
 msgstr ""
-"Project-Id-Version: ppdtranslations\n"
+"Project-Id-Version: ppdtranslations4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2007-07-02 05:09+0200\n"
 "PO-Revision-Date: 2005-12-28 21:55+0100\n"
