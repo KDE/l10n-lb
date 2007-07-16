@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs\n"
-"POT-Creation-Date: 2007-06-05 02:14+0200\n"
+"POT-Creation-Date: 2007-07-16 01:12+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -6870,6 +6870,10 @@ msgstr "Bild späicheren als"
 #: khtml/khtml_ext.cpp:687 khtml/khtml_ext.cpp:700
 msgid "Add URL to Filter"
 msgstr "URL bei de Filter dobäimaachen"
+
+#: khtml/khtml_ext.cpp:688 khtml/khtml_ext.cpp:701
+msgid "Enter the URL:"
+msgstr ""
 
 #: khtml/khtml_ext.cpp:828
 msgid ""
