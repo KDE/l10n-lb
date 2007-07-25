@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeprint4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-07-05 05:15+0200\n"
+"POT-Creation-Date: 2007-07-25 05:31+0200\n"
 "PO-Revision-Date: 2006-05-02 18:19+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -653,7 +653,7 @@ msgid ""
 "disabled.) </qt>"
 msgstr ""
 
-#: kprintdialog.cpp:258 kprintdialog.cpp:757 kprinterimpl.cpp:501
+#: kprintdialog.cpp:258 kprintdialog.cpp:763 kprinterimpl.cpp:501
 #: kprintpreview.cpp:139 kprintpreview.cpp:161 kprintpreview.cpp:167
 #: kprintpreview.cpp:340
 #, fuzzy
@@ -731,43 +731,43 @@ msgstr ""
 msgid "&Keep this dialog open after printing"
 msgstr ""
 
-#: kprintdialog.cpp:568 kprintdialog.cpp:959
+#: kprintdialog.cpp:568 kprintdialog.cpp:965
 msgid "An error occurred while retrieving the printer list:"
 msgstr ""
 
-#: kprintdialog.cpp:739
+#: kprintdialog.cpp:745
 msgid "The output filename is empty."
 msgstr ""
 
-#: kprintdialog.cpp:779
+#: kprintdialog.cpp:785
 msgid "You do not have write permissions to this file."
 msgstr ""
 
-#: kprintdialog.cpp:785
+#: kprintdialog.cpp:791
 msgid "The output directory does not exist."
 msgstr ""
 
-#: kprintdialog.cpp:787
+#: kprintdialog.cpp:793
 msgid "You do not have write permissions in that directory."
 msgstr ""
 
-#: kprintdialog.cpp:897
+#: kprintdialog.cpp:903
 msgid "&Options <<"
 msgstr "&Optiounen <<"
 
-#: kprintdialog.cpp:909
+#: kprintdialog.cpp:915
 msgid "&Options >>"
 msgstr "&Optiounen >>"
 
-#: kprintdialog.cpp:949
+#: kprintdialog.cpp:955
 msgid "Initializing printing system..."
 msgstr ""
 
-#: kprintdialog.cpp:985
+#: kprintdialog.cpp:991
 msgid "Print to File"
 msgstr "An Datei drécken"
 
-#: kprintdialog.cpp:1003 kmprinter.cpp:196
+#: kprintdialog.cpp:1009 kmprinter.cpp:196
 msgid "All Files"
 msgstr "All Dateien"
 
@@ -3791,19 +3791,19 @@ msgstr "net erlaabt"
 msgid "(Unavailable: requirements not satisfied)"
 msgstr ""
 
-#: management/kmlistview.cpp:123
+#: management/kmlistview.cpp:127
 msgid "Print System"
 msgstr "Drocksystem"
 
-#: management/kmlistview.cpp:126
+#: management/kmlistview.cpp:130
 msgid "Classes"
 msgstr ""
 
-#: management/kmlistview.cpp:129
+#: management/kmlistview.cpp:133
 msgid "Printers"
 msgstr ""
 
-#: management/kmlistview.cpp:132
+#: management/kmlistview.cpp:136
 msgid "Specials"
 msgstr ""
 
