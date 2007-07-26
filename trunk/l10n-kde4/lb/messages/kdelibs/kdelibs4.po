@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-07-25 05:30+0200\n"
+"POT-Creation-Date: 2007-07-26 05:29+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -4615,7 +4615,7 @@ msgid "Please describe your upload."
 msgstr ""
 
 #: knewstuff/knewstuff2/ui/uploaddialog.cpp:80 kross/ui/view.cpp:151
-#: kdeui/colors/kcolordialog.cpp:1156
+#: kdeui/colors/kcolordialog.cpp:1171
 msgid "Name:"
 msgstr "Numm:"
 
@@ -8122,7 +8122,7 @@ msgstr "E Feeler ass beim Luede vun <B>%1</B> opgetrueden:"
 msgid "An error occurred while accessing '%1'"
 msgstr "E Feeler ass beim Luede vun <B>%1</B> opgetrueden:"
 
-#: kfile/kurlnavigator.cpp:539
+#: kfile/kurlnavigator.cpp:548
 #, fuzzy
 #| msgid "Custom"
 msgid "Custom Path"
@@ -11042,11 +11042,11 @@ msgctxt "palette name"
 msgid "Web Colors"
 msgstr "Web-Faarwen"
 
-#: kdeui/colors/kcolordialog.cpp:483
+#: kdeui/colors/kcolordialog.cpp:498
 msgid "Named Colors"
 msgstr "Definéiert Faarwen"
 
-#: kdeui/colors/kcolordialog.cpp:642
+#: kdeui/colors/kcolordialog.cpp:657
 msgid ""
 "Unable to read X11 RGB color strings. The following file location(s) were "
 "examined:\n"
@@ -11054,59 +11054,59 @@ msgstr ""
 "Konnt d'X11-RGB-Faarfstringen net liesen. Déi folgend\n"
 "Späicherplaze sinn durchsicht ginn:\n"
 
-#: kdeui/colors/kcolordialog.cpp:947
+#: kdeui/colors/kcolordialog.cpp:962
 #, fuzzy
 #| msgid "Select Color"
 msgid "Select Color"
 msgstr "Faarf auswielen"
 
-#: kdeui/colors/kcolordialog.cpp:1016
+#: kdeui/colors/kcolordialog.cpp:1031
 #, fuzzy
 msgid "Hue:"
 msgstr "H:"
 
-#: kdeui/colors/kcolordialog.cpp:1026
+#: kdeui/colors/kcolordialog.cpp:1041
 #, fuzzy
 msgid "Saturation:"
 msgstr "Samschten"
 
-#: kdeui/colors/kcolordialog.cpp:1036
+#: kdeui/colors/kcolordialog.cpp:1051
 #, fuzzy
 msgid "Value:"
 msgstr "Wert"
 
-#: kdeui/colors/kcolordialog.cpp:1050
+#: kdeui/colors/kcolordialog.cpp:1065
 #, fuzzy
 msgid "Red:"
 msgstr "Nees zeréck"
 
-#: kdeui/colors/kcolordialog.cpp:1059
+#: kdeui/colors/kcolordialog.cpp:1074
 #, fuzzy
 msgid "Green:"
 msgstr "Griichësch"
 
-#: kdeui/colors/kcolordialog.cpp:1069
+#: kdeui/colors/kcolordialog.cpp:1084
 #, fuzzy
 msgid "Blue:"
 msgstr "Datei:"
 
-#: kdeui/colors/kcolordialog.cpp:1126
+#: kdeui/colors/kcolordialog.cpp:1141
 msgid "&Add to Custom Colors"
 msgstr "Bei d'Benotzerdefinéiert Faarwen &dobäimaachen"
 
-#: kdeui/colors/kcolordialog.cpp:1163
+#: kdeui/colors/kcolordialog.cpp:1178
 msgid "HTML:"
 msgstr "HTML:"
 
-#: kdeui/colors/kcolordialog.cpp:1246
+#: kdeui/colors/kcolordialog.cpp:1261
 msgid "Default color"
 msgstr "Standardfaarf"
 
-#: kdeui/colors/kcolordialog.cpp:1330
+#: kdeui/colors/kcolordialog.cpp:1345
 msgid "-default-"
 msgstr "-standard-"
 
-#: kdeui/colors/kcolordialog.cpp:1642
+#: kdeui/colors/kcolordialog.cpp:1657
 msgid "-unnamed-"
 msgstr "-onbenannt-"
 
