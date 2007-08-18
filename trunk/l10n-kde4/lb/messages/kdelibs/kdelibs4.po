@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-08-17 05:40+0200\n"
+"POT-Creation-Date: 2007-08-18 05:29+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -727,7 +727,7 @@ msgstr ""
 
 #. i18n: tag string
 #. i18n: file ./khtml/test_regression_gui.ui line 206
-#: rc.cpp:291
+#: rc.cpp:291 kutils/kpluginselector.cpp:62
 #, fuzzy
 msgid "Settings"
 msgstr "&Astellungen"
@@ -10735,13 +10735,7 @@ msgstr ""
 "</ul><p>Kuckt dëss Punkten opmierksam duerch a probéiert, dee Modul ze "
 "läschen. Wann dat net klappt, frot bei ärem Verdeler no.</p></qt>"
 
-#: kutils/kpluginselector.cpp:62
-#, fuzzy
-#| msgid "Options"
-msgid "More Options"
-msgstr "Optiounen"
-
-#: kutils/kpluginselector.cpp:63 kutils/kpluginselector.cpp:1558
+#: kutils/kpluginselector.cpp:63
 msgid "About"
 msgstr "Iwwer"
 
@@ -10797,7 +10791,13 @@ msgstr[1] ""
 msgid " since the last time you asked for details"
 msgstr ""
 
-#: kutils/kpluginselector.cpp:1486
+#: kutils/kpluginselector.cpp:1586
+#, fuzzy, qt-format
+#| msgid "About %1"
+msgid "About %1 plugin"
+msgstr "Iwwer %1"
+
+#: kutils/kpluginselector.cpp:1596
 #, fuzzy, qt-format
 #| msgid "Description:"
 msgid ""
@@ -10805,7 +10805,7 @@ msgid ""
 "\t%1"
 msgstr "Beschreiwung:"
 
-#: kutils/kpluginselector.cpp:1493
+#: kutils/kpluginselector.cpp:1603
 #, fuzzy, qt-format
 #| msgid "Author:"
 msgid ""
@@ -10813,16 +10813,16 @@ msgid ""
 "\t%1"
 msgstr "Auteur:"
 
-#: kutils/kpluginselector.cpp:1500
+#: kutils/kpluginselector.cpp:1610
 #, fuzzy
 msgid "E-Mail:"
 msgstr "E-Mail"
 
-#: kutils/kpluginselector.cpp:1521
+#: kutils/kpluginselector.cpp:1631
 msgid "Website:"
 msgstr ""
 
-#: kutils/kpluginselector.cpp:1542
+#: kutils/kpluginselector.cpp:1652
 #, fuzzy, qt-format
 #| msgid "Version:"
 msgid ""
@@ -10830,7 +10830,7 @@ msgid ""
 "\t%1"
 msgstr "Versioun:"
 
-#: kutils/kpluginselector.cpp:1550
+#: kutils/kpluginselector.cpp:1660
 #, fuzzy, qt-format
 #| msgid "License:"
 msgid ""
@@ -11889,6 +11889,11 @@ msgid ""
 msgstr ""
 "<qt><font size=\"+4\" face=\"%1\">%2</font> <br>Unicode Code Point: U+ %3<br>"
 "(an Dezimal: %4)<br>(Zeechen: %5)</qt>"
+
+#, fuzzy
+#~| msgid "Options"
+#~ msgid "More Options"
+#~ msgstr "Optiounen"
 
 #~ msgctxt "Opposite to End"
 #~ msgid "Home"
