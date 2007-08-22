@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-08-21 03:42+0000\n"
+"POT-Creation-Date: 2007-08-22 03:47+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1476,204 +1476,6 @@ msgctxt "Name"
 msgid "Notepad (example)"
 msgstr "Notizblock (Beispill)"
 
-#: kstyles/highcontrast/highcontrast.themerc:2
-msgctxt "Name"
-msgid "HighContrast"
-msgstr "HéichKontrast"
-
-#: kstyles/highcontrast/highcontrast.themerc:60
-msgctxt "Comment"
-msgid "A style that works well with high contrast color schemes"
-msgstr "E Stil, dee gutt bei Faarfschemaë mat engem héiche Kontrast passt"
-
-#: kstyles/oxygen/oxygen.themerc:2
-msgctxt "Name"
-msgid "Oxygen"
-msgstr ""
-
-#: kstyles/oxygen/oxygen.themerc:11
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "A simple and clean style"
-msgctxt "Comment"
-msgid "A really cool style"
-msgstr "En einfachen a schlichte Stil"
-
-#: kstyles/plastik/plastik.themerc:2
-msgctxt "Name"
-msgid "Plastik"
-msgstr "Plastik"
-
-#: kstyles/plastik/plastik.themerc:26
-msgctxt "Comment"
-msgid "A simple and clean style"
-msgstr "En einfachen a schlichte Stil"
-
-#: kstyles/riscos/riscos.themerc:230
-msgctxt "Name"
-msgid "RISC OS"
-msgstr "RISC OS"
-
-#: kstyles/riscos/riscos.themerc:245
-msgctxt "Comment"
-msgid "RISC OS-like theme"
-msgstr "RISC OS-ähnlecht Thema"
-
-#: kstyles/themes/b3.themerc:2
-msgctxt "Name"
-msgid "B3/KDE"
-msgstr "B3/KDE"
-
-#: kstyles/themes/b3.themerc:9
-msgctxt "Comment"
-msgid "B3/Modification of B2"
-msgstr "B3/Verännerung vu B2"
-
-#: kstyles/themes/beos.themerc:2
-msgctxt "Name"
-msgid "BeOS"
-msgstr "BeOS"
-
-#: kstyles/themes/beos.themerc:7
-msgctxt "Comment"
-msgid "Unthemed BeOS-like style"
-msgstr "BeOS-ähnlechen Stil ouni Thema"
-
-#: kstyles/themes/default.themerc:2
-msgctxt "Name"
-msgid "KDE Classic"
-msgstr "KDE Classic"
-
-#: kstyles/themes/default.themerc:62
-msgctxt "Comment"
-msgid "Classic KDE style"
-msgstr "Klassësche KDE-Stil"
-
-#: kstyles/themes/highcolor.themerc:2
-msgctxt "Name"
-msgid "HighColor Classic"
-msgstr "VillFaarwe-Klassesch"
-
-#: kstyles/themes/highcolor.themerc:62
-msgctxt "Comment"
-msgid "Highcolor version of the classic style"
-msgstr "Versioun mat ville Faarwe vum klassesche Stil"
-
-#: kstyles/themes/keramik.themerc:2
-msgctxt "Name"
-msgid "Keramik"
-msgstr "Keramik"
-
-#: kstyles/themes/keramik.themerc:27
-msgctxt "Comment"
-msgid "A style using alphablending"
-msgstr "E Stil, deen Alphablending benotzt"
-
-#: kstyles/themes/kstep.themerc:2
-msgctxt "Name"
-msgid "KDE Step"
-msgstr "KDE-Step"
-
-#: kstyles/themes/kstep.themerc:20
-msgctxt "Comment"
-msgid "Unthemed Next-like style"
-msgstr "Next-ähnleche Stil ouni Thema"
-
-#: kstyles/themes/light-v2.themerc:2
-msgctxt "Name"
-msgid "Light Style, 2nd revision"
-msgstr "Liichte Stil, 2. Versioun"
-
-#: kstyles/themes/light-v2.themerc:66
-msgctxt "Comment"
-msgid "Second revision of the simple and elegant 'Light' widget style."
-msgstr "Zweet Versioun vum einfachen and eleganten 'liichte' Widget-Stil"
-
-#: kstyles/themes/light-v3.themerc:2
-msgctxt "Name"
-msgid "Light Style, 3rd revision"
-msgstr "Liichte Stil, 3. Versioun"
-
-#: kstyles/themes/light-v3.themerc:66
-msgctxt "Comment"
-msgid "Third revision of the simple and elegant 'Light' widget style."
-msgstr "Drëtt Versioun vum einfachen and eleganten 'liichte' Widget-Stil"
-
-#: kstyles/themes/mega.themerc:2
-msgctxt "Name"
-msgid "MegaGradient highcolor style"
-msgstr "MegaGradient-Stil (vill Faarwen)"
-
-#: kstyles/themes/qtcde.themerc:2
-msgctxt "Name"
-msgid "CDE"
-msgstr "CDE"
-
-#: kstyles/themes/qtcde.themerc:6
-msgctxt "Comment"
-msgid "Built-in unthemed CDE style"
-msgstr "Agebauten CDE-Stil ouni Thema"
-
-#: kstyles/themes/qtmotif.themerc:2
-msgctxt "Name"
-msgid "Motif"
-msgstr "Motif"
-
-#: kstyles/themes/qtmotif.themerc:12
-msgctxt "Comment"
-msgid "Built-in unthemed Motif style"
-msgstr "Agebaute Motif-Stil ouni Thema"
-
-#: kstyles/themes/qtmotifplus.themerc:2
-msgctxt "Name"
-msgid "Motif Plus"
-msgstr "Motif Plus"
-
-#: kstyles/themes/qtmotifplus.themerc:19
-msgctxt "Comment"
-msgid "Built-in enhanced Motif style"
-msgstr "Agebauten, erweiderte Motif-Stil"
-
-#: kstyles/themes/qtplatinum.themerc:2
-msgctxt "Name"
-msgid "Platinum"
-msgstr "Platinum"
-
-#: kstyles/themes/qtplatinum.themerc:26
-msgctxt "Comment"
-msgid "Built-in unthemed Platinum style"
-msgstr "Agebaute Platinum-Stil ouni Thema"
-
-#: kstyles/themes/qtsgi.themerc:2
-msgctxt "Name"
-msgid "SGI"
-msgstr "SGI"
-
-#: kstyles/themes/qtsgi.themerc:7
-msgctxt "Comment"
-msgid "Built-in SGI style"
-msgstr "Agebauten SGI-Stil"
-
-#: kstyles/themes/qtwindows.themerc:2
-msgctxt "Name"
-msgid "MS Windows 9x"
-msgstr "MS Windows 9x"
-
-#: kstyles/themes/qtwindows.themerc:14
-msgctxt "Comment"
-msgid "Built-in unthemed Windows 9x style"
-msgstr "Agebaute Windows 9x-Stil ouni Thema"
-
-#: kstyles/web/web.themerc:2
-msgctxt "Name"
-msgid "Web style"
-msgstr "Web-Stil"
-
-#: kstyles/web/web.themerc:67
-msgctxt "Comment"
-msgid "Web widget style"
-msgstr "Web-Widget-Stil"
-
 #: nepomuk/ontologies/dces.desktop:4
 msgctxt "Name"
 msgid "The Dublin Core Element Set"
@@ -1843,6 +1645,161 @@ msgstr ""
 msgctxt "Name"
 msgid "HSpell"
 msgstr "HSpell"
+
+#~ msgctxt "Name"
+#~ msgid "HighContrast"
+#~ msgstr "HéichKontrast"
+
+#~ msgctxt "Comment"
+#~ msgid "A style that works well with high contrast color schemes"
+#~ msgstr "E Stil, dee gutt bei Faarfschemaë mat engem héiche Kontrast passt"
+
+#, fuzzy
+#~| msgctxt "Comment"
+#~| msgid "A simple and clean style"
+#~ msgctxt "Comment"
+#~ msgid "A really cool style"
+#~ msgstr "En einfachen a schlichte Stil"
+
+#~ msgctxt "Name"
+#~ msgid "Plastik"
+#~ msgstr "Plastik"
+
+#~ msgctxt "Comment"
+#~ msgid "A simple and clean style"
+#~ msgstr "En einfachen a schlichte Stil"
+
+#~ msgctxt "Name"
+#~ msgid "RISC OS"
+#~ msgstr "RISC OS"
+
+#~ msgctxt "Comment"
+#~ msgid "RISC OS-like theme"
+#~ msgstr "RISC OS-ähnlecht Thema"
+
+#~ msgctxt "Name"
+#~ msgid "B3/KDE"
+#~ msgstr "B3/KDE"
+
+#~ msgctxt "Comment"
+#~ msgid "B3/Modification of B2"
+#~ msgstr "B3/Verännerung vu B2"
+
+#~ msgctxt "Name"
+#~ msgid "BeOS"
+#~ msgstr "BeOS"
+
+#~ msgctxt "Comment"
+#~ msgid "Unthemed BeOS-like style"
+#~ msgstr "BeOS-ähnlechen Stil ouni Thema"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Classic"
+#~ msgstr "KDE Classic"
+
+#~ msgctxt "Comment"
+#~ msgid "Classic KDE style"
+#~ msgstr "Klassësche KDE-Stil"
+
+#~ msgctxt "Name"
+#~ msgid "HighColor Classic"
+#~ msgstr "VillFaarwe-Klassesch"
+
+#~ msgctxt "Comment"
+#~ msgid "Highcolor version of the classic style"
+#~ msgstr "Versioun mat ville Faarwe vum klassesche Stil"
+
+#~ msgctxt "Name"
+#~ msgid "Keramik"
+#~ msgstr "Keramik"
+
+#~ msgctxt "Comment"
+#~ msgid "A style using alphablending"
+#~ msgstr "E Stil, deen Alphablending benotzt"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Step"
+#~ msgstr "KDE-Step"
+
+#~ msgctxt "Comment"
+#~ msgid "Unthemed Next-like style"
+#~ msgstr "Next-ähnleche Stil ouni Thema"
+
+#~ msgctxt "Name"
+#~ msgid "Light Style, 2nd revision"
+#~ msgstr "Liichte Stil, 2. Versioun"
+
+#~ msgctxt "Comment"
+#~ msgid "Second revision of the simple and elegant 'Light' widget style."
+#~ msgstr "Zweet Versioun vum einfachen and eleganten 'liichte' Widget-Stil"
+
+#~ msgctxt "Name"
+#~ msgid "Light Style, 3rd revision"
+#~ msgstr "Liichte Stil, 3. Versioun"
+
+#~ msgctxt "Comment"
+#~ msgid "Third revision of the simple and elegant 'Light' widget style."
+#~ msgstr "Drëtt Versioun vum einfachen and eleganten 'liichte' Widget-Stil"
+
+#~ msgctxt "Name"
+#~ msgid "MegaGradient highcolor style"
+#~ msgstr "MegaGradient-Stil (vill Faarwen)"
+
+#~ msgctxt "Name"
+#~ msgid "CDE"
+#~ msgstr "CDE"
+
+#~ msgctxt "Comment"
+#~ msgid "Built-in unthemed CDE style"
+#~ msgstr "Agebauten CDE-Stil ouni Thema"
+
+#~ msgctxt "Name"
+#~ msgid "Motif"
+#~ msgstr "Motif"
+
+#~ msgctxt "Comment"
+#~ msgid "Built-in unthemed Motif style"
+#~ msgstr "Agebaute Motif-Stil ouni Thema"
+
+#~ msgctxt "Name"
+#~ msgid "Motif Plus"
+#~ msgstr "Motif Plus"
+
+#~ msgctxt "Comment"
+#~ msgid "Built-in enhanced Motif style"
+#~ msgstr "Agebauten, erweiderte Motif-Stil"
+
+#~ msgctxt "Name"
+#~ msgid "Platinum"
+#~ msgstr "Platinum"
+
+#~ msgctxt "Comment"
+#~ msgid "Built-in unthemed Platinum style"
+#~ msgstr "Agebaute Platinum-Stil ouni Thema"
+
+#~ msgctxt "Name"
+#~ msgid "SGI"
+#~ msgstr "SGI"
+
+#~ msgctxt "Comment"
+#~ msgid "Built-in SGI style"
+#~ msgstr "Agebauten SGI-Stil"
+
+#~ msgctxt "Name"
+#~ msgid "MS Windows 9x"
+#~ msgstr "MS Windows 9x"
+
+#~ msgctxt "Comment"
+#~ msgid "Built-in unthemed Windows 9x style"
+#~ msgstr "Agebaute Windows 9x-Stil ouni Thema"
+
+#~ msgctxt "Name"
+#~ msgid "Web style"
+#~ msgstr "Web-Stil"
+
+#~ msgctxt "Comment"
+#~ msgid "Web widget style"
+#~ msgstr "Web-Widget-Stil"
 
 #~ msgctxt "Name"
 #~ msgid "KDE-HiColor"
