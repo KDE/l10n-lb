@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-08-23 05:38+0200\n"
+"POT-Creation-Date: 2007-08-24 05:33+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -6216,17 +6216,17 @@ msgstr ""
 "Mellt w.e.g. eventuell Käferen an enger E-Mail un <a href=\"mailto:%1\">%2</"
 "a>.\n"
 
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:188
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:190
 #: kde3support/kdeui/k3aboutapplication.cpp:137
 msgid "&Thanks To"
 msgstr "&Merci un"
 
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:208
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:210
 #: kde3support/kdeui/k3aboutapplication.cpp:164
 msgid "T&ranslation"
 msgstr "Iwwe&rsetzung"
 
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:231
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:233
 #, fuzzy
 #| msgid "&License Agreement"
 msgid "License Agreement"
@@ -11858,13 +11858,13 @@ msgstr[1] ""
 msgid " since the last time you asked for details"
 msgstr ""
 
-#: kutils/kpluginselector.cpp:1618
+#: kutils/kpluginselector.cpp:1620
 #, fuzzy, qt-format
 #| msgid "About %1"
 msgid "About %1 plugin"
 msgstr "Iwwer %1"
 
-#: kutils/kpluginselector.cpp:1628
+#: kutils/kpluginselector.cpp:1630
 #, fuzzy, qt-format
 #| msgid "Description:"
 msgid ""
@@ -11872,7 +11872,7 @@ msgid ""
 "\t%1"
 msgstr "Beschreiwung:"
 
-#: kutils/kpluginselector.cpp:1635
+#: kutils/kpluginselector.cpp:1637
 #, fuzzy, qt-format
 #| msgid "Author:"
 msgid ""
@@ -11880,16 +11880,16 @@ msgid ""
 "\t%1"
 msgstr "Auteur:"
 
-#: kutils/kpluginselector.cpp:1642
+#: kutils/kpluginselector.cpp:1644
 #, fuzzy
 msgid "E-Mail:"
 msgstr "E-Mail"
 
-#: kutils/kpluginselector.cpp:1663
+#: kutils/kpluginselector.cpp:1665
 msgid "Website:"
 msgstr ""
 
-#: kutils/kpluginselector.cpp:1684
+#: kutils/kpluginselector.cpp:1686
 #, fuzzy, qt-format
 #| msgid "Version:"
 msgid ""
@@ -11897,7 +11897,7 @@ msgid ""
 "\t%1"
 msgstr "Versioun:"
 
-#: kutils/kpluginselector.cpp:1692
+#: kutils/kpluginselector.cpp:1694
 #, fuzzy, qt-format
 #| msgid "License:"
 msgid ""
