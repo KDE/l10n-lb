@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeprint4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-09-05 05:30+0200\n"
+"POT-Creation-Date: 2007-09-06 05:36+0200\n"
 "PO-Revision-Date: 2006-05-02 18:19+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2176,6 +2176,53 @@ msgstr ""
 msgid "&Use proxy server"
 msgstr ""
 
+#: kdeprintd/kprintprocess.cpp:79
+msgid "File transfer failed."
+msgstr ""
+
+#: kdeprintd/kprintprocess.cpp:86
+#, qt-format
+msgid "Abnormal process termination (<b>%1</b>)."
+msgstr ""
+
+#: kdeprintd/kprintprocess.cpp:88
+#, qt-format
+msgid "<b>%1</b>: execution failed with message:<p>%2</p>"
+msgstr ""
+
+#: kdeprintd/kdeprintd.cpp:169 kprinter.cpp:807
+#, qt-format
+msgid ""
+"<p><nobr>A print error occurred. Error message received from system:</nobr></"
+"p><br />%1"
+msgstr ""
+
+#: kdeprintd/kdeprintd.cpp:190
+msgid ""
+"Some of the files to printed are not readable by the KDE print daemon. This "
+"may happen if you are trying to print as a different user to the one "
+"currently logged in. To continue printing, you need to provide root's "
+"password."
+msgstr ""
+
+#: kdeprintd/kdeprintd.cpp:195
+msgid "Enter the root password"
+msgstr ""
+
+#: kdeprintd/kdeprintd.cpp:214 kdeprintd/kdeprintd.cpp:216
+#, qt-format
+msgid "Printing Status - %1"
+msgstr ""
+
+#: kdeprintd/kdeprintd.cpp:277
+msgid "Printing system"
+msgstr "Drocksystem"
+
+#: kdeprintd/kdeprintd.cpp:283
+#, qt-format
+msgid "Authentication failed (user name=%1)"
+msgstr ""
+
 #: kmjob.cpp:115
 msgid "Queued"
 msgstr ""
@@ -3454,11 +3501,11 @@ msgstr ""
 msgid "Delete item"
 msgstr ""
 
-#: management/kxmlcommanddlg.cpp:157 kfilelist.cpp:128
+#: management/kxmlcommanddlg.cpp:157 kfilelist.cpp:129
 msgid "Move up"
 msgstr ""
 
-#: management/kxmlcommanddlg.cpp:158 kfilelist.cpp:135
+#: management/kxmlcommanddlg.cpp:158 kfilelist.cpp:136
 msgid "Move down"
 msgstr ""
 
@@ -4149,19 +4196,19 @@ msgstr ""
 msgid "Path"
 msgstr ""
 
-#: kfilelist.cpp:108
+#: kfilelist.cpp:109
 msgid "Add file"
 msgstr "Datei dobäimaachen"
 
-#: kfilelist.cpp:114
+#: kfilelist.cpp:115
 msgid "Remove file"
 msgstr "Datei ewechmaachen"
 
-#: kfilelist.cpp:121
+#: kfilelist.cpp:122
 msgid "Open file"
 msgstr "Datei opmaachen"
 
-#: kfilelist.cpp:142
+#: kfilelist.cpp:143
 msgid ""
 "Drag file(s) here or use the button to open a file dialog. Leave empty for "
 "<b>&lt;STDIN&gt;</b>."
@@ -4254,13 +4301,6 @@ msgstr ""
 
 #: kprinter.cpp:536
 msgid "Previewing..."
-msgstr ""
-
-#: kprinter.cpp:807 kdeprintd.cpp:168
-#, qt-format
-msgid ""
-"<p><nobr>A print error occurred. Error message received from system:</nobr></"
-"p><br />%1"
 msgstr ""
 
 #: foomatic/kfoomaticprinterimpl.cpp:51 lpdunix/klpdunixprinterimpl.cpp:73
@@ -4729,46 +4769,6 @@ msgstr ""
 msgid "(accepting jobs)"
 msgstr ""
 
-#: kprintprocess.cpp:73
-msgid "File transfer failed."
-msgstr ""
-
-#: kprintprocess.cpp:81
-#, qt-format
-msgid "Abnormal process termination (<b>%1</b>)."
-msgstr ""
-
-#: kprintprocess.cpp:83
-#, qt-format
-msgid "<b>%1</b>: execution failed with message:<p>%2</p>"
-msgstr ""
-
-#: kdeprintd.cpp:189
-msgid ""
-"Some of the files to printed are not readable by the KDE print daemon. This "
-"may happen if you are trying to print as a different user to the one "
-"currently logged in. To continue printing, you need to provide root's "
-"password."
-msgstr ""
-
-#: kdeprintd.cpp:194
-msgid "Enter the root password"
-msgstr ""
-
-#: kdeprintd.cpp:213 kdeprintd.cpp:215
-#, qt-format
-msgid "Printing Status - %1"
-msgstr ""
-
-#: kdeprintd.cpp:276
-msgid "Printing system"
-msgstr "Drocksystem"
-
-#: kdeprintd.cpp:282
-#, qt-format
-msgid "Authentication failed (user name=%1)"
-msgstr ""
-
 #. i18n: tag text
 #. i18n: file kprintpreviewui.rc line 4
 #. i18n: tag text
@@ -5012,11 +5012,11 @@ msgid ""
 "http://printing.kde.org/downloads/."
 msgstr ""
 
-#: kprinterpropertydialog.cpp:87 kprinterpropertydialog.cpp:147
+#: kprinterpropertydialog.cpp:84 kprinterpropertydialog.cpp:144
 msgid "Printer Configuration"
 msgstr "Dréckerconfiguratioun"
 
-#: kprinterpropertydialog.cpp:147
+#: kprinterpropertydialog.cpp:144
 msgid "No configurable options for that printer."
 msgstr ""
 
