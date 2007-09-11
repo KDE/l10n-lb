@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-09-08 23:21+0000\n"
+"POT-Creation-Date: 2007-09-10 23:18+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1088,6 +1088,16 @@ msgstr "Name=imagetops"
 #: kdeprint/filters/imagetops.desktop:23
 msgid "Comment=Generic Image to PS Filter"
 msgstr "Comment=Allgemenge Filter vu Biller zu PS"
+
+#: kdeprint/filters/pdf2ps.desktop:2
+#, fuzzy
+msgid "Name=pdf2ps"
+msgstr "Name=ps2pdf"
+
+#: kdeprint/filters/pdf2ps.desktop:4
+#, fuzzy
+msgid "Comment=PDF to PostScript Converter"
+msgstr "Comment=PostScript zu PDF Konvertéierer"
 
 #: kdeprint/filters/pdfwrite.desktop:2
 msgid "Name=pdfwrite"
