@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmshell\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-07-03 05:05+0200\n"
+"POT-Creation-Date: 2007-09-11 05:34+0200\n"
 "PO-Revision-Date: 2005-12-04 23:02+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -70,11 +70,11 @@ msgstr "Eng bestëmmte Sprooch uginn"
 msgid "Do not display main window"
 msgstr "Net an der Haaptfënster uweisen"
 
-#: main.cpp:199
+#: main.cpp:202
 msgid "The following modules are available:"
 msgstr "Déi folgend Moduler stinn zur Verfügung:"
 
-#: main.cpp:218
+#: main.cpp:221
 msgid "No description available"
 msgstr "Et ass keng Beschreiwung verfügbar"
 
