@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-09-12 05:38+0200\n"
+"POT-Creation-Date: 2007-09-13 05:32+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -5998,9 +5998,20 @@ msgid ""
 "contain proper translation"
 msgstr ""
 
+#: kdeui/dialogs/kshortcutsdialog.cpp:300
+#, fuzzy
+#| msgid "Default"
+msgid "Default:"
+msgstr "Standard"
+
 #: kdeui/dialogs/kshortcutsdialog.cpp:303 kdeui/widgets/klineedit.cpp:1029
 msgid "None"
 msgstr "Keng"
+
+#: kdeui/dialogs/kshortcutsdialog.cpp:306
+#, fuzzy
+msgid "Custom:"
+msgstr "&Benotzerdéfinéiert"
 
 #: kdeui/dialogs/kshortcutsdialog.cpp:398
 msgid "Shortcuts"
