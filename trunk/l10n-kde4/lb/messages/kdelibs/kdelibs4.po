@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-09-16 05:36+0200\n"
+"POT-Creation-Date: 2007-09-17 05:29+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -9144,7 +9144,12 @@ msgstr "Grouss (%1x%2)"
 msgid "Huge (%1x%2)"
 msgstr "Risëg (%1x%2)"
 
-#: kdeui/widgets/ktoolbar.cpp:342
+#: kdeui/widgets/ktoolbar.cpp:342 kdeui/widgets/ktoolbar.cpp:616
+#, fuzzy
+msgid "Unlock Toolbars"
+msgstr "Toolbaren"
+
+#: kdeui/widgets/ktoolbar.cpp:342 kdeui/widgets/ktoolbar.cpp:618
 #, fuzzy
 msgid "Lock Toolbars"
 msgstr "Toolbaren"
@@ -13503,10 +13508,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Statusbar verstoppen<p>Verstoppt d'Statusbar. Dat ass déi Leescht ënnen "
 #~ "an der Fënster fir d'Statusinformatiounen."
-
-#, fuzzy
-#~ msgid "Unlock Toolbars"
-#~ msgstr "Toolbaren"
 
 #, fuzzy
 #~| msgid "Bookmarks"
