@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_l10n\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-08-14 03:39+0000\n"
+"POT-Creation-Date: 2007-09-18 03:48+0000\n"
 "PO-Revision-Date: 2006-06-22 16:23+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -38,6 +38,14 @@ msgstr "Bulgaresch"
 #: bn/messages/entry.desktop:2
 msgctxt "Name"
 msgid "Bengali"
+msgstr "Bengalesch"
+
+#: bn_IN/messages/entry.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Bengali"
+msgctxt "Name"
+msgid "Bengali (India)"
 msgstr "Bengalesch"
 
 #: br/messages/entry.desktop:2

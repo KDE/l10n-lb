@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-09-17 03:37+0000\n"
+"POT-Creation-Date: 2007-09-18 03:47+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -118,7 +118,7 @@ msgctxt "Name"
 msgid "Time & Date"
 msgstr ""
 
-#: kate/plugins/timedate/ktexteditor_timedate.desktop:38
+#: kate/plugins/timedate/ktexteditor_timedate.desktop:40
 msgctxt "Comment"
 msgid "Insert current Time & Date"
 msgstr ""
@@ -1578,13 +1578,13 @@ msgctxt "Name"
 msgid "Sound"
 msgstr "AAC-Sound"
 
-#: phonon/kcm/kcm_phonon.desktop:21
+#: phonon/kcm/kcm_phonon.desktop:24
 #, fuzzy
 msgctxt "Comment"
 msgid "Sound System Configuration"
 msgstr "KDE-System-Norichten"
 
-#: phonon/kcm/kcm_phonon.desktop:51
+#: phonon/kcm/kcm_phonon.desktop:54
 msgctxt "Keywords"
 msgid ""
 "Sound,Phonon,Audio,Video,Output,Device,Notification,Music,Communication,"
