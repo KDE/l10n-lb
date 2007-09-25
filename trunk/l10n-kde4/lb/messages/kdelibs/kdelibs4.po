@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-09-24 05:30+0200\n"
+"POT-Creation-Date: 2007-09-25 05:40+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -689,8 +689,8 @@ msgstr ""
 
 #. i18n: tag string
 #. i18n: file ./khtml/test_regression_gui.ui line 123
-#: rc.cpp:273 kdeui/jobs/kwidgetjobtracker.cpp:285
-#: kdeui/jobs/kwidgetjobtracker.cpp:332
+#: rc.cpp:273 kdeui/jobs/kwidgetjobtracker.cpp:358
+#: kdeui/jobs/kwidgetjobtracker.cpp:416
 #: khtml/test_regression_gui_window.cpp:568
 #, fuzzy
 msgid "Pause"
@@ -3180,13 +3180,13 @@ msgid "Invalid Calendar Type"
 msgstr "Ongülteg Werter"
 
 #: kdecore/date/kdatetime.cpp:1467 kdecore/date/kdatetime.cpp:1477
-#: kdecore/date/kdatetime.cpp:2814 kdecore/localization/klocale.cpp:1697
-#: kdecore/localization/klocale.cpp:1823
+#: kdecore/date/kdatetime.cpp:2814 kdecore/localization/klocale.cpp:1683
+#: kdecore/localization/klocale.cpp:1809
 msgid "am"
 msgstr "moies"
 
-#: kdecore/date/kdatetime.cpp:2822 kdecore/localization/klocale.cpp:1688
-#: kdecore/localization/klocale.cpp:1821
+#: kdecore/date/kdatetime.cpp:2822 kdecore/localization/klocale.cpp:1674
+#: kdecore/localization/klocale.cpp:1807
 msgid "pm"
 msgstr "nomëttes/owës"
 
@@ -4103,79 +4103,79 @@ msgctxt "@item Text character set"
 msgid "Thai"
 msgstr "Thailännësch"
 
-#: kdecore/localization/klocale.cpp:1156
+#: kdecore/localization/klocale.cpp:1142
 #, qt-format
 msgid "%1 TiB"
 msgstr ""
 
-#: kdecore/localization/klocale.cpp:1158
+#: kdecore/localization/klocale.cpp:1144
 #, qt-format
 msgid "%1 GiB"
 msgstr ""
 
-#: kdecore/localization/klocale.cpp:1164
+#: kdecore/localization/klocale.cpp:1150
 #, qt-format
 msgid "%1 MiB"
 msgstr ""
 
-#: kdecore/localization/klocale.cpp:1170
+#: kdecore/localization/klocale.cpp:1156
 #, qt-format
 msgid "%1 KiB"
 msgstr ""
 
-#: kdecore/localization/klocale.cpp:1175
+#: kdecore/localization/klocale.cpp:1161
 #, fuzzy, qt-format
 msgid "%1 B"
 msgstr "%1 %2"
 
-#: kdecore/localization/klocale.cpp:1180
+#: kdecore/localization/klocale.cpp:1166
 msgid "0 B"
 msgstr ""
 
-#: kdecore/localization/klocale.cpp:1188
+#: kdecore/localization/klocale.cpp:1174
 #, qt-format
 msgid "%1 days"
 msgstr ""
 
-#: kdecore/localization/klocale.cpp:1191
+#: kdecore/localization/klocale.cpp:1177
 #, qt-format
 msgid "%1 hours"
 msgstr ""
 
-#: kdecore/localization/klocale.cpp:1194
+#: kdecore/localization/klocale.cpp:1180
 #, fuzzy, qt-format
 msgid "%1 minutes"
 msgstr "%1 Optiounen"
 
-#: kdecore/localization/klocale.cpp:1197
+#: kdecore/localization/klocale.cpp:1183
 #, fuzzy, qt-format
 msgid "%1 seconds"
 msgstr "%1 Optiounen"
 
-#: kdecore/localization/klocale.cpp:1200
+#: kdecore/localization/klocale.cpp:1186
 #, qt-format
 msgid "%1 milliseconds"
 msgstr ""
 
-#: kdecore/localization/klocale.cpp:1290
+#: kdecore/localization/klocale.cpp:1276
 #, fuzzy
 #| msgid "Monday"
 msgid "Today"
 msgstr "Méinden"
 
-#: kdecore/localization/klocale.cpp:1292
+#: kdecore/localization/klocale.cpp:1278
 #, fuzzy
 #| msgid "Tuesday"
 msgid "Yesterday"
 msgstr "Dënschten"
 
-#: kdecore/localization/klocale.cpp:1861
+#: kdecore/localization/klocale.cpp:1847
 #, qt-format
 msgctxt "concatenation of dates and time"
 msgid "%1 %2"
 msgstr "%1 %2"
 
-#: kdecore/localization/klocale.cpp:1922
+#: kdecore/localization/klocale.cpp:1908
 #, fuzzy, qt-format
 msgctxt "concatenation of date/time and time zone"
 msgid "%1 %2"
@@ -5215,107 +5215,107 @@ msgstr ""
 "no, ob den <i>gpg</i> installéiert ass, well soss kënnen déi erofgeluede "
 "Ressourcen net ënnerschriwwe ginn.</qt>"
 
-#: kdeui/jobs/kstatusbarjobtracker.cpp:153
+#: kdeui/jobs/kstatusbarjobtracker.cpp:188
 msgid " Stalled "
 msgstr ""
 
-#: kdeui/jobs/kstatusbarjobtracker.cpp:155
+#: kdeui/jobs/kstatusbarjobtracker.cpp:190
 #, fuzzy, qt-format
 msgid " %1/s "
 msgstr "(%1/s)"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:191
+#: kdeui/jobs/kwidgetjobtracker.cpp:264
 #, qt-format
 msgid "%1 of %2 complete"
 msgstr ""
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:202 kdeui/jobs/kwidgetjobtracker.cpp:214
+#: kdeui/jobs/kwidgetjobtracker.cpp:275 kdeui/jobs/kwidgetjobtracker.cpp:287
 #, qt-format
 msgid "%2 / %1 folder"
 msgid_plural "%2 / %1 folders"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:204 kdeui/jobs/kwidgetjobtracker.cpp:217
+#: kdeui/jobs/kwidgetjobtracker.cpp:277 kdeui/jobs/kwidgetjobtracker.cpp:290
 #, qt-format
 msgid "%2 / %1 file"
 msgid_plural "%2 / %1 files"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:227
+#: kdeui/jobs/kwidgetjobtracker.cpp:300
 #, fuzzy, qt-format
 msgid "%1 % of %2 "
 msgstr "%1 (%2)"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:230
+#: kdeui/jobs/kwidgetjobtracker.cpp:303
 #, qt-format
 msgid "%2 % of 1 file"
 msgid_plural "%2 % of %1 files"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:232
+#: kdeui/jobs/kwidgetjobtracker.cpp:305
 #, fuzzy, qt-format
 msgid "%1 %"
 msgstr "%1 %2"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:243
+#: kdeui/jobs/kwidgetjobtracker.cpp:316
 #, fuzzy
 msgid "Stalled"
 msgstr "Status"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:251
+#: kdeui/jobs/kwidgetjobtracker.cpp:324
 #, qt-format
 msgid "%1/s ( %2 remaining )"
 msgstr ""
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:270
+#: kdeui/jobs/kwidgetjobtracker.cpp:343
 #, fuzzy, qt-format
 msgid "%1/s (done)"
 msgstr "%1 (Link)"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:279
+#: kdeui/jobs/kwidgetjobtracker.cpp:352
 #, fuzzy
 msgid "Resume"
 msgstr "Zerécksetzen"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:309
+#: kdeui/jobs/kwidgetjobtracker.cpp:393
 #, fuzzy
 msgid "Source:"
 msgstr "Ressource"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:317
+#: kdeui/jobs/kwidgetjobtracker.cpp:401
 #, fuzzy
 msgid "Destination:"
 msgstr "Beschreiwung:"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:364
+#: kdeui/jobs/kwidgetjobtracker.cpp:448
 msgid "&Keep this window open after transfer is complete"
 msgstr ""
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:373
+#: kdeui/jobs/kwidgetjobtracker.cpp:457
 #, fuzzy
 msgid "Open &File"
 msgstr "Eng Datei opmaachen"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:380
+#: kdeui/jobs/kwidgetjobtracker.cpp:464
 #, fuzzy
 msgid "Open &Destination"
 msgstr "Ausriichtung"
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:397
+#: kdeui/jobs/kwidgetjobtracker.cpp:481
 msgid "Progress Dialog"
 msgstr ""
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:410
+#: kdeui/jobs/kwidgetjobtracker.cpp:494
 #, qt-format
 msgid "%1 folder"
 msgid_plural "%1 folders"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:411
+#: kdeui/jobs/kwidgetjobtracker.cpp:495
 #, fuzzy, qt-format
 msgid "%1 file"
 msgid_plural "%1 files"
@@ -5968,7 +5968,7 @@ msgstr ""
 msgid "Default:"
 msgstr "Standard"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:303 kdeui/widgets/klineedit.cpp:1030
+#: kdeui/dialogs/kshortcutsdialog.cpp:303 kdeui/widgets/klineedit.cpp:1029
 msgid "None"
 msgstr "Keng"
 
@@ -5998,7 +5998,7 @@ msgstr ""
 
 #: kdeui/dialogs/kshortcutsdialog.cpp:658
 #: kdeui/dialogs/kshortcutsdialog.cpp:687
-#: kdeui/dialogs/kshortcutsdialog.cpp:703 kdeui/shortcuts/kglobalaccel.cpp:279
+#: kdeui/dialogs/kshortcutsdialog.cpp:703 kdeui/shortcuts/kglobalaccel.cpp:293
 msgid "Reassign"
 msgstr "Nei zouuerdnen"
 
@@ -7039,11 +7039,11 @@ msgstr "All siichtbar Kolonnen"
 msgid "S&earch:"
 msgstr "Siche&n:"
 
-#: kdeui/shortcuts/kglobalaccel.cpp:273
+#: kdeui/shortcuts/kglobalaccel.cpp:287
 msgid "Conflict with Global Shortcut"
 msgstr "Konflikt mat allgemengem Kierzel"
 
-#: kdeui/shortcuts/kglobalaccel.cpp:274
+#: kdeui/shortcuts/kglobalaccel.cpp:288
 #, fuzzy, qt-format
 #| msgid ""
 #| "The '%1' key combination has already been allocated to the global action "
@@ -7502,7 +7502,7 @@ msgstr "&Vollbildmodus"
 msgid "Exit F&ull Screen Mode"
 msgstr "Aus dem &Vollbildmodus erausgoen"
 
-#: kdeui/actions/kcodecaction.cpp:87 kdeui/widgets/klineedit.cpp:1057
+#: kdeui/actions/kcodecaction.cpp:87 kdeui/widgets/klineedit.cpp:1056
 #: kdeui/widgets/ktoolbar.cpp:276
 msgid "Default"
 msgstr "Standard"
@@ -8738,32 +8738,32 @@ msgctxt "KCharselect unicode block name"
 msgid "Specials"
 msgstr ""
 
-#: kdeui/widgets/klineedit.cpp:181
+#: kdeui/widgets/klineedit.cpp:180
 #, fuzzy
 msgid "Clear text"
 msgstr "Kierzel läschen"
 
-#: kdeui/widgets/klineedit.cpp:1023
+#: kdeui/widgets/klineedit.cpp:1022
 msgid "Text Completion"
 msgstr "Ergänzung vum Text"
 
-#: kdeui/widgets/klineedit.cpp:1031
+#: kdeui/widgets/klineedit.cpp:1030
 msgid "Manual"
 msgstr "Manuell"
 
-#: kdeui/widgets/klineedit.cpp:1032
+#: kdeui/widgets/klineedit.cpp:1031
 msgid "Automatic"
 msgstr "Automatësch"
 
-#: kdeui/widgets/klineedit.cpp:1033
+#: kdeui/widgets/klineedit.cpp:1032
 msgid "Dropdown List"
 msgstr "Ausklapplëscht"
 
-#: kdeui/widgets/klineedit.cpp:1034
+#: kdeui/widgets/klineedit.cpp:1033
 msgid "Short Automatic"
 msgstr "Automatësch kuerz"
 
-#: kdeui/widgets/klineedit.cpp:1035
+#: kdeui/widgets/klineedit.cpp:1034
 msgid "Dropdown List && Automatic"
 msgstr "Ausklapplëscht && Automatik"
 
@@ -9532,7 +9532,7 @@ msgstr "E Feeler ass beim Luede vun <B>%1</B> opgetrueden:"
 msgid "An error occurred while accessing '%1'"
 msgstr "E Feeler ass beim Luede vun <B>%1</B> opgetrueden:"
 
-#: kfile/kurlnavigator.cpp:607
+#: kfile/kurlnavigator.cpp:625
 #, fuzzy
 #| msgid "Custom"
 msgid "Custom Path"
@@ -11439,6 +11439,12 @@ msgstr ""
 #, fuzzy
 msgid "Run Kross scripts."
 msgstr "Sëcherheet..."
+
+#: kross/modules/form.cpp:273
+#, fuzzy
+#| msgid "Abort"
+msgid "Abort?"
+msgstr "Ofbriechen"
 
 #: knotify/config/knotifyconfigwidget.cpp:94
 #, fuzzy
@@ -15868,9 +15874,6 @@ msgstr ""
 
 #~ msgid "Retry"
 #~ msgstr "Nach eng Kéier probéieren"
-
-#~ msgid "Abort"
-#~ msgstr "Ofbriechen"
 
 #~ msgid "Mi&nimize"
 #~ msgstr "&Kleng maachen"
