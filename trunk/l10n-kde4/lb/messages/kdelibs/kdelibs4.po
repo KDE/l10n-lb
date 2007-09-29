@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-09-28 05:48+0200\n"
+"POT-Creation-Date: 2007-09-29 05:39+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -6142,32 +6142,32 @@ msgid ""
 "contain proper translation"
 msgstr ""
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:300
+#: kdeui/dialogs/kshortcutsdialog.cpp:312
 #, fuzzy
 #| msgid "Default"
 msgid "Default:"
 msgstr "Standard"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:303 kdeui/widgets/klineedit.cpp:1029
+#: kdeui/dialogs/kshortcutsdialog.cpp:315 kdeui/widgets/klineedit.cpp:1029
 msgid "None"
 msgstr "Keng"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:306
+#: kdeui/dialogs/kshortcutsdialog.cpp:318
 #, fuzzy
 msgid "Custom:"
 msgstr "&Benotzerdéfinéiert"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:398
+#: kdeui/dialogs/kshortcutsdialog.cpp:410
 msgid "Shortcuts"
 msgstr "Kierzelen"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:653
-#: kdeui/dialogs/kshortcutsdialog.cpp:682
-#: kdeui/dialogs/kshortcutsdialog.cpp:698
+#: kdeui/dialogs/kshortcutsdialog.cpp:665
+#: kdeui/dialogs/kshortcutsdialog.cpp:694
+#: kdeui/dialogs/kshortcutsdialog.cpp:710
 msgid "Key Conflict"
 msgstr "Tastekonflikt"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:654
+#: kdeui/dialogs/kshortcutsdialog.cpp:666
 #, qt-format
 msgid ""
 "The '%1' key combination has already been allocated to the \"%2\" action.\n"
@@ -6176,17 +6176,17 @@ msgstr ""
 "D'Tastekombinatioun \"%1\" ass scho mat der Aktioun \"%2\" verbonn.\n"
 "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:658
-#: kdeui/dialogs/kshortcutsdialog.cpp:687
-#: kdeui/dialogs/kshortcutsdialog.cpp:703 kdeui/shortcuts/kglobalaccel.cpp:304
+#: kdeui/dialogs/kshortcutsdialog.cpp:670
+#: kdeui/dialogs/kshortcutsdialog.cpp:699
+#: kdeui/dialogs/kshortcutsdialog.cpp:715 kdeui/shortcuts/kglobalaccel.cpp:304
 msgid "Reassign"
 msgstr "Nei zouuerdnen"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:670
+#: kdeui/dialogs/kshortcutsdialog.cpp:682
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Konflikt mat der Standardkombinatioun vum Programm"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:671
+#: kdeui/dialogs/kshortcutsdialog.cpp:683
 #, fuzzy, qt-format
 msgid ""
 "The '%1' key combination has already been allocated to the standard action "
@@ -6196,7 +6196,7 @@ msgstr ""
 "D'Tastekombinatioun \"%1\" ass scho mat der Standardaktioun \"%2\" verbonn.\n"
 "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:683
+#: kdeui/dialogs/kshortcutsdialog.cpp:695
 #, fuzzy, qt-format
 msgid ""
 "The '%1' shape gesture has already been allocated to the \"%2\" action.\n"
@@ -6205,7 +6205,7 @@ msgstr ""
 "D'Tastekombinatioun \"%1\" ass scho mat der Aktioun \"%2\" verbonn.\n"
 "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:699
+#: kdeui/dialogs/kshortcutsdialog.cpp:711
 #, fuzzy, qt-format
 msgid ""
 "The '%1' rocker gesture has already been allocated to the \"%2\" action.\n"
@@ -6214,7 +6214,7 @@ msgstr ""
 "D'Tastekombinatioun \"%1\" ass scho mat der Aktioun \"%2\" verbonn.\n"
 "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:1028
+#: kdeui/dialogs/kshortcutsdialog.cpp:1040
 msgid "Configure Shortcuts"
 msgstr "Tastekierzel configuréieren"
 
