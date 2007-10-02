@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-09-30 05:36+0200\n"
+"POT-Creation-Date: 2007-10-02 05:31+0200\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -707,7 +707,7 @@ msgstr "IWW"
 msgid "INS"
 msgstr "AFÜG"
 
-#: view/kateview.cpp:1771
+#: view/kateview.cpp:1772
 msgid "Export File as HTML"
 msgstr "Datei als HTML exportéieren"
 
@@ -4527,7 +4527,7 @@ msgstr "Skripter"
 #. i18n: tag language attribute section
 #. i18n: file syntax/data/yacas.xml line 3
 #. i18n: tag language attribute section
-#. i18n: file syntax/data/yacc.xml line 23
+#. i18n: file syntax/data/yacc.xml line 31
 #. i18n: tag language attribute section
 #. i18n: file syntax/data/zonnon.xml line 3
 #: rc.cpp:1130 rc.cpp:1136 rc.cpp:1154 rc.cpp:1214 rc.cpp:1220 rc.cpp:1226
@@ -5676,7 +5676,7 @@ msgid "yacas"
 msgstr "yacas"
 
 #. i18n: tag language attribute name
-#. i18n: file syntax/data/yacc.xml line 23
+#. i18n: file syntax/data/yacc.xml line 31
 #: rc.cpp:1931
 msgctxt "Language"
 msgid "Yacc/Bison"

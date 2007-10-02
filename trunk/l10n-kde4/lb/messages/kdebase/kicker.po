@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kicker\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-09-27 05:41+0200\n"
+"POT-Creation-Date: 2007-10-02 05:31+0200\n"
 "PO-Revision-Date: 2005-12-21 12:15+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -54,7 +54,7 @@ msgstr "Kicker-Feeler"
 msgid "Applications"
 msgstr "Programmer"
 
-#: buttons/urlbutton.cpp:201
+#: buttons/urlbutton.cpp:197
 #, qt-format
 msgid "The file %1 does not exist"
 msgstr "D'Datei %1 gëtt et net"
