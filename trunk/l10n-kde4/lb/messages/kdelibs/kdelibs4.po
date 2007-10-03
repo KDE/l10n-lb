@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-10-02 05:30+0200\n"
+"POT-Creation-Date: 2007-10-03 05:46+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -191,7 +191,7 @@ msgstr "Passwuert &bäibehalen"
 
 #. i18n: tag string
 #. i18n: file ./kdeui/sonnet/configui.ui line 28
-#: rc.cpp:90 kdeui/findreplace/kfinddialog.cpp:131 kfile/kfilewidget.cpp:330
+#: rc.cpp:90 kdeui/findreplace/kfinddialog.cpp:131 kfile/kfilewidget.cpp:353
 #, no-c-format
 msgid "Options"
 msgstr "Optiounen"
@@ -653,7 +653,7 @@ msgstr "&Réckelen"
 #. i18n: file ./kdeui/xmlgui/ui_standards.rc line 100
 #. i18n: tag text
 #. i18n: file ./khtml/khtml_browser.rc line 20
-#: rc.cpp:291 rc.cpp:483 kfile/kdiroperator.cpp:1576
+#: rc.cpp:291 rc.cpp:483 kfile/kdiroperator.cpp:1594
 #, no-c-format
 msgid "&View"
 msgstr "&Usiicht"
@@ -690,7 +690,7 @@ msgstr "&Astellungen"
 
 #. i18n: tag text
 #. i18n: file ./kdeui/xmlgui/ui_standards.rc line 174
-#: rc.cpp:315 kdeui/widgets/khelpmenu.cpp:145
+#: rc.cpp:315 kdeui/widgets/khelpmenu.cpp:147
 #, no-c-format
 msgid "&Help"
 msgstr "&Hëllef"
@@ -2055,6 +2055,29 @@ msgstr "Net nach eng Kéier lueden"
 msgid "Configuration information reloaded successfully."
 msgstr "D'Configuratiounsdate sinn nei geluede ginn."
 
+#: kpty/kptydevice.cpp:283
+#, fuzzy
+#| msgid "ErrorReadingRoot"
+msgid "Error reading from PTY"
+msgstr "ErrorReadingRoot"
+
+#: kpty/kptydevice.cpp:317
+msgid "Error writing to PTY"
+msgstr ""
+
+#: kpty/kptydevice.cpp:402
+#, fuzzy
+#| msgctxt "Socket error code Timeout"
+#| msgid "timed operation timed out"
+msgid "PTY operation timed out"
+msgstr "D'Zäit fir dëss Aktioun ass iwwerschratt ginn"
+
+#: kpty/kptydevice.cpp:444
+#, fuzzy
+#| msgid "Error opening file."
+msgid "Error opening PTY"
+msgstr "Feeler beim Opmaache vun der Datei."
+
 #: kdecore/kde-config.cpp:53
 msgid "kde4-config"
 msgstr ""
@@ -2236,29 +2259,6 @@ msgstr "%1 - onbekannten Typ\n"
 #, qt-format
 msgid "%1 - unknown type of userpath\n"
 msgstr "%1 - onbekannten Typ vum Benotzerwee\n"
-
-#: kdecore/io/kptydevice.cpp:283
-#, fuzzy
-#| msgid "ErrorReadingRoot"
-msgid "Error reading from PTY"
-msgstr "ErrorReadingRoot"
-
-#: kdecore/io/kptydevice.cpp:317
-msgid "Error writing to PTY"
-msgstr ""
-
-#: kdecore/io/kptydevice.cpp:402
-#, fuzzy
-#| msgctxt "Socket error code Timeout"
-#| msgid "timed operation timed out"
-msgid "PTY operation timed out"
-msgstr "D'Zäit fir dëss Aktioun ass iwwerschratt ginn"
-
-#: kdecore/io/kptydevice.cpp:444
-#, fuzzy
-#| msgid "Error opening file."
-msgid "Error opening PTY"
-msgstr "Feeler beim Opmaache vun der Datei."
 
 #: kdecore/io/ksavefile.cpp:83
 msgid "No target filename has been given."
@@ -3364,6 +3364,7 @@ msgid "pm"
 msgstr "nomëttes/owës"
 
 #: kdecore/util/klibloader.cpp:175 kdecore/services/kmimetypetrader.h:139
+#: kdecore/services/kmimetypetrader.h:172
 #: kdecore/services/kservicetypetrader.h:187
 msgid "No service matching the requirements was found"
 msgstr ""
@@ -3756,7 +3757,7 @@ msgstr "Programm: "
 msgid "Qt"
 msgstr "Ophalen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:486 khtml/khtml_part.cpp:4865
+#: kdecore/kernel/kcmdlineargs.cpp:486 khtml/khtml_part.cpp:4864
 msgid "KDE"
 msgstr "KDE"
 
@@ -5753,7 +5754,7 @@ msgid "Add"
 msgstr "Dobäimaachen"
 
 #: kdeui/util/kstandardguiitem.cpp:275
-#: kdeui/dialogs/kswitchlanguagedialog.cpp:292 kross/ui/view.cpp:329
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:294 kross/ui/view.cpp:329
 msgid "Remove"
 msgstr "Ewechmaachen"
 
@@ -5761,7 +5762,7 @@ msgstr "Ewechmaachen"
 msgid "Test"
 msgstr "Test"
 
-#: kdeui/util/kstandardguiitem.cpp:285 kfile/kdiroperator.cpp:1570
+#: kdeui/util/kstandardguiitem.cpp:285 kfile/kdiroperator.cpp:1588
 msgid "Properties"
 msgstr "Eegeschaften"
 
@@ -5928,135 +5929,6 @@ msgstr ""
 msgid "Low Password Strength"
 msgstr "Niddereg Passwuert-Sëcherheet"
 
-#: kdeui/dialogs/kaboutkdedialog.cpp:39
-#, fuzzy
-msgid "About KDE"
-msgstr "Iwwer &KDE"
-
-#: kdeui/dialogs/kaboutkdedialog.cpp:46
-#, qt-format
-msgid ""
-"<html><font size=\"5\">K Desktop Environment</font><br /><b>Version %1</b></"
-"html>"
-msgstr ""
-
-#: kdeui/dialogs/kaboutkdedialog.cpp:56
-#, fuzzy
-msgid ""
-"<html>The <b>K Desktop Environment</b> is written and maintained by the KDE "
-"Team, a world-wide network of software engineers committed to <a href="
-"\"http://www.gnu.org/philosophy/free-sw.html\">Free Software</a> development."
-"<br /><br />No single group, company or organization controls the KDE source "
-"code. Everyone is welcome to contribute to KDE.<br /><br />Visit <a href="
-"\"http://www.kde.org/\">http://www.kde.org</a> for more information on the "
-"KDE project.</html>"
-msgstr ""
-"De <b>K Desktop Environment</b> ass vum KDE-Team geschriwwen an ënnerhal, "
-"engem weltwäiten Netzwierk vu Software-Entwéckler déi sëch der Entwécklung "
-"vu <a href=\"http://www.gnu.org/philosophy/free-sw.html\">fräier Software</"
-"a> verschriwwen hun.<br><br>De Quellcode gëtt weder vun enger Firma "
-"kontrolléiert, nach vun enger Organisatioun. Jidfereen ass ageluede fir "
-"matzemaachen.<br><br>Gitt op <A HREF=\"http://www.kde.org/\">http://www.kde."
-"org</A> fir méi Informatiounen iwwert de KDE-Projekt. "
-
-#: kdeui/dialogs/kaboutkdedialog.cpp:71
-#, fuzzy
-msgid ""
-"<html>Software can always be improved, and the KDE Team is ready to do so. "
-"However, you - the user - must tell us when something does not work as "
-"expected or could be done better.<br /><br />The K Desktop Environment has a "
-"bug tracking system. Visit <a href=\"http://bugs.kde.org/\">http://bugs.kde."
-"org</a> or use the \"Report Bug...\" dialog from the \"Help\" menu to report "
-"bugs.<br /><br />If you have a suggestion for improvement then you are "
-"welcome to use the bug tracking system to register your wish. Make sure you "
-"use the severity called \"Wishlist\".</html>"
-msgstr ""
-"Software kann ëmmer verbessert ginn, an d'Team vu KDE ass prett fir dorunn "
-"ze schaffen. Trotzdem sidd dir - de Benotzer - wichtëg, fir eis besched ze "
-"soen, wann eppes net sou klappt wéi et soll.<br><br>Am KDE ass e System fir "
-"Problemer ze verfollëgen. Gitt op <A HREF=\"http://bugs.kde.org/\">http://"
-"bugs.kde.org</A> oder benotzt den \"E Käfer mellen\"-Dialog am \"Hëllef\"-"
-"Menu fir Käferen ze mellen.<br><br>Wann dir e Verbesserungsvirschlag hutt, "
-"kënnt dir de System fir d'Verfollëgung vu Feelere benotzen fir do äre Wonsch "
-"z'äusseren. Vergewëssert iech just, dass dir ënnert \"Gravitéit\" d'Auswiel "
-"\"Wonsch\" trefft."
-
-#: kdeui/dialogs/kaboutkdedialog.cpp:88
-#, fuzzy
-msgid ""
-"<html>You do not have to be a software developer to be a member of the KDE "
-"team. You can join the national teams that translate program interfaces. You "
-"can provide graphics, themes, sounds, and improved documentation. You decide!"
-"<br /><br />Visit <a href=\"http://www.kde.org/jobs/\">http://www.kde.org/"
-"jobs/</a> for information on some projects in which you can participate.<br /"
-"><br />If you need more information or documentation, then a visit to <a "
-"href=\"http://techbase.kde.org/\">http://techbase.kde.org</a> will provide "
-"you with what you need.</html>"
-msgstr ""
-"Dir musst kee Software-Entwéckler si fir Member vum KDE-Team ze ginn. An den "
-"nationale Gruppe kënnt dir bei der Iwwersetzung vu Programmuewerflächen "
-"hëllefen. Dir kënnt Grafiken, Themen, Kläng an eng verbessert Dokumentatioun "
-"bäidroen. Dir entsched!<br><br> Gitt op <A HREF=\"http://www.kde.org/jobs/"
-"\">http://www.kde.org/jobs/</A> fir Informatiounen iwwert Projekter ze "
-"kréien, an denen dir matschaffe kënnt.<br><br>Wann dir méi Informatiounen "
-"oder Dokumentatioune braucht, da gitt op <A HREF=\"http://developer.kde.org/"
-"\">http://developer.kde.org</A>. Do fannt dir, wat dir sicht."
-
-#: kdeui/dialogs/kaboutkdedialog.cpp:108
-#, fuzzy
-#| msgid ""
-#| "KDE is available free of charge, but making it is not free.<br><br>Thus, "
-#| "the KDE team formed the KDE e.V., a non-profit organization legally "
-#| "founded in Tuebingen, Germany. The KDE e.V. represents the KDE project in "
-#| "legal and financial matters. See <a href=\"http://www.kde-ev.org/"
-#| "\">http://www.kde-ev.org</a> for information on the KDE e.V.<br><br>The "
-#| "KDE team does need financial support. Most of the money is used to "
-#| "reimburse members and others on expenses they experienced when "
-#| "contributing to KDE. You are encouraged to support KDE through a "
-#| "financial donation, using one of the ways described at <a href=\"http://"
-#| "www.kde.org/support/\">http://www.kde.org/support/</a>.<br><br>Thank you "
-#| "very much in advance for your support."
-msgid ""
-"<html>KDE is available free of charge, but making it is not free.<br /><br /"
-">Thus, the KDE team formed the KDE e.V., a non-profit organization legally "
-"founded in Tuebingen, Germany. The KDE e.V. represents the KDE project in "
-"legal and financial matters. See <a href=\"http://www.kde-ev.org/\">http://"
-"www.kde-ev.org</a> for information on the KDE e.V.<br /><br />The KDE team "
-"does need financial support. Most of the money is used to reimburse members "
-"and others on expenses they experienced when contributing to KDE. You are "
-"encouraged to support KDE through a financial donation, using one of the "
-"ways described at <a href=\"http://www.kde.org/support/\">http://www.kde.org/"
-"support/</a>.<br /><br />Thank you very much in advance for your support.</"
-"html>"
-msgstr ""
-"KDE ass gratis fir seng Benotzer, mais net fir d'Auteuren.<br><br>Dofir huet "
-"d'Team vu KDE zu Tübingen d'KDE e.V. gegrënnt. KDE e.V. repräsentéiert de "
-"Projekt am juristëschen an am finanzielle Beräich. Gitt op <a href=\"http://"
-"www.kde-ev.org/\">http://www.kde-ev.org</a> fir iech iwwert de KDE e.V. "
-"z'informéieren.<br><br>D'KDE-Team brauch finanziell Ënnerstëtzung. Dee "
-"gréissten Deel vun de Suën gëtt fir d'Käschte vun de Membere gebraucht, déi "
-"wärend hirer Contributioun zu KDE entstane sinn. Hëlleft och dir w.e.g. mat "
-"engem klengen Don. Ënnert <a href=\"http://www.kde.org/support/\">http://www."
-"kde.org/support/</a>kritt dir gewise, wéi dat geet.<br><br>Villmols Merci "
-"fir är Ënnerstëtzung."
-
-#: kdeui/dialogs/kaboutkdedialog.cpp:124
-msgctxt "About KDE"
-msgid "&About"
-msgstr "&Iwwer"
-
-#: kdeui/dialogs/kaboutkdedialog.cpp:125
-msgid "&Report Bugs or Wishes"
-msgstr "&Käferen a Wënsch mellen"
-
-#: kdeui/dialogs/kaboutkdedialog.cpp:126
-msgid "&Join the KDE Team"
-msgstr "Gitt &Member am KDE-Team"
-
-#: kdeui/dialogs/kaboutkdedialog.cpp:127
-msgid "&Support KDE"
-msgstr "KDE ënner&stëtzen"
-
 #: kdeui/dialogs/kassistantdialog.cpp:83
 #, fuzzy
 msgctxt "Opposite to Back"
@@ -6076,64 +5948,6 @@ msgstr "Bildauschnëtt wielen"
 msgid "Please click and drag on the image to select the region of interest:"
 msgstr ""
 "Klickt an zitt w.e.g. iwwert d'Bild fir de gewënschte Beräich ze wielen:"
-
-#: kdeui/dialogs/kswitchlanguagedialog.cpp:88
-#, fuzzy
-#| msgid "sets the application name"
-msgid "Switch Application Language"
-msgstr "Bestëmmt den Numm vun der Uwendung"
-
-#: kdeui/dialogs/kswitchlanguagedialog.cpp:98
-msgid "Please choose language which should be used for this application:"
-msgstr ""
-
-#: kdeui/dialogs/kswitchlanguagedialog.cpp:126
-#, fuzzy
-#| msgid "Default language:"
-msgid "Add Fallback Language"
-msgstr "Standardsprooch:"
-
-#: kdeui/dialogs/kswitchlanguagedialog.cpp:127
-msgid ""
-"Adds one more language which will be used if other translations do not "
-"contain proper translation"
-msgstr ""
-
-#: kdeui/dialogs/kswitchlanguagedialog.cpp:222
-msgid ""
-"Language for this application has been changed. The change will take effect "
-"upon next start of application"
-msgstr ""
-
-#: kdeui/dialogs/kswitchlanguagedialog.cpp:223
-#, fuzzy
-#| msgid "Application sounds"
-msgid "Application language changed"
-msgstr "Kläng vun den Uwendungen"
-
-#: kdeui/dialogs/kswitchlanguagedialog.cpp:272
-#, fuzzy
-#| msgid "Default language:"
-msgid "Primary language:"
-msgstr "Standardsprooch:"
-
-#: kdeui/dialogs/kswitchlanguagedialog.cpp:272
-#, fuzzy
-#| msgid "Default language:"
-msgid "Fallback language:"
-msgstr "Standardsprooch:"
-
-#: kdeui/dialogs/kswitchlanguagedialog.cpp:303
-msgid ""
-"This is main application language which will be used first before any other "
-"languages"
-msgstr ""
-
-#: kdeui/dialogs/kswitchlanguagedialog.cpp:304
-msgid ""
-"This is language which will be used if any previous languages does not "
-"contain proper translation"
-msgstr ""
 
 #: kdeui/dialogs/kshortcutsdialog.cpp:312
 #, fuzzy
@@ -6247,7 +6061,7 @@ msgstr "Dëss Noricht net méi weisen"
 
 #: kdeui/dialogs/kmessagebox.cpp:1010
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:58
-#: kdeui/widgets/khelpmenu.cpp:253 kde3support/kdeui/k3aboutdialog.cpp:1045
+#: kdeui/widgets/khelpmenu.cpp:255 kde3support/kdeui/k3aboutdialog.cpp:1045
 #, qt-format
 msgid "About %1"
 msgstr "Iwwer %1"
@@ -6295,8 +6109,8 @@ msgstr ""
 msgid "Reset ToolBars"
 msgstr "Toolbaren zerécksetzen"
 
-#: kdeui/dialogs/kedittoolbar.cpp:477 khtml/khtmlview.cpp:2690
-#: khtml/khtmlview.cpp:2723 khtml/html/html_formimpl.cpp:2162
+#: kdeui/dialogs/kedittoolbar.cpp:477 khtml/khtmlview.cpp:2689
+#: khtml/khtmlview.cpp:2722 khtml/html/html_formimpl.cpp:2162
 msgid "Reset"
 msgstr "Zerécksetzen"
 
@@ -6625,6 +6439,193 @@ msgstr ""
 #: kdeui/dialogs/kbugreport.cpp:466
 msgid "Close Message"
 msgstr "Noricht zoumaachen"
+
+#: kdeui/dialogs/kaboutkdedialog_p.cpp:42
+#, fuzzy
+msgid "About KDE"
+msgstr "Iwwer &KDE"
+
+#: kdeui/dialogs/kaboutkdedialog_p.cpp:49
+#, qt-format
+msgid ""
+"<html><font size=\"5\">K Desktop Environment</font><br /><b>Version %1</b></"
+"html>"
+msgstr ""
+
+#: kdeui/dialogs/kaboutkdedialog_p.cpp:59
+#, fuzzy
+msgid ""
+"<html>The <b>K Desktop Environment</b> is written and maintained by the KDE "
+"Team, a world-wide network of software engineers committed to <a href="
+"\"http://www.gnu.org/philosophy/free-sw.html\">Free Software</a> development."
+"<br /><br />No single group, company or organization controls the KDE source "
+"code. Everyone is welcome to contribute to KDE.<br /><br />Visit <a href="
+"\"http://www.kde.org/\">http://www.kde.org</a> for more information on the "
+"KDE project.</html>"
+msgstr ""
+"De <b>K Desktop Environment</b> ass vum KDE-Team geschriwwen an ënnerhal, "
+"engem weltwäiten Netzwierk vu Software-Entwéckler déi sëch der Entwécklung "
+"vu <a href=\"http://www.gnu.org/philosophy/free-sw.html\">fräier Software</"
+"a> verschriwwen hun.<br><br>De Quellcode gëtt weder vun enger Firma "
+"kontrolléiert, nach vun enger Organisatioun. Jidfereen ass ageluede fir "
+"matzemaachen.<br><br>Gitt op <A HREF=\"http://www.kde.org/\">http://www.kde."
+"org</A> fir méi Informatiounen iwwert de KDE-Projekt. "
+
+#: kdeui/dialogs/kaboutkdedialog_p.cpp:74
+#, fuzzy
+msgid ""
+"<html>Software can always be improved, and the KDE Team is ready to do so. "
+"However, you - the user - must tell us when something does not work as "
+"expected or could be done better.<br /><br />The K Desktop Environment has a "
+"bug tracking system. Visit <a href=\"http://bugs.kde.org/\">http://bugs.kde."
+"org</a> or use the \"Report Bug...\" dialog from the \"Help\" menu to report "
+"bugs.<br /><br />If you have a suggestion for improvement then you are "
+"welcome to use the bug tracking system to register your wish. Make sure you "
+"use the severity called \"Wishlist\".</html>"
+msgstr ""
+"Software kann ëmmer verbessert ginn, an d'Team vu KDE ass prett fir dorunn "
+"ze schaffen. Trotzdem sidd dir - de Benotzer - wichtëg, fir eis besched ze "
+"soen, wann eppes net sou klappt wéi et soll.<br><br>Am KDE ass e System fir "
+"Problemer ze verfollëgen. Gitt op <A HREF=\"http://bugs.kde.org/\">http://"
+"bugs.kde.org</A> oder benotzt den \"E Käfer mellen\"-Dialog am \"Hëllef\"-"
+"Menu fir Käferen ze mellen.<br><br>Wann dir e Verbesserungsvirschlag hutt, "
+"kënnt dir de System fir d'Verfollëgung vu Feelere benotzen fir do äre Wonsch "
+"z'äusseren. Vergewëssert iech just, dass dir ënnert \"Gravitéit\" d'Auswiel "
+"\"Wonsch\" trefft."
+
+#: kdeui/dialogs/kaboutkdedialog_p.cpp:91
+#, fuzzy
+msgid ""
+"<html>You do not have to be a software developer to be a member of the KDE "
+"team. You can join the national teams that translate program interfaces. You "
+"can provide graphics, themes, sounds, and improved documentation. You decide!"
+"<br /><br />Visit <a href=\"http://www.kde.org/jobs/\">http://www.kde.org/"
+"jobs/</a> for information on some projects in which you can participate.<br /"
+"><br />If you need more information or documentation, then a visit to <a "
+"href=\"http://techbase.kde.org/\">http://techbase.kde.org</a> will provide "
+"you with what you need.</html>"
+msgstr ""
+"Dir musst kee Software-Entwéckler si fir Member vum KDE-Team ze ginn. An den "
+"nationale Gruppe kënnt dir bei der Iwwersetzung vu Programmuewerflächen "
+"hëllefen. Dir kënnt Grafiken, Themen, Kläng an eng verbessert Dokumentatioun "
+"bäidroen. Dir entsched!<br><br> Gitt op <A HREF=\"http://www.kde.org/jobs/"
+"\">http://www.kde.org/jobs/</A> fir Informatiounen iwwert Projekter ze "
+"kréien, an denen dir matschaffe kënnt.<br><br>Wann dir méi Informatiounen "
+"oder Dokumentatioune braucht, da gitt op <A HREF=\"http://developer.kde.org/"
+"\">http://developer.kde.org</A>. Do fannt dir, wat dir sicht."
+
+#: kdeui/dialogs/kaboutkdedialog_p.cpp:111
+#, fuzzy
+#| msgid ""
+#| "KDE is available free of charge, but making it is not free.<br><br>Thus, "
+#| "the KDE team formed the KDE e.V., a non-profit organization legally "
+#| "founded in Tuebingen, Germany. The KDE e.V. represents the KDE project in "
+#| "legal and financial matters. See <a href=\"http://www.kde-ev.org/"
+#| "\">http://www.kde-ev.org</a> for information on the KDE e.V.<br><br>The "
+#| "KDE team does need financial support. Most of the money is used to "
+#| "reimburse members and others on expenses they experienced when "
+#| "contributing to KDE. You are encouraged to support KDE through a "
+#| "financial donation, using one of the ways described at <a href=\"http://"
+#| "www.kde.org/support/\">http://www.kde.org/support/</a>.<br><br>Thank you "
+#| "very much in advance for your support."
+msgid ""
+"<html>KDE is available free of charge, but making it is not free.<br /><br /"
+">Thus, the KDE team formed the KDE e.V., a non-profit organization legally "
+"founded in Tuebingen, Germany. The KDE e.V. represents the KDE project in "
+"legal and financial matters. See <a href=\"http://www.kde-ev.org/\">http://"
+"www.kde-ev.org</a> for information on the KDE e.V.<br /><br />The KDE team "
+"does need financial support. Most of the money is used to reimburse members "
+"and others on expenses they experienced when contributing to KDE. You are "
+"encouraged to support KDE through a financial donation, using one of the "
+"ways described at <a href=\"http://www.kde.org/support/\">http://www.kde.org/"
+"support/</a>.<br /><br />Thank you very much in advance for your support.</"
+"html>"
+msgstr ""
+"KDE ass gratis fir seng Benotzer, mais net fir d'Auteuren.<br><br>Dofir huet "
+"d'Team vu KDE zu Tübingen d'KDE e.V. gegrënnt. KDE e.V. repräsentéiert de "
+"Projekt am juristëschen an am finanzielle Beräich. Gitt op <a href=\"http://"
+"www.kde-ev.org/\">http://www.kde-ev.org</a> fir iech iwwert de KDE e.V. "
+"z'informéieren.<br><br>D'KDE-Team brauch finanziell Ënnerstëtzung. Dee "
+"gréissten Deel vun de Suën gëtt fir d'Käschte vun de Membere gebraucht, déi "
+"wärend hirer Contributioun zu KDE entstane sinn. Hëlleft och dir w.e.g. mat "
+"engem klengen Don. Ënnert <a href=\"http://www.kde.org/support/\">http://www."
+"kde.org/support/</a>kritt dir gewise, wéi dat geet.<br><br>Villmols Merci "
+"fir är Ënnerstëtzung."
+
+#: kdeui/dialogs/kaboutkdedialog_p.cpp:127
+msgctxt "About KDE"
+msgid "&About"
+msgstr "&Iwwer"
+
+#: kdeui/dialogs/kaboutkdedialog_p.cpp:128
+msgid "&Report Bugs or Wishes"
+msgstr "&Käferen a Wënsch mellen"
+
+#: kdeui/dialogs/kaboutkdedialog_p.cpp:129
+msgid "&Join the KDE Team"
+msgstr "Gitt &Member am KDE-Team"
+
+#: kdeui/dialogs/kaboutkdedialog_p.cpp:130
+msgid "&Support KDE"
+msgstr "KDE ënner&stëtzen"
+
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:90
+#, fuzzy
+#| msgid "sets the application name"
+msgid "Switch Application Language"
+msgstr "Bestëmmt den Numm vun der Uwendung"
+
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:100
+msgid "Please choose language which should be used for this application:"
+msgstr ""
+
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:128
+#, fuzzy
+#| msgid "Default language:"
+msgid "Add Fallback Language"
+msgstr "Standardsprooch:"
+
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:129
+msgid ""
+"Adds one more language which will be used if other translations do not "
+"contain proper translation"
+msgstr ""
+
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:224
+msgid ""
+"Language for this application has been changed. The change will take effect "
+"upon next start of application"
+msgstr ""
+
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:225
+#, fuzzy
+#| msgid "Application sounds"
+msgid "Application language changed"
+msgstr "Kläng vun den Uwendungen"
+
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:274
+#, fuzzy
+#| msgid "Default language:"
+msgid "Primary language:"
+msgstr "Standardsprooch:"
+
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:274
+#, fuzzy
+#| msgid "Default language:"
+msgid "Fallback language:"
+msgstr "Standardsprooch:"
+
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:305
+msgid ""
+"This is main application language which will be used first before any other "
+"languages"
+msgstr ""
+
+#: kdeui/dialogs/kswitchlanguagedialog_p.cpp:306
+msgid ""
+"This is language which will be used if any previous languages does not "
+"contain proper translation"
+msgstr ""
 
 #: kdeui/dialogs/kpassworddialog.cpp:68
 #, fuzzy
@@ -9204,30 +9205,30 @@ msgstr "Der &Auer no dréien"
 msgid "Rotate &Counterclockwise"
 msgstr "&Géint d'Auer dréien"
 
-#: kdeui/widgets/khelpmenu.cpp:151 kdeui/actions/kstandardaction_p.h:109
+#: kdeui/widgets/khelpmenu.cpp:153 kdeui/actions/kstandardaction_p.h:109
 #, qt-format
 msgid "%1 &Handbook"
 msgstr "%1-&Handbuch"
 
-#: kdeui/widgets/khelpmenu.cpp:157
+#: kdeui/widgets/khelpmenu.cpp:159
 msgid "What's &This"
 msgstr "Wat ass &dat"
 
-#: kdeui/widgets/khelpmenu.cpp:165 kdeui/actions/kstandardaction_p.h:112
+#: kdeui/widgets/khelpmenu.cpp:167 kdeui/actions/kstandardaction_p.h:112
 msgid "&Report Bug..."
 msgstr "E Käfer &mellen..."
 
-#: kdeui/widgets/khelpmenu.cpp:173 kdeui/actions/kstandardaction_p.h:113
+#: kdeui/widgets/khelpmenu.cpp:175 kdeui/actions/kstandardaction_p.h:113
 #, fuzzy
 msgid "Switch Application &Language..."
 msgstr "Programm zoumaachen"
 
-#: kdeui/widgets/khelpmenu.cpp:183 kdeui/actions/kstandardaction_p.h:114
+#: kdeui/widgets/khelpmenu.cpp:185 kdeui/actions/kstandardaction_p.h:114
 #, qt-format
 msgid "&About %1"
 msgstr "&Iwwer %1"
 
-#: kdeui/widgets/khelpmenu.cpp:188 kdeui/actions/kstandardaction_p.h:115
+#: kdeui/widgets/khelpmenu.cpp:190 kdeui/actions/kstandardaction_p.h:115
 msgid "About &KDE"
 msgstr "Iwwer &KDE"
 
@@ -9367,7 +9368,7 @@ msgstr "All Optioune weisen"
 msgid "&Remove '%1'"
 msgstr "&Ewechmaachen"
 
-#: kfile/kfilefiltercombo.cpp:33 kfile/kfilewidget.cpp:1417
+#: kfile/kfilefiltercombo.cpp:33 kfile/kfilewidget.cpp:1440
 #, fuzzy
 #| msgid "Files"
 msgid "*|All Files"
@@ -9379,41 +9380,41 @@ msgstr "Dateien"
 msgid "All Supported Files"
 msgstr "Dateie &verschécken"
 
-#: kfile/kfilewidget.cpp:182
+#: kfile/kfilewidget.cpp:205
 msgid ""
 "<qt>While typing in the text area, you may be presented with possible "
 "matches. This feature can be controlled by clicking with the right mouse "
 "button and selecting a preferred mode from the <b>Text Completion</b> menu."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:223
+#: kfile/kfilewidget.cpp:246
 #, fuzzy, qt-format
 #| msgid "Hide %1"
 msgid "Drive: %1"
 msgstr "%1 net weisen"
 
-#: kfile/kfilewidget.cpp:230
+#: kfile/kfilewidget.cpp:253
 #, qt-format
 msgid "Root Folder: %1"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:237
+#: kfile/kfilewidget.cpp:260
 #, qt-format
 msgid "Home Folder: %1"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:246
+#: kfile/kfilewidget.cpp:269
 #, fuzzy, qt-format
 msgid "Documents: %1"
 msgstr "Lautstäerkt erop"
 
-#: kfile/kfilewidget.cpp:253
+#: kfile/kfilewidget.cpp:276
 #, fuzzy, qt-format
 #| msgid "Desktop %1"
 msgid "Desktop: %1"
 msgstr "Büro %1"
 
-#: kfile/kfilewidget.cpp:302
+#: kfile/kfilewidget.cpp:325
 #, qt-format
 msgid ""
 "<qt>Click this button to enter the parent folder.<br /><br />For instance, "
@@ -9421,35 +9422,35 @@ msgid ""
 "to file:/home.</qt>"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:307
+#: kfile/kfilewidget.cpp:330
 msgid "Click this button to move backwards one step in the browsing history."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:309
+#: kfile/kfilewidget.cpp:332
 msgid "Click this button to move forward one step in the browsing history."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:312
+#: kfile/kfilewidget.cpp:335
 msgid "Click this button to reload the contents of the current location."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:315
+#: kfile/kfilewidget.cpp:338
 msgid "Click this button to create a new folder."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:318
+#: kfile/kfilewidget.cpp:341
 #, fuzzy
 #| msgid "Show license information"
 msgid "Show Places Navigation Panel"
 msgstr "Lizenzinformatiounen uweisen"
 
-#: kfile/kfilewidget.cpp:325
+#: kfile/kfilewidget.cpp:348
 #, fuzzy
 #| msgid "Bookmarks"
 msgid "Show Bookmarks"
 msgstr "Lieszeechen"
 
-#: kfile/kfilewidget.cpp:332
+#: kfile/kfilewidget.cpp:355
 msgid ""
 "<qt>This is the preferences menu for the file dialog. Various options can be "
 "accessed from this menu including: <ul><li>how files are sorted in the list</"
@@ -9458,12 +9459,12 @@ msgid ""
 "li><li>separating folders from files</li></ul></qt>"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:376 kfile/kfileplaceeditdialog.cpp:116
+#: kfile/kfilewidget.cpp:399 kfile/kfileplaceeditdialog.cpp:116
 #, fuzzy
 msgid "&Location:"
 msgstr "Configuratioun"
 
-#: kfile/kfilewidget.cpp:400
+#: kfile/kfilewidget.cpp:423
 msgid ""
 "<qt>This is the filter to apply to the file list. File names that do not "
 "match the filter will not be shown.<p>You may select from one of the preset "
@@ -9471,72 +9472,72 @@ msgid ""
 "into the text area.</p><p>Wildcards such as * and ? are allowed.</p></qt>"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:406
+#: kfile/kfilewidget.cpp:429
 #, fuzzy
 #| msgid "Filter:"
 msgid "&Filter:"
 msgstr "Filter:"
 
-#: kfile/kfilewidget.cpp:568
+#: kfile/kfilewidget.cpp:591
 msgid "Please specify the filename to save to."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:570
+#: kfile/kfilewidget.cpp:593
 #, fuzzy
 #| msgid "Please select type of the new resource:"
 msgid "Please select the file to open."
 msgstr "Wielt w.e.g. den Typ vum neie Modul:"
 
-#: kfile/kfilewidget.cpp:629 kfile/kfilewidget.cpp:672
-#: kfile/kfilewidget.cpp:1349
+#: kfile/kfilewidget.cpp:652 kfile/kfilewidget.cpp:695
+#: kfile/kfilewidget.cpp:1372
 msgid "You can only select local files."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:630 kfile/kfilewidget.cpp:673
-#: kfile/kfilewidget.cpp:1350
+#: kfile/kfilewidget.cpp:653 kfile/kfilewidget.cpp:696
+#: kfile/kfilewidget.cpp:1373
 msgid "Remote Files Not Accepted"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:664
+#: kfile/kfilewidget.cpp:687
 #, qt-format
 msgid ""
 "%1\n"
 "does not appear to be a valid URL.\n"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:664
+#: kfile/kfilewidget.cpp:687
 #, fuzzy
 #| msgid "InvalidCA"
 msgid "Invalid URL"
 msgstr "InvalidCA"
 
-#: kfile/kfilewidget.cpp:988
+#: kfile/kfilewidget.cpp:1011
 msgid "This is the name to save the file as."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:993
+#: kfile/kfilewidget.cpp:1016
 msgid ""
 "This is the list of files to open. More than one file can be specified by "
 "listing several files, separated by spaces."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1000
+#: kfile/kfilewidget.cpp:1023
 msgid "This is the name of the file to open."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1281
+#: kfile/kfilewidget.cpp:1304
 msgid ""
 "The chosen filenames do not\n"
 "appear to be valid."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1283
+#: kfile/kfilewidget.cpp:1306
 #, fuzzy
 #| msgid "invalid flags"
 msgid "Invalid Filenames"
 msgstr "Ongülteg Werter"
 
-#: kfile/kfilewidget.cpp:1312
+#: kfile/kfilewidget.cpp:1335
 #, qt-format
 msgid ""
 "The requested filenames\n"
@@ -9545,39 +9546,39 @@ msgid ""
 "make sure every filename is enclosed in double quotes."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1316
+#: kfile/kfilewidget.cpp:1339
 #, fuzzy
 #| msgid "File Error"
 msgid "Filename Error"
 msgstr "Dateifeler"
 
-#: kfile/kfilewidget.cpp:1414
+#: kfile/kfilewidget.cpp:1437
 msgid "*|All Folders"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1556 kparts/browserrun.cpp:373
+#: kfile/kfilewidget.cpp:1579 kparts/browserrun.cpp:373
 msgid "&Open"
 msgstr "&Opmaachen"
 
-#: kfile/kfilewidget.cpp:1699
+#: kfile/kfilewidget.cpp:1722
 #, qt-format
 msgid "Automatically select filename e&xtension (%1)"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1700
+#: kfile/kfilewidget.cpp:1723
 #, qt-format
 msgid "the extension <b>%1</b>"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1708
+#: kfile/kfilewidget.cpp:1731
 msgid "Automatically select filename e&xtension"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1709
+#: kfile/kfilewidget.cpp:1732
 msgid "a suitable extension"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1719
+#: kfile/kfilewidget.cpp:1742
 #, qt-format
 msgid ""
 "This option enables some convenient features for saving files with "
@@ -9593,11 +9594,11 @@ msgid ""
 "enabled as it makes your files more manageable."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1987
+#: kfile/kfilewidget.cpp:2010
 msgid "Bookmarks"
 msgstr "Lieszeechen"
 
-#: kfile/kfilewidget.cpp:1991
+#: kfile/kfilewidget.cpp:2014
 msgid ""
 "<qt>This button allows you to bookmark specific locations. Click on this "
 "button to open the bookmark menu where you may add, edit or select a "
@@ -9666,23 +9667,23 @@ msgid "Custom Path"
 msgstr "Benotzerdefinéiert"
 
 #: kfile/kdirselectdialog.cpp:115 kfile/kdirselectdialog.cpp:119
-#: kfile/kdiroperator.cpp:643 kfile/kdiroperator.cpp:651
+#: kfile/kdiroperator.cpp:661 kfile/kdiroperator.cpp:669
 msgid "New Folder"
 msgstr ""
 
-#: kfile/kdirselectdialog.cpp:120 kfile/kdiroperator.cpp:652
+#: kfile/kdirselectdialog.cpp:120 kfile/kdiroperator.cpp:670
 #, qt-format
 msgid ""
 "Create new folder in:\n"
 "%1"
 msgstr ""
 
-#: kfile/kdirselectdialog.cpp:143 kfile/kdiroperator.cpp:678
+#: kfile/kdirselectdialog.cpp:143 kfile/kdiroperator.cpp:696
 #, qt-format
 msgid "A file or folder named %1 already exists."
 msgstr ""
 
-#: kfile/kdirselectdialog.cpp:147 kfile/kdiroperator.cpp:681
+#: kfile/kdirselectdialog.cpp:147 kfile/kdiroperator.cpp:699
 msgid "You do not have permission to create that folder."
 msgstr ""
 
@@ -9693,7 +9694,7 @@ msgid "Select Folder"
 msgstr "Faarf auswielen"
 
 #: kfile/kdirselectdialog.cpp:225 kfile/kdirselectdialog.cpp:263
-#: kfile/kdiroperator.cpp:1499
+#: kfile/kdiroperator.cpp:1517
 msgid "New Folder..."
 msgstr ""
 
@@ -9753,16 +9754,16 @@ msgid ""
 "entry will be available in all applications.</qt>"
 msgstr ""
 
-#: kfile/kdiroperator.cpp:696
+#: kfile/kdiroperator.cpp:714
 msgid "You did not select a file to delete."
 msgstr ""
 
-#: kfile/kdiroperator.cpp:697
+#: kfile/kdiroperator.cpp:715
 #, fuzzy
 msgid "Nothing to Delete"
 msgstr "Kee Provider gewielt."
 
-#: kfile/kdiroperator.cpp:718
+#: kfile/kdiroperator.cpp:736
 #, fuzzy, qt-format
 #| msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgid ""
@@ -9770,13 +9771,13 @@ msgid ""
 " <b>'%1'</b>?</qt>"
 msgstr "<qt>Sidd dir sëcher, dass dir <b>%1</b> zoumaache wëllt ?</qt>"
 
-#: kfile/kdiroperator.cpp:720
+#: kfile/kdiroperator.cpp:738
 #, fuzzy
 #| msgid "Delete All"
 msgid "Delete File"
 msgstr "Alles Läschen"
 
-#: kfile/kdiroperator.cpp:725
+#: kfile/kdiroperator.cpp:743
 #, fuzzy, qt-format
 #| msgid "Do you really want to execute '%1'? "
 msgid "Do you really want to delete this item?"
@@ -9784,21 +9785,21 @@ msgid_plural "Do you really want to delete these %1 items?"
 msgstr[0] "Wëllt dir '%1' wiirklech lafe loossen? "
 msgstr[1] "Wëllt dir '%1' wiirklech lafe loossen? "
 
-#: kfile/kdiroperator.cpp:727
+#: kfile/kdiroperator.cpp:745
 #, fuzzy
 #| msgid "Delete item(s)"
 msgid "Delete Files"
 msgstr "Element(er) läschen"
 
-#: kfile/kdiroperator.cpp:757
+#: kfile/kdiroperator.cpp:775
 msgid "You did not select a file to trash."
 msgstr ""
 
-#: kfile/kdiroperator.cpp:758
+#: kfile/kdiroperator.cpp:776
 msgid "Nothing to Trash"
 msgstr ""
 
-#: kfile/kdiroperator.cpp:775
+#: kfile/kdiroperator.cpp:793
 #, fuzzy, qt-format
 #| msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgid ""
@@ -9806,117 +9807,117 @@ msgid ""
 " <b>'%1'</b>?</qt>"
 msgstr "<qt>Sidd dir sëcher, dass dir <b>%1</b> zoumaache wëllt ?</qt>"
 
-#: kfile/kdiroperator.cpp:777
+#: kfile/kdiroperator.cpp:795
 #, fuzzy
 #| msgid "Trash"
 msgid "Trash File"
 msgstr "Dreckskëscht"
 
-#: kfile/kdiroperator.cpp:778 kfile/kdiroperator.cpp:785
+#: kfile/kdiroperator.cpp:796 kfile/kdiroperator.cpp:803
 #, fuzzy
 #| msgid "Trash"
 msgctxt "to trash"
 msgid "&Trash"
 msgstr "Dreckskëscht"
 
-#: kfile/kdiroperator.cpp:782
+#: kfile/kdiroperator.cpp:800
 #, qt-format
 msgid "translators: not called for n == 1"
 msgid_plural "Do you really want to trash these %1 items?"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kfile/kdiroperator.cpp:784
+#: kfile/kdiroperator.cpp:802
 #, fuzzy
 #| msgid "Files"
 msgid "Trash Files"
 msgstr "Dateien"
 
-#: kfile/kdiroperator.cpp:906 kfile/kdiroperator.cpp:1019
+#: kfile/kdiroperator.cpp:924 kfile/kdiroperator.cpp:1037
 msgid "The specified folder does not exist or was not readable."
 msgstr ""
 
-#: kfile/kdiroperator.cpp:1482
+#: kfile/kdiroperator.cpp:1500
 #, fuzzy
 #| msgctxt "QAccel"
 #| msgid "Menu"
 msgid "Menu"
 msgstr "Menü"
 
-#: kfile/kdiroperator.cpp:1486
+#: kfile/kdiroperator.cpp:1504
 #, fuzzy
 #| msgid "Print header"
 msgid "Parent Folder"
 msgstr "Header drécken"
 
-#: kfile/kdiroperator.cpp:1493
+#: kfile/kdiroperator.cpp:1511
 #, fuzzy
 #| msgid "Home Phone"
 msgid "Home Folder"
 msgstr "Tëlefon (Doheem)"
 
-#: kfile/kdiroperator.cpp:1496
+#: kfile/kdiroperator.cpp:1514
 msgid "Reload"
 msgstr "Nach eng Kéier lueden"
 
-#: kfile/kdiroperator.cpp:1504
+#: kfile/kdiroperator.cpp:1522
 msgid "Move to Trash"
 msgstr ""
 
-#: kfile/kdiroperator.cpp:1510
+#: kfile/kdiroperator.cpp:1528
 msgid "Delete"
 msgstr "Läschen"
 
-#: kfile/kdiroperator.cpp:1517
+#: kfile/kdiroperator.cpp:1535
 #, fuzzy
 #| msgid "Sort String"
 msgid "Sorting"
 msgstr "Sortéierungsschlëssel"
 
-#: kfile/kdiroperator.cpp:1520
+#: kfile/kdiroperator.cpp:1538
 #, fuzzy
 #| msgid "Name"
 msgid "By Name"
 msgstr "Numm"
 
-#: kfile/kdiroperator.cpp:1524
+#: kfile/kdiroperator.cpp:1542
 #, fuzzy
 #| msgid "Size"
 msgid "By Size"
 msgstr "Gréisst"
 
-#: kfile/kdiroperator.cpp:1528
+#: kfile/kdiroperator.cpp:1546
 #, fuzzy
 #| msgid "Dates"
 msgid "By Date"
 msgstr "Datum"
 
-#: kfile/kdiroperator.cpp:1532
+#: kfile/kdiroperator.cpp:1550
 #, fuzzy
 #| msgid "Type"
 msgid "By Type"
 msgstr "Typ"
 
-#: kfile/kdiroperator.cpp:1536
+#: kfile/kdiroperator.cpp:1554
 msgid "Descending"
 msgstr ""
 
-#: kfile/kdiroperator.cpp:1546
+#: kfile/kdiroperator.cpp:1564
 msgid "Short View"
 msgstr ""
 
-#: kfile/kdiroperator.cpp:1551
+#: kfile/kdiroperator.cpp:1569
 #, fuzzy
 #| msgid "Details"
 msgid "Detailed View"
 msgstr "Detailer"
 
-#: kfile/kdiroperator.cpp:1560
+#: kfile/kdiroperator.cpp:1578
 #, fuzzy
 msgid "Show Hidden Files"
 msgstr "Hëllef weisen"
 
-#: kfile/kdiroperator.cpp:1564
+#: kfile/kdiroperator.cpp:1582
 msgid "Show Preview"
 msgstr ""
 
@@ -9958,8 +9959,8 @@ msgstr "Test"
 msgid "a basic web browser using the KHTML library"
 msgstr ""
 
-#: khtml/khtml_run.cpp:86 khtml/khtml_part.cpp:3922 khtml/khtml_part.cpp:4135
-#: khtml/khtml_part.cpp:4458 kparts/browserrun.cpp:432
+#: khtml/khtml_run.cpp:86 khtml/khtml_part.cpp:3921 khtml/khtml_part.cpp:4134
+#: khtml/khtml_part.cpp:4457 kparts/browserrun.cpp:432
 msgid "Save As"
 msgstr "Späicheren als"
 
@@ -10088,15 +10089,15 @@ msgstr "An engem neien &Tab opmaachen"
 msgid "Reload Frame"
 msgstr "Frame nei lueden"
 
-#: khtml/khtml_ext.cpp:590 khtml/khtml_part.cpp:394
+#: khtml/khtml_ext.cpp:590 khtml/khtml_part.cpp:393
 msgid "Print Frame..."
 msgstr "Frame drécken..."
 
-#: khtml/khtml_ext.cpp:596 khtml/khtml_part.cpp:280
+#: khtml/khtml_ext.cpp:596 khtml/khtml_part.cpp:279
 msgid "Save &Frame As..."
 msgstr "&Frame späicheren als..."
 
-#: khtml/khtml_ext.cpp:601 khtml/khtml_part.cpp:262
+#: khtml/khtml_ext.cpp:601 khtml/khtml_part.cpp:261
 msgid "View Frame Source"
 msgstr "Quell vum Frame kucken"
 
@@ -10263,43 +10264,43 @@ msgstr "Biller drécken"
 msgid "Print header"
 msgstr "Header drécken"
 
-#: khtml/khtml_part.cpp:257
+#: khtml/khtml_part.cpp:256
 msgid "View Do&cument Source"
 msgstr "&Quelltext kucken"
 
-#: khtml/khtml_part.cpp:266
+#: khtml/khtml_part.cpp:265
 msgid "View Document Information"
 msgstr "Dokument-Informatioun kucken"
 
-#: khtml/khtml_part.cpp:271
+#: khtml/khtml_part.cpp:270
 msgid "Save &Background Image As..."
 msgstr "Bild am &Hannergrond späicheren als..."
 
-#: khtml/khtml_part.cpp:284
+#: khtml/khtml_part.cpp:283
 msgid "Print Rendering Tree to STDOUT"
 msgstr "Rendering-Bau op STDOUT drécken"
 
-#: khtml/khtml_part.cpp:288
+#: khtml/khtml_part.cpp:287
 msgid "Print DOM Tree to STDOUT"
 msgstr "DOM-Bam op STDOUT drécken"
 
-#: khtml/khtml_part.cpp:292
+#: khtml/khtml_part.cpp:291
 msgid "Stop Animated Images"
 msgstr "Animéiert Biller unhalen"
 
-#: khtml/khtml_part.cpp:296
+#: khtml/khtml_part.cpp:295
 msgid "Set &Encoding"
 msgstr "&Verschlësselung festléen"
 
-#: khtml/khtml_part.cpp:335
+#: khtml/khtml_part.cpp:334
 msgid "Use S&tylesheet"
 msgstr "S&til-Virlag benotzen"
 
-#: khtml/khtml_part.cpp:340
+#: khtml/khtml_part.cpp:339
 msgid "Enlarge Font"
 msgstr "Schrëft vergréisseren"
 
-#: khtml/khtml_part.cpp:344
+#: khtml/khtml_part.cpp:343
 #, fuzzy
 #| msgid ""
 #| "Enlarge Font<p>Make the font in this window bigger. Click and hold down "
@@ -10312,11 +10313,11 @@ msgstr ""
 "Klickt op d'Maustast an haalt se un, fir e Menü mat all de méigleche "
 "Schrëftgréissten ze gesin."
 
-#: khtml/khtml_part.cpp:348
+#: khtml/khtml_part.cpp:347
 msgid "Shrink Font"
 msgstr "Schrëft verklengeren"
 
-#: khtml/khtml_part.cpp:352
+#: khtml/khtml_part.cpp:351
 #, fuzzy
 #| msgid ""
 #| "Shrink Font<p>Make the font in this window smaller. Click and hold down "
@@ -10329,7 +10330,7 @@ msgstr ""
 "op d'Maustast an haalt se un, fir e Menü mat all de méigleche "
 "Schrëftgréissten ze gesin."
 
-#: khtml/khtml_part.cpp:358
+#: khtml/khtml_part.cpp:357
 #, fuzzy
 #| msgid ""
 #| "Find text<p>Shows a dialog that allows you to find text on the displayed "
@@ -10341,7 +10342,7 @@ msgstr ""
 "Text sichen<p>Mëcht ën Dialog op, fir op der ugewisener Säit no Text ze "
 "sichen."
 
-#: khtml/khtml_part.cpp:362
+#: khtml/khtml_part.cpp:361
 #, fuzzy
 #| msgid ""
 #| "Find next<p>Find the next occurrence of the text that you have found "
@@ -10353,7 +10354,7 @@ msgstr ""
 "Weidersichen<p>Sicht nom nächsten Optriede vum Text, deen dir mat der "
 "Funktioun <b>Text sichen</b> fonnt hutt"
 
-#: khtml/khtml_part.cpp:368
+#: khtml/khtml_part.cpp:367
 #, fuzzy
 #| msgid ""
 #| "Find previous<p>Find the previous occurrence of the text that you have "
@@ -10365,15 +10366,15 @@ msgstr ""
 "Virdru sichen<p>Sicht weider vir no engem Optriede vum Text, deen dir mat "
 "der Funktioun <b>Text sichen</b> fonnt hutt"
 
-#: khtml/khtml_part.cpp:372
+#: khtml/khtml_part.cpp:371
 msgid "Find Text as You Type"
 msgstr "Text beim antippen ergänzen"
 
-#: khtml/khtml_part.cpp:377
+#: khtml/khtml_part.cpp:376
 msgid "Find Links as You Type"
 msgstr "Linke beim antippen ergänzen"
 
-#: khtml/khtml_part.cpp:398
+#: khtml/khtml_part.cpp:397
 #, fuzzy
 #| msgid ""
 #| "Print Frame<p>Some pages have several frames. To print only a single "
@@ -10385,154 +10386,154 @@ msgstr ""
 "Frame drécken<p>Verschidde Säiten hu méi wéi ee Frame. Fir just een eenzege "
 "Frame ze drécken, wielt ën aus a klickt dann op dës Funktioun."
 
-#: khtml/khtml_part.cpp:407
+#: khtml/khtml_part.cpp:406
 msgid "Toggle Caret Mode"
 msgstr "Caret-Modus un/aus"
 
-#: khtml/khtml_part.cpp:612
+#: khtml/khtml_part.cpp:611
 #, qt-format
 msgid "The fake user-agent '%1' is in use."
 msgstr "Dee geschmuggelte User-Agent '%1' gëtt benotzt."
 
-#: khtml/khtml_part.cpp:1098
+#: khtml/khtml_part.cpp:1097
 msgid "This web page contains coding errors."
 msgstr "Dës Websäit huet Kodéierungsfeler."
 
-#: khtml/khtml_part.cpp:1140
+#: khtml/khtml_part.cpp:1139
 msgid "&Hide Errors"
 msgstr "Feeler &verstoppen"
 
-#: khtml/khtml_part.cpp:1141
+#: khtml/khtml_part.cpp:1140
 msgid "&Disable Error Reporting"
 msgstr "Feelerberichter &deaktivéieren"
 
-#: khtml/khtml_part.cpp:1184
+#: khtml/khtml_part.cpp:1183
 #, qt-format
 msgid "<b>Error</b>: %1: %2"
 msgstr "<b>Feeler</b>: %1: %2"
 
-#: khtml/khtml_part.cpp:1231
+#: khtml/khtml_part.cpp:1230
 #, qt-format
 msgid "<b>Error</b>: node %1: %2"
 msgstr "<b>Feeler</b>: Node %1: %2"
 
-#: khtml/khtml_part.cpp:1374
+#: khtml/khtml_part.cpp:1373
 msgid "Display Images on Page"
 msgstr "D'Biller op dëser Säit weisen"
 
-#: khtml/khtml_part.cpp:1709
+#: khtml/khtml_part.cpp:1708
 #, qt-format
 msgid "Error while loading %1"
 msgstr "Feeler beim Luede vun %1"
 
-#: khtml/khtml_part.cpp:1711
+#: khtml/khtml_part.cpp:1710
 #, qt-format
 msgid "An error occurred while loading <B>%1</B>:"
 msgstr "E Feeler ass beim Luede vun <B>%1</B> opgetrueden:"
 
-#: khtml/khtml_part.cpp:1746
+#: khtml/khtml_part.cpp:1745
 msgid "Error: "
 msgstr "Feeler: "
 
-#: khtml/khtml_part.cpp:1749
+#: khtml/khtml_part.cpp:1748
 msgid "The requested operation could not be completed"
 msgstr "Déi gewënschten Operatioun konnt net duerchgefouert ginn"
 
-#: khtml/khtml_part.cpp:1755
+#: khtml/khtml_part.cpp:1754
 msgid "Technical Reason: "
 msgstr "Technësche Grond: "
 
-#: khtml/khtml_part.cpp:1760
+#: khtml/khtml_part.cpp:1759
 msgid "Details of the Request:"
 msgstr "Detailer vun der Ufro:"
 
-#: khtml/khtml_part.cpp:1762
+#: khtml/khtml_part.cpp:1761
 #, qt-format
 msgid "URL: %1"
 msgstr "URL: %1"
 
-#: khtml/khtml_part.cpp:1769
+#: khtml/khtml_part.cpp:1768
 #, qt-format
 msgid "Date and Time: %1"
 msgstr "Datum an Zäit: %1"
 
-#: khtml/khtml_part.cpp:1771
+#: khtml/khtml_part.cpp:1770
 #, qt-format
 msgid "Additional Information: %1"
 msgstr "Zousätzlech Informatioun: %1"
 
-#: khtml/khtml_part.cpp:1773
+#: khtml/khtml_part.cpp:1772
 msgid "Description:"
 msgstr "Beschreiwung:"
 
-#: khtml/khtml_part.cpp:1779
+#: khtml/khtml_part.cpp:1778
 msgid "Possible Causes:"
 msgstr "Méiglech Grënn:"
 
-#: khtml/khtml_part.cpp:1786
+#: khtml/khtml_part.cpp:1785
 msgid "Possible Solutions:"
 msgstr "Méiglech Léisungen:"
 
-#: khtml/khtml_part.cpp:2127
+#: khtml/khtml_part.cpp:2126
 msgid "Page loaded."
 msgstr "Säit gelueden."
 
-#: khtml/khtml_part.cpp:2129
+#: khtml/khtml_part.cpp:2128
 #, qt-format
 msgid "%1 Image of %2 loaded."
 msgid_plural "%1 Images of %2 loaded."
 msgstr[0] "%1 Bild vun %2 gelueden."
 msgstr[1] "%1 Biller vun %2 gelueden."
 
-#: khtml/khtml_part.cpp:2290
+#: khtml/khtml_part.cpp:2289
 msgid "Automatic Detection"
 msgstr "Automatësch Detektioun"
 
-#: khtml/khtml_part.cpp:3730 khtml/khtml_part.cpp:3817
-#: khtml/khtml_part.cpp:3828
+#: khtml/khtml_part.cpp:3729 khtml/khtml_part.cpp:3816
+#: khtml/khtml_part.cpp:3827
 msgid " (In new window)"
 msgstr " (an enger neier Fënster)"
 
-#: khtml/khtml_part.cpp:3769
+#: khtml/khtml_part.cpp:3768
 msgid "Symbolic Link"
 msgstr "Symbolësche Link"
 
-#: khtml/khtml_part.cpp:3771
+#: khtml/khtml_part.cpp:3770
 #, qt-format
 msgid "%1 (Link)"
 msgstr "%1 (Link)"
 
-#: khtml/khtml_part.cpp:3791
+#: khtml/khtml_part.cpp:3790
 #, qt-format
 msgid "%2 (%1 bytes)"
 msgstr "%2 (%1 byte)"
 
-#: khtml/khtml_part.cpp:3795
+#: khtml/khtml_part.cpp:3794
 #, qt-format
 msgid "%2 (%1 K)"
 msgstr "%2 (%1 K)"
 
-#: khtml/khtml_part.cpp:3830
+#: khtml/khtml_part.cpp:3829
 msgid " (In other frame)"
 msgstr " (an engem anere Frame)"
 
-#: khtml/khtml_part.cpp:3835
+#: khtml/khtml_part.cpp:3834
 msgid "Email to: "
 msgstr "E-Mail un: "
 
-#: khtml/khtml_part.cpp:3841
+#: khtml/khtml_part.cpp:3840
 msgid " - Subject: "
 msgstr " - Betreff: "
 
-#: khtml/khtml_part.cpp:3843
+#: khtml/khtml_part.cpp:3842
 msgid " - CC: "
 msgstr " - CC: "
 
-#: khtml/khtml_part.cpp:3845
+#: khtml/khtml_part.cpp:3844
 msgid " - BCC: "
 msgstr " - BCC: "
 
-#: khtml/khtml_part.cpp:3927
+#: khtml/khtml_part.cpp:3926
 #, fuzzy, qt-format
 #| msgid ""
 #| "<qt>This untrusted page links to<BR><B>%1</B>.<BR>Do you want to follow "
@@ -10544,36 +10545,36 @@ msgstr ""
 "<qt>Dëss Säit ass als \"net sëcher\" agestuft ginn an enthält de Link <BR><B>"
 "%1</B>.</BR>Wëllt dir déi Adress opruffen?"
 
-#: khtml/khtml_part.cpp:3928
+#: khtml/khtml_part.cpp:3927
 msgid "Follow"
 msgstr "Opruffen"
 
-#: khtml/khtml_part.cpp:4034
+#: khtml/khtml_part.cpp:4033
 msgid "Frame Information"
 msgstr "Informatioun iwwert de Frame"
 
-#: khtml/khtml_part.cpp:4040
+#: khtml/khtml_part.cpp:4039
 #, qt-format
 msgid "   <a href=\"%1\">[Properties]</a>"
 msgstr "   <a href=\"%1\">[Eegeschaften]</a>"
 
-#: khtml/khtml_part.cpp:4123
+#: khtml/khtml_part.cpp:4122
 msgid "Save Background Image As"
 msgstr "Bild am Hannergrond späicheren als"
 
-#: khtml/khtml_part.cpp:4207
+#: khtml/khtml_part.cpp:4206
 msgid "Save Frame As"
 msgstr "Frame späicheren als"
 
-#: khtml/khtml_part.cpp:4249
+#: khtml/khtml_part.cpp:4248
 msgid "&Find in Frame..."
 msgstr "Am Frame &sichen..."
 
-#: khtml/khtml_part.cpp:4251 kdeui/actions/kstandardaction_p.h:64
+#: khtml/khtml_part.cpp:4250 kdeui/actions/kstandardaction_p.h:64
 msgid "&Find..."
 msgstr "&Sichen..."
 
-#: khtml/khtml_part.cpp:4756
+#: khtml/khtml_part.cpp:4755
 msgid ""
 "Warning:  This is a secure form but it is attempting to send your data back "
 "unencrypted.\n"
@@ -10585,16 +10586,16 @@ msgstr ""
 "Een Drëtte kéint dëss Informatioun offänken a kucken.\n"
 "Wëllt dir sëcher weiderfueren?"
 
-#: khtml/khtml_part.cpp:4759 khtml/khtml_part.cpp:4768
-#: khtml/khtml_part.cpp:4792
+#: khtml/khtml_part.cpp:4758 khtml/khtml_part.cpp:4767
+#: khtml/khtml_part.cpp:4791
 msgid "Network Transmission"
 msgstr "Netzwierk-Transmissioun"
 
-#: khtml/khtml_part.cpp:4759 khtml/khtml_part.cpp:4769
+#: khtml/khtml_part.cpp:4758 khtml/khtml_part.cpp:4768
 msgid "&Send Unencrypted"
 msgstr "Onverschlësselt &verschécken"
 
-#: khtml/khtml_part.cpp:4766
+#: khtml/khtml_part.cpp:4765
 msgid ""
 "Warning: Your data is about to be transmitted across the network "
 "unencrypted.\n"
@@ -10603,7 +10604,7 @@ msgstr ""
 "Warnung: Dir sidd dropp an dru fir är Daten onverschlësselt ze verschécken.\n"
 "Sidd dir iech sëcher, dass dir weiderfuere wëllt?"
 
-#: khtml/khtml_part.cpp:4790
+#: khtml/khtml_part.cpp:4789
 msgid ""
 "This site is attempting to submit form data via email.\n"
 "Do you want to continue?"
@@ -10611,11 +10612,11 @@ msgstr ""
 "De Server probéiert, Formular-Daten iwwert E-Mail ze verschécken.\n"
 "Wëllt dir weiderfueren?"
 
-#: khtml/khtml_part.cpp:4793
+#: khtml/khtml_part.cpp:4792
 msgid "&Send Email"
 msgstr "E-Mail &verschécken"
 
-#: khtml/khtml_part.cpp:4815
+#: khtml/khtml_part.cpp:4814
 #, fuzzy, qt-format
 #| msgid ""
 #| "<qt>The form will be submitted to <BR><B>%1</B><BR>on your local "
@@ -10627,12 +10628,12 @@ msgstr ""
 "<qt>De Formular gëtt no<BR><B>%1</B><BR>op ärem lokalen Dateiesystem "
 "verschéckt ginn.<BR>Wëllt dir de Formular ofsenden?"
 
-#: khtml/khtml_part.cpp:4816 khtml/khtmlview.cpp:2676 khtml/khtmlview.cpp:2718
+#: khtml/khtml_part.cpp:4815 khtml/khtmlview.cpp:2675 khtml/khtmlview.cpp:2717
 #: khtml/html/html_formimpl.cpp:1559 khtml/html/html_formimpl.cpp:2170
 msgid "Submit"
 msgstr "Verschécken"
 
-#: khtml/khtml_part.cpp:4865
+#: khtml/khtml_part.cpp:4864
 msgid ""
 "This site attempted to attach a file from your computer in the form "
 "submission. The attachment was removed for your protection."
@@ -10640,16 +10641,16 @@ msgstr ""
 "De Server huet probéiert, eng Datei aus ärem Dateiesystem un de Formular "
 "drunnzehänken. Den Unhang ass zu ärer Sëcherheet geläscht ginn."
 
-#: khtml/khtml_part.cpp:5815
+#: khtml/khtml_part.cpp:5814
 #, qt-format
 msgid "(%1/s)"
 msgstr "(%1/s)"
 
-#: khtml/khtml_part.cpp:6862
+#: khtml/khtml_part.cpp:6861
 msgid "Security Warning"
 msgstr "Sëcherheetswarnung"
 
-#: khtml/khtml_part.cpp:6868
+#: khtml/khtml_part.cpp:6867
 #, fuzzy, qt-format
 #| msgid "<qt>Access by untrusted page to<BR><B>%1</B><BR> denied."
 msgid "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
@@ -10657,35 +10658,35 @@ msgstr ""
 "<qt>Zougang op<BR><B>%1</B><BR>duerch eng Säit, déi als net sëcher ugesinn "
 "ass, verweigert."
 
-#: khtml/khtml_part.cpp:6869 khtml/java/kjavaappletserver.cpp:823
+#: khtml/khtml_part.cpp:6868 khtml/java/kjavaappletserver.cpp:823
 msgid "Security Alert"
 msgstr "Sëcherheetsnoricht"
 
-#: khtml/khtml_part.cpp:7216
+#: khtml/khtml_part.cpp:7215
 #, qt-format
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr ""
 "Den digitale Portemonnaie '%1' ass op a gëtt fir Formularer a Passwierder "
 "benotzt."
 
-#: khtml/khtml_part.cpp:7273
+#: khtml/khtml_part.cpp:7272
 msgid "&Close Wallet"
 msgstr "Portemonnaie &zoumaachen"
 
-#: khtml/khtml_part.cpp:7316
+#: khtml/khtml_part.cpp:7315
 msgid "JavaScript &Debugger"
 msgstr "JavaScript-&Debugger"
 
-#: khtml/khtml_part.cpp:7354
+#: khtml/khtml_part.cpp:7353
 msgid "This page was prevented from opening a new window via JavaScript."
 msgstr ""
 "Dëss Säit ass dovun ofgehal ginn, mat JavaScript eng nei fënster opzemaachen."
 
-#: khtml/khtml_part.cpp:7360
+#: khtml/khtml_part.cpp:7359
 msgid "Popup Window Blocked"
 msgstr "Popup-Fënster blockéiert"
 
-#: khtml/khtml_part.cpp:7360
+#: khtml/khtml_part.cpp:7359
 msgid ""
 "This page has attempted to open a popup window but was blocked.\n"
 "You can click on this icon in the status bar to control this behavior\n"
@@ -10696,18 +10697,18 @@ msgstr ""
 "d'Fënster\n"
 "awer opzemaachen oder Astellunge virzehuelen."
 
-#: khtml/khtml_part.cpp:7373
+#: khtml/khtml_part.cpp:7372
 #, fuzzy, qt-format
 msgid "&Show Blocked Popup Window"
 msgid_plural "Show %1 Blocked Popup Windows"
 msgstr[0] "Blockéiert Popup-Fënster &weisen"
 msgstr[1] "%1 blockéiert Popup-Fënstere weisen"
 
-#: khtml/khtml_part.cpp:7374
+#: khtml/khtml_part.cpp:7373
 msgid "Show Blocked Window Passive Popup &Notification"
 msgstr "Passiv &Norichtefënster bei blockéierte Popup-Fënsteren uweisen"
 
-#: khtml/khtml_part.cpp:7376
+#: khtml/khtml_part.cpp:7375
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "JavaScript fir Fënsteren nei opzemaache &configuréieren..."
 
@@ -10753,43 +10754,43 @@ msgstr "Op d'Zeil &goen..."
 msgid "Remove from ignores..."
 msgstr ""
 
-#: khtml/khtmlview.cpp:1694
+#: khtml/khtmlview.cpp:1693
 msgid "Find stopped."
 msgstr "Sicht opgehal."
 
-#: khtml/khtmlview.cpp:1705
+#: khtml/khtmlview.cpp:1704
 msgid "Starting -- find links as you type"
 msgstr "Startvirgang -- Linke beim antippen ergänzen"
 
-#: khtml/khtmlview.cpp:1711
+#: khtml/khtmlview.cpp:1710
 msgid "Starting -- find text as you type"
 msgstr "Startvirgang -- Text beim antippen ergänzen"
 
-#: khtml/khtmlview.cpp:1734
+#: khtml/khtmlview.cpp:1733
 #, qt-format
 msgid "Link found: \"%1\"."
 msgstr "Link fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1739
+#: khtml/khtmlview.cpp:1738
 #, qt-format
 msgid "Link not found: \"%1\"."
 msgstr "Link net fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1747
+#: khtml/khtmlview.cpp:1746
 #, qt-format
 msgid "Text found: \"%1\"."
 msgstr "Text fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1752
+#: khtml/khtmlview.cpp:1751
 #, qt-format
 msgid "Text not found: \"%1\"."
 msgstr "Text net fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1798
+#: khtml/khtmlview.cpp:1797
 msgid "Access Keys activated"
 msgstr "Kuerztasten ugeschalt"
 
-#: khtml/khtmlview.cpp:2898
+#: khtml/khtmlview.cpp:2897
 #, qt-format
 msgid "Print %1"
 msgstr "%1 drécken"
