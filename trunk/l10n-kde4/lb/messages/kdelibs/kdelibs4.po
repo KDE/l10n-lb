@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-10-08 05:48+0200\n"
+"POT-Creation-Date: 2007-10-09 05:37+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -5380,11 +5380,11 @@ msgstr ""
 "no, ob den <i>gpg</i> installéiert ass, well soss kënnen déi erofgeluede "
 "Ressourcen net ënnerschriwwe ginn.</qt>"
 
-#: kdeui/jobs/kstatusbarjobtracker.cpp:189
+#: kdeui/jobs/kstatusbarjobtracker.cpp:217
 msgid " Stalled "
 msgstr ""
 
-#: kdeui/jobs/kstatusbarjobtracker.cpp:191
+#: kdeui/jobs/kstatusbarjobtracker.cpp:219
 #, fuzzy, qt-format
 msgid " %1/s "
 msgstr "(%1/s)"
@@ -6100,8 +6100,8 @@ msgstr ""
 msgid "Reset ToolBars"
 msgstr "Toolbaren zerécksetzen"
 
-#: kdeui/dialogs/kedittoolbar.cpp:484 khtml/khtmlview.cpp:2684
-#: khtml/khtmlview.cpp:2717 khtml/html/html_formimpl.cpp:2162
+#: kdeui/dialogs/kedittoolbar.cpp:484 khtml/khtmlview.cpp:2692
+#: khtml/khtmlview.cpp:2725 khtml/html/html_formimpl.cpp:2162
 msgid "Reset"
 msgstr "Zerécksetzen"
 
@@ -10619,7 +10619,7 @@ msgstr ""
 "<qt>De Formular gëtt no<BR><B>%1</B><BR>op ärem lokalen Dateiesystem "
 "verschéckt ginn.<BR>Wëllt dir de Formular ofsenden?"
 
-#: khtml/khtml_part.cpp:4815 khtml/khtmlview.cpp:2670 khtml/khtmlview.cpp:2712
+#: khtml/khtml_part.cpp:4815 khtml/khtmlview.cpp:2678 khtml/khtmlview.cpp:2720
 #: khtml/html/html_formimpl.cpp:1559 khtml/html/html_formimpl.cpp:2170
 msgid "Submit"
 msgstr "Verschécken"
@@ -10637,11 +10637,11 @@ msgstr ""
 msgid "(%1/s)"
 msgstr "(%1/s)"
 
-#: khtml/khtml_part.cpp:6861
+#: khtml/khtml_part.cpp:6858
 msgid "Security Warning"
 msgstr "Sëcherheetswarnung"
 
-#: khtml/khtml_part.cpp:6867
+#: khtml/khtml_part.cpp:6864
 #, fuzzy, qt-format
 #| msgid "<qt>Access by untrusted page to<BR><B>%1</B><BR> denied."
 msgid "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
@@ -10649,35 +10649,35 @@ msgstr ""
 "<qt>Zougang op<BR><B>%1</B><BR>duerch eng Säit, déi als net sëcher ugesinn "
 "ass, verweigert."
 
-#: khtml/khtml_part.cpp:6868 khtml/java/kjavaappletserver.cpp:823
+#: khtml/khtml_part.cpp:6865 khtml/java/kjavaappletserver.cpp:823
 msgid "Security Alert"
 msgstr "Sëcherheetsnoricht"
 
-#: khtml/khtml_part.cpp:7215
+#: khtml/khtml_part.cpp:7212
 #, qt-format
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr ""
 "Den digitale Portemonnaie '%1' ass op a gëtt fir Formularer a Passwierder "
 "benotzt."
 
-#: khtml/khtml_part.cpp:7272
+#: khtml/khtml_part.cpp:7269
 msgid "&Close Wallet"
 msgstr "Portemonnaie &zoumaachen"
 
-#: khtml/khtml_part.cpp:7315
+#: khtml/khtml_part.cpp:7312
 msgid "JavaScript &Debugger"
 msgstr "JavaScript-&Debugger"
 
-#: khtml/khtml_part.cpp:7353
+#: khtml/khtml_part.cpp:7350
 msgid "This page was prevented from opening a new window via JavaScript."
 msgstr ""
 "Dëss Säit ass dovun ofgehal ginn, mat JavaScript eng nei fënster opzemaachen."
 
-#: khtml/khtml_part.cpp:7359
+#: khtml/khtml_part.cpp:7356
 msgid "Popup Window Blocked"
 msgstr "Popup-Fënster blockéiert"
 
-#: khtml/khtml_part.cpp:7359
+#: khtml/khtml_part.cpp:7356
 msgid ""
 "This page has attempted to open a popup window but was blocked.\n"
 "You can click on this icon in the status bar to control this behavior\n"
@@ -10688,18 +10688,18 @@ msgstr ""
 "d'Fënster\n"
 "awer opzemaachen oder Astellunge virzehuelen."
 
-#: khtml/khtml_part.cpp:7372
+#: khtml/khtml_part.cpp:7369
 #, fuzzy, qt-format
 msgid "&Show Blocked Popup Window"
 msgid_plural "Show %1 Blocked Popup Windows"
 msgstr[0] "Blockéiert Popup-Fënster &weisen"
 msgstr[1] "%1 blockéiert Popup-Fënstere weisen"
 
-#: khtml/khtml_part.cpp:7373
+#: khtml/khtml_part.cpp:7370
 msgid "Show Blocked Window Passive Popup &Notification"
 msgstr "Passiv &Norichtefënster bei blockéierte Popup-Fënsteren uweisen"
 
-#: khtml/khtml_part.cpp:7375
+#: khtml/khtml_part.cpp:7372
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "JavaScript fir Fënsteren nei opzemaache &configuréieren..."
 
@@ -10781,7 +10781,7 @@ msgstr "Text net fonnt: \"%1\"."
 msgid "Access Keys activated"
 msgstr "Kuerztasten ugeschalt"
 
-#: khtml/khtmlview.cpp:2892
+#: khtml/khtmlview.cpp:2900
 #, qt-format
 msgid "Print %1"
 msgstr "%1 drécken"
