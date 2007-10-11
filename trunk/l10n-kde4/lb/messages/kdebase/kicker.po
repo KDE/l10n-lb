@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kicker\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-10-10 05:31+0200\n"
+"POT-Creation-Date: 2007-10-11 05:40+0200\n"
 "PO-Revision-Date: 2005-12-21 12:15+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -22,7 +22,7 @@ msgid "Bookmarks"
 msgstr "Lieszeeche &veränneren"
 
 #: buttons/browserbutton.cpp:77
-#, qt-format
+#, kde-format
 msgid "Browse: %1"
 msgstr "Duerchkucken: %1"
 
@@ -55,7 +55,7 @@ msgid "Applications"
 msgstr "Programmer"
 
 #: buttons/urlbutton.cpp:197
-#, qt-format
+#, kde-format
 msgid "The file %1 does not exist"
 msgstr "D'Datei %1 gëtt et net"
 
@@ -68,17 +68,17 @@ msgid "Window list"
 msgstr "Fënsterlëscht"
 
 #: core/applethandle.cpp:112
-#, qt-format
+#, kde-format
 msgid "%1 menu"
 msgstr "Menü %1"
 
 #: core/applethandle.cpp:115
-#, qt-format
+#, kde-format
 msgid "%1 applet handle"
 msgstr "%1 Miniprogramm-Handler"
 
 #: core/container_applet.cpp:108
-#, qt-format
+#, kde-format
 msgid "The %1 applet could not be loaded. Please check your installation."
 msgstr ""
 "De Miniprogramm %1 konnt net geluede ginn. Kuckt är Installatioun w.e.g. no."
@@ -253,37 +253,37 @@ msgid "Load Applet"
 msgstr "Miniprogramm dobäimaachen"
 
 #: ui/addappletvisualfeedback.cpp:68
-#, qt-format
+#, kde-format
 msgid "%1 Added"
 msgstr "%1 dobäigemaach"
 
 #: ui/appletop_mnu.cpp:57
-#, qt-format
+#, kde-format
 msgid "&Move %1 Menu"
 msgstr "Menü %1 &réckelen"
 
 #: ui/appletop_mnu.cpp:58
-#, qt-format
+#, kde-format
 msgid "&Move %1 Button"
 msgstr "Knäppchen %1 &réckelen"
 
 #: ui/appletop_mnu.cpp:59
-#, qt-format
+#, kde-format
 msgid "&Move %1"
 msgstr "%1 &réckelen"
 
 #: ui/appletop_mnu.cpp:81
-#, qt-format
+#, kde-format
 msgid "&Remove %1 Menu"
 msgstr "Menu %1 &ewechmaachen"
 
 #: ui/appletop_mnu.cpp:82
-#, qt-format
+#, kde-format
 msgid "&Remove %1 Button"
 msgstr "Knäppchen %1 &ewechmaachen"
 
 #: ui/appletop_mnu.cpp:83
-#, qt-format
+#, kde-format
 msgid "&Remove %1"
 msgstr "%1 &ewechmaachen"
 
@@ -292,17 +292,17 @@ msgid "Report &Bug..."
 msgstr "&Käfer mellen..."
 
 #: ui/appletop_mnu.cpp:111
-#, qt-format
+#, kde-format
 msgid "&About %1"
 msgstr "&Iwwer %1"
 
 #: ui/appletop_mnu.cpp:131
-#, qt-format
+#, kde-format
 msgid "&Configure %1 Button..."
 msgstr "Knäppchen %1 &configuréieren..."
 
 #: ui/appletop_mnu.cpp:136 ui/extensionop_mnu.cpp:66
-#, qt-format
+#, kde-format
 msgid "&Configure %1..."
 msgstr "%1 &configuréieren..."
 
@@ -311,7 +311,7 @@ msgid "Applet Menu"
 msgstr "Miniprogramm-Menü"
 
 #: ui/appletop_mnu.cpp:150
-#, qt-format
+#, kde-format
 msgid "%1 Menu"
 msgstr "Menü %1"
 
@@ -348,7 +348,7 @@ msgid "Select Folder"
 msgstr "Dossier auswielen"
 
 #: ui/browser_dlg.cpp:118
-#, qt-format
+#, kde-format
 msgid "'%1' is not a valid folder."
 msgstr "'%1' ass kee gültegen Dossier."
 
@@ -435,7 +435,7 @@ msgid "Start New Session"
 msgstr "Eng nei Sëtzung ufänken"
 
 #: ui/k_mnu.cpp:378
-#, qt-format
+#, kde-format
 msgid ""
 "<p>You have chosen to open another desktop session.<br>The current session "
 "will be hidden and a new login screen will be displayed.<br>An F-key is "
@@ -496,27 +496,27 @@ msgid "Appli&cation"
 msgstr "&Programm"
 
 #: ui/removeextension_mnu.cpp:68
-#, qt-format
+#, kde-format
 msgid "%1 (Top)"
 msgstr "%1 (uewen)"
 
 #: ui/removeextension_mnu.cpp:71
-#, qt-format
+#, kde-format
 msgid "%1 (Right)"
 msgstr "%1 (riets)"
 
 #: ui/removeextension_mnu.cpp:74
-#, qt-format
+#, kde-format
 msgid "%1 (Bottom)"
 msgstr "%1 (ënnen)"
 
 #: ui/removeextension_mnu.cpp:77
-#, qt-format
+#, kde-format
 msgid "%1 (Left)"
 msgstr "%1 (lénks)"
 
 #: ui/removeextension_mnu.cpp:80
-#, qt-format
+#, kde-format
 msgid "%1 (Floating)"
 msgstr "%1 (schwiewend)"
 
@@ -533,13 +533,15 @@ msgid "Add Non-KDE Application"
 msgstr "KDE-frieme Programm dobäimaachen"
 
 #: ui/service_mnu.cpp:320
-#, qt-format
+#, kde-format
+#| msgctxt "Entries in K-menu: %1 app name, %2 description"
+#| msgid "%1 - %2"
 msgctxt "Entries in K-menu: %1 app name, %2 description"
 msgid "%1 - %2"
 msgstr ""
 
 #: ui/service_mnu.cpp:330
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "%1 (Top)"
 msgctxt "Entries in K-menu: %1 description, %2 app name"
 msgid "%1 (%2)"

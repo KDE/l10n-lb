@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeprint4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-10-10 05:30+0200\n"
+"POT-Creation-Date: 2007-10-11 05:39+0200\n"
 "PO-Revision-Date: 2006-05-02 18:19+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -123,7 +123,10 @@ msgid "Fast text printing (non-PS printers only)"
 msgstr ""
 
 #: lpd/klpdprinterimpl.cpp:45 rlpr/krlprprinterimpl.cpp:51
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "The <b>%1</b> executable could not be found in your path. Check your "
+#| "installation."
 msgid ""
 "The <b>%1</b> executable could not be found in your path. Check your "
 "installation."
@@ -156,7 +159,8 @@ msgid "Unknown"
 msgstr ""
 
 #: lpd/kmlpdmanager.cpp:88
-#, qt-format
+#, kde-format
+#| msgid "Local printer queue (%1)"
 msgid "Local printer queue (%1)"
 msgstr ""
 
@@ -170,22 +174,28 @@ msgid "Unknown"
 msgstr ""
 
 #: lpd/kmlpdmanager.cpp:95
-#, qt-format
+#, kde-format
+#| msgid "Remote LPD queue %1@%2"
 msgid "Remote LPD queue %1@%2"
 msgstr ""
 
 #: lpd/kmlpdmanager.cpp:147
-#, qt-format
+#, kde-format
+#| msgid "Unable to create spool directory %1 for printer %2."
 msgid "Unable to create spool directory %1 for printer %2."
 msgstr ""
 
 #: lpd/kmlpdmanager.cpp:153
-#, qt-format
+#, kde-format
+#| msgid "Unable to save information for printer <b>%1</b>."
 msgid "Unable to save information for printer <b>%1</b>."
 msgstr ""
 
 #: lpd/kmlpdmanager.cpp:176
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "Unable to set correct permissions on spool directory %1 for printer <b>%"
+#| "2</b>."
 msgid ""
 "Unable to set correct permissions on spool directory %1 for printer <b>%2</"
 "b>."
@@ -196,7 +206,8 @@ msgid "Permission denied: you must be root."
 msgstr ""
 
 #: lpd/kmlpdmanager.cpp:212
-#, qt-format
+#, kde-format
+#| msgid "Unable to execute command \"%1\"."
 msgid "Unable to execute command \"%1\"."
 msgstr ""
 
@@ -205,12 +216,14 @@ msgid "Unable to write printcap file."
 msgstr ""
 
 #: lpd/kmlpdmanager.cpp:333
-#, qt-format
+#, kde-format
+#| msgid "Could not find driver <b>%1</b> in printtool database."
 msgid "Could not find driver <b>%1</b> in printtool database."
 msgstr ""
 
 #: lpd/kmlpdmanager.cpp:368
-#, qt-format
+#, kde-format
+#| msgid "Could not find printer <b>%1</b> in printcap file."
 msgid "Could not find printer <b>%1</b> in printcap file."
 msgstr ""
 
@@ -223,7 +236,10 @@ msgid "Printer type not recognized."
 msgstr ""
 
 #: lpd/kmlpdmanager.cpp:407
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "The driver device <b>%1</b> is not compiled in your GhostScript "
+#| "distribution. Check your installation or use another driver."
 msgid ""
 "The driver device <b>%1</b> is not compiled in your GhostScript "
 "distribution. Check your installation or use another driver."
@@ -234,38 +250,44 @@ msgid "Unable to write driver associated files in spool directory."
 msgstr ""
 
 #: lpr/apshandler.cpp:65
-#, qt-format
+#, kde-format
+#| msgid "APS Driver (%1)"
 msgid "APS Driver (%1)"
 msgstr ""
 
 #: lpr/apshandler.cpp:103 lpr/lprhandler.cpp:70 lpr/lprngtoolhandler.cpp:71
-#, qt-format
+#, kde-format
 msgid "Network printer (%1)"
 msgstr "Netzwierkdrécker (%1)"
 
 #: lpr/apshandler.cpp:201 lpr/lprhandler.cpp:117 lpr/lprngtoolhandler.cpp:254
 #: lpr/matichandler.cpp:362
-#, qt-format
+#, kde-format
+#| msgid "Unsupported backend: %1."
 msgid "Unsupported backend: %1."
 msgstr ""
 
 #: lpr/apshandler.cpp:206
-#, qt-format
+#, kde-format
+#| msgid "Unable to create directory %1."
 msgid "Unable to create directory %1."
 msgstr ""
 
 #: lpr/apshandler.cpp:221
-#, qt-format
+#, kde-format
+#| msgid "Missing element: %1."
 msgid "Missing element: %1."
 msgstr ""
 
 #: lpr/apshandler.cpp:235 lpr/apshandler.cpp:257 lpr/lprngtoolhandler.cpp:287
-#, qt-format
+#, kde-format
+#| msgid "Invalid printer backend specification: %1"
 msgid "Invalid printer backend specification: %1"
 msgstr ""
 
 #: lpr/apshandler.cpp:239 lpr/apshandler.cpp:261 lpr/apshandler.cpp:323
-#, qt-format
+#, kde-format
+#| msgid "Unable to create the file %1."
 msgid "Unable to create the file %1."
 msgstr ""
 
@@ -274,7 +296,8 @@ msgid "The APS driver is not defined."
 msgstr ""
 
 #: lpr/apshandler.cpp:335
-#, qt-format
+#, kde-format
+#| msgid "Unable to remove directory %1."
 msgid "Unable to remove directory %1."
 msgstr ""
 
@@ -283,12 +306,14 @@ msgid "Unknown (unrecognized entry)"
 msgstr ""
 
 #: lpr/lprhandler.cpp:65 lpr/lprhandler.cpp:83
-#, qt-format
+#, kde-format
+#| msgid "Remote queue (%1) on %2"
 msgid "Remote queue (%1) on %2"
 msgstr ""
 
 #: lpr/lprhandler.cpp:75 lpr/matichandler.cpp:83
-#, qt-format
+#, kde-format
+#| msgid "Local printer on %1"
 msgid "Local printer on %1"
 msgstr ""
 
@@ -315,20 +340,29 @@ msgid "Could not determine spool directory. See options dialog."
 msgstr ""
 
 #: lpr/kmlprmanager.cpp:333
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "Unable to create the spool directory %1. Check that you have the required "
+#| "permissions for that operation."
 msgid ""
 "Unable to create the spool directory %1. Check that you have the required "
 "permissions for that operation."
 msgstr ""
 
 #: lpr/kmlprmanager.cpp:361
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "The printer has been created but the print daemon could not be restarted. "
+#| "%1"
 msgid ""
 "The printer has been created but the print daemon could not be restarted. %1"
 msgstr ""
 
 #: lpr/kmlprmanager.cpp:386
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "Unable to remove spool directory %1. Check that you have write "
+#| "permissions for that directory."
 msgid ""
 "Unable to remove spool directory %1. Check that you have write permissions "
 "for that directory."
@@ -346,7 +380,8 @@ msgid ""
 msgstr ""
 
 #: lpr/kmlprmanager.cpp:464
-#, qt-format
+#, kde-format
+#| msgid "Spooler type: %1"
 msgid "Spooler type: %1"
 msgstr ""
 
@@ -364,7 +399,8 @@ msgstr ""
 
 #: lpr/lpchelper.cpp:218 lpr/lpchelper.cpp:253 lpr/lpchelper.cpp:270
 #: lpr/lpchelper.cpp:290
-#, qt-format
+#, kde-format
+#| msgid "The executable %1 could not be found in your PATH."
 msgid "The executable %1 could not be found in your PATH."
 msgstr ""
 
@@ -373,17 +409,20 @@ msgid "Permission denied."
 msgstr ""
 
 #: lpr/lpchelper.cpp:240
-#, qt-format
+#, kde-format
+#| msgid "Printer %1 does not exist."
 msgid "Printer %1 does not exist."
 msgstr ""
 
 #: lpr/lpchelper.cpp:244
-#, qt-format
+#, kde-format
+#| msgid "Unknown error: %1"
 msgid "Unknown error: %1"
 msgstr ""
 
 #: lpr/lpchelper.cpp:262
-#, qt-format
+#, kde-format
+#| msgid "Execution of lprm failed: %1"
 msgid "Execution of lprm failed: %1"
 msgstr ""
 
@@ -392,7 +431,8 @@ msgid "unknown"
 msgstr ""
 
 #: lpr/lprngtoolhandler.cpp:95
-#, qt-format
+#, kde-format
+#| msgid "IFHP Driver (%1)"
 msgid "IFHP Driver (%1)"
 msgstr ""
 
@@ -401,7 +441,8 @@ msgid "No driver defined for that printer. It might be a raw printer."
 msgstr ""
 
 #: lpr/lprngtoolhandler.cpp:160
-#, qt-format
+#, kde-format
+#| msgid "LPRngTool Common Driver (%1)"
 msgid "LPRngTool Common Driver (%1)"
 msgstr ""
 
@@ -422,7 +463,11 @@ msgstr ""
 
 #: lpr/matichandler.cpp:244 lpr/matichandler.cpp:347
 #: cups/kmcupsmanager.cpp:522
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "Unable to create the Foomatic driver [%1,%2]. Either that driver does not "
+#| "exist, or you don't have the required permissions to perform that "
+#| "operation."
 msgid ""
 "Unable to create the Foomatic driver [%1,%2]. Either that driver does not "
 "exist, or you don't have the required permissions to perform that operation."
@@ -440,7 +485,8 @@ msgid ""
 msgstr ""
 
 #: lpr/matichandler.cpp:394
-#, qt-format
+#, kde-format
+#| msgid "Unable to remove driver file %1."
 msgid "Unable to remove driver file %1."
 msgstr ""
 
@@ -461,7 +507,8 @@ msgid "Boolean"
 msgstr ""
 
 #: lpr/editentrydialog.cpp:83
-#, qt-format
+#, kde-format
+#| msgid "Printcap Entry: %1"
 msgid "Printcap Entry: %1"
 msgstr ""
 
@@ -987,22 +1034,25 @@ msgid ""
 msgstr ""
 
 #: cups/cupsaddsmb2.cpp:261
-#, qt-format
+#, kde-format
+#| msgid "Creating folder %1"
 msgid "Creating folder %1"
 msgstr ""
 
 #: cups/cupsaddsmb2.cpp:267
-#, qt-format
+#, kde-format
 msgid "Uploading %1"
 msgstr "%1 gëtt eropgelueden"
 
 #: cups/cupsaddsmb2.cpp:273
-#, qt-format
+#, kde-format
+#| msgid "Installing driver for %1"
 msgid "Installing driver for %1"
 msgstr ""
 
 #: cups/cupsaddsmb2.cpp:279
-#, qt-format
+#, kde-format
+#| msgid "Installing printer %1"
 msgid "Installing printer %1"
 msgstr ""
 
@@ -1028,12 +1078,22 @@ msgid "Operation aborted (process killed)."
 msgstr ""
 
 #: cups/cupsaddsmb2.cpp:337
-#, qt-format
+#, kde-format
+#| msgid "<h3>Operation failed.</h3><p>%1</p>"
 msgid "<h3>Operation failed.</h3><p>%1</p>"
 msgstr ""
 
 #: cups/cupsaddsmb2.cpp:352
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "You are about to prepare the <b>%1</b> driver to be shared out to Windows "
+#| "clients through Samba. This operation requires the <a href=\"http://www."
+#| "adobe.com/products/printerdrivers/main.html\">Adobe PostScript Driver</"
+#| "a>, a recent version of Samba 2.2.x and a running SMB service on the "
+#| "target server. Click <b>Export</b> to start the operation. Read the <a "
+#| "href=\"man:/cupsaddsmb\">cupsaddsmb</a> manual page in Konqueror or type "
+#| "<tt>man cupsaddsmb</tt> in a console window to learn more about this "
+#| "functionality."
 msgid ""
 "You are about to prepare the <b>%1</b> driver to be shared out to Windows "
 "clients through Samba. This operation requires the <a href=\"http://www."
@@ -1053,7 +1113,8 @@ msgid ""
 msgstr ""
 
 #: cups/cupsaddsmb2.cpp:382
-#, qt-format
+#, kde-format
+#| msgid "Preparing to upload driver to host %1"
 msgid "Preparing to upload driver to host %1"
 msgstr ""
 
@@ -1062,12 +1123,14 @@ msgid "&Abort"
 msgstr "Ofb&riechen"
 
 #: cups/cupsaddsmb2.cpp:392
-#, qt-format
+#, kde-format
+#| msgid "The driver for printer <b>%1</b> could not be found."
 msgid "The driver for printer <b>%1</b> could not be found."
 msgstr ""
 
 #: cups/cupsaddsmb2.cpp:433
-#, qt-format
+#, kde-format
+#| msgid "Preparing to install driver on host %1"
 msgid "Preparing to install driver on host %1"
 msgstr ""
 
@@ -1182,7 +1245,8 @@ msgid "Incorrect port number."
 msgstr ""
 
 #: cups/kmwipp.cpp:67
-#, qt-format
+#, kde-format
+#| msgid "<nobr>Unable to connect to <b>%1</b> on port <b>%2</b> .</nobr>"
 msgid "<nobr>Unable to connect to <b>%1</b> on port <b>%2</b> .</nobr>"
 msgstr ""
 
@@ -1445,7 +1509,8 @@ msgid "Read-Only"
 msgstr "Nëmme-liesen"
 
 #: cups/kptagspage.cpp:114
-#, qt-format
+#, kde-format
+#| msgid "The tag name must not contain any spaces, tabs or quotes: <b>%1</b>."
 msgid "The tag name must not contain any spaces, tabs or quotes: <b>%1</b>."
 msgstr ""
 
@@ -1537,7 +1602,8 @@ msgid "Library cupsdconf not found. Check your installation."
 msgstr ""
 
 #: cups/kmcupsmanager.cpp:664
-#, qt-format
+#, kde-format
+#| msgid "Symbol %1 not found in cupsdconf library."
 msgid "Symbol %1 not found in cupsdconf library."
 msgstr ""
 
@@ -1550,7 +1616,8 @@ msgid "&Printer IPP Report"
 msgstr ""
 
 #: cups/kmcupsmanager.cpp:784 cups/kmwippprinter.cpp:207
-#, qt-format
+#, kde-format
+#| msgid "IPP Report for %1"
 msgid "IPP Report for %1"
 msgstr ""
 
@@ -1567,7 +1634,10 @@ msgid "the IPP request failed for an unknown reason"
 msgstr ""
 
 #: cups/kmcupsmanager.cpp:830
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "Connection to CUPS server failed. Check that the CUPS server is correctly "
+#| "installed and running. Error: %1."
 msgid ""
 "Connection to CUPS server failed. Check that the CUPS server is correctly "
 "installed and running. Error: %1."
@@ -1582,12 +1652,16 @@ msgid "host not found"
 msgstr ""
 
 #: cups/kmcupsmanager.cpp:874
-#, qt-format
+#, kde-format
+#| msgid "read failed (%1)"
 msgid "read failed (%1)"
 msgstr ""
 
 #: cups/kmcupsmanager.cpp:878
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "Connection to CUPS server failed. Check that the CUPS server is correctly "
+#| "installed and running. Error: %2: %1"
 msgid ""
 "Connection to CUPS server failed. Check that the CUPS server is correctly "
 "installed and running. Error: %2: %1"
@@ -1696,31 +1770,33 @@ msgid "No printer found at this address/port."
 msgstr ""
 
 #: cups/kmwippprinter.cpp:136 management/kmwsocket.cpp:137
-#, qt-format
+#, kde-format
+#| msgctxt "Unknown host - 1 is the IP"
+#| msgid "<Unknown> (%1)"
 msgctxt "Unknown host - 1 is the IP"
 msgid "<Unknown> (%1)"
 msgstr ""
 
 #: cups/kmwippprinter.cpp:169
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "<b>State</b>: %1<br>"
 msgid "<b>Name</b>: %1<br />"
 msgstr "<b>Status</b>: %1<br>"
 
 #: cups/kmwippprinter.cpp:170
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "<b>State</b>: %1<br>"
 msgid "<b>Location</b>: %1<br />"
 msgstr "<b>Status</b>: %1<br>"
 
 #: cups/kmwippprinter.cpp:171
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "<b>State</b>: %1<br>"
 msgid "<b>Description</b>: %1<br />"
 msgstr "<b>Status</b>: %1<br>"
 
 #: cups/kmwippprinter.cpp:177
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "<b>State</b>: %1<br>"
 msgid "<b>Model</b>: %1<br />"
 msgstr "<b>Status</b>: %1<br>"
@@ -1743,18 +1819,21 @@ msgid "Unknown"
 msgstr ""
 
 #: cups/kmwippprinter.cpp:185
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "<b>State</b>: %1<br>"
 msgid "<b>State</b>: %1<br />"
 msgstr "<b>Status</b>: %1<br>"
 
 #: cups/kmwippprinter.cpp:190
-#, qt-format
+#, kde-format
+#| msgid "Unable to retrieve printer info. Printer answered:<br /><br />%1"
 msgid "Unable to retrieve printer info. Printer answered:<br /><br />%1"
 msgstr ""
 
 #: cups/kmwippprinter.cpp:210
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "Unable to generate report. IPP request failed with message: %1 (0x%2)."
 msgid "Unable to generate report. IPP request failed with message: %1 (0x%2)."
 msgstr ""
 
@@ -1775,7 +1854,7 @@ msgid "URI:"
 msgstr "URI:"
 
 #: cups/kmwother.cpp:82
-#, qt-format
+#, kde-format
 msgid "CUPS Server %1:%2"
 msgstr "CUPS-Server %1:%2"
 
@@ -2102,12 +2181,14 @@ msgid "Unable to change job priority: "
 msgstr ""
 
 #: cups/kmcupsjobmanager.cpp:392
-#, qt-format
+#, kde-format
+#| msgid "Unable to find printer %1."
 msgid "Unable to find printer %1."
 msgstr ""
 
 #: cups/kmcupsjobmanager.cpp:409
-#, qt-format
+#, kde-format
+#| msgid "Attributes of Job %1@%2 (%3)"
 msgid "Attributes of Job %1@%2 (%3)"
 msgstr ""
 
@@ -2136,7 +2217,8 @@ msgid "Empty queue name."
 msgstr ""
 
 #: rlpr/kmwrlpr.cpp:125
-#, qt-format
+#, kde-format
+#| msgid "Remote queue %1 on %2"
 msgid "Remote queue %1 on %2"
 msgstr ""
 
@@ -2181,17 +2263,22 @@ msgid "File transfer failed."
 msgstr ""
 
 #: kdeprintd/kprintprocess.cpp:88
-#, qt-format
+#, kde-format
+#| msgid "Abnormal process termination (<b>%1</b>)."
 msgid "Abnormal process termination (<b>%1</b>)."
 msgstr ""
 
 #: kdeprintd/kprintprocess.cpp:90
-#, qt-format
+#, kde-format
+#| msgid "<b>%1</b>: execution failed with message:<p>%2</p>"
 msgid "<b>%1</b>: execution failed with message:<p>%2</p>"
 msgstr ""
 
 #: kdeprintd/kdeprintd.cpp:165 kprinter.cpp:817
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "<p><nobr>A print error occurred. Error message received from system:</"
+#| "nobr></p><br />%1"
 msgid ""
 "<p><nobr>A print error occurred. Error message received from system:</nobr></"
 "p><br />%1"
@@ -2210,7 +2297,8 @@ msgid "Enter the root password"
 msgstr ""
 
 #: kdeprintd/kdeprintd.cpp:206 kdeprintd/kdeprintd.cpp:208
-#, qt-format
+#, kde-format
+#| msgid "Printing Status - %1"
 msgid "Printing Status - %1"
 msgstr ""
 
@@ -2219,7 +2307,8 @@ msgid "Printing system"
 msgstr "Drocksystem"
 
 #: kdeprintd/kdeprintd.cpp:273
-#, qt-format
+#, kde-format
+#| msgid "Authentication failed (user name=%1)"
 msgid "Authentication failed (user name=%1)"
 msgstr ""
 
@@ -2297,7 +2386,8 @@ msgid "Internal error: no device set."
 msgstr ""
 
 #: tools/escputil/escpwidget.cpp:174
-#, qt-format
+#, kde-format
+#| msgid "Unsupported connection type: %1"
 msgid "Unsupported connection type: %1"
 msgstr ""
 
@@ -2326,7 +2416,10 @@ msgid "Output"
 msgstr "Ausgab"
 
 #: management/kmmainview.cpp:73
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "The printer %1 already exists. Continuing will overwrite existing "
+#| "printer. Do you want to continue?"
 msgid ""
 "The printer %1 already exists. Continuing will overwrite existing printer. "
 "Do you want to continue?"
@@ -2443,12 +2536,14 @@ msgid "Toggle Printer &Filtering"
 msgstr ""
 
 #: management/kmmainview.cpp:307
-#, qt-format
+#, kde-format
+#| msgid "%1 &Handbook"
 msgid "%1 &Handbook"
 msgstr ""
 
 #: management/kmmainview.cpp:312
-#, qt-format
+#, kde-format
+#| msgid "%1 &Web Site"
 msgid "%1 &Web Site"
 msgstr ""
 
@@ -2481,37 +2576,43 @@ msgid "An error occurred while retrieving the printer list."
 msgstr ""
 
 #: management/kmmainview.cpp:607
-#, qt-format
+#, kde-format
+#| msgid "Unable to modify the state of printer %1."
 msgid "Unable to modify the state of printer %1."
 msgstr ""
 
 #: management/kmmainview.cpp:617
-#, qt-format
+#, kde-format
+#| msgid "Do you really want to remove %1?"
 msgid "Do you really want to remove %1?"
 msgstr ""
 
 #: management/kmmainview.cpp:620
-#, qt-format
+#, kde-format
+#| msgid "Unable to remove special printer %1."
 msgid "Unable to remove special printer %1."
 msgstr ""
 
 #: management/kmmainview.cpp:622
-#, qt-format
+#, kde-format
+#| msgid "Unable to remove printer %1."
 msgid "Unable to remove printer %1."
 msgstr ""
 
 #: management/kmmainview.cpp:646
-#, qt-format
+#, kde-format
 msgid "Configure %1"
 msgstr "%1 configuréieren"
 
 #: management/kmmainview.cpp:653
-#, qt-format
+#, kde-format
+#| msgid "Unable to modify settings of printer %1."
 msgid "Unable to modify settings of printer %1."
 msgstr ""
 
 #: management/kmmainview.cpp:656
-#, qt-format
+#, kde-format
+#| msgid "Unable to load a valid driver for printer %1."
 msgid "Unable to load a valid driver for printer %1."
 msgstr ""
 
@@ -2520,12 +2621,14 @@ msgid "Unable to create printer."
 msgstr ""
 
 #: management/kmmainview.cpp:679
-#, qt-format
+#, kde-format
+#| msgid "Unable to define printer %1 as default."
 msgid "Unable to define printer %1 as default."
 msgstr ""
 
 #: management/kmmainview.cpp:714 management/kminstancepage.cpp:270
-#, qt-format
+#, kde-format
+#| msgid "You are about to print a test page on %1. Do you want to continue?"
 msgid "You are about to print a test page on %1. Do you want to continue?"
 msgstr ""
 
@@ -2534,12 +2637,14 @@ msgid "Print Test Page"
 msgstr "Testsäit drécken"
 
 #: management/kmmainview.cpp:716 management/kminstancepage.cpp:274
-#, qt-format
+#, kde-format
+#| msgid "Test page successfully sent to printer %1."
 msgid "Test page successfully sent to printer %1."
 msgstr ""
 
 #: management/kmmainview.cpp:718
-#, qt-format
+#, kde-format
+#| msgid "Unable to test printer %1."
 msgid "Unable to test printer %1."
 msgstr ""
 
@@ -2548,7 +2653,8 @@ msgid "Internal error (no error message)."
 msgstr ""
 
 #: management/kmmainview.cpp:735
-#, qt-format
+#, kde-format
+#| msgid "<p>Error message received from manager:</p><p>%1</p>"
 msgid "<p>Error message received from manager:</p><p>%1</p>"
 msgstr ""
 
@@ -2818,12 +2924,17 @@ msgstr ""
 
 #: management/networkscanner.cpp:110 management/networkscanner.cpp:272
 #: management/networkscanner.cpp:283
-#, qt-format
+#, kde-format
+#| msgid "Subnet: %1"
 msgid "Subnet: %1"
 msgstr ""
 
 #: management/networkscanner.cpp:150
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "You are about to scan a subnet (%1.*) that does not correspond to the "
+#| "current subnet of this computer (%2.*). Do you want to scan the specified "
+#| "subnet anyway?"
 msgid ""
 "You are about to scan a subnet (%1.*) that does not correspond to the "
 "current subnet of this computer (%2.*). Do you want to scan the specified "
@@ -2946,7 +3057,8 @@ msgid ""
 msgstr ""
 
 #: management/kmwdrivertest.cpp:122
-#, qt-format
+#, kde-format
+#| msgid "<qt>Unable to load the requested driver:<p>%1</p></qt>"
 msgid "<qt>Unable to load the requested driver:<p>%1</p></qt>"
 msgstr ""
 
@@ -2969,7 +3081,10 @@ msgid "Unable to create temporary printer."
 msgstr ""
 
 #: management/kmpropwidget.cpp:49
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "<qt>Unable to change printer properties. Error received from manager:<p>%"
+#| "1</p></qt>"
 msgid ""
 "<qt>Unable to change printer properties. Error received from manager:<p>%1</"
 "p></qt>"
@@ -2998,14 +3113,20 @@ msgid ""
 msgstr ""
 
 #: management/kmdbcreator.cpp:102
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "The executable %1 could not be found in your PATH. Check that this "
+#| "program exists and is accessible in your PATH variable."
 msgid ""
 "The executable %1 could not be found in your PATH. Check that this program "
 "exists and is accessible in your PATH variable."
 msgstr ""
 
 #: management/kmdbcreator.cpp:108
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "Unable to start the creation of the driver database. The execution of %1 "
+#| "failed."
 msgid ""
 "Unable to start the creation of the driver database. The execution of %1 "
 "failed."
@@ -3111,7 +3232,8 @@ msgid "All Printers"
 msgstr ""
 
 #: management/kmjobviewer.cpp:174
-#, qt-format
+#, kde-format
+#| msgid "Print Jobs for %1"
 msgid "Print Jobs for %1"
 msgstr ""
 
@@ -3122,7 +3244,8 @@ msgstr ""
 
 #: management/kmjobviewer.cpp:193 management/kmjobviewer.cpp:195
 #: management/kmjobviewer.cpp:379
-#, qt-format
+#, kde-format
+#| msgid "Max.: %1"
 msgid "Max.: %1"
 msgstr ""
 
@@ -3192,7 +3315,10 @@ msgid "Keep window permanent"
 msgstr ""
 
 #: management/kmjobviewer.cpp:523
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "Unable to perform action \"%1\" on selected jobs. Error received from "
+#| "manager:"
 msgid ""
 "Unable to perform action \"%1\" on selected jobs. Error received from "
 "manager:"
@@ -3216,7 +3342,8 @@ msgid "Restart"
 msgstr ""
 
 #: management/kmjobviewer.cpp:559
-#, qt-format
+#, kde-format
+#| msgid "Move to %1"
 msgid "Move to %1"
 msgstr ""
 
@@ -3424,7 +3551,8 @@ msgid "<anonymous>"
 msgstr ""
 
 #: management/kmwsmb.cpp:106
-#, qt-format
+#, kde-format
+#| msgid "Login: %1"
 msgid "Login: %1"
 msgstr ""
 
@@ -3624,7 +3752,8 @@ msgid "New Option"
 msgstr ""
 
 #: management/kxmlcommanddlg.cpp:789 management/kxmlcommanddlg.cpp:961
-#, qt-format
+#, kde-format
+#| msgid "Command Edit for %1"
 msgid "Command Edit for %1"
 msgstr ""
 
@@ -3671,7 +3800,8 @@ msgid "Some information is missing."
 msgstr ""
 
 #: management/kmwlpd.cpp:61
-#, qt-format
+#, kde-format
+#| msgid "Cannot find queue %1 on server %2; do you want to continue anyway?"
 msgid "Cannot find queue %1 on server %2; do you want to continue anyway?"
 msgstr ""
 
@@ -3819,14 +3949,19 @@ msgid "Enter an identification name for the new command:"
 msgstr ""
 
 #: management/kxmlcommandselector.cpp:186
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "A command named %1 already exists. Do you want to continue and edit the "
+#| "existing one?"
 msgid ""
 "A command named %1 already exists. Do you want to continue and edit the "
 "existing one?"
 msgstr ""
 
 #: management/kxmlcommandselector.cpp:218
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "Internal error. The XML driver for the command %1 could not be found."
 msgid "Internal error. The XML driver for the command %1 could not be found."
 msgstr ""
 
@@ -3910,7 +4045,12 @@ msgid "You must supply at least a name."
 msgstr ""
 
 #: management/kmwname.cpp:53
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "It is usually not a good idea to include spaces in printer name: it may "
+#| "prevent your printer from working correctly. The wizard can strip all "
+#| "spaces from the string you entered, resulting in %1; what do you want to "
+#| "do?"
 msgid ""
 "It is usually not a good idea to include spaces in printer name: it may "
 "prevent your printer from working correctly. The wizard can strip all spaces "
@@ -4027,24 +4167,30 @@ msgid "Instance name must not contain any spaces or slashes."
 msgstr ""
 
 #: management/kminstancepage.cpp:167
-#, qt-format
+#, kde-format
+#| msgid "Do you really want to remove instance %1?"
 msgid "Do you really want to remove instance %1?"
 msgstr ""
 
 #: management/kminstancepage.cpp:167
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "You can not remove the default instance. However all settings of %1 will "
+#| "be discarded. Continue?"
 msgid ""
 "You can not remove the default instance. However all settings of %1 will be "
 "discarded. Continue?"
 msgstr ""
 
 #: management/kminstancepage.cpp:219
-#, qt-format
+#, kde-format
 msgid "Unable to find instance %1."
 msgstr "Konnt d'Instanz %1 net fannen."
 
 #: management/kminstancepage.cpp:221
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "Unable to retrieve printer information. Message from printing system: %1."
 msgid ""
 "Unable to retrieve printer information. Message from printing system: %1."
 msgstr ""
@@ -4058,7 +4204,8 @@ msgid "Internal error: printer not found."
 msgstr ""
 
 #: management/kminstancepage.cpp:272
-#, qt-format
+#, kde-format
+#| msgid "Unable to send test page to %1."
 msgid "Unable to send test page to %1."
 msgstr ""
 
@@ -4130,12 +4277,14 @@ msgid "You must provide a non-empty name."
 msgstr ""
 
 #: management/kmspecialprinterdlg.cpp:189
-#, qt-format
+#, kde-format
+#| msgid "Invalid settings. %1."
 msgid "Invalid settings. %1."
 msgstr ""
 
 #: management/kmspecialprinterdlg.cpp:207
-#, qt-format
+#, kde-format
+#| msgid "Configuring %1"
 msgid "Configuring %1"
 msgstr ""
 
@@ -4295,7 +4444,8 @@ msgid "Initialization..."
 msgstr ""
 
 #: kprinter.cpp:249 kprinter.cpp:1097
-#, qt-format
+#, kde-format
+#| msgid "Generating print data: page %1"
 msgid "Generating print data: page %1"
 msgstr ""
 
@@ -4330,12 +4480,14 @@ msgid "Can not overwrite regular printer with special printer settings."
 msgstr ""
 
 #: kmmanager.cpp:483
-#, qt-format
+#, kde-format
+#| msgid "Parallel Port #%1"
 msgid "Parallel Port #%1"
 msgstr ""
 
 #: kmmanager.cpp:491 kmmanager.cpp:506 kxmlcommand.cpp:628
-#, qt-format
+#, kde-format
+#| msgid "Unable to load KDE print management library: %1"
 msgid "Unable to load KDE print management library: %1"
 msgstr ""
 
@@ -4357,7 +4509,8 @@ msgstr ""
 
 #: lpdunix/kmlpdunixmanager.cpp:202 lpdunix/kmlpdunixmanager.cpp:246
 #: lpdunix/kmlpdunixmanager.cpp:285 lpdunix/kmlpdunixmanager.cpp:336
-#, qt-format
+#, kde-format
+#| msgid "Remote printer queue on %1"
 msgid "Remote printer queue on %1"
 msgstr ""
 
@@ -4373,17 +4526,20 @@ msgid "Cannot copy multiple files into one file."
 msgstr ""
 
 #: kprinterimpl.cpp:153
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "Cannot save print file to %1. Check that you have write access to it."
 msgid "Cannot save print file to %1. Check that you have write access to it."
 msgstr ""
 
 #: kprinterimpl.cpp:198
-#, qt-format
+#, kde-format
 msgid "Printing document: %1"
 msgstr "Dokument gëtt gedréckt: %1"
 
 #: kprinterimpl.cpp:206
-#, qt-format
+#, kde-format
+#| msgid "Sending print data to printer: %1"
 msgid "Sending print data to printer: %1"
 msgstr ""
 
@@ -4398,7 +4554,11 @@ msgid ""
 msgstr ""
 
 #: kprinterimpl.cpp:232
-#, qt-format
+#, kde-format
+#| msgctxt "1 is the command that <files> is given to"
+#| msgid ""
+#| "Check the command syntax:\n"
+#| "%1 <files>"
 msgctxt "1 is the command that <files> is given to"
 msgid ""
 "Check the command syntax:\n"
@@ -4417,19 +4577,28 @@ msgid ""
 msgstr ""
 
 #: kprinterimpl.cpp:299
-#, qt-format
+#, kde-format
+#| msgid "<p>Could not load filter description for <b>%1</b>.</p>"
 msgid "<p>Could not load filter description for <b>%1</b>.</p>"
 msgstr ""
 
 #: kprinterimpl.cpp:312
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "<p>Error while reading filter description for <b>%1</b>. Empty command "
+#| "line received.</p>"
 msgid ""
 "<p>Error while reading filter description for <b>%1</b>. Empty command line "
 "received.</p>"
 msgstr ""
 
 #: kprinterimpl.cpp:324
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "<p>The MIME type %1 is not supported as input of the filter chain (this "
+#| "may happen with non-CUPS spoolers when performing page selection on a non-"
+#| "PostScript file). Do you want KDE to convert the file to a supported "
+#| "format?</p>"
 msgid ""
 "<p>The MIME type %1 is not supported as input of the filter chain (this may "
 "happen with non-CUPS spoolers when performing page selection on a non-"
@@ -4458,7 +4627,10 @@ msgid "No appropriate filter found. Select another target format."
 msgstr ""
 
 #: kprinterimpl.cpp:353
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "<qt>Operation failed with message:<br />%1<br />Select another target "
+#| "format.</qt>"
 msgid ""
 "<qt>Operation failed with message:<br />%1<br />Select another target format."
 "</qt>"
@@ -4469,17 +4641,27 @@ msgid "Filtering print data"
 msgstr ""
 
 #: kprinterimpl.cpp:372
-#, qt-format
+#, kde-format
+#| msgid "Error while filtering. Command was: <b>%1</b>."
 msgid "Error while filtering. Command was: <b>%1</b>."
 msgstr ""
 
 #: kprinterimpl.cpp:407
-#, qt-format
+#, kde-format
+#| msgid "<qt>The print file is empty and will be ignored:<p>%1</p></qt>"
 msgid "<qt>The print file is empty and will be ignored:<p>%1</p></qt>"
 msgstr ""
 
 #: kprinterimpl.cpp:415
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "<qt>The file format <em> %1 </em> is not directly supported by the "
+#| "current print system. You now have 3 options: <ul> <li> KDE can attempt "
+#| "to convert this file automatically to a supported format. (Select "
+#| "<em>Convert</em>) </li><li> You can try to send the file to the printer "
+#| "without any conversion. (Select <em>Keep</em>) </li><li> You can cancel "
+#| "the printjob. (Select <em>Cancel</em>) </li></ul> Do you want KDE to "
+#| "attempt and convert this file to %2?</qt>"
 msgid ""
 "<qt>The file format <em> %1 </em> is not directly supported by the current "
 "print system. You now have 3 options: <ul> <li> KDE can attempt to convert "
@@ -4491,7 +4673,13 @@ msgid ""
 msgstr ""
 
 #: kprinterimpl.cpp:434
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "<qt>No appropriate filter was found to convert the file format %1 into %2."
+#| "<br /><ul><li>Go to <i>System Options -> Commands</i> to look through the "
+#| "list of possible filters. Each filter executes an external program.</"
+#| "li><li> See if the required external program is available.on your system."
+#| "</li></ul></qt>"
 msgid ""
 "<qt>No appropriate filter was found to convert the file format %1 into %2."
 "<br /><ul><li>Go to <i>System Options -> Commands</i> to look through the "
@@ -4740,7 +4928,8 @@ msgid "En&d:"
 msgstr "En&n:"
 
 #: ppdloader.cpp:141
-#, qt-format
+#, kde-format
+#| msgid "(line %1): "
 msgid "(line %1): "
 msgstr ""
 
@@ -4757,7 +4946,8 @@ msgid "No Option Selected"
 msgstr ""
 
 #: kmuimanager.cpp:163
-#, qt-format
+#, kde-format
+#| msgid "Configuration of %1"
 msgid "Configuration of %1"
 msgstr ""
 
@@ -4964,7 +5154,11 @@ msgid "Cancel"
 msgstr ""
 
 #: kprintpreview.cpp:277
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "The preview program %1 cannot be found. Check that the program is "
+#| "correctly installed and located in a directory included in your PATH "
+#| "environment variable."
 msgid ""
 "The preview program %1 cannot be found. Check that the program is correctly "
 "installed and located in a directory included in your PATH environment "
@@ -4978,14 +5172,18 @@ msgid ""
 msgstr ""
 
 #: kprintpreview.cpp:301
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "Preview failed: KDE could not find any application to preview files of "
+#| "type %1."
 msgid ""
 "Preview failed: KDE could not find any application to preview files of type %"
 "1."
 msgstr ""
 
 #: kprintpreview.cpp:310
-#, qt-format
+#, kde-format
+#| msgid "Preview failed: unable to start program %1."
 msgid "Preview failed: unable to start program %1."
 msgstr ""
 
@@ -4994,7 +5192,8 @@ msgid "Do you want to continue printing?"
 msgstr ""
 
 #: kmfactory.cpp:229
-#, qt-format
+#, kde-format
+#| msgid "<qt>There was an error loading %1. The diagnostic is:<p>%2</p></qt>"
 msgid "<qt>There was an error loading %1. The diagnostic is:<p>%2</p></qt>"
 msgstr ""
 
@@ -5161,7 +5360,14 @@ msgid "JCL"
 msgstr "JCL"
 
 #: kmvirtualmanager.cpp:154
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "<qt>You are about to set a pseudo-printer as your personal default. This "
+#| "setting is specific to KDE and will not be available outside KDE "
+#| "applications. Note that this will only make your personal default printer "
+#| "as undefined for non-KDE applications and should not prevent you from "
+#| "printing normally. Do you really want to set <b>%1</b> as your personal "
+#| "default?</qt>"
 msgid ""
 "<qt>You are about to set a pseudo-printer as your personal default. This "
 "setting is specific to KDE and will not be available outside KDE "
@@ -5327,7 +5533,8 @@ msgid "One of the command object's requirements is not met."
 msgstr ""
 
 #: kxmlcommand.cpp:742 kxmlcommand.cpp:746
-#, qt-format
+#, kde-format
+#| msgid "The command does not contain the required tag %1."
 msgid "The command does not contain the required tag %1."
 msgstr ""
 

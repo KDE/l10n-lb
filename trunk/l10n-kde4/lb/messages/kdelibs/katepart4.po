@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-10-10 05:30+0200\n"
+"POT-Creation-Date: 2007-10-11 05:39+0200\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -24,7 +24,7 @@ msgid "New Filetype"
 msgstr "Neien Dateityp"
 
 #: mode/katemodeconfigpage.cpp:223
-#, qt-format
+#, kde-format
 msgid "Properties of %1"
 msgstr "Eegeschafte vun %1"
 
@@ -57,12 +57,12 @@ msgid ""
 msgstr ""
 
 #: view/kateviewhelpers.cpp:333
-#, qt-format
+#, kde-format
 msgid "No help for '%1'"
 msgstr "Keng Hëllef fir %1"
 
 #: view/kateviewhelpers.cpp:336
-#, qt-format
+#, kde-format
 msgid "No such command <b>%1</b>"
 msgstr "Et gëtt keen esou ee Kommando <b>%1</b>"
 
@@ -87,12 +87,12 @@ msgid "Error: "
 msgstr "Feeler:"
 
 #: view/kateviewhelpers.cpp:407
-#, qt-format
+#, kde-format
 msgid "Command \"%1\" failed."
 msgstr "De Kommando \"%1\" ass feelgeschloen."
 
 #: view/kateviewhelpers.cpp:413
-#, qt-format
+#, kde-format
 msgid "No such command: \"%1\""
 msgstr "Et gëtt keen esou ee Kommando: \"%1\""
 
@@ -101,7 +101,7 @@ msgid "Bookmark"
 msgstr "Lieszeechen"
 
 #: view/kateviewhelpers.cpp:1279 view/kateviewhelpers.cpp:1280
-#, qt-format
+#, kde-format
 msgid "Mark Type %1"
 msgstr "Markéierungstyp %1"
 
@@ -902,17 +902,18 @@ msgid "unknown"
 msgstr "(Onbekannt)"
 
 #: jscript/katejscript.cpp:141
-#, qt-format
+#, kde-format
+#| msgid "Context '%1': Incorrect number of arguments in '%2'"
 msgid "Context '%1': Incorrect number of arguments in '%2'"
 msgstr ""
 
 #: jscript/katejscript.cpp:355 jscript/katejscript.cpp:455
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "Unable to read file: '%1'"
 msgstr "Kann %1 net opmaachen"
 
 #: jscript/katejscript.cpp:382 jscript/katejscript.cpp:443
-#, qt-format
+#, kde-format
 msgid "Exception, line %1: %2"
 msgstr "Ausnam, Zeil %1: %2"
 
@@ -930,22 +931,23 @@ msgid "Could not access lookup object."
 msgstr ""
 
 #: jscript/katejscript.cpp:491
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "Exception: Unable to find function '%1': %2"
 msgstr "Ausnam, Zeil %1: %2"
 
 #: jscript/katejscript.cpp:510
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "Exception in line %1: %2"
 msgstr "Ausnam, Zeil %1: %2"
 
 #: jscript/katejscript.cpp:1417
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "Command not found: %1"
 msgstr "Kommando gouf net fonnt"
 
 #: jscript/katejscript.cpp:1425
-#, qt-format
+#, kde-format
+#| msgid "Failed to start interpreter for script %1, command %2"
 msgid "Failed to start interpreter for script %1, command %2"
 msgstr ""
 
@@ -1108,7 +1110,7 @@ msgid ""
 msgstr ""
 
 #: tests/katetest.cpp:593
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid " Line: %1 Col: %2 "
 msgstr "Zeil: %1"
 
@@ -1376,7 +1378,10 @@ msgid "Your emails"
 msgstr "michel.ludwig@kdemail.net"
 
 #: tests/katetest.cpp:807
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "The file '%1' could not be opened: it is not a normal file, it is a "
+#| "folder."
 msgid ""
 "The file '%1' could not be opened: it is not a normal file, it is a folder."
 msgstr ""
@@ -1386,37 +1391,32 @@ msgstr ""
 msgid "Choose Editor Component"
 msgstr "Abettbar Editor-Komponent"
 
-#: utils/kateprinter.cpp:75
-#, qt-format
-msgid "Print %1"
-msgstr "%1 drécken"
-
-#: utils/kateprinter.cpp:213
+#: utils/kateprinter.cpp:216
 msgid "(Selection of) "
 msgstr "(Auswal vun)"
 
-#: utils/kateprinter.cpp:321 utils/kateprinter.cpp:539
-#, qt-format
+#: utils/kateprinter.cpp:324 utils/kateprinter.cpp:543
+#, kde-format
 msgid "Typographical Conventions for %1"
 msgstr "Typographesch Konventioune fir %1"
 
-#: utils/kateprinter.cpp:658
+#: utils/kateprinter.cpp:664
 msgid "Te&xt Settings"
 msgstr "Te&xt-Astellungen"
 
-#: utils/kateprinter.cpp:663
+#: utils/kateprinter.cpp:669
 msgid "Print &selected text only"
 msgstr "Nëmmen au&sgewielten Text drécken"
 
-#: utils/kateprinter.cpp:666
+#: utils/kateprinter.cpp:672
 msgid "Print &line numbers"
 msgstr "Zei&lennummeren drécken"
 
-#: utils/kateprinter.cpp:669
+#: utils/kateprinter.cpp:675
 msgid "Print syntax &guide"
 msgstr "Syntax-&Guide drécken"
 
-#: utils/kateprinter.cpp:678
+#: utils/kateprinter.cpp:684
 msgid ""
 "<p>This option is only available if some text is selected in the document.</"
 "p><p>If available and enabled, only the selected text is printed.</p>"
@@ -1425,7 +1425,7 @@ msgstr ""
 "p><p>Wa se verfügbar an ugeschalt ass, gëtt nëmmen den ausgewielten Text "
 "gedréckt.</p>"
 
-#: utils/kateprinter.cpp:681
+#: utils/kateprinter.cpp:687
 msgid ""
 "<p>If enabled, line numbers will be printed on the left side of the page(s)."
 "</p>"
@@ -1433,7 +1433,7 @@ msgstr ""
 "<p>Wann se ugeschalt ass, ginn d'Zeilennummeren op de lénke Rand vun de "
 "Säiten gedréckt.</p>"
 
-#: utils/kateprinter.cpp:683
+#: utils/kateprinter.cpp:689
 #, fuzzy
 #| msgid ""
 #| "<p>Print a box displaying typographical conventions for the document "
@@ -1536,39 +1536,39 @@ msgstr ""
 "<p>Format vun de Fousszeilen. Déi folgend Formatuweisunge ginn ënnerstëtzt:</"
 "p>"
 
-#: utils/kateprinter.cpp:949
+#: utils/kateprinter.cpp:929
 msgid "L&ayout"
 msgstr "L&ayout"
 
-#: utils/kateprinter.cpp:956 utils/kateschema.cpp:707
+#: utils/kateprinter.cpp:936 utils/kateschema.cpp:707
 msgid "&Schema:"
 msgstr "&Schema:"
 
-#: utils/kateprinter.cpp:961
+#: utils/kateprinter.cpp:941
 msgid "Draw bac&kground color"
 msgstr "Hanner&grondfaarf zeechnen"
 
-#: utils/kateprinter.cpp:964
+#: utils/kateprinter.cpp:944
 msgid "Draw &boxes"
 msgstr "Rummen &zeechnen"
 
-#: utils/kateprinter.cpp:968
+#: utils/kateprinter.cpp:948
 msgid "Box Properties"
 msgstr "Rumm-Eegenschafte"
 
-#: utils/kateprinter.cpp:972
+#: utils/kateprinter.cpp:952
 msgid "W&idth:"
 msgstr "B&reet:"
 
-#: utils/kateprinter.cpp:980
+#: utils/kateprinter.cpp:960
 msgid "&Margin:"
 msgstr "Ra&nd:"
 
-#: utils/kateprinter.cpp:988
+#: utils/kateprinter.cpp:968
 msgid "Co&lor:"
 msgstr "Faar&f:"
 
-#: utils/kateprinter.cpp:1008
+#: utils/kateprinter.cpp:988
 msgid ""
 "<p>If enabled, the background color of the editor will be used.</p><p>This "
 "may be useful if your color scheme is designed for a dark background.</p>"
@@ -1577,7 +1577,7 @@ msgstr ""
 "kann nëtzlech sinn, wann ärt Faarfschema fir en däischteren Hannergrond "
 "entworf gouf.</p>"
 
-#: utils/kateprinter.cpp:1011
+#: utils/kateprinter.cpp:991
 msgid ""
 "<p>If enabled, a box as defined in the properties below will be drawn around "
 "the contents of each page. The Header and Footer will be separated from the "
@@ -1587,15 +1587,15 @@ msgstr ""
 "definéiert, ronderëm d'Inhalter vun all Säit gedréckt. D'Kapp- an "
 "d'Fousszeilen ginn och vun den Inhalter mat enger Linn getrennt.</p>"
 
-#: utils/kateprinter.cpp:1015
+#: utils/kateprinter.cpp:995
 msgid "The width of the box outline"
 msgstr "Breet vun der Kontur vun der Rumm"
 
-#: utils/kateprinter.cpp:1017
+#: utils/kateprinter.cpp:997
 msgid "The margin inside boxes, in pixels"
 msgstr "Rand an der Rumm (a Pixelen)"
 
-#: utils/kateprinter.cpp:1019
+#: utils/kateprinter.cpp:999
 msgid "The line color to use for boxes"
 msgstr "Linnefaarf vun der Rumm"
 
@@ -1639,12 +1639,12 @@ msgid "&Bookmarks"
 msgstr "Lieszeechen"
 
 #: utils/katebookmarks.cpp:220
-#, qt-format
+#, kde-format
 msgid "&Next: %1 - \"%2\""
 msgstr "&Nächst: %1 - \"%2\""
 
 #: utils/katebookmarks.cpp:227
-#, qt-format
+#, kde-format
 msgid "&Previous: %1 - \"%2\""
 msgstr "&Virdrun: %1 - \"%2\""
 
@@ -1856,7 +1856,7 @@ msgid "Highlighting Text Styles"
 msgstr ""
 
 #: utils/kateschema.cpp:744
-#, qt-format
+#, kde-format
 msgid "&Default schema for %1:"
 msgstr "Stan&dardschema fir %1:"
 
@@ -2161,24 +2161,26 @@ msgid "None"
 msgstr "Keen"
 
 #: utils/katecmds.cpp:157
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "No such command: \"%1\""
 msgid "No such highlighting '%1'"
 msgstr "Et gëtt keen esou ee Kommando: \"%1\""
 
 #: utils/katecmds.cpp:164
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "No such command: \"%1\""
 msgid "No such mode '%1'"
 msgstr "Et gëtt keen esou ee Kommando: \"%1\""
 
 #: utils/katecmds.cpp:175
-#, qt-format
+#, kde-format
+#| msgid "Missing argument. Usage: %1 <value>"
 msgid "Missing argument. Usage: %1 <value>"
 msgstr ""
 
 #: utils/katecmds.cpp:179
-#, qt-format
+#, kde-format
+#| msgid "Failed to convert argument '%1' to integer."
 msgid "Failed to convert argument '%1' to integer."
 msgstr ""
 
@@ -2199,17 +2201,19 @@ msgid "There is not that many lines in this document"
 msgstr ""
 
 #: utils/katecmds.cpp:225
-#, qt-format
+#, kde-format
+#| msgid "Usage: %1 on|off|1|0|true|false"
 msgid "Usage: %1 on|off|1|0|true|false"
 msgstr ""
 
 #: utils/katecmds.cpp:255
-#, qt-format
+#, kde-format
+#| msgid "Bad argument '%1'. Usage: %2 on|off|1|0|true|false"
 msgid "Bad argument '%1'. Usage: %2 on|off|1|0|true|false"
 msgstr ""
 
 #: utils/katecmds.cpp:260
-#, qt-format
+#, kde-format
 msgid "Unknown command '%1'"
 msgstr "Onbekanntent Kommando '%1'"
 
@@ -2218,7 +2222,7 @@ msgid "Sorry, but Kate is not able to replace newlines, yet"
 msgstr ""
 
 #: utils/katecmds.cpp:523
-#, qt-format
+#, kde-format
 msgid "1 replacement done"
 msgid_plural "%1 replacements done"
 msgstr[0] ""
@@ -5470,7 +5474,7 @@ msgid "Zonnon"
 msgstr "(Onbekannt)"
 
 #: syntax/katesyntaxdocument.cpp:79
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid ""
 #| "<qt>The error <b>%4</b><br> has been detected in the file %1 at %2/%3</qt>"
 msgid ""
@@ -5479,7 +5483,7 @@ msgstr ""
 "<qt>De Feeler <b>%4</b><br> gouf an der Datei %1 bei %2/%3 festgestallt</qt>"
 
 #: syntax/katesyntaxdocument.cpp:87
-#, qt-format
+#, kde-format
 msgid "Unable to open %1"
 msgstr "Kann %1 net opmaachen"
 
@@ -5488,7 +5492,7 @@ msgid "Errors!"
 msgstr "Feeler !"
 
 #: syntax/katesyntaxdocument.cpp:470
-#, qt-format
+#, kde-format
 msgid "Error: %1"
 msgstr "Feeler: %1"
 
@@ -5541,19 +5545,25 @@ msgid "Normal Text"
 msgstr "Normalen Text"
 
 #: syntax/katehighlight.cpp:804
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "<b>%1</b>: Deprecated syntax. Attribute (%2) not addressed by symbolic "
+#| "name<br />"
 msgid ""
 "<b>%1</b>: Deprecated syntax. Attribute (%2) not addressed by symbolic "
 "name<br />"
 msgstr ""
 
 #: syntax/katehighlight.cpp:1208
-#, qt-format
+#, kde-format
+#| msgid "<b>%1</b>: Deprecated syntax. Context %2 has no symbolic name<br />"
 msgid "<b>%1</b>: Deprecated syntax. Context %2 has no symbolic name<br />"
 msgstr ""
 
 #: syntax/katehighlight.cpp:1287
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "<B>%1</B>:Deprecated syntax. Context %2 not addressed by a symbolic name"
 msgid ""
 "<B>%1</B>:Deprecated syntax. Context %2 not addressed by a symbolic name"
 msgstr ""
@@ -5575,14 +5585,20 @@ msgid ""
 msgstr ""
 
 #: syntax/katehighlight.cpp:1761
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "<b>%1</b>: Specified multiline comment region (%2) could not be "
+#| "resolved<br />"
 msgid ""
 "<b>%1</b>: Specified multiline comment region (%2) could not be resolved<br /"
 ">"
 msgstr ""
 
 #: document/katedocument.cpp:148
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "You are trying to save a python file as non ASCII, without specifiying a "
+#| "correct source encoding line for encoding \"%1\""
 msgid ""
 "You are trying to save a python file as non ASCII, without specifiying a "
 "correct source encoding line for encoding \"%1\""
@@ -5593,7 +5609,7 @@ msgid "No encoding header"
 msgstr ""
 
 #: document/katedocument.cpp:150
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "Insert: %1"
 msgstr "Zeil: %1"
 
@@ -5604,7 +5620,11 @@ msgid "Save Nevertheless"
 msgstr "Trozdem späicheren"
 
 #: document/katedocument.cpp:3424 document/katedocument.cpp:3429
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "The file %1 could not be loaded, as it was not possible to read from it.\n"
+#| "\n"
+#| "Check if you have read access to this file."
 msgid ""
 "The file %1 could not be loaded, as it was not possible to read from it.\n"
 "\n"
@@ -5613,7 +5633,8 @@ msgstr ""
 
 #: document/katedocument.cpp:3440 document/katedocument.cpp:3445
 #: document/katedocument.cpp:3479
-#, qt-format
+#, kde-format
+#| msgid "The file %1 is a binary, saving it will result in a corrupt file."
 msgid "The file %1 is a binary, saving it will result in a corrupt file."
 msgstr ""
 
@@ -5622,7 +5643,12 @@ msgid "Binary File Opened"
 msgstr "Binär Datei opgemat"
 
 #: document/katedocument.cpp:3456 document/katedocument.cpp:3462
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "The file %1 was opened with UTF-8 encoding but contained invalid "
+#| "characters. It is set to read-only mode, as saving might destroy it's "
+#| "content. Either reopen the file with the correct encoding chosen or "
+#| "enable the read-write mode again in the menu to be able to edit it."
 msgid ""
 "The file %1 was opened with UTF-8 encoding but contained invalid characters. "
 "It is set to read-only mode, as saving might destroy it's content. Either "
@@ -5667,7 +5693,12 @@ msgid ""
 msgstr ""
 
 #: document/katedocument.cpp:3576
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "For file %1 no backup copy could be created before saving. If an error "
+#| "occurs while saving, you might lose the data of this file. A reason could "
+#| "be that the media you write to is full or the directory of the file is "
+#| "read-only for you."
 msgid ""
 "For file %1 no backup copy could be created before saving. If an error "
 "occurs while saving, you might lose the data of this file. A reason could be "
@@ -5685,7 +5716,12 @@ msgid "Try to Save Nevertheless"
 msgstr "Trozdem späicheren"
 
 #: document/katedocument.cpp:3611
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "The document could not be saved, as it was not possible to write to %1.\n"
+#| "\n"
+#| "Check that you have write access to this file or that enough disk space "
+#| "is available."
 msgid ""
 "The document could not be saved, as it was not possible to write to %1.\n"
 "\n"
@@ -5719,22 +5755,22 @@ msgid "&Ignore Changes"
 msgstr "Ännerungen &ignoréieren"
 
 #: document/katedocument.cpp:5793
-#, qt-format
+#, kde-format
 msgid "The file '%1' was modified by another program."
 msgstr "D'Datei '%1' gouf vun engem anere Programm verännert."
 
 #: document/katedocument.cpp:5796
-#, qt-format
+#, kde-format
 msgid "The file '%1' was created by another program."
 msgstr "D'Datei '%1' gouf vun engem anere Programm erstallt."
 
 #: document/katedocument.cpp:5799
-#, qt-format
+#, kde-format
 msgid "The file '%1' was deleted by another program."
 msgstr "D'Datei '%1' gouf vun engem anere Programm geläscht."
 
 #: document/katedocument.cpp:5907
-#, qt-format
+#, kde-format
 msgid ""
 "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
@@ -5748,6 +5784,9 @@ msgstr "Datei iwwerschreiwen ?"
 #: document/katedocument.cpp:5910
 msgid "&Overwrite"
 msgstr "Iwwerschrei&wen"
+
+#~ msgid "Print %1"
+#~ msgstr "%1 drécken"
 
 #~ msgid "Nowhere"
 #~ msgstr "Néierens"

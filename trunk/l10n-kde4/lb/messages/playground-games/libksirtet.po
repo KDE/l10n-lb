@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libksirtet\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-07-17 06:05+0200\n"
+"POT-Creation-Date: 2007-10-11 05:45+0200\n"
 "PO-Revision-Date: 2005-11-14 22:37+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -32,7 +32,7 @@ msgid "Proceed"
 msgstr "Fuer duer"
 
 #: base/basefield.cpp:49
-#, qt-format
+#, kde-format
 msgid ""
 "%1\n"
 "(AI player)"
@@ -41,7 +41,7 @@ msgstr ""
 "(KI Spiller)"
 
 #: base/basefield.cpp:50
-#, qt-format
+#, kde-format
 msgid ""
 "%1\n"
 "(Human player)"
@@ -78,7 +78,7 @@ msgid "The End"
 msgstr "D'Enn"
 
 #: base/basefield.cpp:136
-#, qt-format
+#, kde-format
 msgid "Stage #%1 done"
 msgstr "Stuf #%1 färdeg"
 
@@ -147,7 +147,7 @@ msgid "Opacity:"
 msgstr "Onduerchsichtegkeet:"
 
 #: lib/defines.cpp:9
-#, qt-format
+#, kde-format
 msgid ""
 "%1:\n"
 "%2"
@@ -172,7 +172,7 @@ msgid "Client has not answered in time"
 msgstr "De Client huet net an der Zäit geäntwert"
 
 #: lib/keys.cpp:88
-#, qt-format
+#, kde-format
 msgid "Shortcuts for player #%1/%2"
 msgstr "Kierzel fir de Spiller #%1/%2"
 
@@ -197,7 +197,7 @@ msgid "Quit"
 msgstr ""
 
 #: lib/meeting.cpp:75
-#, qt-format
+#, kde-format
 msgid "A new client has just arrived (#%1)"
 msgstr "En neie Client ass lo grad ukomm (#%1)"
 
@@ -218,12 +218,12 @@ msgid "Link broken or empty data from"
 msgstr "Verbindung ënnerbrach oder eidel Donnéen vun"
 
 #: lib/meeting.cpp:269
-#, qt-format
+#, kde-format
 msgid "%1 client #%2: disconnect it"
 msgstr "%1 Client #%2: huet d'Verbindung ënnerbrach"
 
 #: lib/meeting.cpp:292
-#, qt-format
+#, kde-format
 msgid ""
 "Failed to accept incoming client:\n"
 "%1"
@@ -236,7 +236,7 @@ msgid "Client rejected for incompatible ID"
 msgstr "De Client gouf verworf wéinst enger inkompatibler ID"
 
 #: lib/meeting.cpp:327
-#, qt-format
+#, kde-format
 msgid "Client #%1 has left"
 msgstr "Client #%1 ass gaangen"
 
@@ -247,12 +247,12 @@ msgid "Unable to write to a client at game beginning."
 msgstr "Konnt net zum Client #%1 um Ufank vum Spill schreiwen."
 
 #: lib/meeting.cpp:486
-#, qt-format
+#, kde-format
 msgid "%1 server: aborting connection."
 msgstr "%1 Server: Verbindung ofgebrach."
 
 #: lib/meeting.cpp:553
-#, qt-format
+#, kde-format
 msgid "Client %1 has left"
 msgstr "Client %1 ass gaangen"
 
@@ -321,12 +321,12 @@ msgid "Move to Right Column"
 msgstr "Réckel an déi riets Kolonn"
 
 #: lib/mp_interface.cpp:139
-#, qt-format
+#, kde-format
 msgid "Human %1"
 msgstr "Mënsch %1"
 
 #: lib/mp_interface.cpp:140
-#, qt-format
+#, kde-format
 msgid "AI %1"
 msgstr "KI %1"
 
@@ -335,12 +335,12 @@ msgid "Server has left game!"
 msgstr "De Server huet d'Spill verlos!"
 
 #: lib/pline.cpp:74
-#, qt-format
+#, kde-format
 msgid "Hu=%1"
 msgstr "Më=%1"
 
 #: lib/pline.cpp:75
-#, qt-format
+#, kde-format
 msgid "AI=%1"
 msgstr "KI=%1"
 
@@ -349,7 +349,7 @@ msgid "Settings"
 msgstr "Astellungen"
 
 #: lib/types.cpp:38
-#, qt-format
+#, kde-format
 msgid ""
 "\n"
 "Server: \"%1\"\n"
@@ -396,7 +396,7 @@ msgid "Choose Game Type"
 msgstr "Wielt e Spillgenre"
 
 #: lib/wizard.cpp:110 lib/wizard.cpp:135
-#, qt-format
+#, kde-format
 msgid "Player #%1"
 msgstr "Spiller #%1"
 
@@ -417,14 +417,18 @@ msgid "Server address:"
 msgstr "Serveradress:"
 
 #: lib/wizard.cpp:183
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "Error opening server network connection on the port %2. \n"
+#| "Following error occured: %3"
 msgid ""
 "Error opening server network connection on the port %2. \n"
 "Following error occured: %3"
 msgstr ""
 
 #: lib/wizard.cpp:195
-#, qt-format
+#, kde-format
+#| msgid "Error opening client network connection to \"%1:%2\""
 msgid "Error opening client network connection to \"%1:%2\""
 msgstr ""
 

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kabc_net\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-10-06 05:40+0200\n"
+"POT-Creation-Date: 2007-10-11 05:42+0200\n"
 "PO-Revision-Date: 2006-05-01 21:12+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -15,27 +15,27 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #: resourcenet.cpp:146
-#, qt-format
+#, kde-format
 msgid "Unable to download file '%1'."
 msgstr "D'Datei '%1' konnt net erofgeluede ginn."
 
 #: resourcenet.cpp:152 resourcenet.cpp:187 resourcenet.cpp:369
-#, qt-format
+#, kde-format
 msgid "Unable to open file '%1'."
 msgstr "D'Datei '%1' konnt net opgemat ginn."
 
 #: resourcenet.cpp:159 resourcenet.cpp:365
-#, qt-format
+#, kde-format
 msgid "Problems during parsing file '%1'."
 msgstr "Et goufe Problemer beim Analyséiere vun der Datei '%1'."
 
 #: resourcenet.cpp:247 resourcenet.cpp:279
-#, qt-format
+#, kde-format
 msgid "Unable to save file '%1'."
 msgstr "D'Datei '%1' konnt net gespäichert ginn."
 
 #: resourcenet.cpp:253
-#, qt-format
+#, kde-format
 msgid "Unable to upload to '%1'."
 msgstr "D'Datei '%1' konnt net eropgeluede ginn."
 

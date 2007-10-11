@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-10-10 05:30+0200\n"
+"POT-Creation-Date: 2007-10-11 05:39+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1708,7 +1708,7 @@ msgid "URI error"
 msgstr "URI-Feeler"
 
 #: interfaces/ktexteditor/editorchooser.cpp:71
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "System Default (currently: %1)"
 msgstr "System-Standard (%1)"
 
@@ -1775,7 +1775,7 @@ msgid "Check Sycoca database only once"
 msgstr "An der Sycoca-Datebank just eng Kéier nokucken"
 
 #: kded/kbuildsycoca.cpp:483
-#, qt-format
+#, kde-format
 msgid ""
 "Error creating database '%1'.\n"
 "Check that the permissions are correct on the directory and the disk is not "
@@ -1791,7 +1791,7 @@ msgid "KBuildSycoca"
 msgstr "KBuildSycoca"
 
 #: kded/kbuildsycoca.cpp:514
-#, qt-format
+#, kde-format
 msgid ""
 "Error writing database '%1'.\n"
 "Check that the permissions are correct on the directory and the disk is not "
@@ -2072,12 +2072,12 @@ msgid "UNIX Sockets (specific for both current host and current user)"
 msgstr "UNIX-Sockets (déi vum Host a vum Benotzer)"
 
 #: kdecore/kde-config.cpp:157
-#, qt-format
+#, kde-format
 msgid "%1 - unknown type\n"
 msgstr "%1 - onbekannten Typ\n"
 
 #: kdecore/kde-config.cpp:219
-#, qt-format
+#, kde-format
 msgid "%1 - unknown type of userpath\n"
 msgstr "%1 - onbekannten Typ vum Benotzerwee\n"
 
@@ -3211,20 +3211,24 @@ msgid "KLibLoader: Unknown error"
 msgstr "Onbekannte Feeler"
 
 #: kdecore/util/kpluginloader.cpp:125
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "The service '%1' provides no library or the Library key is missing in "
+#| "the .desktop file"
 msgid ""
 "The service '%1' provides no library or the Library key is missing in the ."
 "desktop file"
 msgstr ""
 
 #: kdecore/util/kpluginloader.cpp:159
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "The library %1 does not offer a KDE compatible factory."
 msgid "The library %1 does not offer a KDE 4 compatible factory."
 msgstr "D'Bibliothéik %1 huet keng Factory, déi mat KDE kompatibel ass."
 
 #: kdecore/util/kpluginloader.cpp:183
-#, qt-format
+#, kde-format
+#| msgid "The plugin '%1' uses incompatible KDE library. (%2)"
 msgid "The plugin '%1' uses incompatible KDE library. (%2)"
 msgstr ""
 
@@ -3233,7 +3237,7 @@ msgid "Please contact your system administrator."
 msgstr "Mellt iech w.e.g. bei ärer Systemverwaltung."
 
 #: kdecore/network/k3socketaddress.cpp:623
-#, qt-format
+#, kde-format
 msgctxt "1: the unknown socket address family number"
 msgid "Unknown family %1"
 msgstr "Onbekannt Socket-Famill %1"
@@ -3391,7 +3395,7 @@ msgid "unknown error"
 msgstr "Onbekannte Feeler"
 
 #: kdecore/network/k3resolver.cpp:557
-#, qt-format
+#, kde-format
 msgctxt "1: the i18n'ed system error code, from errno"
 msgid "system error: %1"
 msgstr "Feeler am System: %1"
@@ -3574,19 +3578,19 @@ msgid "KDE"
 msgstr "KDE"
 
 #: kdecore/kernel/kcmdlineargs.cpp:792 kdecore/kernel/kcmdlineargs.cpp:812
-#, qt-format
+#, kde-format
 msgid "Unknown option '%1'."
 msgstr "Onbekannt Optioun '%1'."
 
 #: kdecore/kernel/kcmdlineargs.cpp:820
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "'%1' missing."
 msgctxt "@info:shell %1 is cmdoption name"
 msgid "'%1' missing."
 msgstr "'%1' feelt."
 
 #: kdecore/kernel/kcmdlineargs.cpp:905
-#, qt-format
+#, kde-format
 msgctxt "the 2nd argument is a list of name+address, one on each line"
 msgid ""
 "%1 was written by\n"
@@ -3604,12 +3608,12 @@ msgid "Please use http://bugs.kde.org to report bugs.\n"
 msgstr "Mellt eventuell Käfere w.e.g. ënnert http://bugs.kde.org.\n"
 
 #: kdecore/kernel/kcmdlineargs.cpp:918 kdecore/kernel/kcmdlineargs.cpp:920
-#, qt-format
+#, kde-format
 msgid "Please report bugs to %1.\n"
 msgstr "Mellt eventuell Käfere w.e.g. bei %1.\n"
 
 #: kdecore/kernel/kcmdlineargs.cpp:946
-#, qt-format
+#, kde-format
 msgid "Unexpected argument '%1'."
 msgstr "Den Argument '%1' ass onerwaart."
 
@@ -3622,12 +3626,12 @@ msgid "[options] "
 msgstr "[Optiounen]"
 
 #: kdecore/kernel/kcmdlineargs.cpp:1092
-#, qt-format
+#, kde-format
 msgid "[%1-options]"
 msgstr "[%1-Optiounen]"
 
 #: kdecore/kernel/kcmdlineargs.cpp:1113
-#, qt-format
+#, kde-format
 msgid "Usage: %1 %2\n"
 msgstr "Verwendung: %1 %2\n"
 
@@ -3643,7 +3647,7 @@ msgid "Show help about options"
 msgstr "D'Hëllefsoptiounen uweisen"
 
 #: kdecore/kernel/kcmdlineargs.cpp:1125
-#, qt-format
+#, kde-format
 msgid "Show %1 specific options"
 msgstr "Speziell Optioune fir %1 uweisen"
 
@@ -3668,7 +3672,7 @@ msgid "End of options"
 msgstr "Enn vun den Optiounen"
 
 #: kdecore/kernel/kcmdlineargs.cpp:1157
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid ""
 "\n"
 "%1 options:\n"
@@ -3701,7 +3705,7 @@ msgid "KDE-tempfile"
 msgstr ""
 
 #: kdecore/kernel/ktoolinvocation_x11.cpp:96
-#, qt-format
+#, kde-format
 msgid ""
 "Could not launch the KDE Help Center:\n"
 "\n"
@@ -3716,7 +3720,7 @@ msgid "Could not Launch Help Center"
 msgstr "Konnt den Hëllefszentrum net starten"
 
 #: kdecore/kernel/ktoolinvocation_x11.cpp:359
-#, qt-format
+#, kde-format
 msgid ""
 "Could not launch the mail client:\n"
 "\n"
@@ -3731,7 +3735,7 @@ msgid "Could not Launch Mail Client"
 msgstr "Konnt de Mailprogramm net starten"
 
 #: kdecore/kernel/ktoolinvocation_x11.cpp:374
-#, qt-format
+#, kde-format
 msgid ""
 "Could not launch the browser:\n"
 "\n"
@@ -3770,7 +3774,7 @@ msgstr ""
 "Quellcode no de Lizenzbedingungen\n"
 
 #: kdecore/kernel/kaboutdata.cpp:602
-#, qt-format
+#, kde-format
 msgid "This program is distributed under the terms of the %1."
 msgstr "Dëse Programm ass ënnert de Bedingunge vun %1 veröffentlëcht ginn."
 
@@ -3822,7 +3826,7 @@ msgid "Function must be called from the main thread."
 msgstr ""
 
 #: kdecore/kernel/ktoolinvocation.cpp:110
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid ""
 "KLauncher could not be reached via D-Bus, error when calling %1:\n"
 "%2\n"
@@ -3937,25 +3941,25 @@ msgid "extended"
 msgstr ""
 
 #: kdecore/sonnet/loader.cpp:231
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgctxt "dictionary name. %1-language, %2-country and %3 variant name"
 msgid "%1 (%2) [%3]"
 msgstr "%1 %2, %3"
 
 #: kdecore/sonnet/loader.cpp:238
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgctxt "dictionary name. %1-language and %2-country name"
 msgid "%1 (%2)"
 msgstr "%1 (%2)"
 
 #: kdecore/sonnet/loader.cpp:244
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgctxt "dictionary name. %1-language and %2-variant name"
 msgid "%1 [%2]"
 msgstr "%1 - [%2]"
 
 #: kdecore/services/kmimetype.cpp:58
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "Could not find mime type <resource>%2</resource>"
 msgid_plural ""
 "Could not find mime types:\n"
@@ -4090,27 +4094,31 @@ msgid "Thai"
 msgstr "Thailännësch"
 
 #: kdecore/localization/klocale.cpp:1152
-#, qt-format
+#, kde-format
+#| msgid "%1 TiB"
 msgid "%1 TiB"
 msgstr ""
 
 #: kdecore/localization/klocale.cpp:1154
-#, qt-format
+#, kde-format
+#| msgid "%1 GiB"
 msgid "%1 GiB"
 msgstr ""
 
 #: kdecore/localization/klocale.cpp:1160
-#, qt-format
+#, kde-format
+#| msgid "%1 MiB"
 msgid "%1 MiB"
 msgstr ""
 
 #: kdecore/localization/klocale.cpp:1166
-#, qt-format
+#, kde-format
+#| msgid "%1 KiB"
 msgid "%1 KiB"
 msgstr ""
 
 #: kdecore/localization/klocale.cpp:1171
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "%1 B"
 msgstr "%1 %2"
 
@@ -4119,27 +4127,30 @@ msgid "0 B"
 msgstr ""
 
 #: kdecore/localization/klocale.cpp:1184
-#, qt-format
+#, kde-format
+#| msgid "%1 days"
 msgid "%1 days"
 msgstr ""
 
 #: kdecore/localization/klocale.cpp:1187
-#, qt-format
+#, kde-format
+#| msgid "%1 hours"
 msgid "%1 hours"
 msgstr ""
 
 #: kdecore/localization/klocale.cpp:1190
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "%1 minutes"
 msgstr "%1 Optiounen"
 
 #: kdecore/localization/klocale.cpp:1193
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "%1 seconds"
 msgstr "%1 Optiounen"
 
 #: kdecore/localization/klocale.cpp:1196
-#, qt-format
+#, kde-format
+#| msgid "%1 milliseconds"
 msgid "%1 milliseconds"
 msgstr ""
 
@@ -4156,13 +4167,13 @@ msgid "Yesterday"
 msgstr "Dënschten"
 
 #: kdecore/localization/klocale.cpp:1857
-#, qt-format
+#, kde-format
 msgctxt "concatenation of dates and time"
 msgid "%1 %2"
 msgstr "%1 %2"
 
 #: kdecore/localization/klocale.cpp:1918
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgctxt "concatenation of date/time and time zone"
 msgid "%1 %2"
 msgstr "%1 %2"
@@ -4190,7 +4201,7 @@ msgid "Other"
 msgstr "Aner"
 
 #: kdecore/localization/kcharsets.cpp:660
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgctxt "Descriptive Encoding Name"
 #| msgid "%1 ( %2 )"
 msgctxt "@item %1 character set, %2 encoding"
@@ -4198,13 +4209,13 @@ msgid "%1 ( %2 )"
 msgstr "%1 (%2)"
 
 #: kdecore/localization/kcharsets.cpp:663
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgctxt "@item"
 msgid "Other encoding (%1)"
 msgstr "&Verschlësselung festléen"
 
 #: kdecore/localization/kcharsets.cpp:689
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgctxt "Descriptive Encoding Name"
 #| msgid "%1 ( %2 )"
 msgctxt "@item Text encoding: %1 character set, %2 encoding"
@@ -4222,49 +4233,59 @@ msgstr "%1 (%2)"
 #. - the proper quotes, those used in msgid are English-standard
 #. - the <i> and <b> tags, does your language script work well with them?
 #: kdecore/localization/kuitsemantics.cpp:484
-#, qt-format
+#, kde-format
+#| msgctxt "@title/plain"
+#| msgid "== %1 =="
 msgctxt "@title/plain"
 msgid "== %1 =="
 msgstr ""
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:488
-#, qt-format
+#, kde-format
+#| msgctxt "@title/rich"
+#| msgid "<h2>%1</h2>"
 msgctxt "@title/rich"
 msgid "<h2>%1</h2>"
 msgstr ""
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:494
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgctxt "@subtitle/plain"
 msgid "~ %1 ~"
 msgstr "(%1/s)"
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:498
-#, qt-format
+#, kde-format
+#| msgctxt "@subtitle/rich"
+#| msgid "<h3>%1</h3>"
 msgctxt "@subtitle/rich"
 msgid "<h3>%1</h3>"
 msgstr ""
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:524
-#, qt-format
+#, kde-format
+#| msgctxt "@item/plain"
+#| msgid "  * %1"
 msgctxt "@item/plain"
 msgid "  * %1"
 msgstr ""
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:528
-#, qt-format
+#, kde-format
+#| msgctxt "@item/rich"
+#| msgid "<li>%1</li>"
 msgctxt "@item/rich"
 msgid "<li>%1</li>"
 msgstr ""
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:534
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "Note"
 msgctxt "@note/plain"
 msgid "Note: %1"
@@ -4272,14 +4293,16 @@ msgstr "Notiz"
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:538
-#, qt-format
+#, kde-format
+#| msgctxt "@note/rich"
+#| msgid "<i>Note</i>: %1"
 msgctxt "@note/rich"
 msgid "<i>Note</i>: %1"
 msgstr ""
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:543
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgctxt "concatenation of dates and time"
 #| msgid "%1 %2"
 msgctxt ""
@@ -4290,7 +4313,11 @@ msgstr "%1 %2"
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:548
-#, qt-format
+#, kde-format
+#| msgctxt ""
+#| "@note-with-label/rich\n"
+#| "%1 is the note label, %2 is the text"
+#| msgid "<i>%1</i>: %2"
 msgctxt ""
 "@note-with-label/rich\n"
 "%1 is the note label, %2 is the text"
@@ -4299,14 +4326,16 @@ msgstr ""
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:554
-#, qt-format
+#, kde-format
+#| msgctxt "@warning/plain"
+#| msgid "WARNING: %1"
 msgctxt "@warning/plain"
 msgid "WARNING: %1"
 msgstr ""
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:558
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "<b>Error</b>: %1: %2"
 msgctxt "@warning/rich"
 msgid "<b>Warning</b>: %1"
@@ -4314,7 +4343,7 @@ msgstr "<b>Feeler</b>: %1: %2"
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:563
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgctxt "concatenation of dates and time"
 #| msgid "%1 %2"
 msgctxt ""
@@ -4325,7 +4354,7 @@ msgstr "%1 %2"
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:568
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "<b>Error</b>: %1: %2"
 msgctxt ""
 "@warning-with-label/rich\n"
@@ -4335,7 +4364,7 @@ msgstr "<b>Feeler</b>: %1: %2"
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:583
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "%2 (%1 K)"
 msgctxt ""
 "@link-with-description/plain\n"
@@ -4345,7 +4374,7 @@ msgstr "%2 (%1 K)"
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:588
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "   <a href=\"%1\">[Properties]</a>"
 msgctxt ""
 "@link-with-description/rich\n"
@@ -4355,21 +4384,25 @@ msgstr "   <a href=\"%1\">[Eegeschaften]</a>"
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:594
-#, qt-format
+#, kde-format
+#| msgctxt "@filename/plain"
+#| msgid "‘%1’"
 msgctxt "@filename/plain"
 msgid "‘%1’"
 msgstr ""
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:598
-#, qt-format
+#, kde-format
+#| msgctxt "@filename/rich"
+#| msgid "<tt>%1</tt>"
 msgctxt "@filename/rich"
 msgid "<tt>%1</tt>"
 msgstr ""
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:604
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "%1%"
 msgctxt "@application/plain"
 msgid "%1"
@@ -4377,7 +4410,7 @@ msgstr "%1%"
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:608
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "%1%"
 msgctxt "@application/rich"
 msgid "%1"
@@ -4385,7 +4418,7 @@ msgstr "%1%"
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:614
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "%1%"
 msgctxt "@command/plain"
 msgid "%1"
@@ -4393,14 +4426,16 @@ msgstr "%1%"
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:618
-#, qt-format
+#, kde-format
+#| msgctxt "@command/rich"
+#| msgid "<tt>%1</tt>"
 msgctxt "@command/rich"
 msgid "<tt>%1</tt>"
 msgstr ""
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:623
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgctxt ""
 "@command-with-section/plain\n"
 "%1 is the command name, %2 is its man section"
@@ -4409,7 +4444,11 @@ msgstr "%1 (%2)"
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:628
-#, qt-format
+#, kde-format
+#| msgctxt ""
+#| "@command-with-section/rich\n"
+#| "%1 is the command name, %2 is its man section"
+#| msgid "<tt>%1(%2)</tt>"
 msgctxt ""
 "@command-with-section/rich\n"
 "%1 is the command name, %2 is its man section"
@@ -4418,21 +4457,25 @@ msgstr ""
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:634
-#, qt-format
+#, kde-format
+#| msgctxt "@resource/plain"
+#| msgid "“%1”"
 msgctxt "@resource/plain"
 msgid "“%1”"
 msgstr ""
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:638
-#, qt-format
+#, kde-format
+#| msgctxt "@resource/rich"
+#| msgid "“%1”"
 msgctxt "@resource/rich"
 msgid "“%1”"
 msgstr ""
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:664
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "%1%"
 msgctxt "@shortcut/plain"
 msgid "%1"
@@ -4440,63 +4483,79 @@ msgstr "%1%"
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:668
-#, qt-format
+#, kde-format
+#| msgctxt "@shortcut/rich"
+#| msgid "<b>%1</b>"
 msgctxt "@shortcut/rich"
 msgid "<b>%1</b>"
 msgstr ""
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:674
-#, qt-format
+#, kde-format
+#| msgctxt "@interface/plain"
+#| msgid "|%1|"
 msgctxt "@interface/plain"
 msgid "|%1|"
 msgstr ""
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:678
-#, qt-format
+#, kde-format
+#| msgctxt "@interface/rich"
+#| msgid "<i>%1</i>"
 msgctxt "@interface/rich"
 msgid "<i>%1</i>"
 msgstr ""
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:684
-#, qt-format
+#, kde-format
+#| msgctxt "@emphasis/plain"
+#| msgid "*%1*"
 msgctxt "@emphasis/plain"
 msgid "*%1*"
 msgstr ""
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:688
-#, qt-format
+#, kde-format
+#| msgctxt "@emphasis/rich"
+#| msgid "<i>%1</i>"
 msgctxt "@emphasis/rich"
 msgid "<i>%1</i>"
 msgstr ""
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:694
-#, qt-format
+#, kde-format
+#| msgctxt "@placeholder/plain"
+#| msgid "<%1>"
 msgctxt "@placeholder/plain"
 msgid "<%1>"
 msgstr ""
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:698
-#, qt-format
+#, kde-format
+#| msgctxt "@placeholder/rich"
+#| msgid "&lt;<i>%1</i>&gt;"
 msgctxt "@placeholder/rich"
 msgid "&lt;<i>%1</i>&gt;"
 msgstr ""
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:704
-#, qt-format
+#, kde-format
+#| msgctxt "@email/plain"
+#| msgid "<%1>"
 msgctxt "@email/plain"
 msgid "<%1>"
 msgstr ""
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:708
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "Please report bugs to <a href=\"mailto:%1\">%2</a>.\n"
 msgctxt "@email/rich"
 msgid "&lt;<a href=\"mailto:%1\">%1</a>&gt;"
@@ -4506,7 +4565,7 @@ msgstr ""
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:713
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgctxt "concatenation of dates and time"
 #| msgid "%1 %2"
 msgctxt ""
@@ -4517,7 +4576,7 @@ msgstr "%1 %2"
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:718
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "Please report bugs to <a href=\"mailto:%1\">%2</a>.\n"
 msgctxt ""
 "@email-with-name/rich\n"
@@ -4529,7 +4588,7 @@ msgstr ""
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:724
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "%1%"
 msgctxt "@envar/plain"
 msgid "$%1"
@@ -4537,21 +4596,23 @@ msgstr "%1%"
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:728
-#, qt-format
+#, kde-format
+#| msgctxt "@envar/rich"
+#| msgid "<tt>$%1</tt>"
 msgctxt "@envar/rich"
 msgid "<tt>$%1</tt>"
 msgstr ""
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:734
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgctxt "@message/plain"
 msgid "/%1/"
 msgstr "(%1/s)"
 
 #. i18n: KUIT pattern, see the comment to the first of these entries above.
 #: kdecore/localization/kuitsemantics.cpp:738
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "<b>Error</b>: %1: %2"
 msgctxt "@message/rich"
 msgid "<i>%1</i>"
@@ -4893,7 +4954,9 @@ msgid "Search:"
 msgstr "Siche&n:"
 
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:420
-#, qt-format
+#, kde-format
+#| msgctxt "Program name followed by 'Add On Installer'"
+#| msgid "%1 Add On Installer"
 msgctxt "Program name followed by 'Add On Installer'"
 msgid "%1 Add On Installer"
 msgstr ""
@@ -5009,19 +5072,19 @@ msgid "Contact on Jabber"
 msgstr ""
 
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:255
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "<Merge %1>"
 msgid "Server: %1"
 msgstr "<Merge %1>"
 
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:256
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "Hide %1"
 msgid "Provider: %1"
 msgstr "%1 net weisen"
 
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:257
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "Version:"
 msgid "Version: %1"
 msgstr "Versioun:"
@@ -5098,7 +5161,7 @@ msgstr ""
 
 #: knewstuff/knewstuff2/ui/knewstuffaction.cpp:35
 #: knewstuff/knewstuff2/ui/knewstuffbutton.cpp:63
-#, qt-format
+#, kde-format
 msgid "Download New %1"
 msgstr "Nei %1 eroflueden"
 
@@ -5117,7 +5180,7 @@ msgid "Download New Stuff"
 msgstr "Nei Saachen eroflueden"
 
 #: knewstuff/knewstuff2/ui/kdxschanges.cpp:55
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "Version"
 msgid "Version %1"
 msgstr "Versioun"
@@ -5163,7 +5226,7 @@ msgstr ""
 "erofgeluede Ressourcen net verifizéiert ginn.</qt>"
 
 #: knewstuff/knewstuff2/core/security.cpp:216
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid ""
 #| "<qt>Enter passphrase for key <b>0x%1</b>, belonging to<br><i>%2&lt;%3&gt;"
 #| "</i>:</qt>"
@@ -5206,43 +5269,50 @@ msgid " Stalled "
 msgstr ""
 
 #: kdeui/jobs/kstatusbarjobtracker.cpp:219
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid " %1/s "
 msgstr "(%1/s)"
 
 #: kdeui/jobs/kwidgetjobtracker.cpp:264
-#, qt-format
+#, kde-format
+#| msgid "%1 of %2 complete"
 msgid "%1 of %2 complete"
 msgstr ""
 
 #: kdeui/jobs/kwidgetjobtracker.cpp:275 kdeui/jobs/kwidgetjobtracker.cpp:287
-#, qt-format
+#, kde-format
+#| msgid "%2 / %1 folder"
+#| msgid_plural "%2 / %1 folders"
 msgid "%2 / %1 folder"
 msgid_plural "%2 / %1 folders"
 msgstr[0] ""
 msgstr[1] ""
 
 #: kdeui/jobs/kwidgetjobtracker.cpp:277 kdeui/jobs/kwidgetjobtracker.cpp:290
-#, qt-format
+#, kde-format
+#| msgid "%2 / %1 file"
+#| msgid_plural "%2 / %1 files"
 msgid "%2 / %1 file"
 msgid_plural "%2 / %1 files"
 msgstr[0] ""
 msgstr[1] ""
 
 #: kdeui/jobs/kwidgetjobtracker.cpp:300
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "%1 % of %2 "
 msgstr "%1 (%2)"
 
 #: kdeui/jobs/kwidgetjobtracker.cpp:303
-#, qt-format
+#, kde-format
+#| msgid "%2 % of 1 file"
+#| msgid_plural "%2 % of %1 files"
 msgid "%2 % of 1 file"
 msgid_plural "%2 % of %1 files"
 msgstr[0] ""
 msgstr[1] ""
 
 #: kdeui/jobs/kwidgetjobtracker.cpp:305
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "%1 %"
 msgstr "%1 %2"
 
@@ -5252,12 +5322,13 @@ msgid "Stalled"
 msgstr "Status"
 
 #: kdeui/jobs/kwidgetjobtracker.cpp:324
-#, qt-format
+#, kde-format
+#| msgid "%1/s ( %2 remaining )"
 msgid "%1/s ( %2 remaining )"
 msgstr ""
 
 #: kdeui/jobs/kwidgetjobtracker.cpp:343
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "%1/s (done)"
 msgstr "%1 (Link)"
 
@@ -5295,14 +5366,14 @@ msgid "Progress Dialog"
 msgstr ""
 
 #: kdeui/jobs/kwidgetjobtracker.cpp:494
-#, qt-format
+#, kde-format
 msgid "%1 folder"
 msgid_plural "%1 folders"
 msgstr[0] ""
 msgstr[1] ""
 
 #: kdeui/jobs/kwidgetjobtracker.cpp:495
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "%1 file"
 msgid_plural "%1 files"
 msgstr[0] "Nei Datei."
@@ -5347,7 +5418,7 @@ msgid "&Restore"
 msgstr "Zeréck&setzen"
 
 #: kdeui/util/ksystemtrayicon.cpp:187
-#, qt-format
+#, kde-format
 msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgstr "<qt>Sidd dir sëcher, dass dir <b>%1</b> zoumaache wëllt ?</qt>"
 
@@ -5700,7 +5771,7 @@ msgstr "D'Passwuert ass eidel"
 
 #: kdeui/dialogs/knewpassworddialog.cpp:109
 #: kde3support/kdeui/k3passworddialog.cpp:622
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "Password must be at least 1 character long"
 msgid_plural "Password must be at least %1 characters long"
 msgstr[0] "D'Passwuert muss mindestens aus engem Zeeche bestoën"
@@ -5789,7 +5860,7 @@ msgstr "Tastekonflikt"
 
 #: kdeui/dialogs/kshortcutsdialog.cpp:693
 #: kdeui/widgets/kkeysequencewidget.cpp:128
-#, qt-format
+#, kde-format
 msgid ""
 "The '%1' key combination has already been allocated to the \"%2\" action.\n"
 "Do you want to reassign it from that action to the current one?"
@@ -5809,7 +5880,7 @@ msgid "Conflict with Standard Application Shortcut"
 msgstr "Konflikt mat der Standardkombinatioun vum Programm"
 
 #: kdeui/dialogs/kshortcutsdialog.cpp:710
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid ""
 "The '%1' key combination has already been allocated to the standard action "
 "\"%2\" that many applications use.\n"
@@ -5819,7 +5890,7 @@ msgstr ""
 "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
 #: kdeui/dialogs/kshortcutsdialog.cpp:722
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid ""
 "The '%1' shape gesture has already been allocated to the \"%2\" action.\n"
 "Do you want to reassign it from that action to the current one?"
@@ -5828,7 +5899,7 @@ msgstr ""
 "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
 #: kdeui/dialogs/kshortcutsdialog.cpp:738
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid ""
 "The '%1' rocker gesture has already been allocated to the \"%2\" action.\n"
 "Do you want to reassign it from that action to the current one?"
@@ -5874,7 +5945,7 @@ msgstr "Dëss Noricht net méi weisen"
 #: kdeui/dialogs/kmessagebox.cpp:1010
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:58
 #: kdeui/widgets/khelpmenu.cpp:255 kde3support/kdeui/k3aboutdialog.cpp:1045
-#, qt-format
+#, kde-format
 msgid "About %1"
 msgstr "Iwwer %1"
 
@@ -5921,8 +5992,8 @@ msgstr ""
 msgid "Reset ToolBars"
 msgstr "Toolbaren zerécksetzen"
 
-#: kdeui/dialogs/kedittoolbar.cpp:484 khtml/khtmlview.cpp:2692
-#: khtml/khtmlview.cpp:2725 khtml/html/html_formimpl.cpp:2162
+#: kdeui/dialogs/kedittoolbar.cpp:484 khtml/khtmlview.cpp:2694
+#: khtml/khtmlview.cpp:2727 khtml/html/html_formimpl.cpp:2162
 msgid "Reset"
 msgstr "Zerécksetzen"
 
@@ -5954,7 +6025,7 @@ msgid "<Merge>"
 msgstr "<Merge>"
 
 #: kdeui/dialogs/kedittoolbar.cpp:1017
-#, qt-format
+#, kde-format
 msgid "<Merge %1>"
 msgstr "<Merge %1>"
 
@@ -5968,7 +6039,7 @@ msgstr ""
 "wann dir se läscht, kënnt dir se net méi zeréckhuelen."
 
 #: kdeui/dialogs/kedittoolbar.cpp:1024
-#, qt-format
+#, kde-format
 msgid "ActionList: %1"
 msgstr "Aktiounelëscht: %1"
 
@@ -5982,14 +6053,17 @@ msgstr ""
 "Et gëtt kee passend KAboutData-Objekt."
 
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:83
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "<html><font size=\"5\">%1</font><br /><b>Version %2</b><br />Using KDE %"
+#| "3</html>"
 msgid ""
 "<html><font size=\"5\">%1</font><br /><b>Version %2</b><br />Using KDE %3</"
 "html>"
 msgstr ""
 
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:111
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "License:"
 msgid "License: %1"
 msgstr "Lizenz:"
@@ -6023,7 +6097,7 @@ msgstr ""
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:142
 #: kde3support/kdeui/k3aboutapplication.cpp:111
 #: kde3support/kdeui/k3aboutapplication.cpp:114
-#, qt-format
+#, kde-format
 msgid "Please report bugs to <a href=\"mailto:%1\">%2</a>.\n"
 msgstr ""
 "Mellt w.e.g. eventuell Käferen an enger E-Mail un <a href=\"mailto:%1\">%2</"
@@ -6081,7 +6155,7 @@ msgid "Send bug report."
 msgstr "De Bericht fortschécken."
 
 #: kdeui/dialogs/kbugreport.cpp:164
-#, qt-format
+#, kde-format
 msgid "Send this bug report to %1."
 msgstr "Dëse Käfer bei %1 mellen."
 
@@ -6258,7 +6332,10 @@ msgid "About KDE"
 msgstr "Iwwer &KDE"
 
 #: kdeui/dialogs/kaboutkdedialog_p.cpp:49
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "<html><font size=\"5\">K Desktop Environment</font><br /><b>Version %1</"
+#| "b></html>"
 msgid ""
 "<html><font size=\"5\">K Desktop Environment</font><br /><b>Version %1</b></"
 "html>"
@@ -6486,12 +6563,12 @@ msgstr ""
 "\"Auswielen...\" kënnt dir Ännerunge virhuelen."
 
 #: kdeui/fonts/kfontrequester.cpp:173
-#, qt-format
+#, kde-format
 msgid "Preview of the \"%1\" font"
 msgstr "Virschau vun der Schrëft \"%1\""
 
 #: kdeui/fonts/kfontrequester.cpp:174
-#, qt-format
+#, kde-format
 msgid ""
 "This is a preview of the \"%1\" font. You can change it by clicking the "
 "\"Choose...\" button."
@@ -6894,7 +6971,7 @@ msgid "Complete Match"
 msgstr "Vollstänneg Iwwereneestëmmung"
 
 #: kdeui/findreplace/kfinddialog.cpp:541
-#, qt-format
+#, kde-format
 msgid "Captured Text (%1)"
 msgstr "Text fonnt (%1)"
 
@@ -6919,7 +6996,7 @@ msgid "&Skip"
 msgstr "&Iwwersprangen"
 
 #: kdeui/findreplace/kreplace.cpp:64
-#, qt-format
+#, kde-format
 msgid "Replace '%1' with '%2'?"
 msgstr "'%1' duerch '%2' ersetzen?"
 
@@ -6928,7 +7005,7 @@ msgid "No text was replaced."
 msgstr "Et ass näischt ersat ginn."
 
 #: kdeui/findreplace/kreplace.cpp:141 kdeui/findreplace/kreplace.cpp:337
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "1 replacement done."
 msgid_plural "%1 replacements done."
 msgstr[0] "1 Ersetzung duerchgefouert."
@@ -6955,13 +7032,13 @@ msgid "Restart"
 msgstr "Nei ufänken"
 
 #: kdeui/findreplace/kreplacedialog.cpp:154
-#, qt-format
+#, kde-format
 msgid "Your replacement string is referencing a capture greater than '\\%1', "
 msgstr ""
 "Ären Ersatz-String verweist op eng Fondplaz, déi méi grouss ass wéi '\\%1', "
 
 #: kdeui/findreplace/kreplacedialog.cpp:156
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "but your pattern only defines 1 capture."
 msgid_plural "but your pattern only defines %1 captures."
 msgstr[0] "mais ärt Muster definéiert just 1 Fondplaz."
@@ -6984,24 +7061,24 @@ msgid "Find Next"
 msgstr "Weidersichen"
 
 #: kdeui/findreplace/kfind.cpp:58
-#, qt-format
+#, kde-format
 msgid "<qt>Find next occurrence of '<b>%1</b>'?</qt>"
 msgstr "<qt>Dat nächst Optriede vun '<b>%1</b>' sichen?</qt>"
 
 #: kdeui/findreplace/kfind.cpp:587 kdeui/findreplace/kfind.cpp:607
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "1 match found."
 msgid_plural "%1 matches found."
 msgstr[0] "1 Iwwereneestëmmung fonnt."
 msgstr[1] "%1 Iwwereneestëmmunge fonnt."
 
 #: kdeui/findreplace/kfind.cpp:589
-#, qt-format
+#, kde-format
 msgid "<qt>No matches found for '<b>%1</b>'.</qt>"
 msgstr "<qt>Keng Iwwereneestëmmung fonnt fir '<b>%1</b>'.</qt>"
 
 #: kdeui/findreplace/kfind.cpp:609
-#, qt-format
+#, kde-format
 msgid "No matches found for '<b>%1</b>'."
 msgstr "Keng Iwwereneestëmmung fonnt fir '<b>%1</b>'."
 
@@ -7033,7 +7110,7 @@ msgid "Conflict with Global Shortcut"
 msgstr "Konflikt mat allgemengem Kierzel"
 
 #: kdeui/shortcuts/kglobalaccel.cpp:281
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid ""
 #| "The '%1' key combination has already been allocated to the global action "
 #| "\"%2\".\n"
@@ -7068,7 +7145,11 @@ msgid "invalid button"
 msgstr ""
 
 #: kdeui/shortcuts/kgesture.cpp:540
-#, qt-format
+#, kde-format
+#| msgctxt ""
+#| "a kind of mouse gesture: hold down one mouse button, then press another "
+#| "button"
+#| msgid "Hold %1, then push %2"
 msgctxt ""
 "a kind of mouse gesture: hold down one mouse button, then press another "
 "button"
@@ -7461,7 +7542,7 @@ msgid "LTR"
 msgstr ""
 
 #: kdeui/kernel/kapplication.cpp:839
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "The style %1 was not found\n"
 msgid "The style '%1' was not found"
 msgstr "De Stil %1 ass net fonnt ginn\n"
@@ -7538,7 +7619,7 @@ msgstr ""
 #: kdeui/windowmanagement/kwindowsystem_x11.cpp:855
 #: kdeui/windowmanagement/kwindowsystem_mac.cpp:168
 #: kdeui/windowmanagement/kwindowsystem_win.cpp:169
-#, qt-format
+#, kde-format
 msgid "Desktop %1"
 msgstr "Büro %1"
 
@@ -8757,7 +8838,7 @@ msgid "Dropdown List && Automatic"
 msgstr "Ausklapplëscht && Automatik"
 
 #: kdeui/widgets/kdatepicker.cpp:175
-#, qt-format
+#, kde-format
 msgid "Week %1"
 msgstr "Woch %1"
 
@@ -8962,7 +9043,7 @@ msgid "Shortcut conflict"
 msgstr "Tastekombinatioun"
 
 #: kdeui/widgets/kkeysequencewidget.cpp:140
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid ""
 #| "The '%1' key combination has already been allocated to the \"%2\" "
 #| "action.\n"
@@ -9018,7 +9099,7 @@ msgid "Rotate &Counterclockwise"
 msgstr "&Géint d'Auer dréien"
 
 #: kdeui/widgets/khelpmenu.cpp:153 kdeui/actions/kstandardaction_p.h:109
-#, qt-format
+#, kde-format
 msgid "%1 &Handbook"
 msgstr "%1-&Handbuch"
 
@@ -9036,7 +9117,7 @@ msgid "Switch Application &Language..."
 msgstr "Programm zoumaachen"
 
 #: kdeui/widgets/khelpmenu.cpp:185 kdeui/actions/kstandardaction_p.h:114
-#, qt-format
+#, kde-format
 msgid "&About %1"
 msgstr "&Iwwer %1"
 
@@ -9097,22 +9178,22 @@ msgid "Icon Size"
 msgstr "Gréisst vum Symbol"
 
 #: kdeui/widgets/ktoolbar.cpp:296 kdeui/widgets/ktoolbar.cpp:316
-#, qt-format
+#, kde-format
 msgid "Small (%1x%2)"
 msgstr "Kleng (%1x%2)"
 
 #: kdeui/widgets/ktoolbar.cpp:298 kdeui/widgets/ktoolbar.cpp:318
-#, qt-format
+#, kde-format
 msgid "Medium (%1x%2)"
 msgstr "Mëttel (%1x%2)"
 
 #: kdeui/widgets/ktoolbar.cpp:300 kdeui/widgets/ktoolbar.cpp:320
-#, qt-format
+#, kde-format
 msgid "Large (%1x%2)"
 msgstr "Grouss (%1x%2)"
 
 #: kdeui/widgets/ktoolbar.cpp:302 kdeui/widgets/ktoolbar.cpp:322
-#, qt-format
+#, kde-format
 msgid "Huge (%1x%2)"
 msgstr "Risëg (%1x%2)"
 
@@ -9157,13 +9238,13 @@ msgid "Unknown View"
 msgstr "Onbekannt Feld"
 
 #: kfile/kfileplacesview.cpp:277
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "&Edit..."
 msgid "&Edit '%1'..."
 msgstr "V&eränneren..."
 
 #: kfile/kfileplacesview.cpp:280
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "Hide %1"
 msgid "&Hide '%1'"
 msgstr "%1 net weisen"
@@ -9175,7 +9256,7 @@ msgid "&Show All Entries"
 msgstr "All Optioune weisen"
 
 #: kfile/kfileplacesview.cpp:298
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "&Remove"
 msgid "&Remove '%1'"
 msgstr "&Ewechmaachen"
@@ -9200,34 +9281,40 @@ msgid ""
 msgstr ""
 
 #: kfile/kfilewidget.cpp:247
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "Hide %1"
 msgid "Drive: %1"
 msgstr "%1 net weisen"
 
 #: kfile/kfilewidget.cpp:254
-#, qt-format
+#, kde-format
+#| msgid "Root Folder: %1"
 msgid "Root Folder: %1"
 msgstr ""
 
 #: kfile/kfilewidget.cpp:261
-#, qt-format
+#, kde-format
+#| msgid "Home Folder: %1"
 msgid "Home Folder: %1"
 msgstr ""
 
 #: kfile/kfilewidget.cpp:270
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "Documents: %1"
 msgstr "Lautstäerkt erop"
 
 #: kfile/kfilewidget.cpp:277
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "Desktop %1"
 msgid "Desktop: %1"
 msgstr "Büro %1"
 
 #: kfile/kfilewidget.cpp:326
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "<qt>Click this button to enter the parent folder.<br /><br />For "
+#| "instance, if the current location is file:/home/%1 clicking this button "
+#| "will take you to file:/home.</qt>"
 msgid ""
 "<qt>Click this button to enter the parent folder.<br /><br />For instance, "
 "if the current location is file:/home/%1 clicking this button will take you "
@@ -9311,7 +9398,10 @@ msgid "Remote Files Not Accepted"
 msgstr ""
 
 #: kfile/kfilewidget.cpp:688
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "%1\n"
+#| "does not appear to be a valid URL.\n"
 msgid ""
 "%1\n"
 "does not appear to be a valid URL.\n"
@@ -9350,7 +9440,12 @@ msgid "Invalid Filenames"
 msgstr "Ongülteg Werter"
 
 #: kfile/kfilewidget.cpp:1339
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "The requested filenames\n"
+#| "%1\n"
+#| "do not appear to be valid;\n"
+#| "make sure every filename is enclosed in double quotes."
 msgid ""
 "The requested filenames\n"
 "%1\n"
@@ -9373,12 +9468,14 @@ msgid "&Open"
 msgstr "&Opmaachen"
 
 #: kfile/kfilewidget.cpp:1720
-#, qt-format
+#, kde-format
+#| msgid "Automatically select filename e&xtension (%1)"
 msgid "Automatically select filename e&xtension (%1)"
 msgstr ""
 
 #: kfile/kfilewidget.cpp:1721
-#, qt-format
+#, kde-format
+#| msgid "the extension <b>%1</b>"
 msgid "the extension <b>%1</b>"
 msgstr ""
 
@@ -9391,7 +9488,19 @@ msgid "a suitable extension"
 msgstr ""
 
 #: kfile/kfilewidget.cpp:1740
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "This option enables some convenient features for saving files with "
+#| "extensions:<br /><ol><li>Any extension specified in the <b>%1</b> text "
+#| "area will be updated if you change the file type to save in.<br /><br /></"
+#| "li><li>If no extension is specified in the <b>%2</b> text area when you "
+#| "click <b>Save</b>, %3 will be added to the end of the filename (if the "
+#| "filename does not already exist). This extension is based on the file "
+#| "type that you have chosen to save in.<br /><br />If you do not want KDE "
+#| "to supply an extension for the filename, you can either turn this option "
+#| "off or you can suppress it by adding a period (.) to the end of the "
+#| "filename (the period will be automatically removed).</li></ol>If unsure, "
+#| "keep this option enabled as it makes your files more manageable."
 msgid ""
 "This option enables some convenient features for saving files with "
 "extensions:<br /><ol><li>Any extension specified in the <b>%1</b> text area "
@@ -9444,30 +9553,31 @@ msgid "Trash"
 msgstr "Dreckskëscht"
 
 #: kfile/kfileplacesmodel.cpp:638
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "&Open with '%1'"
 msgid "&Eject '%1'"
 msgstr "Mat '%1' &opmaachen"
 
 #: kfile/kfileplacesmodel.cpp:640
-#, qt-format
+#, kde-format
+#| msgid "&Safely remove '%1'"
 msgid "&Safely remove '%1'"
 msgstr ""
 
 #: kfile/kfileplacesmodel.cpp:642
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "&About %1"
 msgid "&Unmount '%1'"
 msgstr "&Iwwer %1"
 
 #: kfile/kfileplacesmodel.cpp:700
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "An error occurred while loading <B>%1</B>:"
 msgid "An error occurred while accessing '%1', the system said: %2"
 msgstr "E Feeler ass beim Luede vun <B>%1</B> opgetrueden:"
 
 #: kfile/kfileplacesmodel.cpp:704
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "An error occurred while loading <B>%1</B>:"
 msgid "An error occurred while accessing '%1'"
 msgstr "E Feeler ass beim Luede vun <B>%1</B> opgetrueden:"
@@ -9484,14 +9594,18 @@ msgid "New Folder"
 msgstr ""
 
 #: kfile/kdirselectdialog.cpp:119 kfile/kdiroperator.cpp:626
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "Create new folder in:\n"
+#| "%1"
 msgid ""
 "Create new folder in:\n"
 "%1"
 msgstr ""
 
 #: kfile/kdirselectdialog.cpp:142 kfile/kdiroperator.cpp:652
-#, qt-format
+#, kde-format
+#| msgid "A file or folder named %1 already exists."
 msgid "A file or folder named %1 already exists."
 msgstr ""
 
@@ -9535,7 +9649,12 @@ msgid "&Description:"
 msgstr "Beschreiwung:"
 
 #: kfile/kfileplaceeditdialog.cpp:112
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "<qt>This is the location associated with the entry. Any valid URL may be "
+#| "used. For example:<br /><br />%1<br />http://www.kde.org<br />ftp://ftp."
+#| "kde.org/pub/kde/stable<br /><br />By clicking on the button next to the "
+#| "text edit box you can browse to an appropriate URL.</qt>"
 msgid ""
 "<qt>This is the location associated with the entry. Any valid URL may be "
 "used. For example:<br /><br />%1<br />http://www.kde.org<br />ftp://ftp.kde."
@@ -9554,12 +9673,17 @@ msgid "Choose an &icon:"
 msgstr ""
 
 #: kfile/kfileplaceeditdialog.cpp:147
-#, qt-format
+#, kde-format
+#| msgid "&Only show when using this application (%1)"
 msgid "&Only show when using this application (%1)"
 msgstr ""
 
 #: kfile/kfileplaceeditdialog.cpp:149
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "<qt>Select this setting if you want this entry to show only when using "
+#| "the current application (%1).<br /><br />If this setting is not selected, "
+#| "the entry will be available in all applications.</qt>"
 msgid ""
 "<qt>Select this setting if you want this entry to show only when using the "
 "current application (%1).<br /><br />If this setting is not selected, the "
@@ -9576,7 +9700,7 @@ msgid "Nothing to Delete"
 msgstr "Kee Provider gewielt."
 
 #: kfile/kdiroperator.cpp:692
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgid ""
 "<qt>Do you really want to delete\n"
@@ -9590,7 +9714,7 @@ msgid "Delete File"
 msgstr "Alles Läschen"
 
 #: kfile/kdiroperator.cpp:699
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "Do you really want to execute '%1'? "
 msgid "Do you really want to delete this item?"
 msgid_plural "Do you really want to delete these %1 items?"
@@ -9612,7 +9736,7 @@ msgid "Nothing to Trash"
 msgstr ""
 
 #: kfile/kdiroperator.cpp:750
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgid ""
 "<qt>Do you really want to trash\n"
@@ -9633,7 +9757,7 @@ msgid "&Trash"
 msgstr "Dreckskëscht"
 
 #: kfile/kdiroperator.cpp:757
-#, qt-format
+#, kde-format
 msgid "translators: not called for n == 1"
 msgid_plural "Do you really want to trash these %1 items?"
 msgstr[0] ""
@@ -9777,22 +9901,22 @@ msgid "Save As"
 msgstr "Späicheren als"
 
 #: khtml/khtmlimage.cpp:189
-#, qt-format
+#, kde-format
 msgid "%1 (%2 - %3x%4 Pixels)"
 msgstr "%1 (%2 - %3x%4 Pixelen)"
 
 #: khtml/khtmlimage.cpp:191
-#, qt-format
+#, kde-format
 msgid "%1 - %2x%3 Pixels"
 msgstr "%1 - %2x%3 Pixelen"
 
 #: khtml/khtmlimage.cpp:196
-#, qt-format
+#, kde-format
 msgid "%1 (%2x%3 Pixels)"
 msgstr "%1 (%2x%3 Pixelen)"
 
 #: khtml/khtmlimage.cpp:198
-#, qt-format
+#, kde-format
 msgid "Image - %1x%2 Pixels"
 msgstr "Bild - %1x%2 Pixelen"
 
@@ -9859,17 +9983,17 @@ msgid "&Copy Text"
 msgstr "Text &kopéieren"
 
 #: khtml/khtml_ext.cpp:478
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "Search for '%1' with %2"
 msgstr "No '%1' an %2 sichen"
 
 #: khtml/khtml_ext.cpp:490
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "Search for '%1' with"
 msgstr "No '%1' siche bei"
 
 #: khtml/khtml_ext.cpp:524
-#, qt-format
+#, kde-format
 msgid "Open '%1'"
 msgstr "'%1' opmaachen"
 
@@ -9938,7 +10062,7 @@ msgid "Copy Image Location"
 msgstr "Adress vum Bild kopéieren"
 
 #: khtml/khtml_ext.cpp:669
-#, qt-format
+#, kde-format
 msgid "View Image (%1)"
 msgstr "Bild kucken (%1)"
 
@@ -9947,7 +10071,7 @@ msgid "Block Image..."
 msgstr "Bild blockéieren..."
 
 #: khtml/khtml_ext.cpp:683
-#, qt-format
+#, kde-format
 msgid "Block Images From %1"
 msgstr "Biller vun %1 blockéieren"
 
@@ -9972,7 +10096,7 @@ msgid "Enter the URL:"
 msgstr ""
 
 #: khtml/khtml_ext.cpp:910
-#, qt-format
+#, kde-format
 msgid ""
 "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
 msgstr ""
@@ -9988,7 +10112,7 @@ msgid "Overwrite"
 msgstr "Iwwerschreiwen"
 
 #: khtml/khtml_ext.cpp:971 kparts/browserrun.cpp:405
-#, qt-format
+#, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "Den Download-Manager (%1) konnt an ärem PATH net fonnt ginn "
 
@@ -10009,7 +10133,7 @@ msgid "Default Font Size (100%)"
 msgstr "Standard-Schrëftgréisst (100%)"
 
 #: khtml/khtml_ext.cpp:1071
-#, no-c-format, qt-format
+#, no-c-format, kde-format
 msgid "%1%"
 msgstr "%1%"
 
@@ -10203,7 +10327,7 @@ msgid "Toggle Caret Mode"
 msgstr "Caret-Modus un/aus"
 
 #: khtml/khtml_part.cpp:611
-#, qt-format
+#, kde-format
 msgid "The fake user-agent '%1' is in use."
 msgstr "Dee geschmuggelte User-Agent '%1' gëtt benotzt."
 
@@ -10220,12 +10344,12 @@ msgid "&Disable Error Reporting"
 msgstr "Feelerberichter &deaktivéieren"
 
 #: khtml/khtml_part.cpp:1183
-#, qt-format
+#, kde-format
 msgid "<b>Error</b>: %1: %2"
 msgstr "<b>Feeler</b>: %1: %2"
 
 #: khtml/khtml_part.cpp:1230
-#, qt-format
+#, kde-format
 msgid "<b>Error</b>: node %1: %2"
 msgstr "<b>Feeler</b>: Node %1: %2"
 
@@ -10234,12 +10358,12 @@ msgid "Display Images on Page"
 msgstr "D'Biller op dëser Säit weisen"
 
 #: khtml/khtml_part.cpp:1708
-#, qt-format
+#, kde-format
 msgid "Error while loading %1"
 msgstr "Feeler beim Luede vun %1"
 
 #: khtml/khtml_part.cpp:1710
-#, qt-format
+#, kde-format
 msgid "An error occurred while loading <B>%1</B>:"
 msgstr "E Feeler ass beim Luede vun <B>%1</B> opgetrueden:"
 
@@ -10260,17 +10384,17 @@ msgid "Details of the Request:"
 msgstr "Detailer vun der Ufro:"
 
 #: khtml/khtml_part.cpp:1761
-#, qt-format
+#, kde-format
 msgid "URL: %1"
 msgstr "URL: %1"
 
 #: khtml/khtml_part.cpp:1768
-#, qt-format
+#, kde-format
 msgid "Date and Time: %1"
 msgstr "Datum an Zäit: %1"
 
 #: khtml/khtml_part.cpp:1770
-#, qt-format
+#, kde-format
 msgid "Additional Information: %1"
 msgstr "Zousätzlech Informatioun: %1"
 
@@ -10291,7 +10415,7 @@ msgid "Page loaded."
 msgstr "Säit gelueden."
 
 #: khtml/khtml_part.cpp:2128
-#, qt-format
+#, kde-format
 msgid "%1 Image of %2 loaded."
 msgid_plural "%1 Images of %2 loaded."
 msgstr[0] "%1 Bild vun %2 gelueden."
@@ -10311,17 +10435,17 @@ msgid "Symbolic Link"
 msgstr "Symbolësche Link"
 
 #: khtml/khtml_part.cpp:3770
-#, qt-format
+#, kde-format
 msgid "%1 (Link)"
 msgstr "%1 (Link)"
 
 #: khtml/khtml_part.cpp:3790
-#, qt-format
+#, kde-format
 msgid "%2 (%1 bytes)"
 msgstr "%2 (%1 byte)"
 
 #: khtml/khtml_part.cpp:3794
-#, qt-format
+#, kde-format
 msgid "%2 (%1 K)"
 msgstr "%2 (%1 K)"
 
@@ -10346,7 +10470,7 @@ msgid " - BCC: "
 msgstr " - BCC: "
 
 #: khtml/khtml_part.cpp:3926
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid ""
 #| "<qt>This untrusted page links to<BR><B>%1</B>.<BR>Do you want to follow "
 #| "the link?"
@@ -10366,7 +10490,7 @@ msgid "Frame Information"
 msgstr "Informatioun iwwert de Frame"
 
 #: khtml/khtml_part.cpp:4039
-#, qt-format
+#, kde-format
 msgid "   <a href=\"%1\">[Properties]</a>"
 msgstr "   <a href=\"%1\">[Eegeschaften]</a>"
 
@@ -10429,7 +10553,7 @@ msgid "&Send Email"
 msgstr "E-Mail &verschécken"
 
 #: khtml/khtml_part.cpp:4814
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid ""
 #| "<qt>The form will be submitted to <BR><B>%1</B><BR>on your local "
 #| "filesystem.<BR>Do you want to submit the form?"
@@ -10440,7 +10564,7 @@ msgstr ""
 "<qt>De Formular gëtt no<BR><B>%1</B><BR>op ärem lokalen Dateiesystem "
 "verschéckt ginn.<BR>Wëllt dir de Formular ofsenden?"
 
-#: khtml/khtml_part.cpp:4815 khtml/khtmlview.cpp:2678 khtml/khtmlview.cpp:2720
+#: khtml/khtml_part.cpp:4815 khtml/khtmlview.cpp:2680 khtml/khtmlview.cpp:2722
 #: khtml/html/html_formimpl.cpp:1559 khtml/html/html_formimpl.cpp:2170
 msgid "Submit"
 msgstr "Verschécken"
@@ -10454,7 +10578,7 @@ msgstr ""
 "drunnzehänken. Den Unhang ass zu ärer Sëcherheet geläscht ginn."
 
 #: khtml/khtml_part.cpp:5814
-#, qt-format
+#, kde-format
 msgid "(%1/s)"
 msgstr "(%1/s)"
 
@@ -10463,7 +10587,7 @@ msgid "Security Warning"
 msgstr "Sëcherheetswarnung"
 
 #: khtml/khtml_part.cpp:6864
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "<qt>Access by untrusted page to<BR><B>%1</B><BR> denied."
 msgid "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
 msgstr ""
@@ -10475,7 +10599,7 @@ msgid "Security Alert"
 msgstr "Sëcherheetsnoricht"
 
 #: khtml/khtml_part.cpp:7212
-#, qt-format
+#, kde-format
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr ""
 "Den digitale Portemonnaie '%1' ass op a gëtt fir Formularer a Passwierder "
@@ -10510,7 +10634,7 @@ msgstr ""
 "awer opzemaachen oder Astellunge virzehuelen."
 
 #: khtml/khtml_part.cpp:7369
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "&Show Blocked Popup Window"
 msgid_plural "Show %1 Blocked Popup Windows"
 msgstr[0] "Blockéiert Popup-Fënster &weisen"
@@ -10538,7 +10662,8 @@ msgid "Please choose a valid 'khtml/' build directory."
 msgstr ""
 
 #: khtml/test_regression_gui_window.cpp:532
-#, qt-format
+#, kde-format
+#| msgid "Available Tests: %1 (ignored: %2)"
 msgid "Available Tests: %1 (ignored: %2)"
 msgstr ""
 
@@ -10566,46 +10691,41 @@ msgstr "Op d'Zeil &goen..."
 msgid "Remove from ignores..."
 msgstr ""
 
-#: khtml/khtmlview.cpp:1688
+#: khtml/khtmlview.cpp:1690
 msgid "Find stopped."
 msgstr "Sicht opgehal."
 
-#: khtml/khtmlview.cpp:1699
+#: khtml/khtmlview.cpp:1701
 msgid "Starting -- find links as you type"
 msgstr "Startvirgang -- Linke beim antippen ergänzen"
 
-#: khtml/khtmlview.cpp:1705
+#: khtml/khtmlview.cpp:1707
 msgid "Starting -- find text as you type"
 msgstr "Startvirgang -- Text beim antippen ergänzen"
 
-#: khtml/khtmlview.cpp:1728
-#, qt-format
+#: khtml/khtmlview.cpp:1730
+#, kde-format
 msgid "Link found: \"%1\"."
 msgstr "Link fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1733
-#, qt-format
+#: khtml/khtmlview.cpp:1735
+#, kde-format
 msgid "Link not found: \"%1\"."
 msgstr "Link net fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1741
-#, qt-format
+#: khtml/khtmlview.cpp:1743
+#, kde-format
 msgid "Text found: \"%1\"."
 msgstr "Text fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1746
-#, qt-format
+#: khtml/khtmlview.cpp:1748
+#, kde-format
 msgid "Text not found: \"%1\"."
 msgstr "Text net fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1792
+#: khtml/khtmlview.cpp:1794
 msgid "Access Keys activated"
 msgstr "Kuerztasten ugeschalt"
-
-#: khtml/khtmlview.cpp:2900
-#, qt-format
-msgid "Print %1"
-msgstr "%1 drécken"
 
 #: khtml/test_regression_gui_main.cpp:34
 msgid "TestRegressionGui"
@@ -10660,7 +10780,7 @@ msgid "the document is not in the correct file format"
 msgstr "den Dokument ass am falschen Dateiformat"
 
 #: khtml/xml/xml_tokenizer.cpp:321
-#, qt-format
+#, kde-format
 msgid "fatal parsing error: %1 in line %2, column %3"
 msgstr "fatale Parsing-Feeler: %1, Zeil %2, Kolonn %3"
 
@@ -10719,12 +10839,12 @@ msgid "Next"
 msgstr "Nächsten"
 
 #: khtml/ecma/kjs_debugwin.cpp:848
-#, qt-format
+#, kde-format
 msgid "Parse error at %1 line %2"
 msgstr "Parsing-Feeler bei %1, Zeil %2"
 
 #: khtml/ecma/kjs_debugwin.cpp:859
-#, qt-format
+#, kde-format
 msgid ""
 "An error occurred while attempting to run a script on this page.\n"
 "\n"
@@ -10736,7 +10856,7 @@ msgstr ""
 "%1"
 
 #: khtml/ecma/kjs_debugwin.cpp:870
-#, qt-format
+#, kde-format
 msgid ""
 "An error occurred while attempting to run a script on this page.\n"
 "\n"
@@ -10780,7 +10900,7 @@ msgstr ""
 "Wëllt dir dat zouloossen?"
 
 #: khtml/ecma/kjs_window.cpp:1570
-#, qt-format
+#, kde-format
 msgid ""
 "<qt>This site is requesting to open<p>%1</p>in a new browser window via "
 "JavaScript.<br />Do you want to allow this?</qt>"
@@ -10805,14 +10925,14 @@ msgid "Confirmation Required"
 msgstr "Bestätegung noutwendeg"
 
 #: khtml/ecma/kjs_window.cpp:2814
-#, qt-format
+#, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr "Wëllt dir e Lieszeeche fir \"%1\" an är Sammlung dobäimaachen?"
 
 #: khtml/ecma/kjs_window.cpp:2817
-#, qt-format
+#, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
 "added to your collection?"
@@ -10843,7 +10963,7 @@ msgstr ""
 "Wëllt dir dat zouloossen?"
 
 #: khtml/ecma/kjs_html.cpp:2113
-#, qt-format
+#, kde-format
 msgid ""
 "<qt>This site is submitting a form which will open <p>%1</p> in a new "
 "browser window via JavaScript.<br />Do you want to allow the form to be "
@@ -10963,7 +11083,7 @@ msgstr ""
 "Kéier besicht. Wëllt dir d'Informatioun elo späicheren?"
 
 #: khtml/html/html_formimpl.cpp:646
-#, qt-format
+#, kde-format
 msgid ""
 "Konqueror has the ability to store the password in an encrypted wallet. When "
 "the wallet is unlocked, it can then automatically restore the login "
@@ -10999,22 +11119,22 @@ msgid "KDE Java Applet Plugin"
 msgstr "KDE-Plugin fir Java-Miniprogrammer"
 
 #: khtml/java/kjavaapplet.cpp:224
-#, qt-format
+#, kde-format
 msgid "Initializing Applet \"%1\"..."
 msgstr "Miniprogramm \"%1\" gëtt initialiséiert..."
 
 #: khtml/java/kjavaapplet.cpp:231
-#, qt-format
+#, kde-format
 msgid "Starting Applet \"%1\"..."
 msgstr "Miniprogramm \"%1\" gëtt gestart..."
 
 #: khtml/java/kjavaapplet.cpp:238
-#, qt-format
+#, kde-format
 msgid "Applet \"%1\" started"
 msgstr "Miniprogramm \"%1\" leeft"
 
 #: khtml/java/kjavaapplet.cpp:244
-#, qt-format
+#, kde-format
 msgid "Applet \"%1\" stopped"
 msgstr "Miniprogramm \"%1\" gestoppt"
 
@@ -11107,7 +11227,7 @@ msgid "&Grant All"
 msgstr "Alleguer &zouloossen"
 
 #: khtml/kmultipart/kmultipart.cpp:321
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "No handler found for %1."
 msgstr "Keen Handler fir \"%1\" fonnt!"
 
@@ -11128,7 +11248,7 @@ msgid "Spell Checking"
 msgstr "Rechtschreifkontroll"
 
 #: khtml/rendering/render_frames.cpp:944
-#, qt-format
+#, kde-format
 msgid ""
 "No plugin found for '%1'.\n"
 "Do you want to download one from %2?"
@@ -11169,12 +11289,12 @@ msgstr ""
 "agestallte maximal Unzuel vu Prozesser kéint erreecht sinn."
 
 #: kinit/kinit.cpp:527
-#, qt-format
+#, kde-format
 msgid "Could not find '%1' executable."
 msgstr "Konnt de Programm '%1' net fannen."
 
 #: kinit/kinit.cpp:545
-#, qt-format
+#, kde-format
 msgid ""
 "Could not open library '%1'.\n"
 "%2"
@@ -11183,7 +11303,7 @@ msgstr ""
 "%2"
 
 #: kinit/kinit.cpp:591
-#, qt-format
+#, kde-format
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
 "%2"
@@ -11204,32 +11324,32 @@ msgstr ""
 "E gëtt vu kdeinit automatësch opgeruff.\n"
 
 #: kinit/klauncher.cpp:490
-#, qt-format
+#, kde-format
 msgid "KDEInit could not launch '%1'."
 msgstr "KDEInit konnt '%1' net starten."
 
 #: kinit/klauncher.cpp:655 kinit/klauncher.cpp:680 kinit/klauncher.cpp:695
-#, qt-format
+#, kde-format
 msgid "Could not find service '%1'."
 msgstr "Konnt de Service '%1' net fannen."
 
 #: kinit/klauncher.cpp:711 kinit/klauncher.cpp:747
-#, qt-format
+#, kde-format
 msgid "Service '%1' is malformatted."
 msgstr "De Service '%1' huet ën ongültege Format."
 
 #: kinit/klauncher.cpp:819
-#, qt-format
+#, kde-format
 msgid "Launching %1"
 msgstr "%1 gëtt gestart"
 
 #: kinit/klauncher.cpp:1023
-#, qt-format
+#, kde-format
 msgid "Unknown protocol '%1'.\n"
 msgstr "Onbekannte Protokoll '%1'.\n"
 
 #: kinit/klauncher.cpp:1084
-#, qt-format
+#, kde-format
 msgid "Error loading '%1'.\n"
 msgstr "Feeler beim Luede vun '%1'.\n"
 
@@ -11286,7 +11406,7 @@ msgid "Remove selected script."
 msgstr ""
 
 #: kross/core/interpreter.cpp:132
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "Could not load interpreter library \"%1\""
 msgstr ""
 "Konnt d'Bibliothéik '%1' net opmaachen.\n"
@@ -11305,32 +11425,36 @@ msgid "Restricted mode for untrusted scripts"
 msgstr ""
 
 #: kross/core/action.cpp:377
-#, qt-format
+#, kde-format
+#| msgid "There exists no such scriptfile \"%1\""
 msgid "There exists no such scriptfile \"%1\""
 msgstr ""
 
 #: kross/core/action.cpp:381
-#, qt-format
+#, kde-format
+#| msgid "Failed to determinate interpreter for scriptfile \"%1\""
 msgid "Failed to determinate interpreter for scriptfile \"%1\""
 msgstr ""
 
 #: kross/core/action.cpp:385
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "Failed to open scriptfile \"%1\""
 msgstr "Script \"%1\" net fonnt."
 
 #: kross/core/action.cpp:396
-#, qt-format
+#, kde-format
+#| msgid "Failed to load interpreter \"%1\": %2"
 msgid "Failed to load interpreter \"%1\": %2"
 msgstr ""
 
 #: kross/core/action.cpp:398
-#, qt-format
+#, kde-format
+#| msgid "No such interpreter \"%1\""
 msgid "No such interpreter \"%1\""
 msgstr ""
 
 #: kross/core/action.cpp:404
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "Failed to create script for interpreter \"%1\""
 msgstr "Kee KScript Runner fir den Typ \"%1\" kritt."
 
@@ -11505,7 +11629,8 @@ msgid "Please insert the name of the new tag"
 msgstr "Wielt w.e.g. den Typ vum neie Modul:"
 
 #: nepomuk/core/ui/kmetadatatagwidget.cpp:197
-#, qt-format
+#, kde-format
+#| msgid "The tag %1 already exists"
 msgid "The tag %1 already exists"
 msgstr ""
 
@@ -11541,7 +11666,7 @@ msgid "Unknown error"
 msgstr "Onbekannte Feeler"
 
 #: kparts/browserextension.cpp:652
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "<qt>Do you want to search the Internet for <b>%1</b>?"
 msgid "<qt>Do you want to search the Internet for <b>%1</b>?</qt>"
 msgstr "<qt>Wëllt dir am Internet no <b>%1</b> sichen?"
@@ -11559,7 +11684,7 @@ msgid "Untitled"
 msgstr "Onbenannt"
 
 #: kparts/part.cpp:756
-#, qt-format
+#, kde-format
 msgid ""
 "The document \"%1\" has been modified.\n"
 "Do you want to save your changes or discard them?"
@@ -11572,7 +11697,7 @@ msgid "Close Document"
 msgstr "Dokument zoumaachen"
 
 #: kparts/browserrun.cpp:294
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "Do you really want to execute '%1'? "
 msgid "Do you really want to execute '%1'?"
 msgstr "Wëllt dir '%1' wiirklech lafe loossen? "
@@ -11582,7 +11707,7 @@ msgid "Execute File?"
 msgstr "Datei ausféieren?"
 
 #: kparts/browserrun.cpp:313
-#, qt-format
+#, kde-format
 msgid ""
 "Open '%2'?\n"
 "Type: %1"
@@ -11591,7 +11716,7 @@ msgstr ""
 "Typ: %1"
 
 #: kparts/browserrun.cpp:315
-#, qt-format
+#, kde-format
 msgid ""
 "Open '%3'?\n"
 "Name: %2\n"
@@ -11602,7 +11727,7 @@ msgstr ""
 "Typ: %1"
 
 #: kparts/browserrun.cpp:330
-#, qt-format
+#, kde-format
 msgid "&Open with '%1'"
 msgstr "Mat '%1' &opmaachen"
 
@@ -11611,12 +11736,12 @@ msgid "&Open With..."
 msgstr "&Opmaache mat..."
 
 #: kutils/kcmoduleloader.cpp:76
-#, qt-format
+#, kde-format
 msgid "The module %1 could not be found."
 msgstr "De Modul %1 ass net fonnt ginn."
 
 #: kutils/kcmoduleloader.cpp:77
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid ""
 #| "<qt><p>The diagnostics is:<br>The desktop file %1 could not be found.</qt>"
 msgid ""
@@ -11625,7 +11750,7 @@ msgid ""
 msgstr "<qt><p>D'Diagnos ass:<br>D'Bürosdatei %1 konnt net fonnt ginn.</qt>"
 
 #: kutils/kcmoduleloader.cpp:79
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "The module %1 is disabled."
 msgstr "De Modul %1 konnt net geluede ginn."
 
@@ -11636,12 +11761,12 @@ msgid ""
 msgstr ""
 
 #: kutils/kcmoduleloader.cpp:133
-#, qt-format
+#, kde-format
 msgid "The module %1 is not a valid configuration module."
 msgstr "De Modul %1 ass kee gültege Configuratiounsmodul."
 
 #: kutils/kcmoduleloader.cpp:134
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid ""
 #| "<qt><p>The diagnostics is:<br>The desktop file %1 does not specify a "
 #| "library.</qt>"
@@ -11656,7 +11781,7 @@ msgid "There was an error loading the module."
 msgstr "Et ass e Feeler beim Luede vum Modul opgetrueden."
 
 #: kutils/kcmoduleloader.cpp:153
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid ""
 #| "<qt><p>The diagnostics is:<br>%1<p>Possible reasons:</p><ul><li>An error "
 #| "occurred during your last KDE upgrade leaving an orphaned control "
@@ -11715,7 +11840,11 @@ msgid ""
 msgstr ""
 
 #: kutils/kpluginselector.cpp:229
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "\n"
+#| "    %1 plugin has been automatically checked because the dependency of %2 "
+#| "plugin"
 msgid ""
 "\n"
 "    %1 plugin has been automatically checked because the dependency of %2 "
@@ -11723,7 +11852,11 @@ msgid ""
 msgstr ""
 
 #: kutils/kpluginselector.cpp:231
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "\n"
+#| "    %1 plugin has been automatically unchecked becase its dependency on %"
+#| "2 plugin"
 msgid ""
 "\n"
 "    %1 plugin has been automatically unchecked becase its dependency on %2 "
@@ -11735,7 +11868,7 @@ msgid "Dependency Check"
 msgstr ""
 
 #: kutils/kpluginselector.cpp:251
-#, qt-format
+#, kde-format
 msgid "%1 plugin added"
 msgid_plural "%1 plugins added"
 msgstr[0] ""
@@ -11746,7 +11879,7 @@ msgid ", "
 msgstr ""
 
 #: kutils/kpluginselector.cpp:257
-#, qt-format
+#, kde-format
 msgid "%1 plugin removed"
 msgid_plural "%1 plugins removed"
 msgstr[0] ""
@@ -11757,13 +11890,13 @@ msgid " since the last time you asked for details"
 msgstr ""
 
 #: kutils/kpluginselector.cpp:1625
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "About %1"
 msgid "About %1 plugin"
 msgstr "Iwwer %1"
 
 #: kutils/kpluginselector.cpp:1635
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "Description:"
 msgid ""
 "Description:\n"
@@ -11771,7 +11904,7 @@ msgid ""
 msgstr "Beschreiwung:"
 
 #: kutils/kpluginselector.cpp:1642
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "Author:"
 msgid ""
 "Author:\n"
@@ -11788,7 +11921,7 @@ msgid "Website:"
 msgstr ""
 
 #: kutils/kpluginselector.cpp:1691
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "Version:"
 msgid ""
 "Version:\n"
@@ -11796,7 +11929,7 @@ msgid ""
 msgstr "Versioun:"
 
 #: kutils/kpluginselector.cpp:1699
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgid "License:"
 msgid ""
 "License:\n"
@@ -11839,7 +11972,7 @@ msgstr ""
 "gëtt de Modul ofgeschalt."
 
 #: kutils/kcmoduleproxy.cpp:159
-#, qt-format
+#, kde-format
 msgctxt "Argument is application name"
 msgid "This configuration section is already opened in %1"
 msgstr "Dëss Configuratioun ass schonn am %1 opgemaach"
@@ -11881,7 +12014,8 @@ msgid "Script to execute"
 msgstr ""
 
 #: kjsembed/kjsembed/qlayout_binding.cpp:90
-#, qt-format
+#, kde-format
+#| msgid "'%1' is not a valid QLayout."
 msgid "'%1' is not a valid QLayout."
 msgstr ""
 
@@ -11902,34 +12036,38 @@ msgid "Incorrect number of arguments."
 msgstr ""
 
 #: kjsembed/kjsembed/qobject_binding.cpp:409
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "The slot sked for %1 arguments but there are only %2 arguments available."
 msgid ""
 "The slot sked for %1 arguments but there are only %2 arguments available."
 msgstr ""
 
 #: kjsembed/kjsembed/qobject_binding.cpp:597
-#, qt-format
+#, kde-format
+#| msgid "Failure to cast to %1 value from Type %2 (%3)"
 msgid "Failure to cast to %1 value from Type %2 (%3)"
 msgstr ""
 
 #: kjsembed/kjsembed/qobject_binding.cpp:632
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "No such method '%1'."
 msgstr "D'Entrée '%1' ass net am Menü."
 
 #: kjsembed/kjsembed/qobject_binding.cpp:647
-#, qt-format
+#, kde-format
+#| msgid "Call to method '%1' failed, unable to get argument %2: %3"
 msgid "Call to method '%1' failed, unable to get argument %2: %3"
 msgstr ""
 
 #: kjsembed/kjsembed/qobject_binding.cpp:662
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "Call to '%1' failed."
 msgstr "Installatioun net gaang."
 
 #: kjsembed/kjsembed/qobject_binding.cpp:747
 #: kjsembed/kjsembed/object_binding.h:219
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "%1 is not an Object type"
 msgstr "Basis ass keen Objekt"
 
@@ -11939,22 +12077,24 @@ msgid "Could not construct value"
 msgstr "Konnt d'Datei net opmaachen."
 
 #: kjsembed/kjsembed/eventproxy.cpp:108
-#, qt-format
+#, kde-format
+#| msgid "Bad event handler: Object %1 Identifier %2 Method %3 Type: %4."
 msgid "Bad event handler: Object %1 Identifier %2 Method %3 Type: %4."
 msgstr ""
 
 #: kjsembed/kjsembed/eventproxy.cpp:135
-#, qt-format
+#, kde-format
+#| msgid "Exception calling '%1' function from %2:%3:%4"
 msgid "Exception calling '%1' function from %2:%3:%4"
 msgstr ""
 
 #: kjsembed/kjsembed/qformbuilder_binding.cpp:59
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "There was an error reading the file '%1'"
 msgstr "Et ass e Feeler beim Luede vum Modul opgetrueden."
 
 #: kjsembed/kjsembed/qformbuilder_binding.cpp:67
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "Could not read file '%1'"
 msgstr "Konnt de Service '%1' net fannen."
 
@@ -11964,17 +12104,20 @@ msgid "Must supply a filename."
 msgstr ""
 
 #: kjsembed/kjsembed/slotproxy.cpp:113
-#, qt-format
+#, kde-format
+#| msgid "Bad slot handler: Object %1 Identifier %2 Method %3 Signature: %4."
 msgid "Bad slot handler: Object %1 Identifier %2 Method %3 Signature: %4."
 msgstr ""
 
 #: kjsembed/kjsembed/slotproxy.cpp:135
-#, qt-format
+#, kde-format
+#| msgid "Exception calling '%1' slot from %2:%3:%4"
 msgid "Exception calling '%1' slot from %2:%3:%4"
 msgstr ""
 
 #: kjsembed/kjsembed/qwidget_binding.cpp:161
-#, qt-format
+#, kde-format
+#| msgid "'%1' is not a valid QWidget."
 msgid "'%1' is not a valid QWidget."
 msgstr ""
 
@@ -12015,19 +12158,19 @@ msgid "Failed to create Widget."
 msgstr "D'Datei fir eropzeluede konnt net erstallt ginn."
 
 #: kjsembed/kjsembed/quiloader_binding.cpp:122
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "Could not open file '%1': %2"
 msgstr ""
 "Konnt d'Bibliothéik '%1' net opmaachen.\n"
 "%2"
 
 #: kjsembed/kjsembed/quiloader_binding.cpp:129
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "Failed to load file '%1'"
 msgstr "Konnt d'Quell '%1' net lueden"
 
 #: kjsembed/kjsembed/fileio.cpp:69
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "Could not open file '%1'"
 msgstr ""
 "Konnt d'Bibliothéik '%1' net opmaachen.\n"
@@ -12039,27 +12182,31 @@ msgid "Could not create temporary file."
 msgstr "Konnt déi nei Datei net erstellen."
 
 #: kjsembed/kjsembed/builtins.cpp:88 kjsembed/kjsembed/builtins.cpp:128
-#, qt-format
+#, kde-format
+#| msgid "Error seen while processing include '%1' line %2: %3"
 msgid "Error seen while processing include '%1' line %2: %3"
 msgstr ""
 
 #: kjsembed/kjsembed/builtins.cpp:94
-#, qt-format
+#, kde-format
+#| msgid "include only takes 1 argument, not %1."
 msgid "include only takes 1 argument, not %1."
 msgstr ""
 
 #: kjsembed/kjsembed/builtins.cpp:132
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 msgid "File %1 not found."
 msgstr "De Stil %1 ass net fonnt ginn\n"
 
 #: kjsembed/kjsembed/builtins.cpp:138
-#, qt-format
+#, kde-format
+#| msgid "library only takes 1 argument, not %1."
 msgid "library only takes 1 argument, not %1."
 msgstr ""
 
 #: kjsembed/kjsembed/kjsembed.cpp:278 kjsembed/kjsembed/kjsembed.cpp:300
-#, qt-format
+#, kde-format
+#| msgid "%1 is not a function and cannot be called."
 msgid "%1 is not a function and cannot be called."
 msgstr ""
 
@@ -12084,7 +12231,7 @@ msgid "&Finished"
 msgstr "&Fäerdeg"
 
 #: kde3support/kdeui/k3listviewsearchline.cpp:307
-#, qt-format
+#, kde-format
 msgctxt "Column number %1"
 msgid "Column No. %1"
 msgstr "Kolonn Nummer %1"
@@ -12106,12 +12253,12 @@ msgid "&License Agreement"
 msgstr "&Lizenz"
 
 #: kde3support/kdeui/k3command.cpp:388
-#, qt-format
+#, kde-format
 msgid "Undo: %1"
 msgstr "Réckgängeg: %1"
 
 #: kde3support/kdeui/k3command.cpp:394
-#, qt-format
+#, kde-format
 msgid "Redo: %1"
 msgstr "Nees zeréck: %1"
 
@@ -12124,12 +12271,12 @@ msgid "&Redo"
 msgstr "&Nees zeréck"
 
 #: kde3support/kdeui/k3command.cpp:426
-#, qt-format
+#, kde-format
 msgid "&Undo: %1"
 msgstr "&Réckgängeg: %1"
 
 #: kde3support/kdeui/k3command.cpp:429
-#, qt-format
+#, kde-format
 msgid "&Redo: %1"
 msgstr "&Nees zeréck: %1"
 
@@ -12387,7 +12534,7 @@ msgid "<application>ISpell</application> Default"
 msgstr ""
 
 #: kde3support/kdeui/k3sconfig.cpp:510 kde3support/kdeui/k3sconfig.cpp:666
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgctxt "default spelling dictionary"
 #| msgid "Default - %1 [%2]"
 msgctxt "@item Spelling dictionary: %1 dictionary name, %2 file name"
@@ -12400,7 +12547,7 @@ msgid "<application>ASpell</application> Default"
 msgstr ""
 
 #: kde3support/kdeui/k3sconfig.cpp:596 kde3support/kdeui/k3sconfig.cpp:758
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgctxt "default spelling dictionary"
 #| msgid "Default - %1"
 msgctxt "@item Spelling dictionary: %1 dictionary name"
@@ -12420,14 +12567,17 @@ msgid "Task"
 msgstr "Aufgab"
 
 #: kde3support/kdeui/k3aboutdialog.cpp:684
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "<html><font size=\"5\">%1</font><br/><b>version %2</b><br/>Using KDE %3</"
+#| "html>"
 msgid ""
 "<html><font size=\"5\">%1</font><br/><b>version %2</b><br/>Using KDE %3</"
 "html>"
 msgstr ""
 
 #: kde3support/kdeui/k3aboutdialog.cpp:686
-#, qt-format
+#, kde-format
 msgid "%1 %2, %3"
 msgstr "%1 %2, %3"
 
@@ -12458,12 +12608,12 @@ msgid "Detach"
 msgstr "Lassmaachen"
 
 #: kde3support/kdeui/k3dockwidget.cpp:3043
-#, qt-format
+#, kde-format
 msgid "Hide %1"
 msgstr "%1 net weisen"
 
 #: kde3support/kdeui/k3dockwidget.cpp:3049
-#, qt-format
+#, kde-format
 msgid "Show %1"
 msgstr "%1 weisen"
 
@@ -12690,7 +12840,9 @@ msgid "qttest"
 msgstr "Dat Neitst"
 
 #: kdecore/services/kservice.h:513
-#, qt-format
+#, kde-format
+#| msgid ""
+#| "The service '%1' does not provide an interface '%2' with keyword '%3'"
 msgid "The service '%1' does not provide an interface '%2' with keyword '%3'"
 msgstr ""
 
@@ -12839,7 +12991,7 @@ msgid "Configure S&hortcuts..."
 msgstr "&Kierzel configuréieren..."
 
 #: kdeui/actions/kstandardaction_p.h:102
-#, qt-format
+#, kde-format
 msgid "&Configure %1..."
 msgstr "%1 &configuréieren..."
 
@@ -12860,7 +13012,7 @@ msgid "Tip of the &Day"
 msgstr "&Rotschlag vum Dag"
 
 #: kdeui/widgets/kcharselect_p.h:175
-#, fuzzy, qt-format
+#, fuzzy, kde-format
 #| msgctxt "Character"
 #| msgid ""
 #| "<qt><font size=\"+4\" face=\"%1\">%2</font><br>Unicode code point: U+%"
@@ -12872,6 +13024,9 @@ msgid ""
 msgstr ""
 "<qt><font size=\"+4\" face=\"%1\">%2</font> <br>Unicode Code Point: U+ %3<br>"
 "(an Dezimal: %4)<br>(Zeechen: %5)</qt>"
+
+#~ msgid "Print %1"
+#~ msgstr "%1 drécken"
 
 #~ msgid "Will not save configuration.\n"
 #~ msgstr "D'Configuratioun gëtt net gespäichert.\n"
