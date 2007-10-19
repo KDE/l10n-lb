@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ppdtranslations4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-09-02 05:39+0200\n"
+"POT-Creation-Date: 2007-10-19 05:38+0200\n"
 "PO-Revision-Date: 2005-12-28 21:55+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team:  <kde-i18n-lb@kde.org>\n"
@@ -7734,7 +7734,7 @@ msgstr ""
 msgid "Scatter (Enhanced)"
 msgstr ""
 
-#: printers.cpp:3182
+#: printers.cpp:3182 printers.cpp:3604
 #, no-c-format
 msgid "Printer's Current Setting"
 msgstr "Aktuell Astellung vum Drécker"
@@ -8662,11 +8662,6 @@ msgstr "Manuell Biller"
 #: printers.cpp:3602
 #, no-c-format
 msgid "Private Stored Job"
-msgstr ""
-
-#: printers.cpp:3604
-#, no-c-format
-msgid "PrinterÕs Current Setting"
 msgstr ""
 
 #: printers.cpp:3606
@@ -9955,9 +9950,10 @@ msgid "Continuous-tone photographs (color or gray scale)"
 msgstr ""
 
 #: printers.cpp:4282
-#, no-c-format
-msgid "Primarily solid colors ro smooth gradients (color or gray scale)"
-msgstr ""
+#, fuzzy, no-c-format
+#| msgid "Primarily solid colors or smooth gradients"
+msgid "Primarily solid colors to smooth gradients (color or gray scale)"
+msgstr "Haaptsächlech zolitt Faarwen oder flësseg Iwwergäng"
 
 #: printers.cpp:4286
 #, no-c-format

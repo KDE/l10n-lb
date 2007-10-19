@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeprint4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-10-11 05:39+0200\n"
+"POT-Creation-Date: 2007-10-19 05:38+0200\n"
 "PO-Revision-Date: 2006-05-02 18:19+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1725,22 +1725,27 @@ msgstr "<b>Status</b>: %1<br>"
 msgid "<b>Model</b>: %1<br />"
 msgstr "<b>Status</b>: %1<br>"
 
-#: cups/kmwippprinter.cpp:180 kmprinter.cpp:135
+#: cups/kmwippprinter.cpp:180
+msgctxt "@item:intext Printer state"
 msgid "Idle"
 msgstr ""
 
-#: cups/kmwippprinter.cpp:181 kmprinter.cpp:137
+#: cups/kmwippprinter.cpp:181
+msgctxt "@item:intext Printer state"
 msgid "Stopped"
 msgstr ""
 
-#: cups/kmwippprinter.cpp:182 kmjob.cpp:110 kmprinter.cpp:136
+#: cups/kmwippprinter.cpp:182
+msgctxt "@item:intext Printer state"
 msgid "Processing..."
 msgstr ""
 
-#: cups/kmwippprinter.cpp:183 kmjob.cpp:131 kmprinter.cpp:138
-msgctxt "Unknown State"
+#: cups/kmwippprinter.cpp:183
+#, fuzzy
+#| msgid "Unknown"
+msgctxt "@item:intext Printer state"
 msgid "Unknown"
-msgstr ""
+msgstr "Onbekannt"
 
 #: cups/kmwippprinter.cpp:185
 #, fuzzy, kde-format
@@ -2223,6 +2228,10 @@ msgstr "Drocksystem"
 msgid "Authentication failed (user name=%1)"
 msgstr ""
 
+#: kmjob.cpp:110 kmprinter.cpp:136
+msgid "Processing..."
+msgstr ""
+
 #: kmjob.cpp:113
 msgid "Queued"
 msgstr ""
@@ -2245,6 +2254,11 @@ msgstr ""
 
 #: kmjob.cpp:128
 msgid "Completed"
+msgstr ""
+
+#: kmjob.cpp:131 kmprinter.cpp:138
+msgctxt "Unknown State"
+msgid "Unknown"
 msgstr ""
 
 #: tests/main.cpp:18
@@ -4759,6 +4773,14 @@ msgstr ""
 #: kmuimanager.cpp:163
 #, kde-format
 msgid "Configuration of %1"
+msgstr ""
+
+#: kmprinter.cpp:135
+msgid "Idle"
+msgstr ""
+
+#: kmprinter.cpp:137
+msgid "Stopped"
 msgstr ""
 
 #: kmprinter.cpp:140
