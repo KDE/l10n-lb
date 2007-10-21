@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-10-20 05:39+0200\n"
+"POT-Creation-Date: 2007-10-21 05:45+0200\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1386,28 +1386,38 @@ msgstr ""
 msgid "Choose Editor Component"
 msgstr "Abettbar Editor-Komponent"
 
-#: utils/kateprinter.cpp:207
+#: utils/kateprinter.cpp:196
 msgid "(Selection of) "
 msgstr "(Auswal vun)"
 
-#: utils/kateprinter.cpp:315 utils/kateprinter.cpp:531
+#: utils/kateprinter.cpp:487
 #, kde-format
 msgid "Typographical Conventions for %1"
 msgstr "Typographesch Konventioune fir %1"
 
-#: utils/kateprinter.cpp:639
+#: utils/kateprinter.cpp:517
+#, fuzzy
+#| msgid "Context"
+msgid "text"
+msgstr "Kontext"
+
+#: utils/kateprinter.cpp:638
 msgid "Te&xt Settings"
 msgstr "Te&xt-Astellungen"
 
-#: utils/kateprinter.cpp:647
-msgid "Print &line numbers"
+#: utils/kateprinter.cpp:646
+#, fuzzy
+#| msgid "Print &line numbers"
+msgid "Print line &numbers"
 msgstr "Zei&lennummeren drécken"
 
-#: utils/kateprinter.cpp:650
-msgid "Print syntax &guide"
-msgstr "Syntax-&Guide drécken"
+#: utils/kateprinter.cpp:649
+#, fuzzy
+#| msgid "Print &line numbers"
+msgid "Print &legend"
+msgstr "Zei&lennummeren drécken"
 
-#: utils/kateprinter.cpp:662
+#: utils/kateprinter.cpp:661
 msgid ""
 "<p>If enabled, line numbers will be printed on the left side of the page(s)."
 "</p>"
@@ -1415,7 +1425,7 @@ msgstr ""
 "<p>Wann se ugeschalt ass, ginn d'Zeilennummeren op de lénke Rand vun de "
 "Säiten gedréckt.</p>"
 
-#: utils/kateprinter.cpp:664
+#: utils/kateprinter.cpp:663
 #, fuzzy
 #| msgid ""
 #| "<p>Print a box displaying typographical conventions for the document "
@@ -1427,65 +1437,65 @@ msgstr ""
 "<p>Dréckt eng Këscht déi d'typographesch Konventioune fir den Dokumenttyp "
 "uweist, wéi se vum aktuell benotzte Syntax-Ervirhiewungsmodus virgi ginn."
 
-#: utils/kateprinter.cpp:694
+#: utils/kateprinter.cpp:693
 msgid "Hea&der && Footer"
 msgstr "&Kapp- && Fousszeilen"
 
-#: utils/kateprinter.cpp:703
+#: utils/kateprinter.cpp:702
 msgid "Pr&int header"
 msgstr "Kappze&ilen drécken"
 
-#: utils/kateprinter.cpp:705
+#: utils/kateprinter.cpp:704
 msgid "Pri&nt footer"
 msgstr "Fousszeile&n drécken"
 
-#: utils/kateprinter.cpp:711
+#: utils/kateprinter.cpp:710
 msgid "Header/footer font:"
 msgstr "Schrëft fir Kapp-/Fousszeilen:"
 
-#: utils/kateprinter.cpp:716
+#: utils/kateprinter.cpp:715
 msgid "Choo&se Font..."
 msgstr "&Schrëft auswielen..."
 
-#: utils/kateprinter.cpp:722
+#: utils/kateprinter.cpp:721
 msgid "Header Properties"
 msgstr "Eegeschafte vun de Kappzeilen"
 
-#: utils/kateprinter.cpp:726
+#: utils/kateprinter.cpp:725
 msgid "&Format:"
 msgstr "&Format:"
 
-#: utils/kateprinter.cpp:738 utils/kateprinter.cpp:768
+#: utils/kateprinter.cpp:737 utils/kateprinter.cpp:767
 msgid "Colors:"
 msgstr "Faarwen:"
 
-#: utils/kateprinter.cpp:744 utils/kateprinter.cpp:774
+#: utils/kateprinter.cpp:743 utils/kateprinter.cpp:773
 msgid "Foreground:"
 msgstr "Virdergrond:"
 
-#: utils/kateprinter.cpp:747
+#: utils/kateprinter.cpp:746
 msgid "Bac&kground"
 msgstr "Hanner&grond"
 
-#: utils/kateprinter.cpp:751
+#: utils/kateprinter.cpp:750
 msgid "Footer Properties"
 msgstr "Eegeschafte vun de Fousszeilen"
 
-#: utils/kateprinter.cpp:756
+#: utils/kateprinter.cpp:755
 msgid "For&mat:"
 msgstr "For&mat:"
 
-#: utils/kateprinter.cpp:777
+#: utils/kateprinter.cpp:776
 msgid "&Background"
 msgstr "&Hannergrond"
 
-#: utils/kateprinter.cpp:804
+#: utils/kateprinter.cpp:803
 msgid "<p>Format of the page header. The following tags are supported:</p>"
 msgstr ""
 "<p>Format vun de Kappzeilen. Déi folgend Formatuweisunge ginn ënnerstëtzt:</"
 "p>"
 
-#: utils/kateprinter.cpp:806
+#: utils/kateprinter.cpp:805
 #, fuzzy
 #| msgid ""
 #| "<ul><li><tt>%u</tt>: current user name</li><li><tt>%d</tt>: complete date/"
@@ -1501,8 +1511,7 @@ msgid ""
 "li><li><tt>%h</tt>: current time</li><li><tt>%y</tt>: current date in short "
 "format</li><li><tt>%Y</tt>: current date in long format</li><li><tt>%f</tt>: "
 "file name</li><li><tt>%U</tt>: full URL of the document</li><li><tt>%p</tt>: "
-"page number</li></ul><br /><u>Note:</u> Do <b>not</b> use the '|' (vertical "
-"bar) character."
+"page number</li></ul><br />"
 msgstr ""
 "<ul><li><tt>%u</tt>: aktuellen Benotzernumm</li><li><tt>%d</tt>: kompletten "
 "Datum/Zäit am Kuerzformat</li><li><tt>%D</tt>: kompletten Datum/Zäit am "
@@ -1512,45 +1521,49 @@ msgstr ""
 "Dokument</li><li><tt>%p</tt>: Säitennummer</li></ul><br><u>Opgepasst:</u> "
 "Benotzt <b>net</b> de vertikale Strich '|'."
 
-#: utils/kateprinter.cpp:820
+#: utils/kateprinter.cpp:818
 msgid "<p>Format of the page footer. The following tags are supported:</p>"
 msgstr ""
 "<p>Format vun de Fousszeilen. Déi folgend Formatuweisunge ginn ënnerstëtzt:</"
 "p>"
 
-#: utils/kateprinter.cpp:904
+#: utils/kateprinter.cpp:902
 msgid "L&ayout"
 msgstr "L&ayout"
 
-#: utils/kateprinter.cpp:911 utils/kateschema.cpp:707
+#: utils/kateprinter.cpp:909 utils/kateschema.cpp:707
 msgid "&Schema:"
 msgstr "&Schema:"
 
-#: utils/kateprinter.cpp:916
+#: utils/kateprinter.cpp:914
 msgid "Draw bac&kground color"
 msgstr "Hanner&grondfaarf zeechnen"
 
-#: utils/kateprinter.cpp:919
+#: utils/kateprinter.cpp:917
 msgid "Draw &boxes"
 msgstr "Rummen &zeechnen"
 
-#: utils/kateprinter.cpp:923
+#: utils/kateprinter.cpp:921
 msgid "Box Properties"
 msgstr "Rumm-Eegenschafte"
 
-#: utils/kateprinter.cpp:927
+#: utils/kateprinter.cpp:925
 msgid "W&idth:"
 msgstr "B&reet:"
 
-#: utils/kateprinter.cpp:935
+#: utils/kateprinter.cpp:933
 msgid "&Margin:"
 msgstr "Ra&nd:"
 
-#: utils/kateprinter.cpp:943
+#: utils/kateprinter.cpp:941
 msgid "Co&lor:"
 msgstr "Faar&f:"
 
-#: utils/kateprinter.cpp:963
+#: utils/kateprinter.cpp:958
+msgid "Select the color scheme to use for the print."
+msgstr ""
+
+#: utils/kateprinter.cpp:960
 msgid ""
 "<p>If enabled, the background color of the editor will be used.</p><p>This "
 "may be useful if your color scheme is designed for a dark background.</p>"
@@ -1559,7 +1572,7 @@ msgstr ""
 "kann nëtzlech sinn, wann ärt Faarfschema fir en däischteren Hannergrond "
 "entworf gouf.</p>"
 
-#: utils/kateprinter.cpp:966
+#: utils/kateprinter.cpp:963
 msgid ""
 "<p>If enabled, a box as defined in the properties below will be drawn around "
 "the contents of each page. The Header and Footer will be separated from the "
@@ -1569,15 +1582,15 @@ msgstr ""
 "definéiert, ronderëm d'Inhalter vun all Säit gedréckt. D'Kapp- an "
 "d'Fousszeilen ginn och vun den Inhalter mat enger Linn getrennt.</p>"
 
-#: utils/kateprinter.cpp:970
+#: utils/kateprinter.cpp:967
 msgid "The width of the box outline"
 msgstr "Breet vun der Kontur vun der Rumm"
 
-#: utils/kateprinter.cpp:972
+#: utils/kateprinter.cpp:969
 msgid "The margin inside boxes, in pixels"
 msgstr "Rand an der Rumm (a Pixelen)"
 
-#: utils/kateprinter.cpp:974
+#: utils/kateprinter.cpp:971
 msgid "The line color to use for boxes"
 msgstr "Linnefaarf vun der Rumm"
 
@@ -3967,7 +3980,7 @@ msgstr ""
 #. i18n: tag string
 #. i18n: file ./dialogs/completionconfigwidget.ui line 353
 #. i18n: tag string
-#. i18n: file ./dialogs/completionconfigwidget.ui line 579
+#. i18n: file ./dialogs/completionconfigwidget.ui line 591
 #: rc.cpp:706 rc.cpp:745 rc.cpp:781
 msgid "^"
 msgstr ""
@@ -3977,7 +3990,7 @@ msgstr ""
 #. i18n: tag string
 #. i18n: file ./dialogs/completionconfigwidget.ui line 360
 #. i18n: tag string
-#. i18n: file ./dialogs/completionconfigwidget.ui line 586
+#. i18n: file ./dialogs/completionconfigwidget.ui line 598
 #: rc.cpp:709 rc.cpp:748 rc.cpp:784
 msgid "\\/"
 msgstr ""
@@ -4051,61 +4064,51 @@ msgid "Item type (function etc.)"
 msgstr ""
 
 #. i18n: tag string
-#. i18n: file ./dialogs/completionconfigwidget.ui line 408
+#. i18n: file ./dialogs/completionconfigwidget.ui line 414
 #: rc.cpp:751
-msgid ""
-"<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body style=\" "
-"white-space: pre-wrap; font-family:Sans Serif; font-size:9pt; font-"
-"weight:400; font-style:normal; text-decoration:none;\"><p style=\" margin-"
-"top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-"
-"indent:0; text-indent:0px;\"><span style=\" font-weight:600;\">Access "
-"Grouping properties</span></p></body></html>"
+msgid "Access Grouping properties"
 msgstr ""
 
 #. i18n: tag string
-#. i18n: file ./dialogs/completionconfigwidget.ui line 415
+#. i18n: file ./dialogs/completionconfigwidget.ui line 421
 #: rc.cpp:754
 msgid "Include const in grouping"
 msgstr ""
 
 #. i18n: tag string
-#. i18n: file ./dialogs/completionconfigwidget.ui line 422
+#. i18n: file ./dialogs/completionconfigwidget.ui line 428
 #: rc.cpp:757
 msgid "Include static in grouping"
 msgstr ""
 
 #. i18n: tag string
-#. i18n: file ./dialogs/completionconfigwidget.ui line 429
+#. i18n: file ./dialogs/completionconfigwidget.ui line 435
 #: rc.cpp:760
 msgid "Include signals and slots in grouping"
 msgstr ""
 
 #. i18n: tag string
-#. i18n: file ./dialogs/completionconfigwidget.ui line 468
+#. i18n: file ./dialogs/completionconfigwidget.ui line 480
 #: rc.cpp:763
-msgid ""
-"<html><head><meta name=\"qrichtext\" content=\"1\" /></head><body style=\" "
-"white-space: pre-wrap; font-family:Sans Serif; font-size:9pt; font-"
-"weight:400; font-style:normal; text-decoration:none;\"><p style=\" margin-"
-"top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-"
-"indent:0; text-indent:0px;\"><span style=\" font-weight:600;\">Item Grouping "
-"properties</span></p></body></html>"
-msgstr ""
+#, fuzzy
+#| msgid "Footer Properties"
+msgid "Item Grouping properties"
+msgstr "Eegeschafte vun de Fousszeilen"
 
 #. i18n: tag string
-#. i18n: file ./dialogs/completionconfigwidget.ui line 475
+#. i18n: file ./dialogs/completionconfigwidget.ui line 487
 #: rc.cpp:766
 msgid "Include templates in grouping"
 msgstr ""
 
 #. i18n: tag string
-#. i18n: file ./dialogs/completionconfigwidget.ui line 504
+#. i18n: file ./dialogs/completionconfigwidget.ui line 516
 #: rc.cpp:769
 msgid "Column Merging"
 msgstr ""
 
 #. i18n: tag string
-#. i18n: file ./dialogs/completionconfigwidget.ui line 544
+#. i18n: file ./dialogs/completionconfigwidget.ui line 556
 #: rc.cpp:772
 #, fuzzy
 #| msgid "Colors"
@@ -4113,13 +4116,13 @@ msgid "Columns"
 msgstr "Faarwen"
 
 #. i18n: tag string
-#. i18n: file ./dialogs/completionconfigwidget.ui line 549
+#. i18n: file ./dialogs/completionconfigwidget.ui line 561
 #: rc.cpp:775
 msgid "Merged"
 msgstr ""
 
 #. i18n: tag string
-#. i18n: file ./dialogs/completionconfigwidget.ui line 554
+#. i18n: file ./dialogs/completionconfigwidget.ui line 566
 #: rc.cpp:778
 msgid "Shown"
 msgstr ""
@@ -5778,6 +5781,9 @@ msgstr "Datei iwwerschreiwen ?"
 #: document/katedocument.cpp:5914
 msgid "&Overwrite"
 msgstr "Iwwerschrei&wen"
+
+#~ msgid "Print syntax &guide"
+#~ msgstr "Syntax-&Guide drécken"
 
 #~ msgid "Print &selected text only"
 #~ msgstr "Nëmmen au&sgewielten Text drécken"
