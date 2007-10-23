@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-10-22 03:45+0000\n"
+"POT-Creation-Date: 2007-10-23 03:46+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1057,126 +1057,6 @@ msgctxt "Comment"
 msgid "A Test Module for KDED"
 msgstr "En Testmodul fir KDED"
 
-#: kdeprint/cups/cups.print:3
-msgctxt "Comment"
-msgid "CUPS (Common UNIX Print System)"
-msgstr "CUPS (Common UNIX Print System)"
-
-#: kdeprint/ext/ext.print:3
-msgctxt "Comment"
-msgid "Print Through an External Program (generic)"
-msgstr "Duerch en externe Programm drécken (allgemeng)"
-
-#: kdeprint/foomatic/foomatic.print:3
-msgctxt "Comment"
-msgid "Foomatic (CUPS, LPRng, PDQ)"
-msgstr "Foomatic (CUPS, LPRng, PDQ)"
-
-#: kdeprint/kdeprintd/kdeprintd.desktop:11
-msgctxt "Name"
-msgid "KDE Print Daemon"
-msgstr "KDE-Dréck-Dämon"
-
-#: kdeprint/kdeprintd/kdeprintd.desktop:76
-msgctxt "Comment"
-msgid "Print daemon for KDE"
-msgstr "Dréck-Dämon fir KDE"
-
-#: kdeprint/lpd/lpd.print:3
-msgctxt "Comment"
-msgid "LPR (Standard BSD print system)"
-msgstr "LPR (Standard-Drécksystem vu BSD)"
-
-#: kdeprint/lpdunix/lpdunix.print:3
-msgctxt "Comment"
-msgid "Generic UNIX LPD Print System (default)"
-msgstr "Allgemengt UNIX-LPD-Drécksystem (Virastellung)"
-
-#: kdeprint/lpr/lpr.print:3
-msgctxt "Comment"
-msgid "LPR/LPRng Print System"
-msgstr "LPR/LPRng-Drécksystem"
-
-#: kdeprint/rlpr/rlpr.print:3
-msgctxt "Comment"
-msgid "RLPR Environment (Remote LPD servers)"
-msgstr "RLPR  mfeld(LPD-ServeËren op anere Computeren)"
-
-#: kdeprint/specials.desktop:5
-msgctxt "Name"
-msgid "Print to File (PostScript)"
-msgstr "An Datei drécken (PostScript)"
-
-#: kdeprint/specials.desktop:72
-msgctxt "Description"
-msgid "Write PostScript file"
-msgstr "PostScript-Datei schreiwen"
-
-#: kdeprint/specials.desktop:139 kdeprint/specials.desktop:347
-msgctxt "Comment"
-msgid "Local file"
-msgstr "Lokal Datei"
-
-#: kdeprint/specials.desktop:213
-msgctxt "Name"
-msgid "Print to File (PDF)"
-msgstr "An Datei drécken (PDF)"
-
-#: kdeprint/specials.desktop:280
-msgctxt "Description"
-msgid "Write PDF/Acrobat file"
-msgstr "PDF/Acrobat-Datei schreiwen"
-
-#: kdeprint/specials.desktop:422
-msgctxt "Name"
-msgid "Send to Fax"
-msgstr "Un e Fax schécken"
-
-#: kdeprint/specials.desktop:489
-msgctxt "Description"
-msgid "Send to external fax system"
-msgstr "Un en externt Fax-System schécken"
-
-#: kdeprint/specials.desktop:555
-msgctxt "Comment"
-msgid "External"
-msgstr "Extern"
-
-#: kdeprint/specials.desktop:630
-msgctxt "Comment"
-msgid "Attachment for KMail Composer"
-msgstr "Unhang fir KMail-Verfaasser"
-
-#: kdeprint/specials.desktop:697
-msgctxt "Description"
-msgid "Creates PDF/Acrobat file as attachment for KMail"
-msgstr "Erstellt eng PDF/Acrobat-Datei als Unhang fir de KMail"
-
-#: kdeprint/specials.desktop:767
-msgctxt "Name"
-msgid "Mail PDF File"
-msgstr "PDF-Datei mailen"
-
-#: kdeprint/specials.desktop:836
-msgctxt "Comment"
-msgid "KSendFax"
-msgstr "KSendFax"
-
-#: kdeprint/specials.desktop:848
-msgctxt "Description"
-msgid "Use ksendfax to fax the current document"
-msgstr "Benotzt de ksendfax fir dat aktuellt Dokument ze faxen"
-
-#: kdeprint/specials.desktop:918
-msgctxt "Name"
-msgid "Advanced Faxing Tool (ksendfax)"
-msgstr "Erweiderte Faxprogramm (ksendfax)"
-
-#: kdeprint/tools/escputil/escputil.desktop:3
-msgctxt "Name"
-msgid "EPSON InkJet"
-msgstr "EPSON InkJet"
-
 #: kdeui/shortcuts/kdedglobalaccel.desktop:11
 msgctxt "Name"
 msgid "KDED Global Shortcuts Server"
@@ -1749,6 +1629,102 @@ msgstr ""
 msgctxt "Name"
 msgid "HSpell"
 msgstr "HSpell"
+
+#~ msgctxt "Comment"
+#~ msgid "CUPS (Common UNIX Print System)"
+#~ msgstr "CUPS (Common UNIX Print System)"
+
+#~ msgctxt "Comment"
+#~ msgid "Print Through an External Program (generic)"
+#~ msgstr "Duerch en externe Programm drécken (allgemeng)"
+
+#~ msgctxt "Comment"
+#~ msgid "Foomatic (CUPS, LPRng, PDQ)"
+#~ msgstr "Foomatic (CUPS, LPRng, PDQ)"
+
+#~ msgctxt "Name"
+#~ msgid "KDE Print Daemon"
+#~ msgstr "KDE-Dréck-Dämon"
+
+#~ msgctxt "Comment"
+#~ msgid "Print daemon for KDE"
+#~ msgstr "Dréck-Dämon fir KDE"
+
+#~ msgctxt "Comment"
+#~ msgid "LPR (Standard BSD print system)"
+#~ msgstr "LPR (Standard-Drécksystem vu BSD)"
+
+#~ msgctxt "Comment"
+#~ msgid "Generic UNIX LPD Print System (default)"
+#~ msgstr "Allgemengt UNIX-LPD-Drécksystem (Virastellung)"
+
+#~ msgctxt "Comment"
+#~ msgid "LPR/LPRng Print System"
+#~ msgstr "LPR/LPRng-Drécksystem"
+
+#~ msgctxt "Comment"
+#~ msgid "RLPR Environment (Remote LPD servers)"
+#~ msgstr "RLPR  mfeld(LPD-ServeËren op anere Computeren)"
+
+#~ msgctxt "Name"
+#~ msgid "Print to File (PostScript)"
+#~ msgstr "An Datei drécken (PostScript)"
+
+#~ msgctxt "Description"
+#~ msgid "Write PostScript file"
+#~ msgstr "PostScript-Datei schreiwen"
+
+#~ msgctxt "Comment"
+#~ msgid "Local file"
+#~ msgstr "Lokal Datei"
+
+#~ msgctxt "Name"
+#~ msgid "Print to File (PDF)"
+#~ msgstr "An Datei drécken (PDF)"
+
+#~ msgctxt "Description"
+#~ msgid "Write PDF/Acrobat file"
+#~ msgstr "PDF/Acrobat-Datei schreiwen"
+
+#~ msgctxt "Name"
+#~ msgid "Send to Fax"
+#~ msgstr "Un e Fax schécken"
+
+#~ msgctxt "Description"
+#~ msgid "Send to external fax system"
+#~ msgstr "Un en externt Fax-System schécken"
+
+#~ msgctxt "Comment"
+#~ msgid "External"
+#~ msgstr "Extern"
+
+#~ msgctxt "Comment"
+#~ msgid "Attachment for KMail Composer"
+#~ msgstr "Unhang fir KMail-Verfaasser"
+
+#~ msgctxt "Description"
+#~ msgid "Creates PDF/Acrobat file as attachment for KMail"
+#~ msgstr "Erstellt eng PDF/Acrobat-Datei als Unhang fir de KMail"
+
+#~ msgctxt "Name"
+#~ msgid "Mail PDF File"
+#~ msgstr "PDF-Datei mailen"
+
+#~ msgctxt "Comment"
+#~ msgid "KSendFax"
+#~ msgstr "KSendFax"
+
+#~ msgctxt "Description"
+#~ msgid "Use ksendfax to fax the current document"
+#~ msgstr "Benotzt de ksendfax fir dat aktuellt Dokument ze faxen"
+
+#~ msgctxt "Name"
+#~ msgid "Advanced Faxing Tool (ksendfax)"
+#~ msgstr "Erweiderte Faxprogramm (ksendfax)"
+
+#~ msgctxt "Name"
+#~ msgid "EPSON InkJet"
+#~ msgstr "EPSON InkJet"
 
 #~ msgctxt "Name"
 #~ msgid "HighContrast"

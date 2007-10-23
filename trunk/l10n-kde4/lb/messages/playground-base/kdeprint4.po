@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdeprint4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-10-20 05:39+0200\n"
+"POT-Creation-Date: 2007-10-23 05:44+0200\n"
 "PO-Revision-Date: 2006-05-02 18:19+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1726,24 +1726,21 @@ msgid "<b>Model</b>: %1<br />"
 msgstr "<b>Status</b>: %1<br>"
 
 #: cups/kmwippprinter.cpp:180 kmprinter.cpp:135
-msgctxt "@item:intext Printer state"
 msgid "Idle"
 msgstr ""
 
 #: cups/kmwippprinter.cpp:181 kmprinter.cpp:137
-msgctxt "@item:intext Printer state"
 msgid "Stopped"
 msgstr ""
 
-#: cups/kmwippprinter.cpp:182 kmprinter.cpp:136
-msgctxt "@item:intext Printer state"
+#: cups/kmwippprinter.cpp:182 kmjob.cpp:110 kmprinter.cpp:136
 msgid "Processing..."
 msgstr ""
 
-#: cups/kmwippprinter.cpp:183 kmprinter.cpp:138
+#: cups/kmwippprinter.cpp:183 kmjob.cpp:131 kmprinter.cpp:138
 #, fuzzy
 #| msgid "Unknown"
-msgctxt "@item:intext Printer state"
+msgctxt "Unknown State"
 msgid "Unknown"
 msgstr "Onbekannt"
 
@@ -2228,51 +2225,33 @@ msgstr "Drocksystem"
 msgid "Authentication failed (user name=%1)"
 msgstr ""
 
-#: kmjob.cpp:110
-msgctxt "@item:intext Job state"
-msgid "Processing..."
-msgstr ""
-
 #: kmjob.cpp:113
-msgctxt "@item:intext Job state"
 msgid "Queued"
 msgstr ""
 
 #: kmjob.cpp:116
-msgctxt "@item:intext Job state"
 msgid "Held"
 msgstr ""
 
-#: kmjob.cpp:119
-msgctxt "@item:intext Job state"
+#: kmjob.cpp:119 tools/escputil/escpwidget.cpp:228
 msgid "Error"
 msgstr ""
 
 #: kmjob.cpp:122
-msgctxt "@item:intext Job state"
 msgid "Canceled"
 msgstr ""
 
 #: kmjob.cpp:125
 #, fuzzy
 #| msgid "&Abort"
-msgctxt "@item:intext Job state"
 msgid "Aborted"
 msgstr "Ofb&riechen"
 
 #: kmjob.cpp:128
 #, fuzzy
 #| msgid "Comment"
-msgctxt "@item:intext Job state"
 msgid "Completed"
 msgstr "Kommentar"
-
-#: kmjob.cpp:131
-#, fuzzy
-#| msgid "Unknown"
-msgctxt "@item:intext Job state"
-msgid "Unknown"
-msgstr "Onbekannt"
 
 #: tests/main.cpp:18
 msgid "helpviewer"
@@ -2351,10 +2330,6 @@ msgstr ""
 #: tools/escputil/escpwidget.cpp:226 kpfilterpage.cpp:399
 msgid "Output"
 msgstr "Ausgab"
-
-#: tools/escputil/escpwidget.cpp:228
-msgid "Error"
-msgstr ""
 
 #: management/kmmainview.cpp:73
 #, kde-format
@@ -5548,3 +5523,15 @@ msgstr "&Grostufen"
 #: kpqtpage.cpp:156
 msgid "Ot&her"
 msgstr ""
+
+#, fuzzy
+#~| msgid "Unknown"
+#~ msgctxt "@item:intext Printer state"
+#~ msgid "Unknown"
+#~ msgstr "Onbekannt"
+
+#, fuzzy
+#~| msgid "Unknown"
+#~ msgctxt "@item:intext Job state"
+#~ msgid "Unknown"
+#~ msgstr "Onbekannt"
