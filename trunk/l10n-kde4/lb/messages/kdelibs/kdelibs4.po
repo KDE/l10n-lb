@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-10-30 05:48+0100\n"
+"POT-Creation-Date: 2007-10-31 05:47+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -847,7 +847,8 @@ msgstr "Eegeschaft"
 
 #. i18n: tag string
 #. i18n: file ./khtml/htmlpageinfo.ui line 237
-#: rc.cpp:351 khtml/java/kjavaappletviewer.cpp:140
+#: rc.cpp:351 khtml/ecma/debugger/execstatemodel.cpp:242
+#: khtml/java/kjavaappletviewer.cpp:140
 msgid "Value"
 msgstr "Wert"
 
@@ -1436,7 +1437,7 @@ msgstr ""
 #. i18n: file ./threadweaver/Examples/Jobs/JobsBase.ui line 90
 #: rc.cpp:636 rc.cpp:868 kdeui/util/kstandardguiitem.cpp:265
 #: kdeui/util/kkeyserver_x11.cpp:109 kdeui/findreplace/kreplace.cpp:354
-#: khtml/ecma/kjs_debugwin.cpp:482 khtml/ecma/debugger/debugwindow.cpp:175
+#: khtml/ecma/kjs_debugwin.cpp:482 khtml/ecma/debugger/debugwindow.cpp:177
 #: kross/ui/view.cpp:308
 msgid "Stop"
 msgstr "Stop"
@@ -1763,17 +1764,17 @@ msgstr "Alen Numm vum Host"
 msgid "New hostname"
 msgstr "Neien Numm fir den Host"
 
-#: kded/kded.cpp:764
+#: kded/kded.cpp:745
 msgid "KDE Daemon"
 msgstr "KDE-Daemon"
 
-#: kded/kded.cpp:766
+#: kded/kded.cpp:747
 msgid "KDE Daemon - triggers Sycoca database updates when needed"
 msgstr ""
 "KDE-Daemon: Léist d'Aktualiséierunge vun der Sycoca-Datebank aus, wa "
 "gebraucht"
 
-#: kded/kded.cpp:769
+#: kded/kded.cpp:750
 msgid "Check Sycoca database only once"
 msgstr "An der Sycoca-Datebank just eng Kéier nokucken"
 
@@ -3612,78 +3613,78 @@ msgstr "Den Auteur vun dësem Programm wëllt anonym bleiwen."
 msgid "Please use http://bugs.kde.org to report bugs.\n"
 msgstr "Mellt eventuell Käfere w.e.g. ënnert http://bugs.kde.org.\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:920 kdecore/kernel/kcmdlineargs.cpp:922
+#: kdecore/kernel/kcmdlineargs.cpp:919
 #, kde-format
 msgid "Please report bugs to %1.\n"
 msgstr "Mellt eventuell Käfere w.e.g. bei %1.\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:948
+#: kdecore/kernel/kcmdlineargs.cpp:945
 #, kde-format
 msgid "Unexpected argument '%1'."
 msgstr "Den Argument '%1' ass onerwaart."
 
-#: kdecore/kernel/kcmdlineargs.cpp:1064
+#: kdecore/kernel/kcmdlineargs.cpp:1061
 msgid "Use --help to get a list of available command line options."
 msgstr "Gitt --help an, fir eng Lëscht vu verfügbaren Optiounen ze kréien."
 
-#: kdecore/kernel/kcmdlineargs.cpp:1087
+#: kdecore/kernel/kcmdlineargs.cpp:1084
 msgid "[options] "
 msgstr "[Optiounen]"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1094
+#: kdecore/kernel/kcmdlineargs.cpp:1091
 #, kde-format
 msgid "[%1-options]"
 msgstr "[%1-Optiounen]"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1115
+#: kdecore/kernel/kcmdlineargs.cpp:1112
 #, kde-format
 msgid "Usage: %1 %2\n"
 msgstr "Verwendung: %1 %2\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1118
+#: kdecore/kernel/kcmdlineargs.cpp:1115
 #, fuzzy
 msgid ""
 "\n"
 "Generic options:\n"
 msgstr "Einfach Optiounen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1119
+#: kdecore/kernel/kcmdlineargs.cpp:1116
 msgid "Show help about options"
 msgstr "D'Hëllefsoptiounen uweisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1127
+#: kdecore/kernel/kcmdlineargs.cpp:1124
 #, kde-format
 msgid "Show %1 specific options"
 msgstr "Speziell Optioune fir %1 uweisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1134
+#: kdecore/kernel/kcmdlineargs.cpp:1131
 msgid "Show all options"
 msgstr "All Optioune weisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1135
+#: kdecore/kernel/kcmdlineargs.cpp:1132
 msgid "Show author information"
 msgstr "Informatiounen iwwert den Auteur uweisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1136
+#: kdecore/kernel/kcmdlineargs.cpp:1133
 msgid "Show version information"
 msgstr "Informatiounen iwwert d'Versioun uweisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1137
+#: kdecore/kernel/kcmdlineargs.cpp:1134
 msgid "Show license information"
 msgstr "Lizenzinformatiounen uweisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1138
+#: kdecore/kernel/kcmdlineargs.cpp:1135
 msgid "End of options"
 msgstr "Enn vun den Optiounen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1159
+#: kdecore/kernel/kcmdlineargs.cpp:1156
 #, fuzzy, kde-format
 msgid ""
 "\n"
 "%1 options:\n"
 msgstr "%1 Optiounen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1161
+#: kdecore/kernel/kcmdlineargs.cpp:1158
 msgid ""
 "\n"
 "Options:\n"
@@ -3691,7 +3692,7 @@ msgstr ""
 "\n"
 "Optiounen:\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1219
+#: kdecore/kernel/kcmdlineargs.cpp:1216
 msgid ""
 "\n"
 "Arguments:\n"
@@ -3699,13 +3700,13 @@ msgstr ""
 "\n"
 "Argumenter:\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1586
+#: kdecore/kernel/kcmdlineargs.cpp:1583
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr ""
 "D'Dateien/URLen, déi vum Programm opgemaach gi sinn, ginn häerno nees "
 "geläscht"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1587
+#: kdecore/kernel/kcmdlineargs.cpp:1584
 msgid "KDE-tempfile"
 msgstr ""
 
@@ -4733,7 +4734,7 @@ msgid "Translate this entry"
 msgstr "Iwwersetzung"
 
 #: knewstuff/knewstuff2/ui/kdxstranslation.cpp:48
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:392
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:417
 #: knewstuff/knewstuff2/ui/providerdialog.cpp:70
 msgid "Name"
 msgstr "Numm"
@@ -4830,66 +4831,66 @@ msgstr "Ausfëllen"
 msgid "Do Not Fill Out"
 msgstr "Net Ausfëllen"
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:376
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:401
 #, fuzzy
 #| msgid "Show %1"
 msgid "Show:"
 msgstr "%1 weisen"
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:385
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:410
 msgid "Order by:"
 msgstr ""
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:393
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:418
 msgid "Rating"
 msgstr "Bewertung"
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:394
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:419
 msgid "Most recent"
 msgstr ""
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:395
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:420
 #, fuzzy
 #| msgid "Most Downloads"
 msgid "Most downloads"
 msgstr "Am meeschten erofgelueden"
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:398
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:423
 #, fuzzy
 #| msgid "S&earch:"
 msgid "Search:"
 msgstr "Siche&n:"
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:423
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:448
 #, fuzzy
 #| msgid "Get Hot New Stuff"
 msgid "Get Hot New Stuff!"
 msgstr "Nei Saachen ofhuelen"
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:425
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:450
 #, kde-format
 msgctxt "Program name followed by 'Add On Installer'"
 msgid "%1 Add On Installer"
 msgstr ""
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:478
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:503
 msgid "Timeout. Check internet connection!"
 msgstr ""
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:622
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:405
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:648
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:404
 msgid "A protocol fault has occurred. The request has failed."
 msgstr ""
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:623
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:630
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:406
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:413
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:649
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:656
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:405
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:412
 msgid "Desktop Exchange Service"
 msgstr ""
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:629
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:412
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:655
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:411
 msgid "A network error has occurred. The request has failed."
 msgstr ""
 
@@ -4898,14 +4899,14 @@ msgid "Rate this entry"
 msgstr ""
 
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:67
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:155
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:590
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:154
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:589
 msgid "Install"
 msgstr "Installéieren"
 
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:69
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:145
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:585
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:144
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:584
 #, fuzzy
 #| msgid "Install"
 msgid "Uninstall"
@@ -4931,7 +4932,7 @@ msgid "Switch version"
 msgstr "Dee lénksen Dock ëmschalten"
 
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:87
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:266
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:265
 #, fuzzy
 #| msgid "Show version information"
 msgid "Provider information"
@@ -4974,105 +4975,105 @@ msgstr ""
 msgid "Report bad entry"
 msgstr "(Eidel Entrée)"
 
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:150
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:149
 msgid "Update"
 msgstr "Aktualiséieren"
 
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:163
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:162
 #, fuzzy
 #| msgid "&Send Email"
 msgid "Send Mail"
 msgstr "E-Mail &verschécken"
 
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:168
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:167
 msgid "Contact on Jabber"
 msgstr ""
 
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:260
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:259
 #, fuzzy, kde-format
 #| msgid "<Merge %1>"
 msgid "Server: %1"
 msgstr "<Merge %1>"
 
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:261
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:260
 #, fuzzy, kde-format
 #| msgid "Hide %1"
 msgid "Provider: %1"
 msgstr "%1 net weisen"
 
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:262
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:261
 #, fuzzy, kde-format
 #| msgid "Version:"
 msgid "Version: %1"
 msgstr "Versioun:"
 
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:343
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:342
 msgid "The removal request was successfully registered."
 msgstr ""
 
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:344
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:350
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:343
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:349
 #, fuzzy
 #| msgid "Remove Entry"
 msgid "Removal of entry"
 msgstr "Entrée ewechhuelen"
 
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:349
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:348
 msgid "The removal request failed."
 msgstr ""
 
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:359
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:358
 msgid "The subscription was successfully completed."
 msgstr ""
 
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:360
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:366
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:359
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:365
 msgid "Subscription to entry"
 msgstr ""
 
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:365
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:364
 msgid "The subscription request failed."
 msgstr ""
 
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:375
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:374
 msgid "The rating was submitted successfully."
 msgstr ""
 
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:376
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:382
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:375
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:381
 msgid "Rating for entry"
 msgstr ""
 
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:381
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:380
 #, fuzzy
 #| msgid "The requested operation could not be completed"
 msgid "The rating could not be submitted."
 msgstr "Déi gewënschten Operatioun konnt net duerchgefouert ginn"
 
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:391
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:390
 msgid "The comment was submitted successfully."
 msgstr ""
 
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:392
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:398
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:391
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:397
 #, fuzzy
 #| msgid "Comment"
 msgid "Comment on entry"
 msgstr "Kommentar"
 
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:397
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:396
 #, fuzzy
 #| msgid "The module %1 could not be found."
 msgid "The comment could not be submitted."
 msgstr "De Modul %1 ass net fonnt ginn."
 
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:453
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:452
 #, fuzzy
 #| msgid "New Distribution List"
 msgid "KNewStuff contributions"
 msgstr "Nei Distributiounslëscht"
 
-#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:564
+#: knewstuff/knewstuff2/ui/kdxsbutton.cpp:563
 msgid "This operation needs authentication"
 msgstr ""
 
@@ -5747,7 +5748,7 @@ msgstr ""
 msgid "Default:"
 msgstr "Standard"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:368 kdeui/widgets/klineedit.cpp:1050
+#: kdeui/dialogs/kshortcutsdialog.cpp:368 kdeui/widgets/klineedit.cpp:1049
 msgid "None"
 msgstr "Keng"
 
@@ -6608,16 +6609,16 @@ msgctxt "@info:whatsthis"
 msgid "Here you can choose the font style to be used."
 msgstr "Hei kënnt dir de Schrëftstil wielen, dee benotzt soll ginn."
 
-#: kdeui/fonts/kfontchooser.cpp:276 kdeui/fonts/kfontchooser.cpp:577
-#: kdeui/fonts/kfontchooser.cpp:579 kdeui/fonts/kfontchooser.cpp:590
-#: kdeui/fonts/kfontchooser.cpp:591
+#: kdeui/fonts/kfontchooser.cpp:276 kdeui/fonts/kfontchooser.cpp:578
+#: kdeui/fonts/kfontchooser.cpp:580 kdeui/fonts/kfontchooser.cpp:591
+#: kdeui/fonts/kfontchooser.cpp:592
 #, fuzzy
 #| msgid "Regular"
 msgctxt "@item font"
 msgid "Regular"
 msgstr "Normal"
 
-#: kdeui/fonts/kfontchooser.cpp:277 kdeui/fonts/kfontchooser.cpp:581
+#: kdeui/fonts/kfontchooser.cpp:277 kdeui/fonts/kfontchooser.cpp:582
 #, fuzzy
 #| msgid "Italic"
 msgctxt "@item font"
@@ -6638,20 +6639,20 @@ msgctxt "@item font"
 msgid "Bold Italic"
 msgstr "Fett kursiv"
 
-#: kdeui/fonts/kfontchooser.cpp:297
+#: kdeui/fonts/kfontchooser.cpp:298
 #, fuzzy
 #| msgid "Relative"
 msgctxt "@item font size"
 msgid "Relative"
 msgstr "Relativ"
 
-#: kdeui/fonts/kfontchooser.cpp:299
+#: kdeui/fonts/kfontchooser.cpp:300
 #, fuzzy
 #| msgid "Font size<br><i>fixed</i> or <i>relative</i><br>to environment"
 msgid "Font size<br /><i>fixed</i> or <i>relative</i><br />to environment"
 msgstr "Schrëftgréisst <br><i>fest</i> oder <i>relativ</i><br>zum Rescht"
 
-#: kdeui/fonts/kfontchooser.cpp:301
+#: kdeui/fonts/kfontchooser.cpp:302
 msgid ""
 "Here you can switch between fixed font size and font size to be calculated "
 "dynamically and adjusted to changing environment (e.g. widget dimensions, "
@@ -6661,17 +6662,17 @@ msgstr ""
 "Schrëftgréisst, déi dynamësch berechent gëtt, an déi sëch dem Rescht (z.B. "
 "der Gréisst vun de Schalteren oder der Gréisst vum Pabeier) upasst. "
 
-#: kdeui/fonts/kfontchooser.cpp:329
+#: kdeui/fonts/kfontchooser.cpp:330
 msgid "Here you can choose the font size to be used."
 msgstr "Hei kënnt dir d'Schrëftgréisst wielen, déi benotzt soll ginn."
 
 #. i18n: This is a classical test phrase. (It contains all letters from A to Z.)
-#: kdeui/fonts/kfontchooser.cpp:365
+#: kdeui/fonts/kfontchooser.cpp:366
 msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
 msgstr ""
 "Ëch hätt gär dräi Wirschtercher mat Fritten a Ketchup, ouni Zalot a Geméis"
 
-#: kdeui/fonts/kfontchooser.cpp:370
+#: kdeui/fonts/kfontchooser.cpp:371
 msgid ""
 "This sample text illustrates the current settings. You may edit it to test "
 "special characters."
@@ -6679,7 +6680,7 @@ msgstr ""
 "Dëse Beispilltext illustréiert déi momentan Astellungen. Dir kënnt e "
 "veränneren fir d'Duerstellung vu speziellen Zeechen ze kucken."
 
-#: kdeui/fonts/kfontchooser.cpp:379 kdeui/fonts/kfontchooser.cpp:392
+#: kdeui/fonts/kfontchooser.cpp:380 kdeui/fonts/kfontchooser.cpp:393
 msgid "Actual Font"
 msgstr "Aktuell Schrëft"
 
@@ -7500,7 +7501,7 @@ msgstr "&Vollbildmodus"
 msgid "Exit F&ull Screen Mode"
 msgstr "Aus dem &Vollbildmodus erausgoen"
 
-#: kdeui/actions/kcodecaction.cpp:93 kdeui/widgets/klineedit.cpp:1077
+#: kdeui/actions/kcodecaction.cpp:93 kdeui/widgets/klineedit.cpp:1076
 #: kdeui/widgets/ktoolbar.cpp:276
 msgid "Default"
 msgstr "Standard"
@@ -8744,27 +8745,27 @@ msgstr ""
 msgid "Clear text"
 msgstr "Kierzel läschen"
 
-#: kdeui/widgets/klineedit.cpp:1043
+#: kdeui/widgets/klineedit.cpp:1042
 msgid "Text Completion"
 msgstr "Ergänzung vum Text"
 
-#: kdeui/widgets/klineedit.cpp:1051
+#: kdeui/widgets/klineedit.cpp:1050
 msgid "Manual"
 msgstr "Manuell"
 
-#: kdeui/widgets/klineedit.cpp:1052
+#: kdeui/widgets/klineedit.cpp:1051
 msgid "Automatic"
 msgstr "Automatësch"
 
-#: kdeui/widgets/klineedit.cpp:1053
+#: kdeui/widgets/klineedit.cpp:1052
 msgid "Dropdown List"
 msgstr "Ausklapplëscht"
 
-#: kdeui/widgets/klineedit.cpp:1054
+#: kdeui/widgets/klineedit.cpp:1053
 msgid "Short Automatic"
 msgstr "Automatësch kuerz"
 
-#: kdeui/widgets/klineedit.cpp:1055
+#: kdeui/widgets/klineedit.cpp:1054
 msgid "Dropdown List && Automatic"
 msgstr "Ausklapplëscht && Automatik"
 
@@ -10548,7 +10549,7 @@ msgid "Available Tests: %1 (ignored: %2)"
 msgstr ""
 
 #: khtml/test_regression_gui_window.cpp:563 khtml/ecma/kjs_debugwin.cpp:481
-#: khtml/ecma/debugger/debugwindow.cpp:168
+#: khtml/ecma/debugger/debugwindow.cpp:170
 msgid "Continue"
 msgstr "Weider"
 
@@ -10852,48 +10853,109 @@ msgstr ""
 "<qt>Dëss Säit probéiert, e Formular ofzeschécken, deen iwwer JavaScript <p>%"
 "1</p> an enger neier Fënster opmëcht.<br/>Wëllt dir dat zouloossen?</qt>"
 
+#: khtml/ecma/debugger/scriptsdock.cpp:37
+#, fuzzy
+msgid "Loaded Scripts"
+msgstr "&Handschrëft"
+
+#: khtml/ecma/debugger/execstatemodel.cpp:238
+#, fuzzy
+#| msgid "Reference error"
+msgid "Reference"
+msgstr "Referenzfeler"
+
+#: khtml/ecma/debugger/execstatemodel.cpp:240
+#, fuzzy
+#| msgid "Type"
+msgid "Type"
+msgstr "Typ"
+
+#: khtml/ecma/debugger/localvariabledock.cpp:41
+msgid "Local Variables"
+msgstr ""
+
 #: khtml/ecma/debugger/debugwindow.cpp:124
 msgid ""
 "A KDE text-editor component could not be found;\n"
 "please check your KDE installation."
 msgstr ""
 
-#: khtml/ecma/debugger/debugwindow.cpp:170
-#: khtml/ecma/debugger/debugwindow.cpp:171
+#: khtml/ecma/debugger/debugwindow.cpp:172
+#: khtml/ecma/debugger/debugwindow.cpp:173
 #, fuzzy
 msgid "Continue script execution"
 msgstr "Virgang fortsetzen"
 
-#: khtml/ecma/debugger/debugwindow.cpp:177
-#: khtml/ecma/debugger/debugwindow.cpp:178
+#: khtml/ecma/debugger/debugwindow.cpp:179
+#: khtml/ecma/debugger/debugwindow.cpp:180
 msgid "Stop script execution"
 msgstr ""
 
-#: khtml/ecma/debugger/debugwindow.cpp:182
 #: khtml/ecma/debugger/debugwindow.cpp:184
-#: khtml/ecma/debugger/debugwindow.cpp:185
+#: khtml/ecma/debugger/debugwindow.cpp:186
+#: khtml/ecma/debugger/debugwindow.cpp:187
 #, fuzzy
 msgid "Step Into"
 msgstr "Schrack"
 
-#: khtml/ecma/debugger/debugwindow.cpp:189
 #: khtml/ecma/debugger/debugwindow.cpp:191
-#: khtml/ecma/debugger/debugwindow.cpp:192
+#: khtml/ecma/debugger/debugwindow.cpp:193
+#: khtml/ecma/debugger/debugwindow.cpp:194
 #, fuzzy
 msgid "Step Out"
 msgstr "Schrack"
 
-#: khtml/ecma/debugger/debugwindow.cpp:196
 #: khtml/ecma/debugger/debugwindow.cpp:198
-#: khtml/ecma/debugger/debugwindow.cpp:199
+#: khtml/ecma/debugger/debugwindow.cpp:200
+#: khtml/ecma/debugger/debugwindow.cpp:201
 #, fuzzy
 msgid "Step Over"
 msgstr "Schrack"
 
-#: khtml/ecma/debugger/debugwindow.cpp:248
+#: khtml/ecma/debugger/debugwindow.cpp:242
+#, fuzzy
+#| msgid "Close Document"
+msgid "Close source"
+msgstr "Dokument zoumaachen"
+
+#: khtml/ecma/debugger/debugwindow.cpp:250
 #, fuzzy
 msgid "Ready"
 msgstr "Nach eng Kéier lueden"
+
+#: khtml/ecma/debugger/breakpointsdock.cpp:28
+msgid "Breakpoints"
+msgstr ""
+
+#: khtml/ecma/debugger/consoledock.cpp:31
+#, fuzzy
+#| msgid "Close"
+msgid "Console"
+msgstr "Zoumaachen"
+
+#: khtml/ecma/debugger/consoledock.cpp:39
+#, fuzzy
+#| msgctxt "QAccel"
+#| msgid "Enter"
+msgid "Enter"
+msgstr "Enter"
+
+#: khtml/ecma/debugger/callstackdock.cpp:33
+#, fuzzy
+#| msgid "Call stack"
+msgid "Call Stack"
+msgstr "Stack opruffen"
+
+#: khtml/ecma/debugger/callstackdock.cpp:37
+#, fuzzy
+msgid "Call"
+msgstr "Installéieren"
+
+#: khtml/ecma/debugger/callstackdock.cpp:37
+#, fuzzy
+#| msgid "Line up"
+msgid "Line"
+msgstr "Ausriichten"
 
 #: khtml/html/htmlparser.cpp:1755
 msgid "This is a searchable index. Enter search keywords: "
@@ -15616,10 +15678,6 @@ msgstr ""
 #~ msgstr "Enter"
 
 #~ msgctxt "QAccel"
-#~ msgid "Enter"
-#~ msgstr "Enter"
-
-#~ msgctxt "QAccel"
 #~ msgid "Ins"
 #~ msgstr "Ins"
 
@@ -15886,9 +15944,6 @@ msgstr ""
 #~ msgctxt "QFile"
 #~ msgid "Could not write to the file"
 #~ msgstr "Konnt net an d'Datei schreiwen"
-
-#~ msgid "Line up"
-#~ msgstr "Ausriichten"
 
 #~ msgid "Customize..."
 #~ msgstr "Benotzerdefinéiert..."
