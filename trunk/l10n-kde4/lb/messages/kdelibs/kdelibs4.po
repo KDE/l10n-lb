@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-11-24 05:53+0100\n"
+"POT-Creation-Date: 2007-11-25 05:57+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -6780,16 +6780,16 @@ msgctxt "@info:whatsthis"
 msgid "Here you can choose the font style to be used."
 msgstr "Hei kënnt dir de Schrëftstil wielen, dee benotzt soll ginn."
 
-#: kdeui/fonts/kfontchooser.cpp:276 kdeui/fonts/kfontchooser.cpp:580
-#: kdeui/fonts/kfontchooser.cpp:582 kdeui/fonts/kfontchooser.cpp:593
-#: kdeui/fonts/kfontchooser.cpp:594
+#: kdeui/fonts/kfontchooser.cpp:276 kdeui/fonts/kfontchooser.cpp:583
+#: kdeui/fonts/kfontchooser.cpp:585 kdeui/fonts/kfontchooser.cpp:596
+#: kdeui/fonts/kfontchooser.cpp:597
 #, fuzzy
 #| msgid "Regular"
 msgctxt "@item font"
 msgid "Regular"
 msgstr "Normal"
 
-#: kdeui/fonts/kfontchooser.cpp:277 kdeui/fonts/kfontchooser.cpp:584
+#: kdeui/fonts/kfontchooser.cpp:277 kdeui/fonts/kfontchooser.cpp:587
 #, fuzzy
 #| msgid "Italic"
 msgctxt "@item font"
