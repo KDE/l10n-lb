@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libksirtet\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-11-08 06:06+0100\n"
+"POT-Creation-Date: 2007-12-04 06:09+0100\n"
 "PO-Revision-Date: 2005-11-14 22:37+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -171,7 +171,7 @@ msgstr "Verbindung ënnerbrach"
 msgid "Client has not answered in time"
 msgstr "De Client huet net an der Zäit geäntwert"
 
-#: lib/keys.cpp:89
+#: lib/keys.cpp:96
 #, kde-format
 msgid "Shortcuts for player #%1/%2"
 msgstr "Kierzel fir de Spiller #%1/%2"
