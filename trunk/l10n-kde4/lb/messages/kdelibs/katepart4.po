@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-12-06 06:00+0100\n"
+"POT-Creation-Date: 2007-12-08 05:56+0100\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -916,7 +916,7 @@ msgstr "Kann %1 net opmaachen"
 msgid "Exception, line %1: %2"
 msgstr "Ausnam, Zeil %1: %2"
 
-#: jscript/katejscript.cpp:413 jscript/katejscript.cpp:1397
+#: jscript/katejscript.cpp:413 jscript/katejscript.cpp:1398
 #: utils/katecmds.cpp:100
 msgid "Could not access view"
 msgstr ""
@@ -939,12 +939,12 @@ msgstr "Ausnam, Zeil %1: %2"
 msgid "Exception in line %1: %2"
 msgstr "Ausnam, Zeil %1: %2"
 
-#: jscript/katejscript.cpp:1416
+#: jscript/katejscript.cpp:1417
 #, fuzzy, kde-format
 msgid "Command not found: %1"
 msgstr "Kommando gouf net fonnt"
 
-#: jscript/katejscript.cpp:1424
+#: jscript/katejscript.cpp:1425
 #, kde-format
 msgid "Failed to start interpreter for script %1, command %2"
 msgstr ""
