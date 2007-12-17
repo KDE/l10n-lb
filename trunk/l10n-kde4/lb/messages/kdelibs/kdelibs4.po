@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-12-16 06:12+0100\n"
+"POT-Creation-Date: 2007-12-17 06:09+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -847,7 +847,7 @@ msgstr "Eegeschaft"
 
 #. i18n: tag string
 #. i18n: file ./khtml/htmlpageinfo.ui line 237
-#: rc.cpp:351 khtml/ecma/debugger/execstatemodel.cpp:244
+#: rc.cpp:351 khtml/ecma/debugger/localvariabledock.cpp:51
 #: khtml/java/kjavaappletviewer.cpp:140
 msgid "Value"
 msgstr "Wert"
@@ -5116,23 +5116,23 @@ msgctxt "Program name followed by 'Add On Installer'"
 msgid "%1 Add On Installer"
 msgstr ""
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:568
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:572
 msgid "Timeout. Check internet connection!"
 msgstr ""
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:739
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:743
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:402
 msgid "A protocol fault has occurred. The request has failed."
 msgstr ""
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:740
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:747
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:744
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:751
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:403
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:410
 msgid "Desktop Exchange Service"
 msgstr ""
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:746
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:750
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:409
 msgid "A network error has occurred. The request has failed."
 msgstr ""
@@ -5369,25 +5369,25 @@ msgstr "Wielt w.e.g. ee vun de folgende Provideren:"
 msgid "No provider selected."
 msgstr "Kee Provider gewielt."
 
-#: knewstuff/knewstuff2/core/providerhandler.cpp:167
+#: knewstuff/knewstuff2/core/providerhandler.cpp:158
 msgid "Latest"
 msgstr "Dat Neitst"
 
-#: knewstuff/knewstuff2/core/providerhandler.cpp:174
+#: knewstuff/knewstuff2/core/providerhandler.cpp:164
 msgid "Highest Rated"
 msgstr "Am héchste bewäert"
 
-#: knewstuff/knewstuff2/core/providerhandler.cpp:181
+#: knewstuff/knewstuff2/core/providerhandler.cpp:170
 msgid "Most Downloads"
 msgstr "Am meeschten erofgelueden"
 
-#: knewstuff/knewstuff2/core/providerhandler.cpp:188
+#: knewstuff/knewstuff2/core/providerhandler.cpp:176
 #, fuzzy
 #| msgid "Untrusted"
 msgid "Unsorted"
 msgstr "Net als sëcher agestuft"
 
-#: knewstuff/knewstuff2/core/security.cpp:78
+#: knewstuff/knewstuff2/core/security.cpp:76
 msgid ""
 "<qt>Cannot start <i>gpg</i> and retrieve the available keys. Make sure that "
 "<i>gpg</i> is installed, otherwise verification of downloaded resources will "
@@ -5397,7 +5397,7 @@ msgstr ""
 "Kuckt w.e.g. no, ob den <i>gpg</i> installéiert ass, well soss kënnen déi "
 "erofgeluede Ressourcen net verifizéiert ginn.</qt>"
 
-#: knewstuff/knewstuff2/core/security.cpp:218
+#: knewstuff/knewstuff2/core/security.cpp:198
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt>Enter passphrase for key <b>0x%1</b>, belonging to<br><i>%2&lt;%3&gt;"
@@ -5409,7 +5409,7 @@ msgstr ""
 "<qt>Gitt w.e.g. d'Passwuert fir de Schlëssel <b>0x%1</b> an, deen zu <br><i>%"
 "2&lt;%3&gt;</i>gehéiert:</qt>"
 
-#: knewstuff/knewstuff2/core/security.cpp:306
+#: knewstuff/knewstuff2/core/security.cpp:277
 msgid ""
 "<qt>Cannot start <i>gpg</i> and check the validity of the file. Make sure "
 "that <i>gpg</i> is installed, otherwise verification of downloaded resources "
@@ -5419,15 +5419,15 @@ msgstr ""
 "Kuckt w.e.g. no, ob den <i>gpg</i> installéiert ass, well soss kënnen déi "
 "erofgeluede Ressourcen net verifizéiert ginn.</qt>"
 
-#: knewstuff/knewstuff2/core/security.cpp:367
+#: knewstuff/knewstuff2/core/security.cpp:332
 msgid "Select Signing Key"
 msgstr "Schlëssel fir d'Ënnerschrëft wielen"
 
-#: knewstuff/knewstuff2/core/security.cpp:367
+#: knewstuff/knewstuff2/core/security.cpp:332
 msgid "Key used for signing:"
 msgstr "Schlëssel fir z'ënnerschreiwen:"
 
-#: knewstuff/knewstuff2/core/security.cpp:401
+#: knewstuff/knewstuff2/core/security.cpp:364
 msgid ""
 "<qt>Cannot start <i>gpg</i> and sign the file. Make sure that <i>gpg</i> is "
 "installed, otherwise signing of the resources will not be possible.</qt>"
@@ -11162,21 +11162,15 @@ msgstr ""
 msgid "Loaded Scripts"
 msgstr "&Handschrëft"
 
-#: khtml/ecma/debugger/execstatemodel.cpp:240
+#: khtml/ecma/debugger/localvariabledock.cpp:42
+msgid "Local Variables"
+msgstr ""
+
+#: khtml/ecma/debugger/localvariabledock.cpp:50
 #, fuzzy
 #| msgid "Reference error"
 msgid "Reference"
 msgstr "Referenzfeler"
-
-#: khtml/ecma/debugger/execstatemodel.cpp:242
-#, fuzzy
-#| msgid "Type"
-msgid "Type"
-msgstr "Typ"
-
-#: khtml/ecma/debugger/localvariabledock.cpp:43
-msgid "Local Variables"
-msgstr ""
 
 #: khtml/ecma/debugger/debugwindow.cpp:119
 msgid ""
@@ -11227,7 +11221,7 @@ msgstr "Dokument zoumaachen"
 msgid "Ready"
 msgstr "Nach eng Kéier lueden"
 
-#: khtml/ecma/debugger/breakpointsdock.cpp:30
+#: khtml/ecma/debugger/debugwindow.cpp:519
 msgid "Breakpoints"
 msgstr ""
 
@@ -13221,6 +13215,11 @@ msgid ""
 msgstr ""
 "<qt><font size=\"+4\" face=\"%1\">%2</font> <br>Unicode Code Point: U+ %3<br>"
 "(an Dezimal: %4)<br>(Zeechen: %5)</qt>"
+
+#, fuzzy
+#~| msgid "Type"
+#~ msgid "Type"
+#~ msgstr "Typ"
 
 #, fuzzy
 #~ msgid "Not yet rated"
