@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-12-22 06:17+0100\n"
+"POT-Creation-Date: 2007-12-23 06:20+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -6033,7 +6033,7 @@ msgstr ""
 
 #: kdeui/dialogs/kshortcutsdialog.cpp:742
 #: kdeui/dialogs/kshortcutsdialog.cpp:771
-#: kdeui/dialogs/kshortcutsdialog.cpp:787 kdeui/shortcuts/kglobalaccel.cpp:286
+#: kdeui/dialogs/kshortcutsdialog.cpp:787 kdeui/shortcuts/kglobalaccel.cpp:306
 #: kdeui/widgets/kkeysequencewidget.cpp:131
 msgid "Reassign"
 msgstr "Nei zouuerdnen"
@@ -7337,11 +7337,11 @@ msgstr "All siichtbar Kolonnen"
 msgid "S&earch:"
 msgstr "Siche&n:"
 
-#: kdeui/shortcuts/kglobalaccel.cpp:280
+#: kdeui/shortcuts/kglobalaccel.cpp:300
 msgid "Conflict with Global Shortcut"
 msgstr "Konflikt mat allgemengem Kierzel"
 
-#: kdeui/shortcuts/kglobalaccel.cpp:281
+#: kdeui/shortcuts/kglobalaccel.cpp:301
 #, fuzzy, kde-format
 #| msgid ""
 #| "The '%1' key combination has already been allocated to the global action "
