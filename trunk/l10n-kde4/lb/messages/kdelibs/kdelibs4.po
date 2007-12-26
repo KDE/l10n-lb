@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2007-12-25 06:08+0100\n"
+"POT-Creation-Date: 2007-12-26 06:13+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -5013,7 +5013,7 @@ msgstr "Nei Saache sharen"
 msgid "Please give some information about yourself."
 msgstr ""
 
-#: knewstuff/knewstuff2/ui/uploaddialog.cpp:67 kutils/kpluginselector.cpp:1676
+#: knewstuff/knewstuff2/ui/uploaddialog.cpp:67 kutils/kpluginselector.cpp:1688
 msgid "Author:"
 msgstr "Auteur:"
 
@@ -5033,11 +5033,11 @@ msgid "Name:"
 msgstr "Numm:"
 
 #: knewstuff/knewstuff2/ui/uploaddialog.cpp:85
-#: kdeui/dialogs/kbugreport.cpp:205 kutils/kpluginselector.cpp:1720
+#: kdeui/dialogs/kbugreport.cpp:205 kutils/kpluginselector.cpp:1732
 msgid "Version:"
 msgstr "Versioun:"
 
-#: knewstuff/knewstuff2/ui/uploaddialog.cpp:90 kutils/kpluginselector.cpp:1729
+#: knewstuff/knewstuff2/ui/uploaddialog.cpp:90 kutils/kpluginselector.cpp:1741
 msgid "License:"
 msgstr "Lizenz:"
 
@@ -10646,7 +10646,7 @@ msgstr "Datum an Zäit: %1"
 msgid "Additional Information: %1"
 msgstr "Zousätzlech Informatioun: %1"
 
-#: khtml/khtml_part.cpp:1762 kutils/kpluginselector.cpp:1666
+#: khtml/khtml_part.cpp:1762 kutils/kpluginselector.cpp:1678
 msgid "Description:"
 msgstr "Beschreiwung:"
 
@@ -12143,18 +12143,18 @@ msgstr[1] ""
 msgid " since the last time you asked for details"
 msgstr ""
 
-#: kutils/kpluginselector.cpp:1651
+#: kutils/kpluginselector.cpp:1662
 #, fuzzy, kde-format
 #| msgid "About %1"
 msgid "About %1 plugin"
 msgstr "Iwwer %1"
 
-#: kutils/kpluginselector.cpp:1684
+#: kutils/kpluginselector.cpp:1696
 #, fuzzy
 msgid "E-Mail:"
 msgstr "E-Mail"
 
-#: kutils/kpluginselector.cpp:1702
+#: kutils/kpluginselector.cpp:1714
 msgid "Website:"
 msgstr ""
 
