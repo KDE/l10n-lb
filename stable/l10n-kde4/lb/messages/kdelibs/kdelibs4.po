@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-01-12 06:14+0100\n"
+"POT-Creation-Date: 2008-01-13 06:34+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1736,32 +1736,32 @@ msgid ""
 "indent:0px;\">(do not know yet)</p></body></html>"
 msgstr ""
 
-#: kjs/object.cpp:584 kdeui/dialogs/kmessagebox.cpp:796
+#: kjs/object.cpp:591 kdeui/dialogs/kmessagebox.cpp:796
 #: kdeui/dialogs/kmessagebox.cpp:831
 msgid "Error"
 msgstr "Feeler"
 
-#: kjs/object.cpp:585
+#: kjs/object.cpp:592
 msgid "Evaluation error"
 msgstr "Evaluatiounsfeler"
 
-#: kjs/object.cpp:586
+#: kjs/object.cpp:593
 msgid "Range error"
 msgstr "Beräichsfeler"
 
-#: kjs/object.cpp:587
+#: kjs/object.cpp:594
 msgid "Reference error"
 msgstr "Referenzfeler"
 
-#: kjs/object.cpp:588
+#: kjs/object.cpp:595
 msgid "Syntax error"
 msgstr "Syntaxfeler"
 
-#: kjs/object.cpp:589
+#: kjs/object.cpp:596
 msgid "Type error"
 msgstr "Typfeler"
 
-#: kjs/object.cpp:590
+#: kjs/object.cpp:597
 msgid "URI error"
 msgstr "URI-Feeler"
 
@@ -6177,19 +6177,19 @@ msgstr "Iwwer %1"
 msgid "Configure"
 msgstr "Configuréieren"
 
-#: kdeui/dialogs/kdialog.cpp:227
+#: kdeui/dialogs/kdialog.cpp:229
 msgid "&Try"
 msgstr "&Probéieren"
 
-#: kdeui/dialogs/kdialog.cpp:458
+#: kdeui/dialogs/kdialog.cpp:460
 msgid "modified"
 msgstr "nach net gespäichert"
 
-#: kdeui/dialogs/kdialog.cpp:838
+#: kdeui/dialogs/kdialog.cpp:840
 msgid "&Details"
 msgstr "&Detailer"
 
-#: kdeui/dialogs/kdialog.cpp:986
+#: kdeui/dialogs/kdialog.cpp:988
 msgid "Get help..."
 msgstr "Hëllef ufroen..."
 
@@ -7880,21 +7880,21 @@ msgctxt "home page"
 msgid "&Home"
 msgstr "&Ufank"
 
-#: kdeui/actions/kstandardaction.cpp:467 kdeui/actions/kstandardaction_p.h:98
+#: kdeui/actions/kstandardaction.cpp:485 kdeui/actions/kstandardaction_p.h:98
 msgid "Show &Menubar"
 msgstr "&Menübar weisen"
 
-#: kdeui/actions/kstandardaction.cpp:473
+#: kdeui/actions/kstandardaction.cpp:491
 #, fuzzy
 #| msgid "Show Menubar<p>Shows the menubar again after it has been hidden"
 msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
 msgstr "Menübar weisen<p>Weist d'Menübar nees un, nodeems se verstoppt gi war"
 
-#: kdeui/actions/kstandardaction.cpp:490 kdeui/actions/kstandardaction_p.h:100
+#: kdeui/actions/kstandardaction.cpp:508 kdeui/actions/kstandardaction_p.h:100
 msgid "Show St&atusbar"
 msgstr "St&atusbar weisen"
 
-#: kdeui/actions/kstandardaction.cpp:493
+#: kdeui/actions/kstandardaction.cpp:511
 #, fuzzy
 #| msgid ""
 #| "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of "
@@ -11112,7 +11112,7 @@ msgstr ""
 "\n"
 "%1"
 
-#: khtml/ecma/kjs_debugwin.cpp:870 khtml/ecma/debugger/debugwindow.cpp:610
+#: khtml/ecma/kjs_debugwin.cpp:870 khtml/ecma/debugger/debugwindow.cpp:615
 #, kde-format
 msgid ""
 "An error occurred while attempting to run a script on this page.\n"
