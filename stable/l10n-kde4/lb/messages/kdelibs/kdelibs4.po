@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-01-17 06:09+0100\n"
+"POT-Creation-Date: 2008-01-18 05:43+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -6216,7 +6216,7 @@ msgid "Reset ToolBars"
 msgstr "Toolbaren zerécksetzen"
 
 #: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2832
-#: khtml/khtmlview.cpp:2865 khtml/html/html_formimpl.cpp:2163
+#: khtml/khtmlview.cpp:2865 khtml/html/html_formimpl.cpp:2171
 msgid "Reset"
 msgstr "Zerécksetzen"
 
@@ -9376,7 +9376,7 @@ msgstr "Er&opréckelen"
 msgid "Move &Down"
 msgstr "&Erofréckelen"
 
-#: kdeui/widgets/khistorycombobox.cpp:178 khtml/rendering/render_form.cpp:553
+#: kdeui/widgets/khistorycombobox.cpp:178 khtml/rendering/render_form.cpp:565
 msgid "Clear &History"
 msgstr "&History läschen"
 
@@ -9567,7 +9567,7 @@ msgstr "All Optioune weisen"
 msgid "&Remove '%1'"
 msgstr "&Ewechmaachen"
 
-#: kfile/kfilefiltercombo.cpp:36 kfile/kfilewidget.cpp:1440
+#: kfile/kfilefiltercombo.cpp:36 kfile/kfilewidget.cpp:1442
 #, fuzzy
 #| msgid "Files"
 msgid "*|All Files"
@@ -9667,12 +9667,12 @@ msgid "Please select the file to open."
 msgstr "Wielt w.e.g. den Typ vum neie Modul:"
 
 #: kfile/kfilewidget.cpp:646 kfile/kfilewidget.cpp:689
-#: kfile/kfilewidget.cpp:1373
+#: kfile/kfilewidget.cpp:1375
 msgid "You can only select local files."
 msgstr ""
 
 #: kfile/kfilewidget.cpp:647 kfile/kfilewidget.cpp:690
-#: kfile/kfilewidget.cpp:1374
+#: kfile/kfilewidget.cpp:1376
 msgid "Remote Files Not Accepted"
 msgstr ""
 
@@ -9703,19 +9703,19 @@ msgstr ""
 msgid "This is the name of the file to open."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1305
+#: kfile/kfilewidget.cpp:1307
 msgid ""
 "The chosen filenames do not\n"
 "appear to be valid."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1307
+#: kfile/kfilewidget.cpp:1309
 #, fuzzy
 #| msgid "invalid flags"
 msgid "Invalid Filenames"
 msgstr "Ongülteg Werter"
 
-#: kfile/kfilewidget.cpp:1336
+#: kfile/kfilewidget.cpp:1338
 #, kde-format
 msgid ""
 "The requested filenames\n"
@@ -9724,39 +9724,39 @@ msgid ""
 "make sure every filename is enclosed in double quotes."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1340
+#: kfile/kfilewidget.cpp:1342
 #, fuzzy
 #| msgid "File Error"
 msgid "Filename Error"
 msgstr "Dateifeler"
 
-#: kfile/kfilewidget.cpp:1437
+#: kfile/kfilewidget.cpp:1439
 msgid "*|All Folders"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1576 kparts/browserrun.cpp:375
+#: kfile/kfilewidget.cpp:1578 kparts/browserrun.cpp:375
 msgid "&Open"
 msgstr "&Opmaachen"
 
-#: kfile/kfilewidget.cpp:1719
+#: kfile/kfilewidget.cpp:1721
 #, kde-format
 msgid "Automatically select filename e&xtension (%1)"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1720
+#: kfile/kfilewidget.cpp:1722
 #, kde-format
 msgid "the extension <b>%1</b>"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1728
+#: kfile/kfilewidget.cpp:1730
 msgid "Automatically select filename e&xtension"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1729
+#: kfile/kfilewidget.cpp:1731
 msgid "a suitable extension"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1739
+#: kfile/kfilewidget.cpp:1741
 #, kde-format
 msgid ""
 "This option enables some convenient features for saving files with "
@@ -9772,11 +9772,11 @@ msgid ""
 "enabled as it makes your files more manageable."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:2009
+#: kfile/kfilewidget.cpp:2011
 msgid "Bookmarks"
 msgstr "Lieszeechen"
 
-#: kfile/kfilewidget.cpp:2013
+#: kfile/kfilewidget.cpp:2015
 msgid ""
 "<qt>This button allows you to bookmark specific locations. Click on this "
 "button to open the bookmark menu where you may add, edit or select a "
@@ -10138,7 +10138,7 @@ msgstr "Test"
 msgid "a basic web browser using the KHTML library"
 msgstr ""
 
-#: khtml/khtml_run.cpp:86 khtml/khtml_part.cpp:3834 khtml/khtml_part.cpp:4050
+#: khtml/khtml_run.cpp:101 khtml/khtml_part.cpp:3834 khtml/khtml_part.cpp:4050
 #: khtml/khtml_part.cpp:4424 kparts/browserrun.cpp:434
 msgid "Save As"
 msgstr "Späicheren als"
@@ -10863,7 +10863,7 @@ msgstr ""
 "verschéckt ginn.<BR>Wëllt dir de Formular ofsenden?"
 
 #: khtml/khtml_part.cpp:4783 khtml/khtmlview.cpp:2818 khtml/khtmlview.cpp:2860
-#: khtml/html/html_formimpl.cpp:1563 khtml/html/html_formimpl.cpp:2171
+#: khtml/html/html_formimpl.cpp:1571 khtml/html/html_formimpl.cpp:2179
 msgid "Submit"
 msgstr "Verschécken"
 
@@ -11126,7 +11126,7 @@ msgstr ""
 "%1, Zeil %2:\n"
 "%3"
 
-#: khtml/ecma/kjs_binding.cpp:180
+#: khtml/ecma/kjs_binding.cpp:181
 msgid ""
 "A script on this page is causing KHTML to freeze. If it continues to run, "
 "other applications may become less responsive.\n"
@@ -11136,19 +11136,19 @@ msgstr ""
 "gëtt, ginn eventuell och aner Programmer mat abezunn.\n"
 "Wëllt dir d'Ausféierung vum Script ofbriechen?"
 
-#: khtml/ecma/kjs_binding.cpp:180
+#: khtml/ecma/kjs_binding.cpp:181
 msgid "JavaScript"
 msgstr "JavaScript"
 
-#: khtml/ecma/kjs_binding.cpp:180
+#: khtml/ecma/kjs_binding.cpp:181
 msgid "&Abort"
 msgstr "&Ofbriechen"
 
-#: khtml/ecma/kjs_window.cpp:1587 khtml/ecma/kjs_html.cpp:2109
+#: khtml/ecma/kjs_window.cpp:1590 khtml/ecma/kjs_html.cpp:2109
 msgid "Confirmation: JavaScript Popup"
 msgstr "Bestätegung: JavaScript-Fënsteren"
 
-#: khtml/ecma/kjs_window.cpp:1590
+#: khtml/ecma/kjs_window.cpp:1593
 msgid ""
 "This site is requesting to open up a new browser window via JavaScript.\n"
 "Do you want to allow this?"
@@ -11156,7 +11156,7 @@ msgstr ""
 "Dëss Säit huet ugefrot, fir eng nei Fënster iwwert JavaScript opzemaachen.\n"
 "Wëllt dir dat zouloossen?"
 
-#: khtml/ecma/kjs_window.cpp:1593
+#: khtml/ecma/kjs_window.cpp:1596
 #, kde-format
 msgid ""
 "<qt>This site is requesting to open<p>%1</p>in a new browser window via "
@@ -11165,30 +11165,30 @@ msgstr ""
 "<qt>Dëss Säit huet ugefrot, fir<p>%1</p>an enger neier Fënster iwwert "
 "JavaScript opzemaachen.<br/>Wëllt dir dat zouloossen?</qt>"
 
-#: khtml/ecma/kjs_window.cpp:1595 khtml/ecma/kjs_html.cpp:2116
+#: khtml/ecma/kjs_window.cpp:1598 khtml/ecma/kjs_html.cpp:2116
 msgid "Allow"
 msgstr "Erlaben"
 
-#: khtml/ecma/kjs_window.cpp:1595 khtml/ecma/kjs_html.cpp:2116
+#: khtml/ecma/kjs_window.cpp:1598 khtml/ecma/kjs_html.cpp:2116
 msgid "Do Not Allow"
 msgstr "Net erlaben"
 
-#: khtml/ecma/kjs_window.cpp:1887
+#: khtml/ecma/kjs_window.cpp:1890
 msgid "Close window?"
 msgstr "Fënster zoumaachen?"
 
-#: khtml/ecma/kjs_window.cpp:1887
+#: khtml/ecma/kjs_window.cpp:1890
 msgid "Confirmation Required"
 msgstr "Bestätegung noutwendeg"
 
-#: khtml/ecma/kjs_window.cpp:2837
+#: khtml/ecma/kjs_window.cpp:2840
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr "Wëllt dir e Lieszeeche fir \"%1\" an är Sammlung dobäimaachen?"
 
-#: khtml/ecma/kjs_window.cpp:2840
+#: khtml/ecma/kjs_window.cpp:2843
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
@@ -11197,15 +11197,15 @@ msgstr ""
 "Wëllt dir e Lieszeeche mam Numm \"%2\" fir \"%1\" an är Sammlung "
 "dobäimaachen?"
 
-#: khtml/ecma/kjs_window.cpp:2848
+#: khtml/ecma/kjs_window.cpp:2851
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr "JavaScript huet probéiert, e Lieszeechen dobäizemaachen"
 
-#: khtml/ecma/kjs_window.cpp:2852
+#: khtml/ecma/kjs_window.cpp:2855
 msgid "Insert"
 msgstr "Asetzen"
 
-#: khtml/ecma/kjs_window.cpp:2852
+#: khtml/ecma/kjs_window.cpp:2855
 msgid "Disallow"
 msgstr "Net zouloossen"
 
@@ -11402,7 +11402,7 @@ msgstr ""
 "d'Umeldungsinformatioun opruffen, wann dir fir d'nächst Kéier d'Säit %"
 "1besicht. Wëllt dir d'Informatioun elo späicheren?"
 
-#: khtml/html/html_formimpl.cpp:2552
+#: khtml/html/html_formimpl.cpp:2560
 #, fuzzy
 #| msgid "General"
 msgid "Key Generator"
