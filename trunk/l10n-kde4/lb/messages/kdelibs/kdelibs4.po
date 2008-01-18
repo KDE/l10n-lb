@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-01-17 07:57+0100\n"
+"POT-Creation-Date: 2008-01-18 07:58+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -624,7 +624,7 @@ msgstr "&Réckelen"
 #. i18n: file ./kdeui/xmlgui/ui_standards.rc line 100
 #. i18n: tag text
 #. i18n: file ./khtml/khtml_browser.rc line 20
-#: rc.cpp:237 rc.cpp:378 kfile/kdiroperator.cpp:1594
+#: rc.cpp:237 rc.cpp:378 kfile/kdiroperator.cpp:1618
 msgid "&View"
 msgstr "&Usiicht"
 
@@ -5822,7 +5822,7 @@ msgstr "Ewechmaachen"
 msgid "Test"
 msgstr "Test"
 
-#: kdeui/util/kstandardguiitem.cpp:285 kfile/kdiroperator.cpp:1587
+#: kdeui/util/kstandardguiitem.cpp:285 kfile/kdiroperator.cpp:1611
 msgid "Properties"
 msgstr "Eegeschaften"
 
@@ -6226,7 +6226,7 @@ msgid "Reset ToolBars"
 msgstr "Toolbaren zerécksetzen"
 
 #: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2832
-#: khtml/khtmlview.cpp:2865 khtml/html/html_formimpl.cpp:2163
+#: khtml/khtmlview.cpp:2865 khtml/html/html_formimpl.cpp:2171
 msgid "Reset"
 msgstr "Zerécksetzen"
 
@@ -7917,7 +7917,7 @@ msgstr ""
 "Fënster fir d'Statusinformatiounen."
 
 #: kdeui/windowmanagement/kwindowsystem_qws.cpp:163
-#: kdeui/windowmanagement/kwindowsystem_x11.cpp:849
+#: kdeui/windowmanagement/kwindowsystem_x11.cpp:850
 #: kdeui/windowmanagement/kwindowsystem_mac.cpp:168
 #: kdeui/windowmanagement/kwindowsystem_win.cpp:245
 #, kde-format
@@ -9388,7 +9388,7 @@ msgstr "Er&opréckelen"
 msgid "Move &Down"
 msgstr "&Erofréckelen"
 
-#: kdeui/widgets/khistorycombobox.cpp:178 khtml/rendering/render_form.cpp:553
+#: kdeui/widgets/khistorycombobox.cpp:178 khtml/rendering/render_form.cpp:565
 msgid "Clear &History"
 msgstr "&History läschen"
 
@@ -9573,13 +9573,13 @@ msgstr "%1 net weisen"
 msgid "&Show All Entries"
 msgstr "All Optioune weisen"
 
-#: kfile/kfileplacesview.cpp:386
+#: kfile/kfileplacesview.cpp:385
 #, fuzzy, kde-format
 #| msgid "&Remove"
 msgid "&Remove '%1'"
 msgstr "&Ewechmaachen"
 
-#: kfile/kfilefiltercombo.cpp:36 kfile/kfilewidget.cpp:1440
+#: kfile/kfilefiltercombo.cpp:36 kfile/kfilewidget.cpp:1442
 #, fuzzy
 #| msgid "Files"
 msgid "*|All Files"
@@ -9679,12 +9679,12 @@ msgid "Please select the file to open."
 msgstr "Wielt w.e.g. den Typ vum neie Modul:"
 
 #: kfile/kfilewidget.cpp:646 kfile/kfilewidget.cpp:689
-#: kfile/kfilewidget.cpp:1373
+#: kfile/kfilewidget.cpp:1375
 msgid "You can only select local files."
 msgstr ""
 
 #: kfile/kfilewidget.cpp:647 kfile/kfilewidget.cpp:690
-#: kfile/kfilewidget.cpp:1374
+#: kfile/kfilewidget.cpp:1376
 msgid "Remote Files Not Accepted"
 msgstr ""
 
@@ -9715,19 +9715,19 @@ msgstr ""
 msgid "This is the name of the file to open."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1305
+#: kfile/kfilewidget.cpp:1307
 msgid ""
 "The chosen filenames do not\n"
 "appear to be valid."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1307
+#: kfile/kfilewidget.cpp:1309
 #, fuzzy
 #| msgid "invalid flags"
 msgid "Invalid Filenames"
 msgstr "Ongülteg Werter"
 
-#: kfile/kfilewidget.cpp:1336
+#: kfile/kfilewidget.cpp:1338
 #, kde-format
 msgid ""
 "The requested filenames\n"
@@ -9736,39 +9736,39 @@ msgid ""
 "make sure every filename is enclosed in double quotes."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1340
+#: kfile/kfilewidget.cpp:1342
 #, fuzzy
 #| msgid "File Error"
 msgid "Filename Error"
 msgstr "Dateifeler"
 
-#: kfile/kfilewidget.cpp:1437
+#: kfile/kfilewidget.cpp:1439
 msgid "*|All Folders"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1576 kparts/browserrun.cpp:375
+#: kfile/kfilewidget.cpp:1578 kparts/browserrun.cpp:375
 msgid "&Open"
 msgstr "&Opmaachen"
 
-#: kfile/kfilewidget.cpp:1719
+#: kfile/kfilewidget.cpp:1721
 #, kde-format
 msgid "Automatically select filename e&xtension (%1)"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1720
+#: kfile/kfilewidget.cpp:1722
 #, kde-format
 msgid "the extension <b>%1</b>"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1728
+#: kfile/kfilewidget.cpp:1730
 msgid "Automatically select filename e&xtension"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1729
+#: kfile/kfilewidget.cpp:1731
 msgid "a suitable extension"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1739
+#: kfile/kfilewidget.cpp:1741
 #, kde-format
 msgid ""
 "This option enables some convenient features for saving files with "
@@ -9784,11 +9784,11 @@ msgid ""
 "enabled as it makes your files more manageable."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:2009
+#: kfile/kfilewidget.cpp:2011
 msgid "Bookmarks"
 msgstr "Lieszeechen"
 
-#: kfile/kfilewidget.cpp:2013
+#: kfile/kfilewidget.cpp:2015
 msgid ""
 "<qt>This button allows you to bookmark specific locations. Click on this "
 "button to open the bookmark menu where you may add, edit or select a "
@@ -9859,23 +9859,23 @@ msgid "Custom Path"
 msgstr "Benotzerdefinéiert"
 
 #: kfile/kdirselectdialog.cpp:115 kfile/kdirselectdialog.cpp:119
-#: kfile/kdiroperator.cpp:629 kfile/kdiroperator.cpp:637
+#: kfile/kdiroperator.cpp:640 kfile/kdiroperator.cpp:648
 msgid "New Folder"
 msgstr ""
 
-#: kfile/kdirselectdialog.cpp:120 kfile/kdiroperator.cpp:638
+#: kfile/kdirselectdialog.cpp:120 kfile/kdiroperator.cpp:649
 #, kde-format
 msgid ""
 "Create new folder in:\n"
 "%1"
 msgstr ""
 
-#: kfile/kdirselectdialog.cpp:143 kfile/kdiroperator.cpp:664
+#: kfile/kdirselectdialog.cpp:143 kfile/kdiroperator.cpp:675
 #, kde-format
 msgid "A file or folder named %1 already exists."
 msgstr ""
 
-#: kfile/kdirselectdialog.cpp:147 kfile/kdiroperator.cpp:667
+#: kfile/kdirselectdialog.cpp:147 kfile/kdiroperator.cpp:678
 msgid "You do not have permission to create that folder."
 msgstr ""
 
@@ -9886,7 +9886,7 @@ msgid "Select Folder"
 msgstr "Faarf auswielen"
 
 #: kfile/kdirselectdialog.cpp:225 kfile/kdirselectdialog.cpp:261
-#: kfile/kdiroperator.cpp:1516
+#: kfile/kdiroperator.cpp:1540
 msgid "New Folder..."
 msgstr ""
 
@@ -9946,16 +9946,16 @@ msgid ""
 "entry will be available in all applications.</qt>"
 msgstr ""
 
-#: kfile/kdiroperator.cpp:682
+#: kfile/kdiroperator.cpp:693
 msgid "You did not select a file to delete."
 msgstr ""
 
-#: kfile/kdiroperator.cpp:683
+#: kfile/kdiroperator.cpp:694
 #, fuzzy
 msgid "Nothing to Delete"
 msgstr "Kee Provider gewielt."
 
-#: kfile/kdiroperator.cpp:704
+#: kfile/kdiroperator.cpp:715
 #, fuzzy, kde-format
 #| msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgid ""
@@ -9963,13 +9963,13 @@ msgid ""
 " <b>'%1'</b>?</qt>"
 msgstr "<qt>Sidd dir sëcher, dass dir <b>%1</b> zoumaache wëllt ?</qt>"
 
-#: kfile/kdiroperator.cpp:706
+#: kfile/kdiroperator.cpp:717
 #, fuzzy
 #| msgid "Delete All"
 msgid "Delete File"
 msgstr "Alles Läschen"
 
-#: kfile/kdiroperator.cpp:711
+#: kfile/kdiroperator.cpp:722
 #, fuzzy, kde-format
 #| msgid "Do you really want to execute '%1'? "
 msgid "Do you really want to delete this item?"
@@ -9977,21 +9977,21 @@ msgid_plural "Do you really want to delete these %1 items?"
 msgstr[0] "Wëllt dir '%1' wiirklech lafe loossen? "
 msgstr[1] "Wëllt dir '%1' wiirklech lafe loossen? "
 
-#: kfile/kdiroperator.cpp:713
+#: kfile/kdiroperator.cpp:724
 #, fuzzy
 #| msgid "Delete item(s)"
 msgid "Delete Files"
 msgstr "Element(er) läschen"
 
-#: kfile/kdiroperator.cpp:744
+#: kfile/kdiroperator.cpp:755
 msgid "You did not select a file to trash."
 msgstr ""
 
-#: kfile/kdiroperator.cpp:745
+#: kfile/kdiroperator.cpp:756
 msgid "Nothing to Trash"
 msgstr ""
 
-#: kfile/kdiroperator.cpp:762
+#: kfile/kdiroperator.cpp:773
 #, fuzzy, kde-format
 #| msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgid ""
@@ -9999,117 +9999,117 @@ msgid ""
 " <b>'%1'</b>?</qt>"
 msgstr "<qt>Sidd dir sëcher, dass dir <b>%1</b> zoumaache wëllt ?</qt>"
 
-#: kfile/kdiroperator.cpp:764
+#: kfile/kdiroperator.cpp:775
 #, fuzzy
 #| msgid "Trash"
 msgid "Trash File"
 msgstr "Dreckskëscht"
 
-#: kfile/kdiroperator.cpp:765 kfile/kdiroperator.cpp:772
+#: kfile/kdiroperator.cpp:776 kfile/kdiroperator.cpp:783
 #, fuzzy
 #| msgid "Trash"
 msgctxt "to trash"
 msgid "&Trash"
 msgstr "Dreckskëscht"
 
-#: kfile/kdiroperator.cpp:769
+#: kfile/kdiroperator.cpp:780
 #, kde-format
 msgid "translators: not called for n == 1"
 msgid_plural "Do you really want to trash these %1 items?"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kfile/kdiroperator.cpp:771
+#: kfile/kdiroperator.cpp:782
 #, fuzzy
 #| msgid "Files"
 msgid "Trash Files"
 msgstr "Dateien"
 
-#: kfile/kdiroperator.cpp:894 kfile/kdiroperator.cpp:1007
+#: kfile/kdiroperator.cpp:905 kfile/kdiroperator.cpp:1018
 msgid "The specified folder does not exist or was not readable."
 msgstr ""
 
-#: kfile/kdiroperator.cpp:1499
+#: kfile/kdiroperator.cpp:1523
 #, fuzzy
 #| msgctxt "QAccel"
 #| msgid "Menu"
 msgid "Menu"
 msgstr "Menü"
 
-#: kfile/kdiroperator.cpp:1503
+#: kfile/kdiroperator.cpp:1527
 #, fuzzy
 #| msgid "Print header"
 msgid "Parent Folder"
 msgstr "Header drécken"
 
-#: kfile/kdiroperator.cpp:1510
+#: kfile/kdiroperator.cpp:1534
 #, fuzzy
 #| msgid "Home Phone"
 msgid "Home Folder"
 msgstr "Tëlefon (Doheem)"
 
-#: kfile/kdiroperator.cpp:1513
+#: kfile/kdiroperator.cpp:1537
 msgid "Reload"
 msgstr "Nach eng Kéier lueden"
 
-#: kfile/kdiroperator.cpp:1521
+#: kfile/kdiroperator.cpp:1545
 msgid "Move to Trash"
 msgstr ""
 
-#: kfile/kdiroperator.cpp:1527
+#: kfile/kdiroperator.cpp:1551
 msgid "Delete"
 msgstr "Läschen"
 
-#: kfile/kdiroperator.cpp:1534
+#: kfile/kdiroperator.cpp:1558
 #, fuzzy
 #| msgid "Sort String"
 msgid "Sorting"
 msgstr "Sortéierungsschlëssel"
 
-#: kfile/kdiroperator.cpp:1537
+#: kfile/kdiroperator.cpp:1561
 #, fuzzy
 #| msgid "Name"
 msgid "By Name"
 msgstr "Numm"
 
-#: kfile/kdiroperator.cpp:1541
+#: kfile/kdiroperator.cpp:1565
 #, fuzzy
 #| msgid "Size"
 msgid "By Size"
 msgstr "Gréisst"
 
-#: kfile/kdiroperator.cpp:1545
+#: kfile/kdiroperator.cpp:1569
 #, fuzzy
 #| msgid "Dates"
 msgid "By Date"
 msgstr "Datum"
 
-#: kfile/kdiroperator.cpp:1549
+#: kfile/kdiroperator.cpp:1573
 #, fuzzy
 #| msgid "Type"
 msgid "By Type"
 msgstr "Typ"
 
-#: kfile/kdiroperator.cpp:1553
+#: kfile/kdiroperator.cpp:1577
 msgid "Descending"
 msgstr ""
 
-#: kfile/kdiroperator.cpp:1563
+#: kfile/kdiroperator.cpp:1587
 msgid "Short View"
 msgstr ""
 
-#: kfile/kdiroperator.cpp:1568
+#: kfile/kdiroperator.cpp:1592
 #, fuzzy
 #| msgid "Details"
 msgid "Detailed View"
 msgstr "Detailer"
 
-#: kfile/kdiroperator.cpp:1577
+#: kfile/kdiroperator.cpp:1601
 #, fuzzy
 msgid "Show Hidden Files"
 msgstr "Hëllef weisen"
 
-#: kfile/kdiroperator.cpp:1581
+#: kfile/kdiroperator.cpp:1605
 msgid "Show Preview"
 msgstr ""
 
@@ -10151,7 +10151,7 @@ msgstr "Test"
 msgid "a basic web browser using the KHTML library"
 msgstr ""
 
-#: khtml/khtml_run.cpp:93 khtml/khtml_part.cpp:3834 khtml/khtml_part.cpp:4050
+#: khtml/khtml_run.cpp:101 khtml/khtml_part.cpp:3834 khtml/khtml_part.cpp:4050
 #: khtml/khtml_part.cpp:4424 kparts/browserrun.cpp:434
 msgid "Save As"
 msgstr "Späicheren als"
@@ -10876,7 +10876,7 @@ msgstr ""
 "verschéckt ginn.<BR>Wëllt dir de Formular ofsenden?"
 
 #: khtml/khtml_part.cpp:4783 khtml/khtmlview.cpp:2818 khtml/khtmlview.cpp:2860
-#: khtml/html/html_formimpl.cpp:1563 khtml/html/html_formimpl.cpp:2171
+#: khtml/html/html_formimpl.cpp:1571 khtml/html/html_formimpl.cpp:2179
 msgid "Submit"
 msgstr "Verschécken"
 
@@ -11139,7 +11139,7 @@ msgstr ""
 "%1, Zeil %2:\n"
 "%3"
 
-#: khtml/ecma/kjs_binding.cpp:180
+#: khtml/ecma/kjs_binding.cpp:181
 msgid ""
 "A script on this page is causing KHTML to freeze. If it continues to run, "
 "other applications may become less responsive.\n"
@@ -11149,19 +11149,19 @@ msgstr ""
 "gëtt, ginn eventuell och aner Programmer mat abezunn.\n"
 "Wëllt dir d'Ausféierung vum Script ofbriechen?"
 
-#: khtml/ecma/kjs_binding.cpp:180
+#: khtml/ecma/kjs_binding.cpp:181
 msgid "JavaScript"
 msgstr "JavaScript"
 
-#: khtml/ecma/kjs_binding.cpp:180
+#: khtml/ecma/kjs_binding.cpp:181
 msgid "&Abort"
 msgstr "&Ofbriechen"
 
-#: khtml/ecma/kjs_window.cpp:1587 khtml/ecma/kjs_html.cpp:2109
+#: khtml/ecma/kjs_window.cpp:1590 khtml/ecma/kjs_html.cpp:2109
 msgid "Confirmation: JavaScript Popup"
 msgstr "Bestätegung: JavaScript-Fënsteren"
 
-#: khtml/ecma/kjs_window.cpp:1590
+#: khtml/ecma/kjs_window.cpp:1593
 msgid ""
 "This site is requesting to open up a new browser window via JavaScript.\n"
 "Do you want to allow this?"
@@ -11169,7 +11169,7 @@ msgstr ""
 "Dëss Säit huet ugefrot, fir eng nei Fënster iwwert JavaScript opzemaachen.\n"
 "Wëllt dir dat zouloossen?"
 
-#: khtml/ecma/kjs_window.cpp:1593
+#: khtml/ecma/kjs_window.cpp:1596
 #, kde-format
 msgid ""
 "<qt>This site is requesting to open<p>%1</p>in a new browser window via "
@@ -11178,30 +11178,30 @@ msgstr ""
 "<qt>Dëss Säit huet ugefrot, fir<p>%1</p>an enger neier Fënster iwwert "
 "JavaScript opzemaachen.<br/>Wëllt dir dat zouloossen?</qt>"
 
-#: khtml/ecma/kjs_window.cpp:1595 khtml/ecma/kjs_html.cpp:2116
+#: khtml/ecma/kjs_window.cpp:1598 khtml/ecma/kjs_html.cpp:2116
 msgid "Allow"
 msgstr "Erlaben"
 
-#: khtml/ecma/kjs_window.cpp:1595 khtml/ecma/kjs_html.cpp:2116
+#: khtml/ecma/kjs_window.cpp:1598 khtml/ecma/kjs_html.cpp:2116
 msgid "Do Not Allow"
 msgstr "Net erlaben"
 
-#: khtml/ecma/kjs_window.cpp:1887
+#: khtml/ecma/kjs_window.cpp:1890
 msgid "Close window?"
 msgstr "Fënster zoumaachen?"
 
-#: khtml/ecma/kjs_window.cpp:1887
+#: khtml/ecma/kjs_window.cpp:1890
 msgid "Confirmation Required"
 msgstr "Bestätegung noutwendeg"
 
-#: khtml/ecma/kjs_window.cpp:2837
+#: khtml/ecma/kjs_window.cpp:2840
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr "Wëllt dir e Lieszeeche fir \"%1\" an är Sammlung dobäimaachen?"
 
-#: khtml/ecma/kjs_window.cpp:2840
+#: khtml/ecma/kjs_window.cpp:2843
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
@@ -11210,15 +11210,15 @@ msgstr ""
 "Wëllt dir e Lieszeeche mam Numm \"%2\" fir \"%1\" an är Sammlung "
 "dobäimaachen?"
 
-#: khtml/ecma/kjs_window.cpp:2848
+#: khtml/ecma/kjs_window.cpp:2851
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr "JavaScript huet probéiert, e Lieszeechen dobäizemaachen"
 
-#: khtml/ecma/kjs_window.cpp:2852
+#: khtml/ecma/kjs_window.cpp:2855
 msgid "Insert"
 msgstr "Asetzen"
 
-#: khtml/ecma/kjs_window.cpp:2852
+#: khtml/ecma/kjs_window.cpp:2855
 msgid "Disallow"
 msgstr "Net zouloossen"
 
@@ -11415,7 +11415,7 @@ msgstr ""
 "d'Umeldungsinformatioun opruffen, wann dir fir d'nächst Kéier d'Säit %"
 "1besicht. Wëllt dir d'Informatioun elo späicheren?"
 
-#: khtml/html/html_formimpl.cpp:2552
+#: khtml/html/html_formimpl.cpp:2560
 #, fuzzy
 #| msgid "General"
 msgid "Key Generator"
