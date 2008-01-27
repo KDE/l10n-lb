@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-01-25 06:35+0100\n"
+"POT-Creation-Date: 2008-01-27 07:48+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1491,7 +1491,7 @@ msgstr ""
 #. i18n: file ./threadweaver/Examples/Jobs/JobsBase.ui line 90
 #: rc.cpp:653 rc.cpp:885 kdeui/util/kstandardguiitem.cpp:265
 #: kdeui/util/kkeyserver_x11.cpp:109 kdeui/findreplace/kreplace.cpp:353
-#: khtml/ecma/kjs_debugwin.cpp:482 khtml/ecma/debugger/debugwindow.cpp:184
+#: khtml/ecma/kjs_debugwin.cpp:482 khtml/ecma/debugger/debugwindow.cpp:185
 #: kross/ui/view.cpp:308
 msgid "Stop"
 msgstr "Stop"
@@ -10965,7 +10965,7 @@ msgid "Available Tests: %1 (ignored: %2)"
 msgstr ""
 
 #: khtml/test_regression_gui_window.cpp:563 khtml/ecma/kjs_debugwin.cpp:481
-#: khtml/ecma/debugger/debugwindow.cpp:176
+#: khtml/ecma/debugger/debugwindow.cpp:177
 msgid "Continue"
 msgstr "Weider"
 
@@ -11057,7 +11057,7 @@ msgstr "JavaScript-Feeler"
 msgid "&Do not show this message again"
 msgstr "&Dëss Noricht net méi weisen"
 
-#: khtml/ecma/kjs_debugwin.cpp:385 khtml/ecma/debugger/debugwindow.cpp:121
+#: khtml/ecma/kjs_debugwin.cpp:385 khtml/ecma/debugger/debugwindow.cpp:122
 msgid "JavaScript Debugger"
 msgstr "JavaScript-Debugger"
 
@@ -11086,7 +11086,7 @@ msgstr "&Weider"
 msgid "St&op"
 msgstr "St&op"
 
-#: khtml/ecma/kjs_debugwin.cpp:476 khtml/ecma/debugger/debugwindow.cpp:183
+#: khtml/ecma/kjs_debugwin.cpp:476 khtml/ecma/debugger/debugwindow.cpp:184
 msgid "&Break at Next Statement"
 msgstr "&Stop bei der nächster Feststellung"
 
@@ -11095,7 +11095,7 @@ msgctxt "Next breakpoint"
 msgid "Next"
 msgstr "Nächsten"
 
-#: khtml/ecma/kjs_debugwin.cpp:848 khtml/ecma/debugger/debugwindow.cpp:592
+#: khtml/ecma/kjs_debugwin.cpp:848 khtml/ecma/debugger/debugwindow.cpp:593
 #, kde-format
 msgid "Parse error at %1 line %2"
 msgstr "Parsing-Feeler bei %1, Zeil %2"
@@ -11112,7 +11112,7 @@ msgstr ""
 "\n"
 "%1"
 
-#: khtml/ecma/kjs_debugwin.cpp:870 khtml/ecma/debugger/debugwindow.cpp:628
+#: khtml/ecma/kjs_debugwin.cpp:870 khtml/ecma/debugger/debugwindow.cpp:629
 #, kde-format
 msgid ""
 "An error occurred while attempting to run a script on this page.\n"
@@ -11173,22 +11173,22 @@ msgstr "Erlaben"
 msgid "Do Not Allow"
 msgstr "Net erlaben"
 
-#: khtml/ecma/kjs_window.cpp:1890
+#: khtml/ecma/kjs_window.cpp:1896
 msgid "Close window?"
 msgstr "Fënster zoumaachen?"
 
-#: khtml/ecma/kjs_window.cpp:1890
+#: khtml/ecma/kjs_window.cpp:1896
 msgid "Confirmation Required"
 msgstr "Bestätegung noutwendeg"
 
-#: khtml/ecma/kjs_window.cpp:2840
+#: khtml/ecma/kjs_window.cpp:2874
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr "Wëllt dir e Lieszeeche fir \"%1\" an är Sammlung dobäimaachen?"
 
-#: khtml/ecma/kjs_window.cpp:2843
+#: khtml/ecma/kjs_window.cpp:2877
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
@@ -11197,15 +11197,15 @@ msgstr ""
 "Wëllt dir e Lieszeeche mam Numm \"%2\" fir \"%1\" an är Sammlung "
 "dobäimaachen?"
 
-#: khtml/ecma/kjs_window.cpp:2851
+#: khtml/ecma/kjs_window.cpp:2885
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr "JavaScript huet probéiert, e Lieszeechen dobäizemaachen"
 
-#: khtml/ecma/kjs_window.cpp:2855
+#: khtml/ecma/kjs_window.cpp:2889
 msgid "Insert"
 msgstr "Asetzen"
 
-#: khtml/ecma/kjs_window.cpp:2855
+#: khtml/ecma/kjs_window.cpp:2889
 msgid "Disallow"
 msgstr "Net zouloossen"
 
@@ -11230,7 +11230,7 @@ msgstr ""
 "1</p> an enger neier Fënster opmëcht.<br/>Wëllt dir dat zouloossen?</qt>"
 
 #: khtml/ecma/debugger/debugdocument.cpp:210
-#: khtml/ecma/debugger/debugwindow.cpp:126
+#: khtml/ecma/debugger/debugwindow.cpp:127
 msgid ""
 "A KDE text-editor component could not be found;\n"
 "please check your KDE installation."
@@ -11255,40 +11255,40 @@ msgstr ""
 msgid "Reference"
 msgstr "Referenzfeler"
 
-#: khtml/ecma/debugger/debugwindow.cpp:178
 #: khtml/ecma/debugger/debugwindow.cpp:179
+#: khtml/ecma/debugger/debugwindow.cpp:180
 #, fuzzy
 msgid "Continue script execution"
 msgstr "Virgang fortsetzen"
 
-#: khtml/ecma/debugger/debugwindow.cpp:190
-#: khtml/ecma/debugger/debugwindow.cpp:192
+#: khtml/ecma/debugger/debugwindow.cpp:191
 #: khtml/ecma/debugger/debugwindow.cpp:193
+#: khtml/ecma/debugger/debugwindow.cpp:194
 #, fuzzy
 msgid "Step Into"
 msgstr "Schrack"
 
-#: khtml/ecma/debugger/debugwindow.cpp:197
-#: khtml/ecma/debugger/debugwindow.cpp:199
+#: khtml/ecma/debugger/debugwindow.cpp:198
 #: khtml/ecma/debugger/debugwindow.cpp:200
+#: khtml/ecma/debugger/debugwindow.cpp:201
 #, fuzzy
 msgid "Step Out"
 msgstr "Schrack"
 
-#: khtml/ecma/debugger/debugwindow.cpp:204
-#: khtml/ecma/debugger/debugwindow.cpp:206
+#: khtml/ecma/debugger/debugwindow.cpp:205
 #: khtml/ecma/debugger/debugwindow.cpp:207
+#: khtml/ecma/debugger/debugwindow.cpp:208
 #, fuzzy
 msgid "Step Over"
 msgstr "Schrack"
 
-#: khtml/ecma/debugger/debugwindow.cpp:247
+#: khtml/ecma/debugger/debugwindow.cpp:248
 #, fuzzy
 #| msgid "Close Document"
 msgid "Close source"
 msgstr "Dokument zoumaachen"
 
-#: khtml/ecma/debugger/debugwindow.cpp:253
+#: khtml/ecma/debugger/debugwindow.cpp:254
 #, fuzzy
 msgid "Ready"
 msgstr "Nach eng Kéier lueden"
