@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-01-29 12:23+0100\n"
+"POT-Creation-Date: 2008-01-30 10:51+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1972,184 +1972,184 @@ msgstr "D'Zäit fir dëss Aktioun ass iwwerschratt ginn"
 msgid "Error opening PTY"
 msgstr "Feeler beim Opmaache vun der Datei."
 
-#: kdecore/kde-config.cpp:53
+#: kdecore/kde-config.cpp:54
 msgid "kde4-config"
 msgstr ""
 
-#: kdecore/kde-config.cpp:54
+#: kdecore/kde-config.cpp:55
 msgid "A little program to output installation paths"
 msgstr "E klenge Programm fir Installatiounsweeër auszegin"
 
-#: kdecore/kde-config.cpp:56
+#: kdecore/kde-config.cpp:57
 msgid "(C) 2000 Stephan Kulow"
 msgstr ""
 
-#: kdecore/kde-config.cpp:60
+#: kdecore/kde-config.cpp:61
 msgid "Left for legacy support"
 msgstr ""
 
-#: kdecore/kde-config.cpp:61
+#: kdecore/kde-config.cpp:62
 msgid "Compiled in prefix for KDE libraries"
 msgstr "Kompiléiert am \"prefix\" fir d'KDE-Bibliothéiken"
 
-#: kdecore/kde-config.cpp:62
+#: kdecore/kde-config.cpp:63
 msgid "Compiled in exec_prefix for KDE libraries"
 msgstr "Kompiléiert am \"exec_prefix\" fir d'KDE-Bibliothéiken"
 
-#: kdecore/kde-config.cpp:63
+#: kdecore/kde-config.cpp:64
 msgid "Compiled in library path suffix"
 msgstr "Kompiléiert am \"library path suffix\""
 
-#: kdecore/kde-config.cpp:64
+#: kdecore/kde-config.cpp:65
 msgid "Prefix in $HOME used to write files"
 msgstr "Präfix am $HOME fir Dateien ze schreiwen"
 
-#: kdecore/kde-config.cpp:65
+#: kdecore/kde-config.cpp:66
 msgid "Compiled in version string for KDE libraries"
 msgstr "Versioun bei der Kompiléierung vun de KDE-Bibliothéiken"
 
-#: kdecore/kde-config.cpp:66
+#: kdecore/kde-config.cpp:67
 msgid "Available KDE resource types"
 msgstr "Verfügbar KDE-Ressource-Typen"
 
-#: kdecore/kde-config.cpp:67
+#: kdecore/kde-config.cpp:68
 msgid "Search path for resource type"
 msgstr "Sichwee fir d'Ressource-Typen"
 
-#: kdecore/kde-config.cpp:68
+#: kdecore/kde-config.cpp:69
 msgid "Find filename inside the resource type given to --path"
 msgstr ""
 
-#: kdecore/kde-config.cpp:69
+#: kdecore/kde-config.cpp:70
 #, fuzzy
 msgid "User path: desktop|autostart|document"
 msgstr "Benotzerdefinéierte Wee: desktop|autostart|trash|document"
 
-#: kdecore/kde-config.cpp:70
+#: kdecore/kde-config.cpp:71
 msgid "Prefix to install resource files to"
 msgstr "Präfix, wou d'Ressource-Dateie gespäichert ginn"
 
-#: kdecore/kde-config.cpp:117
+#: kdecore/kde-config.cpp:118
 msgid "Applications menu (.desktop files)"
 msgstr "Uwendungsmenü (.desktop-Dateien)"
 
-#: kdecore/kde-config.cpp:118
+#: kdecore/kde-config.cpp:119
 msgid "CGIs to run from kdehelp"
 msgstr "CGIen, déi vum kdehelp aus lafen"
 
-#: kdecore/kde-config.cpp:119
+#: kdecore/kde-config.cpp:120
 msgid "Configuration files"
 msgstr "Configuratiounsdateien"
 
-#: kdecore/kde-config.cpp:120
+#: kdecore/kde-config.cpp:121
 msgid "Where applications store data"
 msgstr "Do, wou d'Programmer hir Date späicheren"
 
-#: kdecore/kde-config.cpp:121
+#: kdecore/kde-config.cpp:122
 #, fuzzy
 msgid "Emoticons"
 msgstr "[Optiounen]"
 
-#: kdecore/kde-config.cpp:122
+#: kdecore/kde-config.cpp:123
 msgid "Executables in $prefix/bin"
 msgstr "Ausféierbar Dateien am $prefix/bin"
 
-#: kdecore/kde-config.cpp:123
+#: kdecore/kde-config.cpp:124
 msgid "HTML documentation"
 msgstr "HTML-Dokumentatioun"
 
-#: kdecore/kde-config.cpp:124
+#: kdecore/kde-config.cpp:125
 msgid "Icons"
 msgstr "Symboler"
 
-#: kdecore/kde-config.cpp:125
+#: kdecore/kde-config.cpp:126
 msgid "Configuration description files"
 msgstr "Beschreiwungsdateie vun der Configuratioun"
 
-#: kdecore/kde-config.cpp:126
+#: kdecore/kde-config.cpp:127
 msgid "Libraries"
 msgstr "Bibliothéiken"
 
-#: kdecore/kde-config.cpp:127
+#: kdecore/kde-config.cpp:128
 msgid "Includes/Headers"
 msgstr "Includes/Headeren"
 
-#: kdecore/kde-config.cpp:128
+#: kdecore/kde-config.cpp:129
 msgid "Translation files for KLocale"
 msgstr "Iwwersetzungsdateie fir de KLocale"
 
-#: kdecore/kde-config.cpp:129
+#: kdecore/kde-config.cpp:130
 msgid "Mime types"
 msgstr "Mime-Typen"
 
-#: kdecore/kde-config.cpp:130
+#: kdecore/kde-config.cpp:131
 msgid "Loadable modules"
 msgstr "Moduler fir ze lueden"
 
-#: kdecore/kde-config.cpp:131 kdecore/kde-config.cpp:141
+#: kdecore/kde-config.cpp:132 kdecore/kde-config.cpp:142
 msgid "Legacy pixmaps"
 msgstr ""
 
-#: kdecore/kde-config.cpp:132
+#: kdecore/kde-config.cpp:133
 msgid "Qt plugins"
 msgstr "Qt-Pluginen"
 
-#: kdecore/kde-config.cpp:133
+#: kdecore/kde-config.cpp:134
 msgid "Services"
 msgstr "Servicer"
 
-#: kdecore/kde-config.cpp:134
+#: kdecore/kde-config.cpp:135
 msgid "Service types"
 msgstr "Service-Typen"
 
-#: kdecore/kde-config.cpp:135
+#: kdecore/kde-config.cpp:136
 msgid "Application sounds"
 msgstr "Kläng vun den Uwendungen"
 
-#: kdecore/kde-config.cpp:136
+#: kdecore/kde-config.cpp:137
 msgid "Templates"
 msgstr "Virlagen"
 
-#: kdecore/kde-config.cpp:137
+#: kdecore/kde-config.cpp:138
 msgid "Wallpapers"
 msgstr "Hannergrondbiller"
 
-#: kdecore/kde-config.cpp:138
+#: kdecore/kde-config.cpp:139
 msgid "XDG Application menu (.desktop files)"
 msgstr "XDG-Uwendungsmenü (.desktop-Dateien)"
 
-#: kdecore/kde-config.cpp:139
+#: kdecore/kde-config.cpp:140
 msgid "XDG Menu descriptions (.directory files)"
 msgstr "Beschreiwunge vun den XDG-Menüen (.directory-Dateien)"
 
-#: kdecore/kde-config.cpp:140
+#: kdecore/kde-config.cpp:141
 #, fuzzy
 msgid "XDG Icons"
 msgstr "Symboler"
 
-#: kdecore/kde-config.cpp:142
+#: kdecore/kde-config.cpp:143
 #, fuzzy
 msgid "XDG Mime Types"
 msgstr "Mime-Typen"
 
-#: kdecore/kde-config.cpp:143
+#: kdecore/kde-config.cpp:144
 msgid "XDG Menu layout (.menu files)"
 msgstr "Layout vum XDG-Menü (.menu-Dateien)"
 
-#: kdecore/kde-config.cpp:144
+#: kdecore/kde-config.cpp:145
 msgid "Temporary files (specific for both current host and current user)"
 msgstr "Temporär Dateien (déi vum Host a vum Benotzer)"
 
-#: kdecore/kde-config.cpp:145
+#: kdecore/kde-config.cpp:146
 msgid "UNIX Sockets (specific for both current host and current user)"
 msgstr "UNIX-Sockets (déi vum Host a vum Benotzer)"
 
-#: kdecore/kde-config.cpp:157
+#: kdecore/kde-config.cpp:158
 #, kde-format
 msgid "%1 - unknown type\n"
 msgstr "%1 - onbekannten Typ\n"
 
-#: kdecore/kde-config.cpp:219
+#: kdecore/kde-config.cpp:220
 #, kde-format
 msgid "%1 - unknown type of userpath\n"
 msgstr "%1 - onbekannten Typ vum Benotzerwee\n"
@@ -7822,7 +7822,7 @@ msgstr "<h2>Kuerzbefehler ewechgeholl</h2>"
 msgid "<h2>Accelerators added (just for your info)</h2>"
 msgstr "<h2>Kuerzbefehler dobäigemaach (nëmme fir bescheed ze soen)</h2>"
 
-#: kdeui/kernel/kapplication.cpp:625
+#: kdeui/kernel/kapplication.cpp:622
 msgctxt ""
 "Dear Translator! Translate this string to the string 'LTR' in left-to-right "
 "languages (as English) or to 'RTL' in right-to-left languages (such as "
@@ -7830,7 +7830,7 @@ msgctxt ""
 msgid "LTR"
 msgstr ""
 
-#: kdeui/kernel/kapplication.cpp:832
+#: kdeui/kernel/kapplication.cpp:829
 #, fuzzy, kde-format
 #| msgid "The style %1 was not found\n"
 msgid "The style '%1' was not found"
@@ -9890,40 +9890,59 @@ msgstr "E Feeler ass beim Luede vun <B>%1</B> opgetrueden:"
 msgid "Custom Path"
 msgstr "Benotzerdefinéiert"
 
-#: kfile/kdirselectdialog.cpp:115 kfile/kdirselectdialog.cpp:119
-#: kfile/kdiroperator.cpp:642 kfile/kdiroperator.cpp:650
+#: kfile/kdirselectdialog.cpp:116 kfile/kdiroperator.cpp:642
+#: kfile/kdiroperator.cpp:650
 msgid "New Folder"
 msgstr ""
 
-#: kfile/kdirselectdialog.cpp:120 kfile/kdiroperator.cpp:651
+#: kfile/kdirselectdialog.cpp:120
+#, fuzzy
+#| msgid "Home Phone"
+msgctxt "@title:window"
+msgid "New Folder"
+msgstr "Tëlefon (Doheem)"
+
+#: kfile/kdirselectdialog.cpp:121
 #, kde-format
+msgctxt "@label:textbox"
 msgid ""
 "Create new folder in:\n"
 "%1"
 msgstr ""
 
-#: kfile/kdirselectdialog.cpp:143 kfile/kdiroperator.cpp:677
+#: kfile/kdirselectdialog.cpp:144 kfile/kdiroperator.cpp:677
 #, kde-format
 msgid "A file or folder named %1 already exists."
 msgstr ""
 
-#: kfile/kdirselectdialog.cpp:147 kfile/kdiroperator.cpp:680
+#: kfile/kdirselectdialog.cpp:148 kfile/kdiroperator.cpp:680
 msgid "You do not have permission to create that folder."
 msgstr ""
 
-#: kfile/kdirselectdialog.cpp:223
+#: kfile/kdirselectdialog.cpp:224
 #, fuzzy
 #| msgid "Select Color"
+msgctxt "@title:window"
 msgid "Select Folder"
 msgstr "Faarf auswielen"
 
-#: kfile/kdirselectdialog.cpp:225 kfile/kdirselectdialog.cpp:261
-#: kfile/kdiroperator.cpp:1570
-msgid "New Folder..."
-msgstr ""
-
-#: kfile/kdirselectdialog.cpp:268
+#: kfile/kdirselectdialog.cpp:226
 #, fuzzy
+#| msgid "Home Phone"
+msgctxt "@action:button"
+msgid "New Folder..."
+msgstr "Tëlefon (Doheem)"
+
+#: kfile/kdirselectdialog.cpp:262
+#, fuzzy
+#| msgid "Home Phone"
+msgctxt "@action:inmenu"
+msgid "New Folder..."
+msgstr "Tëlefon (Doheem)"
+
+#: kfile/kdirselectdialog.cpp:269
+#, fuzzy
+msgctxt "@option:check"
 msgid "Show Hidden Folders"
 msgstr "Hëllef weisen"
 
@@ -9976,6 +9995,13 @@ msgid ""
 "<qt>Select this setting if you want this entry to show only when using the "
 "current application (%1).<br /><br />If this setting is not selected, the "
 "entry will be available in all applications.</qt>"
+msgstr ""
+
+#: kfile/kdiroperator.cpp:651
+#, kde-format
+msgid ""
+"Create new folder in:\n"
+"%1"
 msgstr ""
 
 #: kfile/kdiroperator.cpp:695
@@ -10083,6 +10109,10 @@ msgstr "Tëlefon (Doheem)"
 #: kfile/kdiroperator.cpp:1567
 msgid "Reload"
 msgstr "Nach eng Kéier lueden"
+
+#: kfile/kdiroperator.cpp:1570
+msgid "New Folder..."
+msgstr ""
 
 #: kfile/kdiroperator.cpp:1575
 msgid "Move to Trash"
