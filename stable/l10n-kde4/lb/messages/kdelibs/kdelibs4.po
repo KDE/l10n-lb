@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-01-29 09:13+0100\n"
+"POT-Creation-Date: 2008-01-30 07:58+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -7974,6 +7974,10 @@ msgstr "Toolbar weisen"
 msgid "Toolbars"
 msgstr "Toolbaren"
 
+#: kdeui/widgets/ktabbar.cpp:220
+msgid "Close this tab"
+msgstr "Dësen Tab zoumaachen"
+
 #: kdeui/widgets/klanguagebutton.cpp:175
 #, fuzzy
 #| msgid "New hostname"
@@ -15410,9 +15414,6 @@ msgstr ""
 
 #~ msgid "Default key:"
 #~ msgstr "Standardtast:"
-
-#~ msgid "Close this tab"
-#~ msgstr "Dësen Tab zoumaachen"
 
 #~ msgid "K Desktop Environment. Release %1"
 #~ msgstr "K Desktop Environment. Versioun %1"
