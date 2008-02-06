@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-02-04 09:08+0100\n"
+"POT-Creation-Date: 2008-02-06 07:55+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -6037,7 +6037,7 @@ msgstr ""
 
 #: kdeui/dialogs/kshortcutsdialog.cpp:742
 #: kdeui/dialogs/kshortcutsdialog.cpp:771
-#: kdeui/dialogs/kshortcutsdialog.cpp:787 kdeui/shortcuts/kglobalaccel.cpp:325
+#: kdeui/dialogs/kshortcutsdialog.cpp:787 kdeui/shortcuts/kglobalaccel.cpp:327
 #: kdeui/widgets/kkeysequencewidget.cpp:131
 msgid "Reassign"
 msgstr "Nei zouuerdnen"
@@ -6215,8 +6215,8 @@ msgstr ""
 msgid "Reset ToolBars"
 msgstr "Toolbaren zerécksetzen"
 
-#: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2831
-#: khtml/khtmlview.cpp:2864 khtml/html/html_formimpl.cpp:2171
+#: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2844
+#: khtml/khtmlview.cpp:2877 khtml/html/html_formimpl.cpp:2171
 msgid "Reset"
 msgstr "Zerécksetzen"
 
@@ -7383,11 +7383,11 @@ msgstr "All siichtbar Kolonnen"
 msgid "S&earch:"
 msgstr "Siche&n:"
 
-#: kdeui/shortcuts/kglobalaccel.cpp:319
+#: kdeui/shortcuts/kglobalaccel.cpp:321
 msgid "Conflict with Global Shortcut"
 msgstr "Konflikt mat allgemengem Kierzel"
 
-#: kdeui/shortcuts/kglobalaccel.cpp:320
+#: kdeui/shortcuts/kglobalaccel.cpp:322
 #, fuzzy, kde-format
 #| msgid ""
 #| "The '%1' key combination has already been allocated to the global action "
@@ -10866,7 +10866,7 @@ msgstr ""
 "<qt>De Formular gëtt no<BR><B>%1</B><BR>op ärem lokalen Dateiesystem "
 "verschéckt ginn.<BR>Wëllt dir de Formular ofsenden?"
 
-#: khtml/khtml_part.cpp:4783 khtml/khtmlview.cpp:2817 khtml/khtmlview.cpp:2859
+#: khtml/khtml_part.cpp:4783 khtml/khtmlview.cpp:2830 khtml/khtmlview.cpp:2872
 #: khtml/html/html_formimpl.cpp:1571 khtml/html/html_formimpl.cpp:2179
 msgid "Submit"
 msgstr "Verschécken"
@@ -10992,39 +10992,39 @@ msgstr "Op d'Zeil &goen..."
 msgid "Remove from ignores..."
 msgstr ""
 
-#: khtml/khtmlview.cpp:1788
+#: khtml/khtmlview.cpp:1795
 msgid "Find stopped."
 msgstr "Sicht opgehal."
 
-#: khtml/khtmlview.cpp:1799
+#: khtml/khtmlview.cpp:1806
 msgid "Starting -- find links as you type"
 msgstr "Startvirgang -- Linke beim antippen ergänzen"
 
-#: khtml/khtmlview.cpp:1805
+#: khtml/khtmlview.cpp:1812
 msgid "Starting -- find text as you type"
 msgstr "Startvirgang -- Text beim antippen ergänzen"
 
-#: khtml/khtmlview.cpp:1828
+#: khtml/khtmlview.cpp:1835
 #, kde-format
 msgid "Link found: \"%1\"."
 msgstr "Link fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1833
+#: khtml/khtmlview.cpp:1840
 #, kde-format
 msgid "Link not found: \"%1\"."
 msgstr "Link net fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1841
+#: khtml/khtmlview.cpp:1848
 #, kde-format
 msgid "Text found: \"%1\"."
 msgstr "Text fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1846
+#: khtml/khtmlview.cpp:1853
 #, kde-format
 msgid "Text not found: \"%1\"."
 msgstr "Text net fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1892
+#: khtml/khtmlview.cpp:1899
 msgid "Access Keys activated"
 msgstr "Kuerztasten ugeschalt"
 
