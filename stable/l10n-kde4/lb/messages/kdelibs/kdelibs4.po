@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-02-06 07:55+0100\n"
+"POT-Creation-Date: 2008-02-08 07:57+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -5601,7 +5601,7 @@ msgstr "&OK"
 msgid "&Cancel"
 msgstr "&Ofbriechen"
 
-#: kdeui/util/kstandardguiitem.cpp:116 khtml/java/kjavaappletserver.cpp:849
+#: kdeui/util/kstandardguiitem.cpp:116 khtml/java/kjavaappletserver.cpp:817
 msgid "&Yes"
 msgstr "&Jo"
 
@@ -5609,7 +5609,7 @@ msgstr "&Jo"
 msgid "Yes"
 msgstr "Jo"
 
-#: kdeui/util/kstandardguiitem.cpp:121 khtml/java/kjavaappletserver.cpp:842
+#: kdeui/util/kstandardguiitem.cpp:121 khtml/java/kjavaappletserver.cpp:810
 msgid "&No"
 msgstr "&Nee"
 
@@ -9327,7 +9327,7 @@ msgstr ""
 msgid "Separator, Space"
 msgstr "Mam Ersetzen ufänken"
 
-#: kdeui/widgets/kcharselectdata.cpp:530 khtml/java/kjavaappletserver.cpp:697
+#: kdeui/widgets/kcharselectdata.cpp:530
 msgid "Unknown"
 msgstr "Onbekannt"
 
@@ -10896,7 +10896,7 @@ msgstr ""
 "<qt>Zougang op<BR><B>%1</B><BR>duerch eng Säit, déi als net sëcher ugesinn "
 "ass, verweigert."
 
-#: khtml/khtml_part.cpp:6891 khtml/java/kjavaappletserver.cpp:823
+#: khtml/khtml_part.cpp:6891 khtml/java/kjavaappletserver.cpp:791
 msgid "Security Alert"
 msgstr "Sëcherheetsnoricht"
 
@@ -11486,82 +11486,30 @@ msgid "Error: java executable not found"
 msgstr "Feeler: Java-Programm net fonnt"
 
 #: khtml/java/kjavaappletserver.cpp:663
-msgid "Signed by (validation: "
+#, fuzzy, kde-format
+#| msgid "Signed by (validation: "
+msgid "Signed by (validation: %1)"
 msgstr "Ënnerschriwwe vun (Nogekuckt: "
 
 #: khtml/java/kjavaappletserver.cpp:665
-msgid "Certificate (validation: "
+#, fuzzy, kde-format
+#| msgid "Certificate (validation: "
+msgid "Certificate (validation: %1)"
 msgstr "Zertifikat (Nogekuckt: "
 
-#: khtml/java/kjavaappletserver.cpp:668
-msgid "Ok"
-msgstr "An der Rei"
-
-#: khtml/java/kjavaappletserver.cpp:670
-msgid "NoCARoot"
-msgstr "NoCARoot"
-
-#: khtml/java/kjavaappletserver.cpp:672
-msgid "InvalidPurpose"
-msgstr "InvalidPurpose"
-
-#: khtml/java/kjavaappletserver.cpp:674
-msgid "PathLengthExceeded"
-msgstr "PathLengthExceeded"
-
-#: khtml/java/kjavaappletserver.cpp:676
-msgid "InvalidCA"
-msgstr "InvalidCA"
-
-#: khtml/java/kjavaappletserver.cpp:678
-msgid "Expired"
-msgstr "Ofgelaf"
-
-#: khtml/java/kjavaappletserver.cpp:680
-msgid "SelfSigned"
-msgstr "SelfSigned"
-
-#: khtml/java/kjavaappletserver.cpp:682
-msgid "ErrorReadingRoot"
-msgstr "ErrorReadingRoot"
-
-#: khtml/java/kjavaappletserver.cpp:684
-msgid "Revoked"
-msgstr "Zeréckgezunn"
-
-#: khtml/java/kjavaappletserver.cpp:686
-msgid "Untrusted"
-msgstr "Net als sëcher agestuft"
-
-#: khtml/java/kjavaappletserver.cpp:688
-msgid "SignatureFailed"
-msgstr "SignatureFailed"
-
-#: khtml/java/kjavaappletserver.cpp:690
-msgid "Rejected"
-msgstr "Ofgeleent"
-
-#: khtml/java/kjavaappletserver.cpp:692
-msgid "PrivateKeyFailed"
-msgstr "PrivateKeyFailed"
-
-#: khtml/java/kjavaappletserver.cpp:694
-msgid "InvalidHost"
-msgstr "Ongültegen Host"
-
-#: khtml/java/kjavaappletserver.cpp:830
+#: khtml/java/kjavaappletserver.cpp:798
 msgid "Do you grant Java applet with certificate(s):"
 msgstr "Java-Miniprogramm mat Zertifikaten zouloossen:"
 
-#: khtml/java/kjavaappletserver.cpp:832
+#: khtml/java/kjavaappletserver.cpp:800
 msgid "the following permission"
 msgstr "déi folgend Zouloossungskriterien"
 
-#: khtml/java/kjavaappletserver.cpp:846
+#: khtml/java/kjavaappletserver.cpp:814
 msgid "&Reject All"
 msgstr "Alleguer zeréck&weisen"
 
-#: khtml/java/kjavaappletserver.cpp:852
+#: khtml/java/kjavaappletserver.cpp:820
 msgid "&Grant All"
 msgstr "Alleguer &zouloossen"
 
@@ -13295,6 +13243,48 @@ msgid ""
 msgstr ""
 "<qt><font size=\"+4\" face=\"%1\">%2</font> <br>Unicode Code Point: U+ %3<br>"
 "(an Dezimal: %4)<br>(Zeechen: %5)</qt>"
+
+#~ msgid "Ok"
+#~ msgstr "An der Rei"
+
+#~ msgid "NoCARoot"
+#~ msgstr "NoCARoot"
+
+#~ msgid "InvalidPurpose"
+#~ msgstr "InvalidPurpose"
+
+#~ msgid "PathLengthExceeded"
+#~ msgstr "PathLengthExceeded"
+
+#~ msgid "InvalidCA"
+#~ msgstr "InvalidCA"
+
+#~ msgid "Expired"
+#~ msgstr "Ofgelaf"
+
+#~ msgid "SelfSigned"
+#~ msgstr "SelfSigned"
+
+#~ msgid "ErrorReadingRoot"
+#~ msgstr "ErrorReadingRoot"
+
+#~ msgid "Revoked"
+#~ msgstr "Zeréckgezunn"
+
+#~ msgid "Untrusted"
+#~ msgstr "Net als sëcher agestuft"
+
+#~ msgid "SignatureFailed"
+#~ msgstr "SignatureFailed"
+
+#~ msgid "Rejected"
+#~ msgstr "Ofgeleent"
+
+#~ msgid "PrivateKeyFailed"
+#~ msgstr "PrivateKeyFailed"
+
+#~ msgid "InvalidHost"
+#~ msgstr "Ongültegen Host"
 
 #~ msgid "Rating"
 #~ msgstr "Bewertung"
