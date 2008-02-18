@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-02-16 16:13+0100\n"
+"POT-Creation-Date: 2008-02-18 14:36+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -3844,7 +3844,7 @@ msgstr ""
 "dir méi iwwert déi lëtzebuergesch Iwwersetzung wësse wëllt, da kuckt w.e.g. "
 "op <a href=\"http://lb.l10n.kde.org\">http://lb.l10n.kde.org</a>.</p>"
 
-#: kdecore/kernel/kaboutdata.cpp:599
+#: kdecore/kernel/kaboutdata.cpp:607
 msgid ""
 "No licensing terms for this program have been specified.\n"
 "Please check the documentation or the source for any\n"
@@ -3854,49 +3854,59 @@ msgstr ""
 "Kuckt w.e.g. an der Dokumentatioun oder am\n"
 "Quellcode no de Lizenzbedingungen\n"
 
-#: kdecore/kernel/kaboutdata.cpp:606
+#: kdecore/kernel/kaboutdata.cpp:614
 #, kde-format
 msgid "This program is distributed under the terms of the %1."
 msgstr "Dëse Programm ass ënnert de Bedingunge vun %1 veröffentlëcht ginn."
 
-#: kdecore/kernel/kaboutdata.cpp:631
+#: kdecore/kernel/kaboutdata.cpp:639
 msgctxt "@item license"
 msgid "GNU General Public License Version 2"
 msgstr ""
 
-#: kdecore/kernel/kaboutdata.cpp:635
+#: kdecore/kernel/kaboutdata.cpp:643
 msgctxt "@item license"
-msgid "GNU Library General Public License Version 2"
+msgid "GNU Lesser General Public License Version 2"
 msgstr ""
 
-#: kdecore/kernel/kaboutdata.cpp:639
+#: kdecore/kernel/kaboutdata.cpp:647
 #, fuzzy
 #| msgid "License:"
 msgctxt "@item license"
 msgid "BSD License"
 msgstr "Lizenz:"
 
-#: kdecore/kernel/kaboutdata.cpp:643
+#: kdecore/kernel/kaboutdata.cpp:651
 #, fuzzy
 #| msgid "Public Key"
 msgctxt "@item license"
 msgid "Artistic License"
 msgstr "Öffentleche Schlëssel"
 
-#: kdecore/kernel/kaboutdata.cpp:647
+#: kdecore/kernel/kaboutdata.cpp:655
 #, fuzzy
 #| msgid "Public Key"
 msgctxt "@item license"
 msgid "Q Public License"
 msgstr "Öffentleche Schlëssel"
 
-#: kdecore/kernel/kaboutdata.cpp:651
+#: kdecore/kernel/kaboutdata.cpp:659
+msgctxt "@item license"
+msgid "GNU General Public License Version 3"
+msgstr ""
+
+#: kdecore/kernel/kaboutdata.cpp:663
+msgctxt "@item license"
+msgid "GNU Lesser General Public License Version 3"
+msgstr ""
+
+#: kdecore/kernel/kaboutdata.cpp:667
 #, fuzzy
 msgctxt "@item license"
 msgid "Custom"
 msgstr "&Benotzerdéfinéiert"
 
-#: kdecore/kernel/kaboutdata.cpp:654
+#: kdecore/kernel/kaboutdata.cpp:670
 #, fuzzy
 msgctxt "@item license"
 msgid "Not specified"
@@ -9611,7 +9621,7 @@ msgstr "All Optioune weisen"
 msgid "&Remove '%1'"
 msgstr "&Ewechmaachen"
 
-#: kfile/kfilefiltercombo.cpp:36 kfile/kfilewidget.cpp:1442
+#: kfile/kfilefiltercombo.cpp:36 kfile/kfilewidget.cpp:1433
 #, fuzzy
 #| msgid "Files"
 msgid "*|All Files"
@@ -9700,66 +9710,56 @@ msgstr ""
 msgid "&Filter:"
 msgstr "Filter:"
 
-#: kfile/kfilewidget.cpp:585
-msgid "Please specify the filename to save to."
-msgstr ""
-
-#: kfile/kfilewidget.cpp:587
-#, fuzzy
-#| msgid "Please select type of the new resource:"
-msgid "Please select the file to open."
-msgstr "Wielt w.e.g. den Typ vum neie Modul:"
-
-#: kfile/kfilewidget.cpp:646 kfile/kfilewidget.cpp:689
-#: kfile/kfilewidget.cpp:1375
+#: kfile/kfilewidget.cpp:637 kfile/kfilewidget.cpp:680
+#: kfile/kfilewidget.cpp:1366
 msgid "You can only select local files."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:647 kfile/kfilewidget.cpp:690
-#: kfile/kfilewidget.cpp:1376
+#: kfile/kfilewidget.cpp:638 kfile/kfilewidget.cpp:681
+#: kfile/kfilewidget.cpp:1367
 msgid "Remote Files Not Accepted"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:681
+#: kfile/kfilewidget.cpp:672
 #, kde-format
 msgid ""
 "%1\n"
 "does not appear to be a valid URL.\n"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:681
+#: kfile/kfilewidget.cpp:672
 #, fuzzy
 #| msgid "InvalidCA"
 msgid "Invalid URL"
 msgstr "InvalidCA"
 
-#: kfile/kfilewidget.cpp:1009
+#: kfile/kfilewidget.cpp:1000
 msgid "This is the name to save the file as."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1014
+#: kfile/kfilewidget.cpp:1005
 msgid ""
 "This is the list of files to open. More than one file can be specified by "
 "listing several files, separated by spaces."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1021
+#: kfile/kfilewidget.cpp:1012
 msgid "This is the name of the file to open."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1307
+#: kfile/kfilewidget.cpp:1298
 msgid ""
 "The chosen filenames do not\n"
 "appear to be valid."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1309
+#: kfile/kfilewidget.cpp:1300
 #, fuzzy
 #| msgid "invalid flags"
 msgid "Invalid Filenames"
 msgstr "Ongülteg Werter"
 
-#: kfile/kfilewidget.cpp:1338
+#: kfile/kfilewidget.cpp:1329
 #, kde-format
 msgid ""
 "The requested filenames\n"
@@ -9768,39 +9768,39 @@ msgid ""
 "make sure every filename is enclosed in double quotes."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1342
+#: kfile/kfilewidget.cpp:1333
 #, fuzzy
 #| msgid "File Error"
 msgid "Filename Error"
 msgstr "Dateifeler"
 
-#: kfile/kfilewidget.cpp:1439
+#: kfile/kfilewidget.cpp:1430
 msgid "*|All Folders"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1578 kparts/browserrun.cpp:375
+#: kfile/kfilewidget.cpp:1569 kparts/browserrun.cpp:375
 msgid "&Open"
 msgstr "&Opmaachen"
 
-#: kfile/kfilewidget.cpp:1721
+#: kfile/kfilewidget.cpp:1712
 #, kde-format
 msgid "Automatically select filename e&xtension (%1)"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1722
+#: kfile/kfilewidget.cpp:1713
 #, kde-format
 msgid "the extension <b>%1</b>"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1730
+#: kfile/kfilewidget.cpp:1721
 msgid "Automatically select filename e&xtension"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1731
+#: kfile/kfilewidget.cpp:1722
 msgid "a suitable extension"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1741
+#: kfile/kfilewidget.cpp:1732
 #, kde-format
 msgid ""
 "This option enables some convenient features for saving files with "
@@ -9816,11 +9816,11 @@ msgid ""
 "enabled as it makes your files more manageable."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:2011
+#: kfile/kfilewidget.cpp:2002
 msgid "Bookmarks"
 msgstr "Lieszeechen"
 
-#: kfile/kfilewidget.cpp:2015
+#: kfile/kfilewidget.cpp:2006
 msgid ""
 "<qt>This button allows you to bookmark specific locations. Click on this "
 "button to open the bookmark menu where you may add, edit or select a "
@@ -13301,6 +13301,11 @@ msgid ""
 msgstr ""
 "<qt><font size=\"+4\" face=\"%1\">%2</font> <br>Unicode Code Point: U+ %3<br>"
 "(an Dezimal: %4)<br>(Zeechen: %5)</qt>"
+
+#, fuzzy
+#~| msgid "Please select type of the new resource:"
+#~ msgid "Please select the file to open."
+#~ msgstr "Wielt w.e.g. den Typ vum neie Modul:"
 
 #~ msgid "Ok"
 #~ msgstr "An der Rei"
