@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-02-20 13:42+0000\n"
+"POT-Creation-Date: 2008-02-25 12:47+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -106,7 +106,7 @@ msgctxt "Name"
 msgid "Data Tools"
 msgstr "KDE-Donnéen-Hëllefsprogramm"
 
-#: kate/plugins/kdatatool/ktexteditor_kdatatool.desktop:42
+#: kate/plugins/kdatatool/ktexteditor_kdatatool.desktop:43
 msgctxt "Comment"
 msgid "Enable data tools like thesaurus and spell check (if installed)"
 msgstr ""
@@ -1041,6 +1041,11 @@ msgstr "Traditionellt Chinesesch"
 msgctxt "Name"
 msgid "Zulu"
 msgstr "Zulu"
+
+#: kdecore/config/kconfigbackend.desktop:5
+msgctxt "Comment"
+msgid "Backend storage for KConfig"
+msgstr ""
 
 #: kdecore/services/kplugininfo.desktop:4
 msgctxt "Name"
