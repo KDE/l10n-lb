@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-02-27 14:56+0100\n"
+"POT-Creation-Date: 2008-02-29 14:30+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -3307,7 +3307,7 @@ msgstr "D'Bibliothéik %1 huet keng Factory, déi mat KDE kompatibel ass."
 msgid "The plugin '%1' uses incompatible KDE library. (%2)"
 msgstr ""
 
-#: kdecore/config/kconfig.cpp:625
+#: kdecore/config/kconfig.cpp:652
 msgid "Please contact your system administrator."
 msgstr "Mellt iech w.e.g. bei ärer Systemverwaltung."
 
@@ -6241,14 +6241,14 @@ msgstr "&Symbol änneren..."
 msgid "Shortcuts"
 msgstr "Kierzelen"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:418
-#: kdeui/dialogs/kshortcutseditor.cpp:447
-#: kdeui/dialogs/kshortcutseditor.cpp:463
+#: kdeui/dialogs/kshortcutseditor.cpp:424
+#: kdeui/dialogs/kshortcutseditor.cpp:453
+#: kdeui/dialogs/kshortcutseditor.cpp:469
 #: kdeui/widgets/kkeysequencewidget.cpp:124
 msgid "Key Conflict"
 msgstr "Tastekonflikt"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:419
+#: kdeui/dialogs/kshortcutseditor.cpp:425
 #: kdeui/widgets/kkeysequencewidget.cpp:125
 #, kde-format
 msgid ""
@@ -6258,18 +6258,18 @@ msgstr ""
 "D'Tastekombinatioun \"%1\" ass scho mat der Aktioun \"%2\" verbonn.\n"
 "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:423
-#: kdeui/dialogs/kshortcutseditor.cpp:452
-#: kdeui/dialogs/kshortcutseditor.cpp:468 kdeui/shortcuts/kglobalaccel.cpp:317
+#: kdeui/dialogs/kshortcutseditor.cpp:429
+#: kdeui/dialogs/kshortcutseditor.cpp:458
+#: kdeui/dialogs/kshortcutseditor.cpp:474 kdeui/shortcuts/kglobalaccel.cpp:317
 #: kdeui/widgets/kkeysequencewidget.cpp:128
 msgid "Reassign"
 msgstr "Nei zouuerdnen"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:435
+#: kdeui/dialogs/kshortcutseditor.cpp:441
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Konflikt mat der Standardkombinatioun vum Programm"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:436
+#: kdeui/dialogs/kshortcutseditor.cpp:442
 #, fuzzy, kde-format
 msgid ""
 "The '%1' key combination has already been allocated to the standard action "
@@ -6279,7 +6279,7 @@ msgstr ""
 "D'Tastekombinatioun \"%1\" ass scho mat der Standardaktioun \"%2\" verbonn.\n"
 "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:448
+#: kdeui/dialogs/kshortcutseditor.cpp:454
 #, fuzzy, kde-format
 msgid ""
 "The '%1' shape gesture has already been allocated to the \"%2\" action.\n"
@@ -6288,7 +6288,7 @@ msgstr ""
 "D'Tastekombinatioun \"%1\" ass scho mat der Aktioun \"%2\" verbonn.\n"
 "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:464
+#: kdeui/dialogs/kshortcutseditor.cpp:470
 #, fuzzy, kde-format
 msgid ""
 "The '%1' rocker gesture has already been allocated to the \"%2\" action.\n"
@@ -6792,15 +6792,15 @@ msgstr "Rotschlag vum Dag"
 msgid "Did you know...?\n"
 msgstr "Wousst dir schonn...?\n"
 
-#: kdeui/dialogs/ktip.cpp:296
+#: kdeui/dialogs/ktip.cpp:298
 msgid "&Show tips on startup"
 msgstr "Rotschléi beim Start &weisen"
 
-#: kdeui/dialogs/ktip.cpp:300
+#: kdeui/dialogs/ktip.cpp:302
 msgid "&Previous"
 msgstr "&Zeréck"
 
-#: kdeui/dialogs/ktip.cpp:304
+#: kdeui/dialogs/ktip.cpp:306
 msgctxt "Opposite to Previous"
 msgid "&Next"
 msgstr "&Weider"
@@ -12159,7 +12159,7 @@ msgstr ""
 #, kde-format
 msgid ""
 "\n"
-"    %1 plugin has been automatically unchecked becase its dependency on %2 "
+"    %1 plugin has been automatically unchecked because its dependency on %2 "
 "plugin"
 msgstr ""
 
