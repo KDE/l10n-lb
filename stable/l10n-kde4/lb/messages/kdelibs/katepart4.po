@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-02-24 10:12+0100\n"
+"POT-Creation-Date: 2008-03-01 11:50+0100\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -96,7 +96,7 @@ msgstr "De Kommando \"%1\" ass feelgeschloen."
 msgid "No such command: \"%1\""
 msgstr "Et gëtt keen esou ee Kommando: \"%1\""
 
-#: view/kateviewhelpers.cpp:765 utils/kateschema.cpp:204
+#: view/kateviewhelpers.cpp:765 utils/kateschema.cpp:205
 msgid "Bookmark"
 msgstr "Lieszeechen"
 
@@ -1531,7 +1531,7 @@ msgstr ""
 msgid "L&ayout"
 msgstr "L&ayout"
 
-#: utils/kateprinter.cpp:915 utils/kateschema.cpp:707
+#: utils/kateprinter.cpp:915 utils/kateschema.cpp:710
 msgid "&Schema:"
 msgstr "&Schema:"
 
@@ -1761,50 +1761,50 @@ msgstr ""
 msgid "Extensions Manager"
 msgstr "Plugin-Manager"
 
-#: utils/kateschema.cpp:205
+#: utils/kateschema.cpp:206
 msgid "Active Breakpoint"
 msgstr "Aktiven Ofbriechpunkt"
 
-#: utils/kateschema.cpp:206
+#: utils/kateschema.cpp:207
 msgid "Reached Breakpoint"
 msgstr "Ofbriechpunkt erreecht"
 
-#: utils/kateschema.cpp:207
+#: utils/kateschema.cpp:208
 msgid "Disabled Breakpoint"
 msgstr "Ofbriechpunkt ausgeschalt"
 
-#: utils/kateschema.cpp:208
+#: utils/kateschema.cpp:209
 msgid "Execution"
 msgstr "Ausféierung"
 
-#: utils/kateschema.cpp:209
+#: utils/kateschema.cpp:210
 #, fuzzy
 msgid "Warning"
 msgstr "Zeecheketten"
 
-#: utils/kateschema.cpp:210
+#: utils/kateschema.cpp:211
 #, fuzzy
 msgid "Error"
 msgstr "Feeler:"
 
-#: utils/kateschema.cpp:211
+#: utils/kateschema.cpp:212
 #, fuzzy
 msgid "Template Background"
 msgstr "Hannergrond vum Textberäich"
 
-#: utils/kateschema.cpp:212
+#: utils/kateschema.cpp:213
 msgid "Template Editable Placeholder"
 msgstr ""
 
-#: utils/kateschema.cpp:213
+#: utils/kateschema.cpp:214
 msgid "Template Focused Editable Placeholder"
 msgstr ""
 
-#: utils/kateschema.cpp:214
+#: utils/kateschema.cpp:215
 msgid "Template Not Editable Placeholder"
 msgstr ""
 
-#: utils/kateschema.cpp:462
+#: utils/kateschema.cpp:465
 msgid ""
 "<p>This list displays the default styles for the current schema and offers "
 "the means to edit them. The style name reflects the current style settings.</"
@@ -1813,11 +1813,11 @@ msgid ""
 "Background colors from the popup menu when appropriate.</p>"
 msgstr ""
 
-#: utils/kateschema.cpp:550
+#: utils/kateschema.cpp:553
 msgid "H&ighlight:"
 msgstr "Erv&irhiewung:"
 
-#: utils/kateschema.cpp:574
+#: utils/kateschema.cpp:577
 msgid ""
 "<p>This list displays the contexts of the current syntax highlight mode and "
 "offers the means to edit them. The context name reflects the current style "
@@ -1828,47 +1828,47 @@ msgid ""
 "context menu when appropriate.</p>"
 msgstr ""
 
-#: utils/kateschema.cpp:714
+#: utils/kateschema.cpp:717
 msgid "&New..."
 msgstr "&Nei..."
 
 #. i18n: tag string
 #. i18n: file ./dialogs/filetypeconfigwidget.ui line 60
-#: utils/kateschema.cpp:717 rc.cpp:134
+#: utils/kateschema.cpp:720 rc.cpp:134
 #, fuzzy
 msgid "&Delete"
 msgstr "Ausgewielt"
 
-#: utils/kateschema.cpp:726
+#: utils/kateschema.cpp:729
 msgid "Colors"
 msgstr "Faarwen"
 
-#: utils/kateschema.cpp:730
+#: utils/kateschema.cpp:733
 msgid "Font"
 msgstr ""
 
-#: utils/kateschema.cpp:734
+#: utils/kateschema.cpp:737
 msgid "Normal Text Styles"
 msgstr "Normalen Textstil"
 
-#: utils/kateschema.cpp:738
+#: utils/kateschema.cpp:741
 msgid "Highlighting Text Styles"
 msgstr ""
 
-#: utils/kateschema.cpp:744
+#: utils/kateschema.cpp:747
 #, kde-format
 msgid "&Default schema for %1:"
 msgstr "Stan&dardschema fir %1:"
 
-#: utils/kateschema.cpp:842
+#: utils/kateschema.cpp:845
 msgid "Name for New Schema"
 msgstr "Numm fir en neit Schema"
 
-#: utils/kateschema.cpp:842
+#: utils/kateschema.cpp:845
 msgid "Name:"
 msgstr "Numm:"
 
-#: utils/kateschema.cpp:842
+#: utils/kateschema.cpp:845
 msgid "New Schema"
 msgstr "Neit Schema"
 
