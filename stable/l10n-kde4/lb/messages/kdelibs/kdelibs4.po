@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-03-01 11:50+0100\n"
+"POT-Creation-Date: 2008-03-03 10:20+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -7966,11 +7966,7 @@ msgstr "Kierzel configuréieren"
 msgid "No text"
 msgstr "Keen Text!"
 
-#: kdeui/xmlgui/ktoolbarhandler.cpp:91
-msgid "Show Toolbar"
-msgstr "Toolbar weisen"
-
-#: kdeui/xmlgui/ktoolbarhandler.cpp:95
+#: kdeui/xmlgui/ktoolbarhandler.cpp:97
 msgid "Toolbars"
 msgstr "Toolbaren"
 
@@ -13243,6 +13239,9 @@ msgid ""
 msgstr ""
 "<qt><font size=\"+4\" face=\"%1\">%2</font> <br>Unicode Code Point: U+ %3<br>"
 "(an Dezimal: %4)<br>(Zeechen: %5)</qt>"
+
+#~ msgid "Show Toolbar"
+#~ msgstr "Toolbar weisen"
 
 #~ msgid "Ok"
 #~ msgstr "An der Rei"
