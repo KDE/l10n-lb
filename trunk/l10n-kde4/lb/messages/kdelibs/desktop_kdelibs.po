@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-03-04 11:36+0000\n"
+"POT-Creation-Date: 2008-03-07 19:22+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1065,7 +1065,7 @@ msgctxt "Comment"
 msgid "KDED Module"
 msgstr "KDED-Modul"
 
-#: kdeui/shortcuts/kdedglobalaccel.desktop:9
+#: kdeui/shortcuts/kdedglobalaccel.desktop:10
 msgctxt "Name"
 msgid "KDED Global Shortcuts Server"
 msgstr ""
@@ -1336,22 +1336,22 @@ msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "Et gouf e Feeler beim Ausféiere vum Proxy-Konfiguratiounsskript"
 
-#: kio/misc/kssld/kssld.desktop:7
+#: kio/misc/kssld/kssld.desktop:8
 msgctxt "Name"
 msgid "KSSL Daemon Module"
 msgstr "KSSL-Dämonmodul"
 
-#: kio/misc/kssld/kssld.desktop:80
+#: kio/misc/kssld/kssld.desktop:81
 msgctxt "Comment"
 msgid "KSSL daemon module for KDED"
 msgstr "KSSL-Dämonmodul fir KDED"
 
-#: kio/misc/kwalletd/kwalletd.desktop:7
+#: kio/misc/kwalletd/kwalletd.desktop:8
 msgctxt "Name"
 msgid "KWallet Daemon Module"
 msgstr "KWallet-Dämonmodul"
 
-#: kio/misc/kwalletd/kwalletd.desktop:78
+#: kio/misc/kwalletd/kwalletd.desktop:79
 msgctxt "Comment"
 msgid "KWallet daemon module for KDED"
 msgstr "KWallet-Dämonmodul fir KDED"
