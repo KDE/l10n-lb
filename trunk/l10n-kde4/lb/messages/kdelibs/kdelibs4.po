@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-03-10 17:02+0100\n"
+"POT-Creation-Date: 2008-03-12 14:27+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -6229,8 +6229,8 @@ msgstr ""
 msgid "Reset ToolBars"
 msgstr "Toolbaren zerécksetzen"
 
-#: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2894
-#: khtml/khtmlview.cpp:2927 khtml/html/html_formimpl.cpp:2172
+#: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2887
+#: khtml/khtmlview.cpp:2920 khtml/html/html_formimpl.cpp:2172
 msgid "Reset"
 msgstr "Zerécksetzen"
 
@@ -7950,7 +7950,7 @@ msgid "Exit Full Screen"
 msgstr "Aus dem &Vollbildmodus erausgoen"
 
 #: kdeui/actions/kcodecaction.cpp:91 kdeui/widgets/klineedit.cpp:1133
-#: kdeui/widgets/ktoolbar.cpp:276
+#: kdeui/widgets/ktoolbar.cpp:278
 msgid "Default"
 msgstr "Standard"
 
@@ -9532,96 +9532,96 @@ msgstr "&Iwwer %1"
 msgid "About &KDE"
 msgstr "Iwwer &KDE"
 
-#: kdeui/widgets/ktoolbar.cpp:241
+#: kdeui/widgets/ktoolbar.cpp:243
 msgid "Toolbar Menu"
 msgstr "Toolbar-Menü"
 
-#: kdeui/widgets/ktoolbar.cpp:243
+#: kdeui/widgets/ktoolbar.cpp:245
 msgid "Orientation"
 msgstr "Ausriichtung"
 
-#: kdeui/widgets/ktoolbar.cpp:246
+#: kdeui/widgets/ktoolbar.cpp:248
 msgctxt "toolbar position string"
 msgid "Top"
 msgstr "Uewen"
 
-#: kdeui/widgets/ktoolbar.cpp:248
+#: kdeui/widgets/ktoolbar.cpp:250
 msgctxt "toolbar position string"
 msgid "Left"
 msgstr "Lénks"
 
-#: kdeui/widgets/ktoolbar.cpp:249
+#: kdeui/widgets/ktoolbar.cpp:251
 msgctxt "toolbar position string"
 msgid "Right"
 msgstr "Riets"
 
-#: kdeui/widgets/ktoolbar.cpp:250
+#: kdeui/widgets/ktoolbar.cpp:252
 msgctxt "toolbar position string"
 msgid "Bottom"
 msgstr "Ënnen"
 
-#: kdeui/widgets/ktoolbar.cpp:258
+#: kdeui/widgets/ktoolbar.cpp:260
 msgid "Text Position"
 msgstr "Positioun vum Text"
 
-#: kdeui/widgets/ktoolbar.cpp:261
+#: kdeui/widgets/ktoolbar.cpp:263
 msgid "Icons Only"
 msgstr "Nëmme Symboler"
 
-#: kdeui/widgets/ktoolbar.cpp:263
+#: kdeui/widgets/ktoolbar.cpp:265
 msgid "Text Only"
 msgstr "Nëmmen Text"
 
-#: kdeui/widgets/ktoolbar.cpp:264
+#: kdeui/widgets/ktoolbar.cpp:266
 msgid "Text Alongside Icons"
 msgstr "Text nierwt de Symboler"
 
-#: kdeui/widgets/ktoolbar.cpp:265
+#: kdeui/widgets/ktoolbar.cpp:267
 msgid "Text Under Icons"
 msgstr "Text ënnert de Symboler"
 
-#: kdeui/widgets/ktoolbar.cpp:273
+#: kdeui/widgets/ktoolbar.cpp:275
 msgid "Icon Size"
 msgstr "Gréisst vum Symbol"
 
-#: kdeui/widgets/ktoolbar.cpp:296 kdeui/widgets/ktoolbar.cpp:316
+#: kdeui/widgets/ktoolbar.cpp:298 kdeui/widgets/ktoolbar.cpp:318
 #, kde-format
 msgid "Small (%1x%2)"
 msgstr "Kleng (%1x%2)"
 
-#: kdeui/widgets/ktoolbar.cpp:298 kdeui/widgets/ktoolbar.cpp:318
+#: kdeui/widgets/ktoolbar.cpp:300 kdeui/widgets/ktoolbar.cpp:320
 #, kde-format
 msgid "Medium (%1x%2)"
 msgstr "Mëttel (%1x%2)"
 
-#: kdeui/widgets/ktoolbar.cpp:300 kdeui/widgets/ktoolbar.cpp:320
+#: kdeui/widgets/ktoolbar.cpp:302 kdeui/widgets/ktoolbar.cpp:322
 #, kde-format
 msgid "Large (%1x%2)"
 msgstr "Grouss (%1x%2)"
 
-#: kdeui/widgets/ktoolbar.cpp:302 kdeui/widgets/ktoolbar.cpp:322
+#: kdeui/widgets/ktoolbar.cpp:304 kdeui/widgets/ktoolbar.cpp:324
 #, kde-format
 msgid "Huge (%1x%2)"
 msgstr "Risëg (%1x%2)"
 
-#: kdeui/widgets/ktoolbar.cpp:342 kdeui/widgets/ktoolbar.cpp:1373
+#: kdeui/widgets/ktoolbar.cpp:344 kdeui/widgets/ktoolbar.cpp:1377
 #, fuzzy
 msgid "Unlock Toolbars"
 msgstr "Toolbaren"
 
-#: kdeui/widgets/ktoolbar.cpp:342 kdeui/widgets/ktoolbar.cpp:1373
+#: kdeui/widgets/ktoolbar.cpp:344 kdeui/widgets/ktoolbar.cpp:1377
 #, fuzzy
 msgid "Lock Toolbars"
 msgstr "Toolbaren"
 
-#: kdeui/widgets/ktoolbar.cpp:1284
+#: kdeui/widgets/ktoolbar.cpp:1288
 #, fuzzy, kde-format
 #| msgid "%1%"
 msgctxt "@action:intoolbar Text label of toolbar button"
 msgid "%1"
 msgstr "%1%"
 
-#: kdeui/widgets/ktoolbar.cpp:1285
+#: kdeui/widgets/ktoolbar.cpp:1289
 #, fuzzy, kde-format
 #| msgid "%1%"
 msgctxt "@info:tooltip Tooltip of toolbar button"
@@ -10997,7 +10997,7 @@ msgstr ""
 "<qt>De Formular gëtt no<BR><B>%1</B><BR>op ärem lokalen Dateiesystem "
 "verschéckt ginn.<BR>Wëllt dir de Formular ofsenden?"
 
-#: khtml/khtml_part.cpp:4782 khtml/khtmlview.cpp:2880 khtml/khtmlview.cpp:2922
+#: khtml/khtml_part.cpp:4782 khtml/khtmlview.cpp:2873 khtml/khtmlview.cpp:2915
 #: khtml/html/html_formimpl.cpp:1572 khtml/html/html_formimpl.cpp:2180
 msgid "Submit"
 msgstr "Verschécken"
@@ -11123,39 +11123,39 @@ msgstr "Op d'Zeil &goen..."
 msgid "Remove from ignores..."
 msgstr ""
 
-#: khtml/khtmlview.cpp:1847
+#: khtml/khtmlview.cpp:1840
 msgid "Find stopped."
 msgstr "Sicht opgehal."
 
-#: khtml/khtmlview.cpp:1858
+#: khtml/khtmlview.cpp:1851
 msgid "Starting -- find links as you type"
 msgstr "Startvirgang -- Linke beim antippen ergänzen"
 
-#: khtml/khtmlview.cpp:1864
+#: khtml/khtmlview.cpp:1857
 msgid "Starting -- find text as you type"
 msgstr "Startvirgang -- Text beim antippen ergänzen"
 
-#: khtml/khtmlview.cpp:1887
+#: khtml/khtmlview.cpp:1880
 #, kde-format
 msgid "Link found: \"%1\"."
 msgstr "Link fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1892
+#: khtml/khtmlview.cpp:1885
 #, kde-format
 msgid "Link not found: \"%1\"."
 msgstr "Link net fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1900
+#: khtml/khtmlview.cpp:1893
 #, kde-format
 msgid "Text found: \"%1\"."
 msgstr "Text fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1905
+#: khtml/khtmlview.cpp:1898
 #, kde-format
 msgid "Text not found: \"%1\"."
 msgstr "Text net fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1951
+#: khtml/khtmlview.cpp:1944
 msgid "Access Keys activated"
 msgstr "Kuerztasten ugeschalt"
 
@@ -11230,7 +11230,7 @@ msgctxt "Next breakpoint"
 msgid "Next"
 msgstr "Nächsten"
 
-#: khtml/ecma/kjs_debugwin.cpp:848
+#: khtml/ecma/kjs_debugwin.cpp:848 khtml/ecma/debugger/debugwindow.cpp:593
 #, kde-format
 msgid "Parse error at %1 line %2"
 msgstr "Parsing-Feeler bei %1, Zeil %2"
@@ -11247,7 +11247,7 @@ msgstr ""
 "\n"
 "%1"
 
-#: khtml/ecma/kjs_debugwin.cpp:870 khtml/ecma/debugger/debugwindow.cpp:608
+#: khtml/ecma/kjs_debugwin.cpp:870 khtml/ecma/debugger/debugwindow.cpp:629
 #, kde-format
 msgid ""
 "An error occurred while attempting to run a script on this page.\n"
@@ -11364,14 +11364,14 @@ msgstr ""
 "<qt>Dëss Säit probéiert, e Formular ofzeschécken, deen iwwer JavaScript <p>%"
 "1</p> an enger neier Fënster opmëcht.<br/>Wëllt dir dat zouloossen?</qt>"
 
-#: khtml/ecma/debugger/debugdocument.cpp:193
+#: khtml/ecma/debugger/debugdocument.cpp:210
 #: khtml/ecma/debugger/debugwindow.cpp:127
 msgid ""
 "A KDE text-editor component could not be found;\n"
 "please check your KDE installation."
 msgstr ""
 
-#: khtml/ecma/debugger/debugdocument.cpp:310
+#: khtml/ecma/debugger/debugdocument.cpp:327
 msgid "Breakpoints"
 msgstr ""
 
