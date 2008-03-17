@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-03-15 19:55+0100\n"
+"POT-Creation-Date: 2008-03-17 06:11+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -6216,7 +6216,7 @@ msgid "Reset ToolBars"
 msgstr "Toolbaren zerécksetzen"
 
 #: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2864
-#: khtml/khtmlview.cpp:2897 khtml/html/html_formimpl.cpp:2171
+#: khtml/khtmlview.cpp:2897 khtml/html/html_formimpl.cpp:2183
 msgid "Reset"
 msgstr "Zerécksetzen"
 
@@ -10863,7 +10863,7 @@ msgstr ""
 "verschéckt ginn.<BR>Wëllt dir de Formular ofsenden?"
 
 #: khtml/khtml_part.cpp:4782 khtml/khtmlview.cpp:2850 khtml/khtmlview.cpp:2892
-#: khtml/html/html_formimpl.cpp:1571 khtml/html/html_formimpl.cpp:2179
+#: khtml/html/html_formimpl.cpp:1583 khtml/html/html_formimpl.cpp:2191
 msgid "Submit"
 msgstr "Verschécken"
 
@@ -11045,7 +11045,7 @@ msgstr "fatale Parsing-Feeler: %1, Zeil %2, Kolonn %3"
 msgid "XML parsing error"
 msgstr "XML Parsing-Feeler"
 
-#: khtml/xml/dom_docimpl.cpp:2127
+#: khtml/xml/dom_docimpl.cpp:2128
 msgid "Basic Page Style"
 msgstr "Grondstil"
 
@@ -11402,7 +11402,7 @@ msgstr ""
 "d'Umeldungsinformatioun opruffen, wann dir fir d'nächst Kéier d'Säit %"
 "1besicht. Wëllt dir d'Informatioun elo späicheren?"
 
-#: khtml/html/html_formimpl.cpp:2560
+#: khtml/html/html_formimpl.cpp:2572
 #, fuzzy
 #| msgid "General"
 msgid "Key Generator"
@@ -11526,7 +11526,7 @@ msgstr "Abettungsfäheg Komponent fir multipart/mixed"
 msgid "Copyright 2001, David Faure <email>david@mandrakesoft.com</email>"
 msgstr ""
 
-#: kinit/kinit.cpp:411
+#: kinit/kinit.cpp:412
 msgid ""
 "Unable to start new process.\n"
 "The system may have reached the maximum number of open files possible or the "
@@ -11536,7 +11536,7 @@ msgstr ""
 "Déi maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn oder déi vun "
 "iech agestallte maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn."
 
-#: kinit/kinit.cpp:432
+#: kinit/kinit.cpp:433
 msgid ""
 "Unable to create new process.\n"
 "The system may have reached the maximum number of processes possible or the "
@@ -11546,12 +11546,12 @@ msgstr ""
 "Déi maximal Unzuel vu Prozesser kéint erreecht sinn oder déi vun iech "
 "agestallte maximal Unzuel vu Prozesser kéint erreecht sinn."
 
-#: kinit/kinit.cpp:527
+#: kinit/kinit.cpp:528
 #, kde-format
 msgid "Could not find '%1' executable."
 msgstr "Konnt de Programm '%1' net fannen."
 
-#: kinit/kinit.cpp:545
+#: kinit/kinit.cpp:546
 #, kde-format
 msgid ""
 "Could not open library '%1'.\n"
@@ -11560,7 +11560,7 @@ msgstr ""
 "Konnt d'Bibliothéik '%1' net opmaachen.\n"
 "%2"
 
-#: kinit/kinit.cpp:591
+#: kinit/kinit.cpp:592
 #, kde-format
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
