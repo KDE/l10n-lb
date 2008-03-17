@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-03-15 23:49+0100\n"
+"POT-Creation-Date: 2008-03-17 08:36+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -5960,7 +5960,7 @@ msgstr "Eegeschaften"
 msgid "Front"
 msgstr "Vir"
 
-#: kdeui/util/kkeyserver_x11.cpp:114 kfile/kurlbutton.cpp:86
+#: kdeui/util/kkeyserver_x11.cpp:114 kfile/kurlbutton.cpp:88
 msgid "Copy"
 msgstr "Kopéieren"
 
@@ -5968,7 +5968,7 @@ msgstr "Kopéieren"
 msgid "Open"
 msgstr "Opmaachen"
 
-#: kdeui/util/kkeyserver_x11.cpp:116 kfile/kurlbutton.cpp:90
+#: kdeui/util/kkeyserver_x11.cpp:116 kfile/kurlbutton.cpp:92
 msgid "Paste"
 msgstr "Peschen"
 
@@ -6230,7 +6230,7 @@ msgid "Reset ToolBars"
 msgstr "Toolbaren zerécksetzen"
 
 #: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2885
-#: khtml/khtmlview.cpp:2918 khtml/html/html_formimpl.cpp:2172
+#: khtml/khtmlview.cpp:2918 khtml/html/html_formimpl.cpp:2184
 msgid "Reset"
 msgstr "Zerécksetzen"
 
@@ -10247,11 +10247,11 @@ msgstr "Klickt hei, fir eng Schrëft ze wielen"
 msgid "Click to Edit Location"
 msgstr "Klickt hei, fir eng Schrëft ze wielen"
 
-#: kfile/kurlbutton.cpp:97 kross/ui/view.cpp:504
+#: kfile/kurlbutton.cpp:99 kross/ui/view.cpp:504
 msgid "Edit"
 msgstr "Veränneren"
 
-#: kfile/kurlbutton.cpp:100
+#: kfile/kurlbutton.cpp:102
 #, fuzzy
 #| msgid "Navigation"
 msgid "Navigate"
@@ -10998,7 +10998,7 @@ msgstr ""
 "verschéckt ginn.<BR>Wëllt dir de Formular ofsenden?"
 
 #: khtml/khtml_part.cpp:4782 khtml/khtmlview.cpp:2871 khtml/khtmlview.cpp:2913
-#: khtml/html/html_formimpl.cpp:1572 khtml/html/html_formimpl.cpp:2180
+#: khtml/html/html_formimpl.cpp:1584 khtml/html/html_formimpl.cpp:2192
 msgid "Submit"
 msgstr "Verschécken"
 
@@ -11180,7 +11180,7 @@ msgstr "fatale Parsing-Feeler: %1, Zeil %2, Kolonn %3"
 msgid "XML parsing error"
 msgstr "XML Parsing-Feeler"
 
-#: khtml/xml/dom_docimpl.cpp:2127
+#: khtml/xml/dom_docimpl.cpp:2128
 msgid "Basic Page Style"
 msgstr "Grondstil"
 
@@ -11537,7 +11537,7 @@ msgstr ""
 "d'Umeldungsinformatioun opruffen, wann dir fir d'nächst Kéier d'Säit %"
 "1besicht. Wëllt dir d'Informatioun elo späicheren?"
 
-#: khtml/html/html_formimpl.cpp:2561
+#: khtml/html/html_formimpl.cpp:2573
 #, fuzzy
 #| msgid "General"
 msgid "Key Generator"
@@ -11661,7 +11661,7 @@ msgstr "Abettungsfäheg Komponent fir multipart/mixed"
 msgid "Copyright 2001, David Faure <email>david@mandrakesoft.com</email>"
 msgstr ""
 
-#: kinit/kinit.cpp:463
+#: kinit/kinit.cpp:464
 msgid ""
 "Unable to start new process.\n"
 "The system may have reached the maximum number of open files possible or the "
@@ -11671,7 +11671,7 @@ msgstr ""
 "Déi maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn oder déi vun "
 "iech agestallte maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn."
 
-#: kinit/kinit.cpp:484
+#: kinit/kinit.cpp:485
 msgid ""
 "Unable to create new process.\n"
 "The system may have reached the maximum number of processes possible or the "
@@ -11681,12 +11681,12 @@ msgstr ""
 "Déi maximal Unzuel vu Prozesser kéint erreecht sinn oder déi vun iech "
 "agestallte maximal Unzuel vu Prozesser kéint erreecht sinn."
 
-#: kinit/kinit.cpp:579
+#: kinit/kinit.cpp:580
 #, kde-format
 msgid "Could not find '%1' executable."
 msgstr "Konnt de Programm '%1' net fannen."
 
-#: kinit/kinit.cpp:597
+#: kinit/kinit.cpp:598
 #, kde-format
 msgid ""
 "Could not open library '%1'.\n"
@@ -11695,7 +11695,7 @@ msgstr ""
 "Konnt d'Bibliothéik '%1' net opmaachen.\n"
 "%2"
 
-#: kinit/kinit.cpp:643
+#: kinit/kinit.cpp:644
 #, kde-format
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
