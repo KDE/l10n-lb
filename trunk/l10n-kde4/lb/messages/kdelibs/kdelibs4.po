@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-03-19 11:15+0100\n"
+"POT-Creation-Date: 2008-03-20 08:05+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -11975,34 +11975,28 @@ msgstr ""
 msgid "Daniel Molkentin"
 msgstr ""
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:170
-#, fuzzy
-#| msgid "Valid Resource"
-msgid "Tag Resource"
-msgstr "Gülteg Ressource"
-
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:183
+#: nepomuk/core/ui/kmetadatatagwidget.cpp:198
 msgid "Create New Tag..."
 msgstr ""
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:188
+#: nepomuk/core/ui/kmetadatatagwidget.cpp:204
 #, fuzzy
 #| msgid "New Game"
 msgid "New Tag"
 msgstr "Neit Spill"
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:188
+#: nepomuk/core/ui/kmetadatatagwidget.cpp:204
 #, fuzzy
 #| msgid "Please select type of the new resource:"
 msgid "Please insert the name of the new tag:"
 msgstr "Wielt w.e.g. den Typ vum neie Modul:"
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:197
+#: nepomuk/core/ui/kmetadatatagwidget.cpp:213
 #, kde-format
 msgid "The tag %1 already exists"
 msgstr ""
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:197
+#: nepomuk/core/ui/kmetadatatagwidget.cpp:213
 #, fuzzy
 msgid "Tag Exists"
 msgstr "Test"
@@ -13361,6 +13355,11 @@ msgid ""
 msgstr ""
 "<qt><font size=\"+4\" face=\"%1\">%2</font> <br>Unicode Code Point: U+ %3<br>"
 "(an Dezimal: %4)<br>(Zeechen: %5)</qt>"
+
+#, fuzzy
+#~| msgid "Valid Resource"
+#~ msgid "Tag Resource"
+#~ msgstr "Gülteg Ressource"
 
 #~ msgid "Show Toolbar"
 #~ msgstr "Toolbar weisen"
