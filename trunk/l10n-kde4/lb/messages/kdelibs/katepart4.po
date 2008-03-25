@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-03-17 08:36+0100\n"
+"POT-Creation-Date: 2008-03-25 14:14+0100\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -5774,11 +5774,11 @@ msgstr ""
 msgid "Binary File Opened"
 msgstr "Binär Datei opgemat"
 
-#: document/katedocument.cpp:3497 document/katedocument.cpp:3503
+#: document/katedocument.cpp:3497
 #, kde-format
 msgid ""
 "The file %1 was opened with UTF-8 encoding but contained invalid characters. "
-"It is set to read-only mode, as saving might destroy it's content. Either "
+"It is set to read-only mode, as saving might destroy its content. Either "
 "reopen the file with the correct encoding chosen or enable the read-write "
 "mode again in the menu to be able to edit it."
 msgstr ""
@@ -5787,6 +5787,15 @@ msgstr ""
 #, fuzzy
 msgid "Broken UTF-8 File Opened"
 msgstr "Binär Datei opgemat"
+
+#: document/katedocument.cpp:3503
+#, kde-format
+msgid ""
+"The file %1 was opened with UTF-8 encoding but contained invalid characters. "
+"It is set to read-only mode, as saving might destroy it's content. Either "
+"reopen the file with the correct encoding chosen or enable the read-write "
+"mode again in the menu to be able to edit it."
+msgstr ""
 
 #: document/katedocument.cpp:3523
 msgid "Trying to Save Binary File"
