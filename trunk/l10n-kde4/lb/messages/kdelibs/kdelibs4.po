@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-03-31 20:05+0200\n"
+"POT-Creation-Date: 2008-04-02 16:21+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -640,7 +640,7 @@ msgstr "&Réckelen"
 #. i18n: file ./kdeui/xmlgui/ui_standards.rc line 100
 #. i18n: tag text
 #. i18n: file ./khtml/khtml_browser.rc line 20
-#: rc.cpp:240 rc.cpp:381 kfile/kdiroperator.cpp:1648
+#: rc.cpp:240 rc.cpp:381 kfile/kdiroperator.cpp:1649
 msgid "&View"
 msgstr "&Usiicht"
 
@@ -2196,7 +2196,7 @@ msgstr ""
 msgid "Unable to open temporary file."
 msgstr "D'Datei konnt net gespaart ginn."
 
-#: kdecore/io/ksavefile.cpp:208
+#: kdecore/io/ksavefile.cpp:212
 #, fuzzy
 msgid "Error during rename."
 msgstr "Feeler beim Opmaache vun der Datei."
@@ -3858,6 +3858,27 @@ msgstr ""
 msgid "Could not Launch Browser"
 msgstr "Konnt de Browser net starten"
 
+#: kdecore/kernel/ktoolinvocation_x11.cpp:390
+#, fuzzy, kde-format
+#| msgid ""
+#| "Could not launch the mail client:\n"
+#| "\n"
+#| "%1"
+msgid ""
+"Could not launch the terminal client:\n"
+"\n"
+"%1"
+msgstr ""
+"Konnt de Mailprogramm net starten:\n"
+"\n"
+"%1"
+
+#: kdecore/kernel/ktoolinvocation_x11.cpp:391
+#, fuzzy
+#| msgid "Could not Launch Mail Client"
+msgid "Could not Launch Terminal Client"
+msgstr "Konnt de Mailprogramm net starten"
+
 #: kdecore/kernel/kaboutdata.cpp:256
 msgid ""
 "No licensing terms for this program have been specified.\n"
@@ -5094,7 +5115,7 @@ msgid "Translate this entry"
 msgstr "Iwwersetzung"
 
 #: knewstuff/knewstuff2/ui/kdxstranslation.cpp:48
-#: knewstuff/knewstuff2/ui/providerdialog.cpp:70
+#: knewstuff/knewstuff2/ui/providerdialog.cpp:70 dnssd/servicemodel.cpp:101
 msgid "Name"
 msgstr "Numm"
 
@@ -5119,7 +5140,7 @@ msgstr "Nei Saache sharen"
 msgid "Please give some information about yourself."
 msgstr ""
 
-#: knewstuff/knewstuff2/ui/uploaddialog.cpp:67 kutils/kpluginselector.cpp:1675
+#: knewstuff/knewstuff2/ui/uploaddialog.cpp:67 kutils/kpluginselector.cpp:1667
 msgid "Author:"
 msgstr "Auteur:"
 
@@ -5139,11 +5160,11 @@ msgid "Name:"
 msgstr "Numm:"
 
 #: knewstuff/knewstuff2/ui/uploaddialog.cpp:85
-#: kdeui/dialogs/kbugreport.cpp:205 kutils/kpluginselector.cpp:1719
+#: kdeui/dialogs/kbugreport.cpp:205 kutils/kpluginselector.cpp:1711
 msgid "Version:"
 msgstr "Versioun:"
 
-#: knewstuff/knewstuff2/ui/uploaddialog.cpp:90 kutils/kpluginselector.cpp:1728
+#: knewstuff/knewstuff2/ui/uploaddialog.cpp:90 kutils/kpluginselector.cpp:1720
 msgid "License:"
 msgstr "Lizenz:"
 
@@ -5529,6 +5550,18 @@ msgstr ""
 "no, ob den <i>gpg</i> installéiert ass, well soss kënnen déi erofgeluede "
 "Ressourcen net ënnerschriwwe ginn.</qt>"
 
+#: dnssd/servicemodel.cpp:102
+#, fuzzy
+#| msgid "Host:"
+msgid "Host"
+msgstr "Host:"
+
+#: dnssd/servicemodel.cpp:103
+#, fuzzy
+#| msgid "Port:"
+msgid "Port"
+msgstr "Port:"
+
 #: kdeui/jobs/kstatusbarjobtracker.cpp:237
 msgid " Stalled "
 msgstr ""
@@ -5912,7 +5945,7 @@ msgstr "Ewechmaachen"
 msgid "Test"
 msgstr "Test"
 
-#: kdeui/util/kstandardguiitem.cpp:285 kfile/kdiroperator.cpp:1641
+#: kdeui/util/kstandardguiitem.cpp:285 kfile/kdiroperator.cpp:1642
 msgid "Properties"
 msgstr "Eegeschaften"
 
@@ -9483,14 +9516,14 @@ msgstr ""
 "D'Tastekombinatioun \"%1\" ass scho mat der Aktioun \"%2\" verbonn. Wielt w."
 "e.g. eng eendaiteg Kombinatioun."
 
-#: kdeui/widgets/kkeysequencewidget.cpp:362
+#: kdeui/widgets/kkeysequencewidget.cpp:368
 #, fuzzy
 #| msgid "Input file"
 msgctxt "What the user inputs now will be taken as the new shortcut"
 msgid "Input"
 msgstr "Quelldatei"
 
-#: kdeui/widgets/kkeysequencewidget.cpp:369
+#: kdeui/widgets/kkeysequencewidget.cpp:375
 #, fuzzy
 #| msgid "None"
 msgctxt "No shortcut defined"
@@ -9978,8 +10011,8 @@ msgstr "E Feeler ass beim Luede vun <B>%1</B> opgetrueden:"
 msgid "Custom Path"
 msgstr "Benotzerdefinéiert"
 
-#: kfile/kdirselectdialog.cpp:115 kfile/kdiroperator.cpp:642
-#: kfile/kdiroperator.cpp:650
+#: kfile/kdirselectdialog.cpp:115 kfile/kdiroperator.cpp:643
+#: kfile/kdiroperator.cpp:651
 msgid "New Folder"
 msgstr ""
 
@@ -9998,12 +10031,12 @@ msgid ""
 "%1"
 msgstr ""
 
-#: kfile/kdirselectdialog.cpp:143 kfile/kdiroperator.cpp:677
+#: kfile/kdirselectdialog.cpp:143 kfile/kdiroperator.cpp:678
 #, kde-format
 msgid "A file or folder named %1 already exists."
 msgstr ""
 
-#: kfile/kdirselectdialog.cpp:147 kfile/kdiroperator.cpp:680
+#: kfile/kdirselectdialog.cpp:147 kfile/kdiroperator.cpp:681
 msgid "You do not have permission to create that folder."
 msgstr ""
 
@@ -10085,23 +10118,23 @@ msgid ""
 "entry will be available in all applications.</qt>"
 msgstr ""
 
-#: kfile/kdiroperator.cpp:651
+#: kfile/kdiroperator.cpp:652
 #, kde-format
 msgid ""
 "Create new folder in:\n"
 "%1"
 msgstr ""
 
-#: kfile/kdiroperator.cpp:695
+#: kfile/kdiroperator.cpp:696
 msgid "You did not select a file to delete."
 msgstr ""
 
-#: kfile/kdiroperator.cpp:696
+#: kfile/kdiroperator.cpp:697
 #, fuzzy
 msgid "Nothing to Delete"
 msgstr "Kee Provider gewielt."
 
-#: kfile/kdiroperator.cpp:717
+#: kfile/kdiroperator.cpp:718
 #, fuzzy, kde-format
 #| msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgid ""
@@ -10109,13 +10142,13 @@ msgid ""
 " <b>'%1'</b>?</qt>"
 msgstr "<qt>Sidd dir sëcher, dass dir <b>%1</b> zoumaache wëllt ?</qt>"
 
-#: kfile/kdiroperator.cpp:719
+#: kfile/kdiroperator.cpp:720
 #, fuzzy
 #| msgid "Delete All"
 msgid "Delete File"
 msgstr "Alles Läschen"
 
-#: kfile/kdiroperator.cpp:724
+#: kfile/kdiroperator.cpp:725
 #, fuzzy, kde-format
 #| msgid "Do you really want to execute '%1'? "
 msgid "Do you really want to delete this item?"
@@ -10123,21 +10156,21 @@ msgid_plural "Do you really want to delete these %1 items?"
 msgstr[0] "Wëllt dir '%1' wiirklech lafe loossen? "
 msgstr[1] "Wëllt dir '%1' wiirklech lafe loossen? "
 
-#: kfile/kdiroperator.cpp:726
+#: kfile/kdiroperator.cpp:727
 #, fuzzy
 #| msgid "Delete item(s)"
 msgid "Delete Files"
 msgstr "Element(er) läschen"
 
-#: kfile/kdiroperator.cpp:757
+#: kfile/kdiroperator.cpp:758
 msgid "You did not select a file to trash."
 msgstr ""
 
-#: kfile/kdiroperator.cpp:758
+#: kfile/kdiroperator.cpp:759
 msgid "Nothing to Trash"
 msgstr ""
 
-#: kfile/kdiroperator.cpp:775
+#: kfile/kdiroperator.cpp:776
 #, fuzzy, kde-format
 #| msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgid ""
@@ -10145,121 +10178,121 @@ msgid ""
 " <b>'%1'</b>?</qt>"
 msgstr "<qt>Sidd dir sëcher, dass dir <b>%1</b> zoumaache wëllt ?</qt>"
 
-#: kfile/kdiroperator.cpp:777
+#: kfile/kdiroperator.cpp:778
 #, fuzzy
 #| msgid "Trash"
 msgid "Trash File"
 msgstr "Dreckskëscht"
 
-#: kfile/kdiroperator.cpp:778 kfile/kdiroperator.cpp:785
+#: kfile/kdiroperator.cpp:779 kfile/kdiroperator.cpp:786
 #, fuzzy
 #| msgid "Trash"
 msgctxt "to trash"
 msgid "&Trash"
 msgstr "Dreckskëscht"
 
-#: kfile/kdiroperator.cpp:782
+#: kfile/kdiroperator.cpp:783
 #, kde-format
 msgid "translators: not called for n == 1"
 msgid_plural "Do you really want to trash these %1 items?"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kfile/kdiroperator.cpp:784
+#: kfile/kdiroperator.cpp:785
 #, fuzzy
 #| msgid "Files"
 msgid "Trash Files"
 msgstr "Dateien"
 
-#: kfile/kdiroperator.cpp:907 kfile/kdiroperator.cpp:1020
+#: kfile/kdiroperator.cpp:908 kfile/kdiroperator.cpp:1021
 msgid "The specified folder does not exist or was not readable."
 msgstr ""
 
-#: kfile/kdiroperator.cpp:1553
+#: kfile/kdiroperator.cpp:1554
 #, fuzzy
 #| msgctxt "QAccel"
 #| msgid "Menu"
 msgid "Menu"
 msgstr "Menü"
 
-#: kfile/kdiroperator.cpp:1557
+#: kfile/kdiroperator.cpp:1558
 #, fuzzy
 #| msgid "Print header"
 msgid "Parent Folder"
 msgstr "Header drécken"
 
-#: kfile/kdiroperator.cpp:1564
+#: kfile/kdiroperator.cpp:1565
 #, fuzzy
 #| msgid "Home Phone"
 msgid "Home Folder"
 msgstr "Tëlefon (Doheem)"
 
-#: kfile/kdiroperator.cpp:1567
+#: kfile/kdiroperator.cpp:1568
 msgid "Reload"
 msgstr "Nach eng Kéier lueden"
 
-#: kfile/kdiroperator.cpp:1570
+#: kfile/kdiroperator.cpp:1571
 msgid "New Folder..."
 msgstr ""
 
-#: kfile/kdiroperator.cpp:1575
+#: kfile/kdiroperator.cpp:1576
 msgid "Move to Trash"
 msgstr ""
 
-#: kfile/kdiroperator.cpp:1581
+#: kfile/kdiroperator.cpp:1582
 msgid "Delete"
 msgstr "Läschen"
 
-#: kfile/kdiroperator.cpp:1588
+#: kfile/kdiroperator.cpp:1589
 #, fuzzy
 #| msgid "Sort String"
 msgid "Sorting"
 msgstr "Sortéierungsschlëssel"
 
-#: kfile/kdiroperator.cpp:1591
+#: kfile/kdiroperator.cpp:1592
 #, fuzzy
 #| msgid "Name"
 msgid "By Name"
 msgstr "Numm"
 
-#: kfile/kdiroperator.cpp:1595
+#: kfile/kdiroperator.cpp:1596
 #, fuzzy
 #| msgid "Size"
 msgid "By Size"
 msgstr "Gréisst"
 
-#: kfile/kdiroperator.cpp:1599
+#: kfile/kdiroperator.cpp:1600
 #, fuzzy
 #| msgid "Dates"
 msgid "By Date"
 msgstr "Datum"
 
-#: kfile/kdiroperator.cpp:1603
+#: kfile/kdiroperator.cpp:1604
 #, fuzzy
 #| msgid "Type"
 msgid "By Type"
 msgstr "Typ"
 
-#: kfile/kdiroperator.cpp:1607
+#: kfile/kdiroperator.cpp:1608
 msgid "Descending"
 msgstr ""
 
-#: kfile/kdiroperator.cpp:1617
+#: kfile/kdiroperator.cpp:1618
 msgid "Short View"
 msgstr ""
 
-#: kfile/kdiroperator.cpp:1622
+#: kfile/kdiroperator.cpp:1623
 #, fuzzy
 #| msgid "Details"
 msgid "Detailed View"
 msgstr "Detailer"
 
-#: kfile/kdiroperator.cpp:1631
+#: kfile/kdiroperator.cpp:1632
 #, fuzzy
 msgid "Show Hidden Files"
 msgstr "Hëllef weisen"
 
-#: kfile/kdiroperator.cpp:1635
+#: kfile/kdiroperator.cpp:1636
 msgid "Show Preview"
 msgstr ""
 
@@ -10847,7 +10880,7 @@ msgstr "Datum an Zäit: %1"
 msgid "Additional Information: %1"
 msgstr "Zousätzlech Informatioun: %1"
 
-#: khtml/khtml_part.cpp:1748 kutils/kpluginselector.cpp:1665
+#: khtml/khtml_part.cpp:1748 kutils/kpluginselector.cpp:1657
 msgid "Description:"
 msgstr "Beschreiwung:"
 
@@ -11204,7 +11237,7 @@ msgstr "fatale Parsing-Feeler: %1, Zeil %2, Kolonn %3"
 msgid "XML parsing error"
 msgstr "XML Parsing-Feeler"
 
-#: khtml/xml/dom_docimpl.cpp:2157
+#: khtml/xml/dom_docimpl.cpp:2162
 msgid "Basic Page Style"
 msgstr "Grondstil"
 
@@ -11728,7 +11761,7 @@ msgstr ""
 "Konnt de 'kdemain' am '%1' net fannen.\n"
 "%2"
 
-#: kinit/klauncher_main.cpp:54
+#: kinit/klauncher_main.cpp:56
 #, fuzzy
 #| msgid ""
 #| "klauncher: This program is not supposed to be started manually.\n"
@@ -11740,32 +11773,32 @@ msgstr ""
 "KLauncher: Dëse Programm sollt am Fong net manuell gestart ginn.\n"
 "E gëtt vu kdeinit automatësch opgeruff.\n"
 
-#: kinit/klauncher.cpp:490
+#: kinit/klauncher.cpp:488
 #, kde-format
 msgid "KDEInit could not launch '%1'."
 msgstr "KDEInit konnt '%1' net starten."
 
-#: kinit/klauncher.cpp:656 kinit/klauncher.cpp:681 kinit/klauncher.cpp:696
+#: kinit/klauncher.cpp:653 kinit/klauncher.cpp:678 kinit/klauncher.cpp:693
 #, kde-format
 msgid "Could not find service '%1'."
 msgstr "Konnt de Service '%1' net fannen."
 
-#: kinit/klauncher.cpp:712 kinit/klauncher.cpp:748
+#: kinit/klauncher.cpp:709 kinit/klauncher.cpp:745
 #, kde-format
 msgid "Service '%1' is malformatted."
 msgstr "De Service '%1' huet ën ongültege Format."
 
-#: kinit/klauncher.cpp:820
+#: kinit/klauncher.cpp:817
 #, kde-format
 msgid "Launching %1"
 msgstr "%1 gëtt gestart"
 
-#: kinit/klauncher.cpp:1024
+#: kinit/klauncher.cpp:1021
 #, kde-format
 msgid "Unknown protocol '%1'.\n"
 msgstr "Onbekannte Protokoll '%1'.\n"
 
-#: kinit/klauncher.cpp:1085
+#: kinit/klauncher.cpp:1082
 #, kde-format
 msgid "Error loading '%1'.\n"
 msgstr "Feeler beim Luede vun '%1'.\n"
@@ -12273,19 +12306,19 @@ msgstr[1] ""
 msgid " since the last time you asked for details"
 msgstr ""
 
-#: kutils/kpluginselector.cpp:1649
+#: kutils/kpluginselector.cpp:1641
 #, fuzzy, kde-format
 #| msgid "About %1"
 msgid "About %1 plugin"
 msgstr "Iwwer %1"
 
-#: kutils/kpluginselector.cpp:1683
+#: kutils/kpluginselector.cpp:1675
 #, fuzzy
 #| msgid "Email"
 msgid "Email:"
 msgstr "E-Mail"
 
-#: kutils/kpluginselector.cpp:1701
+#: kutils/kpluginselector.cpp:1693
 msgid "Website:"
 msgstr ""
 
@@ -12375,51 +12408,51 @@ msgstr ""
 msgid "Must supply a layout name."
 msgstr ""
 
-#: kjsembed/kjsembed/qobject_binding.cpp:117
+#: kjsembed/kjsembed/qobject_binding.cpp:118
 msgid "Wrong object type."
 msgstr ""
 
-#: kjsembed/kjsembed/qobject_binding.cpp:125
+#: kjsembed/kjsembed/qobject_binding.cpp:126
 msgid "First argument must be a QObject."
 msgstr ""
 
-#: kjsembed/kjsembed/qobject_binding.cpp:162
+#: kjsembed/kjsembed/qobject_binding.cpp:163
 msgid "Incorrect number of arguments."
 msgstr ""
 
-#: kjsembed/kjsembed/qobject_binding.cpp:410
+#: kjsembed/kjsembed/qobject_binding.cpp:411
 #, kde-format
 msgid ""
 "The slot asked for %1 arguments but there are only %2 arguments available."
 msgstr ""
 
-#: kjsembed/kjsembed/qobject_binding.cpp:604
+#: kjsembed/kjsembed/qobject_binding.cpp:612
 #, kde-format
 msgid "Failure to cast to %1 value from Type %2 (%3)"
 msgstr ""
 
-#: kjsembed/kjsembed/qobject_binding.cpp:639
+#: kjsembed/kjsembed/qobject_binding.cpp:647
 #, fuzzy, kde-format
 msgid "No such method '%1'."
 msgstr "D'Entrée '%1' ass net am Menü."
 
-#: kjsembed/kjsembed/qobject_binding.cpp:654
+#: kjsembed/kjsembed/qobject_binding.cpp:662
 #, kde-format
 msgid "Call to method '%1' failed, unable to get argument %2: %3"
 msgstr ""
 
-#: kjsembed/kjsembed/qobject_binding.cpp:669
+#: kjsembed/kjsembed/qobject_binding.cpp:677
 #, fuzzy, kde-format
 msgid "Call to '%1' failed."
 msgstr "Installatioun net gaang."
 
-#: kjsembed/kjsembed/qobject_binding.cpp:758
+#: kjsembed/kjsembed/qobject_binding.cpp:766
 #: kjsembed/kjsembed/object_binding.h:219
 #, fuzzy, kde-format
 msgid "%1 is not an Object type"
 msgstr "Basis ass keen Objekt"
 
-#: kjsembed/kjsembed/qobject_binding.cpp:764
+#: kjsembed/kjsembed/qobject_binding.cpp:772
 #, fuzzy
 msgid "Could not construct value"
 msgstr "Konnt d'Datei net opmaachen."
@@ -13391,7 +13424,7 @@ msgstr ""
 "<qt><font size=\"+4\" face=\"%1\">%2</font> <br>Unicode Code Point: U+ %3<br>"
 "(an Dezimal: %4)<br>(Zeechen: %5)</qt>"
 
-#: kross/qts/values_p.h:68
+#: kross/qts/values_p.h:69
 #, fuzzy, kde-format
 msgid "No such function \"%1\""
 msgstr "D'Entrée '%1' ass net am Menü."
@@ -15163,12 +15196,6 @@ msgstr "D'Entrée '%1' ass net am Menü."
 
 #~ msgid "Realm:"
 #~ msgstr "Beräich:"
-
-#~ msgid "Host:"
-#~ msgstr "Host:"
-
-#~ msgid "Port:"
-#~ msgstr "Port:"
 
 #~ msgid "LDAP version:"
 #~ msgstr "LDAP-Versioun:"
