@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-04-02 12:33+0200\n"
+"POT-Creation-Date: 2008-04-04 11:55+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -11045,7 +11045,7 @@ msgstr "fatale Parsing-Feeler: %1, Zeil %2, Kolonn %3"
 msgid "XML parsing error"
 msgstr "XML Parsing-Feeler"
 
-#: khtml/xml/dom_docimpl.cpp:2157
+#: khtml/xml/dom_docimpl.cpp:2167
 msgid "Basic Page Style"
 msgstr "Grondstil"
 
@@ -11569,7 +11569,7 @@ msgstr ""
 "Konnt de 'kdemain' am '%1' net fannen.\n"
 "%2"
 
-#: kinit/klauncher_main.cpp:54
+#: kinit/klauncher_main.cpp:56
 #, fuzzy
 #| msgid ""
 #| "klauncher: This program is not supposed to be started manually.\n"
@@ -11581,32 +11581,32 @@ msgstr ""
 "KLauncher: Dëse Programm sollt am Fong net manuell gestart ginn.\n"
 "E gëtt vu kdeinit automatësch opgeruff.\n"
 
-#: kinit/klauncher.cpp:490
+#: kinit/klauncher.cpp:493
 #, kde-format
 msgid "KDEInit could not launch '%1'."
 msgstr "KDEInit konnt '%1' net starten."
 
-#: kinit/klauncher.cpp:655 kinit/klauncher.cpp:680 kinit/klauncher.cpp:695
+#: kinit/klauncher.cpp:658 kinit/klauncher.cpp:683 kinit/klauncher.cpp:698
 #, kde-format
 msgid "Could not find service '%1'."
 msgstr "Konnt de Service '%1' net fannen."
 
-#: kinit/klauncher.cpp:711 kinit/klauncher.cpp:747
+#: kinit/klauncher.cpp:714 kinit/klauncher.cpp:750
 #, kde-format
 msgid "Service '%1' is malformatted."
 msgstr "De Service '%1' huet ën ongültege Format."
 
-#: kinit/klauncher.cpp:819
+#: kinit/klauncher.cpp:822
 #, kde-format
 msgid "Launching %1"
 msgstr "%1 gëtt gestart"
 
-#: kinit/klauncher.cpp:1023
+#: kinit/klauncher.cpp:1026
 #, kde-format
 msgid "Unknown protocol '%1'.\n"
 msgstr "Onbekannte Protokoll '%1'.\n"
 
-#: kinit/klauncher.cpp:1084
+#: kinit/klauncher.cpp:1087
 #, kde-format
 msgid "Error loading '%1'.\n"
 msgstr "Feeler beim Luede vun '%1'.\n"
