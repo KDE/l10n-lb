@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-04-12 13:55+0200\n"
+"POT-Creation-Date: 2008-04-14 12:53+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -7961,7 +7961,7 @@ msgstr "Bei d'Benotzerdefinéiert Faarwen &dobäimaachen"
 msgid "Configure Shortcut"
 msgstr "Kierzel configuréieren"
 
-#: kdeui/xmlgui/kxmlguibuilder.cpp:174 kdeui/xmlgui/kxmlguibuilder.cpp:347
+#: kdeui/xmlgui/kxmlguibuilder.cpp:174 kdeui/xmlgui/kxmlguibuilder.cpp:342
 #, fuzzy
 msgid "No text"
 msgstr "Keen Text!"
