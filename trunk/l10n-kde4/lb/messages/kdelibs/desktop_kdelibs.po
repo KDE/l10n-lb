@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-04-12 17:31+0000\n"
+"POT-Creation-Date: 2008-04-16 14:28+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1175,6 +1175,11 @@ msgstr ""
 #: kimgio/png.desktop:2
 msgctxt "Name"
 msgid "PNG"
+msgstr ""
+
+#: kimgio/pnm.desktop:2
+msgctxt "Name"
+msgid "PNM"
 msgstr ""
 
 #: kimgio/ppm.desktop:2
