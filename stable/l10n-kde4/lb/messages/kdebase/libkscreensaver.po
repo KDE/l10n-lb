@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: libkscreensaver\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-02-25 09:46+0100\n"
+"POT-Creation-Date: 2008-04-23 20:04+0200\n"
 "PO-Revision-Date: 2005-12-04 23:10+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -14,19 +14,19 @@ msgstr ""
 "X-Generator: KBabel 1.11\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: main.cpp:112
+#: main.cpp:117
 msgid "Setup screen saver"
 msgstr "Bildschiermschoner opsetzen"
 
-#: main.cpp:114
+#: main.cpp:119
 msgid "Run in the specified XWindow"
 msgstr "An der spezifizéierter XWindow ausféieren"
 
-#: main.cpp:116
+#: main.cpp:121
 msgid "Run in the root XWindow"
 msgstr "An der Root-XWindow ausféieren"
 
-#: main.cpp:118
+#: main.cpp:123
 msgid "Start screen saver in demo mode"
 msgstr "De Bildschiermschoner am Demonstratiounsmodus starten"
 
