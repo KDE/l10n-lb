@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-05-08 13:43+0200\n"
+"POT-Creation-Date: 2008-05-09 14:34+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -11777,32 +11777,32 @@ msgstr ""
 "KLauncher: Dëse Programm sollt am Fong net manuell gestart ginn.\n"
 "E gëtt vu kdeinit automatësch opgeruff.\n"
 
-#: kinit/klauncher.cpp:488
+#: kinit/klauncher.cpp:495
 #, kde-format
 msgid "KDEInit could not launch '%1'."
 msgstr "KDEInit konnt '%1' net starten."
 
-#: kinit/klauncher.cpp:653 kinit/klauncher.cpp:678 kinit/klauncher.cpp:693
+#: kinit/klauncher.cpp:660 kinit/klauncher.cpp:685 kinit/klauncher.cpp:700
 #, kde-format
 msgid "Could not find service '%1'."
 msgstr "Konnt de Service '%1' net fannen."
 
-#: kinit/klauncher.cpp:709 kinit/klauncher.cpp:745
+#: kinit/klauncher.cpp:716 kinit/klauncher.cpp:752
 #, kde-format
 msgid "Service '%1' is malformatted."
 msgstr "De Service '%1' huet ën ongültege Format."
 
-#: kinit/klauncher.cpp:817
+#: kinit/klauncher.cpp:824
 #, kde-format
 msgid "Launching %1"
 msgstr "%1 gëtt gestart"
 
-#: kinit/klauncher.cpp:1021
+#: kinit/klauncher.cpp:1028
 #, kde-format
 msgid "Unknown protocol '%1'.\n"
 msgstr "Onbekannte Protokoll '%1'.\n"
 
-#: kinit/klauncher.cpp:1082
+#: kinit/klauncher.cpp:1089
 #, kde-format
 msgid "Error loading '%1'.\n"
 msgstr "Feeler beim Luede vun '%1'.\n"
