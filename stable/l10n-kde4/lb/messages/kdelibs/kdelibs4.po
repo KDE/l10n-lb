@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-05-31 01:28+0200\n"
+"POT-Creation-Date: 2008-06-03 07:48+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -9376,11 +9376,11 @@ msgstr "Er&opréckelen"
 msgid "Move &Down"
 msgstr "&Erofréckelen"
 
-#: kdeui/widgets/khistorycombobox.cpp:178 khtml/rendering/render_form.cpp:568
+#: kdeui/widgets/khistorycombobox.cpp:180 khtml/rendering/render_form.cpp:568
 msgid "Clear &History"
 msgstr "&History läschen"
 
-#: kdeui/widgets/khistorycombobox.cpp:318
+#: kdeui/widgets/khistorycombobox.cpp:320
 msgid "No further item in the history."
 msgstr "Keen Element méi an der History."
 
@@ -9531,15 +9531,15 @@ msgstr "Regioun"
 msgid "Comment"
 msgstr "Kommentar"
 
-#: kdeui/widgets/ktextedit.cpp:320 kde3support/kdeui/k3textedit.cpp:232
+#: kdeui/widgets/ktextedit.cpp:325 kde3support/kdeui/k3textedit.cpp:232
 msgid "Check Spelling..."
 msgstr "Rechtschreifkontroll..."
 
-#: kdeui/widgets/ktextedit.cpp:325 kde3support/kdeui/k3textedit.cpp:238
+#: kdeui/widgets/ktextedit.cpp:330 kde3support/kdeui/k3textedit.cpp:238
 msgid "Auto Spell Check"
 msgstr "Automatësch Kontroll"
 
-#: kdeui/widgets/ktextedit.cpp:330 kde3support/kdeui/k3textedit.cpp:242
+#: kdeui/widgets/ktextedit.cpp:335 kde3support/kdeui/k3textedit.cpp:242
 msgid "Allow Tabulations"
 msgstr "Tabellarësch Unuerdnung zouloossen"
 
