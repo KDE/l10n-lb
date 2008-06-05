@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-06-03 10:34+0200\n"
+"POT-Creation-Date: 2008-06-04 22:49+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -3989,7 +3989,7 @@ msgstr ""
 msgid "Could not Launch Browser"
 msgstr "Konnt de Browser net starten"
 
-#: kdecore/kernel/ktoolinvocation_x11.cpp:298
+#: kdecore/kernel/ktoolinvocation_x11.cpp:305
 #, fuzzy, kde-format
 #| msgid ""
 #| "Could not launch the mail client:\n"
@@ -4004,7 +4004,7 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdecore/kernel/ktoolinvocation_x11.cpp:299
+#: kdecore/kernel/ktoolinvocation_x11.cpp:306
 #, fuzzy
 #| msgid "Could not Launch Mail Client"
 msgid "Could not Launch Terminal Client"
@@ -6305,7 +6305,7 @@ msgstr "Ausschneiden"
 msgid "Print"
 msgstr "Drécken"
 
-#: kdeui/util/kcompletion.cpp:691
+#: kdeui/util/kcompletion.cpp:693
 msgid ""
 "You reached the end of the list\n"
 "of matching items.\n"
@@ -6313,7 +6313,7 @@ msgstr ""
 "Dir sidd um Enn vun der Lëscht\n"
 "vu passenden Elementer ukom.\n"
 
-#: kdeui/util/kcompletion.cpp:697
+#: kdeui/util/kcompletion.cpp:699
 msgid ""
 "The completion is ambiguous, more than one\n"
 "match is available.\n"
@@ -6321,7 +6321,7 @@ msgstr ""
 "D'Ergänzung ass net eendäideg, méi wéi \n"
 "eng Méiglechkeet ass fonnt ginn.\n"
 
-#: kdeui/util/kcompletion.cpp:703
+#: kdeui/util/kcompletion.cpp:705
 msgid "There is no matching item available.\n"
 msgstr "Näischt passendes fonnt ginn.\n"
 
@@ -11842,11 +11842,11 @@ msgstr ""
 msgid "(%1/s)"
 msgstr "(%1/s)"
 
-#: khtml/khtml_part.cpp:6845
+#: khtml/khtml_part.cpp:6844
 msgid "Security Warning"
 msgstr "Sëcherheetswarnung"
 
-#: khtml/khtml_part.cpp:6851
+#: khtml/khtml_part.cpp:6850
 #, fuzzy, kde-format
 #| msgid "<qt>Access by untrusted page to<BR><B>%1</B><BR> denied."
 msgid "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
@@ -11854,35 +11854,35 @@ msgstr ""
 "<qt>Zougang op<BR><B>%1</B><BR>duerch eng Säit, déi als net sëcher ugesinn "
 "ass, verweigert."
 
-#: khtml/khtml_part.cpp:6852 khtml/java/kjavaappletserver.cpp:790
+#: khtml/khtml_part.cpp:6851 khtml/java/kjavaappletserver.cpp:790
 msgid "Security Alert"
 msgstr "Sëcherheetsnoricht"
 
-#: khtml/khtml_part.cpp:7202
+#: khtml/khtml_part.cpp:7201
 #, kde-format
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr ""
 "Den digitale Portemonnaie '%1' ass op a gëtt fir Formularer a Passwierder "
 "benotzt."
 
-#: khtml/khtml_part.cpp:7259
+#: khtml/khtml_part.cpp:7258
 msgid "&Close Wallet"
 msgstr "Portemonnaie &zoumaachen"
 
-#: khtml/khtml_part.cpp:7302
+#: khtml/khtml_part.cpp:7301
 msgid "JavaScript &Debugger"
 msgstr "JavaScript-&Debugger"
 
-#: khtml/khtml_part.cpp:7335
+#: khtml/khtml_part.cpp:7334
 msgid "This page was prevented from opening a new window via JavaScript."
 msgstr ""
 "Dëss Säit ass dovun ofgehal ginn, mat JavaScript eng nei fënster opzemaachen."
 
-#: khtml/khtml_part.cpp:7341
+#: khtml/khtml_part.cpp:7340
 msgid "Popup Window Blocked"
 msgstr "Popup-Fënster blockéiert"
 
-#: khtml/khtml_part.cpp:7341
+#: khtml/khtml_part.cpp:7340
 msgid ""
 "This page has attempted to open a popup window but was blocked.\n"
 "You can click on this icon in the status bar to control this behavior\n"
@@ -11893,18 +11893,18 @@ msgstr ""
 "d'Fënster\n"
 "awer opzemaachen oder Astellunge virzehuelen."
 
-#: khtml/khtml_part.cpp:7354
+#: khtml/khtml_part.cpp:7353
 #, fuzzy, kde-format
 msgid "&Show Blocked Popup Window"
 msgid_plural "&Show %1 Blocked Popup Windows"
 msgstr[0] "Blockéiert Popup-Fënster &weisen"
 msgstr[1] "%1 blockéiert Popup-Fënstere weisen"
 
-#: khtml/khtml_part.cpp:7355
+#: khtml/khtml_part.cpp:7354
 msgid "Show Blocked Window Passive Popup &Notification"
 msgstr "Passiv &Norichtefënster bei blockéierte Popup-Fënsteren uweisen"
 
-#: khtml/khtml_part.cpp:7357
+#: khtml/khtml_part.cpp:7356
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "JavaScript fir Fënsteren nei opzemaache &configuréieren..."
 

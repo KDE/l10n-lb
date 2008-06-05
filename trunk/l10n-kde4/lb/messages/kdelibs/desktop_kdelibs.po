@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-06-03 08:47+0000\n"
+"POT-Creation-Date: 2008-06-04 21:02+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -93,7 +93,7 @@ msgctxt "Name"
 msgid "Insert File"
 msgstr "TeX-Datei"
 
-#: kate/plugins/insertfile/ktexteditor_insertfile.desktop:81
+#: kate/plugins/insertfile/ktexteditor_insertfile.desktop:83
 msgctxt "Comment"
 msgid "Insert any readable file at cursor position"
 msgstr "Setzt eng liesbar Datei bei der Cursorpositioun an"
@@ -118,7 +118,7 @@ msgctxt "Name"
 msgid "Time & Date"
 msgstr ""
 
-#: kate/plugins/timedate/ktexteditor_timedate.desktop:79
+#: kate/plugins/timedate/ktexteditor_timedate.desktop:81
 msgctxt "Comment"
 msgid "Insert current Time & Date"
 msgstr ""
