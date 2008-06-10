@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-06-06 16:34+0200\n"
+"POT-Creation-Date: 2008-06-10 18:15+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -3668,19 +3668,19 @@ msgstr "Statioun fir den NEC SOCKS Server"
 msgid "Dante SOCKS client"
 msgstr "SOCKS-Statioun fir den Dante-Server"
 
-#: kdecore/kernel/kcmdlineargs.cpp:270
+#: kdecore/kernel/kcmdlineargs.cpp:272
 msgid "Use the X-server display 'displayname'"
 msgstr "Den X-Server-Display \"Display\" huelen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:272
+#: kdecore/kernel/kcmdlineargs.cpp:274
 msgid "Use the QWS display 'displayname'"
 msgstr "Den QWS-Display \"Display\" huelen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:275
+#: kdecore/kernel/kcmdlineargs.cpp:277
 msgid "Restore the application for the given 'sessionId'"
 msgstr "D'Uwendung fir 'sessionld erneieren"
 
-#: kdecore/kernel/kcmdlineargs.cpp:276
+#: kdecore/kernel/kcmdlineargs.cpp:278
 msgid ""
 "Causes the application to install a private color\n"
 "map on an 8-bit display"
@@ -3688,7 +3688,7 @@ msgstr ""
 "Erlaabt d'Astellung vun enger benotzerdefinéierter\n"
 "Faarwepalett an engem 8bit-Display"
 
-#: kdecore/kernel/kcmdlineargs.cpp:277
+#: kdecore/kernel/kcmdlineargs.cpp:279
 msgid ""
 "Limits the number of colors allocated in the color\n"
 "cube on an 8-bit display, if the application is\n"
@@ -3700,11 +3700,11 @@ msgstr ""
 "QApplication::ManyColor color benotzt, fir \n"
 "d'Faarwen ze bestëmmen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:278
+#: kdecore/kernel/kcmdlineargs.cpp:280
 msgid "tells Qt to never grab the mouse or the keyboard"
 msgstr "Seet dem Qt, dass ën ni op d'Maus oder d'Tastatur zeréckgräifen dierf"
 
-#: kdecore/kernel/kcmdlineargs.cpp:279
+#: kdecore/kernel/kcmdlineargs.cpp:281
 msgid ""
 "running under a debugger can cause an implicit\n"
 "-nograb, use -dograb to override"
@@ -3712,15 +3712,15 @@ msgstr ""
 "Beim Betrieb ënnert engem Debugger kann ën impliziten\n"
 "-nograb optrieden, benotzt -dograb fir z'iwwerschreiwen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:280
+#: kdecore/kernel/kcmdlineargs.cpp:282
 msgid "switches to synchronous mode for debugging"
 msgstr "Wiesselt op de Synchron-Modus beim Debugging"
 
-#: kdecore/kernel/kcmdlineargs.cpp:282
+#: kdecore/kernel/kcmdlineargs.cpp:284
 msgid "defines the application font"
 msgstr "Definéiert d'Schrëft vun der Uwendung"
 
-#: kdecore/kernel/kcmdlineargs.cpp:284
+#: kdecore/kernel/kcmdlineargs.cpp:286
 msgid ""
 "sets the default background color and an\n"
 "application palette (light and dark shades are\n"
@@ -3730,23 +3730,23 @@ msgstr ""
 "a stellt eng Palett fir d'Uwendung op (hell an \n"
 "däichter Faarftéin gi berechent)"
 
-#: kdecore/kernel/kcmdlineargs.cpp:286
+#: kdecore/kernel/kcmdlineargs.cpp:288
 msgid "sets the default foreground color"
 msgstr "Leet d'Standardfaarf am Virdergrond fest"
 
-#: kdecore/kernel/kcmdlineargs.cpp:288
+#: kdecore/kernel/kcmdlineargs.cpp:290
 msgid "sets the default button color"
 msgstr "Leet d'Standardfaarf fir Knäppercher fest"
 
-#: kdecore/kernel/kcmdlineargs.cpp:289
+#: kdecore/kernel/kcmdlineargs.cpp:291
 msgid "sets the application name"
 msgstr "Bestëmmt den Numm vun der Uwendung"
 
-#: kdecore/kernel/kcmdlineargs.cpp:290
+#: kdecore/kernel/kcmdlineargs.cpp:292
 msgid "sets the application title (caption)"
 msgstr "Bestëmmt den Titel (caption) vun der Uwendung"
 
-#: kdecore/kernel/kcmdlineargs.cpp:292
+#: kdecore/kernel/kcmdlineargs.cpp:294
 msgid ""
 "forces the application to use a TrueColor visual on\n"
 "an 8-bit display"
@@ -3754,7 +3754,7 @@ msgstr ""
 "Forcéiert d'Uwendung fir op engem 8bit-Display \n"
 "an echte Faarwen duerzestellen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:293
+#: kdecore/kernel/kcmdlineargs.cpp:295
 msgid ""
 "sets XIM (X Input Method) input style. Possible\n"
 "values are onthespot, overthespot, offthespot and\n"
@@ -3764,51 +3764,51 @@ msgstr ""
 "Input. Méiglech Werter sinn onthespot, overthespot,\n"
 "offthespot a root"
 
-#: kdecore/kernel/kcmdlineargs.cpp:294
+#: kdecore/kernel/kcmdlineargs.cpp:296
 msgid "set XIM server"
 msgstr "XIM-Server festléen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:295
+#: kdecore/kernel/kcmdlineargs.cpp:297
 msgid "disable XIM"
 msgstr "XIM ofschalten"
 
-#: kdecore/kernel/kcmdlineargs.cpp:298
+#: kdecore/kernel/kcmdlineargs.cpp:300
 msgid "forces the application to run as QWS Server"
 msgstr "Forcéiert d'Uwendung als QWS-Server ze lafen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:300
+#: kdecore/kernel/kcmdlineargs.cpp:302
 msgid "mirrors the whole layout of widgets"
 msgstr "Spigelt sämtlech Steierungselementer"
 
-#: kdecore/kernel/kcmdlineargs.cpp:301
+#: kdecore/kernel/kcmdlineargs.cpp:303
 msgid "applies the Qt stylesheet to the application widgets"
 msgstr ""
 
-#: kdecore/kernel/kcmdlineargs.cpp:304
+#: kdecore/kernel/kcmdlineargs.cpp:306
 msgid "Use 'caption' as name in the titlebar"
 msgstr "Benotzt 'caption' als Numm an der Titelbar"
 
-#: kdecore/kernel/kcmdlineargs.cpp:305
+#: kdecore/kernel/kcmdlineargs.cpp:307
 msgid "Use 'icon' as the application icon"
 msgstr "Benotzt 'icon' als Symbol fir de Programm"
 
-#: kdecore/kernel/kcmdlineargs.cpp:306
+#: kdecore/kernel/kcmdlineargs.cpp:308
 msgid "Use alternative configuration file"
 msgstr "Eng aner Configuratiounsdatei huelen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:307
+#: kdecore/kernel/kcmdlineargs.cpp:309
 msgid "Disable crash handler, to get core dumps"
 msgstr "De Crash-Handler ofschalte fir Core Dumps ze kréien"
 
-#: kdecore/kernel/kcmdlineargs.cpp:309
+#: kdecore/kernel/kcmdlineargs.cpp:311
 msgid "Waits for a WM_NET compatible windowmanager"
 msgstr "Waart op ën Fënstermanager, dee WM_NET-kompatibel ass"
 
-#: kdecore/kernel/kcmdlineargs.cpp:311
+#: kdecore/kernel/kcmdlineargs.cpp:313
 msgid "sets the application GUI style"
 msgstr "Leet de GUI-Stil fir d'Uwendung fest"
 
-#: kdecore/kernel/kcmdlineargs.cpp:312
+#: kdecore/kernel/kcmdlineargs.cpp:314
 msgid ""
 "sets the client geometry of the main widget - see man X for the argument "
 "format"
@@ -3816,35 +3816,35 @@ msgstr ""
 "Leet d'Geometrie vum Haaptelement am Client-Programm fest. De Format vun den "
 "Argumenter fannt dir mat \"man X\" eraus"
 
-#: kdecore/kernel/kcmdlineargs.cpp:429
+#: kdecore/kernel/kcmdlineargs.cpp:431
 #, fuzzy
 #| msgid "Application: "
 msgid "KDE Application"
 msgstr "Programm: "
 
-#: kdecore/kernel/kcmdlineargs.cpp:486
+#: kdecore/kernel/kcmdlineargs.cpp:488
 #, fuzzy
 #| msgid "Quit"
 msgid "Qt"
 msgstr "Ophalen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:489 khtml/khtml_part.cpp:4928
+#: kdecore/kernel/kcmdlineargs.cpp:491 khtml/khtml_part.cpp:4928
 msgid "KDE"
 msgstr "KDE"
 
-#: kdecore/kernel/kcmdlineargs.cpp:797 kdecore/kernel/kcmdlineargs.cpp:817
+#: kdecore/kernel/kcmdlineargs.cpp:799 kdecore/kernel/kcmdlineargs.cpp:819
 #, kde-format
 msgid "Unknown option '%1'."
 msgstr "Onbekannt Optioun '%1'."
 
-#: kdecore/kernel/kcmdlineargs.cpp:825
+#: kdecore/kernel/kcmdlineargs.cpp:827
 #, fuzzy, kde-format
 #| msgid "'%1' missing."
 msgctxt "@info:shell %1 is cmdoption name"
 msgid "'%1' missing."
 msgstr "'%1' feelt."
 
-#: kdecore/kernel/kcmdlineargs.cpp:910
+#: kdecore/kernel/kcmdlineargs.cpp:912
 #, kde-format
 msgctxt "the 2nd argument is a list of name+address, one on each line"
 msgid ""
@@ -3854,86 +3854,86 @@ msgstr ""
 "%1 ass vum\n"
 "%2 geschriwwe ginn"
 
-#: kdecore/kernel/kcmdlineargs.cpp:913
+#: kdecore/kernel/kcmdlineargs.cpp:915
 msgid "This application was written by somebody who wants to remain anonymous."
 msgstr "Den Auteur vun dësem Programm wëllt anonym bleiwen."
 
-#: kdecore/kernel/kcmdlineargs.cpp:920
+#: kdecore/kernel/kcmdlineargs.cpp:922
 msgid "Please use http://bugs.kde.org to report bugs.\n"
 msgstr "Mellt eventuell Käfere w.e.g. ënnert http://bugs.kde.org.\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:922
+#: kdecore/kernel/kcmdlineargs.cpp:924
 #, kde-format
 msgid "Please report bugs to %1.\n"
 msgstr "Mellt eventuell Käfere w.e.g. bei %1.\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:948
+#: kdecore/kernel/kcmdlineargs.cpp:950
 #, kde-format
 msgid "Unexpected argument '%1'."
 msgstr "Den Argument '%1' ass onerwaart."
 
-#: kdecore/kernel/kcmdlineargs.cpp:1064
+#: kdecore/kernel/kcmdlineargs.cpp:1066
 msgid "Use --help to get a list of available command line options."
 msgstr "Gitt --help an, fir eng Lëscht vu verfügbaren Optiounen ze kréien."
 
-#: kdecore/kernel/kcmdlineargs.cpp:1087
+#: kdecore/kernel/kcmdlineargs.cpp:1089
 msgid "[options] "
 msgstr "[Optiounen]"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1094
+#: kdecore/kernel/kcmdlineargs.cpp:1096
 #, kde-format
 msgid "[%1-options]"
 msgstr "[%1-Optiounen]"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1115
+#: kdecore/kernel/kcmdlineargs.cpp:1117
 #, kde-format
 msgid "Usage: %1 %2\n"
 msgstr "Verwendung: %1 %2\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1118
+#: kdecore/kernel/kcmdlineargs.cpp:1120
 #, fuzzy
 msgid ""
 "\n"
 "Generic options:\n"
 msgstr "Einfach Optiounen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1119
+#: kdecore/kernel/kcmdlineargs.cpp:1121
 msgid "Show help about options"
 msgstr "D'Hëllefsoptiounen uweisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1127
+#: kdecore/kernel/kcmdlineargs.cpp:1129
 #, kde-format
 msgid "Show %1 specific options"
 msgstr "Speziell Optioune fir %1 uweisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1134
+#: kdecore/kernel/kcmdlineargs.cpp:1136
 msgid "Show all options"
 msgstr "All Optioune weisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1135
+#: kdecore/kernel/kcmdlineargs.cpp:1137
 msgid "Show author information"
 msgstr "Informatiounen iwwert den Auteur uweisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1136
+#: kdecore/kernel/kcmdlineargs.cpp:1138
 msgid "Show version information"
 msgstr "Informatiounen iwwert d'Versioun uweisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1137
+#: kdecore/kernel/kcmdlineargs.cpp:1139
 msgid "Show license information"
 msgstr "Lizenzinformatiounen uweisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1138
+#: kdecore/kernel/kcmdlineargs.cpp:1140
 msgid "End of options"
 msgstr "Enn vun den Optiounen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1159
+#: kdecore/kernel/kcmdlineargs.cpp:1161
 #, fuzzy, kde-format
 msgid ""
 "\n"
 "%1 options:\n"
 msgstr "%1 Optiounen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1161
+#: kdecore/kernel/kcmdlineargs.cpp:1163
 msgid ""
 "\n"
 "Options:\n"
@@ -3941,7 +3941,7 @@ msgstr ""
 "\n"
 "Optiounen:\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1219
+#: kdecore/kernel/kcmdlineargs.cpp:1221
 msgid ""
 "\n"
 "Arguments:\n"
@@ -3949,13 +3949,13 @@ msgstr ""
 "\n"
 "Argumenter:\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1586
+#: kdecore/kernel/kcmdlineargs.cpp:1588
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr ""
 "D'Dateien/URLen, déi vum Programm opgemaach gi sinn, ginn häerno nees "
 "geläscht"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1587
+#: kdecore/kernel/kcmdlineargs.cpp:1589
 msgid "KDE-tempfile"
 msgstr ""
 
@@ -6757,7 +6757,7 @@ msgstr ""
 #: kdeui/dialogs/kshortcutseditor.cpp:497
 #: kdeui/dialogs/kshortcutseditor.cpp:515
 #: kdeui/dialogs/kshortcutseditor.cpp:529
-#: kdeui/dialogs/kshortcutseditor.cpp:545 kdeui/shortcuts/kglobalaccel.cpp:417
+#: kdeui/dialogs/kshortcutseditor.cpp:545 kdeui/shortcuts/kglobalaccel.cpp:435
 #: kdeui/widgets/kkeysequencewidget.cpp:128
 msgid "Reassign"
 msgstr "Nei zouuerdnen"
@@ -6820,36 +6820,36 @@ msgstr ""
 "Keng Informatioun verfügbar.\n"
 "Et gëtt kee passend KAboutData-Objekt."
 
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:86
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:92
 #, kde-format
 msgid ""
 "<html><font size=\"5\">%1</font><br /><b>Version %2</b><br />Using KDE %3</"
 "html>"
 msgstr ""
 
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:119
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:125
 #, fuzzy, kde-format
 #| msgid "License:"
 msgid "License: %1"
 msgstr "Lizenz:"
 
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:132
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:138
 #: kde3support/kdeui/k3aboutapplication.cpp:51
 #: kde3support/kdeui/k3aboutapplication.cpp:77
 msgid "&About"
 msgstr "&Iwwer"
 
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:141
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:147
 #: kde3support/kdeui/k3aboutapplication.cpp:95
 msgid "A&uthor"
 msgstr "A&uteur"
 
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:141
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:147
 #: kde3support/kdeui/k3aboutapplication.cpp:95
 msgid "A&uthors"
 msgstr "A&uteuren"
 
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:146
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:152
 #: kde3support/kdeui/k3aboutapplication.cpp:107
 msgid ""
 "Please use <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> to report "
@@ -6858,8 +6858,8 @@ msgstr ""
 "Benotzt w.e.g. <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> fir "
 "eventuell Käferen ze mellen.\n"
 
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:149
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:154
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:155
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:160
 #: kde3support/kdeui/k3aboutapplication.cpp:111
 #: kde3support/kdeui/k3aboutapplication.cpp:114
 #, kde-format
@@ -6868,17 +6868,17 @@ msgstr ""
 "Mellt w.e.g. eventuell Käferen an enger E-Mail un <a href=\"mailto:%1\">%2</"
 "a>.\n"
 
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:204
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:210
 #: kde3support/kdeui/k3aboutapplication.cpp:137
 msgid "&Thanks To"
 msgstr "&Merci un"
 
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:226
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:232
 #: kde3support/kdeui/k3aboutapplication.cpp:164
 msgid "T&ranslation"
 msgstr "Iwwe&rsetzung"
 
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:249
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:255
 #, fuzzy
 #| msgid "&License Agreement"
 msgid "License Agreement"
@@ -7427,116 +7427,116 @@ msgstr "Hei kënnt dir eng Schrëft eraussichen."
 msgid "Requested Font"
 msgstr "Gewënscht Schrëft"
 
-#: kdeui/fonts/kfontchooser.cpp:201
+#: kdeui/fonts/kfontchooser.cpp:200
 #, fuzzy
 #| msgid "Font"
 msgctxt "@option:check"
 msgid "Font"
 msgstr "Schrëft"
 
-#: kdeui/fonts/kfontchooser.cpp:205
+#: kdeui/fonts/kfontchooser.cpp:204
 #, fuzzy
 #| msgid "Enable this checkbox to change the font family settings."
 msgctxt "@info:whatsthis"
 msgid "Enable this checkbox to change the font family settings."
 msgstr "Wielt dësst Haische fir d'Astellunge vun der Schrëftfamill z'änneren."
 
-#: kdeui/fonts/kfontchooser.cpp:206
+#: kdeui/fonts/kfontchooser.cpp:205
 #, fuzzy
 #| msgid "Change font family?"
 msgctxt "@info:tooltip"
 msgid "Change font family?"
 msgstr "Schrëftfamill änneren?"
 
-#: kdeui/fonts/kfontchooser.cpp:210
+#: kdeui/fonts/kfontchooser.cpp:209
 #, fuzzy
 #| msgid "Font:"
 msgctxt "@label"
 msgid "Font:"
 msgstr "Schrëft:"
 
-#: kdeui/fonts/kfontchooser.cpp:217
+#: kdeui/fonts/kfontchooser.cpp:216
 #, fuzzy
 #| msgid "Font style"
 msgctxt "@option:check"
 msgid "Font style"
 msgstr "Schrëftstil"
 
-#: kdeui/fonts/kfontchooser.cpp:221
+#: kdeui/fonts/kfontchooser.cpp:220
 #, fuzzy
 #| msgid "Enable this checkbox to change the font style settings."
 msgctxt "@info:whatsthis"
 msgid "Enable this checkbox to change the font style settings."
 msgstr "Wielt dësst Haische fir d'Astellunge vum Schrëftstil z'änneren."
 
-#: kdeui/fonts/kfontchooser.cpp:222
+#: kdeui/fonts/kfontchooser.cpp:221
 #, fuzzy
 #| msgid "Change font style?"
 msgctxt "@info:tooltip"
 msgid "Change font style?"
 msgstr "Stil änneren?"
 
-#: kdeui/fonts/kfontchooser.cpp:226
+#: kdeui/fonts/kfontchooser.cpp:225
 msgid "Font style:"
 msgstr "Schrëftstil:"
 
-#: kdeui/fonts/kfontchooser.cpp:234
+#: kdeui/fonts/kfontchooser.cpp:233
 #, fuzzy
 #| msgid "Size"
 msgctxt "@option:check"
 msgid "Size"
 msgstr "Gréisst"
 
-#: kdeui/fonts/kfontchooser.cpp:238
+#: kdeui/fonts/kfontchooser.cpp:237
 #, fuzzy
 #| msgid "Enable this checkbox to change the font size settings."
 msgctxt "@info:whatsthis"
 msgid "Enable this checkbox to change the font size settings."
 msgstr "Wielt dësst Haische fir d'Astellunge vun der Schrëftgréisst z'änneren."
 
-#: kdeui/fonts/kfontchooser.cpp:239
+#: kdeui/fonts/kfontchooser.cpp:238
 #, fuzzy
 #| msgid "Change font size?"
 msgctxt "@info:tooltip"
 msgid "Change font size?"
 msgstr "Schrëftgréisst änneren?"
 
-#: kdeui/fonts/kfontchooser.cpp:243
+#: kdeui/fonts/kfontchooser.cpp:242
 #, fuzzy
 #| msgid "Size:"
 msgctxt "@label:listbox Font size"
 msgid "Size:"
 msgstr "Gréisst:"
 
-#: kdeui/fonts/kfontchooser.cpp:259
+#: kdeui/fonts/kfontchooser.cpp:258
 #, fuzzy
 #| msgid "Here you can choose the font family to be used."
 msgctxt "@info:whatsthis"
 msgid "Here you can choose the font family to be used."
 msgstr "Hei kënnt dir d'Schrëftfamill wielen, déi benotzt soll ginn."
 
-#: kdeui/fonts/kfontchooser.cpp:285
+#: kdeui/fonts/kfontchooser.cpp:284
 #, fuzzy
 #| msgid "Here you can choose the font style to be used."
 msgctxt "@info:whatsthis"
 msgid "Here you can choose the font style to be used."
 msgstr "Hei kënnt dir de Schrëftstil wielen, dee benotzt soll ginn."
 
-#: kdeui/fonts/kfontchooser.cpp:293 kdeui/fonts/kfontchooser.cpp:615
+#: kdeui/fonts/kfontchooser.cpp:292 kdeui/fonts/kfontchooser.cpp:614
 #, fuzzy
 #| msgid "Regular"
 msgctxt "@item font"
 msgid "Regular"
 msgstr "Normal"
 
-#: kdeui/fonts/kfontchooser.cpp:294 kdeui/fonts/kfontchooser.cpp:636
+#: kdeui/fonts/kfontchooser.cpp:293 kdeui/fonts/kfontchooser.cpp:635
 #, fuzzy
 #| msgid "Italic"
 msgctxt "@item font"
 msgid "Italic"
 msgstr "Kursiv"
 
-#: kdeui/fonts/kfontchooser.cpp:295 kdeui/fonts/kfontchooser.cpp:637
+#: kdeui/fonts/kfontchooser.cpp:294 kdeui/fonts/kfontchooser.cpp:636
 #, fuzzy
 #| msgctxt "font style"
 #| msgid "Oblique"
@@ -7544,34 +7544,34 @@ msgctxt "@item font"
 msgid "Oblique"
 msgstr "Schif"
 
-#: kdeui/fonts/kfontchooser.cpp:296
+#: kdeui/fonts/kfontchooser.cpp:295
 #, fuzzy
 #| msgid "Bold"
 msgctxt "@item font"
 msgid "Bold"
 msgstr "Fett"
 
-#: kdeui/fonts/kfontchooser.cpp:297
+#: kdeui/fonts/kfontchooser.cpp:296
 #, fuzzy
 #| msgid "Bold Italic"
 msgctxt "@item font"
 msgid "Bold Italic"
 msgstr "Fett kursiv"
 
-#: kdeui/fonts/kfontchooser.cpp:316
+#: kdeui/fonts/kfontchooser.cpp:315
 #, fuzzy
 #| msgid "Relative"
 msgctxt "@item font size"
 msgid "Relative"
 msgstr "Relativ"
 
-#: kdeui/fonts/kfontchooser.cpp:318
+#: kdeui/fonts/kfontchooser.cpp:317
 #, fuzzy
 #| msgid "Font size<br><i>fixed</i> or <i>relative</i><br>to environment"
 msgid "Font size<br /><i>fixed</i> or <i>relative</i><br />to environment"
 msgstr "Schrëftgréisst <br><i>fest</i> oder <i>relativ</i><br>zum Rescht"
 
-#: kdeui/fonts/kfontchooser.cpp:320
+#: kdeui/fonts/kfontchooser.cpp:319
 msgid ""
 "Here you can switch between fixed font size and font size to be calculated "
 "dynamically and adjusted to changing environment (e.g. widget dimensions, "
@@ -7581,7 +7581,7 @@ msgstr ""
 "Schrëftgréisst, déi dynamësch berechent gëtt, an déi sëch dem Rescht (z.B. "
 "der Gréisst vun de Schalteren oder der Gréisst vum Pabeier) upasst. "
 
-#: kdeui/fonts/kfontchooser.cpp:345
+#: kdeui/fonts/kfontchooser.cpp:344
 msgid "Here you can choose the font size to be used."
 msgstr "Hei kënnt dir d'Schrëftgréisst wielen, déi benotzt soll ginn."
 
@@ -7589,12 +7589,12 @@ msgstr "Hei kënnt dir d'Schrëftgréisst wielen, déi benotzt soll ginn."
 #. Replace it with a sample text in your language, such that it is
 #. representative of language's writing system.
 #. If you wish, you can input several lines of text separated by \n.
-#: kdeui/fonts/kfontchooser.cpp:383
+#: kdeui/fonts/kfontchooser.cpp:382
 msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
 msgstr ""
 "Ëch hätt gär dräi Wirschtercher mat Fritten a Ketchup, ouni Zalot a Geméis"
 
-#: kdeui/fonts/kfontchooser.cpp:385
+#: kdeui/fonts/kfontchooser.cpp:384
 msgid ""
 "This sample text illustrates the current settings. You may edit it to test "
 "special characters."
@@ -7602,7 +7602,7 @@ msgstr ""
 "Dëse Beispilltext illustréiert déi momentan Astellungen. Dir kënnt e "
 "veränneren fir d'Duerstellung vu speziellen Zeechen ze kucken."
 
-#: kdeui/fonts/kfontchooser.cpp:401 kdeui/fonts/kfontchooser.cpp:414
+#: kdeui/fonts/kfontchooser.cpp:400 kdeui/fonts/kfontchooser.cpp:413
 msgid "Actual Font"
 msgstr "Aktuell Schrëft"
 
@@ -7611,7 +7611,7 @@ msgstr "Aktuell Schrëft"
 #. noun-adjective congruence wrt. gender of the family name).
 #. The message provides the dynamic context 'family', which is
 #. the family name to which the style string corresponds.
-#: kdeui/fonts/kfontchooser.cpp:622
+#: kdeui/fonts/kfontchooser.cpp:621
 #, fuzzy, kde-format
 #| msgid "%1%"
 msgctxt "@item Font style"
@@ -8029,11 +8029,11 @@ msgstr "All siichtbar Kolonnen"
 msgid "S&earch:"
 msgstr "Siche&n:"
 
-#: kdeui/shortcuts/kglobalaccel.cpp:410
+#: kdeui/shortcuts/kglobalaccel.cpp:428
 msgid "Conflict with Global Shortcut"
 msgstr "Konflikt mat allgemengem Kierzel"
 
-#: kdeui/shortcuts/kglobalaccel.cpp:411
+#: kdeui/shortcuts/kglobalaccel.cpp:429
 #, fuzzy, kde-format
 #| msgid ""
 #| "The '%1' key combination has already been allocated to the global action "
@@ -9865,14 +9865,14 @@ msgstr "Joër auswielen"
 msgid "Select the current day"
 msgstr "Heitegen Dag auswielen"
 
-#: kdeui/widgets/krichtextwidget.cpp:224
+#: kdeui/widgets/krichtextwidget.cpp:220
 #, fuzzy
 #| msgid "Text Completion"
 msgctxt "@action"
 msgid "Text &Color..."
 msgstr "Ergänzung vum Text"
 
-#: kdeui/widgets/krichtextwidget.cpp:225
+#: kdeui/widgets/krichtextwidget.cpp:221
 #, fuzzy
 #| msgctxt "palette name"
 #| msgid "Web Colors"
@@ -9880,72 +9880,72 @@ msgctxt "@label stroke color"
 msgid "Color"
 msgstr "Web-Faarwen"
 
-#: kdeui/widgets/krichtextwidget.cpp:236
+#: kdeui/widgets/krichtextwidget.cpp:232
 msgctxt "@action"
 msgid "Text &Highlight..."
 msgstr ""
 
-#: kdeui/widgets/krichtextwidget.cpp:247
+#: kdeui/widgets/krichtextwidget.cpp:243
 #, fuzzy
 #| msgid "&Font"
 msgctxt "@action"
 msgid "&Font"
 msgstr "Schrë&ft"
 
-#: kdeui/widgets/krichtextwidget.cpp:258
+#: kdeui/widgets/krichtextwidget.cpp:254
 #, fuzzy
 #| msgid "Font Size"
 msgctxt "@action"
 msgid "Font &Size"
 msgstr "Schrëftgréisst"
 
-#: kdeui/widgets/krichtextwidget.cpp:268
+#: kdeui/widgets/krichtextwidget.cpp:264
 #, fuzzy
 #| msgid "Bold"
 msgctxt "@action boldify selected text"
 msgid "&Bold"
 msgstr "Fett"
 
-#: kdeui/widgets/krichtextwidget.cpp:282
+#: kdeui/widgets/krichtextwidget.cpp:278
 #, fuzzy
 #| msgid "Italic"
 msgctxt "@action italicize selected text"
 msgid "&Italic"
 msgstr "Kursiv"
 
-#: kdeui/widgets/krichtextwidget.cpp:297
+#: kdeui/widgets/krichtextwidget.cpp:293
 #, fuzzy
 #| msgid "&Underline"
 msgctxt "@action underline selected text"
 msgid "&Underline"
 msgstr "Ë&nnersträichen"
 
-#: kdeui/widgets/krichtextwidget.cpp:312
+#: kdeui/widgets/krichtextwidget.cpp:308
 #, fuzzy
 msgctxt "@action"
 msgid "&Strike Out"
 msgstr "Schrack"
 
-#: kdeui/widgets/krichtextwidget.cpp:325
+#: kdeui/widgets/krichtextwidget.cpp:321
 #, fuzzy
 #| msgid "Align"
 msgctxt "@action"
 msgid "Align &Left"
 msgstr "Alignéieren"
 
-#: kdeui/widgets/krichtextwidget.cpp:326
+#: kdeui/widgets/krichtextwidget.cpp:322
 #, fuzzy
 #| msgid "Left"
 msgctxt "@label left justify"
 msgid "Left"
 msgstr "Lénks"
 
-#: kdeui/widgets/krichtextwidget.cpp:332
+#: kdeui/widgets/krichtextwidget.cpp:328
 msgctxt "@action"
 msgid "Align &Center"
 msgstr ""
 
-#: kdeui/widgets/krichtextwidget.cpp:333
+#: kdeui/widgets/krichtextwidget.cpp:329
 #, fuzzy
 #| msgctxt "QAccel"
 #| msgid "Enter"
@@ -9953,109 +9953,109 @@ msgctxt "@label center justify"
 msgid "Center"
 msgstr "Enter"
 
-#: kdeui/widgets/krichtextwidget.cpp:339
+#: kdeui/widgets/krichtextwidget.cpp:335
 msgctxt "@action"
 msgid "Align &Right"
 msgstr ""
 
-#: kdeui/widgets/krichtextwidget.cpp:340
+#: kdeui/widgets/krichtextwidget.cpp:336
 #, fuzzy
 #| msgid "Right"
 msgctxt "@label right justify"
 msgid "Right"
 msgstr "Riets"
 
-#: kdeui/widgets/krichtextwidget.cpp:346
+#: kdeui/widgets/krichtextwidget.cpp:342
 msgctxt "@action"
 msgid "&Justify"
 msgstr ""
 
-#: kdeui/widgets/krichtextwidget.cpp:347
+#: kdeui/widgets/krichtextwidget.cpp:343
 msgctxt "@label justify fill"
 msgid "Justify"
 msgstr ""
 
-#: kdeui/widgets/krichtextwidget.cpp:372
+#: kdeui/widgets/krichtextwidget.cpp:368
 msgctxt "@title:menu"
 msgid "List Style"
 msgstr ""
 
-#: kdeui/widgets/krichtextwidget.cpp:374
+#: kdeui/widgets/krichtextwidget.cpp:370
 #, fuzzy
 #| msgid "None"
 msgctxt "@item:inmenu no list style"
 msgid "None"
 msgstr "Keng"
 
-#: kdeui/widgets/krichtextwidget.cpp:375
+#: kdeui/widgets/krichtextwidget.cpp:371
 #, fuzzy
 #| msgid "Discard"
 msgctxt "@item:inmenu disc list style"
 msgid "Disc"
 msgstr "Si loossen"
 
-#: kdeui/widgets/krichtextwidget.cpp:376
+#: kdeui/widgets/krichtextwidget.cpp:372
 #, fuzzy
 #| msgid "File"
 msgctxt "@item:inmenu circle list style"
 msgid "Circle"
 msgstr "Datei"
 
-#: kdeui/widgets/krichtextwidget.cpp:377
+#: kdeui/widgets/krichtextwidget.cpp:373
 #, fuzzy
 msgctxt "@item:inmenu square list style"
 msgid "Square"
 msgstr "Ressource"
 
-#: kdeui/widgets/krichtextwidget.cpp:378
+#: kdeui/widgets/krichtextwidget.cpp:374
 msgctxt "@item:inmenu numbered lists"
 msgid "123"
 msgstr ""
 
-#: kdeui/widgets/krichtextwidget.cpp:379
+#: kdeui/widgets/krichtextwidget.cpp:375
 #, fuzzy
 #| msgid "Sab"
 msgctxt "@item:inmenu lowercase abc lists"
 msgid "abc"
 msgstr "Sab"
 
-#: kdeui/widgets/krichtextwidget.cpp:380
+#: kdeui/widgets/krichtextwidget.cpp:376
 #, fuzzy
 #| msgid "TAB"
 msgctxt "@item:inmenu uppercase abc lists"
 msgid "ABC"
 msgstr "Tab"
 
-#: kdeui/widgets/krichtextwidget.cpp:396
+#: kdeui/widgets/krichtextwidget.cpp:392
 msgctxt "@action"
 msgid "Increase Indent"
 msgstr ""
 
-#: kdeui/widgets/krichtextwidget.cpp:409
+#: kdeui/widgets/krichtextwidget.cpp:405
 msgctxt "@action"
 msgid "Decrease Indent"
 msgstr ""
 
-#: kdeui/widgets/krichtextwidget.cpp:422
+#: kdeui/widgets/krichtextwidget.cpp:418
 msgctxt "@action"
 msgid "Insert Rule Line"
 msgstr ""
 
-#: kdeui/widgets/krichtextwidget.cpp:433
+#: kdeui/widgets/krichtextwidget.cpp:429
 #, fuzzy
 #| msgid "Line up"
 msgctxt "@action"
 msgid "Link"
 msgstr "Ausriichten"
 
-#: kdeui/widgets/krichtextwidget.cpp:444
+#: kdeui/widgets/krichtextwidget.cpp:440
 #, fuzzy
 #| msgid "Formatted Name"
 msgctxt "@action"
 msgid "Format Painter"
 msgstr "Formatéierten Numm"
 
-#: kdeui/widgets/krichtextwidget.cpp:455
+#: kdeui/widgets/krichtextwidget.cpp:451
 #, fuzzy
 #| msgid "Find Text"
 msgctxt "@action"
@@ -10458,52 +10458,52 @@ msgstr "Tabellarësch Unuerdnung zouloossen"
 msgid "Nothing to spell check."
 msgstr "Kee Provider gewielt."
 
-#: kfile/kfileplacesview.cpp:409
+#: kfile/kfileplacesview.cpp:412
 #, fuzzy
 #| msgid "Trash"
 msgctxt "@action:inmenu"
 msgid "Empty Trash"
 msgstr "Dreckskëscht"
 
-#: kfile/kfileplacesview.cpp:415
+#: kfile/kfileplacesview.cpp:418
 #, fuzzy, kde-format
 #| msgid "&Edit..."
 msgid "&Edit '%1'..."
 msgstr "V&eränneren..."
 
-#: kfile/kfileplacesview.cpp:418
+#: kfile/kfileplacesview.cpp:421
 #, fuzzy, kde-format
 #| msgid "Hide %1"
 msgid "&Hide '%1'"
 msgstr "%1 net weisen"
 
-#: kfile/kfileplacesview.cpp:425
+#: kfile/kfileplacesview.cpp:428
 #, fuzzy
 #| msgid "Show all options"
 msgid "&Show All Entries"
 msgstr "All Optioune weisen"
 
-#: kfile/kfileplacesview.cpp:435
+#: kfile/kfileplacesview.cpp:438
 #, fuzzy, kde-format
 #| msgid "&Remove"
 msgid "&Remove '%1'"
 msgstr "&Ewechmaachen"
 
-#: kfile/kfileplacesview.cpp:451
+#: kfile/kfileplacesview.cpp:454
 #, fuzzy
 #| msgid "Do you really want to execute '%1'? "
 msgctxt "@info"
 msgid "Do you really want to empty the Trash? All items will be deleted."
 msgstr "Wëllt dir '%1' wiirklech lafe loossen? "
 
-#: kfile/kfileplacesview.cpp:455
+#: kfile/kfileplacesview.cpp:458
 #, fuzzy
 #| msgid "Trash"
 msgctxt "@action:button"
 msgid "Empty Trash"
 msgstr "Dreckskëscht"
 
-#: kfile/kfilefiltercombo.cpp:36 kfile/kfilewidget.cpp:1480
+#: kfile/kfilefiltercombo.cpp:36 kfile/kfilewidget.cpp:1482
 #, fuzzy
 #| msgid "Files"
 msgid "*|All Files"
@@ -10578,7 +10578,7 @@ msgstr ""
 msgid "&Location:"
 msgstr "Configuratioun"
 
-#: kfile/kfilewidget.cpp:443
+#: kfile/kfilewidget.cpp:447
 msgid ""
 "<qt>This is the filter to apply to the file list. File names that do not "
 "match the filter will not be shown.<p>You may select from one of the preset "
@@ -10586,62 +10586,62 @@ msgid ""
 "into the text area.</p><p>Wildcards such as * and ? are allowed.</p></qt>"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:449
+#: kfile/kfilewidget.cpp:453
 #, fuzzy
 #| msgid "Filter:"
 msgid "&Filter:"
 msgstr "Filter:"
 
-#: kfile/kfilewidget.cpp:667 kfile/kfilewidget.cpp:710
-#: kfile/kfilewidget.cpp:1415
+#: kfile/kfilewidget.cpp:675 kfile/kfilewidget.cpp:718
+#: kfile/kfilewidget.cpp:1417
 msgid "You can only select local files."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:668 kfile/kfilewidget.cpp:711
-#: kfile/kfilewidget.cpp:1416
+#: kfile/kfilewidget.cpp:676 kfile/kfilewidget.cpp:719
+#: kfile/kfilewidget.cpp:1418
 msgid "Remote Files Not Accepted"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:701
+#: kfile/kfilewidget.cpp:709
 #, kde-format
 msgid ""
 "%1\n"
 "does not appear to be a valid URL.\n"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:701
+#: kfile/kfilewidget.cpp:709
 #, fuzzy
 #| msgid "InvalidCA"
 msgid "Invalid URL"
 msgstr "InvalidCA"
 
-#: kfile/kfilewidget.cpp:1046
+#: kfile/kfilewidget.cpp:1054
 msgid "This is the name to save the file as."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1051
+#: kfile/kfilewidget.cpp:1059
 msgid ""
 "This is the list of files to open. More than one file can be specified by "
 "listing several files, separated by spaces."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1058
+#: kfile/kfilewidget.cpp:1066
 msgid "This is the name of the file to open."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1347
+#: kfile/kfilewidget.cpp:1349
 msgid ""
 "The chosen filenames do not\n"
 "appear to be valid."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1349
+#: kfile/kfilewidget.cpp:1351
 #, fuzzy
 #| msgid "invalid flags"
 msgid "Invalid Filenames"
 msgstr "Ongülteg Werter"
 
-#: kfile/kfilewidget.cpp:1378
+#: kfile/kfilewidget.cpp:1380
 #, kde-format
 msgid ""
 "The requested filenames\n"
@@ -10650,39 +10650,39 @@ msgid ""
 "make sure every filename is enclosed in double quotes."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1382
+#: kfile/kfilewidget.cpp:1384
 #, fuzzy
 #| msgid "File Error"
 msgid "Filename Error"
 msgstr "Dateifeler"
 
-#: kfile/kfilewidget.cpp:1477
+#: kfile/kfilewidget.cpp:1479
 msgid "*|All Folders"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1616 kparts/browserrun.cpp:383
+#: kfile/kfilewidget.cpp:1617 kparts/browserrun.cpp:383
 msgid "&Open"
 msgstr "&Opmaachen"
 
-#: kfile/kfilewidget.cpp:1759
+#: kfile/kfilewidget.cpp:1760
 #, kde-format
 msgid "Automatically select filename e&xtension (%1)"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1760
+#: kfile/kfilewidget.cpp:1761
 #, kde-format
 msgid "the extension <b>%1</b>"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1768
+#: kfile/kfilewidget.cpp:1769
 msgid "Automatically select filename e&xtension"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1769
+#: kfile/kfilewidget.cpp:1770
 msgid "a suitable extension"
 msgstr ""
 
-#: kfile/kfilewidget.cpp:1779
+#: kfile/kfilewidget.cpp:1780
 #, kde-format
 msgid ""
 "This option enables some convenient features for saving files with "
@@ -10698,11 +10698,11 @@ msgid ""
 "enabled as it makes your files more manageable."
 msgstr ""
 
-#: kfile/kfilewidget.cpp:2073
+#: kfile/kfilewidget.cpp:2074
 msgid "Bookmarks"
 msgstr "Lieszeechen"
 
-#: kfile/kfilewidget.cpp:2077
+#: kfile/kfilewidget.cpp:2078
 msgid ""
 "<qt>This button allows you to bookmark specific locations. Click on this "
 "button to open the bookmark menu where you may add, edit or select a "
@@ -10766,7 +10766,7 @@ msgstr "E Feeler ass beim Luede vun <B>%1</B> opgetrueden:"
 msgid "An error occurred while accessing '%1'"
 msgstr "E Feeler ass beim Luede vun <B>%1</B> opgetrueden:"
 
-#: kfile/kurlnavigator.cpp:634
+#: kfile/kurlnavigator.cpp:643
 #, fuzzy
 #| msgid "Custom"
 msgid "Custom Path"
@@ -10815,14 +10815,14 @@ msgctxt "@action:button"
 msgid "New Folder..."
 msgstr "Tëlefon (Doheem)"
 
-#: kfile/kdirselectdialog.cpp:261
+#: kfile/kdirselectdialog.cpp:263
 #, fuzzy
 #| msgid "Home Phone"
 msgctxt "@action:inmenu"
 msgid "New Folder..."
 msgstr "Tëlefon (Doheem)"
 
-#: kfile/kdirselectdialog.cpp:268
+#: kfile/kdirselectdialog.cpp:270
 #, fuzzy
 msgctxt "@option:check"
 msgid "Show Hidden Folders"
@@ -12496,7 +12496,7 @@ msgstr "Abettungsfäheg Komponent fir multipart/mixed"
 msgid "Copyright 2001, David Faure <email>david@mandrakesoft.com</email>"
 msgstr ""
 
-#: kinit/kinit.cpp:464
+#: kinit/kinit.cpp:465
 msgid ""
 "Unable to start new process.\n"
 "The system may have reached the maximum number of open files possible or the "
@@ -12506,7 +12506,7 @@ msgstr ""
 "Déi maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn oder déi vun "
 "iech agestallte maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn."
 
-#: kinit/kinit.cpp:485
+#: kinit/kinit.cpp:486
 msgid ""
 "Unable to create new process.\n"
 "The system may have reached the maximum number of processes possible or the "
@@ -12516,12 +12516,12 @@ msgstr ""
 "Déi maximal Unzuel vu Prozesser kéint erreecht sinn oder déi vun iech "
 "agestallte maximal Unzuel vu Prozesser kéint erreecht sinn."
 
-#: kinit/kinit.cpp:580
+#: kinit/kinit.cpp:586
 #, kde-format
 msgid "Could not find '%1' executable."
 msgstr "Konnt de Programm '%1' net fannen."
 
-#: kinit/kinit.cpp:598
+#: kinit/kinit.cpp:604
 #, kde-format
 msgid ""
 "Could not open library '%1'.\n"
@@ -12530,7 +12530,7 @@ msgstr ""
 "Konnt d'Bibliothéik '%1' net opmaachen.\n"
 "%2"
 
-#: kinit/kinit.cpp:644
+#: kinit/kinit.cpp:650
 #, kde-format
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
@@ -13028,19 +13028,19 @@ msgstr ""
 "</ul><p>Kuckt dëss Punkten opmierksam duerch a probéiert, dee Modul ze "
 "läschen. Wann dat net klappt, frot bei ärem Verdeler no.</p></qt>"
 
-#: kutils/kpluginselector.cpp:135
+#: kutils/kpluginselector.cpp:136
 msgid ""
 "Automatic changes have been performed due to plugin dependencies. Click here "
 "for further information"
 msgstr ""
 
-#: kutils/kpluginselector.cpp:202
+#: kutils/kpluginselector.cpp:203
 msgid ""
 "Automatic changes have been performed in order to satisfy plugin "
 "dependencies:\n"
 msgstr ""
 
-#: kutils/kpluginselector.cpp:206
+#: kutils/kpluginselector.cpp:207
 #, kde-format
 msgid ""
 "\n"
@@ -13048,7 +13048,7 @@ msgid ""
 "plugin"
 msgstr ""
 
-#: kutils/kpluginselector.cpp:208
+#: kutils/kpluginselector.cpp:209
 #, kde-format
 msgid ""
 "\n"
@@ -13056,104 +13056,33 @@ msgid ""
 "2 plugin"
 msgstr ""
 
-#: kutils/kpluginselector.cpp:210
+#: kutils/kpluginselector.cpp:211
 msgid "Dependency Check"
 msgstr ""
 
-#: kutils/kpluginselector.cpp:228
+#: kutils/kpluginselector.cpp:229
 #, kde-format
 msgid "%1 plugin automatically added due to plugin dependencies"
 msgid_plural "%1 plugins automatically added due to plugin dependencies"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kutils/kpluginselector.cpp:231
+#: kutils/kpluginselector.cpp:232
 msgid ", "
 msgstr ""
 
-#: kutils/kpluginselector.cpp:234
+#: kutils/kpluginselector.cpp:235
 #, kde-format
 msgid "%1 plugin automatically removed due to plugin dependencies"
 msgid_plural "%1 plugins automatically removed due to plugin dependencies"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kutils/kpluginselector.cpp:256
+#: kutils/kpluginselector.cpp:257
 #, fuzzy
 #| msgid "Search Columns"
 msgid "Search Plugins"
 msgstr "Kolonnen duerchsichen"
-
-#: kutils/kpluginselector.cpp:725
-#, fuzzy, kde-format
-#| msgid "Name:"
-msgid ""
-"Name:\n"
-"%1"
-msgstr "Numm:"
-
-#: kutils/kpluginselector.cpp:728
-#, fuzzy, kde-format
-msgid ""
-"\n"
-"\n"
-"Comment:\n"
-"%1"
-msgstr "Kommentar"
-
-#: kutils/kpluginselector.cpp:732
-#, fuzzy, kde-format
-#| msgid "Author:"
-msgid ""
-"\n"
-"\n"
-"Author:\n"
-"%1"
-msgstr "Auteur:"
-
-#: kutils/kpluginselector.cpp:736
-#, fuzzy, kde-format
-msgid ""
-"\n"
-"\n"
-"E-Mail:\n"
-"%1"
-msgstr "E-Mail"
-
-#: kutils/kpluginselector.cpp:740
-#, kde-format
-msgid ""
-"\n"
-"\n"
-"Website:\n"
-"%1"
-msgstr ""
-
-#: kutils/kpluginselector.cpp:744
-#, fuzzy, kde-format
-#| msgid "Version:"
-msgid ""
-"\n"
-"\n"
-"Version:\n"
-"%1"
-msgstr "Versioun:"
-
-#: kutils/kpluginselector.cpp:748
-#, fuzzy, kde-format
-#| msgid "License:"
-msgid ""
-"\n"
-"\n"
-"License:\n"
-"%1"
-msgstr "Lizenz:"
-
-#: kutils/kpluginselector.cpp:751
-#, fuzzy, kde-format
-#| msgid "About %1"
-msgid "About Plugin \"%1\""
-msgstr "Iwwer %1"
 
 #: kutils/kprintpreview.cpp:123
 #, fuzzy
@@ -14263,6 +14192,61 @@ msgstr ""
 #, fuzzy, kde-format
 msgid "No such function \"%1\""
 msgstr "D'Entrée '%1' ass net am Menü."
+
+#, fuzzy
+#~| msgid "Name:"
+#~ msgid ""
+#~ "Name:\n"
+#~ "%1"
+#~ msgstr "Numm:"
+
+#, fuzzy
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "Comment:\n"
+#~ "%1"
+#~ msgstr "Kommentar"
+
+#, fuzzy
+#~| msgid "Author:"
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "Author:\n"
+#~ "%1"
+#~ msgstr "Auteur:"
+
+#, fuzzy
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "E-Mail:\n"
+#~ "%1"
+#~ msgstr "E-Mail"
+
+#, fuzzy
+#~| msgid "Version:"
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "Version:\n"
+#~ "%1"
+#~ msgstr "Versioun:"
+
+#, fuzzy
+#~| msgid "License:"
+#~ msgid ""
+#~ "\n"
+#~ "\n"
+#~ "License:\n"
+#~ "%1"
+#~ msgstr "Lizenz:"
+
+#, fuzzy
+#~| msgid "About %1"
+#~ msgid "About Plugin \"%1\""
+#~ msgstr "Iwwer %1"
 
 #, fuzzy
 #~| msgid "%1%"
