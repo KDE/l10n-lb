@@ -1,0 +1,60 @@
+# translation of kgreet_winbind.po to Luxembourgish
+#
+# Michel Ludwig <michel.ludwig@kdemail.net>, 2005.
+msgid ""
+msgstr ""
+"Project-Id-Version: kgreet_winbind\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2008-05-06 22:58+0200\n"
+"PO-Revision-Date: 2005-12-23 21:03+0100\n"
+"Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
+"Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: kgreet_winbind.cpp:128
+msgid "&Domain:"
+msgstr "&Domän:"
+
+#: kgreet_winbind.cpp:130
+msgid "&Username:"
+msgstr "Benotzern&umm:"
+
+#: kgreet_winbind.cpp:144
+msgid "Domain:"
+msgstr "Domän:"
+
+#: kgreet_winbind.cpp:147
+msgid "Username:"
+msgstr "Benotzernumm:"
+
+#: kgreet_winbind.cpp:161
+msgid "&Password:"
+msgstr "&Passwuert:"
+
+#: kgreet_winbind.cpp:162
+msgid "Current &password:"
+msgstr "Aktuellt &Passwuert:"
+
+#: kgreet_winbind.cpp:176
+msgid "&New password:"
+msgstr "&Neit Passwuert:"
+
+#: kgreet_winbind.cpp:179
+msgid "Con&firm password:"
+msgstr "Passwuert &bestätegen:"
+
+#: kgreet_winbind.cpp:347
+#, kde-format
+msgid "Unrecognized prompt \"%1\""
+msgstr "Net-erkannten Agabopfuederung \"%1\""
+
+#: kgreet_winbind.cpp:622
+#, fuzzy
+#| msgid "Winbind / Samba"
+msgctxt "@item:inmenu authentication method"
+msgid "Winbind / Samba"
+msgstr "Winbind / Samba"
