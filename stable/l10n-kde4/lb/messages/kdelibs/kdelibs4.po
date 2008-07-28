@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-07-23 06:16+0200\n"
+"POT-Creation-Date: 2008-07-28 05:04+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -6644,8 +6644,8 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "Toolbaren zerécksetzen"
 
-#: kdeui/dialogs/kedittoolbar.cpp:526 khtml/khtmlview.cpp:2886
-#: khtml/khtmlview.cpp:2919 khtml/html/html_formimpl.cpp:2186
+#: kdeui/dialogs/kedittoolbar.cpp:526 khtml/khtmlview.cpp:2879
+#: khtml/khtmlview.cpp:2912 khtml/html/html_formimpl.cpp:2186
 msgid "Reset"
 msgstr "Zerécksetzen"
 
@@ -11829,7 +11829,7 @@ msgstr ""
 "<qt>De Formular gëtt no<BR><B>%1</B><BR>op ärem lokalen Dateiesystem "
 "verschéckt ginn.<BR>Wëllt dir de Formular ofsenden?"
 
-#: khtml/khtml_part.cpp:4945 khtml/khtmlview.cpp:2872 khtml/khtmlview.cpp:2914
+#: khtml/khtml_part.cpp:4945 khtml/khtmlview.cpp:2865 khtml/khtmlview.cpp:2907
 #: khtml/html/html_formimpl.cpp:1586 khtml/html/html_formimpl.cpp:2194
 msgid "Submit"
 msgstr "Verschécken"
@@ -11955,39 +11955,39 @@ msgstr "Op d'Zeil &goen..."
 msgid "Remove from ignores..."
 msgstr ""
 
-#: khtml/khtmlview.cpp:1844
+#: khtml/khtmlview.cpp:1837
 msgid "Find stopped."
 msgstr "Sicht opgehal."
 
-#: khtml/khtmlview.cpp:1855
+#: khtml/khtmlview.cpp:1848
 msgid "Starting -- find links as you type"
 msgstr "Startvirgang -- Linke beim antippen ergänzen"
 
-#: khtml/khtmlview.cpp:1861
+#: khtml/khtmlview.cpp:1854
 msgid "Starting -- find text as you type"
 msgstr "Startvirgang -- Text beim antippen ergänzen"
 
-#: khtml/khtmlview.cpp:1884
+#: khtml/khtmlview.cpp:1877
 #, kde-format
 msgid "Link found: \"%1\"."
 msgstr "Link fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1889
+#: khtml/khtmlview.cpp:1882
 #, kde-format
 msgid "Link not found: \"%1\"."
 msgstr "Link net fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1897
+#: khtml/khtmlview.cpp:1890
 #, kde-format
 msgid "Text found: \"%1\"."
 msgstr "Text fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1902
+#: khtml/khtmlview.cpp:1895
 #, kde-format
 msgid "Text not found: \"%1\"."
 msgstr "Text net fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1950
+#: khtml/khtmlview.cpp:1943
 msgid "Access Keys activated"
 msgstr "Kuerztasten ugeschalt"
 
