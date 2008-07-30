@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: kicker\n"
-"POT-Creation-Date: 2008-07-08 01:19+0200\n"
+"POT-Creation-Date: 2008-07-30 01:22+0200\n"
 "PO-Revision-Date: 2005-12-21 12:15+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -58,11 +58,11 @@ msgstr "Fënsterlëscht"
 msgid "Window list"
 msgstr "Fënsterlëscht"
 
-#: core/applethandle.cpp:108
+#: core/applethandle.cpp:67
 msgid "%1 menu"
 msgstr "Menü %1"
 
-#: core/applethandle.cpp:111
+#: core/applethandle.cpp:70
 msgid "%1 applet handle"
 msgstr "%1 Miniprogramm-Handler"
 
@@ -171,7 +171,7 @@ msgstr "Leescht &configuréieren..."
 msgid "Un&lock Panels"
 msgstr "Leeschten ent&spären"
 
-#: ui/addapplet.cpp:231
+#: ui/addapplet.cpp:234
 msgid "Add Applet"
 msgstr "Miniprogramm dobäimaachen"
 
