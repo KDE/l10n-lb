@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-08-04 08:26+0200\n"
+"POT-Creation-Date: 2008-08-05 08:25+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -5936,7 +5936,7 @@ msgstr "&OK"
 msgid "&Cancel"
 msgstr "&Ofbriechen"
 
-#: kdeui/util/kstandardguiitem.cpp:116 khtml/java/kjavaappletserver.cpp:816
+#: kdeui/util/kstandardguiitem.cpp:116 khtml/java/kjavaappletserver.cpp:818
 msgid "&Yes"
 msgstr "&Jo"
 
@@ -5944,7 +5944,7 @@ msgstr "&Jo"
 msgid "Yes"
 msgstr "Jo"
 
-#: kdeui/util/kstandardguiitem.cpp:121 khtml/java/kjavaappletserver.cpp:809
+#: kdeui/util/kstandardguiitem.cpp:121 khtml/java/kjavaappletserver.cpp:811
 msgid "&No"
 msgstr "&Nee"
 
@@ -12031,7 +12031,7 @@ msgstr ""
 "<qt>Zougang op<BR><B>%1</B><BR>duerch eng Säit, déi als net sëcher ugesinn "
 "ass, verweigert."
 
-#: khtml/khtml_part.cpp:6927 khtml/java/kjavaappletserver.cpp:790
+#: khtml/khtml_part.cpp:6927 khtml/java/kjavaappletserver.cpp:792
 msgid "Security Alert"
 msgstr "Sëcherheetsnoricht"
 
@@ -12628,31 +12628,31 @@ msgstr "Amgaang, de Miniprogramm ze lueden"
 msgid "Error: java executable not found"
 msgstr "Feeler: Java-Programm net fonnt"
 
-#: khtml/java/kjavaappletserver.cpp:662
+#: khtml/java/kjavaappletserver.cpp:664
 #, fuzzy, kde-format
 #| msgid "Signed by (validation: "
 msgid "Signed by (validation: %1)"
 msgstr "Ënnerschriwwe vun (Nogekuckt: "
 
-#: khtml/java/kjavaappletserver.cpp:664
+#: khtml/java/kjavaappletserver.cpp:666
 #, fuzzy, kde-format
 #| msgid "Certificate (validation: "
 msgid "Certificate (validation: %1)"
 msgstr "Zertifikat (Nogekuckt: "
 
-#: khtml/java/kjavaappletserver.cpp:797
+#: khtml/java/kjavaappletserver.cpp:799
 msgid "Do you grant Java applet with certificate(s):"
 msgstr "Java-Miniprogramm mat Zertifikaten zouloossen:"
 
-#: khtml/java/kjavaappletserver.cpp:799
+#: khtml/java/kjavaappletserver.cpp:801
 msgid "the following permission"
 msgstr "déi folgend Zouloossungskriterien"
 
-#: khtml/java/kjavaappletserver.cpp:813
+#: khtml/java/kjavaappletserver.cpp:815
 msgid "&Reject All"
 msgstr "Alleguer zeréck&weisen"
 
-#: khtml/java/kjavaappletserver.cpp:819
+#: khtml/java/kjavaappletserver.cpp:821
 msgid "&Grant All"
 msgstr "Alleguer &zouloossen"
 
