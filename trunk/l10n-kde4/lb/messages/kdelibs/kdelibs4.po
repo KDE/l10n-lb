@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-08-05 08:25+0200\n"
+"POT-Creation-Date: 2008-08-06 08:58+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -12987,22 +12987,22 @@ msgstr ""
 msgid "Daniel Molkentin"
 msgstr ""
 
-#: nepomuk/core/resource.cpp:368
+#: nepomuk/core/resource.cpp:384
 msgid "Success"
 msgstr ""
 
-#: nepomuk/core/resource.cpp:370
+#: nepomuk/core/resource.cpp:386
 #, fuzzy
 msgid "Communication error"
 msgstr "Configuratioun"
 
-#: nepomuk/core/resource.cpp:372
+#: nepomuk/core/resource.cpp:388
 #, fuzzy
 #| msgid "Invalid reference base"
 msgid "Invalid type in Database"
 msgstr "Ongülteg Basis fir d'Referenz"
 
-#: nepomuk/core/resource.cpp:374
+#: nepomuk/core/resource.cpp:390
 #, fuzzy
 #| msgctxt "QFile"
 #| msgid "Unknown error"
