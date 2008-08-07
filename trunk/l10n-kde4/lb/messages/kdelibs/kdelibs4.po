@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-08-06 08:58+0200\n"
+"POT-Creation-Date: 2008-08-07 08:19+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -8756,156 +8756,180 @@ msgstr "&Verfügbar:"
 msgid "&Selected:"
 msgstr "&Ausgewielt:"
 
-#: kdeui/widgets/kcharselect.cpp:272 kdeui/widgets/kcharselect.cpp:274
+#: kdeui/widgets/kcharselect.cpp:295 kdeui/widgets/kcharselect.cpp:297
 msgid "Enter a search term or character here"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:277
+#: kdeui/widgets/kcharselect.cpp:301
 #, fuzzy
 #| msgctxt "QAccel"
 #| msgid "Search"
 msgid "Search"
 msgstr "Sichen"
 
-#: kdeui/widgets/kcharselect.cpp:297
+#: kdeui/widgets/kcharselect.cpp:319
+#, fuzzy
+#| msgid "Back"
+msgid "Back"
+msgstr "Zeréck"
+
+#: kdeui/widgets/kcharselect.cpp:321
+#, fuzzy
+#| msgid "Previous year"
+msgid "Previous Character"
+msgstr "Joër virdrunn"
+
+#: kdeui/widgets/kcharselect.cpp:326
+#, fuzzy
+#| msgid "Forward"
+msgid "Forward"
+msgstr "No Vir"
+
+#: kdeui/widgets/kcharselect.cpp:328
+#, fuzzy
+#| msgid "Set of Characters"
+msgid "Next Character"
+msgstr "Zeechesaatz"
+
+#: kdeui/widgets/kcharselect.cpp:339
 #, fuzzy
 #| msgid "Select Font"
 msgid "Set font"
 msgstr "Schrëft auswielen"
 
-#: kdeui/widgets/kcharselect.cpp:304
+#: kdeui/widgets/kcharselect.cpp:346
 #, fuzzy
 #| msgid "Change font size?"
 msgid "Set font size"
 msgstr "Schrëftgréisst änneren?"
 
-#: kdeui/widgets/kcharselect.cpp:311
+#: kdeui/widgets/kcharselect.cpp:353
 #, fuzzy
 #| msgid "Select a year"
 msgid "Select a category"
 msgstr "Joër auswielen"
 
-#: kdeui/widgets/kcharselect.cpp:314
+#: kdeui/widgets/kcharselect.cpp:356
 #, fuzzy
 #| msgid "Message string to be displayed"
 msgid "Select a block to be displayed"
 msgstr "Noricht, déi ugewise soll ginn"
 
-#: kdeui/widgets/kcharselect.cpp:456 kdeui/widgets/kcharselect.cpp:458
+#: kdeui/widgets/kcharselect.cpp:593 kdeui/widgets/kcharselect.cpp:595
 #, fuzzy
 #| msgid "Any Character"
 msgid "Character:"
 msgstr "Iergendeen Zeechen"
 
-#: kdeui/widgets/kcharselect.cpp:458 kdeui/widgets/kcharselect.cpp:685
+#: kdeui/widgets/kcharselect.cpp:595 kdeui/widgets/kcharselect.cpp:836
 #, fuzzy
 #| msgid "Horizontal"
 msgid "Non-printable"
 msgstr "Horizontal"
 
-#: kdeui/widgets/kcharselect.cpp:462
+#: kdeui/widgets/kcharselect.cpp:599
 #, fuzzy
 #| msgid "Name:"
 msgid "Name: "
 msgstr "Numm:"
 
-#: kdeui/widgets/kcharselect.cpp:470
+#: kdeui/widgets/kcharselect.cpp:607
 msgid "Annotations and Cross References"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:474
+#: kdeui/widgets/kcharselect.cpp:611
 #, fuzzy
 #| msgid "Please enter name:"
 msgid "Alias names:"
 msgstr "Gitt w.e.g. den Numm an:"
 
-#: kdeui/widgets/kcharselect.cpp:482
+#: kdeui/widgets/kcharselect.cpp:619
 #, fuzzy
 #| msgid "Note"
 msgid "Notes:"
 msgstr "Notiz"
 
-#: kdeui/widgets/kcharselect.cpp:490
+#: kdeui/widgets/kcharselect.cpp:627
 msgid "See also:"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:502
+#: kdeui/widgets/kcharselect.cpp:639
 msgid "Equivalents:"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:510
+#: kdeui/widgets/kcharselect.cpp:647
 msgid "Approximate equivalents:"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:519
+#: kdeui/widgets/kcharselect.cpp:656
 #, fuzzy
 #| msgid "Frame Information"
 msgid "CJK Ideograph Information"
 msgstr "Informatioun iwwert de Frame"
 
-#: kdeui/widgets/kcharselect.cpp:522
+#: kdeui/widgets/kcharselect.cpp:659
 msgid "Definition in English: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:527
+#: kdeui/widgets/kcharselect.cpp:664
 msgid "Mandarin Pronunciation: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:532
+#: kdeui/widgets/kcharselect.cpp:669
 msgid "Cantonese Pronunciation: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:537
+#: kdeui/widgets/kcharselect.cpp:674
 msgid "Japanese On Pronunciation: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:542
+#: kdeui/widgets/kcharselect.cpp:679
 msgid "Japanese Kun Pronunciation: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:547
+#: kdeui/widgets/kcharselect.cpp:684
 msgid "Tang Pronunciation: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:552
+#: kdeui/widgets/kcharselect.cpp:689
 msgid "Korean Pronunciation: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:558
+#: kdeui/widgets/kcharselect.cpp:695
 msgid "General Character Properties"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:559
+#: kdeui/widgets/kcharselect.cpp:696
 msgid "Block: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:560
+#: kdeui/widgets/kcharselect.cpp:697
 #, fuzzy
 #| msgid "&Unicode code point:"
 msgid "Unicode category: "
 msgstr "&Unicode Codepunkt:"
 
-#: kdeui/widgets/kcharselect.cpp:564
+#: kdeui/widgets/kcharselect.cpp:701
 msgid "Various Useful Representations"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:565
+#: kdeui/widgets/kcharselect.cpp:702
 msgid "UTF-8:"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:568
+#: kdeui/widgets/kcharselect.cpp:705
 msgid "UTF-16: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:569
+#: kdeui/widgets/kcharselect.cpp:706
 msgid "C octal escaped UTF-8: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:572
+#: kdeui/widgets/kcharselect.cpp:709
 msgid "XML decimal entity:"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:686
+#: kdeui/widgets/kcharselect.cpp:837
 #, fuzzy, kde-format
 #| msgctxt "Character"
 #| msgid ""
@@ -10599,45 +10623,45 @@ msgstr "Tabellarësch Unuerdnung zouloossen"
 msgid "Nothing to spell check."
 msgstr "Kee Provider gewielt."
 
-#: kfile/kfileplacesview.cpp:422
+#: kfile/kfileplacesview.cpp:557
 #, fuzzy
 #| msgid "Trash"
 msgctxt "@action:inmenu"
 msgid "Empty Trash"
 msgstr "Dreckskëscht"
 
-#: kfile/kfileplacesview.cpp:428
+#: kfile/kfileplacesview.cpp:563
 #, fuzzy, kde-format
 #| msgid "&Edit..."
 msgid "&Edit '%1'..."
 msgstr "V&eränneren..."
 
-#: kfile/kfileplacesview.cpp:431
+#: kfile/kfileplacesview.cpp:566
 #, fuzzy, kde-format
 #| msgid "Hide %1"
 msgid "&Hide '%1'"
 msgstr "%1 net weisen"
 
-#: kfile/kfileplacesview.cpp:438
+#: kfile/kfileplacesview.cpp:573
 #, fuzzy
 #| msgid "Show all options"
 msgid "&Show All Entries"
 msgstr "All Optioune weisen"
 
-#: kfile/kfileplacesview.cpp:448
+#: kfile/kfileplacesview.cpp:583
 #, fuzzy, kde-format
 #| msgid "&Remove"
 msgid "&Remove '%1'"
 msgstr "&Ewechmaachen"
 
-#: kfile/kfileplacesview.cpp:464
+#: kfile/kfileplacesview.cpp:599
 #, fuzzy
 #| msgid "Do you really want to execute '%1'? "
 msgctxt "@info"
 msgid "Do you really want to empty the Trash? All items will be deleted."
 msgstr "Wëllt dir '%1' wiirklech lafe loossen? "
 
-#: kfile/kfileplacesview.cpp:468
+#: kfile/kfileplacesview.cpp:603
 #, fuzzy
 #| msgid "Trash"
 msgctxt "@action:button"
@@ -12014,16 +12038,16 @@ msgstr ""
 "De Server huet probéiert, eng Datei aus ärem Dateiesystem un de Formular "
 "drunnzehänken. Den Unhang ass zu ärer Sëcherheet geläscht ginn."
 
-#: khtml/khtml_part.cpp:6004
+#: khtml/khtml_part.cpp:6003
 #, kde-format
 msgid "(%1/s)"
 msgstr "(%1/s)"
 
-#: khtml/khtml_part.cpp:6920
+#: khtml/khtml_part.cpp:6919
 msgid "Security Warning"
 msgstr "Sëcherheetswarnung"
 
-#: khtml/khtml_part.cpp:6926
+#: khtml/khtml_part.cpp:6925
 #, fuzzy, kde-format
 #| msgid "<qt>Access by untrusted page to<BR><B>%1</B><BR> denied."
 msgid "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
@@ -12031,35 +12055,35 @@ msgstr ""
 "<qt>Zougang op<BR><B>%1</B><BR>duerch eng Säit, déi als net sëcher ugesinn "
 "ass, verweigert."
 
-#: khtml/khtml_part.cpp:6927 khtml/java/kjavaappletserver.cpp:792
+#: khtml/khtml_part.cpp:6926 khtml/java/kjavaappletserver.cpp:792
 msgid "Security Alert"
 msgstr "Sëcherheetsnoricht"
 
-#: khtml/khtml_part.cpp:7277
+#: khtml/khtml_part.cpp:7276
 #, kde-format
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr ""
 "Den digitale Portemonnaie '%1' ass op a gëtt fir Formularer a Passwierder "
 "benotzt."
 
-#: khtml/khtml_part.cpp:7334
+#: khtml/khtml_part.cpp:7333
 msgid "&Close Wallet"
 msgstr "Portemonnaie &zoumaachen"
 
-#: khtml/khtml_part.cpp:7377
+#: khtml/khtml_part.cpp:7376
 msgid "JavaScript &Debugger"
 msgstr "JavaScript-&Debugger"
 
-#: khtml/khtml_part.cpp:7410
+#: khtml/khtml_part.cpp:7409
 msgid "This page was prevented from opening a new window via JavaScript."
 msgstr ""
 "Dëss Säit ass dovun ofgehal ginn, mat JavaScript eng nei fënster opzemaachen."
 
-#: khtml/khtml_part.cpp:7416
+#: khtml/khtml_part.cpp:7415
 msgid "Popup Window Blocked"
 msgstr "Popup-Fënster blockéiert"
 
-#: khtml/khtml_part.cpp:7416
+#: khtml/khtml_part.cpp:7415
 msgid ""
 "This page has attempted to open a popup window but was blocked.\n"
 "You can click on this icon in the status bar to control this behavior\n"
@@ -12070,18 +12094,18 @@ msgstr ""
 "d'Fënster\n"
 "awer opzemaachen oder Astellunge virzehuelen."
 
-#: khtml/khtml_part.cpp:7429
+#: khtml/khtml_part.cpp:7428
 #, fuzzy, kde-format
 msgid "&Show Blocked Popup Window"
 msgid_plural "&Show %1 Blocked Popup Windows"
 msgstr[0] "Blockéiert Popup-Fënster &weisen"
 msgstr[1] "%1 blockéiert Popup-Fënstere weisen"
 
-#: khtml/khtml_part.cpp:7430
+#: khtml/khtml_part.cpp:7429
 msgid "Show Blocked Window Passive Popup &Notification"
 msgstr "Passiv &Norichtefënster bei blockéierte Popup-Fënsteren uweisen"
 
-#: khtml/khtml_part.cpp:7432
+#: khtml/khtml_part.cpp:7431
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "JavaScript fir Fënsteren nei opzemaache &configuréieren..."
 
@@ -12283,11 +12307,11 @@ msgstr "JavaScript"
 msgid "&Abort"
 msgstr "&Ofbriechen"
 
-#: khtml/ecma/kjs_window.cpp:1591 khtml/ecma/kjs_html.cpp:2121
+#: khtml/ecma/kjs_window.cpp:1598 khtml/ecma/kjs_html.cpp:2121
 msgid "Confirmation: JavaScript Popup"
 msgstr "Bestätegung: JavaScript-Fënsteren"
 
-#: khtml/ecma/kjs_window.cpp:1594
+#: khtml/ecma/kjs_window.cpp:1601
 msgid ""
 "This site is requesting to open up a new browser window via JavaScript.\n"
 "Do you want to allow this?"
@@ -12295,7 +12319,7 @@ msgstr ""
 "Dëss Säit huet ugefrot, fir eng nei Fënster iwwert JavaScript opzemaachen.\n"
 "Wëllt dir dat zouloossen?"
 
-#: khtml/ecma/kjs_window.cpp:1597
+#: khtml/ecma/kjs_window.cpp:1604
 #, kde-format
 msgid ""
 "<qt>This site is requesting to open<p>%1</p>in a new browser window via "
@@ -12304,30 +12328,30 @@ msgstr ""
 "<qt>Dëss Säit huet ugefrot, fir<p>%1</p>an enger neier Fënster iwwert "
 "JavaScript opzemaachen.<br/>Wëllt dir dat zouloossen?</qt>"
 
-#: khtml/ecma/kjs_window.cpp:1599 khtml/ecma/kjs_html.cpp:2128
+#: khtml/ecma/kjs_window.cpp:1606 khtml/ecma/kjs_html.cpp:2128
 msgid "Allow"
 msgstr "Erlaben"
 
-#: khtml/ecma/kjs_window.cpp:1599 khtml/ecma/kjs_html.cpp:2128
+#: khtml/ecma/kjs_window.cpp:1606 khtml/ecma/kjs_html.cpp:2128
 msgid "Do Not Allow"
 msgstr "Net erlaben"
 
-#: khtml/ecma/kjs_window.cpp:1898
+#: khtml/ecma/kjs_window.cpp:1905
 msgid "Close window?"
 msgstr "Fënster zoumaachen?"
 
-#: khtml/ecma/kjs_window.cpp:1898
+#: khtml/ecma/kjs_window.cpp:1905
 msgid "Confirmation Required"
 msgstr "Bestätegung noutwendeg"
 
-#: khtml/ecma/kjs_window.cpp:2880
+#: khtml/ecma/kjs_window.cpp:2887
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr "Wëllt dir e Lieszeeche fir \"%1\" an är Sammlung dobäimaachen?"
 
-#: khtml/ecma/kjs_window.cpp:2883
+#: khtml/ecma/kjs_window.cpp:2890
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
@@ -12336,15 +12360,15 @@ msgstr ""
 "Wëllt dir e Lieszeeche mam Numm \"%2\" fir \"%1\" an är Sammlung "
 "dobäimaachen?"
 
-#: khtml/ecma/kjs_window.cpp:2891
+#: khtml/ecma/kjs_window.cpp:2898
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr "JavaScript huet probéiert, e Lieszeechen dobäizemaachen"
 
-#: khtml/ecma/kjs_window.cpp:2895
+#: khtml/ecma/kjs_window.cpp:2902
 msgid "Insert"
 msgstr "Asetzen"
 
-#: khtml/ecma/kjs_window.cpp:2895
+#: khtml/ecma/kjs_window.cpp:2902
 msgid "Disallow"
 msgstr "Net zouloossen"
 
