@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ksirtet\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-03-06 22:09+0100\n"
+"POT-Creation-Date: 2008-08-25 09:13+0200\n"
 "PO-Revision-Date: 2005-11-14 22:42+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -104,50 +104,50 @@ msgstr "Faarf vum L-Stéck:"
 msgid "Garbage block color:"
 msgstr "Faarf vum Drecksblock:"
 
-#. i18n: tag label
-#. i18n: file ksirtet.kcfg line 8
+#. i18n: file: ksirtet.kcfg:8
+#. i18n: ectx: label, entry (OldRotationStyle), group (Options)
 #: rc.cpp:3
 msgid "Use old rotation style."
 msgstr "Benotz den ale Rotatiounsstil"
 
-#. i18n: tag label
-#. i18n: file ksirtet.kcfg line 14
+#. i18n: file: ksirtet.kcfg:14
+#. i18n: ectx: label, entry (Coefficient_OccupiedLines), group (AI)
 #: rc.cpp:6
 msgid "Occupied lines"
 msgstr "Besate Linnen"
 
-#. i18n: tag label
-#. i18n: file ksirtet.kcfg line 20
+#. i18n: file: ksirtet.kcfg:20
+#. i18n: ectx: label, entry (Coefficient_Holes), group (AI)
 #: rc.cpp:9
 msgid "Number of holes"
 msgstr "Unzuel vun de Lächer"
 
-#. i18n: tag label
-#. i18n: file ksirtet.kcfg line 26
+#. i18n: file: ksirtet.kcfg:26
+#. i18n: ectx: label, entry (Coefficient_Spaces), group (AI)
 #: rc.cpp:12
 msgid "Number of spaces"
 msgstr "Unzuel vun de Freiraim"
 
-#. i18n: tag label
-#. i18n: file ksirtet.kcfg line 32
+#. i18n: file: ksirtet.kcfg:32
+#. i18n: ectx: label, entry (Coefficient_Peak2Peak), group (AI)
 #: rc.cpp:15
 msgid "Peak-to-peak distance"
 msgstr "Distanz vu Spëtzt-zu-Spëtzt"
 
-#. i18n: tag label
-#. i18n: file ksirtet.kcfg line 38
+#. i18n: file: ksirtet.kcfg:38
+#. i18n: ectx: label, entry (Coefficient_MeanHeight), group (AI)
 #: rc.cpp:18
 msgid "Mean height"
 msgstr "Mëttler Héicht"
 
-#. i18n: tag label
-#. i18n: file ksirtet.kcfg line 44
+#. i18n: file: ksirtet.kcfg:44
+#. i18n: ectx: label, entry (Coefficient_FullLines), group (AI)
 #: rc.cpp:21
 msgid "Number of full lines"
 msgstr "Unzuel vun de volle Linnen"
 
-#. i18n: tag text
-#. i18n: file ksirtetui.rc line 6
+#. i18n: file: ksirtetui.rc:6
+#. i18n: ectx: Menu (multiplayers)
 #: rc.cpp:24
 msgid "&Mode"
 msgstr "&Modus"

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kjobviewer\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-03-06 22:08+0100\n"
+"POT-Creation-Date: 2008-08-25 09:12+0200\n"
 "PO-Revision-Date: 2005-12-27 21:28+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -55,14 +55,14 @@ msgstr "Optrag-Uweiser beim Starte weisen"
 msgid "Show jobs for all printers"
 msgstr "Optreeg fir all Dréckeren uweisen"
 
-#. i18n: tag text
-#. i18n: file kjobviewerui.rc line 4
+#. i18n: file: kjobviewerui.rc:4
+#. i18n: ectx: Menu (jobs)
 #: rc.cpp:3
 msgid "&Jobs"
 msgstr "Optree&g"
 
-#. i18n: tag text
-#. i18n: file kjobviewerui.rc line 13
+#. i18n: file: kjobviewerui.rc:13
+#. i18n: ectx: Menu (filter)
 #: rc.cpp:6
 msgid "F&ilter"
 msgstr "F&ilter"
