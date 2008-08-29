@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-08-28 09:38+0200\n"
+"POT-Creation-Date: 2008-08-29 11:28+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -400,7 +400,7 @@ msgstr "Passwuert &bäibehalen"
 
 #. i18n: file: kdeui/sonnet/configui.ui:28
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox1)
-#: rc.cpp:158 kdeui/findreplace/kfinddialog.cpp:126 kfile/kfilewidget.cpp:399
+#: rc.cpp:158 kdeui/findreplace/kfinddialog.cpp:126
 msgid "Options"
 msgstr "Optiounen"
 
@@ -838,7 +838,7 @@ msgstr "&Réckelen"
 #. i18n: ectx: Menu (view)
 #. i18n: file: khtml/khtml_browser.rc:20
 #. i18n: ectx: Menu (view)
-#: rc.cpp:318 rc.cpp:459 kfile/kdiroperator.cpp:1701
+#: rc.cpp:318 rc.cpp:459
 msgid "&View"
 msgstr "&Usiicht"
 
@@ -6319,7 +6319,7 @@ msgstr "Ewechmaachen"
 msgid "Test"
 msgstr "Test"
 
-#: kdeui/util/kstandardguiitem.cpp:285 kfile/kdiroperator.cpp:1694
+#: kdeui/util/kstandardguiitem.cpp:285
 msgid "Properties"
 msgstr "Eegeschaften"
 
@@ -6378,7 +6378,7 @@ msgstr "Eegeschaften"
 msgid "Front"
 msgstr "Vir"
 
-#: kdeui/util/kkeyserver_x11.cpp:114 kfile/kurlbutton.cpp:90
+#: kdeui/util/kkeyserver_x11.cpp:114
 msgid "Copy"
 msgstr "Kopéieren"
 
@@ -6386,7 +6386,7 @@ msgstr "Kopéieren"
 msgid "Open"
 msgstr "Opmaachen"
 
-#: kdeui/util/kkeyserver_x11.cpp:116 kfile/kurlbutton.cpp:94
+#: kdeui/util/kkeyserver_x11.cpp:116
 msgid "Paste"
 msgstr "Peschen"
 
@@ -10812,671 +10812,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 msgid "Nothing to spell check."
 msgstr "Kee Provider gewielt."
 
-#: kfile/kfileplacesview.cpp:560
-#, fuzzy
-#| msgid "Trash"
-msgctxt "@action:inmenu"
-msgid "Empty Trash"
-msgstr "Dreckskëscht"
-
-#: kfile/kfileplacesview.cpp:566
-#, fuzzy, kde-format
-#| msgid "&Edit..."
-msgid "&Edit '%1'..."
-msgstr "V&eränneren..."
-
-#: kfile/kfileplacesview.cpp:585
-#, fuzzy, kde-format
-#| msgid "Hide %1"
-msgid "&Hide '%1'"
-msgstr "%1 net weisen"
-
-#: kfile/kfileplacesview.cpp:592
-#, fuzzy
-#| msgid "Show all options"
-msgid "&Show All Entries"
-msgstr "All Optioune weisen"
-
-#: kfile/kfileplacesview.cpp:601
-#, fuzzy, kde-format
-#| msgid "&Remove"
-msgid "&Remove '%1'"
-msgstr "&Ewechmaachen"
-
-#: kfile/kfileplacesview.cpp:610
-#, fuzzy
-#| msgid "Do you really want to execute '%1'? "
-msgctxt "@info"
-msgid "Do you really want to empty the Trash? All items will be deleted."
-msgstr "Wëllt dir '%1' wiirklech lafe loossen? "
-
-#: kfile/kfileplacesview.cpp:614
-#, fuzzy
-#| msgid "Trash"
-msgctxt "@action:button"
-msgid "Empty Trash"
-msgstr "Dreckskëscht"
-
-#: kfile/kfilefiltercombo.cpp:36 kfile/kfilewidget.cpp:1663
-#, fuzzy
-#| msgid "Files"
-msgid "*|All Files"
-msgstr "Dateien"
-
-#: kfile/kfilefiltercombo.cpp:181
-#, fuzzy
-#| msgid "&Send Files"
-msgid "All Supported Files"
-msgstr "Dateie &verschécken"
-
-#: kfile/kfilewidget.cpp:246
-msgid ""
-"<qt>While typing in the text area, you may be presented with possible "
-"matches. This feature can be controlled by clicking with the right mouse "
-"button and selecting a preferred mode from the <b>Text Completion</b> menu."
-msgstr ""
-
-#: kfile/kfilewidget.cpp:313
-#, fuzzy, kde-format
-#| msgid "Hide %1"
-msgid "Drive: %1"
-msgstr "%1 net weisen"
-
-#: kfile/kfilewidget.cpp:368
-#, kde-format
-msgid ""
-"<qt>Click this button to enter the parent folder.<br /><br />For instance, "
-"if the current location is file:/home/%1 clicking this button will take you "
-"to file:/home.</qt>"
-msgstr ""
-
-#: kfile/kfilewidget.cpp:373
-msgid "Click this button to move backwards one step in the browsing history."
-msgstr ""
-
-#: kfile/kfilewidget.cpp:375
-msgid "Click this button to move forward one step in the browsing history."
-msgstr ""
-
-#: kfile/kfilewidget.cpp:378
-msgid "Click this button to reload the contents of the current location."
-msgstr ""
-
-#: kfile/kfilewidget.cpp:381
-msgid "Click this button to create a new folder."
-msgstr ""
-
-#: kfile/kfilewidget.cpp:387
-#, fuzzy
-#| msgid "Show license information"
-msgid "Show Places Navigation Panel"
-msgstr "Lizenzinformatiounen uweisen"
-
-#: kfile/kfilewidget.cpp:394
-#, fuzzy
-#| msgid "Bookmarks"
-msgid "Show Bookmarks"
-msgstr "Lieszeechen"
-
-#: kfile/kfilewidget.cpp:401
-msgid ""
-"<qt>This is the preferences menu for the file dialog. Various options can be "
-"accessed from this menu including: <ul><li>how files are sorted in the list</"
-"li><li>types of view, including icon and list</li><li>showing of hidden "
-"files</li><li>the Places navigation panel</li><li>file previews</"
-"li><li>separating folders from files</li></ul></qt>"
-msgstr ""
-
-#: kfile/kfilewidget.cpp:447 kfile/kfileplaceeditdialog.cpp:116
-#, fuzzy
-msgid "&Location:"
-msgstr "Configuratioun"
-
-#: kfile/kfilewidget.cpp:484
-msgid ""
-"<qt>This is the filter to apply to the file list. File names that do not "
-"match the filter will not be shown.<p>You may select from one of the preset "
-"filters in the drop down menu, or you may enter a custom filter directly "
-"into the text area.</p><p>Wildcards such as * and ? are allowed.</p></qt>"
-msgstr ""
-
-#: kfile/kfilewidget.cpp:490
-#, fuzzy
-#| msgid "Filter:"
-msgid "&Filter:"
-msgstr "Filter:"
-
-#: kfile/kfilewidget.cpp:717 kfile/kfilewidget.cpp:766
-#: kfile/kfilewidget.cpp:1600
-msgid "You can only select local files."
-msgstr ""
-
-#: kfile/kfilewidget.cpp:718 kfile/kfilewidget.cpp:767
-#: kfile/kfilewidget.cpp:1601
-msgid "Remote Files Not Accepted"
-msgstr ""
-
-#: kfile/kfilewidget.cpp:757
-#, kde-format
-msgid ""
-"%1\n"
-"does not appear to be a valid URL.\n"
-msgstr ""
-
-#: kfile/kfilewidget.cpp:757
-#, fuzzy
-#| msgid "InvalidCA"
-msgid "Invalid URL"
-msgstr "InvalidCA"
-
-#: kfile/kfilewidget.cpp:1191
-msgid "This is the name to save the file as."
-msgstr ""
-
-#: kfile/kfilewidget.cpp:1196
-msgid ""
-"This is the list of files to open. More than one file can be specified by "
-"listing several files, separated by spaces."
-msgstr ""
-
-#: kfile/kfilewidget.cpp:1203
-msgid "This is the name of the file to open."
-msgstr ""
-
-#: kfile/kfilewidget.cpp:1377
-#, fuzzy, kde-format
-#| msgid "The file '%1' already exists. Do you want to overwrite it?"
-msgid "The file \"%1\" already exists. Do you wish to overwrite it?"
-msgstr "D'Datei '%1' gëtt et schonn. Soll se iwwerschriwwe ginn?"
-
-#: kfile/kfilewidget.cpp:1378 khtml/khtml_ext.cpp:928
-msgid "Overwrite File?"
-msgstr "Datei iwwerschreiwen?"
-
-#: kfile/kfilewidget.cpp:1532
-msgid ""
-"The chosen filenames do not\n"
-"appear to be valid."
-msgstr ""
-
-#: kfile/kfilewidget.cpp:1534
-#, fuzzy
-#| msgid "invalid flags"
-msgid "Invalid Filenames"
-msgstr "Ongülteg Werter"
-
-#: kfile/kfilewidget.cpp:1563
-#, kde-format
-msgid ""
-"The requested filenames\n"
-"%1\n"
-"do not appear to be valid;\n"
-"make sure every filename is enclosed in double quotes."
-msgstr ""
-
-#: kfile/kfilewidget.cpp:1567
-#, fuzzy
-#| msgid "File Error"
-msgid "Filename Error"
-msgstr "Dateifeler"
-
-#: kfile/kfilewidget.cpp:1660
-msgid "*|All Folders"
-msgstr ""
-
-#: kfile/kfilewidget.cpp:1802 kparts/browserrun.cpp:384
-msgid "&Open"
-msgstr "&Opmaachen"
-
-#: kfile/kfilewidget.cpp:1958
-#, kde-format
-msgid "Automatically select filename e&xtension (%1)"
-msgstr ""
-
-#: kfile/kfilewidget.cpp:1959
-#, kde-format
-msgid "the extension <b>%1</b>"
-msgstr ""
-
-#: kfile/kfilewidget.cpp:1967
-msgid "Automatically select filename e&xtension"
-msgstr ""
-
-#: kfile/kfilewidget.cpp:1968
-msgid "a suitable extension"
-msgstr ""
-
-#: kfile/kfilewidget.cpp:1978
-#, kde-format
-msgid ""
-"This option enables some convenient features for saving files with "
-"extensions:<br /><ol><li>Any extension specified in the <b>%1</b> text area "
-"will be updated if you change the file type to save in.<br /><br /></"
-"li><li>If no extension is specified in the <b>%2</b> text area when you "
-"click <b>Save</b>, %3 will be added to the end of the filename (if the "
-"filename does not already exist). This extension is based on the file type "
-"that you have chosen to save in.<br /><br />If you do not want KDE to supply "
-"an extension for the filename, you can either turn this option off or you "
-"can suppress it by adding a period (.) to the end of the filename (the "
-"period will be automatically removed).</li></ol>If unsure, keep this option "
-"enabled as it makes your files more manageable."
-msgstr ""
-
-#: kfile/kfilewidget.cpp:2277
-msgid "Bookmarks"
-msgstr "Lieszeechen"
-
-#: kfile/kfilewidget.cpp:2281
-msgid ""
-"<qt>This button allows you to bookmark specific locations. Click on this "
-"button to open the bookmark menu where you may add, edit or select a "
-"bookmark.<br /><br />These bookmarks are specific to the file dialog, but "
-"otherwise operate like bookmarks elsewhere in KDE.</qt>"
-msgstr ""
-
-#: kfile/kfileplacesmodel.cpp:101
-#, fuzzy
-#| msgctxt "Opposite to End"
-#| msgid "Home"
-msgctxt "Home Directory"
-msgid "Home"
-msgstr "Ufank"
-
-#: kfile/kfileplacesmodel.cpp:103
-#, fuzzy
-#| msgid "New"
-msgid "Network"
-msgstr "Nei"
-
-#: kfile/kfileplacesmodel.cpp:107 kfile/kfileplacesmodel.cpp:110
-#, fuzzy
-#| msgid "NoCARoot"
-msgid "Root"
-msgstr "NoCARoot"
-
-#: kfile/kfileplacesmodel.cpp:113
-#, fuzzy
-#| msgid "Trash"
-msgid "Trash"
-msgstr "Dreckskëscht"
-
-#: kfile/kfileplacesmodel.cpp:687
-#, fuzzy, kde-format
-#| msgid "&Remove"
-msgid "&Release '%1'"
-msgstr "&Ewechmaachen"
-
-#: kfile/kfileplacesmodel.cpp:689
-#, fuzzy, kde-format
-#| msgid "&Remove"
-msgid "&Safely Remove '%1'"
-msgstr "&Ewechmaachen"
-
-#: kfile/kfileplacesmodel.cpp:692
-#, fuzzy, kde-format
-#| msgid "&About %1"
-msgid "&Unmount '%1'"
-msgstr "&Iwwer %1"
-
-#: kfile/kfileplacesmodel.cpp:713
-#, fuzzy, kde-format
-#| msgid "&Open with '%1'"
-msgid "&Eject '%1'"
-msgstr "Mat '%1' &opmaachen"
-
-#: kfile/kfileplacesmodel.cpp:746
-#, kde-format
-msgid "The device '%1' is not a disc and can't be ejected."
-msgstr ""
-
-#: kfile/kfileplacesmodel.cpp:782
-#, fuzzy, kde-format
-#| msgid "An error occurred while loading <B>%1</B>:"
-msgid "An error occurred while accessing '%1', the system responded: %2"
-msgstr "E Feeler ass beim Luede vun <B>%1</B> opgetrueden:"
-
-#: kfile/kfileplacesmodel.cpp:786
-#, fuzzy, kde-format
-#| msgid "An error occurred while loading <B>%1</B>:"
-msgid "An error occurred while accessing '%1'"
-msgstr "E Feeler ass beim Luede vun <B>%1</B> opgetrueden:"
-
-#: kfile/kurlnavigator.cpp:573
-#, fuzzy
-#| msgid "Custom"
-msgid "Custom Path"
-msgstr "Benotzerdefinéiert"
-
-#: kfile/kdirselectdialog.cpp:115 kfile/kdiroperator.cpp:666
-#: kfile/kdiroperator.cpp:674
-msgid "New Folder"
-msgstr ""
-
-#: kfile/kdirselectdialog.cpp:119
-#, fuzzy
-#| msgid "Home Phone"
-msgctxt "@title:window"
-msgid "New Folder"
-msgstr "Tëlefon (Doheem)"
-
-#: kfile/kdirselectdialog.cpp:120
-#, kde-format
-msgctxt "@label:textbox"
-msgid ""
-"Create new folder in:\n"
-"%1"
-msgstr ""
-
-#: kfile/kdirselectdialog.cpp:143 kfile/kdiroperator.cpp:701
-#, kde-format
-msgid "A file or folder named %1 already exists."
-msgstr ""
-
-#: kfile/kdirselectdialog.cpp:147 kfile/kdiroperator.cpp:704
-msgid "You do not have permission to create that folder."
-msgstr ""
-
-#: kfile/kdirselectdialog.cpp:223
-#, fuzzy
-#| msgid "Select Color"
-msgctxt "@title:window"
-msgid "Select Folder"
-msgstr "Faarf auswielen"
-
-#: kfile/kdirselectdialog.cpp:225
-#, fuzzy
-#| msgid "Home Phone"
-msgctxt "@action:button"
-msgid "New Folder..."
-msgstr "Tëlefon (Doheem)"
-
-#: kfile/kdirselectdialog.cpp:264
-#, fuzzy
-#| msgid "Home Phone"
-msgctxt "@action:inmenu"
-msgid "New Folder..."
-msgstr "Tëlefon (Doheem)"
-
-#: kfile/kdirselectdialog.cpp:271
-#, fuzzy
-msgctxt "@option:check"
-msgid "Show Hidden Folders"
-msgstr "Hëllef weisen"
-
-#: kfile/kfileplaceeditdialog.cpp:85
-#, fuzzy
-#| msgid "&Edit..."
-msgid "Edit Places Entry"
-msgstr "V&eränneren..."
-
-#: kfile/kfileplaceeditdialog.cpp:99
-msgid ""
-"<qt>This is the text that will appear in the Places panel.<br /><br />The "
-"description should consist of one or two words that will help you remember "
-"what this entry refers to.</qt>"
-msgstr ""
-
-#: kfile/kfileplaceeditdialog.cpp:102
-#, fuzzy
-#| msgid "Description:"
-msgid "&Description:"
-msgstr "Beschreiwung:"
-
-#: kfile/kfileplaceeditdialog.cpp:112
-#, kde-format
-msgid ""
-"<qt>This is the location associated with the entry. Any valid URL may be "
-"used. For example:<br /><br />%1<br />http://www.kde.org<br />ftp://ftp.kde."
-"org/pub/kde/stable<br /><br />By clicking on the button next to the text "
-"edit box you can browse to an appropriate URL.</qt>"
-msgstr ""
-
-#: kfile/kfileplaceeditdialog.cpp:125
-msgid ""
-"<qt>This is the icon that will appear in the Places panel.<br /><br />Click "
-"on the button to select a different icon.</qt>"
-msgstr ""
-
-#: kfile/kfileplaceeditdialog.cpp:127
-msgid "Choose an &icon:"
-msgstr ""
-
-#: kfile/kfileplaceeditdialog.cpp:147
-#, kde-format
-msgid "&Only show when using this application (%1)"
-msgstr ""
-
-#: kfile/kfileplaceeditdialog.cpp:149
-#, kde-format
-msgid ""
-"<qt>Select this setting if you want this entry to show only when using the "
-"current application (%1).<br /><br />If this setting is not selected, the "
-"entry will be available in all applications.</qt>"
-msgstr ""
-
-#: kfile/kfiletreeview.cpp:185
-#, fuzzy
-msgid "Show Hidden Folders"
-msgstr "Hëllef weisen"
-
-#: kfile/kdiroperator.cpp:675
-#, kde-format
-msgid ""
-"Create new folder in:\n"
-"%1"
-msgstr ""
-
-#: kfile/kdiroperator.cpp:719
-msgid "You did not select a file to delete."
-msgstr ""
-
-#: kfile/kdiroperator.cpp:720
-#, fuzzy
-msgid "Nothing to Delete"
-msgstr "Kee Provider gewielt."
-
-#: kfile/kdiroperator.cpp:741
-#, fuzzy, kde-format
-#| msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
-msgid ""
-"<qt>Do you really want to delete\n"
-" <b>'%1'</b>?</qt>"
-msgstr "<qt>Sidd dir sëcher, dass dir <b>%1</b> zoumaache wëllt ?</qt>"
-
-#: kfile/kdiroperator.cpp:743
-#, fuzzy
-#| msgid "Delete All"
-msgid "Delete File"
-msgstr "Alles Läschen"
-
-#: kfile/kdiroperator.cpp:748
-#, fuzzy, kde-format
-#| msgid "Do you really want to execute '%1'? "
-msgid "Do you really want to delete this item?"
-msgid_plural "Do you really want to delete these %1 items?"
-msgstr[0] "Wëllt dir '%1' wiirklech lafe loossen? "
-msgstr[1] "Wëllt dir '%1' wiirklech lafe loossen? "
-
-#: kfile/kdiroperator.cpp:750
-#, fuzzy
-#| msgid "Delete item(s)"
-msgid "Delete Files"
-msgstr "Element(er) läschen"
-
-#: kfile/kdiroperator.cpp:781
-msgid "You did not select a file to trash."
-msgstr ""
-
-#: kfile/kdiroperator.cpp:782
-msgid "Nothing to Trash"
-msgstr ""
-
-#: kfile/kdiroperator.cpp:799
-#, fuzzy, kde-format
-#| msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
-msgid ""
-"<qt>Do you really want to trash\n"
-" <b>'%1'</b>?</qt>"
-msgstr "<qt>Sidd dir sëcher, dass dir <b>%1</b> zoumaache wëllt ?</qt>"
-
-#: kfile/kdiroperator.cpp:801
-#, fuzzy
-#| msgid "Trash"
-msgid "Trash File"
-msgstr "Dreckskëscht"
-
-#: kfile/kdiroperator.cpp:802 kfile/kdiroperator.cpp:809
-#, fuzzy
-#| msgid "Trash"
-msgctxt "to trash"
-msgid "&Trash"
-msgstr "Dreckskëscht"
-
-#: kfile/kdiroperator.cpp:806
-#, kde-format
-msgid "translators: not called for n == 1"
-msgid_plural "Do you really want to trash these %1 items?"
-msgstr[0] ""
-msgstr[1] ""
-
-#: kfile/kdiroperator.cpp:808
-#, fuzzy
-#| msgid "Files"
-msgid "Trash Files"
-msgstr "Dateien"
-
-#: kfile/kdiroperator.cpp:935 kfile/kdiroperator.cpp:1052
-msgid "The specified folder does not exist or was not readable."
-msgstr ""
-
-#: kfile/kdiroperator.cpp:1594
-#, fuzzy
-#| msgctxt "QAccel"
-#| msgid "Menu"
-msgid "Menu"
-msgstr "Menü"
-
-#: kfile/kdiroperator.cpp:1598
-#, fuzzy
-#| msgid "Print header"
-msgid "Parent Folder"
-msgstr "Header drécken"
-
-#: kfile/kdiroperator.cpp:1605
-#, fuzzy
-#| msgid "Home Phone"
-msgid "Home Folder"
-msgstr "Tëlefon (Doheem)"
-
-#: kfile/kdiroperator.cpp:1608
-msgid "Reload"
-msgstr "Nach eng Kéier lueden"
-
-#: kfile/kdiroperator.cpp:1611
-msgid "New Folder..."
-msgstr ""
-
-#: kfile/kdiroperator.cpp:1616
-msgid "Move to Trash"
-msgstr ""
-
-#: kfile/kdiroperator.cpp:1622
-msgid "Delete"
-msgstr "Läschen"
-
-#: kfile/kdiroperator.cpp:1629
-#, fuzzy
-#| msgid "Sort String"
-msgid "Sorting"
-msgstr "Sortéierungsschlëssel"
-
-#: kfile/kdiroperator.cpp:1632
-#, fuzzy
-#| msgid "Name"
-msgid "By Name"
-msgstr "Numm"
-
-#: kfile/kdiroperator.cpp:1636
-#, fuzzy
-#| msgid "Size"
-msgid "By Size"
-msgstr "Gréisst"
-
-#: kfile/kdiroperator.cpp:1640
-#, fuzzy
-#| msgid "Dates"
-msgid "By Date"
-msgstr "Datum"
-
-#: kfile/kdiroperator.cpp:1644
-#, fuzzy
-#| msgid "Type"
-msgid "By Type"
-msgstr "Typ"
-
-#: kfile/kdiroperator.cpp:1648
-msgid "Descending"
-msgstr ""
-
-#: kfile/kdiroperator.cpp:1658
-msgid "Short View"
-msgstr ""
-
-#: kfile/kdiroperator.cpp:1663
-#, fuzzy
-#| msgid "Details"
-msgid "Detailed View"
-msgstr "Detailer"
-
-#: kfile/kdiroperator.cpp:1668
-#, fuzzy
-#| msgid "&New View"
-msgid "Tree View"
-msgstr "&Nei Siicht"
-
-#: kfile/kdiroperator.cpp:1673
-#, fuzzy
-#| msgid "Details"
-msgid "Detailed Tree View"
-msgstr "Detailer"
-
-#: kfile/kdiroperator.cpp:1684
-#, fuzzy
-msgid "Show Hidden Files"
-msgstr "Hëllef weisen"
-
-#: kfile/kdiroperator.cpp:1688
-msgid "Show Preview"
-msgstr ""
-
-#: kfile/kurltogglebutton.cpp:76
-#, fuzzy
-#| msgid "Click to select a font"
-msgid "Click for Location Navigation"
-msgstr "Klickt hei, fir eng Schrëft ze wielen"
-
-#: kfile/kurltogglebutton.cpp:78
-#, fuzzy
-#| msgid "Click to select a font"
-msgid "Click to Edit Location"
-msgstr "Klickt hei, fir eng Schrëft ze wielen"
-
-#: kfile/kurlbutton.cpp:101 kross/ui/view.cpp:505
-msgid "Edit"
-msgstr "Veränneren"
-
-#: kfile/kurlbutton.cpp:104
-#, fuzzy
-#| msgid "Navigation"
-msgid "Navigate"
-msgstr "Navigatioun"
-
-#: kfile/kurlbutton.cpp:119
-#, fuzzy
-#| msgid "Show all options"
-msgid "Show Full Path"
-msgstr "All Optioune weisen"
-
 #: khtml/testkhtml.cpp:38
 #, fuzzy
 #| msgid "URL to open"
@@ -11747,6 +11082,10 @@ msgid ""
 msgstr ""
 "Eng Datei mam Numm \"%1\" gëtt et schonn. Sidd dir sëcher, dass dir se "
 "iwwerschreiwe wëllt?"
+
+#: khtml/khtml_ext.cpp:928
+msgid "Overwrite File?"
+msgstr "Datei iwwerschreiwen?"
 
 #: khtml/khtml_ext.cpp:928
 msgid "Overwrite"
@@ -13034,6 +12373,10 @@ msgstr ""
 msgid "Remove selected script."
 msgstr ""
 
+#: kross/ui/view.cpp:505
+msgid "Edit"
+msgstr "Veränneren"
+
 #: kross/qts/main.cpp:57 kross/console/main.cpp:94
 #, fuzzy
 #| msgid "Props"
@@ -13338,6 +12681,10 @@ msgstr "Mat '%1' &opmaachen"
 #: kparts/browserrun.cpp:339
 msgid "&Open With..."
 msgstr "&Opmaache mat..."
+
+#: kparts/browserrun.cpp:384
+msgid "&Open"
+msgstr "&Opmaachen"
 
 #: kutils/kcmoduleloader.cpp:76
 #, kde-format
@@ -14568,6 +13915,338 @@ msgstr "&Rotschlag vum Dag"
 #, fuzzy, kde-format
 msgid "No such function \"%1\""
 msgstr "D'Entrée '%1' ass net am Menü."
+
+#, fuzzy
+#~| msgid "Trash"
+#~ msgctxt "@action:inmenu"
+#~ msgid "Empty Trash"
+#~ msgstr "Dreckskëscht"
+
+#, fuzzy
+#~| msgid "&Edit..."
+#~ msgid "&Edit '%1'..."
+#~ msgstr "V&eränneren..."
+
+#, fuzzy
+#~| msgid "Hide %1"
+#~ msgid "&Hide '%1'"
+#~ msgstr "%1 net weisen"
+
+#, fuzzy
+#~| msgid "Show all options"
+#~ msgid "&Show All Entries"
+#~ msgstr "All Optioune weisen"
+
+#, fuzzy
+#~| msgid "&Remove"
+#~ msgid "&Remove '%1'"
+#~ msgstr "&Ewechmaachen"
+
+#, fuzzy
+#~| msgid "Do you really want to execute '%1'? "
+#~ msgctxt "@info"
+#~ msgid "Do you really want to empty the Trash? All items will be deleted."
+#~ msgstr "Wëllt dir '%1' wiirklech lafe loossen? "
+
+#, fuzzy
+#~| msgid "Trash"
+#~ msgctxt "@action:button"
+#~ msgid "Empty Trash"
+#~ msgstr "Dreckskëscht"
+
+#, fuzzy
+#~| msgid "Files"
+#~ msgid "*|All Files"
+#~ msgstr "Dateien"
+
+#, fuzzy
+#~| msgid "&Send Files"
+#~ msgid "All Supported Files"
+#~ msgstr "Dateie &verschécken"
+
+#, fuzzy
+#~| msgid "Hide %1"
+#~ msgid "Drive: %1"
+#~ msgstr "%1 net weisen"
+
+#, fuzzy
+#~| msgid "Show license information"
+#~ msgid "Show Places Navigation Panel"
+#~ msgstr "Lizenzinformatiounen uweisen"
+
+#, fuzzy
+#~| msgid "Bookmarks"
+#~ msgid "Show Bookmarks"
+#~ msgstr "Lieszeechen"
+
+#, fuzzy
+#~ msgid "&Location:"
+#~ msgstr "Configuratioun"
+
+#, fuzzy
+#~| msgid "Filter:"
+#~ msgid "&Filter:"
+#~ msgstr "Filter:"
+
+#, fuzzy
+#~| msgid "InvalidCA"
+#~ msgid "Invalid URL"
+#~ msgstr "InvalidCA"
+
+#, fuzzy
+#~| msgid "The file '%1' already exists. Do you want to overwrite it?"
+#~ msgid "The file \"%1\" already exists. Do you wish to overwrite it?"
+#~ msgstr "D'Datei '%1' gëtt et schonn. Soll se iwwerschriwwe ginn?"
+
+#, fuzzy
+#~| msgid "invalid flags"
+#~ msgid "Invalid Filenames"
+#~ msgstr "Ongülteg Werter"
+
+#, fuzzy
+#~| msgid "File Error"
+#~ msgid "Filename Error"
+#~ msgstr "Dateifeler"
+
+#~ msgid "Bookmarks"
+#~ msgstr "Lieszeechen"
+
+#, fuzzy
+#~| msgctxt "Opposite to End"
+#~| msgid "Home"
+#~ msgctxt "Home Directory"
+#~ msgid "Home"
+#~ msgstr "Ufank"
+
+#, fuzzy
+#~| msgid "New"
+#~ msgid "Network"
+#~ msgstr "Nei"
+
+#, fuzzy
+#~| msgid "NoCARoot"
+#~ msgid "Root"
+#~ msgstr "NoCARoot"
+
+#, fuzzy
+#~| msgid "Trash"
+#~ msgid "Trash"
+#~ msgstr "Dreckskëscht"
+
+#, fuzzy
+#~| msgid "&Remove"
+#~ msgid "&Release '%1'"
+#~ msgstr "&Ewechmaachen"
+
+#, fuzzy
+#~| msgid "&Remove"
+#~ msgid "&Safely Remove '%1'"
+#~ msgstr "&Ewechmaachen"
+
+#, fuzzy
+#~| msgid "&About %1"
+#~ msgid "&Unmount '%1'"
+#~ msgstr "&Iwwer %1"
+
+#, fuzzy
+#~| msgid "&Open with '%1'"
+#~ msgid "&Eject '%1'"
+#~ msgstr "Mat '%1' &opmaachen"
+
+#, fuzzy
+#~| msgid "An error occurred while loading <B>%1</B>:"
+#~ msgid "An error occurred while accessing '%1', the system responded: %2"
+#~ msgstr "E Feeler ass beim Luede vun <B>%1</B> opgetrueden:"
+
+#, fuzzy
+#~| msgid "An error occurred while loading <B>%1</B>:"
+#~ msgid "An error occurred while accessing '%1'"
+#~ msgstr "E Feeler ass beim Luede vun <B>%1</B> opgetrueden:"
+
+#, fuzzy
+#~| msgid "Custom"
+#~ msgid "Custom Path"
+#~ msgstr "Benotzerdefinéiert"
+
+#, fuzzy
+#~| msgid "Home Phone"
+#~ msgctxt "@title:window"
+#~ msgid "New Folder"
+#~ msgstr "Tëlefon (Doheem)"
+
+#, fuzzy
+#~| msgid "Select Color"
+#~ msgctxt "@title:window"
+#~ msgid "Select Folder"
+#~ msgstr "Faarf auswielen"
+
+#, fuzzy
+#~| msgid "Home Phone"
+#~ msgctxt "@action:button"
+#~ msgid "New Folder..."
+#~ msgstr "Tëlefon (Doheem)"
+
+#, fuzzy
+#~| msgid "Home Phone"
+#~ msgctxt "@action:inmenu"
+#~ msgid "New Folder..."
+#~ msgstr "Tëlefon (Doheem)"
+
+#, fuzzy
+#~ msgctxt "@option:check"
+#~ msgid "Show Hidden Folders"
+#~ msgstr "Hëllef weisen"
+
+#, fuzzy
+#~| msgid "&Edit..."
+#~ msgid "Edit Places Entry"
+#~ msgstr "V&eränneren..."
+
+#, fuzzy
+#~| msgid "Description:"
+#~ msgid "&Description:"
+#~ msgstr "Beschreiwung:"
+
+#, fuzzy
+#~ msgid "Show Hidden Folders"
+#~ msgstr "Hëllef weisen"
+
+#, fuzzy
+#~ msgid "Nothing to Delete"
+#~ msgstr "Kee Provider gewielt."
+
+#, fuzzy
+#~| msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
+#~ msgid ""
+#~ "<qt>Do you really want to delete\n"
+#~ " <b>'%1'</b>?</qt>"
+#~ msgstr "<qt>Sidd dir sëcher, dass dir <b>%1</b> zoumaache wëllt ?</qt>"
+
+#, fuzzy
+#~| msgid "Delete All"
+#~ msgid "Delete File"
+#~ msgstr "Alles Läschen"
+
+#, fuzzy
+#~| msgid "Do you really want to execute '%1'? "
+#~ msgid "Do you really want to delete this item?"
+#~ msgid_plural "Do you really want to delete these %1 items?"
+#~ msgstr[0] "Wëllt dir '%1' wiirklech lafe loossen? "
+#~ msgstr[1] "Wëllt dir '%1' wiirklech lafe loossen? "
+
+#, fuzzy
+#~| msgid "Delete item(s)"
+#~ msgid "Delete Files"
+#~ msgstr "Element(er) läschen"
+
+#, fuzzy
+#~| msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
+#~ msgid ""
+#~ "<qt>Do you really want to trash\n"
+#~ " <b>'%1'</b>?</qt>"
+#~ msgstr "<qt>Sidd dir sëcher, dass dir <b>%1</b> zoumaache wëllt ?</qt>"
+
+#, fuzzy
+#~| msgid "Trash"
+#~ msgid "Trash File"
+#~ msgstr "Dreckskëscht"
+
+#, fuzzy
+#~| msgid "Trash"
+#~ msgctxt "to trash"
+#~ msgid "&Trash"
+#~ msgstr "Dreckskëscht"
+
+#, fuzzy
+#~| msgid "Files"
+#~ msgid "Trash Files"
+#~ msgstr "Dateien"
+
+#, fuzzy
+#~| msgctxt "QAccel"
+#~| msgid "Menu"
+#~ msgid "Menu"
+#~ msgstr "Menü"
+
+#, fuzzy
+#~| msgid "Print header"
+#~ msgid "Parent Folder"
+#~ msgstr "Header drécken"
+
+#, fuzzy
+#~| msgid "Home Phone"
+#~ msgid "Home Folder"
+#~ msgstr "Tëlefon (Doheem)"
+
+#~ msgid "Reload"
+#~ msgstr "Nach eng Kéier lueden"
+
+#~ msgid "Delete"
+#~ msgstr "Läschen"
+
+#, fuzzy
+#~| msgid "Sort String"
+#~ msgid "Sorting"
+#~ msgstr "Sortéierungsschlëssel"
+
+#, fuzzy
+#~| msgid "Name"
+#~ msgid "By Name"
+#~ msgstr "Numm"
+
+#, fuzzy
+#~| msgid "Size"
+#~ msgid "By Size"
+#~ msgstr "Gréisst"
+
+#, fuzzy
+#~| msgid "Dates"
+#~ msgid "By Date"
+#~ msgstr "Datum"
+
+#, fuzzy
+#~| msgid "Type"
+#~ msgid "By Type"
+#~ msgstr "Typ"
+
+#, fuzzy
+#~| msgid "Details"
+#~ msgid "Detailed View"
+#~ msgstr "Detailer"
+
+#, fuzzy
+#~| msgid "&New View"
+#~ msgid "Tree View"
+#~ msgstr "&Nei Siicht"
+
+#, fuzzy
+#~| msgid "Details"
+#~ msgid "Detailed Tree View"
+#~ msgstr "Detailer"
+
+#, fuzzy
+#~ msgid "Show Hidden Files"
+#~ msgstr "Hëllef weisen"
+
+#, fuzzy
+#~| msgid "Click to select a font"
+#~ msgid "Click for Location Navigation"
+#~ msgstr "Klickt hei, fir eng Schrëft ze wielen"
+
+#, fuzzy
+#~| msgid "Click to select a font"
+#~ msgid "Click to Edit Location"
+#~ msgstr "Klickt hei, fir eng Schrëft ze wielen"
+
+#, fuzzy
+#~| msgid "Navigation"
+#~ msgid "Navigate"
+#~ msgstr "Navigatioun"
+
+#, fuzzy
+#~| msgid "Show all options"
+#~ msgid "Show Full Path"
+#~ msgstr "All Optioune weisen"
 
 #, fuzzy
 #~| msgid "Business Phone"
