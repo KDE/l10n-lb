@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-08-29 06:14+0200\n"
+"POT-Creation-Date: 2008-08-30 06:10+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -13276,6 +13276,7 @@ msgstr "Samschten"
 
 #: kdeui/colors/kcolordialog.cpp:1039
 #, fuzzy
+msgctxt "This is the V of HSV"
 msgid "Value:"
 msgstr "Wert"
 
