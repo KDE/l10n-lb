@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-09-04 09:39+0200\n"
+"POT-Creation-Date: 2008-09-08 09:39+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -6695,7 +6695,7 @@ msgstr "Dëss Noricht net méi weisen"
 
 #: kdeui/dialogs/kmessagebox.cpp:1021
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:73
-#: kdeui/widgets/khelpmenu.cpp:263 kde3support/kdeui/k3aboutdialog.cpp:1045
+#: kdeui/widgets/khelpmenu.cpp:264 kde3support/kdeui/k3aboutdialog.cpp:1045
 #, kde-format
 msgid "About %1"
 msgstr "Iwwer %1"
@@ -7586,21 +7586,21 @@ msgctxt "@info:whatsthis"
 msgid "Here you can choose the font style to be used."
 msgstr "Hei kënnt dir de Schrëftstil wielen, dee benotzt soll ginn."
 
-#: kdeui/fonts/kfontchooser.cpp:292 kdeui/fonts/kfontchooser.cpp:614
+#: kdeui/fonts/kfontchooser.cpp:292 kdeui/fonts/kfontchooser.cpp:618
 #, fuzzy
 #| msgid "Regular"
 msgctxt "@item font"
 msgid "Regular"
 msgstr "Normal"
 
-#: kdeui/fonts/kfontchooser.cpp:293 kdeui/fonts/kfontchooser.cpp:635
+#: kdeui/fonts/kfontchooser.cpp:293 kdeui/fonts/kfontchooser.cpp:639
 #, fuzzy
 #| msgid "Italic"
 msgctxt "@item font"
 msgid "Italic"
 msgstr "Kursiv"
 
-#: kdeui/fonts/kfontchooser.cpp:294 kdeui/fonts/kfontchooser.cpp:636
+#: kdeui/fonts/kfontchooser.cpp:294 kdeui/fonts/kfontchooser.cpp:640
 #, fuzzy
 #| msgctxt "font style"
 #| msgid "Oblique"
@@ -7675,7 +7675,7 @@ msgstr "Aktuell Schrëft"
 #. noun-adjective congruence wrt. gender of the family name).
 #. The message provides the dynamic context 'family', which is
 #. the family name to which the style string corresponds.
-#: kdeui/fonts/kfontchooser.cpp:621
+#: kdeui/fonts/kfontchooser.cpp:625
 #, fuzzy, kde-format
 #| msgid "%1%"
 msgctxt "@item Font style"
@@ -8147,147 +8147,147 @@ msgctxt ""
 msgid "Hold %1, then push %2"
 msgstr ""
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:63
+#: kdeui/shortcuts/kstandardshortcut.cpp:85
 #, fuzzy
 #| msgid "Open"
 msgctxt "@action"
 msgid "Open"
 msgstr "Opmaachen"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:64
+#: kdeui/shortcuts/kstandardshortcut.cpp:86
 #, fuzzy
 #| msgid "New"
 msgctxt "@action"
 msgid "New"
 msgstr "Nei"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:65
+#: kdeui/shortcuts/kstandardshortcut.cpp:87
 #, fuzzy
 #| msgid "Close"
 msgctxt "@action"
 msgid "Close"
 msgstr "Zoumaachen"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:66
+#: kdeui/shortcuts/kstandardshortcut.cpp:88
 #, fuzzy
 #| msgid "Save"
 msgctxt "@action"
 msgid "Save"
 msgstr "Späicheren"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:67
+#: kdeui/shortcuts/kstandardshortcut.cpp:89
 #, fuzzy
 #| msgid "Print"
 msgctxt "@action"
 msgid "Print"
 msgstr "Drécken"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:68
+#: kdeui/shortcuts/kstandardshortcut.cpp:90
 #, fuzzy
 #| msgid "Quit"
 msgctxt "@action"
 msgid "Quit"
 msgstr "Ophalen"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:71
+#: kdeui/shortcuts/kstandardshortcut.cpp:93
 #, fuzzy
 #| msgid "Undo"
 msgctxt "@action"
 msgid "Undo"
 msgstr "Réckgängeg"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:72
+#: kdeui/shortcuts/kstandardshortcut.cpp:94
 #, fuzzy
 #| msgid "Redo"
 msgctxt "@action"
 msgid "Redo"
 msgstr "Nees zeréck"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:73
+#: kdeui/shortcuts/kstandardshortcut.cpp:95
 #, fuzzy
 #| msgid "Cut"
 msgctxt "@action"
 msgid "Cut"
 msgstr "Ausschneiden"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:74
+#: kdeui/shortcuts/kstandardshortcut.cpp:96
 #, fuzzy
 #| msgid "Copy"
 msgctxt "@action"
 msgid "Copy"
 msgstr "Kopéieren"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:75
+#: kdeui/shortcuts/kstandardshortcut.cpp:97
 #, fuzzy
 #| msgid "Paste"
 msgctxt "@action"
 msgid "Paste"
 msgstr "Peschen"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:76
+#: kdeui/shortcuts/kstandardshortcut.cpp:98
 #, fuzzy
 #| msgid "Paste Selection"
 msgctxt "@action"
 msgid "Paste Selection"
 msgstr "Selectioun peschen"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:78
+#: kdeui/shortcuts/kstandardshortcut.cpp:100
 #, fuzzy
 #| msgid "Select All"
 msgctxt "@action"
 msgid "Select All"
 msgstr "Alles auswielen"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:79
+#: kdeui/shortcuts/kstandardshortcut.cpp:101
 #, fuzzy
 #| msgid "Deselect"
 msgctxt "@action"
 msgid "Deselect"
 msgstr "Selectioun ofwielen"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:80
+#: kdeui/shortcuts/kstandardshortcut.cpp:102
 #, fuzzy
 #| msgid "Delete Word Backwards"
 msgctxt "@action"
 msgid "Delete Word Backwards"
 msgstr "Hannerzeg läschen"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:81
+#: kdeui/shortcuts/kstandardshortcut.cpp:103
 #, fuzzy
 #| msgid "Delete Word Forward"
 msgctxt "@action"
 msgid "Delete Word Forward"
 msgstr "Vijenzëg läschen"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:83
+#: kdeui/shortcuts/kstandardshortcut.cpp:105
 #, fuzzy
 #| msgid "Find"
 msgctxt "@action"
 msgid "Find"
 msgstr "Sichen"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:84
+#: kdeui/shortcuts/kstandardshortcut.cpp:106
 #, fuzzy
 #| msgid "Find Next"
 msgctxt "@action"
 msgid "Find Next"
 msgstr "Weidersichen"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:85
+#: kdeui/shortcuts/kstandardshortcut.cpp:107
 #, fuzzy
 #| msgid "Find Prev"
 msgctxt "@action"
 msgid "Find Prev"
 msgstr "Virdru sichen"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:86
+#: kdeui/shortcuts/kstandardshortcut.cpp:108
 #, fuzzy
 #| msgid "Replace"
 msgctxt "@action"
 msgid "Replace"
 msgstr "Ersetzen"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:89
+#: kdeui/shortcuts/kstandardshortcut.cpp:111
 #, fuzzy
 #| msgctxt "Opposite to End"
 #| msgid "Home"
@@ -8295,397 +8295,399 @@ msgctxt "@action Go to main page"
 msgid "Home"
 msgstr "Ufank"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:90
+#: kdeui/shortcuts/kstandardshortcut.cpp:112
 #, fuzzy
 #| msgid "Region"
 msgctxt "@action Beginning of document"
 msgid "Begin"
 msgstr "Regioun"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:91
+#: kdeui/shortcuts/kstandardshortcut.cpp:113
 #, fuzzy
 #| msgid "End"
 msgctxt "@action End of document"
 msgid "End"
 msgstr "Enn"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:92
+#: kdeui/shortcuts/kstandardshortcut.cpp:114
 #, fuzzy
 #| msgid "Prior"
 msgctxt "@action"
 msgid "Prior"
 msgstr "Virdrunn"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:93
+#: kdeui/shortcuts/kstandardshortcut.cpp:115
 #, fuzzy
 msgctxt "@action Opposite to Prior"
 msgid "Next"
 msgstr "Nächsten"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:95
+#: kdeui/shortcuts/kstandardshortcut.cpp:117
 #, fuzzy
 #| msgid "Up"
 msgctxt "@action"
 msgid "Up"
 msgstr "Erop"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:96
+#: kdeui/shortcuts/kstandardshortcut.cpp:118
 #, fuzzy
 #| msgid "Back"
 msgctxt "@action"
 msgid "Back"
 msgstr "Zeréck"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:97
+#: kdeui/shortcuts/kstandardshortcut.cpp:119
 #, fuzzy
 #| msgid "Forward"
 msgctxt "@action"
 msgid "Forward"
 msgstr "No Vir"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:98
+#: kdeui/shortcuts/kstandardshortcut.cpp:120
 #, fuzzy
 #| msgid "Reload"
 msgctxt "@action"
 msgid "Reload"
 msgstr "Nach eng Kéier lueden"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:100
+#: kdeui/shortcuts/kstandardshortcut.cpp:122
 #, fuzzy
 #| msgid "Beginning of Line"
 msgctxt "@action"
 msgid "Beginning of Line"
 msgstr "Ufank vun der Linn"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:101
+#: kdeui/shortcuts/kstandardshortcut.cpp:123
 #, fuzzy
 #| msgid "End of Line"
 msgctxt "@action"
 msgid "End of Line"
 msgstr "Enn vun der Linn"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:102
+#: kdeui/shortcuts/kstandardshortcut.cpp:124
 #, fuzzy
 #| msgid "Go to Line"
 msgctxt "@action"
 msgid "Go to Line"
 msgstr "Sprang op d'Zeil"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:103
+#: kdeui/shortcuts/kstandardshortcut.cpp:125
 #, fuzzy
 #| msgid "Backward Word"
 msgctxt "@action"
 msgid "Backward Word"
 msgstr "Ee Wuert zeréck"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:104
+#: kdeui/shortcuts/kstandardshortcut.cpp:126
 #, fuzzy
 #| msgid "Forward Word"
 msgctxt "@action"
 msgid "Forward Word"
 msgstr "Ee Wuert no vir"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:106
+#: kdeui/shortcuts/kstandardshortcut.cpp:128
 #, fuzzy
 #| msgid "Add Bookmark"
 msgctxt "@action"
 msgid "Add Bookmark"
 msgstr "Lieszeechen dobäimaachen"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:107
+#: kdeui/shortcuts/kstandardshortcut.cpp:129
 #, fuzzy
 #| msgid "Zoom In"
 msgctxt "@action"
 msgid "Zoom In"
 msgstr "Erazoomen"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:108
+#: kdeui/shortcuts/kstandardshortcut.cpp:130
 #, fuzzy
 #| msgid "Zoom Out"
 msgctxt "@action"
 msgid "Zoom Out"
 msgstr "Erauszoomen"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:109
+#: kdeui/shortcuts/kstandardshortcut.cpp:131
 #, fuzzy
 #| msgid "Full Screen Mode"
 msgctxt "@action"
 msgid "Full Screen Mode"
 msgstr "Vollbildmodus"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:111
+#: kdeui/shortcuts/kstandardshortcut.cpp:133
 #, fuzzy
 #| msgid "Show Menu Bar"
 msgctxt "@action"
 msgid "Show Menu Bar"
 msgstr "D'Menübar weisen"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:112
+#: kdeui/shortcuts/kstandardshortcut.cpp:134
 #, fuzzy
 #| msgid "Activate Next Tab"
 msgctxt "@action"
 msgid "Activate Next Tab"
 msgstr "Nächsten Tab aktivéieren"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:113
+#: kdeui/shortcuts/kstandardshortcut.cpp:135
 #, fuzzy
 #| msgid "Activate Previous Tab"
 msgctxt "@action"
 msgid "Activate Previous Tab"
 msgstr "Tab virdrunn aktivéieren"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:116
+#: kdeui/shortcuts/kstandardshortcut.cpp:138
 #, fuzzy
 #| msgid "Help"
 msgctxt "@action"
 msgid "Help"
 msgstr "Hëllef"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:117
+#: kdeui/shortcuts/kstandardshortcut.cpp:139
 #, fuzzy
 #| msgid "What's This"
 msgctxt "@action"
 msgid "What's This"
 msgstr "Wat ass dat"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:120
+#: kdeui/shortcuts/kstandardshortcut.cpp:142
 #, fuzzy
 #| msgid "Text Completion"
 msgctxt "@action"
 msgid "Text Completion"
 msgstr "Ergänzung vum Text"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:121
+#: kdeui/shortcuts/kstandardshortcut.cpp:143
 #, fuzzy
 #| msgid "Previous Completion Match"
 msgctxt "@action"
 msgid "Previous Completion Match"
 msgstr "Ergänzung virdrunn"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:122
+#: kdeui/shortcuts/kstandardshortcut.cpp:144
 #, fuzzy
 #| msgid "Next Completion Match"
 msgctxt "@action"
 msgid "Next Completion Match"
 msgstr "Nächst Ergänzung"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:123
+#: kdeui/shortcuts/kstandardshortcut.cpp:145
 #, fuzzy
 #| msgid "Substring Completion"
 msgctxt "@action"
 msgid "Substring Completion"
 msgstr "Ergänzung vum Substring"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:125
+#: kdeui/shortcuts/kstandardshortcut.cpp:147
 #, fuzzy
 #| msgid "Previous Item in List"
 msgctxt "@action"
 msgid "Previous Item in List"
 msgstr "Element an der Lëscht virdrunn"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:126
+#: kdeui/shortcuts/kstandardshortcut.cpp:148
 #, fuzzy
 #| msgid "Next Item in List"
 msgctxt "@action"
 msgid "Next Item in List"
 msgstr "Nächst Element an der Lëscht"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:128
+#: kdeui/shortcuts/kstandardshortcut.cpp:150
 #, fuzzy
-#| msgid "Open Recent"
+#| msgid "Open &Recent"
 msgctxt "@action"
-msgid "OpenRecent"
-msgstr "Viru kuerzem opgamaachen Dateien"
+msgid "Open Recent"
+msgstr "&Viru kuerzem opgemaachen Dateien"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:129
+#: kdeui/shortcuts/kstandardshortcut.cpp:151
 #, fuzzy
 #| msgid "Save As"
 msgctxt "@action"
-msgid "SaveAs"
+msgid "Save As"
 msgstr "Späicheren als"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:130
+#: kdeui/shortcuts/kstandardshortcut.cpp:152
 #, fuzzy
 #| msgid "Re&vert"
 msgctxt "@action"
 msgid "Revert"
 msgstr "&Zerécksetzen"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:131
+#: kdeui/shortcuts/kstandardshortcut.cpp:153
 #, fuzzy
 #| msgid "Print Previe&w..."
 msgctxt "@action"
-msgid "PrintPreview"
+msgid "Print Preview"
 msgstr "Drocker&virschau..."
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:132
+#: kdeui/shortcuts/kstandardshortcut.cpp:154
 #, fuzzy
 #| msgid "Mailbox"
 msgctxt "@action"
 msgid "Mail"
 msgstr "Mailbox"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:133
+#: kdeui/shortcuts/kstandardshortcut.cpp:155
 #, fuzzy
 #| msgid "Clear"
 msgctxt "@action"
 msgid "Clear"
 msgstr "Eidelmaachen"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:134
+#: kdeui/shortcuts/kstandardshortcut.cpp:156
 #, fuzzy
 #| msgid "&Actual Size"
 msgctxt "@action"
-msgid "ActualSize"
+msgid "Actual Size"
 msgstr "&Richteg Gréisst"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:135
+#: kdeui/shortcuts/kstandardshortcut.cpp:157
 #, fuzzy
 #| msgid "&Fit to Page"
 msgctxt "@action"
-msgid "FitToPage"
+msgid "Fit To Page"
 msgstr "&Un d'Säit upassen"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:136
+#: kdeui/shortcuts/kstandardshortcut.cpp:158
 #, fuzzy
 #| msgid "Width"
 msgctxt "@action"
-msgid "FitToWidth"
+msgid "Fit To Width"
 msgstr "Breet"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:137
+#: kdeui/shortcuts/kstandardshortcut.cpp:159
 #, fuzzy
 #| msgid "Height"
 msgctxt "@action"
-msgid "FitToHeight"
+msgid "Fit To Height"
 msgstr "Héicht"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:138
+#: kdeui/shortcuts/kstandardshortcut.cpp:160
 #, fuzzy
 #| msgid "Zoom"
 msgctxt "@action"
 msgid "Zoom"
 msgstr "Zoom"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:139
+#: kdeui/shortcuts/kstandardshortcut.cpp:161
 #, fuzzy
 #| msgid "Photo"
 msgctxt "@action"
 msgid "Goto"
 msgstr "Foto"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:140
+#: kdeui/shortcuts/kstandardshortcut.cpp:162
 #, fuzzy
 #| msgid "&Go to Page..."
 msgctxt "@action"
-msgid "GotoPage"
+msgid "Goto Page"
 msgstr "Op d'Säit &goen..."
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:141
+#: kdeui/shortcuts/kstandardshortcut.cpp:163
 #, fuzzy
 msgctxt "@action"
-msgid "DocumentBack"
+msgid "Document Back"
 msgstr "Lautstäerkt erop"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:142
+#: kdeui/shortcuts/kstandardshortcut.cpp:164
 #, fuzzy
 #| msgid "Forward"
 msgctxt "@action"
-msgid "DocumentForward"
+msgid "Document Forward"
 msgstr "No Vir"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:143
+#: kdeui/shortcuts/kstandardshortcut.cpp:165
 #, fuzzy
 #| msgid "&Edit Bookmarks"
 msgctxt "@action"
-msgid "EditBookmarks"
+msgid "Edit Bookmarks"
 msgstr "Lieszeeche &veränneren"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:144
+#: kdeui/shortcuts/kstandardshortcut.cpp:166
 #, fuzzy
 #| msgid "&Spelling..."
 msgctxt "@action"
 msgid "Spelling"
 msgstr "&Rechtschreiwung..."
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:145
+#: kdeui/shortcuts/kstandardshortcut.cpp:167
 #, fuzzy
-#| msgid "Show Toolbar"
+#| msgid "Show &Toolbar"
 msgctxt "@action"
-msgid "ShowToolbar"
-msgstr "Toolbar weisen"
+msgid "Show Toolbar"
+msgstr "&Toolbar weisen"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:146
+#: kdeui/shortcuts/kstandardshortcut.cpp:168
 #, fuzzy
 #| msgid "Show St&atusbar"
 msgctxt "@action"
-msgid "ShowStatusbar"
+msgid "Show Statusbar"
 msgstr "St&atusbar weisen"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:147
+#: kdeui/shortcuts/kstandardshortcut.cpp:169
 #, fuzzy
 #| msgid "Options"
 msgctxt "@action"
-msgid "SaveOptions"
+msgid "Save Options"
 msgstr "Optiounen"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:148
+#: kdeui/shortcuts/kstandardshortcut.cpp:170
+#, fuzzy
+#| msgid "Configure &Key Bindings..."
 msgctxt "@action"
-msgid "KeyBindings"
-msgstr ""
+msgid "Key Bindings"
+msgstr "&Tastenzouweisunge configuréieren..."
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:149
+#: kdeui/shortcuts/kstandardshortcut.cpp:171
 #, fuzzy
 #| msgid "Reference error"
 msgctxt "@action"
 msgid "Preferences"
 msgstr "Referenzfeler"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:150
+#: kdeui/shortcuts/kstandardshortcut.cpp:172
 #, fuzzy
 msgctxt "@action"
-msgid "ConfigureToolbars"
+msgid "Configure Toolbars"
 msgstr "Toolbare configuréieren"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:151
+#: kdeui/shortcuts/kstandardshortcut.cpp:173
 #, fuzzy
 #| msgid "Configure &Notifications..."
 msgctxt "@action"
-msgid "ConfigureNotifications"
+msgid "Configure Notifications"
 msgstr "&Norichte configuréieren..."
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:152
+#: kdeui/shortcuts/kstandardshortcut.cpp:174
 #, fuzzy
 #| msgid "Tip of the Day"
 msgctxt "@action"
-msgid "TipofDay"
+msgid "Tip Of Day"
 msgstr "Rotschlag vum Dag"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:153
+#: kdeui/shortcuts/kstandardshortcut.cpp:175
 #, fuzzy
 #| msgid "&Report Bug..."
 msgctxt "@action"
-msgid "ReportBug"
+msgid "Report Bug"
 msgstr "E Käfer &mellen..."
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:154
+#: kdeui/shortcuts/kstandardshortcut.cpp:176
 #, fuzzy
 #| msgid "sets the application name"
 msgctxt "@action"
-msgid "SwitchApplicationLanguage"
+msgid "Switch Application Language"
 msgstr "Bestëmmt den Numm vun der Uwendung"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:155
+#: kdeui/shortcuts/kstandardshortcut.cpp:177
 #, fuzzy
-#| msgid "About"
+#| msgid "Quit application"
 msgctxt "@action"
-msgid "AboutApp"
-msgstr "Iwwer"
+msgid "About Application"
+msgstr "Programm zoumaachen"
 
-#: kdeui/shortcuts/kstandardshortcut.cpp:156
+#: kdeui/shortcuts/kstandardshortcut.cpp:178
 #, fuzzy
 msgctxt "@action"
-msgid "AboutKDE"
+msgid "About KDE"
 msgstr "Iwwer &KDE"
 
 #: kdeui/shortcuts/kcheckaccelerators.cpp:157
@@ -10586,19 +10588,19 @@ msgctxt "No shortcut defined"
 msgid "None"
 msgstr "Keng"
 
-#: kdeui/widgets/keditlistbox.cpp:323
+#: kdeui/widgets/keditlistbox.cpp:328
 msgid "&Add"
 msgstr "&Dobäimaachen"
 
-#: kdeui/widgets/keditlistbox.cpp:335
+#: kdeui/widgets/keditlistbox.cpp:340
 msgid "&Remove"
 msgstr "&Ewechmaachen"
 
-#: kdeui/widgets/keditlistbox.cpp:347
+#: kdeui/widgets/keditlistbox.cpp:352
 msgid "Move &Up"
 msgstr "Er&opréckelen"
 
-#: kdeui/widgets/keditlistbox.cpp:352
+#: kdeui/widgets/keditlistbox.cpp:357
 msgid "Move &Down"
 msgstr "&Erofréckelen"
 
@@ -10631,21 +10633,21 @@ msgstr "%1-&Handbuch"
 msgid "What's &This"
 msgstr "Wat ass &dat"
 
-#: kdeui/widgets/khelpmenu.cpp:172 kdeui/actions/kstandardaction_p.h:114
+#: kdeui/widgets/khelpmenu.cpp:173 kdeui/actions/kstandardaction_p.h:114
 msgid "&Report Bug..."
 msgstr "E Käfer &mellen..."
 
-#: kdeui/widgets/khelpmenu.cpp:182 kdeui/actions/kstandardaction_p.h:115
+#: kdeui/widgets/khelpmenu.cpp:183 kdeui/actions/kstandardaction_p.h:115
 #, fuzzy
 msgid "Switch Application &Language..."
 msgstr "Programm zoumaachen"
 
-#: kdeui/widgets/khelpmenu.cpp:193 kdeui/actions/kstandardaction_p.h:116
+#: kdeui/widgets/khelpmenu.cpp:194 kdeui/actions/kstandardaction_p.h:116
 #, kde-format
 msgid "&About %1"
 msgstr "&Iwwer %1"
 
-#: kdeui/widgets/khelpmenu.cpp:198 kdeui/actions/kstandardaction_p.h:117
+#: kdeui/widgets/khelpmenu.cpp:199 kdeui/actions/kstandardaction_p.h:117
 msgid "About &KDE"
 msgstr "Iwwer &KDE"
 
@@ -13902,6 +13904,76 @@ msgid "No such function \"%1\""
 msgstr "D'Entrée '%1' ass net am Menü."
 
 #, fuzzy
+#~| msgid "Open Recent"
+#~ msgctxt "@action"
+#~ msgid "OpenRecent"
+#~ msgstr "Viru kuerzem opgamaachen Dateien"
+
+#, fuzzy
+#~| msgid "Save As"
+#~ msgctxt "@action"
+#~ msgid "SaveAs"
+#~ msgstr "Späicheren als"
+
+#, fuzzy
+#~| msgid "Print Previe&w..."
+#~ msgctxt "@action"
+#~ msgid "PrintPreview"
+#~ msgstr "Drocker&virschau..."
+
+#, fuzzy
+#~| msgid "&Actual Size"
+#~ msgctxt "@action"
+#~ msgid "ActualSize"
+#~ msgstr "&Richteg Gréisst"
+
+#, fuzzy
+#~| msgid "&Edit Bookmarks"
+#~ msgctxt "@action"
+#~ msgid "EditBookmarks"
+#~ msgstr "Lieszeeche &veränneren"
+
+#, fuzzy
+#~| msgid "Show Toolbar"
+#~ msgctxt "@action"
+#~ msgid "ShowToolbar"
+#~ msgstr "Toolbar weisen"
+
+#, fuzzy
+#~| msgid "Show St&atusbar"
+#~ msgctxt "@action"
+#~ msgid "ShowStatusbar"
+#~ msgstr "St&atusbar weisen"
+
+#, fuzzy
+#~ msgctxt "@action"
+#~ msgid "ConfigureToolbars"
+#~ msgstr "Toolbare configuréieren"
+
+#, fuzzy
+#~| msgid "Configure &Notifications..."
+#~ msgctxt "@action"
+#~ msgid "ConfigureNotifications"
+#~ msgstr "&Norichte configuréieren..."
+
+#, fuzzy
+#~| msgid "sets the application name"
+#~ msgctxt "@action"
+#~ msgid "SwitchApplicationLanguage"
+#~ msgstr "Bestëmmt den Numm vun der Uwendung"
+
+#, fuzzy
+#~| msgid "About"
+#~ msgctxt "@action"
+#~ msgid "AboutApp"
+#~ msgstr "Iwwer"
+
+#, fuzzy
+#~ msgctxt "@action"
+#~ msgid "AboutKDE"
+#~ msgstr "Iwwer &KDE"
+
+#, fuzzy
 #~| msgctxt "QAccel"
 #~| msgid "Search"
 #~ msgid "Search"
@@ -15661,9 +15733,6 @@ msgstr "D'Entrée '%1' ass net am Menü."
 
 #~ msgid "Show &Statusbar"
 #~ msgstr "&Statusbar weisen"
-
-#~ msgid "Configure &Key Bindings..."
-#~ msgstr "&Tastenzouweisunge configuréieren..."
 
 #~ msgctxt "QAccel"
 #~ msgid "Prior"
