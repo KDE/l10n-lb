@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-09-08 09:39+0200\n"
+"POT-Creation-Date: 2008-09-10 10:15+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -6749,8 +6749,8 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "Toolbaren zerécksetzen"
 
-#: kdeui/dialogs/kedittoolbar.cpp:526 khtml/khtmlview.cpp:2879
-#: khtml/khtmlview.cpp:2912 khtml/html/html_formimpl.cpp:2186
+#: kdeui/dialogs/kedittoolbar.cpp:526 khtml/khtmlview.cpp:2882
+#: khtml/khtmlview.cpp:2915 khtml/html/html_formimpl.cpp:2186
 msgid "Reset"
 msgstr "Zerécksetzen"
 
@@ -8975,121 +8975,121 @@ msgstr "Joër auswielen"
 msgid "Select a block to be displayed"
 msgstr "Noricht, déi ugewise soll ginn"
 
-#: kdeui/widgets/kcharselect.cpp:589 kdeui/widgets/kcharselect.cpp:591
+#: kdeui/widgets/kcharselect.cpp:590 kdeui/widgets/kcharselect.cpp:592
 #, fuzzy
 #| msgid "Any Character"
 msgid "Character:"
 msgstr "Iergendeen Zeechen"
 
-#: kdeui/widgets/kcharselect.cpp:591 kdeui/widgets/kcharselect.cpp:836
+#: kdeui/widgets/kcharselect.cpp:592 kdeui/widgets/kcharselect.cpp:837
 #, fuzzy
 #| msgid "Horizontal"
 msgid "Non-printable"
 msgstr "Horizontal"
 
-#: kdeui/widgets/kcharselect.cpp:595
+#: kdeui/widgets/kcharselect.cpp:596
 #, fuzzy
 #| msgid "Name:"
 msgid "Name: "
 msgstr "Numm:"
 
-#: kdeui/widgets/kcharselect.cpp:603
+#: kdeui/widgets/kcharselect.cpp:604
 msgid "Annotations and Cross References"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:607
+#: kdeui/widgets/kcharselect.cpp:608
 #, fuzzy
 #| msgid "Please enter name:"
 msgid "Alias names:"
 msgstr "Gitt w.e.g. den Numm an:"
 
-#: kdeui/widgets/kcharselect.cpp:615
+#: kdeui/widgets/kcharselect.cpp:616
 #, fuzzy
 #| msgid "Note"
 msgid "Notes:"
 msgstr "Notiz"
 
-#: kdeui/widgets/kcharselect.cpp:623
+#: kdeui/widgets/kcharselect.cpp:624
 msgid "See also:"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:635
+#: kdeui/widgets/kcharselect.cpp:636
 msgid "Equivalents:"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:643
+#: kdeui/widgets/kcharselect.cpp:644
 msgid "Approximate equivalents:"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:652
+#: kdeui/widgets/kcharselect.cpp:653
 #, fuzzy
 #| msgid "Frame Information"
 msgid "CJK Ideograph Information"
 msgstr "Informatioun iwwert de Frame"
 
-#: kdeui/widgets/kcharselect.cpp:655
+#: kdeui/widgets/kcharselect.cpp:656
 msgid "Definition in English: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:660
+#: kdeui/widgets/kcharselect.cpp:661
 msgid "Mandarin Pronunciation: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:665
+#: kdeui/widgets/kcharselect.cpp:666
 msgid "Cantonese Pronunciation: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:670
+#: kdeui/widgets/kcharselect.cpp:671
 msgid "Japanese On Pronunciation: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:675
+#: kdeui/widgets/kcharselect.cpp:676
 msgid "Japanese Kun Pronunciation: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:680
+#: kdeui/widgets/kcharselect.cpp:681
 msgid "Tang Pronunciation: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:685
+#: kdeui/widgets/kcharselect.cpp:686
 msgid "Korean Pronunciation: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:691
+#: kdeui/widgets/kcharselect.cpp:692
 msgid "General Character Properties"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:692
+#: kdeui/widgets/kcharselect.cpp:693
 msgid "Block: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:693
+#: kdeui/widgets/kcharselect.cpp:694
 #, fuzzy
 #| msgid "&Unicode code point:"
 msgid "Unicode category: "
 msgstr "&Unicode Codepunkt:"
 
-#: kdeui/widgets/kcharselect.cpp:697
+#: kdeui/widgets/kcharselect.cpp:698
 msgid "Various Useful Representations"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:698
+#: kdeui/widgets/kcharselect.cpp:699
 msgid "UTF-8:"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:701
+#: kdeui/widgets/kcharselect.cpp:702
 msgid "UTF-16: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:702
+#: kdeui/widgets/kcharselect.cpp:703
 msgid "C octal escaped UTF-8: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:705
+#: kdeui/widgets/kcharselect.cpp:706
 msgid "XML decimal entity:"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:837
+#: kdeui/widgets/kcharselect.cpp:838
 #, fuzzy, kde-format
 #| msgctxt "Character"
 #| msgid ""
@@ -11551,7 +11551,7 @@ msgstr ""
 "<qt>De Formular gëtt no<BR><B>%1</B><BR>op ärem lokalen Dateiesystem "
 "verschéckt ginn.<BR>Wëllt dir de Formular ofsenden?"
 
-#: khtml/khtml_part.cpp:4941 khtml/khtmlview.cpp:2865 khtml/khtmlview.cpp:2907
+#: khtml/khtml_part.cpp:4941 khtml/khtmlview.cpp:2868 khtml/khtmlview.cpp:2910
 #: khtml/html/html_formimpl.cpp:1586 khtml/html/html_formimpl.cpp:2194
 msgid "Submit"
 msgstr "Verschécken"
@@ -11677,39 +11677,39 @@ msgstr "Op d'Zeil &goen..."
 msgid "Remove from ignores..."
 msgstr ""
 
-#: khtml/khtmlview.cpp:1837
+#: khtml/khtmlview.cpp:1840
 msgid "Find stopped."
 msgstr "Sicht opgehal."
 
-#: khtml/khtmlview.cpp:1848
+#: khtml/khtmlview.cpp:1851
 msgid "Starting -- find links as you type"
 msgstr "Startvirgang -- Linke beim antippen ergänzen"
 
-#: khtml/khtmlview.cpp:1854
+#: khtml/khtmlview.cpp:1857
 msgid "Starting -- find text as you type"
 msgstr "Startvirgang -- Text beim antippen ergänzen"
 
-#: khtml/khtmlview.cpp:1877
+#: khtml/khtmlview.cpp:1880
 #, kde-format
 msgid "Link found: \"%1\"."
 msgstr "Link fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1882
+#: khtml/khtmlview.cpp:1885
 #, kde-format
 msgid "Link not found: \"%1\"."
 msgstr "Link net fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1890
+#: khtml/khtmlview.cpp:1893
 #, kde-format
 msgid "Text found: \"%1\"."
 msgstr "Text fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1895
+#: khtml/khtmlview.cpp:1898
 #, kde-format
 msgid "Text not found: \"%1\"."
 msgstr "Text net fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1943
+#: khtml/khtmlview.cpp:1946
 msgid "Access Keys activated"
 msgstr "Kuerztasten ugeschalt"
 
@@ -11734,7 +11734,7 @@ msgstr "fatale Parsing-Feeler: %1, Zeil %2, Kolonn %3"
 msgid "XML parsing error"
 msgstr "XML Parsing-Feeler"
 
-#: khtml/xml/dom_docimpl.cpp:2224
+#: khtml/xml/dom_docimpl.cpp:2225
 msgid "Basic Page Style"
 msgstr "Grondstil"
 
@@ -11833,11 +11833,11 @@ msgstr "JavaScript"
 msgid "&Abort"
 msgstr "&Ofbriechen"
 
-#: khtml/ecma/kjs_window.cpp:1574 khtml/ecma/kjs_html.cpp:2121
+#: khtml/ecma/kjs_window.cpp:1581 khtml/ecma/kjs_html.cpp:2121
 msgid "Confirmation: JavaScript Popup"
 msgstr "Bestätegung: JavaScript-Fënsteren"
 
-#: khtml/ecma/kjs_window.cpp:1577
+#: khtml/ecma/kjs_window.cpp:1584
 msgid ""
 "This site is requesting to open up a new browser window via JavaScript.\n"
 "Do you want to allow this?"
@@ -11845,7 +11845,7 @@ msgstr ""
 "Dëss Säit huet ugefrot, fir eng nei Fënster iwwert JavaScript opzemaachen.\n"
 "Wëllt dir dat zouloossen?"
 
-#: khtml/ecma/kjs_window.cpp:1580
+#: khtml/ecma/kjs_window.cpp:1587
 #, kde-format
 msgid ""
 "<qt>This site is requesting to open<p>%1</p>in a new browser window via "
@@ -11854,30 +11854,30 @@ msgstr ""
 "<qt>Dëss Säit huet ugefrot, fir<p>%1</p>an enger neier Fënster iwwert "
 "JavaScript opzemaachen.<br/>Wëllt dir dat zouloossen?</qt>"
 
-#: khtml/ecma/kjs_window.cpp:1582 khtml/ecma/kjs_html.cpp:2128
+#: khtml/ecma/kjs_window.cpp:1589 khtml/ecma/kjs_html.cpp:2128
 msgid "Allow"
 msgstr "Erlaben"
 
-#: khtml/ecma/kjs_window.cpp:1582 khtml/ecma/kjs_html.cpp:2128
+#: khtml/ecma/kjs_window.cpp:1589 khtml/ecma/kjs_html.cpp:2128
 msgid "Do Not Allow"
 msgstr "Net erlaben"
 
-#: khtml/ecma/kjs_window.cpp:1882
+#: khtml/ecma/kjs_window.cpp:1889
 msgid "Close window?"
 msgstr "Fënster zoumaachen?"
 
-#: khtml/ecma/kjs_window.cpp:1882
+#: khtml/ecma/kjs_window.cpp:1889
 msgid "Confirmation Required"
 msgstr "Bestätegung noutwendeg"
 
-#: khtml/ecma/kjs_window.cpp:2740
+#: khtml/ecma/kjs_window.cpp:2747
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr "Wëllt dir e Lieszeeche fir \"%1\" an är Sammlung dobäimaachen?"
 
-#: khtml/ecma/kjs_window.cpp:2743
+#: khtml/ecma/kjs_window.cpp:2750
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
@@ -11886,15 +11886,15 @@ msgstr ""
 "Wëllt dir e Lieszeeche mam Numm \"%2\" fir \"%1\" an är Sammlung "
 "dobäimaachen?"
 
-#: khtml/ecma/kjs_window.cpp:2751
+#: khtml/ecma/kjs_window.cpp:2758
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr "JavaScript huet probéiert, e Lieszeechen dobäizemaachen"
 
-#: khtml/ecma/kjs_window.cpp:2755
+#: khtml/ecma/kjs_window.cpp:2762
 msgid "Insert"
 msgstr "Asetzen"
 
-#: khtml/ecma/kjs_window.cpp:2755
+#: khtml/ecma/kjs_window.cpp:2762
 msgid "Disallow"
 msgstr "Net zouloossen"
 
