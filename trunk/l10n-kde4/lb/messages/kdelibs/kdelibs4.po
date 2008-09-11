@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-09-10 10:15+0200\n"
+"POT-Creation-Date: 2008-09-11 09:40+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -7586,21 +7586,21 @@ msgctxt "@info:whatsthis"
 msgid "Here you can choose the font style to be used."
 msgstr "Hei kënnt dir de Schrëftstil wielen, dee benotzt soll ginn."
 
-#: kdeui/fonts/kfontchooser.cpp:292 kdeui/fonts/kfontchooser.cpp:618
+#: kdeui/fonts/kfontchooser.cpp:292 kdeui/fonts/kfontchooser.cpp:619
 #, fuzzy
 #| msgid "Regular"
 msgctxt "@item font"
 msgid "Regular"
 msgstr "Normal"
 
-#: kdeui/fonts/kfontchooser.cpp:293 kdeui/fonts/kfontchooser.cpp:639
+#: kdeui/fonts/kfontchooser.cpp:293 kdeui/fonts/kfontchooser.cpp:640
 #, fuzzy
 #| msgid "Italic"
 msgctxt "@item font"
 msgid "Italic"
 msgstr "Kursiv"
 
-#: kdeui/fonts/kfontchooser.cpp:294 kdeui/fonts/kfontchooser.cpp:640
+#: kdeui/fonts/kfontchooser.cpp:294 kdeui/fonts/kfontchooser.cpp:641
 #, fuzzy
 #| msgctxt "font style"
 #| msgid "Oblique"
@@ -7658,7 +7658,7 @@ msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
 msgstr ""
 "Ëch hätt gär dräi Wirschtercher mat Fritten a Ketchup, ouni Zalot a Geméis"
 
-#: kdeui/fonts/kfontchooser.cpp:384
+#: kdeui/fonts/kfontchooser.cpp:385
 msgid ""
 "This sample text illustrates the current settings. You may edit it to test "
 "special characters."
@@ -7666,7 +7666,7 @@ msgstr ""
 "Dëse Beispilltext illustréiert déi momentan Astellungen. Dir kënnt e "
 "veränneren fir d'Duerstellung vu speziellen Zeechen ze kucken."
 
-#: kdeui/fonts/kfontchooser.cpp:400 kdeui/fonts/kfontchooser.cpp:413
+#: kdeui/fonts/kfontchooser.cpp:401 kdeui/fonts/kfontchooser.cpp:414
 msgid "Actual Font"
 msgstr "Aktuell Schrëft"
 
@@ -7675,7 +7675,7 @@ msgstr "Aktuell Schrëft"
 #. noun-adjective congruence wrt. gender of the family name).
 #. The message provides the dynamic context 'family', which is
 #. the family name to which the style string corresponds.
-#: kdeui/fonts/kfontchooser.cpp:625
+#: kdeui/fonts/kfontchooser.cpp:626
 #, fuzzy, kde-format
 #| msgid "%1%"
 msgctxt "@item Font style"
@@ -10754,15 +10754,15 @@ msgctxt "@info:tooltip Tooltip of toolbar button"
 msgid "%1"
 msgstr "%1%"
 
-#: kdeui/widgets/ktimezonewidget.cpp:63
+#: kdeui/widgets/ktimezonewidget.cpp:60
 msgid "Area"
 msgstr "Beräich"
 
-#: kdeui/widgets/ktimezonewidget.cpp:63
+#: kdeui/widgets/ktimezonewidget.cpp:60
 msgid "Region"
 msgstr "Regioun"
 
-#: kdeui/widgets/ktimezonewidget.cpp:63
+#: kdeui/widgets/ktimezonewidget.cpp:60
 msgid "Comment"
 msgstr "Kommentar"
 
