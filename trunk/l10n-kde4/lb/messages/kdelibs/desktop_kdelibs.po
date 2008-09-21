@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-09-15 07:50+0000\n"
+"POT-Creation-Date: 2008-09-21 07:57+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1104,6 +1104,11 @@ msgstr "KDED-Modul"
 #: kdeui/shortcuts/kdedglobalaccel.desktop:10
 msgctxt "Name"
 msgid "KDED Global Shortcuts Server"
+msgstr ""
+
+#: kformula/formulashape.desktop:2
+msgctxt "Name"
+msgid "Formula Shape"
 msgstr ""
 
 #: khtml/java/kjavaappletviewer.desktop:2

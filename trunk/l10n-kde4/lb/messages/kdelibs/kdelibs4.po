@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-09-19 09:27+0200\n"
+"POT-Creation-Date: 2008-09-21 09:46+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -6891,7 +6891,7 @@ msgstr "%1%"
 msgid "Change Icon"
 msgstr "&Symbol änneren..."
 
-#: kdeui/dialogs/kshortcutseditor.cpp:114
+#: kdeui/dialogs/kshortcutseditor.cpp:113
 #: kdeui/dialogs/kshortcutseditor.cpp:581
 msgid "Shortcuts"
 msgstr "Kierzelen"
@@ -8860,6 +8860,20 @@ msgstr "Standard"
 msgctxt "Encodings menu"
 msgid "Autodetect"
 msgstr "Automatësch Verbesserung"
+
+#: kdeui/actions/kaction.cpp:79
+#, kde-format
+msgid ""
+"The key sequence '%1' is ambiguous. Use 'Configure Shortcuts'\n"
+"from the 'Settings' menu to solve the ambiguouity.\n"
+"No action will be triggered."
+msgstr ""
+
+#: kdeui/actions/kaction.cpp:83
+#, fuzzy
+#| msgid "Ambiguous \"%1\" not handled"
+msgid "Ambiguous shortcut detected"
+msgstr "Méideideg \"%1\" net verschafft"
 
 #: kdeui/actions/kstandardaction.cpp:104
 #, fuzzy
@@ -13626,6 +13640,28 @@ msgstr "KUnitTest-ModRunner"
 msgid "(C) 2005 Jeroen Wijnhout"
 msgstr ""
 
+#: kformula/FormulaCommand.cpp:32
+#, fuzzy
+#| msgid "Comment"
+msgid "Add Elements"
+msgstr "Kommentar"
+
+#: kformula/FormulaCommand.cpp:61
+#, fuzzy
+#| msgid "Remove Entry"
+msgid "Remove Elements"
+msgstr "Entrée ewechhuelen"
+
+#: kformula/FormulaCommand.cpp:91
+#, fuzzy
+#| msgid "Replace Text"
+msgid "Replace Element"
+msgstr "Text ersetzen"
+
+#: kformula/FormulaCommand.cpp:139
+msgid "Attribute Changed"
+msgstr ""
+
 #: kdeui/colors/kcolordialog.cpp:97
 msgctxt "palette name"
 msgid "* Recent Colors *"
@@ -15072,11 +15108,6 @@ msgstr "D'Entrée '%1' ass net am Menü."
 #~ msgstr "Entrée dobäimaachen"
 
 #, fuzzy
-#~| msgid "Remove Entry"
-#~ msgid "&Remove Entry"
-#~ msgstr "Entrée ewechhuelen"
-
-#, fuzzy
 #~| msgctxt "QAccel"
 #~| msgid "Standby"
 #~ msgid "Standby"
@@ -15323,9 +15354,6 @@ msgstr "D'Entrée '%1' ass net am Menü."
 #, fuzzy
 #~ msgid "start playback"
 #~ msgstr "Mam Ersetzen ufänken"
-
-#~ msgid "Replace Text"
-#~ msgstr "Text ersetzen"
 
 #, fuzzy
 #~| msgid "F&ull Screen Mode"
@@ -17115,9 +17143,6 @@ msgstr "D'Entrée '%1' ass net am Menü."
 
 #~ msgid "%1, %2 not defined"
 #~ msgstr "%1, %2 net definéiert"
-
-#~ msgid "Ambiguous \"%1\" not handled"
-#~ msgstr "Méideideg \"%1\" net verschafft"
 
 #~ msgctxt "QT_LAYOUT_DIRECTION"
 #~ msgid ""
