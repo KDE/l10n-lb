@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-09-16 06:11+0200\n"
+"POT-Creation-Date: 2008-09-24 06:58+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -6651,7 +6651,7 @@ msgid "Reset Toolbars"
 msgstr "Toolbaren zerécksetzen"
 
 #: kdeui/dialogs/kedittoolbar.cpp:526 khtml/khtmlview.cpp:2894
-#: khtml/khtmlview.cpp:2927 khtml/html/html_formimpl.cpp:2186
+#: khtml/khtmlview.cpp:2927 khtml/html/html_formimpl.cpp:2190
 msgid "Reset"
 msgstr "Zerécksetzen"
 
@@ -11210,7 +11210,7 @@ msgstr ""
 "verschéckt ginn.<BR>Wëllt dir de Formular ofsenden?"
 
 #: khtml/khtml_part.cpp:4948 khtml/khtmlview.cpp:2880 khtml/khtmlview.cpp:2922
-#: khtml/html/html_formimpl.cpp:1586 khtml/html/html_formimpl.cpp:2194
+#: khtml/html/html_formimpl.cpp:1590 khtml/html/html_formimpl.cpp:2198
 msgid "Submit"
 msgstr "Verschécken"
 
@@ -11757,7 +11757,7 @@ msgstr ""
 "d'Umeldungsinformatioun opruffen, wann dir fir d'nächst Kéier d'Säit %"
 "1besicht. Wëllt dir d'Informatioun elo späicheren?"
 
-#: khtml/html/html_formimpl.cpp:2575
+#: khtml/html/html_formimpl.cpp:2579
 #, fuzzy
 #| msgid "General"
 msgid "Key Generator"
