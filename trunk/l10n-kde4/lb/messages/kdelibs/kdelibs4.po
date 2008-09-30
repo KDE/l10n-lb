@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-09-29 10:08+0200\n"
+"POT-Creation-Date: 2008-09-30 09:38+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1910,7 +1910,7 @@ msgid "Form"
 msgstr "Frame"
 
 #: kjs/object.cpp:625 kdeui/dialogs/kmessagebox.cpp:816
-#: kdeui/dialogs/kmessagebox.cpp:849
+#: kdeui/dialogs/kmessagebox.cpp:849 khtml/rendering/render_form.cpp:624
 msgid "Error"
 msgstr "Feeler"
 
@@ -10714,7 +10714,7 @@ msgstr "Er&opréckelen"
 msgid "Move &Down"
 msgstr "&Erofréckelen"
 
-#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:735
+#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:747
 msgid "Clear &History"
 msgstr "&History läschen"
 
@@ -12339,34 +12339,34 @@ msgstr "Abettungsfäheg Komponent fir multipart/mixed"
 msgid "Copyright 2001, David Faure <email>david@mandrakesoft.com</email>"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:597
+#: khtml/rendering/render_form.cpp:603
 #, fuzzy
 #| msgid "Shortcut"
 msgid "New Web Shortcut"
 msgstr "Tastekombinatioun"
 
-#: khtml/rendering/render_form.cpp:609
-#, fuzzy
+#: khtml/rendering/render_form.cpp:624
+#, fuzzy, kde-format
 #| msgctxt "Socket error code AlreadyCreated"
 #| msgid "socket is already created"
-msgid " is already assigned to "
+msgid "%1 is already assigned to %2"
 msgstr "De Socket ass schonn erstallt ginn"
 
-#: khtml/rendering/render_form.cpp:659
+#: khtml/rendering/render_form.cpp:669
 msgid "Search &provider name:"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:661
+#: khtml/rendering/render_form.cpp:671
 msgid "New search provider"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:666
+#: khtml/rendering/render_form.cpp:676
 #, fuzzy
 #| msgid "Shortcuts"
 msgid "UR&I shortcuts:"
 msgstr "Kierzelen"
 
-#: khtml/rendering/render_form.cpp:750
+#: khtml/rendering/render_form.cpp:762
 #, fuzzy
 #| msgid "Clear shortcut"
 msgid "Create Web Shortcut"
@@ -12690,22 +12690,22 @@ msgstr ""
 msgid "Daniel Molkentin"
 msgstr ""
 
-#: nepomuk/core/resource.cpp:398
+#: nepomuk/core/resource.cpp:405
 msgid "Success"
 msgstr ""
 
-#: nepomuk/core/resource.cpp:400
+#: nepomuk/core/resource.cpp:407
 #, fuzzy
 msgid "Communication error"
 msgstr "Configuratioun"
 
-#: nepomuk/core/resource.cpp:402
+#: nepomuk/core/resource.cpp:409
 #, fuzzy
 #| msgid "Invalid reference base"
 msgid "Invalid type in Database"
 msgstr "Ongülteg Basis fir d'Referenz"
 
-#: nepomuk/core/resource.cpp:404
+#: nepomuk/core/resource.cpp:411
 #, fuzzy
 #| msgctxt "QFile"
 #| msgid "Unknown error"
@@ -13224,6 +13224,18 @@ msgstr "De Stil %1 ass net fonnt ginn\n"
 #, kde-format
 msgid "library only takes 1 argument, not %1."
 msgstr ""
+
+#: kjsembed/kjsembed/builtins.cpp:154
+#, fuzzy
+#| msgid "Alt"
+msgid "Alert"
+msgstr "Alt"
+
+#: kjsembed/kjsembed/builtins.cpp:165
+#, fuzzy
+#| msgid "Configure"
+msgid "Confirm"
+msgstr "Configuréieren"
 
 #: kjsembed/kjsembed/kjsembed.cpp:273 kjsembed/kjsembed/kjsembed.cpp:295
 #, kde-format
@@ -14512,9 +14524,6 @@ msgstr "D'Entrée '%1' ass net am Menü."
 
 #~ msgid "Ctrl"
 #~ msgstr "Ctrl"
-
-#~ msgid "Alt"
-#~ msgstr "Alt"
 
 #~ msgid "Meta"
 #~ msgstr "Meta"
