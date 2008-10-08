@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio_remote\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-01-09 07:16+0100\n"
+"POT-Creation-Date: 2008-10-08 10:27+0200\n"
 "PO-Revision-Date: 2006-01-09 23:53+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -14,16 +14,14 @@ msgstr ""
 "X-Generator: KBabel 1.11\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: kio_remote.cpp:40
-msgid "Protocol name"
-msgstr "Protokollnumm"
-
-#: kio_remote.cpp:41 kio_remote.cpp:42
-msgid "Socket name"
-msgstr "Socketnumm"
-
 #: remoteimpl.cpp:189
 #, fuzzy
 #| msgid "Add a Network Folder"
 msgid "Add Network Folder"
 msgstr "En Netzwierkdossier dobäimaachen"
+
+#~ msgid "Protocol name"
+#~ msgstr "Protokollnumm"
+
+#~ msgid "Socket name"
+#~ msgstr "Socketnumm"
