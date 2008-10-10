@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-10-03 06:05+0200\n"
+"POT-Creation-Date: 2008-10-10 06:03+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -13337,7 +13337,7 @@ msgstr "Unhuelen"
 msgid "Reject"
 msgstr "Zeréckweisen"
 
-#: khtml/khtml_settings.cc:765
+#: khtml/khtml_settings.cc:767
 msgid "Filter error"
 msgstr "Feeler am Filter"
 
