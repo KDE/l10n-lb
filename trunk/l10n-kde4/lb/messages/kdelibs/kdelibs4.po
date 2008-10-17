@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-10-15 10:36+0200\n"
+"POT-Creation-Date: 2008-10-17 09:33+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -862,7 +862,7 @@ msgstr "Haapt-Toolbar"
 
 #. i18n: file: kdeui/widgets/kshortcutwidget.ui:22
 #. i18n: ectx: property (text), widget (QLabel, priLabel)
-#: rc.cpp:334 kdeui/dialogs/kshortcutseditor.cpp:582
+#: rc.cpp:334 kdeui/dialogs/kshortcutseditor.cpp:583
 #, fuzzy
 #| msgid "Chain:"
 msgid "Main:"
@@ -870,7 +870,7 @@ msgstr "Ketten:"
 
 #. i18n: file: kdeui/widgets/kshortcutwidget.ui:52
 #. i18n: ectx: property (text), widget (QLabel, altLabel)
-#: rc.cpp:337 kdeui/dialogs/kshortcutseditor.cpp:583
+#: rc.cpp:337 kdeui/dialogs/kshortcutseditor.cpp:584
 #, fuzzy
 #| msgid "Alternate"
 msgid "Alternate:"
@@ -3473,7 +3473,7 @@ msgstr "D'Bibliothéik %1 huet keng Factory, déi mat KDE kompatibel ass."
 msgid "The plugin '%1' uses an incompatible KDE library (%2)."
 msgstr ""
 
-#: kdecore/config/kconfig.cpp:667
+#: kdecore/config/kconfig.cpp:668
 msgid "Please contact your system administrator."
 msgstr "Mellt iech w.e.g. bei ärer Systemverwaltung."
 
@@ -5416,7 +5416,7 @@ msgid "Name"
 msgstr "Numm"
 
 #: knewstuff/knewstuff2/ui/kdxstranslation.cpp:49
-#: kdeui/dialogs/kshortcutseditor.cpp:607
+#: kdeui/dialogs/kshortcutseditor.cpp:608
 #, fuzzy
 #| msgid "Description:"
 msgid "Description"
@@ -6901,13 +6901,13 @@ msgstr "%1%"
 msgid "Change Icon"
 msgstr "&Symbol änneren..."
 
-#: kdeui/dialogs/kshortcutseditor.cpp:506
-#: kdeui/dialogs/kshortcutseditor.cpp:522
+#: kdeui/dialogs/kshortcutseditor.cpp:507
+#: kdeui/dialogs/kshortcutseditor.cpp:523
 #: kdeui/widgets/kkeysequencewidget.cpp:152
 msgid "Key Conflict"
 msgstr "Tastekonflikt"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:507
+#: kdeui/dialogs/kshortcutseditor.cpp:508
 #, fuzzy, kde-format
 msgid ""
 "The '%1' shape gesture has already been allocated to the \"%2\" action.\n"
@@ -6916,14 +6916,14 @@ msgstr ""
 "D'Tastekombinatioun \"%1\" ass scho mat der Aktioun \"%2\" verbonn.\n"
 "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:511
-#: kdeui/dialogs/kshortcutseditor.cpp:527 kdeui/shortcuts/kglobalaccel.cpp:395
+#: kdeui/dialogs/kshortcutseditor.cpp:512
+#: kdeui/dialogs/kshortcutseditor.cpp:528 kdeui/shortcuts/kglobalaccel.cpp:403
 #: kdeui/widgets/kkeysequencewidget.cpp:160
 #: kdeui/widgets/kkeysequencewidget.cpp:481
 msgid "Reassign"
 msgstr "Nei zouuerdnen"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:523
+#: kdeui/dialogs/kshortcutseditor.cpp:524
 #, fuzzy, kde-format
 msgid ""
 "The '%1' rocker gesture has already been allocated to the \"%2\" action.\n"
@@ -6932,24 +6932,24 @@ msgstr ""
 "D'Tastekombinatioun \"%1\" ass scho mat der Aktioun \"%2\" verbonn.\n"
 "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:564
+#: kdeui/dialogs/kshortcutseditor.cpp:565
 #, fuzzy, kde-format
 #| msgid "Shortcuts"
 msgctxt "header for an applications shortcut list"
 msgid "Shortcuts for %1"
 msgstr "Kierzelen"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:584
+#: kdeui/dialogs/kshortcutseditor.cpp:585
 msgid "Global:"
 msgstr ""
 
-#: kdeui/dialogs/kshortcutseditor.cpp:599
+#: kdeui/dialogs/kshortcutseditor.cpp:600
 #, fuzzy
 #| msgid "Additional Names"
 msgid "Action Name"
 msgstr "Zousätzlech Nimm"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:603
+#: kdeui/dialogs/kshortcutseditor.cpp:604
 msgid "Shortcuts"
 msgstr "Kierzelen"
 
@@ -8179,11 +8179,11 @@ msgstr "All siichtbar Kolonnen"
 msgid "S&earch:"
 msgstr "Siche&n:"
 
-#: kdeui/shortcuts/kglobalaccel.cpp:388
+#: kdeui/shortcuts/kglobalaccel.cpp:396
 msgid "Conflict with Global Shortcut"
 msgstr "Konflikt mat allgemengem Kierzel"
 
-#: kdeui/shortcuts/kglobalaccel.cpp:389
+#: kdeui/shortcuts/kglobalaccel.cpp:397
 #, fuzzy, kde-format
 #| msgid ""
 #| "The '%1' key combination has already been allocated to the global action "
@@ -11841,7 +11841,7 @@ msgstr "fatale Parsing-Feeler: %1, Zeil %2, Kolonn %3"
 msgid "XML parsing error"
 msgstr "XML Parsing-Feeler"
 
-#: khtml/xml/dom_docimpl.cpp:2078
+#: khtml/xml/dom_docimpl.cpp:2066
 msgid "Basic Page Style"
 msgstr "Grondstil"
 
