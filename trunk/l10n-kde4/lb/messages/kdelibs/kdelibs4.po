@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-10-19 10:11+0200\n"
+"POT-Creation-Date: 2008-10-20 10:06+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1973,7 +1973,7 @@ msgstr "Informéiert de KDE vun enger Verännerung vum Numm vum Host"
 msgid "(c) 2001 Waldo Bastian"
 msgstr ""
 
-#: kded/khostname.cpp:221 kded/kbuildsycoca.cpp:646 khtml/khtml_global.cpp:201
+#: kded/khostname.cpp:221 kded/kbuildsycoca.cpp:646 khtml/khtml_global.cpp:212
 #: kconf_update/kconf_update.cpp:965
 msgid "Waldo Bastian"
 msgstr ""
@@ -3954,13 +3954,13 @@ msgstr ""
 "\n"
 "Argumenter:\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1588
+#: kdecore/kernel/kcmdlineargs.cpp:1586
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr ""
 "D'Dateien/URLen, déi vum Programm opgemaach gi sinn, ginn häerno nees "
 "geläscht"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1589
+#: kdecore/kernel/kcmdlineargs.cpp:1587
 msgid "KDE-tempfile"
 msgstr ""
 
@@ -11041,43 +11041,43 @@ msgstr "Re&gulären Ausdrock"
 msgid "Regression tester for khtml"
 msgstr ""
 
-#: khtml/khtml_global.cpp:196
+#: khtml/khtml_global.cpp:207
 msgid "KHTML"
 msgstr "KHTML"
 
-#: khtml/khtml_global.cpp:197
+#: khtml/khtml_global.cpp:208
 msgid "Embeddable HTML component"
 msgstr "Abettungsfäheg HTML-Komponent"
 
-#: khtml/khtml_global.cpp:199
+#: khtml/khtml_global.cpp:210
 msgid "Lars Knoll"
 msgstr ""
 
-#: khtml/khtml_global.cpp:200
+#: khtml/khtml_global.cpp:211
 msgid "Antti Koivisto"
 msgstr ""
 
-#: khtml/khtml_global.cpp:202
+#: khtml/khtml_global.cpp:213
 msgid "Dirk Mueller"
 msgstr ""
 
-#: khtml/khtml_global.cpp:203
+#: khtml/khtml_global.cpp:214
 msgid "Peter Kelly"
 msgstr ""
 
-#: khtml/khtml_global.cpp:204
+#: khtml/khtml_global.cpp:215
 msgid "Torben Weis"
 msgstr ""
 
-#: khtml/khtml_global.cpp:205
+#: khtml/khtml_global.cpp:216
 msgid "Martin Jones"
 msgstr ""
 
-#: khtml/khtml_global.cpp:206
+#: khtml/khtml_global.cpp:217
 msgid "Simon Hausmann"
 msgstr ""
 
-#: khtml/khtml_global.cpp:207
+#: khtml/khtml_global.cpp:218
 msgid "Tobias Anton"
 msgstr ""
 
@@ -11876,7 +11876,7 @@ msgstr "fatale Parsing-Feeler: %1, Zeil %2, Kolonn %3"
 msgid "XML parsing error"
 msgstr "XML Parsing-Feeler"
 
-#: khtml/xml/dom_docimpl.cpp:2066
+#: khtml/xml/dom_docimpl.cpp:2195
 msgid "Basic Page Style"
 msgstr "Grondstil"
 
