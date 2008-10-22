@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-10-21 06:29+0200\n"
+"POT-Creation-Date: 2008-10-22 07:05+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -4347,8 +4347,8 @@ msgid ""
 "XDG_DATA_DIRS is not set, or includes /usr/share."
 msgstr ""
 
-#: kdecore/localization/kencodingdetector.cpp:1121
-#: kdecore/localization/kencodingdetector.cpp:1223
+#: kdecore/localization/kencodingdetector.cpp:1124
+#: kdecore/localization/kencodingdetector.cpp:1226
 #: kdecore/localization/kcharsets.cpp:206
 #, fuzzy
 #| msgid "Unicode"
@@ -4356,8 +4356,8 @@ msgctxt "@item Text character set"
 msgid "Unicode"
 msgstr "Unicode"
 
-#: kdecore/localization/kencodingdetector.cpp:1123
-#: kdecore/localization/kencodingdetector.cpp:1193
+#: kdecore/localization/kencodingdetector.cpp:1126
+#: kdecore/localization/kencodingdetector.cpp:1196
 #: kdecore/localization/kcharsets.cpp:173
 #, fuzzy
 #| msgid "Cyrillic"
@@ -4365,8 +4365,8 @@ msgctxt "@item Text character set"
 msgid "Cyrillic"
 msgstr "Kyrillësch"
 
-#: kdecore/localization/kencodingdetector.cpp:1125
-#: kdecore/localization/kencodingdetector.cpp:1208
+#: kdecore/localization/kencodingdetector.cpp:1128
+#: kdecore/localization/kencodingdetector.cpp:1211
 #: kdecore/localization/kcharsets.cpp:155
 #, fuzzy
 #| msgid "Western European"
@@ -4374,8 +4374,8 @@ msgctxt "@item Text character set"
 msgid "Western European"
 msgstr "Westeuropäësch"
 
-#: kdecore/localization/kencodingdetector.cpp:1127
-#: kdecore/localization/kencodingdetector.cpp:1190
+#: kdecore/localization/kencodingdetector.cpp:1130
+#: kdecore/localization/kencodingdetector.cpp:1193
 #: kdecore/localization/kcharsets.cpp:161
 #, fuzzy
 #| msgid "Central European"
@@ -4383,8 +4383,8 @@ msgctxt "@item Text character set"
 msgid "Central European"
 msgstr "Mëtteleuropäësch"
 
-#: kdecore/localization/kencodingdetector.cpp:1129
-#: kdecore/localization/kencodingdetector.cpp:1196
+#: kdecore/localization/kencodingdetector.cpp:1132
+#: kdecore/localization/kencodingdetector.cpp:1199
 #: kdecore/localization/kcharsets.cpp:192
 #, fuzzy
 #| msgid "Greek"
@@ -4392,8 +4392,8 @@ msgctxt "@item Text character set"
 msgid "Greek"
 msgstr "Griichësch"
 
-#: kdecore/localization/kencodingdetector.cpp:1131
-#: kdecore/localization/kencodingdetector.cpp:1199
+#: kdecore/localization/kencodingdetector.cpp:1134
+#: kdecore/localization/kencodingdetector.cpp:1202
 #: kdecore/localization/kcharsets.cpp:198
 #, fuzzy
 #| msgid "Hebrew"
@@ -4401,8 +4401,8 @@ msgctxt "@item Text character set"
 msgid "Hebrew"
 msgstr "Hebräësch"
 
-#: kdecore/localization/kencodingdetector.cpp:1133
-#: kdecore/localization/kencodingdetector.cpp:1205
+#: kdecore/localization/kencodingdetector.cpp:1136
+#: kdecore/localization/kencodingdetector.cpp:1208
 #: kdecore/localization/kcharsets.cpp:170
 #, fuzzy
 #| msgid "Turkish"
@@ -4410,8 +4410,8 @@ msgctxt "@item Text character set"
 msgid "Turkish"
 msgstr "Türkësch"
 
-#: kdecore/localization/kencodingdetector.cpp:1135
-#: kdecore/localization/kencodingdetector.cpp:1202
+#: kdecore/localization/kencodingdetector.cpp:1138
+#: kdecore/localization/kencodingdetector.cpp:1205
 #: kdecore/localization/kcharsets.cpp:188
 #, fuzzy
 #| msgid "Japanese"
@@ -4419,8 +4419,8 @@ msgctxt "@item Text character set"
 msgid "Japanese"
 msgstr "Japanësch"
 
-#: kdecore/localization/kencodingdetector.cpp:1137
-#: kdecore/localization/kencodingdetector.cpp:1187
+#: kdecore/localization/kencodingdetector.cpp:1140
+#: kdecore/localization/kencodingdetector.cpp:1190
 #: kdecore/localization/kcharsets.cpp:164
 #, fuzzy
 #| msgid "Baltic"
@@ -4428,8 +4428,8 @@ msgctxt "@item Text character set"
 msgid "Baltic"
 msgstr "Baltësch"
 
-#: kdecore/localization/kencodingdetector.cpp:1139
-#: kdecore/localization/kencodingdetector.cpp:1184
+#: kdecore/localization/kencodingdetector.cpp:1142
+#: kdecore/localization/kencodingdetector.cpp:1187
 #: kdecore/localization/kcharsets.cpp:195
 #, fuzzy
 #| msgid "Arabic"
@@ -4437,7 +4437,7 @@ msgctxt "@item Text character set"
 msgid "Arabic"
 msgstr "Arabësch"
 
-#: kdecore/localization/kencodingdetector.cpp:1211
+#: kdecore/localization/kencodingdetector.cpp:1214
 #: kdecore/localization/kcharsets.cpp:179
 #, fuzzy
 #| msgid "Chinese Traditional"
@@ -4445,7 +4445,7 @@ msgctxt "@item Text character set"
 msgid "Chinese Traditional"
 msgstr "Chinesësch traditionell"
 
-#: kdecore/localization/kencodingdetector.cpp:1214
+#: kdecore/localization/kencodingdetector.cpp:1217
 #: kdecore/localization/kcharsets.cpp:182
 #, fuzzy
 #| msgid "Chinese Simplified"
@@ -4453,7 +4453,7 @@ msgctxt "@item Text character set"
 msgid "Chinese Simplified"
 msgstr "Chinesësch einfach"
 
-#: kdecore/localization/kencodingdetector.cpp:1217
+#: kdecore/localization/kencodingdetector.cpp:1220
 #: kdecore/localization/kcharsets.cpp:186
 #, fuzzy
 #| msgid "Korean"
@@ -4461,7 +4461,7 @@ msgctxt "@item Text character set"
 msgid "Korean"
 msgstr "Koreanësch"
 
-#: kdecore/localization/kencodingdetector.cpp:1220
+#: kdecore/localization/kencodingdetector.cpp:1223
 #: kdecore/localization/kcharsets.cpp:203
 #, fuzzy
 #| msgid "Thai"
