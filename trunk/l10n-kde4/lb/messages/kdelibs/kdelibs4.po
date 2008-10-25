@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-10-24 09:40+0200\n"
+"POT-Creation-Date: 2008-10-25 10:14+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -3833,7 +3833,7 @@ msgstr "Programm: "
 msgid "Qt"
 msgstr "Ophalen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:491 khtml/khtml_part.cpp:5004
+#: kdecore/kernel/kcmdlineargs.cpp:491 khtml/khtml_part.cpp:5005
 msgid "KDE"
 msgstr "KDE"
 
@@ -6839,52 +6839,52 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "Toolbaren zerécksetzen"
 
-#: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2972
-#: khtml/khtmlview.cpp:3005 khtml/html/html_formimpl.cpp:2165
+#: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2973
+#: khtml/khtmlview.cpp:3006 khtml/html/html_formimpl.cpp:2165
 msgid "Reset"
 msgstr "Zerécksetzen"
 
-#: kdeui/dialogs/kedittoolbar.cpp:852
+#: kdeui/dialogs/kedittoolbar.cpp:824
 #, fuzzy
 msgid "&Toolbar:"
 msgstr "&Toolbar:"
 
-#: kdeui/dialogs/kedittoolbar.cpp:867
+#: kdeui/dialogs/kedittoolbar.cpp:839
 msgid "A&vailable actions:"
 msgstr "&Verfügbar Aktiounen:"
 
-#: kdeui/dialogs/kedittoolbar.cpp:882
+#: kdeui/dialogs/kedittoolbar.cpp:854
 msgid "Curr&ent actions:"
 msgstr "Ug&ewisen Aktiounen:"
 
-#: kdeui/dialogs/kedittoolbar.cpp:898
+#: kdeui/dialogs/kedittoolbar.cpp:870
 msgid "Change &Icon..."
 msgstr "&Symbol änneren..."
 
 #. i18n filtering message for action names
-#: kdeui/dialogs/kedittoolbar.cpp:1054
+#: kdeui/dialogs/kedittoolbar.cpp:1026
 #, fuzzy, kde-format
 #| msgid "%1%"
 msgctxt "@item:intable Action name in toolbar editor"
 msgid "%1"
 msgstr "%1%"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1075
+#: kdeui/dialogs/kedittoolbar.cpp:1047
 msgid ""
 "This element will be replaced with all the elements of an embedded component."
 msgstr ""
 "Dësst Element gëtt duerch all Elementer vun enger agebetter Komponent ersat."
 
-#: kdeui/dialogs/kedittoolbar.cpp:1077
+#: kdeui/dialogs/kedittoolbar.cpp:1049
 msgid "<Merge>"
 msgstr "<Merge>"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1079
+#: kdeui/dialogs/kedittoolbar.cpp:1051
 #, kde-format
 msgid "<Merge %1>"
 msgstr "<Merge %1>"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1085
+#: kdeui/dialogs/kedittoolbar.cpp:1057
 #, fuzzy
 msgid ""
 "This is a dynamic list of actions. You can move it, but if you remove it you "
@@ -6893,19 +6893,19 @@ msgstr ""
 "Dat hei ass eng dynamësch Lëscht vun Aktiounen. Dir kënn se réckelen, mais "
 "wann dir se läscht, kënnt dir se net méi zeréckhuelen."
 
-#: kdeui/dialogs/kedittoolbar.cpp:1086
+#: kdeui/dialogs/kedittoolbar.cpp:1058
 #, kde-format
 msgid "ActionList: %1"
 msgstr "Aktiounelëscht: %1"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1186 kdeui/dialogs/kedittoolbar.cpp:1213
+#: kdeui/dialogs/kedittoolbar.cpp:1158 kdeui/dialogs/kedittoolbar.cpp:1185
 #, fuzzy, kde-format
 #| msgid "%1%"
 msgctxt "@label Action tooltip in toolbar editor, below the action list"
 msgid "%1"
 msgstr "%1%"
 
-#: kdeui/dialogs/kedittoolbar.cpp:1451
+#: kdeui/dialogs/kedittoolbar.cpp:1423
 #, fuzzy
 #| msgid "Change &Icon..."
 msgid "Change Icon"
@@ -10962,8 +10962,8 @@ msgstr "Test"
 msgid "a basic web browser using the KHTML library"
 msgstr ""
 
-#: khtml/khtml_run.cpp:97 khtml/khtml_part.cpp:4015 khtml/khtml_part.cpp:4225
-#: khtml/khtml_part.cpp:4599 kparts/browserrun.cpp:444
+#: khtml/khtml_run.cpp:97 khtml/khtml_part.cpp:4016 khtml/khtml_part.cpp:4226
+#: khtml/khtml_part.cpp:4600 kparts/browserrun.cpp:444
 msgid "Save As"
 msgstr "Späicheren als"
 
@@ -11333,7 +11333,7 @@ msgstr "Dokument-Informatioun kucken"
 msgid "Save &Background Image As..."
 msgstr "Bild am &Hannergrond späicheren als..."
 
-#: khtml/khtml_part.cpp:299 khtml/khtml_part.cpp:4307
+#: khtml/khtml_part.cpp:299 khtml/khtml_part.cpp:4308
 msgid "SSL"
 msgstr "SSL"
 
@@ -11550,51 +11550,51 @@ msgstr[1] "%1 Biller vun %2 gelueden."
 msgid "Automatic Detection"
 msgstr "Automatësch Detektioun"
 
-#: khtml/khtml_part.cpp:3823 khtml/khtml_part.cpp:3910
-#: khtml/khtml_part.cpp:3921
+#: khtml/khtml_part.cpp:3824 khtml/khtml_part.cpp:3911
+#: khtml/khtml_part.cpp:3922
 msgid " (In new window)"
 msgstr " (an enger neier Fënster)"
 
-#: khtml/khtml_part.cpp:3862
+#: khtml/khtml_part.cpp:3863
 msgid "Symbolic Link"
 msgstr "Symbolësche Link"
 
-#: khtml/khtml_part.cpp:3864
+#: khtml/khtml_part.cpp:3865
 #, kde-format
 msgid "%1 (Link)"
 msgstr "%1 (Link)"
 
-#: khtml/khtml_part.cpp:3884
+#: khtml/khtml_part.cpp:3885
 #, kde-format
 msgid "%2 (%1 bytes)"
 msgstr "%2 (%1 byte)"
 
-#: khtml/khtml_part.cpp:3888
+#: khtml/khtml_part.cpp:3889
 #, kde-format
 msgid "%2 (%1 K)"
 msgstr "%2 (%1 K)"
 
-#: khtml/khtml_part.cpp:3923
+#: khtml/khtml_part.cpp:3924
 msgid " (In other frame)"
 msgstr " (an engem anere Frame)"
 
-#: khtml/khtml_part.cpp:3928
+#: khtml/khtml_part.cpp:3929
 msgid "Email to: "
 msgstr "E-Mail un: "
 
-#: khtml/khtml_part.cpp:3934
+#: khtml/khtml_part.cpp:3935
 msgid " - Subject: "
 msgstr " - Betreff: "
 
-#: khtml/khtml_part.cpp:3936
+#: khtml/khtml_part.cpp:3937
 msgid " - CC: "
 msgstr " - CC: "
 
-#: khtml/khtml_part.cpp:3938
+#: khtml/khtml_part.cpp:3939
 msgid " - BCC: "
 msgstr " - BCC: "
 
-#: khtml/khtml_part.cpp:4020
+#: khtml/khtml_part.cpp:4021
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt>This untrusted page links to<BR><B>%1</B>.<BR>Do you want to follow "
@@ -11606,40 +11606,40 @@ msgstr ""
 "<qt>Dëss Säit ass als \"net sëcher\" agestuft ginn an enthält de Link <BR><B>"
 "%1</B>.</BR>Wëllt dir déi Adress opruffen?"
 
-#: khtml/khtml_part.cpp:4021
+#: khtml/khtml_part.cpp:4022
 msgid "Follow"
 msgstr "Opruffen"
 
-#: khtml/khtml_part.cpp:4122
+#: khtml/khtml_part.cpp:4123
 msgid "Frame Information"
 msgstr "Informatioun iwwert de Frame"
 
-#: khtml/khtml_part.cpp:4128
+#: khtml/khtml_part.cpp:4129
 #, kde-format
 msgid "   <a href=\"%1\">[Properties]</a>"
 msgstr "   <a href=\"%1\">[Eegeschaften]</a>"
 
-#: khtml/khtml_part.cpp:4213
+#: khtml/khtml_part.cpp:4214
 msgid "Save Background Image As"
 msgstr "Bild am Hannergrond späicheren als"
 
-#: khtml/khtml_part.cpp:4305
+#: khtml/khtml_part.cpp:4306
 msgid "The peer SSL certificate chain appears to be corrupt."
 msgstr ""
 
-#: khtml/khtml_part.cpp:4324
+#: khtml/khtml_part.cpp:4325
 msgid "Save Frame As"
 msgstr "Frame späicheren als"
 
-#: khtml/khtml_part.cpp:4368
+#: khtml/khtml_part.cpp:4369
 msgid "&Find in Frame..."
 msgstr "Am Frame &sichen..."
 
-#: khtml/khtml_part.cpp:4370 kdeui/actions/kstandardaction_p.h:64
+#: khtml/khtml_part.cpp:4371 kdeui/actions/kstandardaction_p.h:64
 msgid "&Find..."
 msgstr "&Sichen..."
 
-#: khtml/khtml_part.cpp:4892
+#: khtml/khtml_part.cpp:4893
 msgid ""
 "Warning:  This is a secure form but it is attempting to send your data back "
 "unencrypted.\n"
@@ -11651,16 +11651,16 @@ msgstr ""
 "Een Drëtte kéint dëss Informatioun offänken a kucken.\n"
 "Wëllt dir sëcher weiderfueren?"
 
-#: khtml/khtml_part.cpp:4895 khtml/khtml_part.cpp:4904
-#: khtml/khtml_part.cpp:4928
+#: khtml/khtml_part.cpp:4896 khtml/khtml_part.cpp:4905
+#: khtml/khtml_part.cpp:4929
 msgid "Network Transmission"
 msgstr "Netzwierk-Transmissioun"
 
-#: khtml/khtml_part.cpp:4895 khtml/khtml_part.cpp:4905
+#: khtml/khtml_part.cpp:4896 khtml/khtml_part.cpp:4906
 msgid "&Send Unencrypted"
 msgstr "Onverschlësselt &verschécken"
 
-#: khtml/khtml_part.cpp:4902
+#: khtml/khtml_part.cpp:4903
 msgid ""
 "Warning: Your data is about to be transmitted across the network "
 "unencrypted.\n"
@@ -11669,7 +11669,7 @@ msgstr ""
 "Warnung: Dir sidd dropp an dru fir är Daten onverschlësselt ze verschécken.\n"
 "Sidd dir iech sëcher, dass dir weiderfuere wëllt?"
 
-#: khtml/khtml_part.cpp:4926
+#: khtml/khtml_part.cpp:4927
 msgid ""
 "This site is attempting to submit form data via email.\n"
 "Do you want to continue?"
@@ -11677,11 +11677,11 @@ msgstr ""
 "De Server probéiert, Formular-Daten iwwert E-Mail ze verschécken.\n"
 "Wëllt dir weiderfueren?"
 
-#: khtml/khtml_part.cpp:4929
+#: khtml/khtml_part.cpp:4930
 msgid "&Send Email"
 msgstr "E-Mail &verschécken"
 
-#: khtml/khtml_part.cpp:4950
+#: khtml/khtml_part.cpp:4951
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt>The form will be submitted to <BR><B>%1</B><BR>on your local "
@@ -11693,12 +11693,12 @@ msgstr ""
 "<qt>De Formular gëtt no<BR><B>%1</B><BR>op ärem lokalen Dateiesystem "
 "verschéckt ginn.<BR>Wëllt dir de Formular ofsenden?"
 
-#: khtml/khtml_part.cpp:4951 khtml/khtmlview.cpp:2958 khtml/khtmlview.cpp:3000
+#: khtml/khtml_part.cpp:4952 khtml/khtmlview.cpp:2959 khtml/khtmlview.cpp:3001
 #: khtml/html/html_formimpl.cpp:1579 khtml/html/html_formimpl.cpp:2173
 msgid "Submit"
 msgstr "Verschécken"
 
-#: khtml/khtml_part.cpp:5004
+#: khtml/khtml_part.cpp:5005
 msgid ""
 "This site attempted to attach a file from your computer in the form "
 "submission. The attachment was removed for your protection."
