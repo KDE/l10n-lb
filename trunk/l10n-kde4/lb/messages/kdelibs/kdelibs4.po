@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-11-03 09:53+0100\n"
+"POT-Creation-Date: 2008-11-04 10:11+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1902,13 +1902,6 @@ msgid ""
 "bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-"
 "indent:0px;\">(do not know yet)</p></body></html>"
 msgstr ""
-
-#. i18n: file: kformula/sample/SampleFormulaWidget.ui:13
-#. i18n: ectx: property (windowTitle), widget (QWidget, SampleFormulaWidget)
-#: rc.cpp:966
-#, fuzzy
-msgid "Form"
-msgstr "Frame"
 
 #: kjs/object.cpp:620 kdeui/dialogs/kmessagebox.cpp:816
 #: kdeui/dialogs/kmessagebox.cpp:849 khtml/rendering/render_form.cpp:614
@@ -5518,94 +5511,94 @@ msgstr "Ausfëllen"
 msgid "Do Not Fill Out"
 msgstr "Net Ausfëllen"
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:127
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:529
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:128
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:541
 #, fuzzy
 #| msgid "Get Hot New Stuff"
 msgid "Get Hot New Stuff"
 msgstr "Nei Saachen ofhuelen"
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:129
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:130
 #, kde-format
 msgctxt "Program name followed by 'Add On Installer'"
 msgid "%1 Add-On Installer"
 msgstr ""
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:136
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:137
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:93
 #, fuzzy
 #| msgid "Rating"
 msgid "Add Rating"
 msgstr "Bewertung"
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:139
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:140
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:94
 #, fuzzy
 #| msgid "Comment"
 msgid "Add Comment"
 msgstr "Kommentar"
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:142
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:143
 #, fuzzy
 #| msgid "Comment"
 msgid "View Comments"
 msgstr "Kommentar"
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:145
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:146
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:95
 #, fuzzy
 #| msgid "Translation"
 msgid "Translate"
 msgstr "Iwwersetzung"
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:148
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:149
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:96
 msgid "Subscribe"
 msgstr ""
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:151
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:152
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:97
 #, fuzzy
 #| msgid "(empty entry)"
 msgid "Report bad entry"
 msgstr "(Eidel Entrée)"
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:192
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:193
 #, fuzzy, kde-format
 #| msgid "Redo: %1"
 msgid "Re: %1"
 msgstr "Nees zeréck: %1"
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:299
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:303
 msgid "Timeout. Check Internet connection!"
 msgstr ""
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:387
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:391
 #, fuzzy
 #| msgid "Unable to create file to upload."
 msgid "Entries failed to load"
 msgstr "D'Datei fir eropzeluede konnt net erstallt ginn."
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:483
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:489
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:254
 #, fuzzy, kde-format
 #| msgid "<Merge %1>"
 msgid "Server: %1"
 msgstr "<Merge %1>"
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:484
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:490
 #, fuzzy, kde-format
 #| msgid "Hide %1"
 msgid "<br />Provider: %1"
 msgstr "%1 net weisen"
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:485
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:491
 #, fuzzy, kde-format
 #| msgid "Version:"
 msgid "<br />Version: %1"
 msgstr "Versioun:"
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:489
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:495
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:84
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:260
 #, fuzzy
@@ -5613,36 +5606,36 @@ msgstr "Versioun:"
 msgid "Provider information"
 msgstr "Informatiounen iwwert d'Versioun uweisen"
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:515
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:521
 #, fuzzy, kde-format
 msgid "Could not install %1"
 msgstr "Konnt de Service '%1' net fannen."
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:516
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:522
 #, fuzzy
 #| msgid "Get Hot New Stuff"
 msgid "Get Hot New Stuff!"
 msgstr "Nei Saachen ofhuelen"
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:528
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:540
 #, fuzzy
 #| msgid "There was an error loading the module."
 msgid "There was an error loading data providers."
 msgstr "Et ass e Feeler beim Luede vum Modul opgetrueden."
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:559
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:571
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:381
 msgid "A protocol fault has occurred. The request has failed."
 msgstr ""
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:560
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:567
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:572
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:579
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:382
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:389
 msgid "Desktop Exchange Service"
 msgstr ""
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:566
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:578
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:388
 msgid "A network error has occurred. The request has failed."
 msgstr ""
@@ -5656,17 +5649,17 @@ msgstr ""
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:151
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:450
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:540
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:64
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:186
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:194
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:65
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:187
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:195
 msgid "Install"
 msgstr "Installéieren"
 
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:68
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:135
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:536
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:65
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:171
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:66
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:172
 #, fuzzy
 #| msgid "Install"
 msgid "Uninstall"
@@ -5701,7 +5694,7 @@ msgid "Collaboration"
 msgstr "Doppelpunkt"
 
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:140
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:177
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:178
 msgid "Update"
 msgstr "Aktualiséieren"
 
@@ -5813,25 +5806,25 @@ msgstr "Nei %1 eroflueden"
 msgid "User comments"
 msgstr "Kommentar"
 
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:145
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:146
 #, fuzzy
 #| msgid "Most Downloads"
 msgid "No Downloads"
 msgstr "Am meeschten erofgelueden"
 
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:145
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:146
 #, fuzzy, kde-format
 #| msgid "Downloads"
 msgid "Downloads: %1"
 msgstr "Downloads"
 
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:235
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:236
 #, fuzzy
 #| msgid "Preview URL:"
 msgid "No Preview"
 msgstr "URL-Virschau:"
 
-#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:245
+#: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:246
 #, fuzzy
 #| msgid "Print Previe&w..."
 msgid "Loading Preview"
@@ -13941,7 +13934,7 @@ msgstr "Test"
 msgid "KDE Test Program"
 msgstr ""
 
-#: kdecore/services/kservice.h:513
+#: kdecore/services/kservice.h:520
 #, kde-format
 msgid "The service '%1' does not provide an interface '%2' with keyword '%3'"
 msgstr ""
@@ -14131,6 +14124,10 @@ msgstr "&Rotschlag vum Dag"
 #, fuzzy, kde-format
 msgid "No such function \"%1\""
 msgstr "D'Entrée '%1' ass net am Menü."
+
+#, fuzzy
+#~ msgid "Form"
+#~ msgstr "Frame"
 
 #, fuzzy
 #~ msgid "%1 %"
