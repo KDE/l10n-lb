@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-11-17 09:39+0100\n"
+"POT-Creation-Date: 2008-11-18 09:53+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -854,7 +854,7 @@ msgstr "&Verschiddenes"
 
 #. i18n: file: kdeui/xmlgui/ui_standards.rc:146
 #. i18n: ectx: Menu (settings)
-#: rc.cpp:327
+#: rc.cpp:327 khtml/ecma/debugger/debugwindow.cpp:240
 msgid "&Settings"
 msgstr "&Astellungen"
 
@@ -1775,7 +1775,7 @@ msgstr ""
 
 #. i18n: file: kjsembed/examples/kjsconsole/jsconsole.ui:219
 #. i18n: ectx: property (text), widget (QStatusBar, statusBar)
-#: rc.cpp:791 khtml/ecma/kjs_debugwin.cpp:480
+#: rc.cpp:791
 msgid "Step"
 msgstr "Schrack"
 
@@ -1791,8 +1791,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, pbStop)
 #: rc.cpp:797 rc.cpp:945 kdeui/jobs/kstatusbarjobtracker.cpp:156
 #: kdeui/util/kstandardguiitem.cpp:265 kdeui/util/kkeyserver_x11.cpp:109
-#: kdeui/findreplace/kreplace.cpp:353 khtml/ecma/kjs_debugwin.cpp:482
-#: kross/ui/view.cpp:309
+#: kdeui/findreplace/kreplace.cpp:353 kross/ui/view.cpp:309
 msgid "Stop"
 msgstr "Stop"
 
@@ -5898,6 +5897,7 @@ msgid "No provider selected."
 msgstr "Kee Provider gewielt."
 
 #: knewstuff/knewstuff2/core/providerhandler.cpp:156
+#: knewstuff/knewstuff2/core/providerhandler.cpp:176
 #, fuzzy
 #| msgid "Latest"
 msgctxt "describes the feed of the latest posted entries"
@@ -5911,12 +5911,6 @@ msgstr "Am héchste bewäert"
 #: knewstuff/knewstuff2/core/providerhandler.cpp:168
 msgid "Most Downloads"
 msgstr "Am meeschten erofgelueden"
-
-#: knewstuff/knewstuff2/core/providerhandler.cpp:174
-#, fuzzy
-#| msgid "Untrusted"
-msgid "Unsorted"
-msgstr "Net als sëcher agestuft"
 
 #: knewstuff/knewstuff2/core/security.cpp:76
 msgid ""
@@ -6566,7 +6560,7 @@ msgstr "Kierzelen"
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:61
 #, fuzzy
 #| msgid "Curr&ent actions:"
-msgid "Current Scheme:"
+msgid "Current scheme:"
 msgstr "Ug&ewisen Aktiounen:"
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:71
@@ -6586,8 +6580,10 @@ msgid "More Actions"
 msgstr "Aktioun"
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:81
-msgid "Save As Scheme Defaults"
-msgstr ""
+#, fuzzy
+#| msgid "Defaults"
+msgid "Save as Scheme Defaults"
+msgstr "Standard"
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:83
 msgid "Export Scheme..."
@@ -6598,8 +6594,10 @@ msgid "Name for New Scheme"
 msgstr ""
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:101
-msgid "Name for New Scheme:"
-msgstr ""
+#, fuzzy
+#| msgid "Curr&ent actions:"
+msgid "Name for new scheme:"
+msgstr "Ug&ewisen Aktiounen:"
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:101
 #, fuzzy
@@ -6608,8 +6606,11 @@ msgid "New Scheme"
 msgstr "Ug&ewisen Aktiounen:"
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:107
-msgid "The scheme with this name already exists"
+#, fuzzy
+msgid "A scheme with this name already exists."
 msgstr ""
+"Ën Zertifikat mat dësem Numm gëtt et schonn. Sidd dir sëcher, dass dir et "
+"ersetze wëllt?"
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:135
 #, kde-format
@@ -6619,8 +6620,10 @@ msgid ""
 msgstr ""
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:164
-msgid "Export To Location"
-msgstr ""
+#, fuzzy
+#| msgid "Click to select a font"
+msgid "Export to Location"
+msgstr "Klickt hei, fir eng Schrëft ze wielen"
 
 #: kdeui/dialogs/kshortcutschemeseditor.cpp:173
 msgid "Could not export shortcuts scheme because the location is invalid."
@@ -6875,7 +6878,7 @@ msgid "Reset Toolbars"
 msgstr "Toolbaren zerécksetzen"
 
 #: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2971
-#: khtml/khtmlview.cpp:3004 khtml/html/html_formimpl.cpp:2166
+#: khtml/khtmlview.cpp:3004 khtml/html/html_formimpl.cpp:2167
 msgid "Reset"
 msgstr "Zerécksetzen"
 
@@ -9111,29 +9114,29 @@ msgstr "No Vir"
 msgid "Next Character"
 msgstr "Zeechesaatz"
 
-#: kdeui/widgets/kcharselect.cpp:370
-#, fuzzy
-#| msgid "Select Font"
-msgid "Set font"
-msgstr "Schrëft auswielen"
-
-#: kdeui/widgets/kcharselect.cpp:377
-#, fuzzy
-#| msgid "Change font size?"
-msgid "Set font size"
-msgstr "Schrëftgréisst änneren?"
-
-#: kdeui/widgets/kcharselect.cpp:384
+#: kdeui/widgets/kcharselect.cpp:367
 #, fuzzy
 #| msgid "Select a year"
 msgid "Select a category"
 msgstr "Joër auswielen"
 
-#: kdeui/widgets/kcharselect.cpp:387
+#: kdeui/widgets/kcharselect.cpp:370
 #, fuzzy
 #| msgid "Message string to be displayed"
 msgid "Select a block to be displayed"
 msgstr "Noricht, déi ugewise soll ginn"
+
+#: kdeui/widgets/kcharselect.cpp:383
+#, fuzzy
+#| msgid "Select Font"
+msgid "Set font"
+msgstr "Schrëft auswielen"
+
+#: kdeui/widgets/kcharselect.cpp:390
+#, fuzzy
+#| msgid "Change font size?"
+msgid "Set font size"
+msgstr "Schrëftgréisst änneren?"
 
 #: kdeui/widgets/kcharselect.cpp:629 kdeui/widgets/kcharselect.cpp:881
 #: kdeui/widgets/kcharselect-translation.cpp:43
@@ -11765,7 +11768,7 @@ msgstr ""
 "verschéckt ginn.<BR>Wëllt dir de Formular ofsenden?"
 
 #: khtml/khtml_part.cpp:4594 khtml/khtmlview.cpp:2957 khtml/khtmlview.cpp:2999
-#: khtml/html/html_formimpl.cpp:1580 khtml/html/html_formimpl.cpp:2174
+#: khtml/html/html_formimpl.cpp:1581 khtml/html/html_formimpl.cpp:2175
 msgid "Submit"
 msgstr "Verschécken"
 
@@ -11866,8 +11869,8 @@ msgstr ""
 msgid "Available Tests: %1 (ignored: %2)"
 msgstr ""
 
-#: khtml/test_regression_gui_window.cpp:563 khtml/ecma/kjs_debugwin.cpp:481
-#: khtml/ecma/debugger/debugwindow.cpp:166
+#: khtml/test_regression_gui_window.cpp:563
+#: khtml/ecma/debugger/debugwindow.cpp:192
 msgid "Continue"
 msgstr "Weider"
 
@@ -11950,83 +11953,6 @@ msgstr "XML Parsing-Feeler"
 #: khtml/xml/dom_docimpl.cpp:2237
 msgid "Basic Page Style"
 msgstr "Grondstil"
-
-#: khtml/ecma/kjs_debugwin.cpp:298 khtml/ecma/debugger/errordlg.cpp:35
-msgid "JavaScript Error"
-msgstr "JavaScript-Feeler"
-
-#: khtml/ecma/kjs_debugwin.cpp:315 khtml/ecma/debugger/errordlg.cpp:50
-msgid "&Do not show this message again"
-msgstr "&Dëss Noricht net méi weisen"
-
-#: khtml/ecma/kjs_debugwin.cpp:385 khtml/ecma/debugger/debugwindow.cpp:111
-msgid "JavaScript Debugger"
-msgstr "JavaScript-Debugger"
-
-#: khtml/ecma/kjs_debugwin.cpp:400
-msgid "Call stack"
-msgstr "Stack opruffen"
-
-#: khtml/ecma/kjs_debugwin.cpp:435
-msgid "JavaScript console"
-msgstr "JavaScript-Konsol"
-
-#: khtml/ecma/kjs_debugwin.cpp:465
-msgctxt "Next breakpoint"
-msgid "&Next"
-msgstr "&Nächsten"
-
-#: khtml/ecma/kjs_debugwin.cpp:467
-msgid "&Step"
-msgstr "&Schrack"
-
-#: khtml/ecma/kjs_debugwin.cpp:472
-msgid "&Continue"
-msgstr "&Weider"
-
-#: khtml/ecma/kjs_debugwin.cpp:474
-msgid "St&op"
-msgstr "St&op"
-
-#: khtml/ecma/kjs_debugwin.cpp:476 khtml/ecma/debugger/debugwindow.cpp:160
-msgid "&Break at Next Statement"
-msgstr "&Stop bei der nächster Feststellung"
-
-#: khtml/ecma/kjs_debugwin.cpp:479
-msgctxt "Next breakpoint"
-msgid "Next"
-msgstr "Nächsten"
-
-#: khtml/ecma/kjs_debugwin.cpp:848 khtml/ecma/debugger/debugwindow.cpp:572
-#, kde-format
-msgid "Parse error at %1 line %2"
-msgstr "Parsing-Feeler bei %1, Zeil %2"
-
-#: khtml/ecma/kjs_debugwin.cpp:859
-#, kde-format
-msgid ""
-"An error occurred while attempting to run a script on this page.\n"
-"\n"
-"%1"
-msgstr ""
-"E Feeler ass beim Versuch, e Script op dëser Säit lafen ze loossen, "
-"opgetrueden.\n"
-"\n"
-"%1"
-
-#: khtml/ecma/kjs_debugwin.cpp:870 khtml/ecma/debugger/debugwindow.cpp:609
-#, kde-format
-msgid ""
-"An error occurred while attempting to run a script on this page.\n"
-"\n"
-"%1 line %2:\n"
-"%3"
-msgstr ""
-"E Feeler ass beim Versuch, e Script op dëser Säit lafen ze loossen, "
-"opgetrueden.\n"
-"\n"
-"%1, Zeil %2:\n"
-"%3"
 
 #: khtml/ecma/kjs_binding.cpp:184
 msgid ""
@@ -12131,17 +12057,17 @@ msgstr ""
 "<qt>Dëss Säit probéiert, e Formular ofzeschécken, deen iwwer JavaScript <p>%"
 "1</p> an enger neier Fënster opmëcht.<br/>Wëllt dir dat zouloossen?</qt>"
 
-#: khtml/ecma/debugger/debugdocument.cpp:210
+#: khtml/ecma/debugger/debugdocument.cpp:187
 msgid ""
 "Unable to find the Kate editor component;\n"
 "please check your KDE installation."
 msgstr ""
 
-#: khtml/ecma/debugger/debugdocument.cpp:327
+#: khtml/ecma/debugger/debugdocument.cpp:253
 msgid "Breakpoint"
 msgstr ""
 
-#: khtml/ecma/debugger/scriptsdock.cpp:39
+#: khtml/ecma/debugger/scriptsdock.cpp:40
 #, fuzzy
 msgid "Loaded Scripts"
 msgstr "&Handschrëft"
@@ -12156,65 +12082,112 @@ msgstr ""
 msgid "Reference"
 msgstr "Referenzfeler"
 
-#: khtml/ecma/debugger/debugwindow.cpp:161
+#: khtml/ecma/debugger/debugwindow.cpp:111
+msgid "JavaScript Debugger"
+msgstr "JavaScript-Debugger"
+
+#: khtml/ecma/debugger/debugwindow.cpp:186
+msgid "&Break at Next Statement"
+msgstr "&Stop bei der nächster Feststellung"
+
+#: khtml/ecma/debugger/debugwindow.cpp:187
 #, fuzzy
 #| msgid "&Break at Next Statement"
 msgid "Break at Next"
 msgstr "&Stop bei der nächster Feststellung"
 
-#: khtml/ecma/debugger/debugwindow.cpp:173
+#: khtml/ecma/debugger/debugwindow.cpp:199
 #, fuzzy
 msgid "Step Over"
 msgstr "Schrack"
 
-#: khtml/ecma/debugger/debugwindow.cpp:180
+#: khtml/ecma/debugger/debugwindow.cpp:206
 #, fuzzy
 msgid "Step Into"
 msgstr "Schrack"
 
-#: khtml/ecma/debugger/debugwindow.cpp:187
+#: khtml/ecma/debugger/debugwindow.cpp:213
 #, fuzzy
 msgid "Step Out"
 msgstr "Schrack"
 
-#: khtml/ecma/debugger/debugwindow.cpp:196
+#: khtml/ecma/debugger/debugwindow.cpp:219
+#, fuzzy
+#| msgid "Resources"
+msgid "Reindent Sources"
+msgstr "Quellen"
+
+#: khtml/ecma/debugger/debugwindow.cpp:224
+#, fuzzy
+#| msgid "Action"
+msgid "Report Exceptions"
+msgstr "Aktioun"
+
+#: khtml/ecma/debugger/debugwindow.cpp:232
 msgid "&Debug"
 msgstr ""
 
-#: khtml/ecma/debugger/debugwindow.cpp:225
+#: khtml/ecma/debugger/debugwindow.cpp:266
 #, fuzzy
 #| msgid "Close Document"
 msgid "Close source"
 msgstr "Dokument zoumaachen"
 
-#: khtml/ecma/debugger/debugwindow.cpp:231
+#: khtml/ecma/debugger/debugwindow.cpp:272
 #, fuzzy
 msgid "Ready"
 msgstr "Nach eng Kéier lueden"
 
-#: khtml/ecma/debugger/debugwindow.cpp:789
+#: khtml/ecma/debugger/debugwindow.cpp:615
+#, kde-format
+msgid "Parse error at %1 line %2"
+msgstr "Parsing-Feeler bei %1, Zeil %2"
+
+#: khtml/ecma/debugger/debugwindow.cpp:650
+#, kde-format
+msgid ""
+"An error occurred while attempting to run a script on this page.\n"
+"\n"
+"%1 line %2:\n"
+"%3"
+msgstr ""
+"E Feeler ass beim Versuch, e Script op dëser Säit lafen ze loossen, "
+"opgetrueden.\n"
+"\n"
+"%1, Zeil %2:\n"
+"%3"
+
+#: khtml/ecma/debugger/debugwindow.cpp:835
 msgid ""
 "Don't know where to evaluate the expression. Please pause a script or open a "
 "source file."
 msgstr ""
 
-#: khtml/ecma/debugger/debugwindow.cpp:825
+#: khtml/ecma/debugger/debugwindow.cpp:871
 #, kde-format
 msgid "Evaluation threw an exception %1"
 msgstr ""
 
-#: khtml/ecma/debugger/consoledock.cpp:231
+#: khtml/ecma/debugger/consoledock.cpp:220
 #, fuzzy
 #| msgid "Close"
 msgid "Console"
 msgstr "Zoumaachen"
 
-#: khtml/ecma/debugger/consoledock.cpp:254
+#: khtml/ecma/debugger/consoledock.cpp:243
 #, fuzzy
 #| msgctxt "QAccel"
 #| msgid "Enter"
 msgid "Enter"
 msgstr "Enter"
+
+#: khtml/ecma/debugger/errordlg.cpp:35
+msgid "JavaScript Error"
+msgstr "JavaScript-Feeler"
+
+#: khtml/ecma/debugger/errordlg.cpp:50
+msgid "&Do not show this message again"
+msgstr "&Dëss Noricht net méi weisen"
 
 #: khtml/ecma/debugger/callstackdock.cpp:37
 #, fuzzy
@@ -12321,7 +12294,7 @@ msgstr ""
 "d'Umeldungsinformatioun opruffen, wann dir fir d'nächst Kéier d'Säit %"
 "1besicht. Wëllt dir d'Informatioun elo späicheren?"
 
-#: khtml/html/html_formimpl.cpp:2555
+#: khtml/html/html_formimpl.cpp:2557
 #, fuzzy
 #| msgid "General"
 msgid "Key Generator"
@@ -14169,6 +14142,44 @@ msgid "No such function \"%1\""
 msgstr "D'Entrée '%1' ass net am Menü."
 
 #, fuzzy
+#~| msgid "Untrusted"
+#~ msgid "Unsorted"
+#~ msgstr "Net als sëcher agestuft"
+
+#~ msgid "Call stack"
+#~ msgstr "Stack opruffen"
+
+#~ msgid "JavaScript console"
+#~ msgstr "JavaScript-Konsol"
+
+#~ msgctxt "Next breakpoint"
+#~ msgid "&Next"
+#~ msgstr "&Nächsten"
+
+#~ msgid "&Step"
+#~ msgstr "&Schrack"
+
+#~ msgid "&Continue"
+#~ msgstr "&Weider"
+
+#~ msgid "St&op"
+#~ msgstr "St&op"
+
+#~ msgctxt "Next breakpoint"
+#~ msgid "Next"
+#~ msgstr "Nächsten"
+
+#~ msgid ""
+#~ "An error occurred while attempting to run a script on this page.\n"
+#~ "\n"
+#~ "%1"
+#~ msgstr ""
+#~ "E Feeler ass beim Versuch, e Script op dëser Säit lafen ze loossen, "
+#~ "opgetrueden.\n"
+#~ "\n"
+#~ "%1"
+
+#, fuzzy
 #~ msgid "Form"
 #~ msgstr "Frame"
 
@@ -14604,11 +14615,6 @@ msgstr "D'Entrée '%1' ass net am Menü."
 #, fuzzy
 #~| msgid "Click to select a font"
 #~ msgid "Click for Location Navigation"
-#~ msgstr "Klickt hei, fir eng Schrëft ze wielen"
-
-#, fuzzy
-#~| msgid "Click to select a font"
-#~ msgid "Click to Edit Location"
 #~ msgstr "Klickt hei, fir eng Schrëft ze wielen"
 
 #, fuzzy
@@ -15455,14 +15461,6 @@ msgstr "D'Entrée '%1' ass net am Menü."
 #~ msgstr "Konnt d'Datei net opmaachen."
 
 #, fuzzy
-#~ msgid ""
-#~ "A script package with the name \"%1\" already exists. Replace this "
-#~ "package?"
-#~ msgstr ""
-#~ "Ën Zertifikat mat dësem Numm gëtt et schonn. Sidd dir sëcher, dass dir et "
-#~ "ersetze wëllt?"
-
-#, fuzzy
 #~ msgid "Brightness"
 #~ msgstr "Aarbëcht"
 
@@ -16247,9 +16245,6 @@ msgstr "D'Entrée '%1' ass net am Menü."
 
 #~ msgid "Resource Selection"
 #~ msgstr "Quell wielen"
-
-#~ msgid "Resources"
-#~ msgstr "Quellen"
 
 #~ msgid "Public"
 #~ msgstr "Öffentlech"
