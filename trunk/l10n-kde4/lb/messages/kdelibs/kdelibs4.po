@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-11-18 09:53+0100\n"
+"POT-Creation-Date: 2008-11-19 10:53+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1116,7 +1116,7 @@ msgstr "Eidelmaa&chen"
 msgid "HTML Toolbar"
 msgstr "Haapt-Toolbar"
 
-#. i18n: file: khtml/find/khtmlfindbar_base.ui:28
+#. i18n: file: khtml/find/khtmlfindbar_base.ui:43
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: rc.cpp:462
 #, fuzzy
@@ -1124,19 +1124,19 @@ msgstr "Haapt-Toolbar"
 msgid "F&ind:"
 msgstr "Sichen:"
 
-#. i18n: file: khtml/find/khtmlfindbar_base.ui:54
+#. i18n: file: khtml/find/khtmlfindbar_base.ui:75
 #. i18n: ectx: property (text), widget (QToolButton, m_next)
 #: rc.cpp:465
 msgid "&Next"
 msgstr "&Weider"
 
-#. i18n: file: khtml/find/khtmlfindbar_base.ui:64
+#. i18n: file: khtml/find/khtmlfindbar_base.ui:85
 #. i18n: ectx: property (text), widget (QToolButton, m_previous)
 #: rc.cpp:468 kdeui/dialogs/ktip.cpp:302
 msgid "&Previous"
 msgstr "&Zeréck"
 
-#. i18n: file: khtml/find/khtmlfindbar_base.ui:90
+#. i18n: file: khtml/find/khtmlfindbar_base.ui:111
 #. i18n: ectx: property (text), widget (QToolButton, m_options)
 #: rc.cpp:471
 msgid "&Options"
@@ -2010,17 +2010,17 @@ msgstr "Alen Numm vum Host"
 msgid "New hostname"
 msgstr "Neien Numm fir den Host"
 
-#: kded/kded.cpp:807
+#: kded/kded.cpp:814
 msgid "KDE Daemon"
 msgstr "KDE-Daemon"
 
-#: kded/kded.cpp:809
+#: kded/kded.cpp:816
 msgid "KDE Daemon - triggers Sycoca database updates when needed"
 msgstr ""
 "KDE-Daemon: Léist d'Aktualiséierunge vun der Sycoca-Datebank aus, wa "
 "gebraucht"
 
-#: kded/kded.cpp:812
+#: kded/kded.cpp:819
 msgid "Check Sycoca database only once"
 msgstr "An der Sycoca-Datebank just eng Kéier nokucken"
 
@@ -7342,6 +7342,10 @@ msgstr "Standard"
 
 #: kdeui/dialogs/kshortcuteditwidget.cpp:56
 #: kdeui/dialogs/kshortcuteditwidget.cpp:59
+#: kdeui/widgets/kkeysequencewidget.cpp:667
+#, fuzzy
+#| msgid "None"
+msgctxt "No shortcut defined"
 msgid "None"
 msgstr "Keng"
 
@@ -10786,13 +10790,6 @@ msgctxt "What the user inputs now will be taken as the new shortcut"
 msgid "Input"
 msgstr "Quelldatei"
 
-#: kdeui/widgets/kkeysequencewidget.cpp:667
-#, fuzzy
-#| msgid "None"
-msgctxt "No shortcut defined"
-msgid "None"
-msgstr "Keng"
-
 #: kdeui/widgets/kkeysequencewidget.cpp:710
 msgid "The key you just pressed isn't supported by Qt."
 msgstr ""
@@ -14140,6 +14137,9 @@ msgstr "&Rotschlag vum Dag"
 #, fuzzy, kde-format
 msgid "No such function \"%1\""
 msgstr "D'Entrée '%1' ass net am Menü."
+
+#~ msgid "None"
+#~ msgstr "Keng"
 
 #, fuzzy
 #~| msgid "Untrusted"
