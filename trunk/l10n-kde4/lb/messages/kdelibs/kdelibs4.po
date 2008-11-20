@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-11-19 10:53+0100\n"
+"POT-Creation-Date: 2008-11-20 10:17+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -12621,32 +12621,32 @@ msgstr "&Handschrëft"
 msgid "Level of safety of the Ruby interpreter"
 msgstr ""
 
-#: kross/core/action.cpp:402
+#: kross/core/action.cpp:412
 #, fuzzy, kde-format
 msgid "Scriptfile \"%1\" does not exist."
 msgstr "De Stil %1 ass net fonnt ginn\n"
 
-#: kross/core/action.cpp:406
+#: kross/core/action.cpp:416
 #, fuzzy, kde-format
 msgid "Failed to determine interpreter for scriptfile \"%1\""
 msgstr "Script \"%1\" net fonnt."
 
-#: kross/core/action.cpp:410
+#: kross/core/action.cpp:420
 #, fuzzy, kde-format
 msgid "Failed to open scriptfile \"%1\""
 msgstr "Script \"%1\" net fonnt."
 
-#: kross/core/action.cpp:421
+#: kross/core/action.cpp:431
 #, fuzzy, kde-format
 msgid "Failed to load interpreter \"%1\""
 msgstr "Kee KScript Runner fir den Typ \"%1\" kritt."
 
-#: kross/core/action.cpp:423
+#: kross/core/action.cpp:433
 #, kde-format
 msgid "No such interpreter \"%1\""
 msgstr ""
 
-#: kross/core/action.cpp:429
+#: kross/core/action.cpp:439
 #, fuzzy, kde-format
 msgid "Failed to create script for interpreter \"%1\""
 msgstr "Kee KScript Runner fir den Typ \"%1\" kritt."
