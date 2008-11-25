@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-11-23 09:39+0100\n"
+"POT-Creation-Date: 2008-11-25 10:18+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -3851,7 +3851,7 @@ msgstr "Programm: "
 msgid "Qt"
 msgstr "Ophalen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:491 khtml/khtml_part.cpp:4653
+#: kdecore/kernel/kcmdlineargs.cpp:491 khtml/khtml_part.cpp:4664
 msgid "KDE"
 msgstr "KDE"
 
@@ -11710,7 +11710,7 @@ msgstr "Am Frame &sichen..."
 msgid "&Find..."
 msgstr "&Sichen..."
 
-#: khtml/khtml_part.cpp:4541
+#: khtml/khtml_part.cpp:4552
 msgid ""
 "Warning:  This is a secure form but it is attempting to send your data back "
 "unencrypted.\n"
@@ -11722,16 +11722,16 @@ msgstr ""
 "Een Drëtte kéint dëss Informatioun offänken a kucken.\n"
 "Wëllt dir sëcher weiderfueren?"
 
-#: khtml/khtml_part.cpp:4544 khtml/khtml_part.cpp:4553
-#: khtml/khtml_part.cpp:4577
+#: khtml/khtml_part.cpp:4555 khtml/khtml_part.cpp:4564
+#: khtml/khtml_part.cpp:4588
 msgid "Network Transmission"
 msgstr "Netzwierk-Transmissioun"
 
-#: khtml/khtml_part.cpp:4544 khtml/khtml_part.cpp:4554
+#: khtml/khtml_part.cpp:4555 khtml/khtml_part.cpp:4565
 msgid "&Send Unencrypted"
 msgstr "Onverschlësselt &verschécken"
 
-#: khtml/khtml_part.cpp:4551
+#: khtml/khtml_part.cpp:4562
 msgid ""
 "Warning: Your data is about to be transmitted across the network "
 "unencrypted.\n"
@@ -11740,7 +11740,7 @@ msgstr ""
 "Warnung: Dir sidd dropp an dru fir är Daten onverschlësselt ze verschécken.\n"
 "Sidd dir iech sëcher, dass dir weiderfuere wëllt?"
 
-#: khtml/khtml_part.cpp:4575
+#: khtml/khtml_part.cpp:4586
 msgid ""
 "This site is attempting to submit form data via email.\n"
 "Do you want to continue?"
@@ -11748,11 +11748,11 @@ msgstr ""
 "De Server probéiert, Formular-Daten iwwert E-Mail ze verschécken.\n"
 "Wëllt dir weiderfueren?"
 
-#: khtml/khtml_part.cpp:4578
+#: khtml/khtml_part.cpp:4589
 msgid "&Send Email"
 msgstr "E-Mail &verschécken"
 
-#: khtml/khtml_part.cpp:4599
+#: khtml/khtml_part.cpp:4610
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt>The form will be submitted to <BR><B>%1</B><BR>on your local "
@@ -11764,12 +11764,12 @@ msgstr ""
 "<qt>De Formular gëtt no<BR><B>%1</B><BR>op ärem lokalen Dateiesystem "
 "verschéckt ginn.<BR>Wëllt dir de Formular ofsenden?"
 
-#: khtml/khtml_part.cpp:4600 khtml/khtmlview.cpp:2957 khtml/khtmlview.cpp:2999
+#: khtml/khtml_part.cpp:4611 khtml/khtmlview.cpp:2957 khtml/khtmlview.cpp:2999
 #: khtml/html/html_formimpl.cpp:1581 khtml/html/html_formimpl.cpp:2188
 msgid "Submit"
 msgstr "Verschécken"
 
-#: khtml/khtml_part.cpp:4653
+#: khtml/khtml_part.cpp:4664
 msgid ""
 "This site attempted to attach a file from your computer in the form "
 "submission. The attachment was removed for your protection."
@@ -11777,16 +11777,16 @@ msgstr ""
 "De Server huet probéiert, eng Datei aus ärem Dateiesystem un de Formular "
 "drunnzehänken. Den Unhang ass zu ärer Sëcherheet geläscht ginn."
 
-#: khtml/khtml_part.cpp:5659
+#: khtml/khtml_part.cpp:5670
 #, kde-format
 msgid "(%1/s)"
 msgstr "(%1/s)"
 
-#: khtml/khtml_part.cpp:6575
+#: khtml/khtml_part.cpp:6586
 msgid "Security Warning"
 msgstr "Sëcherheetswarnung"
 
-#: khtml/khtml_part.cpp:6581
+#: khtml/khtml_part.cpp:6592
 #, fuzzy, kde-format
 #| msgid "<qt>Access by untrusted page to<BR><B>%1</B><BR> denied."
 msgid "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
@@ -11794,35 +11794,35 @@ msgstr ""
 "<qt>Zougang op<BR><B>%1</B><BR>duerch eng Säit, déi als net sëcher ugesinn "
 "ass, verweigert."
 
-#: khtml/khtml_part.cpp:6582 khtml/java/kjavaappletserver.cpp:792
+#: khtml/khtml_part.cpp:6593 khtml/java/kjavaappletserver.cpp:792
 msgid "Security Alert"
 msgstr "Sëcherheetsnoricht"
 
-#: khtml/khtml_part.cpp:6932
+#: khtml/khtml_part.cpp:6943
 #, kde-format
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr ""
 "Den digitale Portemonnaie '%1' ass op a gëtt fir Formularer a Passwierder "
 "benotzt."
 
-#: khtml/khtml_part.cpp:6989
+#: khtml/khtml_part.cpp:7000
 msgid "&Close Wallet"
 msgstr "Portemonnaie &zoumaachen"
 
-#: khtml/khtml_part.cpp:7032
+#: khtml/khtml_part.cpp:7043
 msgid "JavaScript &Debugger"
 msgstr "JavaScript-&Debugger"
 
-#: khtml/khtml_part.cpp:7065
+#: khtml/khtml_part.cpp:7076
 msgid "This page was prevented from opening a new window via JavaScript."
 msgstr ""
 "Dëss Säit ass dovun ofgehal ginn, mat JavaScript eng nei fënster opzemaachen."
 
-#: khtml/khtml_part.cpp:7071
+#: khtml/khtml_part.cpp:7082
 msgid "Popup Window Blocked"
 msgstr "Popup-Fënster blockéiert"
 
-#: khtml/khtml_part.cpp:7071
+#: khtml/khtml_part.cpp:7082
 msgid ""
 "This page has attempted to open a popup window but was blocked.\n"
 "You can click on this icon in the status bar to control this behavior\n"
@@ -11833,18 +11833,18 @@ msgstr ""
 "d'Fënster\n"
 "awer opzemaachen oder Astellunge virzehuelen."
 
-#: khtml/khtml_part.cpp:7084
+#: khtml/khtml_part.cpp:7095
 #, fuzzy, kde-format
 msgid "&Show Blocked Popup Window"
 msgid_plural "&Show %1 Blocked Popup Windows"
 msgstr[0] "Blockéiert Popup-Fënster &weisen"
 msgstr[1] "%1 blockéiert Popup-Fënstere weisen"
 
-#: khtml/khtml_part.cpp:7085
+#: khtml/khtml_part.cpp:7096
 msgid "Show Blocked Window Passive Popup &Notification"
 msgstr "Passiv &Norichtefënster bei blockéierte Popup-Fënsteren uweisen"
 
-#: khtml/khtml_part.cpp:7087
+#: khtml/khtml_part.cpp:7098
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "JavaScript fir Fënsteren nei opzemaache &configuréieren..."
 
