@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-11-27 09:42+0100\n"
+"POT-Creation-Date: 2008-11-28 10:11+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -11017,19 +11017,19 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 msgid "Nothing to spell check."
 msgstr "Kee Provider gewielt."
 
-#: khtml/testkhtml.cpp:38
+#: khtml/testkhtml.cpp:40
 #, fuzzy
 #| msgid "URL to open"
 msgid "URL to open"
 msgstr "URL fir opzemaachen"
 
-#: khtml/testkhtml.cpp:40
+#: khtml/testkhtml.cpp:42
 #, fuzzy
 #| msgid "Test"
 msgid "Testkhtml"
 msgstr "Test"
 
-#: khtml/testkhtml.cpp:41
+#: khtml/testkhtml.cpp:43
 msgid "a basic web browser using the KHTML library"
 msgstr ""
 
