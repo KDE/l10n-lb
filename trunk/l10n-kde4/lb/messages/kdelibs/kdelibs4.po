@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-11-30 09:45+0100\n"
+"POT-Creation-Date: 2008-12-01 10:25+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2126,24 +2126,24 @@ msgstr "Net nach eng Kéier lueden"
 msgid "Configuration information reloaded successfully."
 msgstr "D'Configuratiounsdate sinn nei geluede ginn."
 
-#: kpty/kptydevice.cpp:297
+#: kpty/kptydevice.cpp:306
 #, fuzzy
 #| msgid "ErrorReadingRoot"
 msgid "Error reading from PTY"
 msgstr "ErrorReadingRoot"
 
-#: kpty/kptydevice.cpp:331
+#: kpty/kptydevice.cpp:340
 msgid "Error writing to PTY"
 msgstr ""
 
-#: kpty/kptydevice.cpp:416
+#: kpty/kptydevice.cpp:425
 #, fuzzy
 #| msgctxt "Socket error code Timeout"
 #| msgid "timed operation timed out"
 msgid "PTY operation timed out"
 msgstr "D'Zäit fir dëss Aktioun ass iwwerschratt ginn"
 
-#: kpty/kptydevice.cpp:471 kpty/kptydevice.cpp:485
+#: kpty/kptydevice.cpp:481 kpty/kptydevice.cpp:495
 #, fuzzy
 #| msgid "Error opening file."
 msgid "Error opening PTY"
