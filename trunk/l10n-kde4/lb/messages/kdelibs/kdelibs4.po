@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-12-01 10:25+0100\n"
+"POT-Creation-Date: 2008-12-02 10:41+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1139,8 +1139,10 @@ msgstr "&Zeréck"
 #. i18n: file: khtml/find/khtmlfindbar_base.ui:111
 #. i18n: ectx: property (text), widget (QToolButton, m_options)
 #: rc.cpp:471
-msgid "&Options"
-msgstr "&Optiounen"
+#, fuzzy
+#| msgid "Options"
+msgid "Opt&ions"
+msgstr "Optiounen"
 
 #. i18n: file: kross/test/testguiform.ui:44
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
@@ -3807,31 +3809,37 @@ msgstr "Spigelt sämtlech Steierungselementer"
 msgid "applies the Qt stylesheet to the application widgets"
 msgstr ""
 
-#: kdecore/kernel/kcmdlineargs.cpp:306
+#: kdecore/kernel/kcmdlineargs.cpp:305
+msgid ""
+"use a different graphics system instead of the default one, options are "
+"raster and opengl (experimental)"
+msgstr ""
+
+#: kdecore/kernel/kcmdlineargs.cpp:308
 msgid "Use 'caption' as name in the titlebar"
 msgstr "Benotzt 'caption' als Numm an der Titelbar"
 
-#: kdecore/kernel/kcmdlineargs.cpp:307
+#: kdecore/kernel/kcmdlineargs.cpp:309
 msgid "Use 'icon' as the application icon"
 msgstr "Benotzt 'icon' als Symbol fir de Programm"
 
-#: kdecore/kernel/kcmdlineargs.cpp:308
+#: kdecore/kernel/kcmdlineargs.cpp:310
 msgid "Use alternative configuration file"
 msgstr "Eng aner Configuratiounsdatei huelen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:309
+#: kdecore/kernel/kcmdlineargs.cpp:311
 msgid "Disable crash handler, to get core dumps"
 msgstr "De Crash-Handler ofschalte fir Core Dumps ze kréien"
 
-#: kdecore/kernel/kcmdlineargs.cpp:311
+#: kdecore/kernel/kcmdlineargs.cpp:313
 msgid "Waits for a WM_NET compatible windowmanager"
 msgstr "Waart op ën Fënstermanager, dee WM_NET-kompatibel ass"
 
-#: kdecore/kernel/kcmdlineargs.cpp:313
+#: kdecore/kernel/kcmdlineargs.cpp:315
 msgid "sets the application GUI style"
 msgstr "Leet de GUI-Stil fir d'Uwendung fest"
 
-#: kdecore/kernel/kcmdlineargs.cpp:314
+#: kdecore/kernel/kcmdlineargs.cpp:316
 msgid ""
 "sets the client geometry of the main widget - see man X for the argument "
 "format"
@@ -3839,35 +3847,35 @@ msgstr ""
 "Leet d'Geometrie vum Haaptelement am Client-Programm fest. De Format vun den "
 "Argumenter fannt dir mat \"man X\" eraus"
 
-#: kdecore/kernel/kcmdlineargs.cpp:431
+#: kdecore/kernel/kcmdlineargs.cpp:433
 #, fuzzy
 #| msgid "Application: "
 msgid "KDE Application"
 msgstr "Programm: "
 
-#: kdecore/kernel/kcmdlineargs.cpp:488
+#: kdecore/kernel/kcmdlineargs.cpp:490
 #, fuzzy
 #| msgid "Quit"
 msgid "Qt"
 msgstr "Ophalen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:491 khtml/khtml_part.cpp:4664
+#: kdecore/kernel/kcmdlineargs.cpp:493 khtml/khtml_part.cpp:4664
 msgid "KDE"
 msgstr "KDE"
 
-#: kdecore/kernel/kcmdlineargs.cpp:799 kdecore/kernel/kcmdlineargs.cpp:819
+#: kdecore/kernel/kcmdlineargs.cpp:801 kdecore/kernel/kcmdlineargs.cpp:821
 #, kde-format
 msgid "Unknown option '%1'."
 msgstr "Onbekannt Optioun '%1'."
 
-#: kdecore/kernel/kcmdlineargs.cpp:827
+#: kdecore/kernel/kcmdlineargs.cpp:829
 #, fuzzy, kde-format
 #| msgid "'%1' missing."
 msgctxt "@info:shell %1 is cmdoption name"
 msgid "'%1' missing."
 msgstr "'%1' feelt."
 
-#: kdecore/kernel/kcmdlineargs.cpp:912
+#: kdecore/kernel/kcmdlineargs.cpp:914
 #, kde-format
 msgctxt "the 2nd argument is a list of name+address, one on each line"
 msgid ""
@@ -3877,86 +3885,86 @@ msgstr ""
 "%1 ass vum\n"
 "%2 geschriwwe ginn"
 
-#: kdecore/kernel/kcmdlineargs.cpp:915
+#: kdecore/kernel/kcmdlineargs.cpp:917
 msgid "This application was written by somebody who wants to remain anonymous."
 msgstr "Den Auteur vun dësem Programm wëllt anonym bleiwen."
 
-#: kdecore/kernel/kcmdlineargs.cpp:922
+#: kdecore/kernel/kcmdlineargs.cpp:924
 msgid "Please use http://bugs.kde.org to report bugs.\n"
 msgstr "Mellt eventuell Käfere w.e.g. ënnert http://bugs.kde.org.\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:924
+#: kdecore/kernel/kcmdlineargs.cpp:926
 #, kde-format
 msgid "Please report bugs to %1.\n"
 msgstr "Mellt eventuell Käfere w.e.g. bei %1.\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:950
+#: kdecore/kernel/kcmdlineargs.cpp:952
 #, kde-format
 msgid "Unexpected argument '%1'."
 msgstr "Den Argument '%1' ass onerwaart."
 
-#: kdecore/kernel/kcmdlineargs.cpp:1066
+#: kdecore/kernel/kcmdlineargs.cpp:1068
 msgid "Use --help to get a list of available command line options."
 msgstr "Gitt --help an, fir eng Lëscht vu verfügbaren Optiounen ze kréien."
 
-#: kdecore/kernel/kcmdlineargs.cpp:1089
+#: kdecore/kernel/kcmdlineargs.cpp:1091
 msgid "[options] "
 msgstr "[Optiounen]"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1096
+#: kdecore/kernel/kcmdlineargs.cpp:1098
 #, kde-format
 msgid "[%1-options]"
 msgstr "[%1-Optiounen]"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1117
+#: kdecore/kernel/kcmdlineargs.cpp:1119
 #, kde-format
 msgid "Usage: %1 %2\n"
 msgstr "Verwendung: %1 %2\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1120
+#: kdecore/kernel/kcmdlineargs.cpp:1122
 #, fuzzy
 msgid ""
 "\n"
 "Generic options:\n"
 msgstr "Einfach Optiounen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1121
+#: kdecore/kernel/kcmdlineargs.cpp:1123
 msgid "Show help about options"
 msgstr "D'Hëllefsoptiounen uweisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1129
+#: kdecore/kernel/kcmdlineargs.cpp:1131
 #, kde-format
 msgid "Show %1 specific options"
 msgstr "Speziell Optioune fir %1 uweisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1136
+#: kdecore/kernel/kcmdlineargs.cpp:1138
 msgid "Show all options"
 msgstr "All Optioune weisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1137
+#: kdecore/kernel/kcmdlineargs.cpp:1139
 msgid "Show author information"
 msgstr "Informatiounen iwwert den Auteur uweisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1138
+#: kdecore/kernel/kcmdlineargs.cpp:1140
 msgid "Show version information"
 msgstr "Informatiounen iwwert d'Versioun uweisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1139
+#: kdecore/kernel/kcmdlineargs.cpp:1141
 msgid "Show license information"
 msgstr "Lizenzinformatiounen uweisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1140
+#: kdecore/kernel/kcmdlineargs.cpp:1142
 msgid "End of options"
 msgstr "Enn vun den Optiounen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1161
+#: kdecore/kernel/kcmdlineargs.cpp:1163
 #, fuzzy, kde-format
 msgid ""
 "\n"
 "%1 options:\n"
 msgstr "%1 Optiounen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1163
+#: kdecore/kernel/kcmdlineargs.cpp:1165
 msgid ""
 "\n"
 "Options:\n"
@@ -3964,7 +3972,7 @@ msgstr ""
 "\n"
 "Optiounen:\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1221
+#: kdecore/kernel/kcmdlineargs.cpp:1223
 msgid ""
 "\n"
 "Arguments:\n"
@@ -3972,13 +3980,13 @@ msgstr ""
 "\n"
 "Argumenter:\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1586
+#: kdecore/kernel/kcmdlineargs.cpp:1588
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr ""
 "D'Dateien/URLen, déi vum Programm opgemaach gi sinn, ginn häerno nees "
 "geläscht"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1587
+#: kdecore/kernel/kcmdlineargs.cpp:1589
 msgid "KDE-tempfile"
 msgstr ""
 
@@ -12836,11 +12844,11 @@ msgstr "Sicht am Internet"
 msgid "&Search"
 msgstr "&Sichen"
 
-#: kparts/part.cpp:758
+#: kparts/part.cpp:759
 msgid "Untitled"
 msgstr "Onbenannt"
 
-#: kparts/part.cpp:764
+#: kparts/part.cpp:765
 #, kde-format
 msgid ""
 "The document \"%1\" has been modified.\n"
@@ -12849,7 +12857,7 @@ msgstr ""
 "Den Dokument \"%1\" ass verännert ginn.\n"
 "Wëllt dir e späicheren oder sou si loosse, wéi e war?"
 
-#: kparts/part.cpp:766
+#: kparts/part.cpp:767
 msgid "Close Document"
 msgstr "Dokument zoumaachen"
 
@@ -14135,6 +14143,9 @@ msgstr "&Rotschlag vum Dag"
 #, fuzzy, kde-format
 msgid "No such function \"%1\""
 msgstr "D'Entrée '%1' ass net am Menü."
+
+#~ msgid "&Options"
+#~ msgstr "&Optiounen"
 
 #~ msgid "None"
 #~ msgstr "Keng"
