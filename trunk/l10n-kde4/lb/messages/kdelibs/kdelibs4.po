@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-12-02 10:41+0100\n"
+"POT-Creation-Date: 2008-12-03 10:50+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -8883,7 +8883,7 @@ msgstr "<h2>Kuerzbefehler ewechgeholl</h2>"
 msgid "<h2>Accelerators added (just for your info)</h2>"
 msgstr "<h2>Kuerzbefehler dobäigemaach (nëmme fir bescheed ze soen)</h2>"
 
-#: kdeui/kernel/kapplication.cpp:617
+#: kdeui/kernel/kapplication.cpp:607
 msgctxt ""
 "Dear Translator! Translate this string to the string 'LTR' in left-to-right "
 "languages (as English) or to 'RTL' in right-to-left languages (such as "
@@ -8891,7 +8891,7 @@ msgctxt ""
 msgid "LTR"
 msgstr ""
 
-#: kdeui/kernel/kapplication.cpp:856
+#: kdeui/kernel/kapplication.cpp:846
 #, fuzzy, kde-format
 #| msgid "The style %1 was not found\n"
 msgid "The style '%1' was not found"
