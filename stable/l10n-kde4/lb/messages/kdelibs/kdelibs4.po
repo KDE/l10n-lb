@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-12-09 06:01+0100\n"
+"POT-Creation-Date: 2008-12-12 06:13+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -9831,7 +9831,7 @@ msgctxt "@item:inmenu Text Completion"
 msgid "Dropdown List && Automatic"
 msgstr "Ausklapplëscht && Automatik"
 
-#: kdeui/widgets/klineedit.cpp:1146
+#: kdeui/widgets/klineedit.cpp:1153
 #, fuzzy
 #| msgid "Default"
 msgctxt "@item:inmenu Text Completion"
