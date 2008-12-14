@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-12-13 10:31+0100\n"
+"POT-Creation-Date: 2008-12-14 10:12+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -6844,19 +6844,19 @@ msgctxt "@item:intable Action name in shortcuts configuration"
 msgid "%1"
 msgstr "%1%"
 
-#: kdeui/dialogs/kdialog.cpp:239
+#: kdeui/dialogs/kdialog.cpp:232
 msgid "&Try"
 msgstr "&Probéieren"
 
-#: kdeui/dialogs/kdialog.cpp:421
+#: kdeui/dialogs/kdialog.cpp:414
 msgid "modified"
 msgstr "nach net gespäichert"
 
-#: kdeui/dialogs/kdialog.cpp:800
+#: kdeui/dialogs/kdialog.cpp:793
 msgid "&Details"
 msgstr "&Detailer"
 
-#: kdeui/dialogs/kdialog.cpp:947
+#: kdeui/dialogs/kdialog.cpp:940
 msgid "Get help..."
 msgstr "Hëllef ufroen..."
 
