@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2008-12-12 06:13+0100\n"
+"POT-Creation-Date: 2008-12-27 07:01+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1973,12 +1973,12 @@ msgstr "Informéiert de KDE vun enger Verännerung vum Numm vum Host"
 msgid "(c) 2001 Waldo Bastian"
 msgstr ""
 
-#: kded/khostname.cpp:221 kded/kbuildsycoca.cpp:645 khtml/khtml_global.cpp:201
+#: kded/khostname.cpp:221 kded/kbuildsycoca.cpp:644 khtml/khtml_global.cpp:201
 #: kconf_update/kconf_update.cpp:965
 msgid "Waldo Bastian"
 msgstr ""
 
-#: kded/khostname.cpp:221 kded/kbuildsycoca.cpp:644 kded/kbuildsycoca.cpp:645
+#: kded/khostname.cpp:221 kded/kbuildsycoca.cpp:643 kded/kbuildsycoca.cpp:644
 #: kross/qts/main.cpp:63 kross/test/main.cpp:138 kross/console/main.cpp:102
 #: kde3support/kdeui/k3aboutdialog.cpp:184
 msgid "Author"
@@ -2006,7 +2006,7 @@ msgstr ""
 msgid "Check Sycoca database only once"
 msgstr "An der Sycoca-Datebank just eng Kéier nokucken"
 
-#: kded/kbuildsycoca.cpp:416
+#: kded/kbuildsycoca.cpp:415
 #, kde-format
 msgid ""
 "Error creating database '%1'.\n"
@@ -2017,12 +2017,12 @@ msgstr ""
 "Kuckt w.e.g. no, ob de Späicher net voll ass an ob d'Permissiounen um "
 "Dossier déi richteg sinn.\n"
 
-#: kded/kbuildsycoca.cpp:416 kded/kbuildsycoca.cpp:447
-#: kded/kbuildsycoca.cpp:641
+#: kded/kbuildsycoca.cpp:415 kded/kbuildsycoca.cpp:446
+#: kded/kbuildsycoca.cpp:640
 msgid "KBuildSycoca"
 msgstr "KBuildSycoca"
 
-#: kded/kbuildsycoca.cpp:447
+#: kded/kbuildsycoca.cpp:446
 #, kde-format
 msgid ""
 "Error writing database '%1'.\n"
@@ -2033,78 +2033,78 @@ msgstr ""
 "Kuckt w.e.g. no, ob de Späicher net voll ass an ob d'Permissiounen um "
 "Dossier déi richteg sinn.\n"
 
-#: kded/kbuildsycoca.cpp:642
+#: kded/kbuildsycoca.cpp:641
 msgid "Rebuilds the system configuration cache."
 msgstr "Baut de Cache vun der Systemconfiguratioun nees op."
 
-#: kded/kbuildsycoca.cpp:643
+#: kded/kbuildsycoca.cpp:642
 msgid "(c) 1999-2002 KDE Developers"
 msgstr ""
 
-#: kded/kbuildsycoca.cpp:644
+#: kded/kbuildsycoca.cpp:643
 msgid "David Faure"
 msgstr ""
 
-#: kded/kbuildsycoca.cpp:648
+#: kded/kbuildsycoca.cpp:647
 msgid "Do not signal applications to update"
 msgstr "Déi Uwendungen, déi z'aktualiséiere sinn net uweisen"
 
-#: kded/kbuildsycoca.cpp:649
+#: kded/kbuildsycoca.cpp:648
 msgid "Disable incremental update, re-read everything"
 msgstr "Keng fortlafend Aktualiséierung, ëmmer alles nei liesen"
 
-#: kded/kbuildsycoca.cpp:650
+#: kded/kbuildsycoca.cpp:649
 msgid "Check file timestamps"
 msgstr "Ännerungszäite vun der Datei nokucken"
 
-#: kded/kbuildsycoca.cpp:651
+#: kded/kbuildsycoca.cpp:650
 msgid "Disable checking files (dangerous)"
 msgstr "Keng Dateie méi nokucken (geféierlech)"
 
-#: kded/kbuildsycoca.cpp:652
+#: kded/kbuildsycoca.cpp:651
 msgid "Create global database"
 msgstr "Eng global Datebank erstellen"
 
-#: kded/kbuildsycoca.cpp:653
+#: kded/kbuildsycoca.cpp:652
 msgid "Perform menu generation test run only"
 msgstr "Just ën Test fir d'Menü-Erstellung maachen"
 
-#: kded/kbuildsycoca.cpp:654
+#: kded/kbuildsycoca.cpp:653
 msgid "Track menu id for debug purposes"
 msgstr "D'Menü-ID fir ën Debugging späicheren"
 
-#: kded/kbuildsycoca.cpp:656
+#: kded/kbuildsycoca.cpp:655
 msgid "Silent - work without windows and stderr"
 msgstr "Rouëg - Ouni Fënsteren an ouni stderr schaffen"
 
-#: kded/kbuildsycoca.cpp:657
+#: kded/kbuildsycoca.cpp:656
 msgid "Show progress information (even if 'silent' mode is on)"
 msgstr "Ëmmer de Fortschrëtt uweisen (och am 'Rouëg'-Modus)"
 
-#: kded/kbuildsycoca.cpp:682
+#: kded/kbuildsycoca.cpp:681
 msgid "Reloading KDE configuration, please wait..."
 msgstr "Amgaang d'KDE-Configuratioun ze lueden, ee Moment w.e.g...."
 
-#: kded/kbuildsycoca.cpp:683
+#: kded/kbuildsycoca.cpp:682
 msgid "KDE Configuration Manager"
 msgstr "KDE Configuratiounsmanager"
 
-#: kded/kbuildsycoca.cpp:685
+#: kded/kbuildsycoca.cpp:684
 msgid "Do you want to reload KDE configuration?"
 msgstr "Wëllt dir d'KDE-Configuratioun nach eng Kéier lueden?"
 
-#: kded/kbuildsycoca.cpp:685
+#: kded/kbuildsycoca.cpp:684
 #, fuzzy
 #| msgid "Reload"
 msgctxt "Reload KDE configuration messagebox"
 msgid "Reload"
 msgstr "Nach eng Kéier lueden"
 
-#: kded/kbuildsycoca.cpp:685
+#: kded/kbuildsycoca.cpp:684
 msgid "Do Not Reload"
 msgstr "Net nach eng Kéier lueden"
 
-#: kded/kbuildsycoca.cpp:859
+#: kded/kbuildsycoca.cpp:858
 msgid "Configuration information reloaded successfully."
 msgstr "D'Configuratiounsdate sinn nei geluede ginn."
 
