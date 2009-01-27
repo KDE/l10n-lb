@@ -1,0 +1,55 @@
+# translation of kabc_net.po to Luxembourgish
+# Michel Ludwig <michel.ludwig@kdemail.net>, 2005, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: kabc_net\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2008-03-07 20:10+0100\n"
+"PO-Revision-Date: 2006-05-01 21:12+0200\n"
+"Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
+"Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: resourcenet.cpp:146
+#, kde-format
+msgid "Unable to download file '%1'."
+msgstr "D'Datei '%1' konnt net erofgeluede ginn."
+
+#: resourcenet.cpp:152 resourcenet.cpp:187 resourcenet.cpp:369
+#, kde-format
+msgid "Unable to open file '%1'."
+msgstr "D'Datei '%1' konnt net opgemat ginn."
+
+#: resourcenet.cpp:159 resourcenet.cpp:365
+#, kde-format
+msgid "Problems during parsing file '%1'."
+msgstr "Et goufe Problemer beim Analyséiere vun der Datei '%1'."
+
+#: resourcenet.cpp:247 resourcenet.cpp:279
+#, kde-format
+msgid "Unable to save file '%1'."
+msgstr "D'Datei '%1' konnt net gespäichert ginn."
+
+#: resourcenet.cpp:253
+#, kde-format
+msgid "Unable to upload to '%1'."
+msgstr "D'Datei '%1' konnt net eropgeluede ginn."
+
+#: resourcenet.cpp:356
+msgid "Download failed, could not create temporary file"
+msgstr ""
+
+#: resourcenetconfig.cpp:43
+msgid "Format:"
+msgstr "Format:"
+
+#: resourcenetconfig.cpp:49
+msgid "Location:"
+msgstr "Adress:"
+
+#~ msgid "Download failed in some way!"
+#~ msgstr "D'Eroflueden ass op iergend eng Art a Weis feelgeschloen !"
