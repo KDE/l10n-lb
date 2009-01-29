@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kstyle_config\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-01-27 08:23+0100\n"
+"POT-Creation-Date: 2009-01-29 07:19+0100\n"
 "PO-Revision-Date: 2005-12-04 23:09+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -26,10 +26,10 @@ msgstr ""
 msgid "Use wider lines"
 msgstr "Méi breet Zeile benotzen"
 
-#: oxygen/config/oxygenconf.cpp:64
+#: oxygen/config/oxygenconf.cpp:63
 msgid "Draw toolbar item separators"
 msgstr ""
 
-#: oxygen/config/oxygenconf.cpp:65
+#: oxygen/config/oxygenconf.cpp:64
 msgid "Triangular tree expander"
 msgstr ""
