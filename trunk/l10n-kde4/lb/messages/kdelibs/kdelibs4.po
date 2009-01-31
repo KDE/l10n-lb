@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-01-29 19:52+0100\n"
+"POT-Creation-Date: 2009-01-31 11:37+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2013,17 +2013,17 @@ msgstr "Alen Numm vum Host"
 msgid "New hostname"
 msgstr "Neien Numm fir den Host"
 
-#: kded/kded.cpp:875
+#: kded/kded.cpp:874
 msgid "KDE Daemon"
 msgstr "KDE-Daemon"
 
-#: kded/kded.cpp:877
+#: kded/kded.cpp:876
 msgid "KDE Daemon - triggers Sycoca database updates when needed"
 msgstr ""
 "KDE-Daemon: Léist d'Aktualiséierunge vun der Sycoca-Datebank aus, wa "
 "gebraucht"
 
-#: kded/kded.cpp:880
+#: kded/kded.cpp:879
 msgid "Check Sycoca database only once"
 msgstr "An der Sycoca-Datebank just eng Kéier nokucken"
 
@@ -12491,7 +12491,7 @@ msgstr "Kierzelen"
 msgid "Create Web Shortcut"
 msgstr "Kierzel läschen"
 
-#: kinit/kinit.cpp:484
+#: kinit/kinit.cpp:482
 msgid ""
 "Unable to start new process.\n"
 "The system may have reached the maximum number of open files possible or the "
@@ -12501,7 +12501,7 @@ msgstr ""
 "Déi maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn oder déi vun "
 "iech agestallte maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn."
 
-#: kinit/kinit.cpp:503
+#: kinit/kinit.cpp:501
 msgid ""
 "Unable to create new process.\n"
 "The system may have reached the maximum number of processes possible or the "
@@ -12511,12 +12511,12 @@ msgstr ""
 "Déi maximal Unzuel vu Prozesser kéint erreecht sinn oder déi vun iech "
 "agestallte maximal Unzuel vu Prozesser kéint erreecht sinn."
 
-#: kinit/kinit.cpp:602
+#: kinit/kinit.cpp:600
 #, kde-format
 msgid "Could not find '%1' executable."
 msgstr "Konnt de Programm '%1' net fannen."
 
-#: kinit/kinit.cpp:620
+#: kinit/kinit.cpp:618
 #, kde-format
 msgid ""
 "Could not open library '%1'.\n"
@@ -12525,7 +12525,7 @@ msgstr ""
 "Konnt d'Bibliothéik '%1' net opmaachen.\n"
 "%2"
 
-#: kinit/kinit.cpp:666
+#: kinit/kinit.cpp:664
 #, kde-format
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
@@ -12546,32 +12546,32 @@ msgstr ""
 "KLauncher: Dëse Programm sollt am Fong net manuell gestart ginn.\n"
 "E gëtt vu kdeinit automatësch opgeruff.\n"
 
-#: kinit/klauncher.cpp:539
+#: kinit/klauncher.cpp:557
 #, kde-format
 msgid "KDEInit could not launch '%1'."
 msgstr "KDEInit konnt '%1' net starten."
 
-#: kinit/klauncher.cpp:708 kinit/klauncher.cpp:733 kinit/klauncher.cpp:748
+#: kinit/klauncher.cpp:730 kinit/klauncher.cpp:755 kinit/klauncher.cpp:770
 #, kde-format
 msgid "Could not find service '%1'."
 msgstr "Konnt de Service '%1' net fannen."
 
-#: kinit/klauncher.cpp:764 kinit/klauncher.cpp:800
+#: kinit/klauncher.cpp:786 kinit/klauncher.cpp:822
 #, kde-format
 msgid "Service '%1' is malformatted."
 msgstr "De Service '%1' huet ën ongültege Format."
 
-#: kinit/klauncher.cpp:881
+#: kinit/klauncher.cpp:908
 #, kde-format
 msgid "Launching %1"
 msgstr "%1 gëtt gestart"
 
-#: kinit/klauncher.cpp:1090
+#: kinit/klauncher.cpp:1108
 #, kde-format
 msgid "Unknown protocol '%1'.\n"
 msgstr "Onbekannte Protokoll '%1'.\n"
 
-#: kinit/klauncher.cpp:1151
+#: kinit/klauncher.cpp:1169
 #, kde-format
 msgid "Error loading '%1'.\n"
 msgstr "Feeler beim Luede vun '%1'.\n"
