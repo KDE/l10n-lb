@@ -5565,8 +5565,6 @@ msgstr "Net Ausfëllen"
 
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:127
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:555
-#, fuzzy
-#| msgid "Get Hot New Stuff"
 msgid "Get Hot New Stuff"
 msgstr "Nei Saachen ofhuelen"
 
@@ -6107,8 +6105,6 @@ msgstr[0] "Nei Datei."
 msgstr[1] "Nei Datei."
 
 #: kdeui/util/kundostack.cpp:48
-#, fuzzy
-#| msgid "Redo"
 msgid "Redo"
 msgstr "Nees zeréck"
 
@@ -9124,8 +9120,6 @@ msgid "Enter a search term or character here"
 msgstr ""
 
 #: kdeui/widgets/kcharselect.cpp:354
-#, fuzzy
-#| msgid "Back"
 msgid "Back"
 msgstr "Zeréck"
 
@@ -9136,8 +9130,6 @@ msgid "Previous Character"
 msgstr "Joër virdrunn"
 
 #: kdeui/widgets/kcharselect.cpp:361
-#, fuzzy
-#| msgid "Forward"
 msgid "Forward"
 msgstr "No Vir"
 
@@ -11060,8 +11052,6 @@ msgid "Nothing to spell check."
 msgstr "Kee Provider gewielt."
 
 #: khtml/testkhtml.cpp:40
-#, fuzzy
-#| msgid "URL to open"
 msgid "URL to open"
 msgstr "URL fir opzemaachen"
 
@@ -13887,8 +13877,6 @@ msgstr ""
 "Späicherplaze sinn durchsicht ginn:\n"
 
 #: kdeui/colors/kcolordialog.cpp:949
-#, fuzzy
-#| msgid "Select Color"
 msgid "Select Color"
 msgstr "Faarf auswielen"
 
@@ -14496,12 +14484,6 @@ msgstr "D'Entrée '%1' ass net am Menü."
 #~ msgctxt "@title:window"
 #~ msgid "New Folder"
 #~ msgstr "Tëlefon (Doheem)"
-
-#, fuzzy
-#~| msgid "Select Color"
-#~ msgctxt "@title:window"
-#~ msgid "Select Folder"
-#~ msgstr "Faarf auswielen"
 
 #, fuzzy
 #~| msgid "Home Phone"
