@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-02-04 12:02+0100\n"
+"POT-Creation-Date: 2009-02-05 11:12+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1932,7 +1932,7 @@ msgid ""
 msgstr ""
 
 #: kjs/object.cpp:618 kdeui/dialogs/kmessagebox.cpp:832
-#: kdeui/dialogs/kmessagebox.cpp:865 khtml/rendering/render_form.cpp:615
+#: kdeui/dialogs/kmessagebox.cpp:865 khtml/rendering/render_form.cpp:668
 msgid "Error"
 msgstr "Feeler"
 
@@ -1974,42 +1974,42 @@ msgid ""
 "Please install the KDEPIM/Kontact package for your system."
 msgstr ""
 
-#: kded/khostname.cpp:73
+#: kded/khostname.cpp:72
 msgid "Error: HOME environment variable not set.\n"
 msgstr "Feeler: D'HOME-Variabel ass net festgeluecht ginn.\n"
 
-#: kded/khostname.cpp:83
+#: kded/khostname.cpp:82
 msgid "Error: DISPLAY environment variable not set.\n"
 msgstr "Feeler: D'DISPLAY-Variabel ass net festgeluecht ginn.\n"
 
-#: kded/khostname.cpp:218
+#: kded/khostname.cpp:217
 msgid "KDontChangeTheHostName"
 msgstr "KDE: Den Numm vum Host net veränneren"
 
-#: kded/khostname.cpp:219
+#: kded/khostname.cpp:218
 msgid "Informs KDE about a change in hostname"
 msgstr "Informéiert de KDE vun enger Verännerung vum Numm vum Host"
 
-#: kded/khostname.cpp:220
+#: kded/khostname.cpp:219
 msgid "(c) 2001 Waldo Bastian"
 msgstr ""
 
-#: kded/khostname.cpp:221 kded/kbuildsycoca.cpp:645 khtml/khtml_global.cpp:212
+#: kded/khostname.cpp:220 kded/kbuildsycoca.cpp:645 khtml/khtml_global.cpp:212
 #: kconf_update/kconf_update.cpp:963
 msgid "Waldo Bastian"
 msgstr ""
 
-#: kded/khostname.cpp:221 kded/kbuildsycoca.cpp:644 kded/kbuildsycoca.cpp:645
+#: kded/khostname.cpp:220 kded/kbuildsycoca.cpp:644 kded/kbuildsycoca.cpp:645
 #: kross/qts/main.cpp:63 kross/test/main.cpp:149 kross/console/main.cpp:102
 #: kde3support/kdeui/k3aboutdialog.cpp:184
 msgid "Author"
 msgstr "Auteur"
 
-#: kded/khostname.cpp:224
+#: kded/khostname.cpp:223
 msgid "Old hostname"
 msgstr "Alen Numm vum Host"
 
-#: kded/khostname.cpp:225
+#: kded/khostname.cpp:224
 msgid "New hostname"
 msgstr "Neien Numm fir den Host"
 
@@ -6890,8 +6890,8 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "Toolbaren zerécksetzen"
 
-#: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2958
-#: khtml/khtmlview.cpp:2991 khtml/html/html_formimpl.cpp:1782
+#: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2947
+#: khtml/khtmlview.cpp:2980 khtml/html/html_formimpl.cpp:1782
 msgid "Reset"
 msgstr "Zerécksetzen"
 
@@ -10861,7 +10861,7 @@ msgstr "Er&opréckelen"
 msgid "Move &Down"
 msgstr "&Erofréckelen"
 
-#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:738
+#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:791
 msgid "Clear &History"
 msgstr "&History läschen"
 
@@ -11809,7 +11809,7 @@ msgstr ""
 "<qt>De Formular gëtt no<BR><B>%1</B><BR>op ärem lokalen Dateiesystem "
 "verschéckt ginn.<BR>Wëllt dir de Formular ofsenden?"
 
-#: khtml/khtml_part.cpp:4632 khtml/khtmlview.cpp:2944 khtml/khtmlview.cpp:2986
+#: khtml/khtml_part.cpp:4632 khtml/khtmlview.cpp:2933 khtml/khtmlview.cpp:2975
 #: khtml/html/html_formimpl.cpp:1581 khtml/html/html_formimpl.cpp:1790
 msgid "Submit"
 msgstr "Verschécken"
@@ -11935,39 +11935,39 @@ msgstr "Op d'Zeil &goen..."
 msgid "Remove from ignores..."
 msgstr ""
 
-#: khtml/khtmlview.cpp:1913
+#: khtml/khtmlview.cpp:1902
 msgid "Find stopped."
 msgstr "Sicht opgehal."
 
-#: khtml/khtmlview.cpp:1924
+#: khtml/khtmlview.cpp:1913
 msgid "Starting -- find links as you type"
 msgstr "Startvirgang -- Linke beim antippen ergänzen"
 
-#: khtml/khtmlview.cpp:1930
+#: khtml/khtmlview.cpp:1919
 msgid "Starting -- find text as you type"
 msgstr "Startvirgang -- Text beim antippen ergänzen"
 
-#: khtml/khtmlview.cpp:1953
+#: khtml/khtmlview.cpp:1942
 #, kde-format
 msgid "Link found: \"%1\"."
 msgstr "Link fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1958
+#: khtml/khtmlview.cpp:1947
 #, kde-format
 msgid "Link not found: \"%1\"."
 msgstr "Link net fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1966
+#: khtml/khtmlview.cpp:1955
 #, kde-format
 msgid "Text found: \"%1\"."
 msgstr "Text fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1971
+#: khtml/khtmlview.cpp:1960
 #, kde-format
 msgid "Text not found: \"%1\"."
 msgstr "Text net fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:2014
+#: khtml/khtmlview.cpp:2003
 msgid "Access Keys activated"
 msgstr "Kuerztasten ugeschalt"
 
@@ -12466,34 +12466,34 @@ msgstr "Abettungsfäheg Komponent fir multipart/mixed"
 msgid "Copyright 2001, David Faure <email>david@mandrakesoft.com</email>"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:594
+#: khtml/rendering/render_form.cpp:647
 #, fuzzy
 #| msgid "Shortcut"
 msgid "New Web Shortcut"
 msgstr "Tastekombinatioun"
 
-#: khtml/rendering/render_form.cpp:615
+#: khtml/rendering/render_form.cpp:668
 #, fuzzy, kde-format
 #| msgctxt "Socket error code AlreadyCreated"
 #| msgid "socket is already created"
 msgid "%1 is already assigned to %2"
 msgstr "De Socket ass schonn erstallt ginn"
 
-#: khtml/rendering/render_form.cpp:660
+#: khtml/rendering/render_form.cpp:713
 msgid "Search &provider name:"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:662
+#: khtml/rendering/render_form.cpp:715
 msgid "New search provider"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:667
+#: khtml/rendering/render_form.cpp:720
 #, fuzzy
 #| msgid "Shortcuts"
 msgid "UR&I shortcuts:"
 msgstr "Kierzelen"
 
-#: khtml/rendering/render_form.cpp:753
+#: khtml/rendering/render_form.cpp:806
 #, fuzzy
 #| msgid "Clear shortcut"
 msgid "Create Web Shortcut"
@@ -12896,11 +12896,11 @@ msgstr "Sicht am Internet"
 msgid "&Search"
 msgstr "&Sichen"
 
-#: kparts/part.cpp:759
+#: kparts/part.cpp:758
 msgid "Untitled"
 msgstr "Onbenannt"
 
-#: kparts/part.cpp:765
+#: kparts/part.cpp:764
 #, kde-format
 msgid ""
 "The document \"%1\" has been modified.\n"
@@ -12909,7 +12909,7 @@ msgstr ""
 "Den Dokument \"%1\" ass verännert ginn.\n"
 "Wëllt dir e späicheren oder sou si loosse, wéi e war?"
 
-#: kparts/part.cpp:767
+#: kparts/part.cpp:766
 msgid "Close Document"
 msgstr "Dokument zoumaachen"
 
@@ -13115,7 +13115,7 @@ msgstr ""
 msgid "Print Preview"
 msgstr "Drocker&virschau..."
 
-#: kutils/kcmoduleproxy.cpp:133
+#: kutils/kcmoduleproxy.cpp:132
 #, fuzzy
 msgid ""
 "<b>Changes in this section require root access.</b><br />On applying your "
@@ -13124,7 +13124,7 @@ msgstr ""
 "<b>Verännerungen an dësem Beräich brauchen d'Rechter vum root.</b><br/"
 ">Klickt op \"Administrator-Modus\" fir Ännerungen z'erlaben."
 
-#: kutils/kcmoduleproxy.cpp:140
+#: kutils/kcmoduleproxy.cpp:139
 #, fuzzy
 msgid ""
 "This section requires special permissions, probably for system-wide changes; "
@@ -13137,7 +13137,7 @@ msgstr ""
 "d'Eegeschafte vum Modul änneren ze kënnen. Wann dir dat Passwuert net agitt, "
 "gëtt de Modul ofgeschalt."
 
-#: kutils/kcmoduleproxy.cpp:161
+#: kutils/kcmoduleproxy.cpp:160
 #, kde-format
 msgctxt "Argument is application name"
 msgid "This configuration section is already opened in %1"
