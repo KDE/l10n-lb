@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-02-04 08:05+0100\n"
+"POT-Creation-Date: 2009-02-08 06:01+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -11991,7 +11991,7 @@ msgstr "fatale Parsing-Feeler: %1, Zeil %2, Kolonn %3"
 msgid "XML parsing error"
 msgstr "XML Parsing-Feeler"
 
-#: khtml/xml/dom_docimpl.cpp:2244
+#: khtml/xml/dom_docimpl.cpp:2256
 msgid "Basic Page Style"
 msgstr "Grondstil"
 
@@ -12179,12 +12179,12 @@ msgstr "Dokument zoumaachen"
 msgid "Ready"
 msgstr "Nach eng Kéier lueden"
 
-#: khtml/ecma/debugger/debugwindow.cpp:615
+#: khtml/ecma/debugger/debugwindow.cpp:621
 #, kde-format
 msgid "Parse error at %1 line %2"
 msgstr "Parsing-Feeler bei %1, Zeil %2"
 
-#: khtml/ecma/debugger/debugwindow.cpp:650
+#: khtml/ecma/debugger/debugwindow.cpp:656
 #, kde-format
 msgid ""
 "An error occurred while attempting to run a script on this page.\n"
@@ -12198,13 +12198,13 @@ msgstr ""
 "%1, Zeil %2:\n"
 "%3"
 
-#: khtml/ecma/debugger/debugwindow.cpp:835
+#: khtml/ecma/debugger/debugwindow.cpp:841
 msgid ""
 "Don't know where to evaluate the expression. Please pause a script or open a "
 "source file."
 msgstr ""
 
-#: khtml/ecma/debugger/debugwindow.cpp:871
+#: khtml/ecma/debugger/debugwindow.cpp:877
 #, kde-format
 msgid "Evaluation threw an exception %1"
 msgstr ""
