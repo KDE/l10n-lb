@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-02-11 11:01+0100\n"
+"POT-Creation-Date: 2009-02-14 11:37+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -6116,24 +6116,24 @@ msgstr "Nees zeréck"
 msgid "Undo"
 msgstr "Réckgängeg"
 
-#: kdeui/util/ksystemtrayicon.cpp:155
+#: kdeui/util/ksystemtrayicon.cpp:156
 msgid "Minimize"
 msgstr "Kleng maachen"
 
-#: kdeui/util/ksystemtrayicon.cpp:214
+#: kdeui/util/ksystemtrayicon.cpp:215
 msgid "&Minimize"
 msgstr "&Grouss maachen"
 
-#: kdeui/util/ksystemtrayicon.cpp:218
+#: kdeui/util/ksystemtrayicon.cpp:219
 msgid "&Restore"
 msgstr "Zeréck&setzen"
 
-#: kdeui/util/ksystemtrayicon.cpp:238
+#: kdeui/util/ksystemtrayicon.cpp:239
 #, kde-format
 msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgstr "<qt>Sidd dir sëcher, dass dir <b>%1</b> zoumaache wëllt ?</qt>"
 
-#: kdeui/util/ksystemtrayicon.cpp:241
+#: kdeui/util/ksystemtrayicon.cpp:242
 msgid "Confirm Quit From System Tray"
 msgstr "Aus dem Systemberäich erausgoen"
 
