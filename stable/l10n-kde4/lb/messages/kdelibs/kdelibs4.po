@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-02-08 06:01+0100\n"
+"POT-Creation-Date: 2009-02-15 05:58+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1931,32 +1931,32 @@ msgid ""
 "indent:0px;\">(do not know yet)</p></body></html>"
 msgstr ""
 
-#: kjs/object.cpp:618 kdeui/dialogs/kmessagebox.cpp:832
+#: kjs/object.cpp:584 kdeui/dialogs/kmessagebox.cpp:832
 #: kdeui/dialogs/kmessagebox.cpp:865 khtml/rendering/render_form.cpp:614
 msgid "Error"
 msgstr "Feeler"
 
-#: kjs/object.cpp:619
+#: kjs/object.cpp:585
 msgid "Evaluation error"
 msgstr "Evaluatiounsfeler"
 
-#: kjs/object.cpp:620
+#: kjs/object.cpp:586
 msgid "Range error"
 msgstr "Beräichsfeler"
 
-#: kjs/object.cpp:621
+#: kjs/object.cpp:587
 msgid "Reference error"
 msgstr "Referenzfeler"
 
-#: kjs/object.cpp:622
+#: kjs/object.cpp:588
 msgid "Syntax error"
 msgstr "Syntaxfeler"
 
-#: kjs/object.cpp:623
+#: kjs/object.cpp:589
 msgid "Type error"
 msgstr "Typfeler"
 
-#: kjs/object.cpp:624
+#: kjs/object.cpp:590
 msgid "URI error"
 msgstr "URI-Feeler"
 
@@ -11991,7 +11991,7 @@ msgstr "fatale Parsing-Feeler: %1, Zeil %2, Kolonn %3"
 msgid "XML parsing error"
 msgstr "XML Parsing-Feeler"
 
-#: khtml/xml/dom_docimpl.cpp:2256
+#: khtml/xml/dom_docimpl.cpp:2259
 msgid "Basic Page Style"
 msgstr "Grondstil"
 
@@ -12013,11 +12013,11 @@ msgstr "JavaScript"
 msgid "&Abort"
 msgstr "&Ofbriechen"
 
-#: khtml/ecma/kjs_window.cpp:1597 khtml/ecma/kjs_html.cpp:2105
+#: khtml/ecma/kjs_window.cpp:1591 khtml/ecma/kjs_html.cpp:2105
 msgid "Confirmation: JavaScript Popup"
 msgstr "Bestätegung: JavaScript-Fënsteren"
 
-#: khtml/ecma/kjs_window.cpp:1600
+#: khtml/ecma/kjs_window.cpp:1594
 msgid ""
 "This site is requesting to open up a new browser window via JavaScript.\n"
 "Do you want to allow this?"
@@ -12025,7 +12025,7 @@ msgstr ""
 "Dëss Säit huet ugefrot, fir eng nei Fënster iwwert JavaScript opzemaachen.\n"
 "Wëllt dir dat zouloossen?"
 
-#: khtml/ecma/kjs_window.cpp:1603
+#: khtml/ecma/kjs_window.cpp:1597
 #, kde-format
 msgid ""
 "<qt>This site is requesting to open<p>%1</p>in a new browser window via "
@@ -12034,30 +12034,30 @@ msgstr ""
 "<qt>Dëss Säit huet ugefrot, fir<p>%1</p>an enger neier Fënster iwwert "
 "JavaScript opzemaachen.<br/>Wëllt dir dat zouloossen?</qt>"
 
-#: khtml/ecma/kjs_window.cpp:1605 khtml/ecma/kjs_html.cpp:2112
+#: khtml/ecma/kjs_window.cpp:1599 khtml/ecma/kjs_html.cpp:2112
 msgid "Allow"
 msgstr "Erlaben"
 
-#: khtml/ecma/kjs_window.cpp:1605 khtml/ecma/kjs_html.cpp:2112
+#: khtml/ecma/kjs_window.cpp:1599 khtml/ecma/kjs_html.cpp:2112
 msgid "Do Not Allow"
 msgstr "Net erlaben"
 
-#: khtml/ecma/kjs_window.cpp:1903
+#: khtml/ecma/kjs_window.cpp:1897
 msgid "Close window?"
 msgstr "Fënster zoumaachen?"
 
-#: khtml/ecma/kjs_window.cpp:1903
+#: khtml/ecma/kjs_window.cpp:1897
 msgid "Confirmation Required"
 msgstr "Bestätegung noutwendeg"
 
-#: khtml/ecma/kjs_window.cpp:2761
+#: khtml/ecma/kjs_window.cpp:2755
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr "Wëllt dir e Lieszeeche fir \"%1\" an är Sammlung dobäimaachen?"
 
-#: khtml/ecma/kjs_window.cpp:2764
+#: khtml/ecma/kjs_window.cpp:2758
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
@@ -12066,15 +12066,15 @@ msgstr ""
 "Wëllt dir e Lieszeeche mam Numm \"%2\" fir \"%1\" an är Sammlung "
 "dobäimaachen?"
 
-#: khtml/ecma/kjs_window.cpp:2772
+#: khtml/ecma/kjs_window.cpp:2766
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr "JavaScript huet probéiert, e Lieszeechen dobäizemaachen"
 
-#: khtml/ecma/kjs_window.cpp:2776
+#: khtml/ecma/kjs_window.cpp:2770
 msgid "Insert"
 msgstr "Asetzen"
 
-#: khtml/ecma/kjs_window.cpp:2776
+#: khtml/ecma/kjs_window.cpp:2770
 msgid "Disallow"
 msgstr "Net zouloossen"
 
@@ -12184,7 +12184,7 @@ msgstr "Nach eng Kéier lueden"
 msgid "Parse error at %1 line %2"
 msgstr "Parsing-Feeler bei %1, Zeil %2"
 
-#: khtml/ecma/debugger/debugwindow.cpp:656
+#: khtml/ecma/debugger/debugwindow.cpp:658
 #, kde-format
 msgid ""
 "An error occurred while attempting to run a script on this page.\n"
@@ -12198,13 +12198,13 @@ msgstr ""
 "%1, Zeil %2:\n"
 "%3"
 
-#: khtml/ecma/debugger/debugwindow.cpp:841
+#: khtml/ecma/debugger/debugwindow.cpp:848
 msgid ""
 "Don't know where to evaluate the expression. Please pause a script or open a "
 "source file."
 msgstr ""
 
-#: khtml/ecma/debugger/debugwindow.cpp:877
+#: khtml/ecma/debugger/debugwindow.cpp:884
 #, kde-format
 msgid "Evaluation threw an exception %1"
 msgstr ""
