@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-02-16 09:03+0100\n"
+"POT-Creation-Date: 2009-02-18 08:58+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -6915,7 +6915,7 @@ msgid "Reset Toolbars"
 msgstr "Toolbaren zerécksetzen"
 
 #: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2947
-#: khtml/khtmlview.cpp:2980 khtml/html/html_formimpl.cpp:1782
+#: khtml/khtmlview.cpp:2980 khtml/html/html_formimpl.cpp:1779
 msgid "Reset"
 msgstr "Zerécksetzen"
 
@@ -11834,7 +11834,7 @@ msgstr ""
 "verschéckt ginn.<BR>Wëllt dir de Formular ofsenden?"
 
 #: khtml/khtml_part.cpp:4632 khtml/khtmlview.cpp:2933 khtml/khtmlview.cpp:2975
-#: khtml/html/html_formimpl.cpp:1581 khtml/html/html_formimpl.cpp:1790
+#: khtml/html/html_formimpl.cpp:1578 khtml/html/html_formimpl.cpp:1787
 msgid "Submit"
 msgstr "Verschécken"
 
@@ -12343,30 +12343,35 @@ msgid "Do Not Store"
 msgstr "Net späicheren"
 
 #: khtml/html/html_formimpl.cpp:640
+#, fuzzy
+#| msgid "Do you really want to execute '%1'? "
+msgid "Do you want to store this password?"
+msgstr "Wëllt dir '%1' wiirklech lafe loossen? "
+
+#: khtml/html/html_formimpl.cpp:641
+#, fuzzy, kde-format
+#| msgid "Do you want to restart search from the end?"
+msgid "Do you want to store this password for %1?"
+msgstr "Wëllt dir vun hanne weidersichen?"
+
+#: khtml/html/html_formimpl.cpp:644
+#, fuzzy
+#| msgid ""
+#| "Konqueror has the ability to store the password in an encrypted wallet. "
+#| "When the wallet is unlocked, it can then automatically restore the login "
+#| "information next time you submit this form. Do you want to store the "
+#| "information now?"
 msgid ""
 "Konqueror has the ability to store the password in an encrypted wallet. When "
 "the wallet is unlocked, it can then automatically restore the login "
-"information next time you submit this form. Do you want to store the "
-"information now?"
+"information next time you submit this form."
 msgstr ""
 "De Konqueror kann ärt Passwuert an engem verschlësselte Portemonnaie "
 "späicheren. Wann de Portemonnaie opgespaart gëtt, kann ën automatësch "
 "d'Umeldungsinformatioun fir dëss Säit opruffen, wann dir se fir d'nächst "
 "Kéier besicht. Wëllt dir d'Informatioun elo späicheren?"
 
-#: khtml/html/html_formimpl.cpp:645
-#, kde-format
-msgid ""
-"Konqueror has the ability to store the password in an encrypted wallet. When "
-"the wallet is unlocked, it can then automatically restore the login "
-"information next time you visit %1. Do you want to store the information now?"
-msgstr ""
-"De Konqueror kann ärt Passwuert an engem verschlësselte Portemonnaie "
-"späicheren. Wann de Portemonnaie opgespaart gëtt, kann ën automatësch "
-"d'Umeldungsinformatioun opruffen, wann dir fir d'nächst Kéier d'Säit %"
-"1besicht. Wëllt dir d'Informatioun elo späicheren?"
-
-#: khtml/html/html_formimpl.cpp:2582
+#: khtml/html/html_formimpl.cpp:2579
 #, fuzzy
 #| msgid "General"
 msgid "Key Generator"
@@ -14184,6 +14189,17 @@ msgstr "&Rotschlag vum Dag"
 msgid "No such function \"%1\""
 msgstr "D'Entrée '%1' ass net am Menü."
 
+#~ msgid ""
+#~ "Konqueror has the ability to store the password in an encrypted wallet. "
+#~ "When the wallet is unlocked, it can then automatically restore the login "
+#~ "information next time you visit %1. Do you want to store the information "
+#~ "now?"
+#~ msgstr ""
+#~ "De Konqueror kann ärt Passwuert an engem verschlësselte Portemonnaie "
+#~ "späicheren. Wann de Portemonnaie opgespaart gëtt, kann ën automatësch "
+#~ "d'Umeldungsinformatioun opruffen, wann dir fir d'nächst Kéier d'Säit %"
+#~ "1besicht. Wëllt dir d'Informatioun elo späicheren?"
+
 #, fuzzy
 #~| msgid "Comment"
 #~ msgid "Add Elements"
@@ -14582,13 +14598,6 @@ msgstr "D'Entrée '%1' ass net am Menü."
 #~| msgid "Delete All"
 #~ msgid "Delete File"
 #~ msgstr "Alles Läschen"
-
-#, fuzzy
-#~| msgid "Do you really want to execute '%1'? "
-#~ msgid "Do you really want to delete this item?"
-#~ msgid_plural "Do you really want to delete these %1 items?"
-#~ msgstr[0] "Wëllt dir '%1' wiirklech lafe loossen? "
-#~ msgstr[1] "Wëllt dir '%1' wiirklech lafe loossen? "
 
 #, fuzzy
 #~| msgid "Delete item(s)"
