@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-02-22 05:36+0100\n"
+"POT-Creation-Date: 2009-02-25 07:07+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -12732,25 +12732,25 @@ msgstr "Ofbriechen"
 msgid "Configure Notifications"
 msgstr "&Norichte configuréieren..."
 
-#: knotify/config/knotifyeventlist.cpp:88
-#, fuzzy
-msgctxt "Title of the notified event"
-msgid "Title"
-msgstr "Tamil"
-
-#: knotify/config/knotifyeventlist.cpp:88
-#, fuzzy
-#| msgid "Description:"
-msgctxt "Description of the notified event"
-msgid "Description"
-msgstr "Beschreiwung:"
-
-#: knotify/config/knotifyeventlist.cpp:88
+#: knotify/config/knotifyeventlist.cpp:92
 #, fuzzy
 #| msgid "State"
 msgctxt "State of the notified event"
 msgid "State"
 msgstr "Status"
+
+#: knotify/config/knotifyeventlist.cpp:92
+#, fuzzy
+msgctxt "Title of the notified event"
+msgid "Title"
+msgstr "Tamil"
+
+#: knotify/config/knotifyeventlist.cpp:92
+#, fuzzy
+#| msgid "Description:"
+msgctxt "Description of the notified event"
+msgid "Description"
+msgstr "Beschreiwung:"
 
 #: kconf_update/kconf_update.cpp:138
 msgid "Only local files are supported."
