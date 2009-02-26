@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-02-25 11:39+0100\n"
+"POT-Creation-Date: 2009-02-26 10:39+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -872,7 +872,7 @@ msgstr "Haapt-Toolbar"
 
 #. i18n: file: kdeui/widgets/kshortcutwidget.ui:22
 #. i18n: ectx: property (text), widget (QLabel, priLabel)
-#: rc.cpp:336 kdeui/dialogs/kshortcutseditor.cpp:571
+#: rc.cpp:336 kdeui/dialogs/kshortcutseditor.cpp:591
 #, fuzzy
 #| msgid "Chain:"
 msgid "Main:"
@@ -880,7 +880,7 @@ msgstr "Ketten:"
 
 #. i18n: file: kdeui/widgets/kshortcutwidget.ui:52
 #. i18n: ectx: property (text), widget (QLabel, altLabel)
-#: rc.cpp:339 kdeui/dialogs/kshortcutseditor.cpp:572
+#: rc.cpp:339 kdeui/dialogs/kshortcutseditor.cpp:592
 #, fuzzy
 #| msgid "Alternate"
 msgid "Alternate:"
@@ -1932,7 +1932,7 @@ msgid ""
 msgstr ""
 
 #: kjs/object.cpp:584 kdeui/dialogs/kmessagebox.cpp:832
-#: kdeui/dialogs/kmessagebox.cpp:865 khtml/rendering/render_form.cpp:686
+#: kdeui/dialogs/kmessagebox.cpp:865 khtml/rendering/render_form.cpp:688
 msgid "Error"
 msgstr "Feeler"
 
@@ -3876,19 +3876,19 @@ msgstr "Ophalen"
 msgid "KDE"
 msgstr "KDE"
 
-#: kdecore/kernel/kcmdlineargs.cpp:803 kdecore/kernel/kcmdlineargs.cpp:823
+#: kdecore/kernel/kcmdlineargs.cpp:797 kdecore/kernel/kcmdlineargs.cpp:817
 #, kde-format
 msgid "Unknown option '%1'."
 msgstr "Onbekannt Optioun '%1'."
 
-#: kdecore/kernel/kcmdlineargs.cpp:831
+#: kdecore/kernel/kcmdlineargs.cpp:825
 #, fuzzy, kde-format
 #| msgid "'%1' missing."
 msgctxt "@info:shell %1 is cmdoption name"
 msgid "'%1' missing."
 msgstr "'%1' feelt."
 
-#: kdecore/kernel/kcmdlineargs.cpp:916
+#: kdecore/kernel/kcmdlineargs.cpp:904
 #, kde-format
 msgctxt "the 2nd argument is a list of name+address, one on each line"
 msgid ""
@@ -3898,86 +3898,86 @@ msgstr ""
 "%1 ass vum\n"
 "%2 geschriwwe ginn"
 
-#: kdecore/kernel/kcmdlineargs.cpp:919
+#: kdecore/kernel/kcmdlineargs.cpp:907
 msgid "This application was written by somebody who wants to remain anonymous."
 msgstr "Den Auteur vun dësem Programm wëllt anonym bleiwen."
 
-#: kdecore/kernel/kcmdlineargs.cpp:926
+#: kdecore/kernel/kcmdlineargs.cpp:914
 msgid "Please use http://bugs.kde.org to report bugs.\n"
 msgstr "Mellt eventuell Käfere w.e.g. ënnert http://bugs.kde.org.\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:928
+#: kdecore/kernel/kcmdlineargs.cpp:916
 #, kde-format
 msgid "Please report bugs to %1.\n"
 msgstr "Mellt eventuell Käfere w.e.g. bei %1.\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:954
+#: kdecore/kernel/kcmdlineargs.cpp:941
 #, kde-format
 msgid "Unexpected argument '%1'."
 msgstr "Den Argument '%1' ass onerwaart."
 
-#: kdecore/kernel/kcmdlineargs.cpp:1070
+#: kdecore/kernel/kcmdlineargs.cpp:1058
 msgid "Use --help to get a list of available command line options."
 msgstr "Gitt --help an, fir eng Lëscht vu verfügbaren Optiounen ze kréien."
 
-#: kdecore/kernel/kcmdlineargs.cpp:1093
+#: kdecore/kernel/kcmdlineargs.cpp:1081
 msgid "[options] "
 msgstr "[Optiounen]"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1100
+#: kdecore/kernel/kcmdlineargs.cpp:1088
 #, kde-format
 msgid "[%1-options]"
 msgstr "[%1-Optiounen]"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1121
+#: kdecore/kernel/kcmdlineargs.cpp:1109
 #, kde-format
 msgid "Usage: %1 %2\n"
 msgstr "Verwendung: %1 %2\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1124
+#: kdecore/kernel/kcmdlineargs.cpp:1112
 #, fuzzy
 msgid ""
 "\n"
 "Generic options:\n"
 msgstr "Einfach Optiounen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1125
+#: kdecore/kernel/kcmdlineargs.cpp:1113
 msgid "Show help about options"
 msgstr "D'Hëllefsoptiounen uweisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1133
+#: kdecore/kernel/kcmdlineargs.cpp:1121
 #, kde-format
 msgid "Show %1 specific options"
 msgstr "Speziell Optioune fir %1 uweisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1140
+#: kdecore/kernel/kcmdlineargs.cpp:1128
 msgid "Show all options"
 msgstr "All Optioune weisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1141
+#: kdecore/kernel/kcmdlineargs.cpp:1129
 msgid "Show author information"
 msgstr "Informatiounen iwwert den Auteur uweisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1142
+#: kdecore/kernel/kcmdlineargs.cpp:1130
 msgid "Show version information"
 msgstr "Informatiounen iwwert d'Versioun uweisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1143
+#: kdecore/kernel/kcmdlineargs.cpp:1131
 msgid "Show license information"
 msgstr "Lizenzinformatiounen uweisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1144
+#: kdecore/kernel/kcmdlineargs.cpp:1132
 msgid "End of options"
 msgstr "Enn vun den Optiounen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1165
+#: kdecore/kernel/kcmdlineargs.cpp:1153
 #, fuzzy, kde-format
 msgid ""
 "\n"
 "%1 options:\n"
 msgstr "%1 Optiounen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1167
+#: kdecore/kernel/kcmdlineargs.cpp:1155
 msgid ""
 "\n"
 "Options:\n"
@@ -3985,7 +3985,7 @@ msgstr ""
 "\n"
 "Optiounen:\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1225
+#: kdecore/kernel/kcmdlineargs.cpp:1213
 msgid ""
 "\n"
 "Arguments:\n"
@@ -3993,13 +3993,13 @@ msgstr ""
 "\n"
 "Argumenter:\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1590
+#: kdecore/kernel/kcmdlineargs.cpp:1569
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr ""
 "D'Dateien/URLen, déi vum Programm opgemaach gi sinn, ginn häerno nees "
 "geläscht"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1591
+#: kdecore/kernel/kcmdlineargs.cpp:1570
 msgid "KDE-tempfile"
 msgstr ""
 
@@ -5479,7 +5479,7 @@ msgid "Name"
 msgstr "Numm"
 
 #: knewstuff/knewstuff2/ui/kdxstranslation.cpp:47
-#: kdeui/dialogs/kshortcutseditor.cpp:596
+#: kdeui/dialogs/kshortcutseditor.cpp:616
 #, fuzzy
 #| msgid "Description:"
 msgid "Description"
@@ -6922,8 +6922,8 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "Toolbaren zerécksetzen"
 
-#: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2947
-#: khtml/khtmlview.cpp:2980 khtml/html/html_formimpl.cpp:1798
+#: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2949
+#: khtml/khtmlview.cpp:2982 khtml/html/html_formimpl.cpp:1798
 msgid "Reset"
 msgstr "Zerécksetzen"
 
@@ -6993,12 +6993,12 @@ msgstr "%1%"
 msgid "Change Icon"
 msgstr "&Symbol änneren..."
 
-#: kdeui/dialogs/kshortcutseditor.cpp:495
-#: kdeui/dialogs/kshortcutseditor.cpp:511
+#: kdeui/dialogs/kshortcutseditor.cpp:515
+#: kdeui/dialogs/kshortcutseditor.cpp:531
 msgid "Key Conflict"
 msgstr "Tastekonflikt"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:496
+#: kdeui/dialogs/kshortcutseditor.cpp:516
 #, fuzzy, kde-format
 msgid ""
 "The '%1' shape gesture has already been allocated to the \"%2\" action.\n"
@@ -7007,8 +7007,8 @@ msgstr ""
 "D'Tastekombinatioun \"%1\" ass scho mat der Aktioun \"%2\" verbonn.\n"
 "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:500
-#: kdeui/dialogs/kshortcutseditor.cpp:516 kdeui/shortcuts/kglobalaccel.cpp:493
+#: kdeui/dialogs/kshortcutseditor.cpp:520
+#: kdeui/dialogs/kshortcutseditor.cpp:536 kdeui/shortcuts/kglobalaccel.cpp:493
 #: kdeui/shortcuts/kglobalaccel.cpp:532
 #: kdeui/widgets/kkeysequencewidget.cpp:179
 #: kdeui/widgets/kkeysequencewidget.cpp:261
@@ -7016,7 +7016,7 @@ msgstr ""
 msgid "Reassign"
 msgstr "Nei zouuerdnen"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:512
+#: kdeui/dialogs/kshortcutseditor.cpp:532
 #, fuzzy, kde-format
 msgid ""
 "The '%1' rocker gesture has already been allocated to the \"%2\" action.\n"
@@ -7025,24 +7025,24 @@ msgstr ""
 "D'Tastekombinatioun \"%1\" ass scho mat der Aktioun \"%2\" verbonn.\n"
 "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:553
+#: kdeui/dialogs/kshortcutseditor.cpp:573
 #, fuzzy, kde-format
 #| msgid "Shortcuts"
 msgctxt "header for an applications shortcut list"
 msgid "Shortcuts for %1"
 msgstr "Kierzelen"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:573
+#: kdeui/dialogs/kshortcutseditor.cpp:593
 msgid "Global:"
 msgstr ""
 
-#: kdeui/dialogs/kshortcutseditor.cpp:588
+#: kdeui/dialogs/kshortcutseditor.cpp:608
 #, fuzzy
 #| msgid "Additional Names"
 msgid "Action Name"
 msgstr "Zousätzlech Nimm"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:592
+#: kdeui/dialogs/kshortcutseditor.cpp:612
 msgid "Shortcuts"
 msgstr "Kierzelen"
 
@@ -10893,7 +10893,7 @@ msgstr "Er&opréckelen"
 msgid "Move &Down"
 msgstr "&Erofréckelen"
 
-#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:809
+#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:811
 msgid "Clear &History"
 msgstr "&History läschen"
 
@@ -11841,7 +11841,7 @@ msgstr ""
 "<qt>De Formular gëtt no<BR><B>%1</B><BR>op ärem lokalen Dateiesystem "
 "verschéckt ginn.<BR>Wëllt dir de Formular ofsenden?"
 
-#: khtml/khtml_part.cpp:4633 khtml/khtmlview.cpp:2933 khtml/khtmlview.cpp:2975
+#: khtml/khtml_part.cpp:4633 khtml/khtmlview.cpp:2935 khtml/khtmlview.cpp:2977
 #: khtml/html/html_formimpl.cpp:1601 khtml/html/html_formimpl.cpp:1806
 msgid "Submit"
 msgstr "Verschécken"
@@ -11967,39 +11967,39 @@ msgstr "Op d'Zeil &goen..."
 msgid "Remove from ignores..."
 msgstr ""
 
-#: khtml/khtmlview.cpp:1902
+#: khtml/khtmlview.cpp:1904
 msgid "Find stopped."
 msgstr "Sicht opgehal."
 
-#: khtml/khtmlview.cpp:1913
+#: khtml/khtmlview.cpp:1915
 msgid "Starting -- find links as you type"
 msgstr "Startvirgang -- Linke beim antippen ergänzen"
 
-#: khtml/khtmlview.cpp:1919
+#: khtml/khtmlview.cpp:1921
 msgid "Starting -- find text as you type"
 msgstr "Startvirgang -- Text beim antippen ergänzen"
 
-#: khtml/khtmlview.cpp:1942
+#: khtml/khtmlview.cpp:1944
 #, kde-format
 msgid "Link found: \"%1\"."
 msgstr "Link fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1947
+#: khtml/khtmlview.cpp:1949
 #, kde-format
 msgid "Link not found: \"%1\"."
 msgstr "Link net fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1955
+#: khtml/khtmlview.cpp:1957
 #, kde-format
 msgid "Text found: \"%1\"."
 msgstr "Text fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:1960
+#: khtml/khtmlview.cpp:1962
 #, kde-format
 msgid "Text not found: \"%1\"."
 msgstr "Text net fonnt: \"%1\"."
 
-#: khtml/khtmlview.cpp:2003
+#: khtml/khtmlview.cpp:2005
 msgid "Access Keys activated"
 msgstr "Kuerztasten ugeschalt"
 
@@ -12503,34 +12503,34 @@ msgstr "Abettungsfäheg Komponent fir multipart/mixed"
 msgid "Copyright 2001, David Faure <email>david@mandrakesoft.com</email>"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:665
+#: khtml/rendering/render_form.cpp:667
 #, fuzzy
 #| msgid "Shortcut"
 msgid "New Web Shortcut"
 msgstr "Tastekombinatioun"
 
-#: khtml/rendering/render_form.cpp:686
+#: khtml/rendering/render_form.cpp:688
 #, fuzzy, kde-format
 #| msgctxt "Socket error code AlreadyCreated"
 #| msgid "socket is already created"
 msgid "%1 is already assigned to %2"
 msgstr "De Socket ass schonn erstallt ginn"
 
-#: khtml/rendering/render_form.cpp:731
+#: khtml/rendering/render_form.cpp:733
 msgid "Search &provider name:"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:733
+#: khtml/rendering/render_form.cpp:735
 msgid "New search provider"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:738
+#: khtml/rendering/render_form.cpp:740
 #, fuzzy
 #| msgid "Shortcuts"
 msgid "UR&I shortcuts:"
 msgstr "Kierzelen"
 
-#: khtml/rendering/render_form.cpp:824
+#: khtml/rendering/render_form.cpp:826
 #, fuzzy
 #| msgid "Clear shortcut"
 msgid "Create Web Shortcut"
