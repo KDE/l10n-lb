@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-03-05 10:33+0100\n"
+"POT-Creation-Date: 2009-03-10 10:17+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1793,7 +1793,7 @@ msgstr ""
 #. i18n: file: threadweaver/Examples/Jobs/JobsBase.ui:90
 #. i18n: ectx: property (text), widget (QPushButton, pbStop)
 #: rc.cpp:794 rc.cpp:942 kdeui/jobs/kstatusbarjobtracker.cpp:156
-#: kdeui/util/kstandardguiitem.cpp:281 kdeui/util/kkeyserver_x11.cpp:109
+#: kdeui/util/kstandardguiitem.cpp:281 kdeui/util/kkeyserver_x11.cpp:100
 #: kross/ui/view.cpp:309
 msgid "Stop"
 msgstr "Stop"
@@ -4378,7 +4378,7 @@ msgstr ""
 "Konnt d'Datei net späicheren\n"
 "\""
 
-#: kdecore/services/kmimetype.cpp:55
+#: kdecore/services/kmimetype.cpp:56
 #, fuzzy, kde-format
 msgid "Could not find mime type <resource>%2</resource>"
 msgid_plural ""
@@ -4387,7 +4387,7 @@ msgid_plural ""
 msgstr[0] "Konnt de Service '%1' net fannen."
 msgstr[1] "Konnt de Service '%1' net fannen."
 
-#: kdecore/services/kmimetype.cpp:126
+#: kdecore/services/kmimetype.cpp:127
 msgid ""
 "No mime types installed. Check that shared-mime-info is installed, and that "
 "XDG_DATA_DIRS is not set, or includes /usr/share."
@@ -6120,7 +6120,7 @@ msgstr[1] "Nei Datei."
 msgid "Redo"
 msgstr "Nees zeréck"
 
-#: kdeui/util/kundostack.cpp:67 kdeui/util/kkeyserver_x11.cpp:112
+#: kdeui/util/kundostack.cpp:67 kdeui/util/kkeyserver_x11.cpp:103
 msgid "Undo"
 msgstr "Réckgängeg"
 
@@ -6413,67 +6413,67 @@ msgstr ""
 "dir eis hëllefe wëllt an dat Element beschreiwe wëllt, kënnt dir eis <a href="
 "\"submit-whatsthis\">är eegen \"Wat ass dat ?\"-Hëllef</a> schécken."
 
-#: kdeui/util/kkeyserver_x11.cpp:101
+#: kdeui/util/kkeyserver_x11.cpp:92
 msgid "Backspace"
 msgstr "Zeréck-Tast"
 
-#: kdeui/util/kkeyserver_x11.cpp:102
+#: kdeui/util/kkeyserver_x11.cpp:93
 msgid "SysReq"
 msgstr "System offänken"
 
-#: kdeui/util/kkeyserver_x11.cpp:103
+#: kdeui/util/kkeyserver_x11.cpp:94
 msgid "CapsLock"
 msgstr "Caps Lock"
 
-#: kdeui/util/kkeyserver_x11.cpp:104
+#: kdeui/util/kkeyserver_x11.cpp:95
 msgid "NumLock"
 msgstr "Num Lock"
 
-#: kdeui/util/kkeyserver_x11.cpp:105
+#: kdeui/util/kkeyserver_x11.cpp:96
 msgid "ScrollLock"
 msgstr "Scroll Lock"
 
-#: kdeui/util/kkeyserver_x11.cpp:106
+#: kdeui/util/kkeyserver_x11.cpp:97
 msgid "PageUp"
 msgstr "Page Up"
 
-#: kdeui/util/kkeyserver_x11.cpp:107
+#: kdeui/util/kkeyserver_x11.cpp:98
 msgid "PageDown"
 msgstr "Page Down"
 
-#: kdeui/util/kkeyserver_x11.cpp:110
+#: kdeui/util/kkeyserver_x11.cpp:101
 msgid "Again"
 msgstr "Nach eng Kéier"
 
-#: kdeui/util/kkeyserver_x11.cpp:111
+#: kdeui/util/kkeyserver_x11.cpp:102
 msgid "Props"
 msgstr "Eegeschaften"
 
-#: kdeui/util/kkeyserver_x11.cpp:113
+#: kdeui/util/kkeyserver_x11.cpp:104
 msgid "Front"
 msgstr "Vir"
 
-#: kdeui/util/kkeyserver_x11.cpp:114
+#: kdeui/util/kkeyserver_x11.cpp:105
 msgid "Copy"
 msgstr "Kopéieren"
 
-#: kdeui/util/kkeyserver_x11.cpp:115
+#: kdeui/util/kkeyserver_x11.cpp:106
 msgid "Open"
 msgstr "Opmaachen"
 
-#: kdeui/util/kkeyserver_x11.cpp:116
+#: kdeui/util/kkeyserver_x11.cpp:107
 msgid "Paste"
 msgstr "Peschen"
 
-#: kdeui/util/kkeyserver_x11.cpp:117
+#: kdeui/util/kkeyserver_x11.cpp:108
 msgid "Find"
 msgstr "Sichen"
 
-#: kdeui/util/kkeyserver_x11.cpp:118
+#: kdeui/util/kkeyserver_x11.cpp:109
 msgid "Cut"
 msgstr "Ausschneiden"
 
-#: kdeui/util/kkeyserver_x11.cpp:119 kdeui/dialogs/kshortcutsdialog.cpp:108
+#: kdeui/util/kkeyserver_x11.cpp:110 kdeui/dialogs/kshortcutsdialog.cpp:108
 msgid "Print"
 msgstr "Drécken"
 
@@ -6922,8 +6922,8 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "Toolbaren zerécksetzen"
 
-#: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2949
-#: khtml/khtmlview.cpp:2982 khtml/html/html_formimpl.cpp:1807
+#: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2955
+#: khtml/khtmlview.cpp:2988 khtml/html/html_formimpl.cpp:1807
 msgid "Reset"
 msgstr "Zerécksetzen"
 
@@ -11838,7 +11838,7 @@ msgstr ""
 "<qt>De Formular gëtt no<BR><B>%1</B><BR>op ärem lokalen Dateiesystem "
 "verschéckt ginn.<BR>Wëllt dir de Formular ofsenden?"
 
-#: khtml/khtml_part.cpp:4639 khtml/khtmlview.cpp:2935 khtml/khtmlview.cpp:2977
+#: khtml/khtml_part.cpp:4639 khtml/khtmlview.cpp:2941 khtml/khtmlview.cpp:2983
 #: khtml/html/html_formimpl.cpp:1603 khtml/html/html_formimpl.cpp:1815
 msgid "Submit"
 msgstr "Verschécken"
@@ -12771,6 +12771,22 @@ msgstr ""
 #| msgid "Abort"
 msgid "Abort?"
 msgstr "Ofbriechen"
+
+#: solid/examples/minibrowser/main.cpp:159
+msgid "Solid Browser"
+msgstr ""
+
+#: solid/examples/minibrowser/main.cpp:161
+msgid "Displays a Solid Device Tree"
+msgstr ""
+
+#: solid/examples/minibrowser/main.cpp:163
+msgid "(c) 2009 Harald Fernengel"
+msgstr ""
+
+#: solid/examples/minibrowser/main.cpp:164
+msgid "Simple and quick hack for showing a solid device tree"
+msgstr ""
 
 #: knotify/config/knotifyconfigwidget.cpp:107
 #, fuzzy
