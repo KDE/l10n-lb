@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-03-10 10:17+0100\n"
+"POT-Creation-Date: 2009-03-11 11:14+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -11070,23 +11070,23 @@ msgstr "Automatësch Kontroll"
 msgid "Allow Tabulations"
 msgstr "Tabellarësch Unuerdnung zouloossen"
 
-#: kdeui/widgets/ktextedit.cpp:540
+#: kdeui/widgets/ktextedit.cpp:542
 #, fuzzy, kde-format
 #| msgid "Suggestion List"
 msgid "Suggestions for %1"
 msgstr "Lëscht mat Beispiller"
 
-#: kdeui/widgets/ktextedit.cpp:542
+#: kdeui/widgets/ktextedit.cpp:544
 msgid "Ignore"
 msgstr "Ignoréieren"
 
-#: kdeui/widgets/ktextedit.cpp:543
+#: kdeui/widgets/ktextedit.cpp:545
 #, fuzzy
 #| msgid "<< Add to Dictionary"
 msgid "Add to Dictionary"
 msgstr "<< An d'Wierderbuch Dobäischreiwen"
 
-#: kdeui/widgets/ktextedit.cpp:689
+#: kdeui/widgets/ktextedit.cpp:691
 #, fuzzy
 msgid "Nothing to spell check."
 msgstr "Kee Provider gewielt."
@@ -12553,12 +12553,12 @@ msgstr ""
 "Déi maximal Unzuel vu Prozesser kéint erreecht sinn oder déi vun iech "
 "agestallte maximal Unzuel vu Prozesser kéint erreecht sinn."
 
-#: kinit/kinit.cpp:604
+#: kinit/kinit.cpp:607
 #, kde-format
 msgid "Could not find '%1' executable."
 msgstr "Konnt de Programm '%1' net fannen."
 
-#: kinit/kinit.cpp:622
+#: kinit/kinit.cpp:625
 #, kde-format
 msgid ""
 "Could not open library '%1'.\n"
@@ -12567,7 +12567,7 @@ msgstr ""
 "Konnt d'Bibliothéik '%1' net opmaachen.\n"
 "%2"
 
-#: kinit/kinit.cpp:668
+#: kinit/kinit.cpp:671
 #, kde-format
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
