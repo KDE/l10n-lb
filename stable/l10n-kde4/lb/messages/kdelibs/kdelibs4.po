@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-03-19 06:09+0100\n"
+"POT-Creation-Date: 2009-03-22 06:07+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -6891,7 +6891,7 @@ msgid "Reset Toolbars"
 msgstr "Toolbaren zerécksetzen"
 
 #: kdeui/dialogs/kedittoolbar.cpp:527 khtml/khtmlview.cpp:2972
-#: khtml/khtmlview.cpp:3005 khtml/html/html_formimpl.cpp:1801
+#: khtml/khtmlview.cpp:3005 khtml/html/html_formimpl.cpp:1810
 msgid "Reset"
 msgstr "Zerécksetzen"
 
@@ -8055,72 +8055,72 @@ msgstr "Hannerzeg sichen."
 msgid "Ask before replacing each match found."
 msgstr "Froen, éier en Treffer ersat gëtt."
 
-#: kdeui/findreplace/kfinddialog.cpp:431
+#: kdeui/findreplace/kfinddialog.cpp:432
 msgid "Any Character"
 msgstr "Iergendeen Zeechen"
 
-#: kdeui/findreplace/kfinddialog.cpp:432
+#: kdeui/findreplace/kfinddialog.cpp:433
 msgid "Start of Line"
 msgstr "Ufank vun der Zeil"
 
-#: kdeui/findreplace/kfinddialog.cpp:433
+#: kdeui/findreplace/kfinddialog.cpp:434
 msgid "End of Line"
 msgstr "Enn vun der Linn"
 
-#: kdeui/findreplace/kfinddialog.cpp:434
+#: kdeui/findreplace/kfinddialog.cpp:435
 msgid "Set of Characters"
 msgstr "Zeechesaatz"
 
-#: kdeui/findreplace/kfinddialog.cpp:435
+#: kdeui/findreplace/kfinddialog.cpp:436
 msgid "Repeats, Zero or More Times"
 msgstr "Widerhuelung (guer net oder e puer Kéieren)"
 
-#: kdeui/findreplace/kfinddialog.cpp:436
+#: kdeui/findreplace/kfinddialog.cpp:437
 msgid "Repeats, One or More Times"
 msgstr "Widerhuelung (eng Kéier oder e puer Kéieren)"
 
-#: kdeui/findreplace/kfinddialog.cpp:437
+#: kdeui/findreplace/kfinddialog.cpp:438
 msgid "Optional"
 msgstr "Optional"
 
-#: kdeui/findreplace/kfinddialog.cpp:438
+#: kdeui/findreplace/kfinddialog.cpp:439
 msgid "Escape"
 msgstr "Esc"
 
-#: kdeui/findreplace/kfinddialog.cpp:439
+#: kdeui/findreplace/kfinddialog.cpp:440
 msgid "TAB"
 msgstr "Tab"
 
-#: kdeui/findreplace/kfinddialog.cpp:440
+#: kdeui/findreplace/kfinddialog.cpp:441
 msgid "Newline"
 msgstr "Nei Zeil"
 
-#: kdeui/findreplace/kfinddialog.cpp:441
+#: kdeui/findreplace/kfinddialog.cpp:442
 msgid "Carriage Return"
 msgstr "Récklaf vum Won"
 
-#: kdeui/findreplace/kfinddialog.cpp:442
+#: kdeui/findreplace/kfinddialog.cpp:443
 msgid "White Space"
 msgstr "Eidel Plaz"
 
-#: kdeui/findreplace/kfinddialog.cpp:443
+#: kdeui/findreplace/kfinddialog.cpp:444
 msgid "Digit"
 msgstr "Zuel"
 
-#: kdeui/findreplace/kfinddialog.cpp:536
+#: kdeui/findreplace/kfinddialog.cpp:537
 msgid "Complete Match"
 msgstr "Vollstänneg Iwwereneestëmmung"
 
-#: kdeui/findreplace/kfinddialog.cpp:541
+#: kdeui/findreplace/kfinddialog.cpp:542
 #, kde-format
 msgid "Captured Text (%1)"
 msgstr "Text fonnt (%1)"
 
-#: kdeui/findreplace/kfinddialog.cpp:549
+#: kdeui/findreplace/kfinddialog.cpp:550
 msgid "You must enter some text to search for."
 msgstr "Dir musst ën Text agin, no deem der siche wëllt."
 
-#: kdeui/findreplace/kfinddialog.cpp:560
+#: kdeui/findreplace/kfinddialog.cpp:561
 msgid "Invalid regular expression."
 msgstr "Ongültege regulären Ausdrock."
 
@@ -11809,7 +11809,7 @@ msgstr ""
 "verschéckt ginn.<BR>Wëllt dir de Formular ofsenden?"
 
 #: khtml/khtml_part.cpp:4638 khtml/khtmlview.cpp:2958 khtml/khtmlview.cpp:3000
-#: khtml/html/html_formimpl.cpp:1604 khtml/html/html_formimpl.cpp:1809
+#: khtml/html/html_formimpl.cpp:1606 khtml/html/html_formimpl.cpp:1818
 msgid "Submit"
 msgstr "Verschécken"
 
@@ -12013,11 +12013,11 @@ msgstr "JavaScript"
 msgid "&Abort"
 msgstr "&Ofbriechen"
 
-#: khtml/ecma/kjs_window.cpp:1607 khtml/ecma/kjs_html.cpp:2105
+#: khtml/ecma/kjs_window.cpp:1609 khtml/ecma/kjs_html.cpp:2105
 msgid "Confirmation: JavaScript Popup"
 msgstr "Bestätegung: JavaScript-Fënsteren"
 
-#: khtml/ecma/kjs_window.cpp:1610
+#: khtml/ecma/kjs_window.cpp:1612
 msgid ""
 "This site is requesting to open up a new browser window via JavaScript.\n"
 "Do you want to allow this?"
@@ -12025,7 +12025,7 @@ msgstr ""
 "Dëss Säit huet ugefrot, fir eng nei Fënster iwwert JavaScript opzemaachen.\n"
 "Wëllt dir dat zouloossen?"
 
-#: khtml/ecma/kjs_window.cpp:1613
+#: khtml/ecma/kjs_window.cpp:1615
 #, kde-format
 msgid ""
 "<qt>This site is requesting to open<p>%1</p>in a new browser window via "
@@ -12034,30 +12034,30 @@ msgstr ""
 "<qt>Dëss Säit huet ugefrot, fir<p>%1</p>an enger neier Fënster iwwert "
 "JavaScript opzemaachen.<br/>Wëllt dir dat zouloossen?</qt>"
 
-#: khtml/ecma/kjs_window.cpp:1615 khtml/ecma/kjs_html.cpp:2112
+#: khtml/ecma/kjs_window.cpp:1617 khtml/ecma/kjs_html.cpp:2112
 msgid "Allow"
 msgstr "Erlaben"
 
-#: khtml/ecma/kjs_window.cpp:1615 khtml/ecma/kjs_html.cpp:2112
+#: khtml/ecma/kjs_window.cpp:1617 khtml/ecma/kjs_html.cpp:2112
 msgid "Do Not Allow"
 msgstr "Net erlaben"
 
-#: khtml/ecma/kjs_window.cpp:1913
+#: khtml/ecma/kjs_window.cpp:1916
 msgid "Close window?"
 msgstr "Fënster zoumaachen?"
 
-#: khtml/ecma/kjs_window.cpp:1913
+#: khtml/ecma/kjs_window.cpp:1916
 msgid "Confirmation Required"
 msgstr "Bestätegung noutwendeg"
 
-#: khtml/ecma/kjs_window.cpp:2771
+#: khtml/ecma/kjs_window.cpp:2774
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr "Wëllt dir e Lieszeeche fir \"%1\" an är Sammlung dobäimaachen?"
 
-#: khtml/ecma/kjs_window.cpp:2774
+#: khtml/ecma/kjs_window.cpp:2777
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
@@ -12066,15 +12066,15 @@ msgstr ""
 "Wëllt dir e Lieszeeche mam Numm \"%2\" fir \"%1\" an är Sammlung "
 "dobäimaachen?"
 
-#: khtml/ecma/kjs_window.cpp:2782
+#: khtml/ecma/kjs_window.cpp:2785
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr "JavaScript huet probéiert, e Lieszeechen dobäizemaachen"
 
-#: khtml/ecma/kjs_window.cpp:2786
+#: khtml/ecma/kjs_window.cpp:2789
 msgid "Insert"
 msgstr "Asetzen"
 
-#: khtml/ecma/kjs_window.cpp:2786
+#: khtml/ecma/kjs_window.cpp:2789
 msgid "Disallow"
 msgstr "Net zouloossen"
 
@@ -12335,7 +12335,7 @@ msgstr ""
 "d'Umeldungsinformatioun opruffen, wann dir fir d'nächst Kéier d'Säit %"
 "1besicht. Wëllt dir d'Informatioun elo späicheren?"
 
-#: khtml/html/html_formimpl.cpp:2598
+#: khtml/html/html_formimpl.cpp:2616
 #, fuzzy
 #| msgid "General"
 msgid "Key Generator"
