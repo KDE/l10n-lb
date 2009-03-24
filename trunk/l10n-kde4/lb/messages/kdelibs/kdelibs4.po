@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-03-22 10:16+0100\n"
+"POT-Creation-Date: 2009-03-24 10:53+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -3523,6 +3523,14 @@ msgstr "Mellt iech w.e.g. bei ärer Systemverwaltung."
 msgid "Configuration file \"%1\" not writable.\n"
 msgstr "D'Configuratiounsdatei \"%1\" konnt net geschriwwe ginn.\n"
 
+#: kdecore/network/klocalsocket_win.cpp:31
+#: kdecore/network/klocalsocket_win.cpp:36
+#, fuzzy
+#| msgctxt "Socket error code NotSupported"
+#| msgid "operation is not supported"
+msgid "Operation not supported"
+msgstr "Dëss Aktioun gëtt net ënnerstëtzt"
+
 #: kdecore/network/k3socketaddress.cpp:623
 #, kde-format
 msgctxt "1: the unknown socket address family number"
@@ -3656,6 +3664,91 @@ msgstr "'ai socktype' net ënnerstëtzt"
 #: kdecore/network/netsupp.cpp:902
 msgid "system error"
 msgstr "Feeler am System"
+
+#: kdecore/network/klocalsocket_unix.cpp:178
+#: kdecore/network/klocalsocket_unix.cpp:246
+msgid "Specified socket path is invalid"
+msgstr ""
+
+#: kdecore/network/klocalsocket_unix.cpp:187
+#: kdecore/network/klocalsocket_unix.cpp:234
+#: kdecore/network/klocalsocket_unix.cpp:255
+#, fuzzy
+#| msgctxt "Socket error code NotSupported"
+#| msgid "operation is not supported"
+msgid "The socket operation is not supported"
+msgstr "Dëss Aktioun gëtt net ënnerstëtzt"
+
+#: kdecore/network/klocalsocket_unix.cpp:200
+#, fuzzy
+#| msgctxt "Socket error code ConnectionRefused"
+#| msgid "connection actively refused"
+msgid "Connection refused"
+msgstr "D'Verbindung ass ofgeleent ginn"
+
+#: kdecore/network/klocalsocket_unix.cpp:205
+#: kdecore/network/klocalsocket_unix.cpp:268
+#, fuzzy
+#| msgid "Permission denied."
+msgid "Permission denied"
+msgstr "Zougrëff net erlaabt."
+
+#: kdecore/network/klocalsocket_unix.cpp:209
+#, fuzzy
+#| msgctxt "Socket error code ConnectionTimedOut"
+#| msgid "connection timed out"
+msgid "Connection timed out"
+msgstr "D'Verbindungszäit ass iwwerschratt ginn"
+
+#: kdecore/network/klocalsocket_unix.cpp:213
+#: kdecore/network/klocalsocket_unix.cpp:293 nepomuk/core/resource.cpp:475
+#, fuzzy
+#| msgctxt "QFile"
+#| msgid "Unknown error"
+msgid "Unknown error"
+msgstr "Onbekannte Feeler"
+
+#: kdecore/network/klocalsocket_unix.cpp:221
+#: kdecore/network/klocalsocket_unix.cpp:301
+msgid "Could not set non-blocking mode"
+msgstr ""
+
+#: kdecore/network/klocalsocket_unix.cpp:272
+#, fuzzy
+#| msgctxt "Socket error code AddressInUse"
+#| msgid "address already in use"
+msgid "Address is already in use"
+msgstr "Dëss adress gëtt scho benotzt"
+
+#: kdecore/network/klocalsocket_unix.cpp:277
+#, fuzzy
+#| msgid "This file cannot be opened."
+msgid "Path cannot be used"
+msgstr "Dëss Datei kann net opgemaach ginn."
+
+#: kdecore/network/klocalsocket_unix.cpp:281
+#, fuzzy
+#| msgid "No such file."
+msgid "No such file or directory"
+msgstr "Sou eng Datei gëtt et net."
+
+#: kdecore/network/klocalsocket_unix.cpp:285
+msgid "Not a directory"
+msgstr ""
+
+#: kdecore/network/klocalsocket_unix.cpp:289
+#, fuzzy
+#| msgid "Read-only"
+msgid "Read-only filesystem"
+msgstr "Nëmme Liesen"
+
+#: kdecore/network/klocalsocket_unix.cpp:354
+#: kdecore/network/klocalsocket_unix.cpp:386
+#, fuzzy
+#| msgctxt "QFile"
+#| msgid "Unknown error"
+msgid "Unknown socket error"
+msgstr "Onbekannte Feeler"
 
 #: kdecore/network/k3resolver.cpp:546
 msgid "requested family not supported for this host name"
@@ -12908,13 +13001,6 @@ msgstr "Configuratioun"
 msgid "Invalid type in Database"
 msgstr "Ongülteg Basis fir d'Referenz"
 
-#: nepomuk/core/resource.cpp:475
-#, fuzzy
-#| msgctxt "QFile"
-#| msgid "Unknown error"
-msgid "Unknown error"
-msgstr "Onbekannte Feeler"
-
 #: nepomuk/core/ui/kmetadatatagwidget.cpp:214
 msgid "Create New Tag..."
 msgstr ""
@@ -15080,11 +15166,6 @@ msgstr "D'Entrée '%1' ass net am Menü."
 #~ msgstr "Datum"
 
 #, fuzzy
-#~| msgid "Permission denied."
-#~ msgid "Permissions"
-#~ msgstr "Zougrëff net erlaabt."
-
-#, fuzzy
 #~| msgid "Other"
 #~ msgid "Owner"
 #~ msgstr "Aner"
@@ -15307,9 +15388,6 @@ msgstr "D'Entrée '%1' ass net am Menü."
 
 #~ msgid "Try Different"
 #~ msgstr "Probéieren"
-
-#~ msgid "This file cannot be opened."
-#~ msgstr "Dëss Datei kann net opgemaach ginn."
 
 #~ msgid "I do not know how to handle this type of file."
 #~ msgstr "Ëch weess net, wéi ëch mat sou Dateien ëmgoe soll."
@@ -17055,9 +17133,6 @@ msgstr "D'Entrée '%1' ass net am Menü."
 #~ msgid "Resource Configuration"
 #~ msgstr "Ressource-Configuratioun"
 
-#~ msgid "Read-only"
-#~ msgstr "Nëmme Liesen"
-
 #~ msgid "%1 Resource Settings"
 #~ msgstr "Ressourcen-Astellunge vun %1"
 
@@ -17240,9 +17315,6 @@ msgstr "D'Entrée '%1' ass net am Menü."
 
 #~ msgid "File opened."
 #~ msgstr "Datei opgemaach."
-
-#~ msgid "No such file."
-#~ msgstr "Sou eng Datei gëtt et net."
 
 #~ msgid "The file \"%1\" cannot be found. Create a new one?"
 #~ msgstr "D'Datei \"%1\" konnt net fonnt ginn. Wëllt dir eng nei erstellen?"
