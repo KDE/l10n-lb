@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-04-07 11:06+0200\n"
+"POT-Creation-Date: 2009-04-08 11:55+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -12619,20 +12619,20 @@ msgstr "Alleguer zeréck&weisen"
 msgid "&Grant All"
 msgstr "Alleguer &zouloossen"
 
-#: khtml/kmultipart/kmultipart.cpp:321
+#: khtml/kmultipart/kmultipart.cpp:315
 #, fuzzy, kde-format
 msgid "No handler found for %1."
 msgstr "Keen Handler fir \"%1\" fonnt!"
 
-#: khtml/kmultipart/kmultipart.cpp:568
+#: khtml/kmultipart/kmultipart.cpp:562
 msgid "KMultiPart"
 msgstr "KMultiPart"
 
-#: khtml/kmultipart/kmultipart.cpp:570
+#: khtml/kmultipart/kmultipart.cpp:564
 msgid "Embeddable component for multipart/mixed"
 msgstr "Abettungsfäheg Komponent fir multipart/mixed"
 
-#: khtml/kmultipart/kmultipart.cpp:572
+#: khtml/kmultipart/kmultipart.cpp:566
 msgid "Copyright 2001, David Faure <email>david@mandrakesoft.com</email>"
 msgstr ""
 
@@ -13080,11 +13080,11 @@ msgstr "Sicht am Internet"
 msgid "&Search"
 msgstr "&Sichen"
 
-#: kparts/part.cpp:758
+#: kparts/part.cpp:757
 msgid "Untitled"
 msgstr "Onbenannt"
 
-#: kparts/part.cpp:764
+#: kparts/part.cpp:763
 #, kde-format
 msgid ""
 "The document \"%1\" has been modified.\n"
@@ -13093,7 +13093,7 @@ msgstr ""
 "Den Dokument \"%1\" ass verännert ginn.\n"
 "Wëllt dir e späicheren oder sou si loosse, wéi e war?"
 
-#: kparts/part.cpp:766
+#: kparts/part.cpp:765
 msgid "Close Document"
 msgstr "Dokument zoumaachen"
 
