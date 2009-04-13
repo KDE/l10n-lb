@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-04-12 10:58+0200\n"
+"POT-Creation-Date: 2009-04-13 11:03+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -113,7 +113,7 @@ msgstr "Passwuert-Sëcherheetsmeter:"
 
 #. i18n: file: kdeui/dialogs/knewpassworddialog.ui:104
 #. i18n: ectx: property (text), widget (KTitleWidget, labelMatch)
-#: rc.cpp:41 kdeui/dialogs/knewpassworddialog.cpp:114
+#: rc.cpp:41 kdeui/dialogs/knewpassworddialog.cpp:177
 #: kde3support/kdeui/k3passworddialog.cpp:432
 #: kde3support/kdeui/k3passworddialog.cpp:625
 msgid "Passwords do not match"
@@ -6648,7 +6648,7 @@ msgstr ""
 msgid "There is no matching item available.\n"
 msgstr "Näischt passendes fonnt ginn.\n"
 
-#: kdeui/dialogs/knewpassworddialog.cpp:74
+#: kdeui/dialogs/knewpassworddialog.cpp:77
 #: kde3support/kdeui/k3passworddialog.cpp:416
 msgid ""
 "The password strength meter gives an indication of the security of the "
@@ -6664,12 +6664,12 @@ msgstr ""
 " - eng Mëschung aus grouss- a klenggeschriwwene Bustawen;\n"
 " - eng Mëschung aus Zuelen oder Zeechen (z.B. #) a Bustawen."
 
-#: kdeui/dialogs/knewpassworddialog.cpp:104
+#: kdeui/dialogs/knewpassworddialog.cpp:167
 #: kde3support/kdeui/k3passworddialog.cpp:619
 msgid "Password is empty"
 msgstr "D'Passwuert ass eidel"
 
-#: kdeui/dialogs/knewpassworddialog.cpp:109
+#: kdeui/dialogs/knewpassworddialog.cpp:172
 #: kde3support/kdeui/k3passworddialog.cpp:622
 #, fuzzy, kde-format
 msgid "Password must be at least 1 character long"
@@ -6677,18 +6677,18 @@ msgid_plural "Password must be at least %1 characters long"
 msgstr[0] "D'Passwuert muss mindestens aus engem Zeeche bestoën"
 msgstr[1] "D'Passwuert muss mindestens %1 Zeeche laang sinn"
 
-#: kdeui/dialogs/knewpassworddialog.cpp:113
+#: kdeui/dialogs/knewpassworddialog.cpp:176
 #: kde3support/kdeui/k3passworddialog.cpp:624
 msgid "Passwords match"
 msgstr "Selwëcht Passwierder"
 
-#: kdeui/dialogs/knewpassworddialog.cpp:219
+#: kdeui/dialogs/knewpassworddialog.cpp:237
 #: kde3support/kdeui/k3passworddialog.cpp:501
 msgid "You entered two different passwords. Please try again."
 msgstr ""
 "Dir hutt zwee verschidde Passwierder agin. Probéiert w.e.g. nach eng Kéier."
 
-#: kdeui/dialogs/knewpassworddialog.cpp:228
+#: kdeui/dialogs/knewpassworddialog.cpp:246
 #: kde3support/kdeui/k3passworddialog.cpp:508
 msgid ""
 "The password you have entered has a low strength. To improve the strength of "
@@ -6707,7 +6707,7 @@ msgstr ""
 "\n"
 "Wëllt dir dësst Passwuert trotzdem bäibehalen?"
 
-#: kdeui/dialogs/knewpassworddialog.cpp:236
+#: kdeui/dialogs/knewpassworddialog.cpp:254
 #: kde3support/kdeui/k3passworddialog.cpp:516
 msgid "Low Password Strength"
 msgstr "Niddereg Passwuert-Sëcherheet"
@@ -9072,7 +9072,7 @@ msgid "Disable automatic checking"
 msgstr "Automatësch Kontroll &ofschalten"
 
 #: kdeui/shortcuts/kcheckaccelerators.cpp:222
-#: kdeui/widgets/kdatepicker.cpp:708
+#: kdeui/widgets/kdatepicker.cpp:697
 #, fuzzy
 #| msgid "Close"
 msgctxt "@action:button"
