@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-04-20 11:19+0200\n"
+"POT-Creation-Date: 2009-04-21 11:23+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1821,7 +1821,7 @@ msgstr ""
 #. i18n: file: threadweaver/Examples/Jobs/JobsBase.ui:90
 #. i18n: ectx: property (text), widget (QPushButton, pbStop)
 #: rc.cpp:806 rc.cpp:954 kdeui/jobs/kstatusbarjobtracker.cpp:156
-#: kdeui/util/kstandardguiitem.cpp:281 kdeui/util/kkeyserver_x11.cpp:100
+#: kdeui/util/kstandardguiitem.cpp:281 kdeui/util/kkeyserver_x11.cpp:104
 #: kross/ui/view.cpp:309
 msgid "Stop"
 msgstr "Stop"
@@ -3488,13 +3488,13 @@ msgctxt "@item Calendar system"
 msgid "Invalid Calendar Type"
 msgstr "Ongülteg Werter"
 
-#: kdecore/date/kdatetime.cpp:1538 kdecore/date/kdatetime.cpp:1548
-#: kdecore/date/kdatetime.cpp:2898 kdecore/localization/klocale.cpp:1789
+#: kdecore/date/kdatetime.cpp:1550 kdecore/date/kdatetime.cpp:1560
+#: kdecore/date/kdatetime.cpp:2914 kdecore/localization/klocale.cpp:1789
 #: kdecore/localization/klocale.cpp:1919
 msgid "am"
 msgstr "moies"
 
-#: kdecore/date/kdatetime.cpp:2906 kdecore/localization/klocale.cpp:1783
+#: kdecore/date/kdatetime.cpp:2922 kdecore/localization/klocale.cpp:1783
 #: kdecore/localization/klocale.cpp:1917
 msgid "pm"
 msgstr "nomëttes/owës"
@@ -6271,7 +6271,7 @@ msgstr ""
 msgid "Redo"
 msgstr "Nees zeréck"
 
-#: kdeui/util/kundostack.cpp:67 kdeui/util/kkeyserver_x11.cpp:103
+#: kdeui/util/kundostack.cpp:67 kdeui/util/kkeyserver_x11.cpp:107
 msgid "Undo"
 msgstr "Réckgängeg"
 
@@ -6564,67 +6564,67 @@ msgstr ""
 "dir eis hëllefe wëllt an dat Element beschreiwe wëllt, kënnt dir eis <a href="
 "\"submit-whatsthis\">är eegen \"Wat ass dat ?\"-Hëllef</a> schécken."
 
-#: kdeui/util/kkeyserver_x11.cpp:92
+#: kdeui/util/kkeyserver_x11.cpp:96
 msgid "Backspace"
 msgstr "Zeréck-Tast"
 
-#: kdeui/util/kkeyserver_x11.cpp:93
+#: kdeui/util/kkeyserver_x11.cpp:97
 msgid "SysReq"
 msgstr "System offänken"
 
-#: kdeui/util/kkeyserver_x11.cpp:94
+#: kdeui/util/kkeyserver_x11.cpp:98
 msgid "CapsLock"
 msgstr "Caps Lock"
 
-#: kdeui/util/kkeyserver_x11.cpp:95
+#: kdeui/util/kkeyserver_x11.cpp:99
 msgid "NumLock"
 msgstr "Num Lock"
 
-#: kdeui/util/kkeyserver_x11.cpp:96
+#: kdeui/util/kkeyserver_x11.cpp:100
 msgid "ScrollLock"
 msgstr "Scroll Lock"
 
-#: kdeui/util/kkeyserver_x11.cpp:97
+#: kdeui/util/kkeyserver_x11.cpp:101
 msgid "PageUp"
 msgstr "Page Up"
 
-#: kdeui/util/kkeyserver_x11.cpp:98
+#: kdeui/util/kkeyserver_x11.cpp:102
 msgid "PageDown"
 msgstr "Page Down"
 
-#: kdeui/util/kkeyserver_x11.cpp:101
+#: kdeui/util/kkeyserver_x11.cpp:105
 msgid "Again"
 msgstr "Nach eng Kéier"
 
-#: kdeui/util/kkeyserver_x11.cpp:102
+#: kdeui/util/kkeyserver_x11.cpp:106
 msgid "Props"
 msgstr "Eegeschaften"
 
-#: kdeui/util/kkeyserver_x11.cpp:104
+#: kdeui/util/kkeyserver_x11.cpp:108
 msgid "Front"
 msgstr "Vir"
 
-#: kdeui/util/kkeyserver_x11.cpp:105
+#: kdeui/util/kkeyserver_x11.cpp:109
 msgid "Copy"
 msgstr "Kopéieren"
 
-#: kdeui/util/kkeyserver_x11.cpp:106
+#: kdeui/util/kkeyserver_x11.cpp:110
 msgid "Open"
 msgstr "Opmaachen"
 
-#: kdeui/util/kkeyserver_x11.cpp:107
+#: kdeui/util/kkeyserver_x11.cpp:111
 msgid "Paste"
 msgstr "Peschen"
 
-#: kdeui/util/kkeyserver_x11.cpp:108
+#: kdeui/util/kkeyserver_x11.cpp:112
 msgid "Find"
 msgstr "Sichen"
 
-#: kdeui/util/kkeyserver_x11.cpp:109
+#: kdeui/util/kkeyserver_x11.cpp:113
 msgid "Cut"
 msgstr "Ausschneiden"
 
-#: kdeui/util/kkeyserver_x11.cpp:110 kdeui/dialogs/kshortcutsdialog.cpp:108
+#: kdeui/util/kkeyserver_x11.cpp:114 kdeui/dialogs/kshortcutsdialog.cpp:108
 msgid "Print"
 msgstr "Drécken"
 
