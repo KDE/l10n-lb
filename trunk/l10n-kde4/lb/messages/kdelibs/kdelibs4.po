@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-04-24 11:11+0200\n"
+"POT-Creation-Date: 2009-04-25 11:41+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -12224,7 +12224,7 @@ msgstr "den Dokument ass am falschen Dateiformat"
 msgid "fatal parsing error: %1 in line %2, column %3"
 msgstr "fatale Parsing-Feeler: %1, Zeil %2, Kolonn %3"
 
-#: khtml/xml/xml_tokenizer.cpp:522
+#: khtml/xml/xml_tokenizer.cpp:540
 msgid "XML parsing error"
 msgstr "XML Parsing-Feeler"
 
