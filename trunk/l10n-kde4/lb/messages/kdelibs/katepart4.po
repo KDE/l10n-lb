@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-04-25 11:41+0200\n"
+"POT-Creation-Date: 2009-04-27 10:58+0200\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -492,7 +492,7 @@ msgid "Show/hide the command line on the bottom of the view."
 msgstr ""
 
 #: view/kateview.cpp:572
-msgid "&VI input mode"
+msgid "&VI Input Mode"
 msgstr ""
 
 #: view/kateview.cpp:575
@@ -2579,20 +2579,22 @@ msgstr "Ausféierung"
 #: rc.cpp:56
 #, fuzzy
 #| msgid "Edit Entry"
-msgid "Edit entry..."
+msgid "Edit Entry..."
 msgstr "Entrée veränneren"
 
 #. i18n: file: dialogs/commandmenuconfigwidget.ui:73
 #. i18n: ectx: property (text), widget (QPushButton, btnRemoveEntry)
 #: rc.cpp:59
-msgid "Remove entry"
+msgid "Remove Entry"
 msgstr ""
 
 #. i18n: file: dialogs/commandmenuconfigwidget.ui:93
 #. i18n: ectx: property (text), widget (QPushButton, btnAddEntry)
 #: rc.cpp:62
-msgid "Add entry..."
-msgstr ""
+#, fuzzy
+#| msgid "Edit Entry"
+msgid "Add Entry..."
+msgstr "Entrée veränneren"
 
 #. i18n: file: dialogs/commandmenuconfigwidget.ui:110
 #. i18n: ectx: property (title), widget (QGroupBox, gbNotes)
@@ -4007,19 +4009,20 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QCheckBox, sortingCaseSensitive)
 #: rc.cpp:700
 #, fuzzy
-msgid "Case Sensitive"
-msgstr "Op Grouss-/Klengschreiwung oppassen"
+#| msgid "Case &sensitive"
+msgid "Case sensitive"
+msgstr "Op Grou&ss-/Klengschreiwung oppassen "
 
 #. i18n: file: dialogs/completionconfigwidget.ui:99
 #. i18n: ectx: property (text), widget (QCheckBox, sortingInheritanceDepth)
 #: rc.cpp:703
-msgid "Inheritance Depth"
+msgid "Inheritance depth"
 msgstr ""
 
 #. i18n: file: dialogs/completionconfigwidget.ui:138
 #. i18n: ectx: property (text), widget (QLabel, label_2)
 #: rc.cpp:706
-msgid "Order of groupings (select a grouping method to configure):"
+msgid "Order of Groupings (select a grouping method to configure):"
 msgstr ""
 
 #. i18n: file: dialogs/completionconfigwidget.ui:182
@@ -4065,7 +4068,7 @@ msgstr ""
 #. i18n: file: dialogs/completionconfigwidget.ui:252
 #. i18n: ectx: property (label), widget (KIntNumInput, filteringMaximumInheritanceDepth)
 #: rc.cpp:724
-msgid "Maximum inheritance depth"
+msgid "Maximum inheritance depth:"
 msgstr ""
 
 #. i18n: file: dialogs/completionconfigwidget.ui:264
@@ -4083,7 +4086,7 @@ msgstr ""
 #. i18n: file: dialogs/completionconfigwidget.ui:308
 #. i18n: ectx: property (text), widget (QTreeWidget, groupingMethods)
 #: rc.cpp:733
-msgid "Grouping method"
+msgid "Grouping Method"
 msgstr ""
 
 #. i18n: file: dialogs/completionconfigwidget.ui:313
@@ -4113,8 +4116,10 @@ msgstr ""
 #. i18n: file: dialogs/completionconfigwidget.ui:414
 #. i18n: ectx: property (text), widget (QLabel, label)
 #: rc.cpp:754
-msgid "Access Grouping properties"
-msgstr ""
+#, fuzzy
+#| msgid "Footer Properties"
+msgid "Access Grouping Properties"
+msgstr "Eegeschafte vun de Fousszeilen"
 
 #. i18n: file: dialogs/completionconfigwidget.ui:421
 #. i18n: ectx: property (text), widget (QCheckBox, accessConst)
@@ -5717,11 +5722,11 @@ msgstr ""
 msgid "Unable to open %1"
 msgstr "Kann %1 net opmaachen"
 
-#: syntax/katesyntaxdocument.cpp:489
+#: syntax/katesyntaxdocument.cpp:492
 msgid "Errors!"
 msgstr "Feeler !"
 
-#: syntax/katesyntaxdocument.cpp:494
+#: syntax/katesyntaxdocument.cpp:497
 #, kde-format
 msgid "Error: %1"
 msgstr "Feeler: %1"
@@ -6044,6 +6049,10 @@ msgid "Close Document"
 msgstr ""
 
 #, fuzzy
+#~ msgid "Case Sensitive"
+#~ msgstr "Op Grouss-/Klengschreiwung oppassen"
+
+#, fuzzy
 #~ msgid "(c) 2000-2007 The Kate Authors"
 #~ msgstr "(c) 2000-2004 D'Kate-Auteuren"
 
@@ -6183,9 +6192,6 @@ msgstr ""
 
 #~ msgid "&Pattern:"
 #~ msgstr "&Muster:"
-
-#~ msgid "Case &sensitive"
-#~ msgstr "Op Grou&ss-/Klengschreiwung oppassen "
 
 #~ msgid "&File mask:"
 #~ msgstr "Da&teimask:"
