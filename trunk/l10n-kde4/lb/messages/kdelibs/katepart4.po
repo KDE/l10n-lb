@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-04-29 11:55+0200\n"
+"POT-Creation-Date: 2009-04-30 11:41+0200\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2154,11 +2154,11 @@ msgstr ""
 msgid "Replacement counter (for Replace All)"
 msgstr ""
 
-#: utils/katesearchbar.cpp:1640 utils/katesearchbar.cpp:1801
+#: utils/katesearchbar.cpp:1640 utils/katesearchbar.cpp:1803
 msgid "From &cursor"
 msgstr ""
 
-#: utils/katesearchbar.cpp:1642 utils/katesearchbar.cpp:1803
+#: utils/katesearchbar.cpp:1642 utils/katesearchbar.cpp:1805
 #, fuzzy
 msgid "Hi&ghlight all"
 msgstr "Ervir&hiewung"
@@ -2170,7 +2170,7 @@ msgstr "Auswielmodus"
 
 #. i18n: file: dialogs/searchbarpower.ui:239
 #. i18n: ectx: property (text), widget (QCheckBox, matchCase)
-#: utils/katesearchbar.cpp:1805 rc.cpp:303
+#: utils/katesearchbar.cpp:1807 rc.cpp:303
 msgid "&Match case"
 msgstr ""
 
@@ -3083,26 +3083,26 @@ msgstr "Sichen"
 #: rc.cpp:288
 #, fuzzy
 #| msgid "&Find Next"
-msgid "Plain text\t\t(Alt+1)"
+msgid "Plain text"
 msgstr "Nächst &fannen"
 
 #. i18n: file: dialogs/searchbarpower.ui:202
 #. i18n: ectx: property (text), item, widget (QComboBox, searchMode)
 #: rc.cpp:291
-msgid "Whole words\t(Alt+2)"
+msgid "Whole words"
 msgstr ""
 
 #. i18n: file: dialogs/searchbarpower.ui:207
 #. i18n: ectx: property (text), item, widget (QComboBox, searchMode)
 #: rc.cpp:294
-msgid "Escape sequences\t(Alt+3)"
+msgid "Escape sequences"
 msgstr ""
 
 #. i18n: file: dialogs/searchbarpower.ui:212
 #. i18n: ectx: property (text), item, widget (QComboBox, searchMode)
 #: rc.cpp:297
 #, fuzzy
-msgid "Regular expression\t(Alt+4)"
+msgid "Regular expression"
 msgstr "Regulären Ausdrock"
 
 #. i18n: file: dialogs/searchbarpower.ui:236
@@ -6063,6 +6063,15 @@ msgid "Close Document"
 msgstr ""
 
 #, fuzzy
+#~| msgid "&Find Next"
+#~ msgid "Plain text\t\t(Alt+1)"
+#~ msgstr "Nächst &fannen"
+
+#, fuzzy
+#~ msgid "Regular expression\t(Alt+4)"
+#~ msgstr "Regulären Ausdrock"
+
+#, fuzzy
 #~ msgid "Case Sensitive"
 #~ msgstr "Op Grouss-/Klengschreiwung oppassen"
 
@@ -6124,15 +6133,6 @@ msgstr ""
 #, fuzzy
 #~ msgid "Unlimited"
 #~ msgstr "Onbegrenzt"
-
-#, fuzzy
-#~| msgid "&Find Next"
-#~ msgid "Plain text"
-#~ msgstr "Nächst &fannen"
-
-#, fuzzy
-#~ msgid "Regular expression"
-#~ msgstr "Regulären Ausdrock"
 
 #, fuzzy
 #~ msgid " Static"
