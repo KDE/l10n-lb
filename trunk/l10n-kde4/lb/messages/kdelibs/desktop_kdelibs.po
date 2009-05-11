@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-05-09 10:04+0000\n"
+"POT-Creation-Date: 2009-05-11 11:04+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -20,12 +20,15 @@ msgctxt "Comment"
 msgid "Instant Messenger with a D-Bus interface"
 msgstr "Instant Messenger mat engem DCOP-Interface"
 
-#: interfaces/kimproxy/interface/kcm_instantmessenger.desktop:1
-msgctxt "Name"
+#: interfaces/kimproxy/interface/kcm_instantmessenger.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Instant Messenger"
+msgctxt "Name|standard desktop component"
 msgid "Instant Messenger"
 msgstr "Instant Messenger"
 
-#: interfaces/kimproxy/interface/kcm_instantmessenger.desktop:76
+#: interfaces/kimproxy/interface/kcm_instantmessenger.desktop:77
 msgctxt "Comment"
 msgid ""
 "The instant messenger allows two-way chat between individuals and groups."
@@ -39,12 +42,15 @@ msgctxt "Comment"
 msgid "Text-to-Speech Service with a D-Bus interface"
 msgstr "Sproochausgab-Service mat engem DCOP-Interface"
 
-#: interfaces/ktexteditor/kcm_ktexteditor.desktop:1
-msgctxt "Name"
+#: interfaces/ktexteditor/kcm_ktexteditor.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Embedded Text Editor"
+msgctxt "Name|standard desktop component"
 msgid "Embedded Text Editor"
 msgstr "Agebauten Texteditor"
 
-#: interfaces/ktexteditor/kcm_ktexteditor.desktop:85
+#: interfaces/ktexteditor/kcm_ktexteditor.desktop:86
 msgctxt "Comment"
 msgid ""
 "The text editor service provides applications with a text viewer and editor. "
@@ -131,6 +137,11 @@ msgctxt "Comment"
 msgid "While saving check encoding of python files and add an encoding line"
 msgstr ""
 
+#: kate/plugins/timedate/ktexteditor_timedate_config.desktop:7
+msgctxt "Name"
+msgid "Format of Time & Date insertion"
+msgstr ""
+
 #: kate/plugins/timedate/ktexteditor_timedate.desktop:18
 msgctxt "Name"
 msgid "Time & Date"
@@ -139,11 +150,6 @@ msgstr ""
 #: kate/plugins/timedate/ktexteditor_timedate.desktop:95
 msgctxt "Comment"
 msgid "Insert current Time & Date"
-msgstr ""
-
-#: kate/plugins/timedate/ktexteditor_timedate_config.desktop:7
-msgctxt "Name"
-msgid "Format of Time & Date insertion"
 msgstr ""
 
 #: kdecore/all_languages.desktop:2
@@ -1115,6 +1121,11 @@ msgctxt "Name"
 msgid "Embedded Java Applet Viewer"
 msgstr "Agebetteten Java-Applet-Uweiser"
 
+#: khtml/khtmladaptorpart.desktop:2
+msgctxt "Name"
+msgid "KHTML Extension Adaptor"
+msgstr ""
+
 #: khtml/khtml.desktop:3
 msgctxt "Comment"
 msgid "Embeddable HTML viewing component"
@@ -1124,11 +1135,6 @@ msgstr "Abettbar HTML-Uweisungskomponent"
 msgctxt "Name"
 msgid "KHTML"
 msgstr "KHTML"
-
-#: khtml/khtmladaptorpart.desktop:2
-msgctxt "Name"
-msgid "KHTML Extension Adaptor"
-msgstr ""
 
 #: khtml/khtmlimage.desktop:3
 msgctxt "Comment"
@@ -1401,11 +1407,6 @@ msgctxt "Comment"
 msgid "Plugin for the Rename Dialog"
 msgstr "Plugin fir den Ëmbenennen-Dialog"
 
-#: kio/tests/dummymeta.desktop:3
-msgctxt "Name"
-msgid "Dummy Meta"
-msgstr "Dummy-Meta"
-
 #: kioslave/http/http_cache_cleaner.desktop:3
 msgctxt "Name"
 msgid "HTTP Cache Cleaner"
@@ -1425,6 +1426,11 @@ msgstr "KDED-Modul fir d'Verwaltung vun de Cookien"
 msgctxt "Comment"
 msgid "Keeps track of all cookies in the system"
 msgstr "Iwwerwaacht all d'Cookie vum System"
+
+#: kio/tests/dummymeta.desktop:3
+msgctxt "Name"
+msgid "Dummy Meta"
+msgstr "Dummy-Meta"
 
 #: knotify/tests/knotifytest.notifyrc:3
 msgctxt "Comment"
@@ -1524,6 +1530,14 @@ msgctxt "Comment"
 msgid "Plasma Animation Engine"
 msgstr ""
 
+#: plasma/servicetypes/plasma-applet.desktop:5
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Java Applet"
+msgctxt "Comment"
+msgid "Plasma applet"
+msgstr "Java-Applet"
+
 #: plasma/servicetypes/plasma-applet-extenderapplet.desktop:2
 #, fuzzy
 #| msgctxt "Name"
@@ -1538,14 +1552,6 @@ msgstr "KTextEditor-Wuert-Vervollstännegungs-Plugin"
 #| msgid "Java Applet"
 msgctxt "Comment"
 msgid "Plasma scripting popup applet"
-msgstr "Java-Applet"
-
-#: plasma/servicetypes/plasma-applet.desktop:5
-#, fuzzy
-#| msgctxt "Comment"
-#| msgid "Java Applet"
-msgctxt "Comment"
-msgid "Plasma applet"
 msgstr "Java-Applet"
 
 #: plasma/servicetypes/plasma-containment.desktop:5
