@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-05-21 11:24+0200\n"
+"POT-Creation-Date: 2009-05-22 11:14+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -6166,7 +6166,7 @@ msgstr "Am héchste bewäert"
 msgid "Most Downloads"
 msgstr "Am meeschten erofgelueden"
 
-#: knewstuff/knewstuff2/core/security.cpp:74
+#: knewstuff/knewstuff2/core/security.cpp:75
 msgid ""
 "<qt>Cannot start <i>gpg</i> and retrieve the available keys. Make sure that "
 "<i>gpg</i> is installed, otherwise verification of downloaded resources will "
@@ -6176,7 +6176,7 @@ msgstr ""
 "Kuckt w.e.g. no, ob den <i>gpg</i> installéiert ass, well soss kënnen déi "
 "erofgeluede Ressourcen net verifizéiert ginn.</qt>"
 
-#: knewstuff/knewstuff2/core/security.cpp:196
+#: knewstuff/knewstuff2/core/security.cpp:197
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt>Enter passphrase for key <b>0x%1</b>, belonging to<br><i>%2&lt;%3&gt;"
@@ -6188,7 +6188,7 @@ msgstr ""
 "<qt>Gitt w.e.g. d'Passwuert fir de Schlëssel <b>0x%1</b> an, deen zu <br><i>%"
 "2&lt;%3&gt;</i>gehéiert:</qt>"
 
-#: knewstuff/knewstuff2/core/security.cpp:275
+#: knewstuff/knewstuff2/core/security.cpp:276
 msgid ""
 "<qt>Cannot start <i>gpg</i> and check the validity of the file. Make sure "
 "that <i>gpg</i> is installed, otherwise verification of downloaded resources "
@@ -6198,15 +6198,15 @@ msgstr ""
 "Kuckt w.e.g. no, ob den <i>gpg</i> installéiert ass, well soss kënnen déi "
 "erofgeluede Ressourcen net verifizéiert ginn.</qt>"
 
-#: knewstuff/knewstuff2/core/security.cpp:330
+#: knewstuff/knewstuff2/core/security.cpp:331
 msgid "Select Signing Key"
 msgstr "Schlëssel fir d'Ënnerschrëft wielen"
 
-#: knewstuff/knewstuff2/core/security.cpp:330
+#: knewstuff/knewstuff2/core/security.cpp:331
 msgid "Key used for signing:"
 msgstr "Schlëssel fir z'ënnerschreiwen:"
 
-#: knewstuff/knewstuff2/core/security.cpp:362
+#: knewstuff/knewstuff2/core/security.cpp:363
 msgid ""
 "<qt>Cannot start <i>gpg</i> and sign the file. Make sure that <i>gpg</i> is "
 "installed, otherwise signing of the resources will not be possible.</qt>"
