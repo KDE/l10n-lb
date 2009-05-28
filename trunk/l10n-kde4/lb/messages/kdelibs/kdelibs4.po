@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-05-24 11:20+0200\n"
+"POT-Creation-Date: 2009-05-28 11:33+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -7136,24 +7136,24 @@ msgctxt "@item:intable Action name in shortcuts configuration"
 msgid "%1"
 msgstr "%1%"
 
-#: kdeui/dialogs/kdialog.cpp:237
+#: kdeui/dialogs/kdialog.cpp:243
 msgid "&Try"
 msgstr "&Probéieren"
 
-#: kdeui/dialogs/kdialog.cpp:419
+#: kdeui/dialogs/kdialog.cpp:425
 msgid "modified"
 msgstr "nach net gespäichert"
 
-#: kdeui/dialogs/kdialog.cpp:429
+#: kdeui/dialogs/kdialog.cpp:435
 msgctxt "Document/application separator in titlebar"
 msgid " – "
 msgstr ""
 
-#: kdeui/dialogs/kdialog.cpp:798
+#: kdeui/dialogs/kdialog.cpp:804
 msgid "&Details"
 msgstr "&Detailer"
 
-#: kdeui/dialogs/kdialog.cpp:944
+#: kdeui/dialogs/kdialog.cpp:950
 msgid "Get help..."
 msgstr "Hëllef ufroen..."
 
@@ -12777,7 +12777,7 @@ msgstr "Kierzelen"
 msgid "Create Web Shortcut"
 msgstr "Kierzel läschen"
 
-#: kinit/kinit.cpp:469
+#: kinit/kinit.cpp:473
 msgid ""
 "Unable to start new process.\n"
 "The system may have reached the maximum number of open files possible or the "
@@ -12787,7 +12787,7 @@ msgstr ""
 "Déi maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn oder déi vun "
 "iech agestallte maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn."
 
-#: kinit/kinit.cpp:488
+#: kinit/kinit.cpp:492
 msgid ""
 "Unable to create new process.\n"
 "The system may have reached the maximum number of processes possible or the "
@@ -12797,12 +12797,12 @@ msgstr ""
 "Déi maximal Unzuel vu Prozesser kéint erreecht sinn oder déi vun iech "
 "agestallte maximal Unzuel vu Prozesser kéint erreecht sinn."
 
-#: kinit/kinit.cpp:579
+#: kinit/kinit.cpp:583
 #, kde-format
 msgid "Could not find '%1' executable."
 msgstr "Konnt de Programm '%1' net fannen."
 
-#: kinit/kinit.cpp:597
+#: kinit/kinit.cpp:601
 #, kde-format
 msgid ""
 "Could not open library '%1'.\n"
@@ -12811,7 +12811,7 @@ msgstr ""
 "Konnt d'Bibliothéik '%1' net opmaachen.\n"
 "%2"
 
-#: kinit/kinit.cpp:643
+#: kinit/kinit.cpp:647
 #, kde-format
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
