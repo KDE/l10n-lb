@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-06-08 20:29+0200\n"
+"POT-Creation-Date: 2009-06-16 11:16+0200\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1864,19 +1864,19 @@ msgstr "&Nei..."
 msgid "&Delete"
 msgstr "Ausgewielt"
 
-#: utils/kateschema.cpp:724
+#: utils/kateschema.cpp:722
 msgid "Colors"
 msgstr "Faarwen"
 
-#: utils/kateschema.cpp:728
+#: utils/kateschema.cpp:726
 msgid "Font"
 msgstr ""
 
-#: utils/kateschema.cpp:732
+#: utils/kateschema.cpp:730
 msgid "Normal Text Styles"
 msgstr "Normalen Textstil"
 
-#: utils/kateschema.cpp:736
+#: utils/kateschema.cpp:734
 msgid "Highlighting Text Styles"
 msgstr ""
 
