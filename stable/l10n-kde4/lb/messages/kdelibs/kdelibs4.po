@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-06-03 08:00+0200\n"
+"POT-Creation-Date: 2009-06-18 07:01+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -12401,7 +12401,7 @@ msgstr "1 Iwwereneestëmmung fonnt."
 msgid "No more matches for this search direction."
 msgstr ""
 
-#: khtml/html/htmlparser.cpp:1938
+#: khtml/html/htmlparser.cpp:1936
 msgid "This is a searchable index. Enter search keywords: "
 msgstr "Dësem Index kënnt dir duerchsichen. Gitt Stëchwierder an: "
 
