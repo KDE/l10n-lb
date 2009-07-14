@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-07-13 11:36+0200\n"
+"POT-Creation-Date: 2009-07-14 11:31+0200\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2214,22 +2214,6 @@ msgstr ""
 
 #: utils/katevimodebar.cpp:129
 msgid "VI: REPLACE"
-msgstr ""
-
-#: utils/katespell.cpp:60
-msgid "Spelling (from cursor)..."
-msgstr ""
-
-#: utils/katespell.cpp:63
-msgid "Check the document's spelling from the cursor and forward"
-msgstr ""
-
-#: utils/katespell.cpp:66
-msgid "Spellcheck Selection..."
-msgstr ""
-
-#: utils/katespell.cpp:69
-msgid "Check spelling of the selected text"
 msgstr ""
 
 #: utils/kateautoindent.cpp:75
@@ -5834,6 +5818,22 @@ msgstr ""
 
 #: script/katescriptmanager.cpp:330
 msgid "This executes the current document as JavaScript within Kate."
+msgstr ""
+
+#: spellcheck/spellcheckdialog.cpp:63
+msgid "Spelling (from cursor)..."
+msgstr ""
+
+#: spellcheck/spellcheckdialog.cpp:66
+msgid "Check the document's spelling from the cursor and forward"
+msgstr ""
+
+#: spellcheck/spellcheckdialog.cpp:69
+msgid "Spellcheck Selection..."
+msgstr ""
+
+#: spellcheck/spellcheckdialog.cpp:72
+msgid "Check spelling of the selected text"
 msgstr ""
 
 #: syntax/katesyntaxdocument.cpp:84
