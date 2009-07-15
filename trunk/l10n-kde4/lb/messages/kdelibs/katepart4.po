@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-07-14 11:31+0200\n"
+"POT-Creation-Date: 2009-07-15 13:04+0200\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -881,7 +881,7 @@ msgstr ""
 
 #. i18n: file: dialogs/commandmenuconfigwidget.ui:34
 #. i18n: ectx: property (text), widget (QTreeWidget, treeWidget)
-#: dialogs/katedialogs.cpp:1169 completion/katecompletionmodel.cpp:1175
+#: dialogs/katedialogs.cpp:1169 completion/katecompletionmodel.cpp:1236
 #: rc.cpp:53
 msgid "Name"
 msgstr "Numm"
@@ -2380,130 +2380,130 @@ msgstr "&Variablen:"
 msgid "Enumerations"
 msgstr "Configuratioun"
 
-#: completion/katecompletionmodel.cpp:1169
+#: completion/katecompletionmodel.cpp:1230
 #, fuzzy
 msgid "Prefix"
 msgstr "&Präfix:"
 
-#: completion/katecompletionmodel.cpp:1171
+#: completion/katecompletionmodel.cpp:1232
 msgid "Icon"
 msgstr ""
 
-#: completion/katecompletionmodel.cpp:1173
+#: completion/katecompletionmodel.cpp:1234
 #, fuzzy
 msgid "Scope"
 msgstr "&Stop"
 
-#: completion/katecompletionmodel.cpp:1177
+#: completion/katecompletionmodel.cpp:1238
 msgid "Arguments"
 msgstr ""
 
-#: completion/katecompletionmodel.cpp:1179
+#: completion/katecompletionmodel.cpp:1240
 msgid "Postfix"
 msgstr ""
 
-#: completion/katecompletionmodel.cpp:1687
+#: completion/katecompletionmodel.cpp:1748
 msgid "Public"
 msgstr ""
 
-#: completion/katecompletionmodel.cpp:1690
+#: completion/katecompletionmodel.cpp:1751
 msgid "Protected"
 msgstr ""
 
-#: completion/katecompletionmodel.cpp:1693
+#: completion/katecompletionmodel.cpp:1754
 #, fuzzy
 msgid "Private"
 msgstr "ferite"
 
-#: completion/katecompletionmodel.cpp:1696
+#: completion/katecompletionmodel.cpp:1757
 #, fuzzy
 msgid "Static"
 msgstr "Stata"
 
-#: completion/katecompletionmodel.cpp:1699
+#: completion/katecompletionmodel.cpp:1760
 #, fuzzy
 msgid "Constant"
 msgstr "Kontext"
 
-#: completion/katecompletionmodel.cpp:1702
+#: completion/katecompletionmodel.cpp:1763
 #, fuzzy
 msgid "Namespace"
 msgstr "Ewechmaachen"
 
-#: completion/katecompletionmodel.cpp:1705
+#: completion/katecompletionmodel.cpp:1766
 msgid "Class"
 msgstr ""
 
-#: completion/katecompletionmodel.cpp:1708
+#: completion/katecompletionmodel.cpp:1769
 #, fuzzy
 msgid "Struct"
 msgstr "Due&rchgestrach"
 
-#: completion/katecompletionmodel.cpp:1711
+#: completion/katecompletionmodel.cpp:1772
 #, fuzzy
 msgid "Union"
 msgstr "Funktioun"
 
-#: completion/katecompletionmodel.cpp:1714
+#: completion/katecompletionmodel.cpp:1775
 msgid "Function"
 msgstr "Funktioun"
 
-#: completion/katecompletionmodel.cpp:1717
+#: completion/katecompletionmodel.cpp:1778
 #, fuzzy
 msgid "Variable"
 msgstr "&Variablen:"
 
-#: completion/katecompletionmodel.cpp:1720
+#: completion/katecompletionmodel.cpp:1781
 #, fuzzy
 msgid "Enumeration"
 msgstr "Configuratioun"
 
-#: completion/katecompletionmodel.cpp:1723
+#: completion/katecompletionmodel.cpp:1784
 #, fuzzy
 msgid "Template"
 msgstr "E&rsetzen"
 
-#: completion/katecompletionmodel.cpp:1726
+#: completion/katecompletionmodel.cpp:1787
 msgid "Virtual"
 msgstr ""
 
-#: completion/katecompletionmodel.cpp:1729
+#: completion/katecompletionmodel.cpp:1790
 #, fuzzy
 msgid "Override"
 msgstr "Iwwerschreiwen"
 
-#: completion/katecompletionmodel.cpp:1732
+#: completion/katecompletionmodel.cpp:1793
 #, fuzzy
 msgid "Inline"
 msgstr "&Ënnerstrach"
 
-#: completion/katecompletionmodel.cpp:1735
+#: completion/katecompletionmodel.cpp:1796
 #, fuzzy
 msgid "Friend"
 msgstr "Fannen"
 
-#: completion/katecompletionmodel.cpp:1738
+#: completion/katecompletionmodel.cpp:1799
 msgid "Signal"
 msgstr ""
 
-#: completion/katecompletionmodel.cpp:1741
+#: completion/katecompletionmodel.cpp:1802
 msgid "Slot"
 msgstr ""
 
-#: completion/katecompletionmodel.cpp:1744
+#: completion/katecompletionmodel.cpp:1805
 #, fuzzy
 msgid "Local Scope"
 msgstr "&Lokal Dateien"
 
-#: completion/katecompletionmodel.cpp:1747
+#: completion/katecompletionmodel.cpp:1808
 msgid "Namespace Scope"
 msgstr ""
 
-#: completion/katecompletionmodel.cpp:1750
+#: completion/katecompletionmodel.cpp:1811
 msgid "Global Scope"
 msgstr ""
 
-#: completion/katecompletionmodel.cpp:1753
+#: completion/katecompletionmodel.cpp:1814
 #, fuzzy
 msgid "Unknown Property"
 msgstr "Rumm-Eegenschafte"
