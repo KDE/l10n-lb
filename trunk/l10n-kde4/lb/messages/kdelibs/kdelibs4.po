@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-07-20 11:32+0200\n"
+"POT-Creation-Date: 2009-07-21 11:48+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -7440,7 +7440,7 @@ msgstr ""
 #: kdeui/shortcuts/kglobalaccel.cpp:540
 #: kdeui/widgets/kkeysequencewidget.cpp:179
 #: kdeui/widgets/kkeysequencewidget.cpp:261
-#: kdeui/widgets/kkeysequencewidget.cpp:653
+#: kdeui/widgets/kkeysequencewidget.cpp:654
 msgid "Reassign"
 msgstr "Nei zouuerdnen"
 
@@ -7820,7 +7820,7 @@ msgstr "Standard"
 
 #: kdeui/dialogs/kshortcuteditwidget.cpp:56
 #: kdeui/dialogs/kshortcuteditwidget.cpp:59
-#: kdeui/widgets/kkeysequencewidget.cpp:687
+#: kdeui/widgets/kkeysequencewidget.cpp:688
 #, fuzzy
 #| msgid "None"
 msgctxt "No shortcut defined"
@@ -9368,7 +9368,7 @@ msgstr "<h2>Kuerzbefehler ewechgeholl</h2>"
 msgid "<h2>Accelerators added (just for your info)</h2>"
 msgstr "<h2>Kuerzbefehler dobäigemaach (nëmme fir bescheed ze soen)</h2>"
 
-#: kdeui/kernel/kapplication.cpp:811
+#: kdeui/kernel/kapplication.cpp:813
 #, fuzzy, kde-format
 #| msgid "The style %1 was not found\n"
 msgid "The style '%1' was not found"
@@ -11268,24 +11268,24 @@ msgstr ""
 "D'Tastekombinatioun \"%1\" ass scho mat der Aktioun \"%2\" verbonn. Wielt w."
 "e.g. eng eendaiteg Kombinatioun."
 
-#: kdeui/widgets/kkeysequencewidget.cpp:506
+#: kdeui/widgets/kkeysequencewidget.cpp:507
 #, fuzzy
 #| msgid "Shortcut"
 msgid "Reserved Shortcut"
 msgstr "Tastekombinatioun"
 
-#: kdeui/widgets/kkeysequencewidget.cpp:507
+#: kdeui/widgets/kkeysequencewidget.cpp:508
 msgid ""
 "The F12 key is reserved on Windows and it can't be used for a global "
 "shortcut.\n"
 "Please choose another one"
 msgstr ""
 
-#: kdeui/widgets/kkeysequencewidget.cpp:647
+#: kdeui/widgets/kkeysequencewidget.cpp:648
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Konflikt mat der Standardkombinatioun vum Programm"
 
-#: kdeui/widgets/kkeysequencewidget.cpp:648
+#: kdeui/widgets/kkeysequencewidget.cpp:649
 #, fuzzy, kde-format
 msgid ""
 "The '%1' key combination is also used for the standard action \"%2\" that "
@@ -11295,18 +11295,18 @@ msgstr ""
 "D'Tastekombinatioun \"%1\" ass scho mat der Standardaktioun \"%2\" verbonn.\n"
 "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
-#: kdeui/widgets/kkeysequencewidget.cpp:680
+#: kdeui/widgets/kkeysequencewidget.cpp:681
 #, fuzzy
 #| msgid "Input file"
 msgctxt "What the user inputs now will be taken as the new shortcut"
 msgid "Input"
 msgstr "Quelldatei"
 
-#: kdeui/widgets/kkeysequencewidget.cpp:730
+#: kdeui/widgets/kkeysequencewidget.cpp:731
 msgid "The key you just pressed is not supported by Qt."
 msgstr ""
 
-#: kdeui/widgets/kkeysequencewidget.cpp:731
+#: kdeui/widgets/kkeysequencewidget.cpp:732
 #, fuzzy
 #| msgid "Untrusted"
 msgid "Unsupported Key"
@@ -11454,24 +11454,24 @@ msgstr "Grouss (%1x%2)"
 msgid "Huge (%1x%2)"
 msgstr "Risëg (%1x%2)"
 
-#: kdeui/widgets/ktoolbar.cpp:365 kdeui/widgets/ktoolbar.cpp:1285
+#: kdeui/widgets/ktoolbar.cpp:365 kdeui/widgets/ktoolbar.cpp:1291
 #, fuzzy
 msgid "Unlock Toolbars"
 msgstr "Toolbaren"
 
-#: kdeui/widgets/ktoolbar.cpp:365 kdeui/widgets/ktoolbar.cpp:1285
+#: kdeui/widgets/ktoolbar.cpp:365 kdeui/widgets/ktoolbar.cpp:1291
 #, fuzzy
 msgid "Lock Toolbars"
 msgstr "Toolbaren"
 
-#: kdeui/widgets/ktoolbar.cpp:1198
+#: kdeui/widgets/ktoolbar.cpp:1204
 #, fuzzy, kde-format
 #| msgid "%1%"
 msgctxt "@action:intoolbar Text label of toolbar button"
 msgid "%1"
 msgstr "%1%"
 
-#: kdeui/widgets/ktoolbar.cpp:1199
+#: kdeui/widgets/ktoolbar.cpp:1205
 #, fuzzy, kde-format
 #| msgid "%1%"
 msgctxt "@info:tooltip Tooltip of toolbar button"
@@ -12965,7 +12965,7 @@ msgstr "Kierzelen"
 msgid "Create Web Shortcut"
 msgstr "Kierzel läschen"
 
-#: kinit/kinit.cpp:478
+#: kinit/kinit.cpp:506
 msgid ""
 "Unable to start new process.\n"
 "The system may have reached the maximum number of open files possible or the "
@@ -12975,7 +12975,7 @@ msgstr ""
 "Déi maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn oder déi vun "
 "iech agestallte maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn."
 
-#: kinit/kinit.cpp:497
+#: kinit/kinit.cpp:525
 msgid ""
 "Unable to create new process.\n"
 "The system may have reached the maximum number of processes possible or the "
@@ -12985,12 +12985,12 @@ msgstr ""
 "Déi maximal Unzuel vu Prozesser kéint erreecht sinn oder déi vun iech "
 "agestallte maximal Unzuel vu Prozesser kéint erreecht sinn."
 
-#: kinit/kinit.cpp:588
+#: kinit/kinit.cpp:617
 #, kde-format
 msgid "Could not find '%1' executable."
 msgstr "Konnt de Programm '%1' net fannen."
 
-#: kinit/kinit.cpp:606
+#: kinit/kinit.cpp:635
 #, kde-format
 msgid ""
 "Could not open library '%1'.\n"
@@ -12999,7 +12999,7 @@ msgstr ""
 "Konnt d'Bibliothéik '%1' net opmaachen.\n"
 "%2"
 
-#: kinit/kinit.cpp:652
+#: kinit/kinit.cpp:681
 #, kde-format
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
