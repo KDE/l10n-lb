@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-07-28 06:29+0200\n"
+"POT-Creation-Date: 2009-07-30 06:23+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -9500,19 +9500,19 @@ msgctxt "@action:button"
 msgid "&Finished"
 msgstr "&Fäerdeg"
 
-#: kdeui/sonnet/dialog.cpp:170
+#: kdeui/sonnet/dialog.cpp:164
 #, fuzzy
 #| msgid "Spell Checker"
 msgid "Spell check stopped."
 msgstr "Rechtschreifkontroll"
 
-#: kdeui/sonnet/dialog.cpp:178
+#: kdeui/sonnet/dialog.cpp:172
 #, fuzzy
 #| msgid "Spell Checker"
 msgid "Spell check canceled."
 msgstr "Rechtschreifkontroll"
 
-#: kdeui/sonnet/dialog.cpp:318
+#: kdeui/sonnet/dialog.cpp:324
 #, fuzzy
 #| msgid "Spell Checker"
 msgid "Spell check complete."
