@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-08-18 06:20+0200\n"
+"POT-Creation-Date: 2009-08-19 07:16+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -9470,21 +9470,21 @@ msgctxt "home page"
 msgid "&Home"
 msgstr "&Ufank"
 
-#: kdeui/actions/kstandardaction.cpp:512 kdeui/actions/kstandardaction_p.h:98
+#: kdeui/actions/kstandardaction.cpp:515 kdeui/actions/kstandardaction_p.h:98
 msgid "Show &Menubar"
 msgstr "&Menübar weisen"
 
-#: kdeui/actions/kstandardaction.cpp:518
+#: kdeui/actions/kstandardaction.cpp:521
 #, fuzzy
 #| msgid "Show Menubar<p>Shows the menubar again after it has been hidden"
 msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
 msgstr "Menübar weisen<p>Weist d'Menübar nees un, nodeems se verstoppt gi war"
 
-#: kdeui/actions/kstandardaction.cpp:535 kdeui/actions/kstandardaction_p.h:100
+#: kdeui/actions/kstandardaction.cpp:538 kdeui/actions/kstandardaction_p.h:100
 msgid "Show St&atusbar"
 msgstr "St&atusbar weisen"
 
-#: kdeui/actions/kstandardaction.cpp:538
+#: kdeui/actions/kstandardaction.cpp:541
 #, fuzzy
 #| msgid ""
 #| "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of "
