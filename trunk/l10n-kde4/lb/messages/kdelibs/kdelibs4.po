@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-08-27 07:08+0200\n"
+"POT-Creation-Date: 2009-08-29 07:16+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -9504,33 +9504,40 @@ msgstr ""
 msgid "Desktop %1"
 msgstr "Büro %1"
 
-#: kdeui/sonnet/dialog.cpp:77
+#: kdeui/sonnet/dialog.cpp:80 kdeui/sonnet/dialog.cpp:188
 #, fuzzy
 #| msgid "Check Spelling"
 msgctxt "@title:window"
 msgid "Check Spelling"
 msgstr "Rechtschreifkontroll"
 
-#: kdeui/sonnet/dialog.cpp:79
+#: kdeui/sonnet/dialog.cpp:82
 #, fuzzy
 #| msgid "&Finished"
 msgctxt "@action:button"
 msgid "&Finished"
 msgstr "&Fäerdeg"
 
-#: kdeui/sonnet/dialog.cpp:164
+#: kdeui/sonnet/dialog.cpp:189
+#, fuzzy
+#| msgid "Spell Checker"
+msgctxt "progress label"
+msgid "Spell checking in progress..."
+msgstr "Rechtschreifkontroll"
+
+#: kdeui/sonnet/dialog.cpp:210
 #, fuzzy
 #| msgid "Spell Checker"
 msgid "Spell check stopped."
 msgstr "Rechtschreifkontroll"
 
-#: kdeui/sonnet/dialog.cpp:172
+#: kdeui/sonnet/dialog.cpp:219
 #, fuzzy
 #| msgid "Spell Checker"
 msgid "Spell check canceled."
 msgstr "Rechtschreifkontroll"
 
-#: kdeui/sonnet/dialog.cpp:328
+#: kdeui/sonnet/dialog.cpp:393
 #, fuzzy
 #| msgid "Spell Checker"
 msgid "Spell check complete."
