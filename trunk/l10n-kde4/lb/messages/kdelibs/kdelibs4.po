@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-08-31 06:06+0200\n"
+"POT-Creation-Date: 2009-09-01 06:21+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -7323,7 +7323,7 @@ msgstr "Dëss Noricht net méi weisen"
 msgid "About %1"
 msgstr "Iwwer %1"
 
-#: kdeui/dialogs/kconfigdialog.cpp:69 kutils/kcmultidialog.cpp:123
+#: kdeui/dialogs/kconfigdialog.cpp:69 kutils/kcmultidialog.cpp:125
 msgid "Configure"
 msgstr "Configuréieren"
 
@@ -9628,6 +9628,16 @@ msgstr "Toolbaren"
 #| msgid "New hostname"
 msgid "without name"
 msgstr "Neien Numm fir den Host"
+
+#: kdeui/widgets/kcmodule.cpp:170
+msgid "You will be asked to authenticate before saving"
+msgstr ""
+
+#: kdeui/widgets/kcmodule.cpp:174
+#, fuzzy
+#| msgid "Could not create the new configuration file."
+msgid "You are not allowed to save the configuration"
+msgstr "Konnt déi nei Configuratiounsdatei net erstellen."
 
 #: kdeui/widgets/kactionselector.cpp:94
 msgid "&Available:"
@@ -12875,8 +12885,12 @@ msgid "Send Confirmation"
 msgstr "Bestätegung ofschécken"
 
 #: khtml/html/html_formimpl.cpp:440
-msgid "&Send Files"
-msgstr "Dateie &verschécken"
+#, fuzzy
+#| msgid "&Send Files"
+msgid "&Send File"
+msgid_plural "&Send Files"
+msgstr[0] "Dateie &verschécken"
+msgstr[1] "Dateie &verschécken"
 
 #: khtml/html/html_formimpl.cpp:2619
 #, fuzzy
@@ -13765,29 +13779,7 @@ msgstr ""
 msgid "Print Preview"
 msgstr "Drocker&virschau..."
 
-#: kutils/kcmoduleproxy.cpp:131
-#, fuzzy
-msgid ""
-"<b>Changes in this section require root access.</b><br />On applying your "
-"changes you will have to supply your root password."
-msgstr ""
-"<b>Verännerungen an dësem Beräich brauchen d'Rechter vum root.</b><br/"
-">Klickt op \"Administrator-Modus\" fir Ännerungen z'erlaben."
-
-#: kutils/kcmoduleproxy.cpp:138
-#, fuzzy
-msgid ""
-"This section requires special permissions, probably for system-wide changes; "
-"therefore, it is required that you provide the root password to be able to "
-"change the module's properties. If you cannot provide the password, the "
-"changes of the module cannot be saved "
-msgstr ""
-"Dëse Beräich verlaangt no besonnege Permissiounen, wahrscheinlech fir "
-"Verännerungen um ganze System. Dofir musst dir d'root-Passwuert agin, fir "
-"d'Eegeschafte vum Modul änneren ze kënnen. Wann dir dat Passwuert net agitt, "
-"gëtt de Modul ofgeschalt."
-
-#: kutils/kcmoduleproxy.cpp:159
+#: kutils/kcmoduleproxy.cpp:165
 #, kde-format
 msgctxt "Argument is application name"
 msgid "This configuration section is already opened in %1"
@@ -14827,6 +14819,26 @@ msgstr "&Rotschlag vum Dag"
 #, fuzzy, kde-format
 msgid "No such function \"%1\""
 msgstr "D'Entrée '%1' ass net am Menü."
+
+#, fuzzy
+#~ msgid ""
+#~ "<b>Changes in this section require root access.</b><br />On applying your "
+#~ "changes you will have to supply your root password."
+#~ msgstr ""
+#~ "<b>Verännerungen an dësem Beräich brauchen d'Rechter vum root.</b><br/"
+#~ ">Klickt op \"Administrator-Modus\" fir Ännerungen z'erlaben."
+
+#, fuzzy
+#~ msgid ""
+#~ "This section requires special permissions, probably for system-wide "
+#~ "changes; therefore, it is required that you provide the root password to "
+#~ "be able to change the module's properties. If you cannot provide the "
+#~ "password, the changes of the module cannot be saved "
+#~ msgstr ""
+#~ "Dëse Beräich verlaangt no besonnege Permissiounen, wahrscheinlech fir "
+#~ "Verännerungen um ganze System. Dofir musst dir d'root-Passwuert agin, fir "
+#~ "d'Eegeschafte vum Modul änneren ze kënnen. Wann dir dat Passwuert net "
+#~ "agitt, gëtt de Modul ofgeschalt."
 
 #~ msgid "&Abort"
 #~ msgstr "&Ofbriechen"
@@ -17938,9 +17950,6 @@ msgstr "D'Entrée '%1' ass net am Menü."
 #~ msgstr ""
 #~ "Konnt dem kab seng Configuratiounsvirlag-Datei net liesen.\n"
 #~ "De kab kann net configuréiert ginn."
-
-#~ msgid "Could not create the new configuration file."
-#~ msgstr "Konnt déi nei Configuratiounsdatei net erstellen."
 
 #~ msgid ""
 #~ "Cannot load kab's local configuration file.\n"

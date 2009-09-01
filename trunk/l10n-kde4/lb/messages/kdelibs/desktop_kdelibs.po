@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-08-18 05:08+0000\n"
+"POT-Creation-Date: 2009-09-01 05:10+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1126,6 +1126,19 @@ msgctxt "Comment"
 msgid "KDED Module"
 msgstr "KDED-Modul"
 
+#: kfile/kfilemodule.desktop:2
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "KDED Module"
+msgctxt "Name"
+msgid "KFileModule"
+msgstr "KDED-Modul"
+
+#: kfile/kfilemodule.desktop:3
+msgctxt "Comment"
+msgid "The default KDE file module providing the standard file dialog"
+msgstr ""
+
 #: khtml/java/kjavaappletviewer.desktop:2
 msgctxt "Name"
 msgid "Embedded Java Applet Viewer"
@@ -1313,6 +1326,19 @@ msgstr ""
 msgctxt "Comment"
 msgid "KDE Data Tool"
 msgstr "KDE-Donnéen-Hëllefsprogramm"
+
+#: kio/kfile/kiofilemodule.desktop:4
+msgctxt "Name"
+msgid "filemodule"
+msgstr ""
+
+#: kio/kfile/kiofilemodule.desktop:5
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "KDED Test Module"
+msgctxt "Comment"
+msgid "KIO File Module"
+msgstr "KDED-Testmodul"
 
 #: kio/kfile/kpropertiesdialogplugin.desktop:4
 msgctxt "Comment"
@@ -1678,10 +1704,6 @@ msgstr "HSpell"
 #~ msgctxt "Name"
 #~ msgid "KDE Multimedia Backend"
 #~ msgstr "Ogg-Multimedia"
-
-#~ msgctxt "Name"
-#~ msgid "KDED Test Module"
-#~ msgstr "KDED-Testmodul"
 
 #~ msgctxt "Comment"
 #~ msgid "A Test Module for KDED"
