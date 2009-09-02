@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-01 06:21+0200\n"
+"POT-Creation-Date: 2009-09-02 07:20+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -4658,7 +4658,7 @@ msgstr ""
 "Konnt d'Datei net späicheren\n"
 "\""
 
-#: kdecore/services/kmimetype.cpp:56
+#: kdecore/services/kmimetype.cpp:58
 #, fuzzy, kde-format
 msgid "Could not find mime type <resource>%2</resource>"
 msgid_plural ""
@@ -4667,7 +4667,7 @@ msgid_plural ""
 msgstr[0] "Konnt de Service '%1' net fannen."
 msgstr[1] "Konnt de Service '%1' net fannen."
 
-#: kdecore/services/kmimetype.cpp:124
+#: kdecore/services/kmimetype.cpp:126
 msgid ""
 "No mime types installed. Check that shared-mime-info is installed, and that "
 "XDG_DATA_DIRS is not set, or includes /usr/share."
@@ -7323,7 +7323,7 @@ msgstr "Dëss Noricht net méi weisen"
 msgid "About %1"
 msgstr "Iwwer %1"
 
-#: kdeui/dialogs/kconfigdialog.cpp:69 kutils/kcmultidialog.cpp:125
+#: kdeui/dialogs/kconfigdialog.cpp:69 kutils/kcmultidialog.cpp:141
 msgid "Configure"
 msgstr "Configuréieren"
 
