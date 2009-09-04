@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-03 07:27+0200\n"
+"POT-Creation-Date: 2009-09-04 06:41+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -11592,6 +11592,38 @@ msgstr "Lëscht mat Beispiller"
 msgid "Nothing to spell check."
 msgstr "Kee Provider gewielt."
 
+#: kdeui/notifications/ksystemtrayicon.cpp:156
+msgid "Minimize"
+msgstr "Kleng maachen"
+
+#: kdeui/notifications/ksystemtrayicon.cpp:215
+#: kdeui/notifications/knotificationitem.cpp:373
+#: kdeui/notifications/knotificationitem.cpp:793
+msgid "&Minimize"
+msgstr "&Grouss maachen"
+
+#: kdeui/notifications/ksystemtrayicon.cpp:219
+#: kdeui/notifications/knotificationitem.cpp:791
+msgid "&Restore"
+msgstr "Zeréck&setzen"
+
+#: kdeui/notifications/ksystemtrayicon.cpp:239
+#: kdeui/notifications/knotificationitem.cpp:801
+#, kde-format
+msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
+msgstr "<qt>Sidd dir sëcher, dass dir <b>%1</b> zoumaache wëllt ?</qt>"
+
+#: kdeui/notifications/ksystemtrayicon.cpp:242
+#: kdeui/notifications/knotificationitem.cpp:804
+msgid "Confirm Quit From System Tray"
+msgstr "Aus dem Systemberäich erausgoen"
+
+#: kdeui/notifications/knotificationrestrictions.cpp:179
+#, fuzzy
+#| msgid "Quit application"
+msgid "Unknown Application"
+msgstr "Programm zoumaachen"
+
 #: khtml/testkhtml.cpp:39
 #, fuzzy
 #| msgid "URL to open"
@@ -14792,26 +14824,6 @@ msgstr "&Rotschlag vum Dag"
 #, fuzzy, kde-format
 msgid "No such function \"%1\""
 msgstr "D'Entrée '%1' ass net am Menü."
-
-#~ msgid "Minimize"
-#~ msgstr "Kleng maachen"
-
-#~ msgid "&Minimize"
-#~ msgstr "&Grouss maachen"
-
-#~ msgid "&Restore"
-#~ msgstr "Zeréck&setzen"
-
-#~ msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
-#~ msgstr "<qt>Sidd dir sëcher, dass dir <b>%1</b> zoumaache wëllt ?</qt>"
-
-#~ msgid "Confirm Quit From System Tray"
-#~ msgstr "Aus dem Systemberäich erausgoen"
-
-#, fuzzy
-#~| msgid "Quit application"
-#~ msgid "Unknown Application"
-#~ msgstr "Programm zoumaachen"
 
 #, fuzzy
 #~ msgid ""
