@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-08-29 01:20+0200\n"
+"POT-Creation-Date: 2009-09-06 01:21+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -11788,71 +11788,9 @@ msgstr "S&til-Virlag benotzen"
 msgid "Enlarge Font"
 msgstr "Schrëft vergréisseren"
 
-#: khtml/khtml_part.cpp:404
-#, fuzzy
-#| msgid ""
-#| "Enlarge Font<p>Make the font in this window bigger. Click and hold down "
-#| "the mouse button for a menu with all available font sizes."
-msgid ""
-"Enlarge Font<br /><br />Make the font in this window bigger. Click and hold "
-"down the mouse button for a menu with all available font sizes."
-msgstr ""
-"Schrëft vergréisseren<p>D'Schrëft an dëser Fënster méi grouss maachen. "
-"Klickt op d'Maustast an haalt se un, fir e Menü mat all de méigleche "
-"Schrëftgréissten ze gesin."
-
 #: khtml/khtml_part.cpp:408
 msgid "Shrink Font"
 msgstr "Schrëft verklengeren"
-
-#: khtml/khtml_part.cpp:411
-#, fuzzy
-#| msgid ""
-#| "Shrink Font<p>Make the font in this window smaller. Click and hold down "
-#| "the mouse button for a menu with all available font sizes."
-msgid ""
-"Shrink Font<br /><br />Make the font in this window smaller. Click and hold "
-"down the mouse button for a menu with all available font sizes."
-msgstr ""
-"Schrëft verklengeren<p>D'Schrëft an dëser Fënster méi kleng maachen. Klickt "
-"op d'Maustast an haalt se un, fir e Menü mat all de méigleche "
-"Schrëftgréissten ze gesin."
-
-#: khtml/khtml_part.cpp:429
-#, fuzzy
-#| msgid ""
-#| "Find text<p>Shows a dialog that allows you to find text on the displayed "
-#| "page."
-msgid ""
-"Find text<br /><br />Shows a dialog that allows you to find text on the "
-"displayed page."
-msgstr ""
-"Text sichen<p>Mëcht ën Dialog op, fir op der ugewisener Säit no Text ze "
-"sichen."
-
-#: khtml/khtml_part.cpp:434
-#, fuzzy
-#| msgid ""
-#| "Find next<p>Find the next occurrence of the text that you have found "
-#| "using the <b>Find Text</b> function"
-msgid ""
-"Find next<br /><br />Find the next occurrence of the text that you have "
-"found using the <b>Find Text</b> function"
-msgstr ""
-"Weidersichen<p>Sicht nom nächsten Optriede vum Text, deen dir mat der "
-"Funktioun <b>Text sichen</b> fonnt hutt"
-
-#: khtml/khtml_part.cpp:440
-#, fuzzy
-#| msgid ""
-#| "Find previous<p>Find the previous occurrence of the text that you have "
-#| "found using the <b>Find Text</b> function"
-msgid ""
-"Find previous<br /><br />Find the previous occurrence of the text that you "
-"have found using the <b>Find Text</b> function"
-msgstr ""
-"Virdru sichen<p>Sicht weider vir no engem Optriede vum Text, deen dir mat "
-"der Funktioun <b>Text sichen</b> fonnt hutt"
 
 #: khtml/khtml_part.cpp:444
 msgid "Find Text as You Type"
@@ -11861,18 +11799,6 @@ msgstr "Text beim antippen ergänzen"
 #: khtml/khtml_part.cpp:449
 msgid "Find Links as You Type"
 msgstr "Linke beim antippen ergänzen"
-
-#: khtml/khtml_part.cpp:470
-#, fuzzy
-#| msgid ""
-#| "Print Frame<p>Some pages have several frames. To print only a single "
-#| "frame, click on it and then use this function."
-msgid ""
-"Print Frame<br /><br />Some pages have several frames. To print only a "
-"single frame, click on it and then use this function."
-msgstr ""
-"Frame drécken<p>Verschidde Säiten hu méi wéi ee Frame. Fir just een eenzege "
-"Frame ze drécken, wielt ën aus a klickt dann op dës Funktioun."
 
 #: khtml/khtml_part.cpp:485
 msgid "Toggle Caret Mode"
@@ -14461,6 +14387,74 @@ msgstr "&Rotschlag vum Dag"
 #, fuzzy, kde-format
 msgid "No such function \"%1\""
 msgstr "D'Entrée '%1' ass net am Menü."
+
+#, fuzzy
+#~| msgid ""
+#~| "Enlarge Font<p>Make the font in this window bigger. Click and hold down "
+#~| "the mouse button for a menu with all available font sizes."
+#~ msgid ""
+#~ "Enlarge Font<br /><br />Make the font in this window bigger. Click and "
+#~ "hold down the mouse button for a menu with all available font sizes."
+#~ msgstr ""
+#~ "Schrëft vergréisseren<p>D'Schrëft an dëser Fënster méi grouss maachen. "
+#~ "Klickt op d'Maustast an haalt se un, fir e Menü mat all de méigleche "
+#~ "Schrëftgréissten ze gesin."
+
+#, fuzzy
+#~| msgid ""
+#~| "Shrink Font<p>Make the font in this window smaller. Click and hold down "
+#~| "the mouse button for a menu with all available font sizes."
+#~ msgid ""
+#~ "Shrink Font<br /><br />Make the font in this window smaller. Click and "
+#~ "hold down the mouse button for a menu with all available font sizes."
+#~ msgstr ""
+#~ "Schrëft verklengeren<p>D'Schrëft an dëser Fënster méi kleng maachen. "
+#~ "Klickt op d'Maustast an haalt se un, fir e Menü mat all de méigleche "
+#~ "Schrëftgréissten ze gesin."
+
+#, fuzzy
+#~| msgid ""
+#~| "Find text<p>Shows a dialog that allows you to find text on the displayed "
+#~| "page."
+#~ msgid ""
+#~ "Find text<br /><br />Shows a dialog that allows you to find text on the "
+#~ "displayed page."
+#~ msgstr ""
+#~ "Text sichen<p>Mëcht ën Dialog op, fir op der ugewisener Säit no Text ze "
+#~ "sichen."
+
+#, fuzzy
+#~| msgid ""
+#~| "Find next<p>Find the next occurrence of the text that you have found "
+#~| "using the <b>Find Text</b> function"
+#~ msgid ""
+#~ "Find next<br /><br />Find the next occurrence of the text that you have "
+#~ "found using the <b>Find Text</b> function"
+#~ msgstr ""
+#~ "Weidersichen<p>Sicht nom nächsten Optriede vum Text, deen dir mat der "
+#~ "Funktioun <b>Text sichen</b> fonnt hutt"
+
+#, fuzzy
+#~| msgid ""
+#~| "Find previous<p>Find the previous occurrence of the text that you have "
+#~| "found using the <b>Find Text</b> function"
+#~ msgid ""
+#~ "Find previous<br /><br />Find the previous occurrence of the text that "
+#~ "you have found using the <b>Find Text</b> function"
+#~ msgstr ""
+#~ "Virdru sichen<p>Sicht weider vir no engem Optriede vum Text, deen dir mat "
+#~ "der Funktioun <b>Text sichen</b> fonnt hutt"
+
+#, fuzzy
+#~| msgid ""
+#~| "Print Frame<p>Some pages have several frames. To print only a single "
+#~| "frame, click on it and then use this function."
+#~ msgid ""
+#~ "Print Frame<br /><br />Some pages have several frames. To print only a "
+#~ "single frame, click on it and then use this function."
+#~ msgstr ""
+#~ "Frame drécken<p>Verschidde Säiten hu méi wéi ee Frame. Fir just een "
+#~ "eenzege Frame ze drécken, wielt ën aus a klickt dann op dës Funktioun."
 
 #, fuzzy
 #~| msgctxt "QAccel"
