@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-08 05:57+0200\n"
+"POT-Creation-Date: 2009-09-10 06:17+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -7300,7 +7300,7 @@ msgstr "Iwwer %1"
 msgid "Configure"
 msgstr "Configuréieren"
 
-#: kdeui/dialogs/kshortcutseditoritem.cpp:44
+#: kdeui/dialogs/kshortcutseditoritem.cpp:45
 #, fuzzy, kde-format
 #| msgid "%1%"
 msgctxt "@item:intable Action name in shortcuts configuration"
