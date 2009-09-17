@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-16 06:57+0200\n"
+"POT-Creation-Date: 2009-09-17 06:21+0200\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -950,7 +950,7 @@ msgstr ""
 msgid "File Changed on Disk"
 msgstr "Datei gouf um Dateisystem geännert"
 
-#: dialogs/katedialogs.cpp:1415 document/katedocument.cpp:3878
+#: dialogs/katedialogs.cpp:1415 document/katedocument.cpp:3879
 msgid "&Reload File"
 msgstr "Datei nei l&ueden"
 
@@ -973,7 +973,7 @@ msgid ""
 "will be prompted again."
 msgstr ""
 
-#: dialogs/katedialogs.cpp:1437 document/katedocument.cpp:3877
+#: dialogs/katedialogs.cpp:1437 document/katedocument.cpp:3878
 msgid "What do you want to do?"
 msgstr "Wat wëllt dir maachen ?"
 
@@ -1187,7 +1187,7 @@ msgstr "Zeil: %1"
 msgid " BLOCK "
 msgstr "BLK"
 
-#: tests/katetest.cpp:650 document/katedocument.cpp:3767
+#: tests/katetest.cpp:650 document/katedocument.cpp:3768
 #, fuzzy
 msgid "Untitled"
 msgstr "Onbegrenzt"
@@ -1785,42 +1785,42 @@ msgstr "Ervirhiewen fir LaTeX"
 msgid "Configure"
 msgstr "Configuréieren..."
 
-#: utils/kateglobal.cpp:352 utils/kateglobal.cpp:378
+#: utils/kateglobal.cpp:353 utils/kateglobal.cpp:379
 #, fuzzy
 msgid "Appearance"
 msgstr "Grouss geschriwen"
 
-#: utils/kateglobal.cpp:355
+#: utils/kateglobal.cpp:356
 msgid "Fonts & Colors"
 msgstr "Schrëften & Faarwen"
 
-#: utils/kateglobal.cpp:358
+#: utils/kateglobal.cpp:359
 msgid "Editing"
 msgstr "Veränneren"
 
-#: utils/kateglobal.cpp:361
+#: utils/kateglobal.cpp:362
 msgid "Open/Save"
 msgstr "Opmaachen/Späicheren"
 
-#: utils/kateglobal.cpp:364
+#: utils/kateglobal.cpp:365
 #, fuzzy
 #| msgid "File e&xtensions:"
 msgid "Extensions"
 msgstr "Datei-E&xtensiounen:"
 
-#: utils/kateglobal.cpp:381
+#: utils/kateglobal.cpp:382
 msgid "Font & Color Schemas"
 msgstr "Schrëft- & Faarfschemas"
 
-#: utils/kateglobal.cpp:384
+#: utils/kateglobal.cpp:385
 msgid "Editing Options"
 msgstr ""
 
-#: utils/kateglobal.cpp:387
+#: utils/kateglobal.cpp:388
 msgid "File Opening & Saving"
 msgstr ""
 
-#: utils/kateglobal.cpp:390
+#: utils/kateglobal.cpp:391
 #, fuzzy
 #| msgid "Plugin Manager"
 msgid "Extensions Manager"
@@ -5904,19 +5904,19 @@ msgstr "&Ignoréieren"
 msgid "Add to Dictionary"
 msgstr "&Sektioun:"
 
-#: spellcheck/spellcheckdialog.cpp:65
+#: spellcheck/spellcheckdialog.cpp:69
 msgid "Spelling (from cursor)..."
 msgstr ""
 
-#: spellcheck/spellcheckdialog.cpp:68
+#: spellcheck/spellcheckdialog.cpp:72
 msgid "Check the document's spelling from the cursor and forward"
 msgstr ""
 
-#: spellcheck/spellcheckdialog.cpp:71
+#: spellcheck/spellcheckdialog.cpp:75
 msgid "Spellcheck Selection..."
 msgstr ""
 
-#: spellcheck/spellcheckdialog.cpp:74
+#: spellcheck/spellcheckdialog.cpp:78
 msgid "Check spelling of the selected text"
 msgstr ""
 
@@ -6042,45 +6042,45 @@ msgctxt "Syntax highlighting"
 msgid "None"
 msgstr "Keen"
 
-#: syntax/katehighlight.cpp:659
+#: syntax/katehighlight.cpp:686
 msgid "Normal Text"
 msgstr "Normalen Text"
 
-#: syntax/katehighlight.cpp:810
+#: syntax/katehighlight.cpp:837
 #, kde-format
 msgid ""
 "<b>%1</b>: Deprecated syntax. Attribute (%2) not addressed by symbolic "
 "name<br />"
 msgstr ""
 
-#: syntax/katehighlight.cpp:1223
+#: syntax/katehighlight.cpp:1306
 #, kde-format
 msgid "<b>%1</b>: Deprecated syntax. Context %2 has no symbolic name<br />"
 msgstr ""
 
-#: syntax/katehighlight.cpp:1303
+#: syntax/katehighlight.cpp:1386
 #, kde-format
 msgid ""
 "<B>%1</B>:Deprecated syntax. Context %2 not addressed by a symbolic name"
 msgstr ""
 
-#: syntax/katehighlight.cpp:1421
+#: syntax/katehighlight.cpp:1504
 msgid ""
 "There were warning(s) and/or error(s) while parsing the syntax highlighting "
 "configuration."
 msgstr ""
 
-#: syntax/katehighlight.cpp:1423
+#: syntax/katehighlight.cpp:1506
 msgid "Kate Syntax Highlighting Parser"
 msgstr "Kate-Syntax-Ervirhiewungsanalyséierer"
 
-#: syntax/katehighlight.cpp:1573
+#: syntax/katehighlight.cpp:1656
 msgid ""
 "Since there has been an error parsing the highlighting description, this "
 "highlighting will be disabled"
 msgstr ""
 
-#: syntax/katehighlight.cpp:1777
+#: syntax/katehighlight.cpp:1862
 #, kde-format
 msgid ""
 "<b>%1</b>: Specified multiline comment region (%2) could not be resolved<br /"
@@ -6098,23 +6098,23 @@ msgstr ""
 msgid "Mark not set: %1"
 msgstr "Markéierungstyp %1"
 
-#: document/katedocument.cpp:132
+#: document/katedocument.cpp:133
 #, kde-format
 msgid ""
 "The filter/check plugin '%1' could not be found, still continue saving of %2"
 msgstr ""
 
-#: document/katedocument.cpp:133
+#: document/katedocument.cpp:134
 msgid "Saving problems"
 msgstr ""
 
-#: document/katedocument.cpp:134 document/katedocument.cpp:2118
-#: document/katedocument.cpp:2132 document/katedocument.cpp:2138
-#: document/katedocument.cpp:2149
+#: document/katedocument.cpp:135 document/katedocument.cpp:2119
+#: document/katedocument.cpp:2133 document/katedocument.cpp:2139
+#: document/katedocument.cpp:2150
 msgid "Save Nevertheless"
 msgstr "Trozdem späicheren"
 
-#: document/katedocument.cpp:2058 document/katedocument.cpp:2063
+#: document/katedocument.cpp:2059 document/katedocument.cpp:2064
 #, kde-format
 msgid ""
 "The file %1 could not be loaded, as it was not possible to read from it.\n"
@@ -6122,17 +6122,17 @@ msgid ""
 "Check if you have read access to this file."
 msgstr ""
 
-#: document/katedocument.cpp:2074 document/katedocument.cpp:2079
-#: document/katedocument.cpp:2116
+#: document/katedocument.cpp:2075 document/katedocument.cpp:2080
+#: document/katedocument.cpp:2117
 #, kde-format
 msgid "The file %1 is a binary, saving it will result in a corrupt file."
 msgstr ""
 
-#: document/katedocument.cpp:2075
+#: document/katedocument.cpp:2076
 msgid "Binary File Opened"
 msgstr "Binär Datei opgemat"
 
-#: document/katedocument.cpp:2091 document/katedocument.cpp:2097
+#: document/katedocument.cpp:2092 document/katedocument.cpp:2098
 #, kde-format
 msgid ""
 "The file %1 was opened with UTF-8 encoding but contained invalid characters. "
@@ -6141,43 +6141,43 @@ msgid ""
 "mode again in the menu to be able to edit it."
 msgstr ""
 
-#: document/katedocument.cpp:2094
+#: document/katedocument.cpp:2095
 #, fuzzy
 msgid "Broken UTF-8 File Opened"
 msgstr "Binär Datei opgemat"
 
-#: document/katedocument.cpp:2117
+#: document/katedocument.cpp:2118
 msgid "Trying to Save Binary File"
 msgstr "Versichen eng binär Datei ze späicheren"
 
-#: document/katedocument.cpp:2132
+#: document/katedocument.cpp:2133
 msgid ""
 "Do you really want to save this unmodified file? You could overwrite changed "
 "data in the file on disk."
 msgstr ""
 
-#: document/katedocument.cpp:2132
+#: document/katedocument.cpp:2133
 msgid "Trying to Save Unmodified File"
 msgstr "Versichen eng onverännert Datei ze späicheren"
 
-#: document/katedocument.cpp:2138
+#: document/katedocument.cpp:2139
 msgid ""
 "Do you really want to save this file? Both your open file and the file on "
 "disk were changed. There could be some data lost."
 msgstr ""
 
-#: document/katedocument.cpp:2138 document/katedocument.cpp:2149
-#: document/katedocument.cpp:2394
+#: document/katedocument.cpp:2139 document/katedocument.cpp:2150
+#: document/katedocument.cpp:2395
 msgid "Possible Data Loss"
 msgstr "Méigleche Verloscht vu Donnéen"
 
-#: document/katedocument.cpp:2149
+#: document/katedocument.cpp:2150
 msgid ""
 "The selected encoding cannot encode every unicode character in this "
 "document. Do you really want to save it? There could be some data lost."
 msgstr ""
 
-#: document/katedocument.cpp:2213
+#: document/katedocument.cpp:2214
 #, kde-format
 msgid ""
 "For file %1 no backup copy could be created before saving. If an error "
@@ -6186,16 +6186,16 @@ msgid ""
 "only for you."
 msgstr ""
 
-#: document/katedocument.cpp:2216
+#: document/katedocument.cpp:2217
 msgid "Failed to create backup copy."
 msgstr ""
 
-#: document/katedocument.cpp:2217
+#: document/katedocument.cpp:2218
 #, fuzzy
 msgid "Try to Save Nevertheless"
 msgstr "Trozdem späicheren"
 
-#: document/katedocument.cpp:2251
+#: document/katedocument.cpp:2252
 #, kde-format
 msgid ""
 "The document could not be saved, as it was not possible to write to %1.\n"
@@ -6204,47 +6204,47 @@ msgid ""
 "available."
 msgstr ""
 
-#: document/katedocument.cpp:2393
+#: document/katedocument.cpp:2394
 msgid "Do you really want to continue to close this file? Data loss may occur."
 msgstr ""
 
-#: document/katedocument.cpp:2394
+#: document/katedocument.cpp:2395
 msgid "Close Nevertheless"
 msgstr "Trozdem zoumaachen"
 
-#: document/katedocument.cpp:3799 document/katedocument.cpp:3968
-#: document/katedocument.cpp:4587
+#: document/katedocument.cpp:3800 document/katedocument.cpp:3972
+#: document/katedocument.cpp:4591
 msgid "Save File"
 msgstr "Datei späicheren"
 
-#: document/katedocument.cpp:3808
+#: document/katedocument.cpp:3809
 msgid "Save failed"
 msgstr "Späicheren ass feelgeschloen"
 
-#: document/katedocument.cpp:3878
+#: document/katedocument.cpp:3879
 msgid "File Was Changed on Disk"
 msgstr "Datei gouf um Dateisystem verännert"
 
-#: document/katedocument.cpp:3878
+#: document/katedocument.cpp:3879
 msgid "&Ignore Changes"
 msgstr "Ännerungen &ignoréieren"
 
-#: document/katedocument.cpp:4489
+#: document/katedocument.cpp:4493
 #, kde-format
 msgid "The file '%1' was modified by another program."
 msgstr "D'Datei '%1' gouf vun engem anere Programm verännert."
 
-#: document/katedocument.cpp:4492
+#: document/katedocument.cpp:4496
 #, kde-format
 msgid "The file '%1' was created by another program."
 msgstr "D'Datei '%1' gouf vun engem anere Programm erstallt."
 
-#: document/katedocument.cpp:4495
+#: document/katedocument.cpp:4499
 #, kde-format
 msgid "The file '%1' was deleted by another program."
 msgstr "D'Datei '%1' gouf vun engem anere Programm geläscht."
 
-#: document/katedocument.cpp:4615
+#: document/katedocument.cpp:4619
 #, kde-format
 msgid ""
 "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
@@ -6252,18 +6252,18 @@ msgstr ""
 "Eng Datei mam Numm \"%1\" gëtt et schonns. Sidd dir sëcher, dass dir se "
 "iwwerschreiwe wëllt ?"
 
-#: document/katedocument.cpp:4617
+#: document/katedocument.cpp:4621
 msgid "Overwrite File?"
 msgstr "Datei iwwerschreiwen ?"
 
-#: document/katedocument.cpp:4985
+#: document/katedocument.cpp:4989
 #, kde-format
 msgid ""
 "The document \"%1\" has been modified.\n"
 "Do you want to save your changes or discard them?"
 msgstr ""
 
-#: document/katedocument.cpp:4987
+#: document/katedocument.cpp:4991
 msgid "Close Document"
 msgstr ""
 
