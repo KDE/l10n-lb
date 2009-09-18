@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-17 06:20+0200\n"
+"POT-Creation-Date: 2009-09-18 06:12+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -8775,11 +8775,12 @@ msgstr "Vun hanne weidersichen?"
 msgid "Continue from the beginning?"
 msgstr "Um Ufank weidersichen?"
 
-#: kdeui/itemviews/kfilterproxysearchline.cpp:72
-#: kdeui/itemviews/ktreewidgetsearchline.cpp:605
-#: kde3support/kdeui/k3listviewsearchline.cpp:557
-msgid "S&earch:"
-msgstr "Siche&n:"
+#: kdeui/itemviews/kfilterproxysearchline.cpp:73
+#, fuzzy
+#| msgctxt "QAccel"
+#| msgid "Search"
+msgid "Search"
+msgstr "Sichen"
 
 #: kdeui/itemviews/ktreewidgetsearchline.cpp:424
 #: kde3support/kdeui/k3listviewsearchline.cpp:287
@@ -8790,6 +8791,11 @@ msgstr "Kolonnen duerchsichen"
 #: kde3support/kdeui/k3listviewsearchline.cpp:290
 msgid "All Visible Columns"
 msgstr "All siichtbar Kolonnen"
+
+#: kdeui/itemviews/ktreewidgetsearchline.cpp:605
+#: kde3support/kdeui/k3listviewsearchline.cpp:557
+msgid "S&earch:"
+msgstr "Siche&n:"
 
 #: kdeui/shortcuts/kglobalaccel.cpp:494
 msgid "Conflict with Global Shortcut"
@@ -15167,12 +15173,6 @@ msgstr "D'Entrée '%1' ass net am Menü."
 #~ msgctxt "@action"
 #~ msgid "AboutKDE"
 #~ msgstr "Iwwer &KDE"
-
-#, fuzzy
-#~| msgctxt "QAccel"
-#~| msgid "Search"
-#~ msgid "Search"
-#~ msgstr "Sichen"
 
 #~ msgid "English"
 #~ msgstr "Englësch"
