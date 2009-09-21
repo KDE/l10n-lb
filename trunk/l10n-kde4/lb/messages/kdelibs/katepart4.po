@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-19 06:01+0200\n"
+"POT-Creation-Date: 2009-09-21 05:57+0200\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -4151,7 +4151,7 @@ msgstr "Op Grouss-/Klengschreiwung oppassen"
 
 #. i18n: file: search/searchbarpower.ui:248
 #. i18n: ectx: property (text), widget (QCheckBox, matchCase)
-#: rc.cpp:843 search/katesearchbar.cpp:1833
+#: rc.cpp:843 search/katesearchbar.cpp:1838
 msgid "&Match case"
 msgstr ""
 
@@ -5718,7 +5718,13 @@ msgstr ""
 msgid "Unable to read file: '%1'"
 msgstr "Kann %1 net opmaachen"
 
-#: script/katescript.cpp:197
+#: script/katescript.cpp:210
+#, fuzzy, kde-format
+#| msgid "Error: %1"
+msgid "Error loading script %1\n"
+msgstr "Feeler: %1"
+
+#: script/katescript.cpp:211
 #, kde-format
 msgid "Error loading script %1"
 msgstr ""
@@ -5732,170 +5738,170 @@ msgstr "Kommando gouf net fonnt"
 msgid "Add..."
 msgstr ""
 
-#: search/katesearchbar.cpp:295
+#: search/katesearchbar.cpp:296
 msgid "Reached bottom, continued from top"
 msgstr ""
 
-#: search/katesearchbar.cpp:317
+#: search/katesearchbar.cpp:318
 msgid "Not found"
 msgstr ""
 
-#: search/katesearchbar.cpp:1345
+#: search/katesearchbar.cpp:1346
 #, fuzzy
 #| msgid "Beginning of document reached."
 msgid "Beginning of line"
 msgstr "Ufank vum Dokument erreecht."
 
-#: search/katesearchbar.cpp:1346
+#: search/katesearchbar.cpp:1347
 #, fuzzy
 #| msgid "End &of line:"
 msgid "End of line"
 msgstr "Enn &vun den Zeilen:"
 
-#: search/katesearchbar.cpp:1348
+#: search/katesearchbar.cpp:1349
 msgid "Any single character (excluding line breaks)"
 msgstr ""
 
-#: search/katesearchbar.cpp:1350
+#: search/katesearchbar.cpp:1351
 msgid "One or more occurrences"
 msgstr ""
 
-#: search/katesearchbar.cpp:1351
+#: search/katesearchbar.cpp:1352
 msgid "Zero or more occurrences"
 msgstr ""
 
-#: search/katesearchbar.cpp:1352
+#: search/katesearchbar.cpp:1353
 msgid "Zero or one occurrences"
 msgstr ""
 
-#: search/katesearchbar.cpp:1353
+#: search/katesearchbar.cpp:1354
 msgid "<a> through <b> occurrences"
 msgstr ""
 
-#: search/katesearchbar.cpp:1355
+#: search/katesearchbar.cpp:1356
 msgid "Group, capturing"
 msgstr ""
 
-#: search/katesearchbar.cpp:1356
+#: search/katesearchbar.cpp:1357
 msgid "Or"
 msgstr ""
 
-#: search/katesearchbar.cpp:1357
+#: search/katesearchbar.cpp:1358
 #, fuzzy
 #| msgid "Character"
 msgid "Set of characters"
 msgstr "Zeechen"
 
-#: search/katesearchbar.cpp:1358
+#: search/katesearchbar.cpp:1359
 msgid "Negative set of characters"
 msgstr ""
 
-#: search/katesearchbar.cpp:1362
+#: search/katesearchbar.cpp:1363
 msgid "Whole match reference"
 msgstr ""
 
-#: search/katesearchbar.cpp:1375
+#: search/katesearchbar.cpp:1376
 #, fuzzy
 #| msgid "&View Difference"
 msgid "Reference"
 msgstr "Differenzen u&weisen"
 
-#: search/katesearchbar.cpp:1382
+#: search/katesearchbar.cpp:1383
 #, fuzzy
 #| msgid "Line numbers:"
 msgid "Line break"
 msgstr "Zeilennummeren:"
 
-#: search/katesearchbar.cpp:1383
+#: search/katesearchbar.cpp:1384
 msgid "Tab"
 msgstr ""
 
-#: search/katesearchbar.cpp:1386
+#: search/katesearchbar.cpp:1387
 msgid "Word boundary"
 msgstr ""
 
-#: search/katesearchbar.cpp:1387
+#: search/katesearchbar.cpp:1388
 msgid "Not word boundary"
 msgstr ""
 
-#: search/katesearchbar.cpp:1388
+#: search/katesearchbar.cpp:1389
 msgid "Digit"
 msgstr ""
 
-#: search/katesearchbar.cpp:1389
+#: search/katesearchbar.cpp:1390
 msgid "Non-digit"
 msgstr ""
 
-#: search/katesearchbar.cpp:1390
+#: search/katesearchbar.cpp:1391
 msgid "Whitespace (excluding line breaks)"
 msgstr ""
 
-#: search/katesearchbar.cpp:1391
+#: search/katesearchbar.cpp:1392
 msgid "Non-whitespace (excluding line breaks)"
 msgstr ""
 
-#: search/katesearchbar.cpp:1392
+#: search/katesearchbar.cpp:1393
 msgid "Word character (alphanumerics plus '_')"
 msgstr ""
 
-#: search/katesearchbar.cpp:1393
+#: search/katesearchbar.cpp:1394
 #, fuzzy
 #| msgid "Character"
 msgid "Non-word character"
 msgstr "Zeechen"
 
-#: search/katesearchbar.cpp:1396
+#: search/katesearchbar.cpp:1397
 msgid "Octal character 000 to 377 (2^8-1)"
 msgstr ""
 
-#: search/katesearchbar.cpp:1397
+#: search/katesearchbar.cpp:1398
 msgid "Hex character 0000 to FFFF (2^16-1)"
 msgstr ""
 
-#: search/katesearchbar.cpp:1398
+#: search/katesearchbar.cpp:1399
 #, fuzzy
 #| msgid "Backspace"
 msgid "Backslash"
 msgstr "Ewechmaachen"
 
-#: search/katesearchbar.cpp:1402
+#: search/katesearchbar.cpp:1403
 msgid "Group, non-capturing"
 msgstr ""
 
-#: search/katesearchbar.cpp:1403
+#: search/katesearchbar.cpp:1404
 msgid "Lookahead"
 msgstr ""
 
-#: search/katesearchbar.cpp:1404
+#: search/katesearchbar.cpp:1405
 msgid "Negative lookahead"
 msgstr ""
 
-#: search/katesearchbar.cpp:1409
+#: search/katesearchbar.cpp:1410
 msgid "Begin lowercase conversion"
 msgstr ""
 
-#: search/katesearchbar.cpp:1410
+#: search/katesearchbar.cpp:1411
 msgid "Begin uppercase conversion"
 msgstr ""
 
-#: search/katesearchbar.cpp:1411
+#: search/katesearchbar.cpp:1412
 msgid "End case conversion"
 msgstr ""
 
-#: search/katesearchbar.cpp:1412
+#: search/katesearchbar.cpp:1413
 msgid "Replacement counter (for Replace All)"
 msgstr ""
 
-#: search/katesearchbar.cpp:1659 search/katesearchbar.cpp:1829
+#: search/katesearchbar.cpp:1662 search/katesearchbar.cpp:1834
 msgid "From &cursor"
 msgstr ""
 
-#: search/katesearchbar.cpp:1661 search/katesearchbar.cpp:1831
+#: search/katesearchbar.cpp:1664 search/katesearchbar.cpp:1836
 #, fuzzy
 msgid "Hi&ghlight all"
 msgstr "Ervir&hiewung"
 
-#: search/katesearchbar.cpp:1663
+#: search/katesearchbar.cpp:1666
 #, fuzzy
 msgid "Selection &only"
 msgstr "Auswielmodus"
