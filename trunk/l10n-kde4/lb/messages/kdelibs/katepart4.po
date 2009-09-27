@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-09-26 06:10+0200\n"
+"POT-Creation-Date: 2009-09-27 06:12+0200\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -543,12 +543,12 @@ msgstr ""
 
 #: view/kateview.cpp:615
 #, fuzzy
-#| msgid "Spellcheck"
-msgid "On-The-Fly Spellcheck"
-msgstr "Rechtschreifkontroll"
+#| msgid "&Automatic end of line detection"
+msgid "Automatic Spell Checking"
+msgstr "&Automatesch Erkennung vum Zeilenenn"
 
 #: view/kateview.cpp:616
-msgid "Enable/disable on-the-fly spell checking"
+msgid "Enable/disable automatic spell checking"
 msgstr ""
 
 #: view/kateview.cpp:622
@@ -6236,7 +6236,7 @@ msgid "Close Nevertheless"
 msgstr "Trozdem zoumaachen"
 
 #: document/katedocument.cpp:3808 document/katedocument.cpp:3980
-#: document/katedocument.cpp:4599
+#: document/katedocument.cpp:4603
 msgid "Save File"
 msgstr "Datei späicheren"
 
@@ -6252,22 +6252,22 @@ msgstr "Datei gouf um Dateisystem verännert"
 msgid "&Ignore Changes"
 msgstr "Ännerungen &ignoréieren"
 
-#: document/katedocument.cpp:4501
+#: document/katedocument.cpp:4505
 #, kde-format
 msgid "The file '%1' was modified by another program."
 msgstr "D'Datei '%1' gouf vun engem anere Programm verännert."
 
-#: document/katedocument.cpp:4504
+#: document/katedocument.cpp:4508
 #, kde-format
 msgid "The file '%1' was created by another program."
 msgstr "D'Datei '%1' gouf vun engem anere Programm erstallt."
 
-#: document/katedocument.cpp:4507
+#: document/katedocument.cpp:4511
 #, kde-format
 msgid "The file '%1' was deleted by another program."
 msgstr "D'Datei '%1' gouf vun engem anere Programm geläscht."
 
-#: document/katedocument.cpp:4627
+#: document/katedocument.cpp:4631
 #, kde-format
 msgid ""
 "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
@@ -6275,20 +6275,25 @@ msgstr ""
 "Eng Datei mam Numm \"%1\" gëtt et schonns. Sidd dir sëcher, dass dir se "
 "iwwerschreiwe wëllt ?"
 
-#: document/katedocument.cpp:4629
+#: document/katedocument.cpp:4633
 msgid "Overwrite File?"
 msgstr "Datei iwwerschreiwen ?"
 
-#: document/katedocument.cpp:4997
+#: document/katedocument.cpp:5001
 #, kde-format
 msgid ""
 "The document \"%1\" has been modified.\n"
 "Do you want to save your changes or discard them?"
 msgstr ""
 
-#: document/katedocument.cpp:4999
+#: document/katedocument.cpp:5003
 msgid "Close Document"
 msgstr ""
+
+#, fuzzy
+#~| msgid "Spellcheck"
+#~ msgid "On-The-Fly Spellcheck"
+#~ msgstr "Rechtschreifkontroll"
 
 #~ msgid "Success"
 #~ msgstr "Erfolleg"
