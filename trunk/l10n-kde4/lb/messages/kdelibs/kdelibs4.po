@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-10-07 07:02+0200\n"
+"POT-Creation-Date: 2009-10-08 06:06+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -6522,7 +6522,7 @@ msgid_plural "%2% of %1 files"
 msgstr[0] "Nei Datei."
 msgstr[1] "Nei Datei."
 
-#: kdeui/jobs/kwidgetjobtracker.cpp:375 khtml/khtml_ext.cpp:1087
+#: kdeui/jobs/kwidgetjobtracker.cpp:375 khtml/khtml_ext.cpp:1083
 #, no-c-format, kde-format
 msgid "%1%"
 msgstr "%1%"
@@ -11841,135 +11841,135 @@ msgstr ""
 msgid "Tobias Anton"
 msgstr ""
 
-#: khtml/khtml_ext.cpp:423
+#: khtml/khtml_ext.cpp:419
 msgid "&Copy Text"
 msgstr "Text &kopéieren"
 
-#: khtml/khtml_ext.cpp:437
+#: khtml/khtml_ext.cpp:433
 #, kde-format
 msgid "Open '%1'"
 msgstr "'%1' opmaachen"
 
-#: khtml/khtml_ext.cpp:454
+#: khtml/khtml_ext.cpp:450
 #, fuzzy
 #| msgid "Copy Email Address"
 msgid "&Copy Email Address"
 msgstr "E-Mail-Adress kopéieren"
 
-#: khtml/khtml_ext.cpp:459
+#: khtml/khtml_ext.cpp:455
 msgid "&Save Link As..."
 msgstr "Link &späicheren als..."
 
-#: khtml/khtml_ext.cpp:464
+#: khtml/khtml_ext.cpp:460
 #, fuzzy
 #| msgid "Copy &Link Address"
 msgid "&Copy Link Address"
 msgstr "Adress vum &Link kopéieren"
 
-#: khtml/khtml_ext.cpp:476
+#: khtml/khtml_ext.cpp:472
 #, fuzzy
 #| msgid "Frame"
 msgctxt "@title:menu HTML frame/iframe"
 msgid "Frame"
 msgstr "Frame"
 
-#: khtml/khtml_ext.cpp:477
+#: khtml/khtml_ext.cpp:473
 msgid "Open in New &Window"
 msgstr "An enger neier &Fënster opmaachen"
 
-#: khtml/khtml_ext.cpp:483
+#: khtml/khtml_ext.cpp:479
 msgid "Open in &This Window"
 msgstr "An &dëser Fënster opmaachen"
 
-#: khtml/khtml_ext.cpp:488
+#: khtml/khtml_ext.cpp:484
 msgid "Open in &New Tab"
 msgstr "An engem neien &Tab opmaachen"
 
-#: khtml/khtml_ext.cpp:498
+#: khtml/khtml_ext.cpp:494
 msgid "Reload Frame"
 msgstr "Frame nei lueden"
 
-#: khtml/khtml_ext.cpp:503 khtml/khtml_part.cpp:465
+#: khtml/khtml_ext.cpp:499 khtml/khtml_part.cpp:465
 msgid "Print Frame..."
 msgstr "Frame drécken..."
 
-#: khtml/khtml_ext.cpp:509 khtml/khtml_part.cpp:328
+#: khtml/khtml_ext.cpp:505 khtml/khtml_part.cpp:328
 msgid "Save &Frame As..."
 msgstr "&Frame späicheren als..."
 
-#: khtml/khtml_ext.cpp:514 khtml/khtml_part.cpp:303
+#: khtml/khtml_ext.cpp:510 khtml/khtml_part.cpp:303
 msgid "View Frame Source"
 msgstr "Quell vum Frame kucken"
 
-#: khtml/khtml_ext.cpp:519
+#: khtml/khtml_ext.cpp:515
 msgid "View Frame Information"
 msgstr "Frame-Informatioun kucken"
 
-#: khtml/khtml_ext.cpp:529
+#: khtml/khtml_ext.cpp:525
 msgid "Block IFrame..."
 msgstr "IFrame blockéieren..."
 
-#: khtml/khtml_ext.cpp:554
+#: khtml/khtml_ext.cpp:550
 msgid "Save Image As..."
 msgstr "Bild späicheren als..."
 
-#: khtml/khtml_ext.cpp:559
+#: khtml/khtml_ext.cpp:555
 msgid "Send Image..."
 msgstr "Bild verschécken..."
 
-#: khtml/khtml_ext.cpp:565
+#: khtml/khtml_ext.cpp:561
 msgid "Copy Image"
 msgstr "Bild kopéieren"
 
-#: khtml/khtml_ext.cpp:573
+#: khtml/khtml_ext.cpp:569
 msgid "Copy Image Location"
 msgstr "Adress vum Bild kopéieren"
 
-#: khtml/khtml_ext.cpp:582
+#: khtml/khtml_ext.cpp:578
 #, kde-format
 msgid "View Image (%1)"
 msgstr "Bild kucken (%1)"
 
-#: khtml/khtml_ext.cpp:588
+#: khtml/khtml_ext.cpp:584
 msgid "Block Image..."
 msgstr "Bild blockéieren..."
 
-#: khtml/khtml_ext.cpp:596
+#: khtml/khtml_ext.cpp:592
 #, kde-format
 msgid "Block Images From %1"
 msgstr "Biller vun %1 blockéieren"
 
-#: khtml/khtml_ext.cpp:608
+#: khtml/khtml_ext.cpp:604
 msgid "Stop Animations"
 msgstr "Animatiounen unhalen"
 
-#: khtml/khtml_ext.cpp:675
+#: khtml/khtml_ext.cpp:671
 #, fuzzy, kde-format
 msgid "Search for '%1' with %2"
 msgstr "No '%1' an %2 sichen"
 
-#: khtml/khtml_ext.cpp:687
+#: khtml/khtml_ext.cpp:683
 #, fuzzy, kde-format
 msgid "Search for '%1' with"
 msgstr "No '%1' siche bei"
 
-#: khtml/khtml_ext.cpp:747
+#: khtml/khtml_ext.cpp:743
 msgid "Save Link As"
 msgstr "Link späicheren als"
 
-#: khtml/khtml_ext.cpp:767
+#: khtml/khtml_ext.cpp:763
 msgid "Save Image As"
 msgstr "Bild späicheren als"
 
-#: khtml/khtml_ext.cpp:781 khtml/khtml_ext.cpp:794
+#: khtml/khtml_ext.cpp:777 khtml/khtml_ext.cpp:790
 msgid "Add URL to Filter"
 msgstr "URL bei de Filter dobäimaachen"
 
-#: khtml/khtml_ext.cpp:782 khtml/khtml_ext.cpp:795
+#: khtml/khtml_ext.cpp:778 khtml/khtml_ext.cpp:791
 msgid "Enter the URL:"
 msgstr ""
 
-#: khtml/khtml_ext.cpp:930
+#: khtml/khtml_ext.cpp:926
 #, kde-format
 msgid ""
 "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
@@ -11977,20 +11977,20 @@ msgstr ""
 "Eng Datei mam Numm \"%1\" gëtt et schonn. Sidd dir sëcher, dass dir se "
 "iwwerschreiwe wëllt?"
 
-#: khtml/khtml_ext.cpp:930
+#: khtml/khtml_ext.cpp:926
 msgid "Overwrite File?"
 msgstr "Datei iwwerschreiwen?"
 
-#: khtml/khtml_ext.cpp:930
+#: khtml/khtml_ext.cpp:926
 msgid "Overwrite"
 msgstr "Iwwerschreiwen"
 
-#: khtml/khtml_ext.cpp:991 kparts/browserrun.cpp:431
+#: khtml/khtml_ext.cpp:987 kparts/browserrun.cpp:431
 #, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "Den Download-Manager (%1) konnt an ärem PATH net fonnt ginn "
 
-#: khtml/khtml_ext.cpp:992 kparts/browserrun.cpp:432
+#: khtml/khtml_ext.cpp:988 kparts/browserrun.cpp:432
 #, fuzzy
 msgid ""
 "Try to reinstall it  \n"
@@ -12001,7 +12001,7 @@ msgstr ""
 "\n"
 "D'Integratioun an de Konqueror gëtt ofgeschalt!"
 
-#: khtml/khtml_ext.cpp:1074
+#: khtml/khtml_ext.cpp:1070
 #, no-c-format
 msgid "Default Font Size (100%)"
 msgstr "Standard-Schrëftgréisst (100%)"
@@ -12466,16 +12466,16 @@ msgstr ""
 "De Server huet probéiert, eng Datei aus ärem Dateiesystem un de Formular "
 "drunnzehänken. Den Unhang ass zu ärer Sëcherheet geläscht ginn."
 
-#: khtml/khtml_part.cpp:5758
+#: khtml/khtml_part.cpp:5762
 #, kde-format
 msgid "(%1/s)"
 msgstr "(%1/s)"
 
-#: khtml/khtml_part.cpp:6683
+#: khtml/khtml_part.cpp:6687
 msgid "Security Warning"
 msgstr "Sëcherheetswarnung"
 
-#: khtml/khtml_part.cpp:6692
+#: khtml/khtml_part.cpp:6696
 #, fuzzy, kde-format
 #| msgid "<qt>Access by untrusted page to<BR><B>%1</B><BR> denied."
 msgid "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
@@ -12483,44 +12483,44 @@ msgstr ""
 "<qt>Zougang op<BR><B>%1</B><BR>duerch eng Säit, déi als net sëcher ugesinn "
 "ass, verweigert."
 
-#: khtml/khtml_part.cpp:6693 khtml/java/kjavaappletserver.cpp:792
+#: khtml/khtml_part.cpp:6697 khtml/java/kjavaappletserver.cpp:792
 msgid "Security Alert"
 msgstr "Sëcherheetsnoricht"
 
-#: khtml/khtml_part.cpp:7041
+#: khtml/khtml_part.cpp:7045
 #, kde-format
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr ""
 "Den digitale Portemonnaie '%1' ass op a gëtt fir Formularer a Passwierder "
 "benotzt."
 
-#: khtml/khtml_part.cpp:7101
+#: khtml/khtml_part.cpp:7105
 msgid "&Close Wallet"
 msgstr "Portemonnaie &zoumaachen"
 
-#: khtml/khtml_part.cpp:7104
+#: khtml/khtml_part.cpp:7108
 msgid "&Allow storing passwords for this site"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7109
+#: khtml/khtml_part.cpp:7113
 #, kde-format
 msgid "Remove password for form %1"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7214
+#: khtml/khtml_part.cpp:7218
 msgid "JavaScript &Debugger"
 msgstr "JavaScript-&Debugger"
 
-#: khtml/khtml_part.cpp:7246
+#: khtml/khtml_part.cpp:7250
 msgid "This page was prevented from opening a new window via JavaScript."
 msgstr ""
 "Dëss Säit ass dovun ofgehal ginn, mat JavaScript eng nei fënster opzemaachen."
 
-#: khtml/khtml_part.cpp:7252
+#: khtml/khtml_part.cpp:7256
 msgid "Popup Window Blocked"
 msgstr "Popup-Fënster blockéiert"
 
-#: khtml/khtml_part.cpp:7252
+#: khtml/khtml_part.cpp:7256
 msgid ""
 "This page has attempted to open a popup window but was blocked.\n"
 "You can click on this icon in the status bar to control this behavior\n"
@@ -12531,18 +12531,18 @@ msgstr ""
 "d'Fënster\n"
 "awer opzemaachen oder Astellunge virzehuelen."
 
-#: khtml/khtml_part.cpp:7265
+#: khtml/khtml_part.cpp:7269
 #, fuzzy, kde-format
 msgid "&Show Blocked Popup Window"
 msgid_plural "&Show %1 Blocked Popup Windows"
 msgstr[0] "Blockéiert Popup-Fënster &weisen"
 msgstr[1] "%1 blockéiert Popup-Fënstere weisen"
 
-#: khtml/khtml_part.cpp:7266
+#: khtml/khtml_part.cpp:7270
 msgid "Show Blocked Window Passive Popup &Notification"
 msgstr "Passiv &Norichtefënster bei blockéierte Popup-Fënsteren uweisen"
 
-#: khtml/khtml_part.cpp:7268
+#: khtml/khtml_part.cpp:7272
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "JavaScript fir Fënsteren nei opzemaache &configuréieren..."
 
