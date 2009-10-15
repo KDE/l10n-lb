@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-10-14 06:36+0200\n"
+"POT-Creation-Date: 2009-10-15 06:13+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -6919,7 +6919,7 @@ msgstr "Sichen"
 msgid "Cut"
 msgstr "Ausschneiden"
 
-#: kdeui/util/kkeyserver_x11.cpp:113 kdeui/dialogs/kshortcutsdialog.cpp:120
+#: kdeui/util/kkeyserver_x11.cpp:113 kdeui/dialogs/kshortcutsdialog.cpp:124
 msgid "Print"
 msgstr "Drécken"
 
@@ -7033,11 +7033,11 @@ msgid ""
 "one?"
 msgstr ""
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:118
+#: kdeui/dialogs/kshortcutsdialog.cpp:122
 msgid "Configure Shortcuts"
 msgstr "Tastekierzel configuréieren"
 
-#: kdeui/dialogs/kshortcutsdialog.cpp:125
+#: kdeui/dialogs/kshortcutsdialog.cpp:129
 #, fuzzy
 #| msgid "Defaults"
 msgid "Reset to Defaults"
@@ -7467,6 +7467,30 @@ msgstr "&Symbol änneren..."
 #| msgid "Find Text"
 msgid "Icon Te&xt:"
 msgstr "Text sichen"
+
+#: kdeui/dialogs/kcupsoptionssettingswidget_p.cpp:66
+#, fuzzy
+#| msgid "Pager"
+msgid "All Pages"
+msgstr "Pager"
+
+#: kdeui/dialogs/kcupsoptionssettingswidget_p.cpp:67
+#, fuzzy
+#| msgid "Pager"
+msgid "Odd Pages"
+msgstr "Pager"
+
+#: kdeui/dialogs/kcupsoptionssettingswidget_p.cpp:68
+#, fuzzy
+#| msgid "Pager"
+msgid "Even Pages"
+msgstr "Pager"
+
+#: kdeui/dialogs/kcupsoptionssettingswidget_p.cpp:79
+#, fuzzy
+#| msgid "Page loaded."
+msgid "Page Set"
+msgstr "Säit gelueden."
 
 #: kdeui/dialogs/kshortcutseditor.cpp:127
 #: kdeui/widgets/kcharselectdata.cpp:644
@@ -8033,7 +8057,7 @@ msgstr "Gitt &Member am KDE-Team"
 msgid "&Support KDE"
 msgstr "KDE ënner&stëtzen"
 
-#: kdeui/dialogs/kdeprintdialog.cpp:53
+#: kdeui/dialogs/kdeprintdialog.cpp:73
 #, fuzzy
 #| msgid "Print"
 msgctxt "@title:window"
@@ -13642,7 +13666,7 @@ msgstr "Nees zeréck: %1"
 #, fuzzy
 #| msgid "Do not show this message again"
 msgctxt "@label:checkbox"
-msgid "Do not ask again for files of this type"
+msgid "Remember action for files of this type"
 msgstr "Dëss Noricht net méi weisen"
 
 #: kparts/browseropenorsavequestion.cpp:142
