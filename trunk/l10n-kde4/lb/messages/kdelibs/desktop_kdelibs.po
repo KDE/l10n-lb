@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-10-16 05:02+0000\n"
+"POT-Creation-Date: 2009-10-17 05:12+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1101,48 +1101,6 @@ msgctxt "Name"
 msgid "Zulu"
 msgstr "Zulu"
 
-#: kdecore/auth/example/actions.actions:2
-msgctxt "Name"
-msgid "Read action"
-msgstr ""
-
-#: kdecore/auth/example/actions.actions:22
-msgctxt "Description"
-msgid "Read action description"
-msgstr ""
-
-#: kdecore/auth/example/actions.actions:46
-msgctxt "Name"
-msgid "Write action"
-msgstr ""
-
-#: kdecore/auth/example/actions.actions:66
-#, fuzzy
-#| msgctxt "Description"
-#| msgid "Write PostScript file"
-msgctxt "Description"
-msgid "Write action description"
-msgstr "PostScript-Datei schreiwen"
-
-#: kdecore/auth/example/actions.actions:89
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "Latin"
-msgctxt "Name"
-msgid "Long action"
-msgstr "Latäin"
-
-#: kdecore/auth/example/actions.actions:110
-#: kdecore/auth/example/actions.actions:153
-msgctxt "Description"
-msgid "Long action description"
-msgstr ""
-
-#: kdecore/auth/example/actions.actions:133
-msgctxt "Name"
-msgid "Action KAction"
-msgstr ""
-
 #: kdecore/config/kconfigbackend.desktop:5
 msgctxt "Comment"
 msgid "Storage backend for KConfig"
@@ -1733,6 +1691,20 @@ msgstr "HSpell"
 msgctxt "Name"
 msgid "Hunspell"
 msgstr "HSpell"
+
+#, fuzzy
+#~| msgctxt "Description"
+#~| msgid "Write PostScript file"
+#~ msgctxt "Description"
+#~ msgid "Write action description"
+#~ msgstr "PostScript-Datei schreiwen"
+
+#, fuzzy
+#~| msgctxt "Name"
+#~| msgid "Latin"
+#~ msgctxt "Name"
+#~ msgid "Long action"
+#~ msgstr "Latäin"
 
 #, fuzzy
 #~ msgctxt "Name"
