@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-11-11 06:18+0100\n"
+"POT-Creation-Date: 2009-11-12 06:10+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -8741,7 +8741,7 @@ msgstr "Dëss Noricht net méi weisen"
 msgid "About %1"
 msgstr "Iwwer %1"
 
-#: kdeui/dialogs/kconfigdialog.cpp:69 kutils/kcmultidialog.cpp:141
+#: kdeui/dialogs/kconfigdialog.cpp:69 kutils/kcmultidialog.cpp:163
 msgid "Configure"
 msgstr "Configuréieren"
 
@@ -13231,29 +13231,23 @@ msgstr "Gitt w.e.g. den &Numm an:"
 msgid "Starting KTTSD Failed"
 msgstr ""
 
-#: kdeui/widgets/ktextedit.cpp:633 kdeui/widgets/ktextedit.cpp:644
-#, fuzzy, kde-format
-#| msgid "Suggestion List"
-msgid "Suggestions for %1"
-msgstr "Lëscht mat Beispiller"
-
-#: kdeui/widgets/ktextedit.cpp:635
-msgid "Ignore"
-msgstr "Ignoréieren"
-
-#: kdeui/widgets/ktextedit.cpp:636
-#, fuzzy
-#| msgid "<< Add to Dictionary"
-msgid "Add to Dictionary"
-msgstr "<< An d'Wierderbuch Dobäischreiwen"
-
-#: kdeui/widgets/ktextedit.cpp:638 kdeui/widgets/ktextedit.cpp:640
+#: kdeui/widgets/ktextedit.cpp:627
 #, fuzzy, kde-format
 #| msgid "Suggestion List"
 msgid "No suggestions for %1"
 msgstr "Lëscht mat Beispiller"
 
-#: kdeui/widgets/ktextedit.cpp:791
+#: kdeui/widgets/ktextedit.cpp:638
+msgid "Ignore"
+msgstr "Ignoréieren"
+
+#: kdeui/widgets/ktextedit.cpp:639
+#, fuzzy
+#| msgid "<< Add to Dictionary"
+msgid "Add to Dictionary"
+msgstr "<< An d'Wierderbuch Dobäischreiwen"
+
+#: kdeui/widgets/ktextedit.cpp:784
 #, fuzzy
 msgid "Nothing to spell check."
 msgstr "Kee Provider gewielt."
@@ -16513,6 +16507,11 @@ msgstr "&Rotschlag vum Dag"
 #, fuzzy, kde-format
 msgid "No such function \"%1\""
 msgstr "D'Entrée '%1' ass net am Menü."
+
+#, fuzzy
+#~| msgid "Suggestion List"
+#~ msgid "Suggestions for %1"
+#~ msgstr "Lëscht mat Beispiller"
 
 #~ msgid "Download New %1"
 #~ msgstr "Nei %1 eroflueden"
