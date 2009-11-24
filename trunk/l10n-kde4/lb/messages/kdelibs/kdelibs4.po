@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-11-23 06:13+0100\n"
+"POT-Creation-Date: 2009-11-24 06:10+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -121,7 +121,7 @@ msgstr "E-Mail-Adress"
 #. i18n: file: knewstuff/knewstuff3/ui/UploadDialog.ui:46
 #. i18n: ectx: property (text), widget (QLabel, label_4)
 #: rc.cpp:35 rc.cpp:86 kross/ui/view.cpp:151
-#: kdeui/colors/kcolordialog.cpp:1179
+#: kdeui/colors/kcolordialog.cpp:1186
 msgid "Name:"
 msgstr "Numm:"
 
@@ -7535,7 +7535,7 @@ msgid "View Comments"
 msgstr "Kommentar"
 
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:195
-#: knewstuff/knewstuff3/core/engine.cpp:408
+#: knewstuff/knewstuff3/core/engine.cpp:413
 #, fuzzy, kde-format
 #| msgid "Redo: %1"
 msgid "Re: %1"
@@ -7834,6 +7834,7 @@ msgid "Leave a comment"
 msgstr ""
 
 #: knewstuff/knewstuff2/ui/knewstuffbutton.cpp:49
+#: knewstuff/knewstuff3/knewstuffbutton.cpp:48
 #, fuzzy
 #| msgid "Download New Stuff"
 msgid "Download New Stuff..."
@@ -7961,17 +7962,6 @@ msgctxt "Sorting order of the list of items in get hot new stuff"
 msgid "Installed only"
 msgstr "Installatioun"
 
-#: knewstuff/knewstuff3/knewstuffbutton.cpp:47
-#, fuzzy
-#| msgid "Download New Stuff"
-msgid "Download New Stuff"
-msgstr "Nei Saachen eroflueden"
-
-#: knewstuff/knewstuff3/knewstuffbutton.cpp:59
-#, kde-format
-msgid "Download New %1"
-msgstr "Nei %1 eroflueden"
-
 #: knewstuff/knewstuff3/ui/itemsmodel.cpp:142
 #, fuzzy
 #| msgid "Print Previe&w..."
@@ -8029,12 +8019,12 @@ msgstr "Dat, wat do ass, iwwerschreiwen"
 msgid "Download File:"
 msgstr "Eroflueden"
 
-#: knewstuff/knewstuff3/core/engine.cpp:233
+#: knewstuff/knewstuff3/core/engine.cpp:238
 #, kde-format
 msgid "Could not load get hot new stuff providers from file: %1"
 msgstr ""
 
-#: knewstuff/knewstuff3/core/engine.cpp:270
+#: knewstuff/knewstuff3/core/engine.cpp:275
 #, fuzzy, kde-format
 #| msgid "Loading resource '%1' failed!"
 msgid "Loading of providers from file: %1 failed"
@@ -15578,7 +15568,7 @@ msgstr "De Modul %1 ass net fonnt ginn."
 #| msgid ""
 #| "<qt><p>The diagnostics is:<br>The desktop file %1 could not be found.</qt>"
 msgid ""
-"<qt><p>The diagnostics is:<br />The desktop file %1 could not be found.</p></"
+"<qt><p>The diagnosis is:<br />The desktop file %1 could not be found.</p></"
 "qt>"
 msgstr "<qt><p>D'Diagnos ass:<br>D'Bürosdatei %1 konnt net fonnt ginn.</qt>"
 
@@ -15604,8 +15594,8 @@ msgstr "De Modul %1 ass kee gültege Configuratiounsmodul."
 #| "<qt><p>The diagnostics is:<br>The desktop file %1 does not specify a "
 #| "library.</qt>"
 msgid ""
-"<qt>The diagnostics is:<br />The desktop file %1 does not specify a library."
-"</qt>"
+"<qt>The diagnosis is:<br />The desktop file %1 does not specify a library.</"
+"qt>"
 msgstr ""
 "<qt><p>D'Diagnos ass:<br>D'Bürosdatei %1 gëtt keng Bibliothéik un.</qt>"
 
@@ -15623,7 +15613,7 @@ msgstr "Et ass e Feeler beim Luede vum Modul opgetrueden."
 #| "error message. If this fails, consider contacting your distributor or "
 #| "packager.</p></qt>"
 msgid ""
-"<qt>The diagnostics is:<br />%1<p>Possible reasons:</p><ul><li>An error "
+"<qt>The diagnosis is:<br />%1<p>Possible reasons:</p><ul><li>An error "
 "occurred during your last KDE upgrade leaving an orphaned control module</"
 "li><li>You have old third party modules lying around.</li></ul><p>Check "
 "these points carefully and try to remove the module mentioned in the error "
@@ -15794,37 +15784,56 @@ msgstr ""
 
 #: kjsembed/kjsembed/qobject_binding.cpp:412
 #, kde-format
-msgid ""
-"The slot asked for %1 arguments but there are only %2 arguments available."
-msgstr ""
+msgid "The slot asked for %1 argument"
+msgid_plural "The slot asked for %1 arguments"
+msgstr[0] ""
+msgstr[1] ""
 
-#: kjsembed/kjsembed/qobject_binding.cpp:610
+#: kjsembed/kjsembed/qobject_binding.cpp:413
+#, fuzzy, kde-format
+#| msgid "There is no resource available!"
+msgid "but there is only %1 available"
+msgid_plural "but there are only %1 available"
+msgstr[0] "Et ass keng Ressource do!"
+msgstr[1] "Et ass keng Ressource do!"
+
+#: kjsembed/kjsembed/qobject_binding.cpp:414
+#, fuzzy, kde-format
+#| msgctxt "concatenation of dates and time"
+#| msgid "%1 %2"
+msgctxt ""
+"%1 is 'the slot asked for foo arguments', %2 is 'but there are only bar "
+"available'"
+msgid "%1, %2."
+msgstr "%1 %2"
+
+#: kjsembed/kjsembed/qobject_binding.cpp:613
 #, kde-format
 msgid "Failure to cast to %1 value from Type %2 (%3)"
 msgstr ""
 
-#: kjsembed/kjsembed/qobject_binding.cpp:645
+#: kjsembed/kjsembed/qobject_binding.cpp:648
 #, fuzzy, kde-format
 msgid "No such method '%1'."
 msgstr "D'Entrée '%1' ass net am Menü."
 
-#: kjsembed/kjsembed/qobject_binding.cpp:674
+#: kjsembed/kjsembed/qobject_binding.cpp:677
 #, kde-format
 msgid "Call to method '%1' failed, unable to get argument %2: %3"
 msgstr ""
 
-#: kjsembed/kjsembed/qobject_binding.cpp:717
+#: kjsembed/kjsembed/qobject_binding.cpp:720
 #, fuzzy, kde-format
 msgid "Call to '%1' failed."
 msgstr "Installatioun net gaang."
 
-#: kjsembed/kjsembed/qobject_binding.cpp:782
+#: kjsembed/kjsembed/qobject_binding.cpp:785
 #: kjsembed/kjsembed/object_binding.h:219
 #, fuzzy, kde-format
 msgid "%1 is not an Object type"
 msgstr "Basis ass keen Objekt"
 
-#: kjsembed/kjsembed/qobject_binding.cpp:788
+#: kjsembed/kjsembed/qobject_binding.cpp:791
 #, fuzzy
 msgid "Could not construct value"
 msgstr "Konnt d'Datei net opmaachen."
@@ -16477,68 +16486,83 @@ msgstr "Web-Faarwen"
 msgid "Named Colors"
 msgstr "Definéiert Faarwen"
 
-#: kdeui/colors/kcolordialog.cpp:695
+#: kdeui/colors/kcolordialog.cpp:709
+#, fuzzy, kde-format
+#| msgid ""
+#| "Unable to read X11 RGB color strings. The following file location(s) were "
+#| "examined:\n"
+msgctxt ""
+"%1 is the number of paths, %2 is the list of paths (with newlines between "
+"them)"
 msgid ""
-"Unable to read X11 RGB color strings. The following file location(s) were "
+"Unable to read X11 RGB color strings. The following file location was "
 "examined:\n"
-msgstr ""
+"%2"
+msgid_plural ""
+"Unable to read X11 RGB color strings. The following file locations were "
+"examined:\n"
+"%2"
+msgstr[0] ""
+"Konnt d'X11-RGB-Faarfstringen net liesen. Déi folgend\n"
+"Späicherplaze sinn durchsicht ginn:\n"
+msgstr[1] ""
 "Konnt d'X11-RGB-Faarfstringen net liesen. Déi folgend\n"
 "Späicherplaze sinn durchsicht ginn:\n"
 
-#: kdeui/colors/kcolordialog.cpp:984
+#: kdeui/colors/kcolordialog.cpp:991
 #, fuzzy
 #| msgid "Select Color"
 msgid "Select Color"
 msgstr "Faarf auswielen"
 
-#: kdeui/colors/kcolordialog.cpp:1053
+#: kdeui/colors/kcolordialog.cpp:1060
 #, fuzzy
 msgid "Hue:"
 msgstr "H:"
 
-#: kdeui/colors/kcolordialog.cpp:1063
+#: kdeui/colors/kcolordialog.cpp:1070
 #, fuzzy
 msgid "Saturation:"
 msgstr "Samschten"
 
-#: kdeui/colors/kcolordialog.cpp:1073
+#: kdeui/colors/kcolordialog.cpp:1080
 #, fuzzy
 msgctxt "This is the V of HSV"
 msgid "Value:"
 msgstr "Wert"
 
-#: kdeui/colors/kcolordialog.cpp:1087
+#: kdeui/colors/kcolordialog.cpp:1094
 #, fuzzy
 msgid "Red:"
 msgstr "Nees zeréck"
 
-#: kdeui/colors/kcolordialog.cpp:1096
+#: kdeui/colors/kcolordialog.cpp:1103
 #, fuzzy
 msgid "Green:"
 msgstr "Griichësch"
 
-#: kdeui/colors/kcolordialog.cpp:1106
+#: kdeui/colors/kcolordialog.cpp:1113
 #, fuzzy
 msgid "Blue:"
 msgstr "Datei:"
 
-#: kdeui/colors/kcolordialog.cpp:1151
+#: kdeui/colors/kcolordialog.cpp:1158
 msgid "&Add to Custom Colors"
 msgstr "Bei d'Benotzerdefinéiert Faarwen &dobäimaachen"
 
-#: kdeui/colors/kcolordialog.cpp:1186
+#: kdeui/colors/kcolordialog.cpp:1193
 msgid "HTML:"
 msgstr "HTML:"
 
-#: kdeui/colors/kcolordialog.cpp:1276
+#: kdeui/colors/kcolordialog.cpp:1283
 msgid "Default color"
 msgstr "Standardfaarf"
 
-#: kdeui/colors/kcolordialog.cpp:1357
+#: kdeui/colors/kcolordialog.cpp:1364
 msgid "-default-"
 msgstr "-standard-"
 
-#: kdeui/colors/kcolordialog.cpp:1675
+#: kdeui/colors/kcolordialog.cpp:1682
 msgid "-unnamed-"
 msgstr "-onbenannt-"
 
@@ -16749,6 +16773,14 @@ msgstr "&Rotschlag vum Dag"
 #, fuzzy, kde-format
 msgid "No such function \"%1\""
 msgstr "D'Entrée '%1' ass net am Menü."
+
+#, fuzzy
+#~| msgid "Download New Stuff"
+#~ msgid "Download New Stuff"
+#~ msgstr "Nei Saachen eroflueden"
+
+#~ msgid "Download New %1"
+#~ msgstr "Nei %1 eroflueden"
 
 #~ msgid ""
 #~ "<qt><p>This word was considered to be an \"unknown word\" because it does "
@@ -19633,9 +19665,6 @@ msgstr "D'Entrée '%1' ass net am Menü."
 
 #~ msgid "<big>Loading...</big>"
 #~ msgstr "<big>Amgaang ze lueden...</big>"
-
-#~ msgid "There is no resource available!"
-#~ msgstr "Et ass keng Ressource do!"
 
 #~ msgid "kcmkresources"
 #~ msgstr "kcmkresources"
