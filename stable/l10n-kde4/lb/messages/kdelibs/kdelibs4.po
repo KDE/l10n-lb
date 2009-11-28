@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-10-19 01:19+0200\n"
+"POT-Creation-Date: 2009-11-28 01:19+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2140,7 +2140,7 @@ msgstr "Nach eng Kéier lueden"
 msgid "Do Not Reload"
 msgstr "Net nach eng Kéier lueden"
 
-#: kded/kbuildsycoca.cpp:863
+#: kded/kbuildsycoca.cpp:864
 msgid "Configuration information reloaded successfully."
 msgstr "D'Configuratiounsdate sinn nei geluede ginn."
 
