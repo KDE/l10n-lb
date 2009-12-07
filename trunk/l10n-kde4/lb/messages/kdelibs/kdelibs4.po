@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-12-06 06:14+0100\n"
+"POT-Creation-Date: 2009-12-07 06:05+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -5758,7 +5758,7 @@ msgstr ""
 msgid ""
 "Your account balance is too low:\n"
 "Your balance: %1\n"
-"Price:%2"
+"Price: %2"
 msgstr ""
 
 #: knewstuff/knewstuff3/attica/atticaprovider.cpp:349
@@ -11262,7 +11262,7 @@ msgstr "<qt>Sidd dir sëcher, dass dir <b>%1</b> zoumaache wëllt ?</qt>"
 msgid "Confirm Quit From System Tray"
 msgstr "Aus dem Systemberäich erausgoen"
 
-#: kdeui/notifications/knotificationrestrictions.cpp:179
+#: kdeui/notifications/knotificationrestrictions.cpp:196
 #, fuzzy
 #| msgid "Quit application"
 msgid "Unknown Application"
