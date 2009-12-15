@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-12-12 06:08+0100\n"
+"POT-Creation-Date: 2009-12-15 06:02+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -13053,28 +13053,28 @@ msgstr "Configuratioun"
 msgid "Invalid type in Database"
 msgstr "Ongülteg Basis fir d'Referenz"
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:208
+#: nepomuk/core/ui/kmetadatatagwidget.cpp:201
 msgid "Create New Tag..."
 msgstr ""
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:214
+#: nepomuk/core/ui/kmetadatatagwidget.cpp:207
 #, fuzzy
 #| msgid "New Game"
 msgid "New Tag"
 msgstr "Neit Spill"
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:214
+#: nepomuk/core/ui/kmetadatatagwidget.cpp:207
 #, fuzzy
 #| msgid "Please select type of the new resource:"
 msgid "Please insert the name of the new tag:"
 msgstr "Wielt w.e.g. den Typ vum neie Modul:"
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:223
+#: nepomuk/core/ui/kmetadatatagwidget.cpp:216
 #, kde-format
 msgid "The tag %1 already exists"
 msgstr ""
 
-#: nepomuk/core/ui/kmetadatatagwidget.cpp:223
+#: nepomuk/core/ui/kmetadatatagwidget.cpp:216
 #, fuzzy
 msgid "Tag Exists"
 msgstr "Test"
