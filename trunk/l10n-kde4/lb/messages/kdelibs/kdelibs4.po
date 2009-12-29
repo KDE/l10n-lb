@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-12-24 06:01+0100\n"
+"POT-Creation-Date: 2009-12-29 06:15+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -9052,7 +9052,7 @@ msgstr "Bei d'Benotzerdefinéiert Faarwen &dobäimaachen"
 msgid "Configure Shortcut..."
 msgstr "&Kierzel configuréieren..."
 
-#: kdeui/xmlgui/kxmlguibuilder.cpp:179 kdeui/xmlgui/kxmlguibuilder.cpp:345
+#: kdeui/xmlgui/kxmlguibuilder.cpp:179 kdeui/xmlgui/kxmlguibuilder.cpp:346
 #, fuzzy
 msgid "No text"
 msgstr "Keen Text!"
@@ -12706,7 +12706,7 @@ msgstr "Kierzelen"
 msgid "Create Web Shortcut"
 msgstr "Kierzel läschen"
 
-#: kinit/kinit.cpp:506
+#: kinit/kinit.cpp:507
 msgid ""
 "Unable to start new process.\n"
 "The system may have reached the maximum number of open files possible or the "
@@ -12716,7 +12716,7 @@ msgstr ""
 "Déi maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn oder déi vun "
 "iech agestallte maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn."
 
-#: kinit/kinit.cpp:525
+#: kinit/kinit.cpp:526
 msgid ""
 "Unable to create new process.\n"
 "The system may have reached the maximum number of processes possible or the "
@@ -12726,12 +12726,12 @@ msgstr ""
 "Déi maximal Unzuel vu Prozesser kéint erreecht sinn oder déi vun iech "
 "agestallte maximal Unzuel vu Prozesser kéint erreecht sinn."
 
-#: kinit/kinit.cpp:617
+#: kinit/kinit.cpp:618
 #, kde-format
 msgid "Could not find '%1' executable."
 msgstr "Konnt de Programm '%1' net fannen."
 
-#: kinit/kinit.cpp:635
+#: kinit/kinit.cpp:636
 #, kde-format
 msgid ""
 "Could not open library '%1'.\n"
@@ -12740,7 +12740,7 @@ msgstr ""
 "Konnt d'Bibliothéik '%1' net opmaachen.\n"
 "%2"
 
-#: kinit/kinit.cpp:681
+#: kinit/kinit.cpp:682
 #, kde-format
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
