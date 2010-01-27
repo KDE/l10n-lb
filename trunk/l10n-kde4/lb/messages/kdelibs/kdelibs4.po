@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-01-25 06:12+0100\n"
+"POT-Creation-Date: 2010-01-27 06:23+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -3075,7 +3075,7 @@ msgid "Connection timed out"
 msgstr "D'Verbindungszäit ass iwwerschratt ginn"
 
 #: kdecore/network/klocalsocket_unix.cpp:213
-#: kdecore/network/klocalsocket_unix.cpp:293 nepomuk/core/resource.cpp:508
+#: kdecore/network/klocalsocket_unix.cpp:293 nepomuk/core/resource.cpp:507
 #, fuzzy
 #| msgctxt "QFile"
 #| msgid "Unknown error"
@@ -7184,12 +7184,12 @@ msgstr ""
 msgid "&Launch Bug Report Wizard"
 msgstr "Käfer-Mellen-Assistent &starten"
 
-#: kdeui/dialogs/kbugreport.cpp:347
+#: kdeui/dialogs/kbugreport.cpp:350
 msgctxt "unknown program name"
 msgid "unknown"
 msgstr "Onbekannt"
 
-#: kdeui/dialogs/kbugreport.cpp:412
+#: kdeui/dialogs/kbugreport.cpp:418
 msgid ""
 "You must specify both a subject and a description before the report can be "
 "sent."
@@ -7197,7 +7197,7 @@ msgstr ""
 "Dir musst e Betreff an eng Beschreiwung ugin, éier dir de Bericht verschécke "
 "kënnt."
 
-#: kdeui/dialogs/kbugreport.cpp:422
+#: kdeui/dialogs/kbugreport.cpp:428
 #, fuzzy
 #| msgid ""
 #| "<p>You chose the severity <b>Critical</b>. Please note that this severity "
@@ -7224,7 +7224,7 @@ msgstr ""
 "<p>Erfëllt äre Käfer ee vun deene Critèren? Falls net, wielt w.e.g. méi eng "
 "schwaach Gravitéit aus. Merci.</p>"
 
-#: kdeui/dialogs/kbugreport.cpp:433
+#: kdeui/dialogs/kbugreport.cpp:439
 #, fuzzy
 #| msgid ""
 #| "<p>You chose the severity <b>Grave</b>. Please note that this severity is "
@@ -7251,7 +7251,7 @@ msgstr ""
 "<p>Erfëllt äre Käfer ee vun deene Critèren? Falls net, wielt w.e.g. méi eng "
 "schwaach Gravitéit aus. Merci.</p>"
 
-#: kdeui/dialogs/kbugreport.cpp:447
+#: kdeui/dialogs/kbugreport.cpp:453
 #, fuzzy
 #| msgid ""
 #| "Unable to send the bug report.\n"
@@ -7266,11 +7266,11 @@ msgstr ""
 "Mellt äre Käfer w.e.g. manuell...\n"
 "Gitt op http://bugs.kde.org/ fir Uweisungen."
 
-#: kdeui/dialogs/kbugreport.cpp:455
+#: kdeui/dialogs/kbugreport.cpp:461
 msgid "Bug report sent, thank you for your input."
 msgstr "Käfer gemellt. Merci fir är Hëllef."
 
-#: kdeui/dialogs/kbugreport.cpp:464
+#: kdeui/dialogs/kbugreport.cpp:470
 msgid ""
 "Close and discard\n"
 "edited message?"
@@ -7279,7 +7279,7 @@ msgstr ""
 "verännert Noricht\n"
 "si loossen?"
 
-#: kdeui/dialogs/kbugreport.cpp:465
+#: kdeui/dialogs/kbugreport.cpp:471
 msgid "Close Message"
 msgstr "Noricht zoumaachen"
 
@@ -13029,16 +13029,16 @@ msgstr ""
 msgid "Daniel Molkentin"
 msgstr ""
 
-#: nepomuk/core/resource.cpp:502
+#: nepomuk/core/resource.cpp:501
 msgid "Success"
 msgstr ""
 
-#: nepomuk/core/resource.cpp:504
+#: nepomuk/core/resource.cpp:503
 #, fuzzy
 msgid "Communication error"
 msgstr "Configuratioun"
 
-#: nepomuk/core/resource.cpp:506
+#: nepomuk/core/resource.cpp:505
 #, fuzzy
 #| msgid "Invalid reference base"
 msgid "Invalid type in Database"
