@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-02-18 01:23+0100\n"
+"POT-Creation-Date: 2010-02-19 01:20+0100\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -882,11 +882,6 @@ msgstr "Plugins"
 #: dialogs/katedialogs.cpp:1073
 msgid "Plugins"
 msgstr "Plugins"
-
-#: dialogs/katedialogs.cpp:1074
-#, fuzzy
-msgid "Scripts"
-msgstr "Skripter"
 
 #: dialogs/katedialogs.cpp:1166
 msgid "Highlight Download"
@@ -6291,6 +6286,10 @@ msgstr ""
 #: document/katedocument.cpp:5123
 msgid "Close Document"
 msgstr ""
+
+#, fuzzy
+#~ msgid "Scripts"
+#~ msgstr "Skripter"
 
 #~ msgid "Copy as &HTML"
 #~ msgstr "Als &HTML kopéieren"
