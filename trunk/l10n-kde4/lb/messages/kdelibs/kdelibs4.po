@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-02-19 06:39+0100\n"
+"POT-Creation-Date: 2010-02-21 06:30+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2062,7 +2062,7 @@ msgstr "Fënster"
 
 #. i18n: file: kjsembed/examples/kjsconsole/jsconsole.ui:106
 #. i18n: ectx: property (text), widget (QPushButton, mExecute)
-#: rc.cpp:910 kparts/browserrun.cpp:323
+#: rc.cpp:910 kparts/browserrun.cpp:329
 msgid "Execute"
 msgstr "Ausféieren"
 
@@ -11304,7 +11304,7 @@ msgid "a basic web browser using the KHTML library"
 msgstr ""
 
 #: khtml/khtml_run.cpp:104 khtml/khtml_part.cpp:3736 khtml/khtml_part.cpp:3946
-#: khtml/khtml_part.cpp:4338 kparts/browserrun.cpp:409
+#: khtml/khtml_part.cpp:4338 kparts/browserrun.cpp:415
 msgid "Save As"
 msgstr "Späicheren als"
 
@@ -11570,12 +11570,12 @@ msgstr ""
 msgid "Overwrite"
 msgstr "Iwwerschreiwen"
 
-#: khtml/khtml_ext.cpp:994 kparts/browserrun.cpp:380
+#: khtml/khtml_ext.cpp:994 kparts/browserrun.cpp:386
 #, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "Den Download-Manager (%1) konnt an ärem PATH net fonnt ginn "
 
-#: khtml/khtml_ext.cpp:995 kparts/browserrun.cpp:381
+#: khtml/khtml_ext.cpp:995 kparts/browserrun.cpp:387
 #, fuzzy
 msgid ""
 "Try to reinstall it  \n"
@@ -12960,7 +12960,7 @@ msgstr ""
 msgid "Test the Kross framework!"
 msgstr ""
 
-#: kross/modules/form.cpp:303
+#: kross/modules/form.cpp:302
 #, fuzzy
 #| msgid "Cancel"
 msgid "Cancel?"
@@ -13325,13 +13325,13 @@ msgstr ""
 msgid "Close Document"
 msgstr "Dokument zoumaachen"
 
-#: kparts/browserrun.cpp:322
+#: kparts/browserrun.cpp:328
 #, fuzzy, kde-format
 #| msgid "Do you really want to execute '%1'? "
 msgid "Do you really want to execute '%1'?"
 msgstr "Wëllt dir '%1' wiirklech lafe loossen? "
 
-#: kparts/browserrun.cpp:323
+#: kparts/browserrun.cpp:329
 msgid "Execute File?"
 msgstr "Datei ausféieren?"
 
