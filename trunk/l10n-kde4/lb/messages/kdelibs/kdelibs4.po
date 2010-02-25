@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-02-24 07:09+0100\n"
+"POT-Creation-Date: 2010-02-25 06:16+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -5131,7 +5131,7 @@ msgid "Get Hot New Stuff"
 msgstr "Nei Saachen ofhuelen"
 
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:129
-#: knewstuff/knewstuff3/downloaddialog_p.cpp:215
+#: knewstuff/knewstuff3/downloaddialog_p.cpp:211
 #, kde-format
 msgctxt "Program name followed by 'Add On Installer'"
 msgid "%1 Add-On Installer"
@@ -5158,7 +5158,7 @@ msgid "View Comments"
 msgstr "Kommentar"
 
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:195
-#: knewstuff/knewstuff3/core/engine.cpp:396
+#: knewstuff/knewstuff3/core/engine.cpp:402
 #, fuzzy, kde-format
 #| msgid "Redo: %1"
 msgid "Re: %1"
@@ -5595,13 +5595,13 @@ msgstr "Datei nach eng Kéier gelueden."
 msgid "Content successfully uploaded"
 msgstr "Nei Saachen erfollegräich eropgelueden."
 
-#: knewstuff/knewstuff3/downloaddialog_p.cpp:198
+#: knewstuff/knewstuff3/downloaddialog_p.cpp:195
 #, fuzzy
 #| msgid "Hot New Stuff Providers"
 msgid "All Providers"
 msgstr "Ubidder vun neie Saachen"
 
-#: knewstuff/knewstuff3/downloaddialog_p.cpp:205
+#: knewstuff/knewstuff3/downloaddialog_p.cpp:202
 #, fuzzy
 #| msgid "Categories"
 msgid "All Categories"
@@ -5682,18 +5682,22 @@ msgstr "Eroflueden"
 msgid "Could not load get hot new stuff providers from file: %1"
 msgstr ""
 
-#: knewstuff/knewstuff3/core/engine.cpp:267
+#: knewstuff/knewstuff3/core/engine.cpp:268
+msgid "Loading data from provider"
+msgstr ""
+
+#: knewstuff/knewstuff3/core/engine.cpp:273
 #, fuzzy, kde-format
 #| msgid "Loading resource '%1' failed!"
 msgid "Loading of providers from file: %1 failed"
 msgstr "D'Quell '%1' konnt net geluede ginn!"
 
-#: knewstuff/knewstuff3/attica/atticaprovider.cpp:339
+#: knewstuff/knewstuff3/attica/atticaprovider.cpp:350
 #, fuzzy
 msgid "Could not get account balance."
 msgstr "Konnt d'Datei net opmaachen."
 
-#: knewstuff/knewstuff3/attica/atticaprovider.cpp:351
+#: knewstuff/knewstuff3/attica/atticaprovider.cpp:362
 #, kde-format
 msgctxt ""
 "the price of a download item, parameter 1 is the currency, 2 is the price"
@@ -5702,7 +5706,7 @@ msgid ""
 "Do you want to buy it?"
 msgstr ""
 
-#: knewstuff/knewstuff3/attica/atticaprovider.cpp:362
+#: knewstuff/knewstuff3/attica/atticaprovider.cpp:374
 #, kde-format
 msgid ""
 "Your account balance is too low:\n"
@@ -5710,26 +5714,26 @@ msgid ""
 "Price: %2"
 msgstr ""
 
-#: knewstuff/knewstuff3/attica/atticaprovider.cpp:375
+#: knewstuff/knewstuff3/attica/atticaprovider.cpp:387
 #, fuzzy
 msgid "Could not get download link."
 msgstr "Konnt déi nei Datei net erstellen."
 
-#: knewstuff/knewstuff3/attica/atticaprovider.cpp:408
+#: knewstuff/knewstuff3/attica/atticaprovider.cpp:421
 msgid "Your vote was successful."
 msgstr ""
 
-#: knewstuff/knewstuff3/attica/atticaprovider.cpp:410
+#: knewstuff/knewstuff3/attica/atticaprovider.cpp:423
 #, fuzzy
 #| msgid "Upload Files"
 msgid "Voting failed."
 msgstr "Dateien eroplueden"
 
-#: knewstuff/knewstuff3/attica/atticaprovider.cpp:426
+#: knewstuff/knewstuff3/attica/atticaprovider.cpp:440
 msgid "You are now a fan."
 msgstr ""
 
-#: knewstuff/knewstuff3/attica/atticaprovider.cpp:428
+#: knewstuff/knewstuff3/attica/atticaprovider.cpp:442
 #, fuzzy
 msgid "Could not make you a fan."
 msgstr "Konnt déi nei Datei net erstellen."
@@ -12669,7 +12673,7 @@ msgstr "Kierzelen"
 msgid "Create Web Shortcut"
 msgstr "Kierzel läschen"
 
-#: kinit/kinit.cpp:520
+#: kinit/kinit.cpp:523
 msgid ""
 "Unable to start new process.\n"
 "The system may have reached the maximum number of open files possible or the "
@@ -12679,7 +12683,7 @@ msgstr ""
 "Déi maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn oder déi vun "
 "iech agestallte maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn."
 
-#: kinit/kinit.cpp:539
+#: kinit/kinit.cpp:542
 msgid ""
 "Unable to create new process.\n"
 "The system may have reached the maximum number of processes possible or the "
@@ -12689,12 +12693,12 @@ msgstr ""
 "Déi maximal Unzuel vu Prozesser kéint erreecht sinn oder déi vun iech "
 "agestallte maximal Unzuel vu Prozesser kéint erreecht sinn."
 
-#: kinit/kinit.cpp:631
+#: kinit/kinit.cpp:634
 #, kde-format
 msgid "Could not find '%1' executable."
 msgstr "Konnt de Programm '%1' net fannen."
 
-#: kinit/kinit.cpp:649
+#: kinit/kinit.cpp:652
 #, kde-format
 msgid ""
 "Could not open library '%1'.\n"
@@ -12703,7 +12707,7 @@ msgstr ""
 "Konnt d'Bibliothéik '%1' net opmaachen.\n"
 "%2"
 
-#: kinit/kinit.cpp:695
+#: kinit/kinit.cpp:698
 #, kde-format
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
