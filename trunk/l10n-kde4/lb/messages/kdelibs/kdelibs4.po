@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-03-02 22:49+0100\n"
+"POT-Creation-Date: 2010-03-04 04:09+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -8193,15 +8193,15 @@ msgstr "(Kee Logo fonnt)"
 msgid "About %1"
 msgstr "Iwwer %1"
 
-#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:493
+#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:492
 msgid "Check Spelling..."
 msgstr "Rechtschreifkontroll..."
 
-#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:496
+#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:495
 msgid "Auto Spell Check"
 msgstr "Automatësch Kontroll"
 
-#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:500
+#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:499
 msgid "Allow Tabulations"
 msgstr "Tabellarësch Unuerdnung zouloossen"
 
@@ -9730,24 +9730,24 @@ msgstr "Klickt hei, fir eng Schrëft ze wielen"
 msgid "Could not export shortcuts scheme because the location is invalid."
 msgstr ""
 
-#: kdeui/dialogs/kdialog.cpp:251
+#: kdeui/dialogs/kdialog.cpp:244
 msgid "&Try"
 msgstr "&Probéieren"
 
-#: kdeui/dialogs/kdialog.cpp:432
+#: kdeui/dialogs/kdialog.cpp:440
 msgid "modified"
 msgstr "nach net gespäichert"
 
-#: kdeui/dialogs/kdialog.cpp:442
+#: kdeui/dialogs/kdialog.cpp:450
 msgctxt "Document/application separator in titlebar"
 msgid " – "
 msgstr ""
 
-#: kdeui/dialogs/kdialog.cpp:812
+#: kdeui/dialogs/kdialog.cpp:821
 msgid "&Details"
 msgstr "&Detailer"
 
-#: kdeui/dialogs/kdialog.cpp:958
+#: kdeui/dialogs/kdialog.cpp:967
 msgid "Get help..."
 msgstr "Hëllef ufroen..."
 
@@ -11340,40 +11340,40 @@ msgstr "Text &kopéieren"
 #. (e.g. "Enter search pattern").
 #. By default the text is set in italic, which may not be appropriate
 #. for some languages and scripts (e.g. for CJK ideographs).
-#: kdeui/widgets/ktextedit.cpp:76 kdeui/widgets/klineedit.cpp:89
+#: kdeui/widgets/ktextedit.cpp:77 kdeui/widgets/klineedit.cpp:89
 #, fuzzy
 #| msgid "%1%"
 msgctxt "Italic placeholder text in line edits: 0 no, 1 yes"
 msgid "1"
 msgstr "%1%"
 
-#: kdeui/widgets/ktextedit.cpp:524
+#: kdeui/widgets/ktextedit.cpp:523
 #, fuzzy
 #| msgid "Please enter &name:"
 msgid "Speak Text"
 msgstr "Gitt w.e.g. den &Numm an:"
 
-#: kdeui/widgets/ktextedit.cpp:539
+#: kdeui/widgets/ktextedit.cpp:538
 msgid "Starting KTTSD Failed"
 msgstr ""
 
-#: kdeui/widgets/ktextedit.cpp:628
+#: kdeui/widgets/ktextedit.cpp:627
 #, fuzzy, kde-format
 #| msgid "Suggestion List"
 msgid "No suggestions for %1"
 msgstr "Lëscht mat Beispiller"
 
-#: kdeui/widgets/ktextedit.cpp:639
+#: kdeui/widgets/ktextedit.cpp:638
 msgid "Ignore"
 msgstr "Ignoréieren"
 
-#: kdeui/widgets/ktextedit.cpp:640
+#: kdeui/widgets/ktextedit.cpp:639
 #, fuzzy
 #| msgid "<< Add to Dictionary"
 msgid "Add to Dictionary"
 msgstr "<< An d'Wierderbuch Dobäischreiwen"
 
-#: kdeui/widgets/ktextedit.cpp:785
+#: kdeui/widgets/ktextedit.cpp:784
 #, fuzzy
 msgid "Nothing to spell check."
 msgstr "Kee Provider gewielt."
