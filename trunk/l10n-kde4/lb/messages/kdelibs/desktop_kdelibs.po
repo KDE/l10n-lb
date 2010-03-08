@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-03-07 03:25+0000\n"
+"POT-Creation-Date: 2010-03-08 03:28+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1460,7 +1460,7 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "Automatesch Proxy-Configuratioun"
 
-#: kio/misc/kpac/proxyscout.notifyrc:15
+#: kio/misc/kpac/proxyscout.notifyrc:16
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Invalid proxy script"
@@ -1468,12 +1468,12 @@ msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "Ongültegt Proxy-Skript"
 
-#: kio/misc/kpac/proxyscout.notifyrc:95
+#: kio/misc/kpac/proxyscout.notifyrc:96
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr "D'Proxy-Configuratiounsskript, dat erofgelude gouf, ass ongülteg"
 
-#: kio/misc/kpac/proxyscout.notifyrc:185
+#: kio/misc/kpac/proxyscout.notifyrc:186
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Script download error"
@@ -1481,12 +1481,12 @@ msgctxt "Name"
 msgid "Script Download Error"
 msgstr "Feeler beim Erofluede vum Skript"
 
-#: kio/misc/kpac/proxyscout.notifyrc:266
+#: kio/misc/kpac/proxyscout.notifyrc:267
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr "D'Proxy-Konfiguratiounsskript konnt net erofgeluede ginn"
 
-#: kio/misc/kpac/proxyscout.notifyrc:356
+#: kio/misc/kpac/proxyscout.notifyrc:357
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Script evaluation error"
@@ -1494,7 +1494,7 @@ msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr "Feeler beim Evaluéieren vum Skript"
 
-#: kio/misc/kpac/proxyscout.notifyrc:435
+#: kio/misc/kpac/proxyscout.notifyrc:436
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "Et gouf e Feeler beim Ausféiere vum Proxy-Konfiguratiounsskript"
