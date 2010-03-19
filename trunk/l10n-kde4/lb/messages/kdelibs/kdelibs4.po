@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-03-18 04:27+0100\n"
+"POT-Creation-Date: 2010-03-19 04:53+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -662,7 +662,7 @@ msgstr "&Eroplueden"
 #. i18n: ectx: property (text), widget (QRadioButton, radioUpdate)
 #. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:261
 #. i18n: ectx: property (text), widget (QPushButton, updateButton)
-#: rc.cpp:288 rc.cpp:438 knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:220
+#: rc.cpp:288 rc.cpp:438 knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:222
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:138
 #: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:192
 msgid "Update"
@@ -1004,7 +1004,7 @@ msgstr "Fax Doheem"
 
 #. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:251
 #. i18n: ectx: property (text), widget (QPushButton, installButton)
-#: rc.cpp:435 knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:240
+#: rc.cpp:435 knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:242
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:65
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:144
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:149
@@ -1018,7 +1018,7 @@ msgstr "Installéieren"
 
 #. i18n: file: knewstuff/knewstuff3/ui/entrydetailsdialog.ui:271
 #. i18n: ectx: property (text), widget (QPushButton, uninstallButton)
-#: rc.cpp:441 knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:215
+#: rc.cpp:441 knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:217
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:66
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:133
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:534
@@ -3228,12 +3228,29 @@ msgstr "Authentifizéierung"
 msgid "Upload failed: %1"
 msgstr "Dateien eroplueden"
 
-#: knewstuff/knewstuff3/downloaddialog_p.cpp:70
+#: knewstuff/knewstuff3/knewstuffbutton.cpp:48
+#: knewstuff/knewstuff2/ui/knewstuffbutton.cpp:49
+#, fuzzy
+#| msgid "Download New Stuff"
+msgid "Download New Stuff..."
+msgstr "Nei Saachen eroflueden"
+
+#: knewstuff/knewstuff3/downloaddialog.cpp:81
+#: knewstuff/knewstuff3/downloadwidget.cpp:209
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:83
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:127
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:555
+#, fuzzy
+#| msgid "Get Hot New Stuff"
+msgid "Get Hot New Stuff"
+msgstr "Nei Saachen ofhuelen"
+
+#: knewstuff/knewstuff3/downloadwidget.cpp:123
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:312
 msgid "Timeout. Check Internet connection."
 msgstr ""
 
-#: knewstuff/knewstuff3/downloaddialog_p.cpp:128
+#: knewstuff/knewstuff3/downloadwidget.cpp:181
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:252
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:503
 #, fuzzy, kde-format
@@ -3241,21 +3258,21 @@ msgstr ""
 msgid "Server: %1"
 msgstr "<Merge %1>"
 
-#: knewstuff/knewstuff3/downloaddialog_p.cpp:129
+#: knewstuff/knewstuff3/downloadwidget.cpp:182
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:504
 #, fuzzy, kde-format
 #| msgid "Hide %1"
 msgid "<br />Provider: %1"
 msgstr "%1 net weisen"
 
-#: knewstuff/knewstuff3/downloaddialog_p.cpp:130
+#: knewstuff/knewstuff3/downloadwidget.cpp:183
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:505
 #, fuzzy, kde-format
 #| msgid "Version:"
 msgid "<br />Version: %1"
 msgstr "Versioun:"
 
-#: knewstuff/knewstuff3/downloaddialog_p.cpp:134
+#: knewstuff/knewstuff3/downloadwidget.cpp:187
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:82
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:258
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:509
@@ -3264,83 +3281,66 @@ msgstr "Versioun:"
 msgid "Provider information"
 msgstr "Informatiounen iwwert d'Versioun uweisen"
 
-#: knewstuff/knewstuff3/downloaddialog_p.cpp:145
+#: knewstuff/knewstuff3/downloadwidget.cpp:198
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:535
 #, fuzzy, kde-format
 msgid "Could not install %1"
 msgstr "Konnt de Service '%1' net fannen."
 
-#: knewstuff/knewstuff3/downloaddialog_p.cpp:146
+#: knewstuff/knewstuff3/downloadwidget.cpp:199
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:536
 #, fuzzy
 #| msgid "Get Hot New Stuff"
 msgid "Get Hot New Stuff!"
 msgstr "Nei Saachen ofhuelen"
 
-#: knewstuff/knewstuff3/downloaddialog_p.cpp:156
-#: knewstuff/knewstuff3/downloaddialog.cpp:85
-#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:84
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:127
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:555
-#, fuzzy
-#| msgid "Get Hot New Stuff"
-msgid "Get Hot New Stuff"
-msgstr "Nei Saachen ofhuelen"
-
-#: knewstuff/knewstuff3/downloaddialog_p.cpp:198
+#: knewstuff/knewstuff3/downloadwidget.cpp:251
 #, fuzzy
 #| msgid "Hot New Stuff Providers"
 msgid "All Providers"
 msgstr "Ubidder vun neie Saachen"
 
-#: knewstuff/knewstuff3/downloaddialog_p.cpp:205
+#: knewstuff/knewstuff3/downloadwidget.cpp:258
 #, fuzzy
 #| msgid "Categories"
 msgid "All Categories"
 msgstr "Kategorien"
 
-#: knewstuff/knewstuff3/downloaddialog_p.cpp:214
+#: knewstuff/knewstuff3/downloadwidget.cpp:267
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:129
 #, kde-format
 msgctxt "Program name followed by 'Add On Installer'"
 msgid "%1 Add-On Installer"
 msgstr ""
 
-#: knewstuff/knewstuff3/knewstuffbutton.cpp:48
-#: knewstuff/knewstuff2/ui/knewstuffbutton.cpp:49
-#, fuzzy
-#| msgid "Download New Stuff"
-msgid "Download New Stuff..."
-msgstr "Nei Saachen eroflueden"
-
-#: knewstuff/knewstuff3/core/installation.cpp:494
+#: knewstuff/knewstuff3/core/installation.cpp:457
 #, fuzzy
 #| msgid "Override existing entries"
 msgid "Overwrite existing file?"
 msgstr "Dat, wat do ass, iwwerschreiwen"
 
-#: knewstuff/knewstuff3/core/installation.cpp:494
+#: knewstuff/knewstuff3/core/installation.cpp:457
 #, fuzzy
 #| msgid "Download"
 msgid "Download File:"
 msgstr "Eroflueden"
 
-#: knewstuff/knewstuff3/core/engine.cpp:237
+#: knewstuff/knewstuff3/core/engine.cpp:171
 #, kde-format
 msgid "Could not load get hot new stuff providers from file: %1"
 msgstr ""
 
-#: knewstuff/knewstuff3/core/engine.cpp:268
+#: knewstuff/knewstuff3/core/engine.cpp:201
 msgid "Loading data from provider"
 msgstr ""
 
-#: knewstuff/knewstuff3/core/engine.cpp:273
+#: knewstuff/knewstuff3/core/engine.cpp:206
 #, fuzzy, kde-format
 #| msgid "Loading resource '%1' failed!"
 msgid "Loading of providers from file: %1 failed"
 msgstr "D'Quell '%1' konnt net geluede ginn!"
 
-#: knewstuff/knewstuff3/core/engine.cpp:402
+#: knewstuff/knewstuff3/core/engine.cpp:392
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:195
 #, fuzzy, kde-format
 #| msgid "Redo: %1"
@@ -3449,79 +3449,79 @@ msgid "Could not make you a fan."
 msgstr "Konnt déi nei Datei net erstellen."
 
 #: knewstuff/knewstuff3/ui/itemsmodel.cpp:144
-#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:122
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:121
 #, fuzzy
 #| msgid "Print Previe&w..."
 msgid "Loading preview..."
 msgstr "Drocker&virschau..."
 
-#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:85
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:84
 #, fuzzy, kde-format
 #| msgid "Suggestion List"
 msgid "Details for %1"
 msgstr "Lëscht mat Beispiller"
 
-#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:97
+#: knewstuff/knewstuff3/ui/entrydetailsdialog.cpp:96
 #, fuzzy
 #| msgid "Homepage"
 msgctxt "A link to the description of this Get Hot New Stuff item"
 msgid "Visit homepage..."
 msgstr "Homepage"
 
-#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:177
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:179
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:181
+#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:183
 #, fuzzy, kde-format
 #| msgid "<b>Error</b>: %1: %2"
 msgctxt "Show the author of this item in a list"
 msgid "By <i>%1</i>"
 msgstr "<b>Feeler</b>: %1: %2"
 
-#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:191
+#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:193
 #: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:150
 #, fuzzy, kde-format
 #| msgid "Downloads"
 msgid "<p>Downloads: %1</p>\n"
 msgstr "Downloads"
 
-#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:225
+#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:227
 #, fuzzy
 #| msgid "Installation"
 msgid "Install again"
 msgstr "Installatioun"
 
-#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:230
+#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:232
 #, fuzzy
 #| msgid "Install"
 msgid "Installing"
 msgstr "Installéieren"
 
-#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:235
+#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:237
 #, fuzzy
 #| msgid "Update"
 msgid "Updating"
 msgstr "Aktualiséieren"
 
-#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:248
+#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:250
 #, fuzzy
 #| msgid "Details"
 msgid "Details..."
 msgstr "Detailer"
 
-#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:255
+#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:257
 #, fuzzy, kde-format
 #| msgid "Rating"
 msgid "Rating: %1%"
 msgstr "Bewertung"
 
-#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:293
+#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:295
 #: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:254
 #, fuzzy
 #| msgid "Preview URL:"
 msgid "No Preview"
 msgstr "URL-Virschau:"
 
-#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:303
+#: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:305
 #: knewstuff/knewstuff2/ui/itemsviewdelegate.cpp:264
 #, fuzzy
 #| msgid "Print Previe&w..."
