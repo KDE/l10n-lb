@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-03-25 04:18+0100\n"
+"POT-Creation-Date: 2010-03-26 04:36+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2433,7 +2433,7 @@ msgstr ""
 
 #: kross/test/main.cpp:149 kross/console/main.cpp:102 kross/qts/main.cpp:63
 #: kde3support/kdeui/k3aboutdialog.cpp:184 kded/kbuildsycoca.cpp:621
-#: kded/kbuildsycoca.cpp:622 kded/khostname.cpp:220
+#: kded/kbuildsycoca.cpp:622
 msgid "Author"
 msgstr "Auteur"
 
@@ -2598,11 +2598,11 @@ msgid "(c) 2001, Waldo Bastian"
 msgstr ""
 
 #: kconf_update/kconf_update.cpp:963 khtml/khtml_global.cpp:213
-#: kded/kbuildsycoca.cpp:622 kded/khostname.cpp:220
+#: kded/kbuildsycoca.cpp:622
 msgid "Waldo Bastian"
 msgstr ""
 
-#: nepomuk/query/queryparser.cpp:342
+#: nepomuk/query/queryparser.cpp:360
 #, fuzzy
 #| msgid "Esfand"
 msgctxt ""
@@ -2613,7 +2613,7 @@ msgctxt ""
 msgid "and"
 msgstr "Esfand"
 
-#: nepomuk/query/queryparser.cpp:351
+#: nepomuk/query/queryparser.cpp:369
 #, fuzzy
 #| msgid "Mor"
 msgctxt ""
@@ -3295,34 +3295,50 @@ msgstr "Ubidder vun neie Saachen"
 msgid "All Categories"
 msgstr "Kategorien"
 
-#: knewstuff/knewstuff3/core/installation.cpp:151
+#: knewstuff/knewstuff3/core/installation.cpp:154
 #, fuzzy
 #| msgid "invalid flags"
 msgid "Invalid item."
 msgstr "Ongülteg Werter"
 
-#: knewstuff/knewstuff3/core/installation.cpp:158
+#: knewstuff/knewstuff3/core/installation.cpp:161
 #, kde-format
 msgid "Download of item failed: no download url for \"%1\""
 msgstr ""
 
-#: knewstuff/knewstuff3/core/installation.cpp:193
+#: knewstuff/knewstuff3/core/installation.cpp:196
 #, kde-format
 msgid "Download of \"%1\" failed, error: %2"
 msgstr ""
 
-#: knewstuff/knewstuff3/core/installation.cpp:260
+#: knewstuff/knewstuff3/core/installation.cpp:204
+msgid ""
+"The downloaded file is a html file. This indicates a link to a website "
+"instead of the actual download. Would you like to open the site with a "
+"browser instead?"
+msgstr ""
+
+#: knewstuff/knewstuff3/core/installation.cpp:204
+#, fuzzy
+msgid "Possibly bad download link"
+msgstr "Konnt déi nei Datei net erstellen."
+
+#: knewstuff/knewstuff3/core/installation.cpp:207
+msgid "Downloaded file was a HTML file. Opened in browser."
+msgstr ""
+
+#: knewstuff/knewstuff3/core/installation.cpp:279
 #, fuzzy, kde-format
 msgid "Could not install \"%1\": file not found."
 msgstr "Konnt de Service '%1' net fannen."
 
-#: knewstuff/knewstuff3/core/installation.cpp:451
+#: knewstuff/knewstuff3/core/installation.cpp:470
 #, fuzzy
 #| msgid "Override existing entries"
 msgid "Overwrite existing file?"
 msgstr "Dat, wat do ass, iwwerschreiwen"
 
-#: knewstuff/knewstuff3/core/installation.cpp:451
+#: knewstuff/knewstuff3/core/installation.cpp:470
 #, fuzzy
 #| msgid "Download"
 msgid "Download File:"
@@ -8999,17 +9015,17 @@ msgstr "Sicht am Internet"
 msgid "&Search"
 msgstr "&Sichen"
 
-#: kded/kded.cpp:858
+#: kded/kded.cpp:862
 msgid "KDE Daemon"
 msgstr "KDE-Daemon"
 
-#: kded/kded.cpp:860
+#: kded/kded.cpp:864
 msgid "KDE Daemon - triggers Sycoca database updates when needed"
 msgstr ""
 "KDE-Daemon: Léist d'Aktualiséierunge vun der Sycoca-Datebank aus, wa "
 "gebraucht"
 
-#: kded/kded.cpp:863
+#: kded/kded.cpp:867
 msgid "Check Sycoca database only once"
 msgstr "An der Sycoca-Datebank just eng Kéier nokucken"
 
@@ -9056,34 +9072,6 @@ msgstr "Just ën Test fir d'Menü-Erstellung maachen"
 #: kded/kbuildsycoca.cpp:631
 msgid "Track menu id for debug purposes"
 msgstr "D'Menü-ID fir ën Debugging späicheren"
-
-#: kded/khostname.cpp:72
-msgid "Error: HOME environment variable not set.\n"
-msgstr "Feeler: D'HOME-Variabel ass net festgeluecht ginn.\n"
-
-#: kded/khostname.cpp:82
-msgid "Error: DISPLAY environment variable not set.\n"
-msgstr "Feeler: D'DISPLAY-Variabel ass net festgeluecht ginn.\n"
-
-#: kded/khostname.cpp:217
-msgid "KDontChangeTheHostName"
-msgstr "KDE: Den Numm vum Host net veränneren"
-
-#: kded/khostname.cpp:218
-msgid "Informs KDE about a change in hostname"
-msgstr "Informéiert de KDE vun enger Verännerung vum Numm vum Host"
-
-#: kded/khostname.cpp:219
-msgid "(c) 2001 Waldo Bastian"
-msgstr ""
-
-#: kded/khostname.cpp:223
-msgid "Old hostname"
-msgstr "Alen Numm vum Host"
-
-#: kded/khostname.cpp:224
-msgid "New hostname"
-msgstr "Neien Numm fir den Host"
 
 #: kpty/kptydevice.cpp:306
 #, fuzzy
@@ -13662,24 +13650,24 @@ msgid "Minimize"
 msgstr "Kleng maachen"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:215
-#: kdeui/notifications/kstatusnotifieritem.cpp:353
-#: kdeui/notifications/kstatusnotifieritem.cpp:780
+#: kdeui/notifications/kstatusnotifieritem.cpp:355
+#: kdeui/notifications/kstatusnotifieritem.cpp:781
 msgid "&Minimize"
 msgstr "&Grouss maachen"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:219
-#: kdeui/notifications/kstatusnotifieritem.cpp:778
+#: kdeui/notifications/kstatusnotifieritem.cpp:779
 msgid "&Restore"
 msgstr "Zeréck&setzen"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:239
-#: kdeui/notifications/kstatusnotifieritem.cpp:788
+#: kdeui/notifications/kstatusnotifieritem.cpp:789
 #, kde-format
 msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgstr "<qt>Sidd dir sëcher, dass dir <b>%1</b> zoumaache wëllt ?</qt>"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:242
-#: kdeui/notifications/kstatusnotifieritem.cpp:791
+#: kdeui/notifications/kstatusnotifieritem.cpp:792
 msgid "Confirm Quit From System Tray"
 msgstr "Aus dem Systemberäich erausgoen"
 
@@ -14707,6 +14695,24 @@ msgstr "Wat ass &dat?"
 msgid "Tip of the &Day"
 msgstr "&Rotschlag vum Dag"
 
+#~ msgid "Error: HOME environment variable not set.\n"
+#~ msgstr "Feeler: D'HOME-Variabel ass net festgeluecht ginn.\n"
+
+#~ msgid "Error: DISPLAY environment variable not set.\n"
+#~ msgstr "Feeler: D'DISPLAY-Variabel ass net festgeluecht ginn.\n"
+
+#~ msgid "KDontChangeTheHostName"
+#~ msgstr "KDE: Den Numm vum Host net veränneren"
+
+#~ msgid "Informs KDE about a change in hostname"
+#~ msgstr "Informéiert de KDE vun enger Verännerung vum Numm vum Host"
+
+#~ msgid "Old hostname"
+#~ msgstr "Alen Numm vum Host"
+
+#~ msgid "New hostname"
+#~ msgstr "Neien Numm fir den Host"
+
 #, fuzzy
 #~| msgid "Description:"
 #~ msgid "description"
@@ -14720,10 +14726,6 @@ msgstr "&Rotschlag vum Dag"
 #, fuzzy
 #~ msgid "Could not get account balance."
 #~ msgstr "Konnt d'Datei net opmaachen."
-
-#, fuzzy
-#~ msgid "Could not get download link."
-#~ msgstr "Konnt déi nei Datei net erstellen."
 
 #, fuzzy
 #~| msgid "Upload Files"
