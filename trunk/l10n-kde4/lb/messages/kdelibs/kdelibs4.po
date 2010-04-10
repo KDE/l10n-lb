@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-04-08 04:26+0200\n"
+"POT-Creation-Date: 2010-04-10 04:38+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -777,9 +777,8 @@ msgstr "Virschau vum Bild:%1\n"
 #. i18n: ectx: property (text), widget (QPushButton, changePreview2Button)
 #: rc.cpp:330 rc.cpp:333 rc.cpp:336
 #, fuzzy
-#| msgid "Change &Icon..."
-msgid "Change..."
-msgstr "&Symbol änneren..."
+msgid "Select Preview..."
+msgstr "Komponenten auswielen..."
 
 #. i18n: file: knewstuff/knewstuff3/uploaddialog.ui:426
 #. i18n: ectx: property (text), widget (QCheckBox, priceCheckBox)
@@ -3396,30 +3395,30 @@ msgid "Error initializing provider."
 msgstr "Feeler beim duerchliese vun der Providerlëscht."
 
 #: knewstuff/knewstuff3/core/engine.cpp:219
-#: knewstuff/knewstuff3/core/engine.cpp:495
+#: knewstuff/knewstuff3/core/engine.cpp:499
 #, fuzzy
 #| msgid "Loading Applet"
 msgid "Loading data"
 msgstr "Amgaang, de Miniprogramm ze lueden"
 
-#: knewstuff/knewstuff3/core/engine.cpp:243
+#: knewstuff/knewstuff3/core/engine.cpp:247
 msgid "Loading data from provider"
 msgstr ""
 
-#: knewstuff/knewstuff3/core/engine.cpp:248
+#: knewstuff/knewstuff3/core/engine.cpp:252
 #, fuzzy, kde-format
 #| msgid "Loading resource '%1' failed!"
 msgid "Loading of providers from file: %1 failed"
 msgstr "D'Quell '%1' konnt net geluede ginn!"
 
-#: knewstuff/knewstuff3/core/engine.cpp:457
+#: knewstuff/knewstuff3/core/engine.cpp:461
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:195
 #, fuzzy, kde-format
 #| msgid "Redo: %1"
 msgid "Re: %1"
 msgstr "Nees zeréck: %1"
 
-#: knewstuff/knewstuff3/core/engine.cpp:497
+#: knewstuff/knewstuff3/core/engine.cpp:501
 #, fuzzy, kde-format
 #| msgid "Print Previe&w..."
 msgid "Loading one preview"
@@ -3427,7 +3426,7 @@ msgid_plural "Loading %1 previews"
 msgstr[0] "Drocker&virschau..."
 msgstr[1] "Drocker&virschau..."
 
-#: knewstuff/knewstuff3/core/engine.cpp:499
+#: knewstuff/knewstuff3/core/engine.cpp:503
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:133
 #: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:342
 #, fuzzy
@@ -14755,6 +14754,11 @@ msgstr "Wat ass &dat?"
 #: kdeui/actions/kstandardaction_p.h:113
 msgid "Tip of the &Day"
 msgstr "&Rotschlag vum Dag"
+
+#, fuzzy
+#~| msgid "Change &Icon..."
+#~ msgid "Change..."
+#~ msgstr "&Symbol änneren..."
 
 #, fuzzy
 #~| msgid "Homepage"
