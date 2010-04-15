@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-04-13 05:21+0200\n"
+"POT-Creation-Date: 2010-04-15 04:28+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2398,7 +2398,7 @@ msgstr "Beschreiwung:"
 msgid "Configure Notifications"
 msgstr "&Norichte configuréieren..."
 
-#: interfaces/ktexteditor/templateinterface.cpp:64
+#: interfaces/ktexteditor/templateinterface.cpp:66
 msgid ""
 "The template needs information about you, which is stored in your address "
 "book.\n"
