@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-04-23 04:53+0200\n"
+"POT-Creation-Date: 2010-04-24 04:51+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2714,20 +2714,20 @@ msgctxt "@action:button"
 msgid "Cancel"
 msgstr "Ofbriechen"
 
-#: nepomuk/core/ui/tagwidget.cpp:60
+#: nepomuk/core/ui/tagwidget.cpp:61
 #, fuzzy
 #| msgid "Show all options"
 msgctxt "@label"
 msgid "Show all tags..."
 msgstr "All Optioune weisen"
 
-#: nepomuk/core/ui/tagwidget.cpp:102
+#: nepomuk/core/ui/tagwidget.cpp:104
 #, fuzzy
 msgctxt "@label"
 msgid "Add Tags..."
 msgstr "&Dobäimaachen..."
 
-#: nepomuk/core/ui/tagwidget.cpp:102
+#: nepomuk/core/ui/tagwidget.cpp:104
 #, fuzzy
 #| msgid "Change &Icon..."
 msgctxt "@label"
