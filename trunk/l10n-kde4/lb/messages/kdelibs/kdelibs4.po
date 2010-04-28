@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-04-27 05:14+0200\n"
+"POT-Creation-Date: 2010-04-28 04:47+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -7681,7 +7681,7 @@ msgstr "Net eroflueden"
 msgid "This is a searchable index. Enter search keywords: "
 msgstr "Dësem Index kënnt dir duerchsichen. Gitt Stëchwierder an: "
 
-#: khtml/ecma/kjs_html.cpp:2115 khtml/ecma/kjs_window.cpp:1595
+#: khtml/ecma/kjs_html.cpp:2115 khtml/ecma/kjs_window.cpp:1598
 msgid "Confirmation: JavaScript Popup"
 msgstr "Bestätegung: JavaScript-Fënsteren"
 
@@ -7705,15 +7705,15 @@ msgstr ""
 "<qt>Dëss Säit probéiert, e Formular ofzeschécken, deen iwwer JavaScript <p>%"
 "1</p> an enger neier Fënster opmëcht.<br/>Wëllt dir dat zouloossen?</qt>"
 
-#: khtml/ecma/kjs_html.cpp:2122 khtml/ecma/kjs_window.cpp:1603
+#: khtml/ecma/kjs_html.cpp:2122 khtml/ecma/kjs_window.cpp:1606
 msgid "Allow"
 msgstr "Erlaben"
 
-#: khtml/ecma/kjs_html.cpp:2122 khtml/ecma/kjs_window.cpp:1603
+#: khtml/ecma/kjs_html.cpp:2122 khtml/ecma/kjs_window.cpp:1606
 msgid "Do Not Allow"
 msgstr "Net erlaben"
 
-#: khtml/ecma/kjs_window.cpp:1598
+#: khtml/ecma/kjs_window.cpp:1601
 msgid ""
 "This site is requesting to open up a new browser window via JavaScript.\n"
 "Do you want to allow this?"
@@ -7721,7 +7721,7 @@ msgstr ""
 "Dëss Säit huet ugefrot, fir eng nei Fënster iwwert JavaScript opzemaachen.\n"
 "Wëllt dir dat zouloossen?"
 
-#: khtml/ecma/kjs_window.cpp:1601
+#: khtml/ecma/kjs_window.cpp:1604
 #, kde-format
 msgid ""
 "<qt>This site is requesting to open<p>%1</p>in a new browser window via "
@@ -7730,22 +7730,22 @@ msgstr ""
 "<qt>Dëss Säit huet ugefrot, fir<p>%1</p>an enger neier Fënster iwwert "
 "JavaScript opzemaachen.<br/>Wëllt dir dat zouloossen?</qt>"
 
-#: khtml/ecma/kjs_window.cpp:1906
+#: khtml/ecma/kjs_window.cpp:1909
 msgid "Close window?"
 msgstr "Fënster zoumaachen?"
 
-#: khtml/ecma/kjs_window.cpp:1906
+#: khtml/ecma/kjs_window.cpp:1909
 msgid "Confirmation Required"
 msgstr "Bestätegung noutwendeg"
 
-#: khtml/ecma/kjs_window.cpp:2773
+#: khtml/ecma/kjs_window.cpp:2776
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr "Wëllt dir e Lieszeeche fir \"%1\" an är Sammlung dobäimaachen?"
 
-#: khtml/ecma/kjs_window.cpp:2776
+#: khtml/ecma/kjs_window.cpp:2779
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
@@ -7754,15 +7754,15 @@ msgstr ""
 "Wëllt dir e Lieszeeche mam Numm \"%2\" fir \"%1\" an är Sammlung "
 "dobäimaachen?"
 
-#: khtml/ecma/kjs_window.cpp:2784
+#: khtml/ecma/kjs_window.cpp:2787
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr "JavaScript huet probéiert, e Lieszeechen dobäizemaachen"
 
-#: khtml/ecma/kjs_window.cpp:2788
+#: khtml/ecma/kjs_window.cpp:2791
 msgid "Insert"
 msgstr "Asetzen"
 
-#: khtml/ecma/kjs_window.cpp:2788
+#: khtml/ecma/kjs_window.cpp:2791
 msgid "Disallow"
 msgstr "Net zouloossen"
 
