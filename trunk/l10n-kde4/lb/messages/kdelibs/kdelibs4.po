@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-04-30 04:43+0200\n"
+"POT-Creation-Date: 2010-05-01 04:45+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -9956,11 +9956,11 @@ msgstr "Pager"
 msgid "Page Set"
 msgstr "Säit gelueden."
 
-#: kdeui/dialogs/kpixmapregionselectordialog.cpp:47
+#: kdeui/dialogs/kpixmapregionselectordialog.cpp:64
 msgid "Select Region of Image"
 msgstr "Bildauschnëtt wielen"
 
-#: kdeui/dialogs/kpixmapregionselectordialog.cpp:52
+#: kdeui/dialogs/kpixmapregionselectordialog.cpp:69
 msgid "Please click and drag on the image to select the region of interest:"
 msgstr ""
 "Klickt an zitt w.e.g. iwwert d'Bild fir de gewënschte Beräich ze wielen:"

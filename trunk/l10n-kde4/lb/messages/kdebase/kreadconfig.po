@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kreadconfig\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2009-12-29 06:16+0100\n"
+"POT-Creation-Date: 2010-05-01 04:46+0200\n"
 "PO-Revision-Date: 2005-12-27 21:34+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -30,23 +30,23 @@ msgstr ""
 msgid "Bernhard Rosenkraenzer"
 msgstr ""
 
-#: kreadconfig.cpp:63
+#: kreadconfig.cpp:65
 msgid "Use <file> instead of global config"
 msgstr "Benotz <file> amplaz vun der globaler Configuratiounsdatei"
 
-#: kreadconfig.cpp:64
+#: kreadconfig.cpp:66
 msgid "Group to look in. Use repeatedly for nested groups."
 msgstr ""
 
-#: kreadconfig.cpp:65
+#: kreadconfig.cpp:67
 msgid "Key to look for"
 msgstr "Schlëssel no deem gesicht soll ginn"
 
-#: kreadconfig.cpp:66
+#: kreadconfig.cpp:68
 msgid "Default value"
 msgstr "Standardwäert"
 
-#: kreadconfig.cpp:67
+#: kreadconfig.cpp:69
 msgid "Type of variable"
 msgstr "Typ vun der Variabel"
 
