@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-05-07 04:38+0200\n"
+"POT-Creation-Date: 2010-05-08 04:41+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -10067,7 +10067,7 @@ msgstr ""
 msgid "&Details"
 msgstr "&Detailer"
 
-#: kdeui/dialogs/kdialog.cpp:969
+#: kdeui/dialogs/kdialog.cpp:975
 msgid "Get help..."
 msgstr "Hëllef ufroen..."
 
@@ -13777,24 +13777,24 @@ msgid "Minimize"
 msgstr "Kleng maachen"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:215
-#: kdeui/notifications/kstatusnotifieritem.cpp:395
-#: kdeui/notifications/kstatusnotifieritem.cpp:831
+#: kdeui/notifications/kstatusnotifieritem.cpp:397
+#: kdeui/notifications/kstatusnotifieritem.cpp:833
 msgid "&Minimize"
 msgstr "&Grouss maachen"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:219
-#: kdeui/notifications/kstatusnotifieritem.cpp:829
+#: kdeui/notifications/kstatusnotifieritem.cpp:831
 msgid "&Restore"
 msgstr "Zeréck&setzen"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:239
-#: kdeui/notifications/kstatusnotifieritem.cpp:839
+#: kdeui/notifications/kstatusnotifieritem.cpp:841
 #, kde-format
 msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgstr "<qt>Sidd dir sëcher, dass dir <b>%1</b> zoumaache wëllt ?</qt>"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:242
-#: kdeui/notifications/kstatusnotifieritem.cpp:842
+#: kdeui/notifications/kstatusnotifieritem.cpp:844
 msgid "Confirm Quit From System Tray"
 msgstr "Aus dem Systemberäich erausgoen"
 
