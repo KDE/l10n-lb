@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-05-09 04:28+0200\n"
+"POT-Creation-Date: 2010-05-10 04:40+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -901,8 +901,10 @@ msgstr "Bewertung"
 
 #. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:110
 #. i18n: ectx: property (text), widget (QRadioButton, mostDownloadsRadio)
-#: rc.cpp:393 knewstuff/knewstuff2/core/providerhandler.cpp:166
-msgid "Most Downloads"
+#: rc.cpp:393
+#, fuzzy
+#| msgid "Most Downloads"
+msgid "Most downloads"
 msgstr "Am meeschten erofgelueden"
 
 #. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:117
@@ -940,7 +942,7 @@ msgstr ""
 #: rc.cpp:408
 #, fuzzy
 #| msgid "Upload Files"
-msgid "Upload your own files..."
+msgid "Upload Your Own Files..."
 msgstr "Dateien eroplueden"
 
 #. i18n: file: knewstuff/knewstuff3/downloadwidget.ui:366
@@ -1191,7 +1193,7 @@ msgstr "Eegeschaft"
 #. i18n: file: kdeui/dialogs/kcupsoptionsjobwidget.ui:122
 #. i18n: ectx: property (text), widget (QTableWidget, jobOptionsTable)
 #: rc.cpp:537 rc.cpp:904 khtml/ecma/debugger/localvariabledock.cpp:52
-#: khtml/java/kjavaappletviewer.cpp:139
+#: khtml/java/kjavaappletviewer.cpp:140
 msgid "Value"
 msgstr "Wert"
 
@@ -3635,9 +3637,8 @@ msgstr "Installatioun"
 
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:174
 #: knewstuff/knewstuff3/ui/itemsgridviewdelegate.cpp:282
-#, fuzzy
-#| msgid "Details"
-msgid "Details..."
+#: kdeui/dialogs/kmessagebox.cpp:266
+msgid "Details"
 msgstr "Detailer"
 
 #: knewstuff/knewstuff3/ui/itemsviewdelegate.cpp:223
@@ -3701,6 +3702,10 @@ msgstr "Dat Neitst"
 #: knewstuff/knewstuff2/core/providerhandler.cpp:160
 msgid "Highest Rated"
 msgstr "Am héchste bewäert"
+
+#: knewstuff/knewstuff2/core/providerhandler.cpp:166
+msgid "Most Downloads"
+msgstr "Am meeschten erofgelueden"
 
 #: knewstuff/knewstuff2/ui/kdxschanges.cpp:31
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:70
@@ -8078,23 +8083,23 @@ msgstr "Miniprogramm \"%1\" leeft"
 msgid "Applet \"%1\" stopped"
 msgstr "Miniprogramm \"%1\" gestoppt"
 
-#: khtml/java/kjavaappletviewer.cpp:127
+#: khtml/java/kjavaappletviewer.cpp:128
 msgid "Applet Parameters"
 msgstr "Parameter vum Miniprogramm"
 
-#: khtml/java/kjavaappletviewer.cpp:138
+#: khtml/java/kjavaappletviewer.cpp:139
 msgid "Parameter"
 msgstr "Parameter"
 
-#: khtml/java/kjavaappletviewer.cpp:142
+#: khtml/java/kjavaappletviewer.cpp:143
 msgid "Class"
 msgstr "Klass"
 
-#: khtml/java/kjavaappletviewer.cpp:148
+#: khtml/java/kjavaappletviewer.cpp:149
 msgid "Base URL"
 msgstr "Basis-Adress"
 
-#: khtml/java/kjavaappletviewer.cpp:154
+#: khtml/java/kjavaappletviewer.cpp:155
 msgid "Archives"
 msgstr "Archiver"
 
@@ -8739,12 +8744,12 @@ msgstr "Siche&n:"
 
 #: kde3support/kdeui/k3syntaxhighlighter.cpp:470
 #: kde3support/kdeui/k3syntaxhighlighter.cpp:576
-#: kdeui/sonnet/highlighter.cpp:292 kdeui/sonnet/highlighter.cpp:315
+#: kdeui/sonnet/highlighter.cpp:241 kdeui/sonnet/highlighter.cpp:264
 msgid "As-you-type spell checking enabled."
 msgstr "Autom. Rechtschreifkontroll ugeschalt."
 
 #: kde3support/kdeui/k3syntaxhighlighter.cpp:472
-#: kdeui/sonnet/highlighter.cpp:317
+#: kdeui/sonnet/highlighter.cpp:266
 msgid "As-you-type spell checking disabled."
 msgstr "Autom. Rechtschreifkontroll ausgeschalt."
 
@@ -8753,7 +8758,7 @@ msgid "Incremental Spellcheck"
 msgstr "Zouwues-Rechtschreifkontroll"
 
 #: kde3support/kdeui/k3syntaxhighlighter.cpp:578
-#: kdeui/sonnet/highlighter.cpp:294
+#: kdeui/sonnet/highlighter.cpp:243
 msgid "Too many misspelled words. As-you-type spell checking disabled."
 msgstr ""
 "Ze vill falsch geschriwwe Wierder. D'automatësch Rechtschreifkontroll ass "
@@ -9919,10 +9924,6 @@ msgstr "%1%"
 msgctxt "@action:button post-filter"
 msgid "."
 msgstr ""
-
-#: kdeui/dialogs/kmessagebox.cpp:266
-msgid "Details"
-msgstr "Detailer"
 
 #: kdeui/dialogs/kmessagebox.cpp:457 kdeui/dialogs/kmessagebox.cpp:518
 msgid "Question"
@@ -14910,6 +14911,11 @@ msgid "Tip of the &Day"
 msgstr "&Rotschlag vum Dag"
 
 #, fuzzy
+#~| msgid "Details"
+#~ msgid "Details..."
+#~ msgstr "Detailer"
+
+#, fuzzy
 #~| msgid "New Game"
 #~ msgid "New Tag"
 #~ msgstr "Neit Spill"
@@ -17741,11 +17747,6 @@ msgstr "&Rotschlag vum Dag"
 #~ msgstr ""
 #~ "Konnt d'Bibliothéik '%1' net opmaachen.\n"
 #~ "%2"
-
-#, fuzzy
-#~| msgid "Most Downloads"
-#~ msgid "Most downloads"
-#~ msgstr "Am meeschten erofgelueden"
 
 #, fuzzy
 #~| msgid "Type"
