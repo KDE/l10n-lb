@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-05-10 04:40+0200\n"
+"POT-Creation-Date: 2010-05-11 05:53+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2629,22 +2629,22 @@ msgctxt ""
 msgid "or"
 msgstr "Mor"
 
-#: nepomuk/core/resource.cpp:519
+#: nepomuk/core/resource.cpp:520
 msgid "Success"
 msgstr ""
 
-#: nepomuk/core/resource.cpp:521
+#: nepomuk/core/resource.cpp:522
 #, fuzzy
 msgid "Communication error"
 msgstr "Configuratioun"
 
-#: nepomuk/core/resource.cpp:523
+#: nepomuk/core/resource.cpp:524
 #, fuzzy
 #| msgid "Invalid reference base"
 msgid "Invalid type in Database"
 msgstr "Ongülteg Basis fir d'Referenz"
 
-#: nepomuk/core/resource.cpp:525 kdecore/network/klocalsocket_unix.cpp:213
+#: nepomuk/core/resource.cpp:526 kdecore/network/klocalsocket_unix.cpp:213
 #: kdecore/network/klocalsocket_unix.cpp:293
 #, fuzzy
 #| msgctxt "QFile"
@@ -7764,7 +7764,7 @@ msgstr "Net eroflueden"
 msgid "This is a searchable index. Enter search keywords: "
 msgstr "Dësem Index kënnt dir duerchsichen. Gitt Stëchwierder an: "
 
-#: khtml/ecma/kjs_html.cpp:2115 khtml/ecma/kjs_window.cpp:1608
+#: khtml/ecma/kjs_html.cpp:2115 khtml/ecma/kjs_window.cpp:1611
 msgid "Confirmation: JavaScript Popup"
 msgstr "Bestätegung: JavaScript-Fënsteren"
 
@@ -7788,15 +7788,15 @@ msgstr ""
 "<qt>Dëss Säit probéiert, e Formular ofzeschécken, deen iwwer JavaScript <p>%"
 "1</p> an enger neier Fënster opmëcht.<br/>Wëllt dir dat zouloossen?</qt>"
 
-#: khtml/ecma/kjs_html.cpp:2122 khtml/ecma/kjs_window.cpp:1616
+#: khtml/ecma/kjs_html.cpp:2122 khtml/ecma/kjs_window.cpp:1619
 msgid "Allow"
 msgstr "Erlaben"
 
-#: khtml/ecma/kjs_html.cpp:2122 khtml/ecma/kjs_window.cpp:1616
+#: khtml/ecma/kjs_html.cpp:2122 khtml/ecma/kjs_window.cpp:1619
 msgid "Do Not Allow"
 msgstr "Net erlaben"
 
-#: khtml/ecma/kjs_window.cpp:1611
+#: khtml/ecma/kjs_window.cpp:1614
 msgid ""
 "This site is requesting to open up a new browser window via JavaScript.\n"
 "Do you want to allow this?"
@@ -7804,7 +7804,7 @@ msgstr ""
 "Dëss Säit huet ugefrot, fir eng nei Fënster iwwert JavaScript opzemaachen.\n"
 "Wëllt dir dat zouloossen?"
 
-#: khtml/ecma/kjs_window.cpp:1614
+#: khtml/ecma/kjs_window.cpp:1617
 #, kde-format
 msgid ""
 "<qt>This site is requesting to open<p>%1</p>in a new browser window via "
@@ -7813,22 +7813,22 @@ msgstr ""
 "<qt>Dëss Säit huet ugefrot, fir<p>%1</p>an enger neier Fënster iwwert "
 "JavaScript opzemaachen.<br/>Wëllt dir dat zouloossen?</qt>"
 
-#: khtml/ecma/kjs_window.cpp:1919
+#: khtml/ecma/kjs_window.cpp:1922
 msgid "Close window?"
 msgstr "Fënster zoumaachen?"
 
-#: khtml/ecma/kjs_window.cpp:1919
+#: khtml/ecma/kjs_window.cpp:1922
 msgid "Confirmation Required"
 msgstr "Bestätegung noutwendeg"
 
-#: khtml/ecma/kjs_window.cpp:2786
+#: khtml/ecma/kjs_window.cpp:2789
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" to be added to your "
 "collection?"
 msgstr "Wëllt dir e Lieszeeche fir \"%1\" an är Sammlung dobäimaachen?"
 
-#: khtml/ecma/kjs_window.cpp:2789
+#: khtml/ecma/kjs_window.cpp:2792
 #, kde-format
 msgid ""
 "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
@@ -7837,19 +7837,19 @@ msgstr ""
 "Wëllt dir e Lieszeeche mam Numm \"%2\" fir \"%1\" an är Sammlung "
 "dobäimaachen?"
 
-#: khtml/ecma/kjs_window.cpp:2797
+#: khtml/ecma/kjs_window.cpp:2800
 msgid "JavaScript Attempted Bookmark Insert"
 msgstr "JavaScript huet probéiert, e Lieszeechen dobäizemaachen"
 
-#: khtml/ecma/kjs_window.cpp:2801
+#: khtml/ecma/kjs_window.cpp:2804
 msgid "Insert"
 msgstr "Asetzen"
 
-#: khtml/ecma/kjs_window.cpp:2801
+#: khtml/ecma/kjs_window.cpp:2804
 msgid "Disallow"
 msgstr "Net zouloossen"
 
-#: khtml/ecma/kjs_binding.cpp:184
+#: khtml/ecma/kjs_binding.cpp:185
 #, fuzzy
 #| msgid ""
 #| "A script on this page is causing KHTML to freeze. If it continues to run, "
@@ -7864,11 +7864,11 @@ msgstr ""
 "gëtt, ginn eventuell och aner Programmer mat abezunn.\n"
 "Wëllt dir d'Ausféierung vum Script ofbriechen?"
 
-#: khtml/ecma/kjs_binding.cpp:184
+#: khtml/ecma/kjs_binding.cpp:185
 msgid "JavaScript"
 msgstr "JavaScript"
 
-#: khtml/ecma/kjs_binding.cpp:184
+#: khtml/ecma/kjs_binding.cpp:185
 #, fuzzy
 msgid "&Stop Script"
 msgstr "&Handschrëft"
@@ -8151,7 +8151,7 @@ msgstr "&Jo"
 msgid "&Grant All"
 msgstr "Alleguer &zouloossen"
 
-#: khtml/xml/dom_docimpl.cpp:2269
+#: khtml/xml/dom_docimpl.cpp:2258
 msgid "Basic Page Style"
 msgstr "Grondstil"
 
@@ -9806,19 +9806,19 @@ msgstr "Gitt &Member am KDE-Team"
 msgid "&Support KDE"
 msgstr "KDE ënner&stëtzen"
 
-#: kdeui/dialogs/klinkdialog.cpp:48
+#: kdeui/dialogs/klinkdialog.cpp:49
 #, fuzzy
 #| msgid "Save Link As"
 msgid "Manage Link"
 msgstr "Link späicheren als"
 
-#: kdeui/dialogs/klinkdialog.cpp:58
+#: kdeui/dialogs/klinkdialog.cpp:59
 #, fuzzy
 #| msgid "Find Text"
 msgid "Link Text:"
 msgstr "Text sichen"
 
-#: kdeui/dialogs/klinkdialog.cpp:61
+#: kdeui/dialogs/klinkdialog.cpp:62
 #, fuzzy
 #| msgid "URL:"
 msgid "Link URL:"
