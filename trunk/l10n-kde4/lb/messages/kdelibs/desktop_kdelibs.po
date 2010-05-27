@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-05-23 03:04+0000\n"
+"POT-Creation-Date: 2010-05-27 03:06+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -163,7 +163,7 @@ msgctxt "Comment"
 msgid "Select an icon and use it as a KIcon in your source-code"
 msgstr ""
 
-#: kate/plugins/kte_iconinserter/ktexteditor_iconinserter.desktop:28
+#: kate/plugins/kte_iconinserter/ktexteditor_iconinserter.desktop:29
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "TeX File"
@@ -171,7 +171,7 @@ msgctxt "Name"
 msgid "IconInserter"
 msgstr "TeX-Datei"
 
-#: kate/plugins/kte_iconinserter/ktexteditor_iconinserter.desktop:55
+#: kate/plugins/kte_iconinserter/ktexteditor_iconinserter.desktop:57
 msgctxt "GenericName"
 msgid "Insert Code for KIcon-Creation"
 msgstr ""
@@ -181,7 +181,7 @@ msgctxt "Name"
 msgid "Insane (not ZEN) HTML coding (light edition)"
 msgstr ""
 
-#: kate/plugins/kte_insanehtml_le/data/ktexteditor_insanehtml_le.desktop:33
+#: kate/plugins/kte_insanehtml_le/data/ktexteditor_insanehtml_le.desktop:34
 msgctxt "Comment"
 msgid "A plugin, which does zen-coding like selector completion"
 msgstr ""
@@ -1189,7 +1189,7 @@ msgctxt "Name"
 msgid "SSL Certificate Policy"
 msgstr "PKCS#12-Zertifikatspak"
 
-#: kdecore/network/kssld/kssld.desktop:33
+#: kdecore/network/kssld/kssld.desktop:34
 msgctxt "Comment"
 msgid "Provides SSL certificate policy to applications"
 msgstr ""
@@ -1465,7 +1465,7 @@ msgctxt "Name"
 msgid "Network Proxy Configuration"
 msgstr "Automatesch Proxy-Configuratioun"
 
-#: kio/misc/kpac/proxyscout.desktop:30
+#: kio/misc/kpac/proxyscout.desktop:31
 msgctxt "Comment"
 msgid "Automatic proxy configuration"
 msgstr "Automatesch Proxy-Configuratioun"
@@ -1478,7 +1478,7 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "Automatesch Proxy-Configuratioun"
 
-#: kio/misc/kpac/proxyscout.notifyrc:32
+#: kio/misc/kpac/proxyscout.notifyrc:33
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Invalid proxy script"
@@ -1486,12 +1486,12 @@ msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "Ongültegt Proxy-Skript"
 
-#: kio/misc/kpac/proxyscout.notifyrc:113
+#: kio/misc/kpac/proxyscout.notifyrc:114
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr "D'Proxy-Configuratiounsskript, dat erofgelude gouf, ass ongülteg"
 
-#: kio/misc/kpac/proxyscout.notifyrc:204
+#: kio/misc/kpac/proxyscout.notifyrc:205
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Script download error"
@@ -1499,12 +1499,12 @@ msgctxt "Name"
 msgid "Script Download Error"
 msgstr "Feeler beim Erofluede vum Skript"
 
-#: kio/misc/kpac/proxyscout.notifyrc:286
+#: kio/misc/kpac/proxyscout.notifyrc:287
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr "D'Proxy-Konfiguratiounsskript konnt net erofgeluede ginn"
 
-#: kio/misc/kpac/proxyscout.notifyrc:377
+#: kio/misc/kpac/proxyscout.notifyrc:378
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Script evaluation error"
@@ -1512,7 +1512,7 @@ msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr "Feeler beim Evaluéieren vum Skript"
 
-#: kio/misc/kpac/proxyscout.notifyrc:457
+#: kio/misc/kpac/proxyscout.notifyrc:458
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "Et gouf e Feeler beim Ausféiere vum Proxy-Konfiguratiounsskript"
@@ -1545,7 +1545,7 @@ msgctxt "Name"
 msgid "Cookie Jar"
 msgstr "KDED-Modul fir d'Verwaltung vun de Cookien"
 
-#: kioslave/http/kcookiejar/kcookiejar.desktop:29
+#: kioslave/http/kcookiejar/kcookiejar.desktop:30
 msgctxt "Comment"
 msgid "Stores network cookies"
 msgstr ""
@@ -1626,7 +1626,7 @@ msgctxt "Name"
 msgid "KDE Emoticons Theme"
 msgstr "KDE-Faarfthema"
 
-#: kutils/kemoticons/providers/kde/emoticonstheme_kde.desktop:25
+#: kutils/kemoticons/providers/kde/emoticonstheme_kde.desktop:26
 msgctxt "Comment"
 msgid "Library to use KDE emoticons theme"
 msgstr ""
