@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-06-03 03:16+0000\n"
+"POT-Creation-Date: 2010-06-05 03:09+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1651,6 +1651,14 @@ msgctxt "Comment"
 msgid "Library to use XMPP emoticons theme"
 msgstr ""
 
+#: plasma/data/services/plasma-applet-extenderapplet.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "KTextEditor Word Completion Plugin"
+msgctxt "Name"
+msgid "Collection"
+msgstr "KTextEditor-Wuert-Vervollstännegungs-Plugin"
+
 #: plasma/data/servicetypes/plasma-animator.desktop:5
 msgctxt "Comment"
 msgid "Plasma Animation Engine"
@@ -1663,14 +1671,6 @@ msgstr ""
 msgctxt "Comment"
 msgid "Plasma applet"
 msgstr "Java-Applet"
-
-#: plasma/data/servicetypes/plasma-applet-extenderapplet.desktop:2
-#, fuzzy
-#| msgctxt "Name"
-#| msgid "KTextEditor Word Completion Plugin"
-msgctxt "Name"
-msgid "Collection"
-msgstr "KTextEditor-Wuert-Vervollstännegungs-Plugin"
 
 #: plasma/data/servicetypes/plasma-applet-popupapplet.desktop:5
 #, fuzzy
@@ -1714,16 +1714,6 @@ msgstr ""
 #: plasma/data/servicetypes/plasma-wallpaper.desktop:5
 msgctxt "Comment"
 msgid "Plasma wallpaper"
-msgstr ""
-
-#: plasma/kcm_remotewidgets.actions:2
-msgctxt "Name"
-msgid "Save remote widgets policies"
-msgstr ""
-
-#: plasma/kcm_remotewidgets.actions:52
-msgctxt "Description"
-msgid "Prevents the system from saving plasma remote widgets policies"
 msgstr ""
 
 #: plasma/tests/packagemetadatatest.desktop:2
