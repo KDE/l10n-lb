@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-06-05 04:54+0200\n"
+"POT-Creation-Date: 2010-06-06 04:50+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -3226,7 +3226,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: knewstuff/knewstuff3/uploaddialog.cpp:499
-#: khtml/rendering/render_form.cpp:812 kjs/object.cpp:544
+#: khtml/rendering/render_form.cpp:812 kjs/object.cpp:548
 #: kdeui/dialogs/kmessagebox.cpp:829 kdeui/dialogs/kmessagebox.cpp:859
 msgid "Error"
 msgstr "Feeler"
@@ -9086,27 +9086,27 @@ msgstr ""
 msgid "Script to execute"
 msgstr ""
 
-#: kjs/object.cpp:545
+#: kjs/object.cpp:549
 msgid "Evaluation error"
 msgstr "Evaluatiounsfeler"
 
-#: kjs/object.cpp:546
+#: kjs/object.cpp:550
 msgid "Range error"
 msgstr "Beräichsfeler"
 
-#: kjs/object.cpp:547
+#: kjs/object.cpp:551
 msgid "Reference error"
 msgstr "Referenzfeler"
 
-#: kjs/object.cpp:548
+#: kjs/object.cpp:552
 msgid "Syntax error"
 msgstr "Syntaxfeler"
 
-#: kjs/object.cpp:549
+#: kjs/object.cpp:553
 msgid "Type error"
 msgstr "Typfeler"
 
-#: kjs/object.cpp:550
+#: kjs/object.cpp:554
 msgid "URI error"
 msgstr "URI-Feeler"
 
