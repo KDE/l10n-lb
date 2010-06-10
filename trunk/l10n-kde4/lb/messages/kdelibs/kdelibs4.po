@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-06-09 05:01+0200\n"
+"POT-Creation-Date: 2010-06-10 04:50+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -7969,12 +7969,12 @@ msgstr "Dokument zoumaachen"
 msgid "Ready"
 msgstr "Nach eng Kéier lueden"
 
-#: khtml/ecma/debugger/debugwindow.cpp:621
+#: khtml/ecma/debugger/debugwindow.cpp:619
 #, kde-format
 msgid "Parse error at %1 line %2"
 msgstr "Parsing-Feeler bei %1, Zeil %2"
 
-#: khtml/ecma/debugger/debugwindow.cpp:658
+#: khtml/ecma/debugger/debugwindow.cpp:656
 #, kde-format
 msgid ""
 "An error occurred while attempting to run a script on this page.\n"
@@ -7988,13 +7988,13 @@ msgstr ""
 "%1, Zeil %2:\n"
 "%3"
 
-#: khtml/ecma/debugger/debugwindow.cpp:853
+#: khtml/ecma/debugger/debugwindow.cpp:851
 msgid ""
 "Do not know where to evaluate the expression. Please pause a script or open "
 "a source file."
 msgstr ""
 
-#: khtml/ecma/debugger/debugwindow.cpp:889
+#: khtml/ecma/debugger/debugwindow.cpp:887
 #, kde-format
 msgid "Evaluation threw an exception %1"
 msgstr ""
@@ -8007,13 +8007,13 @@ msgstr "JavaScript-Feeler"
 msgid "&Do not show this message again"
 msgstr "&Dëss Noricht net méi weisen"
 
-#: khtml/ecma/debugger/debugdocument.cpp:187
+#: khtml/ecma/debugger/debugdocument.cpp:201
 msgid ""
 "Unable to find the Kate editor component;\n"
 "please check your KDE installation."
 msgstr ""
 
-#: khtml/ecma/debugger/debugdocument.cpp:253
+#: khtml/ecma/debugger/debugdocument.cpp:267
 msgid "Breakpoint"
 msgstr ""
 
