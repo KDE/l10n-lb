@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-07-02 04:53+0200\n"
+"POT-Creation-Date: 2010-07-06 05:37+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2818,13 +2818,13 @@ msgctxt "@label"
 msgid "Show all tags..."
 msgstr "All Optioune weisen"
 
-#: nepomuk/ui/tagwidget.cpp:104
+#: nepomuk/ui/tagwidget.cpp:112
 #, fuzzy
 msgctxt "@label"
 msgid "Add Tags..."
 msgstr "&Dobäimaachen..."
 
-#: nepomuk/ui/tagwidget.cpp:104
+#: nepomuk/ui/tagwidget.cpp:112
 #, fuzzy
 #| msgid "Change &Icon..."
 msgctxt "@label"
@@ -9299,11 +9299,11 @@ msgstr "D'Zäit fir dëss Aktioun ass iwwerschratt ginn"
 msgid "Error opening PTY"
 msgstr "Feeler beim Opmaache vun der Datei."
 
-#: kdeui/kernel/kuniqueapplication.cpp:87
+#: kdeui/kernel/kuniqueapplication.cpp:86
 msgid "Do not run in the background."
 msgstr ""
 
-#: kdeui/kernel/kuniqueapplication.cpp:89
+#: kdeui/kernel/kuniqueapplication.cpp:88
 msgid "Internally added if launched from Finder"
 msgstr ""
 
