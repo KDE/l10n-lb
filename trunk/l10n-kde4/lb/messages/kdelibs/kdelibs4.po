@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-07-07 05:09+0200\n"
+"POT-Creation-Date: 2010-07-08 05:15+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -3540,7 +3540,7 @@ msgstr ""
 "no, ob den <i>gpg</i> installéiert ass, well soss kënnen déi erofgeluede "
 "Ressourcen net ënnerschriwwe ginn.</qt>"
 
-#: knewstuff/knewstuff3/attica/atticaprovider.cpp:288
+#: knewstuff/knewstuff3/attica/atticaprovider.cpp:286
 #, kde-format
 msgctxt ""
 "the price of a download item, parameter 1 is the currency, 2 is the price"
@@ -3549,7 +3549,7 @@ msgid ""
 "Do you want to buy it?"
 msgstr ""
 
-#: knewstuff/knewstuff3/attica/atticaprovider.cpp:302
+#: knewstuff/knewstuff3/attica/atticaprovider.cpp:300
 #, kde-format
 msgid ""
 "Your account balance is too low:\n"
@@ -3557,27 +3557,27 @@ msgid ""
 "Price: %2"
 msgstr ""
 
-#: knewstuff/knewstuff3/attica/atticaprovider.cpp:341
+#: knewstuff/knewstuff3/attica/atticaprovider.cpp:339
 #, fuzzy
 #| msgid "No text was replaced."
 msgctxt "voting for an item (good/bad)"
 msgid "Your vote was recorded."
 msgstr "Et ass näischt ersat ginn."
 
-#: knewstuff/knewstuff3/attica/atticaprovider.cpp:355
+#: knewstuff/knewstuff3/attica/atticaprovider.cpp:353
 msgid "You are now a fan."
 msgstr ""
 
-#: knewstuff/knewstuff3/attica/atticaprovider.cpp:366
+#: knewstuff/knewstuff3/attica/atticaprovider.cpp:364
 #, kde-format
 msgid "Network error. (%1)"
 msgstr ""
 
-#: knewstuff/knewstuff3/attica/atticaprovider.cpp:370
+#: knewstuff/knewstuff3/attica/atticaprovider.cpp:368
 msgid "Too many requests to server. Please try again in a few minutes."
 msgstr ""
 
-#: knewstuff/knewstuff3/attica/atticaprovider.cpp:372
+#: knewstuff/knewstuff3/attica/atticaprovider.cpp:370
 #, kde-format
 msgid "Unknown Open Collaboration Service API error. (%1)"
 msgstr ""
