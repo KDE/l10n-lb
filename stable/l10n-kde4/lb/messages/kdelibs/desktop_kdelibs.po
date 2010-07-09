@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-07-07 23:31+0000\n"
+"POT-Creation-Date: 2010-07-08 23:31+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -28,7 +28,7 @@ msgctxt "Name|standard desktop component"
 msgid "Instant Messenger"
 msgstr "Instant Messenger"
 
-#: interfaces/kimproxy/interface/kcm_instantmessenger.desktop:67
+#: interfaces/kimproxy/interface/kcm_instantmessenger.desktop:68
 msgctxt "Comment"
 msgid ""
 "The instant messenger allows two-way chat between individuals and groups."
@@ -50,7 +50,7 @@ msgctxt "Name|standard desktop component"
 msgid "Embedded Text Editor"
 msgstr "Agebauten Texteditor"
 
-#: interfaces/ktexteditor/kcm_ktexteditor.desktop:66
+#: interfaces/ktexteditor/kcm_ktexteditor.desktop:67
 msgctxt "Comment"
 msgid ""
 "The text editor service provides applications with a text viewer and editor. "
@@ -1189,7 +1189,7 @@ msgctxt "Name"
 msgid "SSL Certificate Policy"
 msgstr "PKCS#12-Zertifikatspak"
 
-#: kdecore/network/kssld/kssld.desktop:47
+#: kdecore/network/kssld/kssld.desktop:48
 msgctxt "Comment"
 msgid "Provides SSL certificate policy to applications"
 msgstr ""
@@ -1465,7 +1465,7 @@ msgctxt "Name"
 msgid "Network Proxy Configuration"
 msgstr "Automatesch Proxy-Configuratioun"
 
-#: kio/misc/kpac/proxyscout.desktop:44
+#: kio/misc/kpac/proxyscout.desktop:45
 msgctxt "Comment"
 msgid "Automatic proxy configuration"
 msgstr "Automatesch Proxy-Configuratioun"
@@ -1478,7 +1478,7 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "Automatesch Proxy-Configuratioun"
 
-#: kio/misc/kpac/proxyscout.notifyrc:46
+#: kio/misc/kpac/proxyscout.notifyrc:47
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Invalid proxy script"
@@ -1486,12 +1486,12 @@ msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "Ongültegt Proxy-Skript"
 
-#: kio/misc/kpac/proxyscout.notifyrc:127
+#: kio/misc/kpac/proxyscout.notifyrc:128
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr "D'Proxy-Configuratiounsskript, dat erofgelude gouf, ass ongülteg"
 
-#: kio/misc/kpac/proxyscout.notifyrc:218
+#: kio/misc/kpac/proxyscout.notifyrc:219
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Script download error"
@@ -1499,12 +1499,12 @@ msgctxt "Name"
 msgid "Script Download Error"
 msgstr "Feeler beim Erofluede vum Skript"
 
-#: kio/misc/kpac/proxyscout.notifyrc:300
+#: kio/misc/kpac/proxyscout.notifyrc:301
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr "D'Proxy-Konfiguratiounsskript konnt net erofgeluede ginn"
 
-#: kio/misc/kpac/proxyscout.notifyrc:391
+#: kio/misc/kpac/proxyscout.notifyrc:392
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Script evaluation error"
@@ -1512,7 +1512,7 @@ msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr "Feeler beim Evaluéieren vum Skript"
 
-#: kio/misc/kpac/proxyscout.notifyrc:471
+#: kio/misc/kpac/proxyscout.notifyrc:472
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "Et gouf e Feeler beim Ausféiere vum Proxy-Konfiguratiounsskript"
@@ -1626,7 +1626,7 @@ msgctxt "Name"
 msgid "KDE Emoticons Theme"
 msgstr "KDE-Faarfthema"
 
-#: kutils/kemoticons/providers/kde/emoticonstheme_kde.desktop:43
+#: kutils/kemoticons/providers/kde/emoticonstheme_kde.desktop:44
 msgctxt "Comment"
 msgid "Library to use KDE emoticons theme"
 msgstr ""
