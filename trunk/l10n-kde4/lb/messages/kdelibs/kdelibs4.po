@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-07-22 04:53+0200\n"
+"POT-Creation-Date: 2010-07-23 05:17+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -4396,7 +4396,7 @@ msgctxt "@info:shell %1 is cmdoption name"
 msgid "'%1' missing."
 msgstr "'%1' feelt."
 
-#: kdecore/kernel/kcmdlineargs.cpp:892
+#: kdecore/kernel/kcmdlineargs.cpp:891
 #, kde-format
 msgctxt ""
 "@info:shell message on appcmd --version; do not translate 'Development "
@@ -4407,7 +4407,7 @@ msgid ""
 "%3: %4\n"
 msgstr ""
 
-#: kdecore/kernel/kcmdlineargs.cpp:917
+#: kdecore/kernel/kcmdlineargs.cpp:916
 #, kde-format
 msgctxt "the 2nd argument is a list of name+address, one on each line"
 msgid ""
@@ -4417,86 +4417,86 @@ msgstr ""
 "%1 ass vum\n"
 "%2 geschriwwe ginn"
 
-#: kdecore/kernel/kcmdlineargs.cpp:920
+#: kdecore/kernel/kcmdlineargs.cpp:919
 msgid "This application was written by somebody who wants to remain anonymous."
 msgstr "Den Auteur vun dësem Programm wëllt anonym bleiwen."
 
-#: kdecore/kernel/kcmdlineargs.cpp:927
+#: kdecore/kernel/kcmdlineargs.cpp:926
 msgid "Please use http://bugs.kde.org to report bugs.\n"
 msgstr "Mellt eventuell Käfere w.e.g. ënnert http://bugs.kde.org.\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:929
+#: kdecore/kernel/kcmdlineargs.cpp:928
 #, kde-format
 msgid "Please report bugs to %1.\n"
 msgstr "Mellt eventuell Käfere w.e.g. bei %1.\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:954
+#: kdecore/kernel/kcmdlineargs.cpp:953
 #, kde-format
 msgid "Unexpected argument '%1'."
 msgstr "Den Argument '%1' ass onerwaart."
 
-#: kdecore/kernel/kcmdlineargs.cpp:1078
+#: kdecore/kernel/kcmdlineargs.cpp:1077
 msgid "Use --help to get a list of available command line options."
 msgstr "Gitt --help an, fir eng Lëscht vu verfügbaren Optiounen ze kréien."
 
-#: kdecore/kernel/kcmdlineargs.cpp:1101
+#: kdecore/kernel/kcmdlineargs.cpp:1100
 msgid "[options] "
 msgstr "[Optiounen]"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1108
+#: kdecore/kernel/kcmdlineargs.cpp:1107
 #, kde-format
 msgid "[%1-options]"
 msgstr "[%1-Optiounen]"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1129
+#: kdecore/kernel/kcmdlineargs.cpp:1128
 #, kde-format
 msgid "Usage: %1 %2\n"
 msgstr "Verwendung: %1 %2\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1132
+#: kdecore/kernel/kcmdlineargs.cpp:1131
 #, fuzzy
 msgid ""
 "\n"
 "Generic options:\n"
 msgstr "Einfach Optiounen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1134
+#: kdecore/kernel/kcmdlineargs.cpp:1133
 msgid "Show help about options"
 msgstr "D'Hëllefsoptiounen uweisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1142
+#: kdecore/kernel/kcmdlineargs.cpp:1141
 #, kde-format
 msgid "Show %1 specific options"
 msgstr "Speziell Optioune fir %1 uweisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1149
+#: kdecore/kernel/kcmdlineargs.cpp:1148
 msgid "Show all options"
 msgstr "All Optioune weisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1150
+#: kdecore/kernel/kcmdlineargs.cpp:1149
 msgid "Show author information"
 msgstr "Informatiounen iwwert den Auteur uweisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1151
+#: kdecore/kernel/kcmdlineargs.cpp:1150
 msgid "Show version information"
 msgstr "Informatiounen iwwert d'Versioun uweisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1152
+#: kdecore/kernel/kcmdlineargs.cpp:1151
 msgid "Show license information"
 msgstr "Lizenzinformatiounen uweisen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1153
+#: kdecore/kernel/kcmdlineargs.cpp:1152
 msgid "End of options"
 msgstr "Enn vun den Optiounen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1174
+#: kdecore/kernel/kcmdlineargs.cpp:1173
 #, fuzzy, kde-format
 msgid ""
 "\n"
 "%1 options:\n"
 msgstr "%1 Optiounen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1176
+#: kdecore/kernel/kcmdlineargs.cpp:1175
 msgid ""
 "\n"
 "Options:\n"
@@ -4504,7 +4504,7 @@ msgstr ""
 "\n"
 "Optiounen:\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1234
+#: kdecore/kernel/kcmdlineargs.cpp:1233
 msgid ""
 "\n"
 "Arguments:\n"
@@ -4512,13 +4512,13 @@ msgstr ""
 "\n"
 "Argumenter:\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1590
+#: kdecore/kernel/kcmdlineargs.cpp:1589
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr ""
 "D'Dateien/URLen, déi vum Programm opgemaach gi sinn, ginn häerno nees "
 "geläscht"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1591
+#: kdecore/kernel/kcmdlineargs.cpp:1590
 msgid "KDE-tempfile"
 msgstr ""
 
