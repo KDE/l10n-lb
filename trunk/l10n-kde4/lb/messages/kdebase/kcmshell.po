@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmshell\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-05-03 04:52+0200\n"
+"POT-Creation-Date: 2010-07-26 05:17+0200\n"
 "PO-Revision-Date: 2005-12-04 23:02+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -23,8 +23,8 @@ msgid "A tool to start single KDE control modules"
 msgstr "En Hëllefsprogramm fir eenzel KDE-Kontrollmoduler ze starten"
 
 #: main.cpp:170
-msgid "(c) 1999-2004, The KDE Developers"
-msgstr "(c) 1999-2004, D'KDE-Entwéckler"
+msgid "Copyright © 1999–2011, KCMShell authors"
+msgstr ""
 
 #: main.cpp:172
 msgid "Frans Englich"
@@ -87,6 +87,9 @@ msgstr "Michel Ludwig"
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "michel.ludwig@kdemail.net"
+
+#~ msgid "(c) 1999-2004, The KDE Developers"
+#~ msgstr "(c) 1999-2004, D'KDE-Entwéckler"
 
 #~ msgid "Embeds the module with buttons in window with id <id>"
 #~ msgstr "Bett d'Modul mat Knäppercher an der Fënster mat der id <id> an"
