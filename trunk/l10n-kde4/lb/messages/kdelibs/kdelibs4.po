@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-08-11 05:09+0200\n"
+"POT-Creation-Date: 2010-08-12 05:12+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2626,22 +2626,22 @@ msgctxt ""
 msgid "or"
 msgstr "Mor"
 
-#: nepomuk/core/resource.cpp:498
+#: nepomuk/core/resource.cpp:499
 msgid "Success"
 msgstr ""
 
-#: nepomuk/core/resource.cpp:500
+#: nepomuk/core/resource.cpp:501
 #, fuzzy
 msgid "Communication error"
 msgstr "Configuratioun"
 
-#: nepomuk/core/resource.cpp:502
+#: nepomuk/core/resource.cpp:503
 #, fuzzy
 #| msgid "Invalid reference base"
 msgid "Invalid type in Database"
 msgstr "Ongülteg Basis fir d'Referenz"
 
-#: nepomuk/core/resource.cpp:504 kdecore/network/klocalsocket_unix.cpp:213
+#: nepomuk/core/resource.cpp:505 kdecore/network/klocalsocket_unix.cpp:213
 #: kdecore/network/klocalsocket_unix.cpp:293
 #, fuzzy
 #| msgctxt "QFile"
@@ -2778,27 +2778,27 @@ msgctxt "@info"
 msgid "Delete tag"
 msgstr "Läschen"
 
-#: nepomuk/ui/kedittagsdialog.cpp:205
+#: nepomuk/ui/kedittagsdialog.cpp:223
 #, kde-format
 msgctxt "@info"
 msgid "Should the tag <resource>%1</resource> really be deleted for all files?"
 msgstr ""
 
-#: nepomuk/ui/kedittagsdialog.cpp:207
+#: nepomuk/ui/kedittagsdialog.cpp:225
 #, fuzzy
 #| msgid "Delete"
 msgctxt "@title"
 msgid "Delete tag"
 msgstr "Läschen"
 
-#: nepomuk/ui/kedittagsdialog.cpp:208
+#: nepomuk/ui/kedittagsdialog.cpp:226
 #, fuzzy
 #| msgid "Delete"
 msgctxt "@action:button"
 msgid "Delete"
 msgstr "Läschen"
 
-#: nepomuk/ui/kedittagsdialog.cpp:209
+#: nepomuk/ui/kedittagsdialog.cpp:227
 #, fuzzy
 #| msgid "Cancel"
 msgctxt "@action:button"
