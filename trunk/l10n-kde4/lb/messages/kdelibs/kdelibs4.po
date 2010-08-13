@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-08-12 05:12+0200\n"
+"POT-Creation-Date: 2010-08-13 05:42+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -11686,9 +11686,9 @@ msgstr "Rechtschreifkontroll"
 
 #: kdeui/sonnet/configdialog.cpp:51
 #, fuzzy
-#| msgid "KSpell2 Configuration"
-msgid "Sonnet Configuration"
-msgstr "KSpell2-Configuratioun"
+#| msgid "Resource Configuration"
+msgid "Spellchecking Configuration"
+msgstr "Ressource-Configuratioun"
 
 #: kdeui/widgets/keditlistbox.cpp:326 kdeui/widgets/keditlistwidget.cpp:305
 msgid "&Add"
@@ -14912,6 +14912,11 @@ msgstr "Wat ass &dat?"
 #: kdeui/actions/kstandardaction_p.h:113
 msgid "Tip of the &Day"
 msgstr "&Rotschlag vum Dag"
+
+#, fuzzy
+#~| msgid "KSpell2 Configuration"
+#~ msgid "Sonnet Configuration"
+#~ msgstr "KSpell2-Configuratioun"
 
 #, fuzzy
 #~| msgid "Ignore"
@@ -19748,9 +19753,6 @@ msgstr "&Rotschlag vum Dag"
 
 #~ msgid "KDE Resources configuration module"
 #~ msgstr "Configuratioun vu KDE-Ressourcen"
-
-#~ msgid "Resource Configuration"
-#~ msgstr "Ressource-Configuratioun"
 
 #~ msgid "%1 Resource Settings"
 #~ msgstr "Ressourcen-Astellunge vun %1"
