@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-08-24 06:05+0200\n"
+"POT-Creation-Date: 2010-08-25 05:07+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -11716,7 +11716,7 @@ msgstr ""
 msgid "You are not allowed to save the configuration"
 msgstr "Konnt déi nei Configuratiounsdatei net erstellen."
 
-#: kdeui/widgets/khistorycombobox.cpp:317
+#: kdeui/widgets/khistorycombobox.cpp:327
 #, fuzzy
 #| msgid "No further item in the history."
 msgid "No further items in the history."
