@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-08-25 05:07+0200\n"
+"POT-Creation-Date: 2010-08-26 05:55+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -3033,7 +3033,25 @@ msgstr[1] ""
 msgid "Search Plugins"
 msgstr "Kolonnen duerchsichen"
 
-#: kutils/kcmultidialog.cpp:163 kdeui/dialogs/kconfigdialog.cpp:69
+#: kutils/kcmultidialog.cpp:59
+#, fuzzy
+#| msgid ""
+#| "The document \"%1\" has been modified.\n"
+#| "Do you want to save your changes or discard them?"
+msgid ""
+"The settings of the current module have changed.\n"
+"Do you want to apply the changes or discard them?"
+msgstr ""
+"Den Dokument \"%1\" ass verännert ginn.\n"
+"Wëllt dir e späicheren oder sou si loosse, wéi e war?"
+
+#: kutils/kcmultidialog.cpp:61
+#, fuzzy
+#| msgid "Apply settings"
+msgid "Apply Settings"
+msgstr "Astellungen uwenden"
+
+#: kutils/kcmultidialog.cpp:217 kdeui/dialogs/kconfigdialog.cpp:69
 msgid "Configure"
 msgstr "Configuréieren"
 
@@ -4512,13 +4530,13 @@ msgstr ""
 "\n"
 "Argumenter:\n"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1589
+#: kdecore/kernel/kcmdlineargs.cpp:1587
 msgid "The files/URLs opened by the application will be deleted after use"
 msgstr ""
 "D'Dateien/URLen, déi vum Programm opgemaach gi sinn, ginn häerno nees "
 "geläscht"
 
-#: kdecore/kernel/kcmdlineargs.cpp:1590
+#: kdecore/kernel/kcmdlineargs.cpp:1588
 msgid "KDE-tempfile"
 msgstr ""
 
@@ -9308,7 +9326,7 @@ msgstr ""
 msgid "Internally added if launched from Finder"
 msgstr ""
 
-#: kdeui/kernel/kapplication.cpp:829
+#: kdeui/kernel/kapplication.cpp:827
 #, fuzzy, kde-format
 #| msgid "The style %1 was not found\n"
 msgid "The style '%1' was not found"
@@ -19664,9 +19682,6 @@ msgstr "&Rotschlag vum Dag"
 #~ "Wann dir op <b>Uwenden</b> klickt, ginn d'Astellungen\n"
 #~ "iwwerholl, ouni dass d'Fënster zougemaach gëtt.\n"
 #~ "Probéiert domat verschidden Astellungen. "
-
-#~ msgid "Apply settings"
-#~ msgstr "Astellungen uwenden"
 
 #~ msgctxt "min toolbar"
 #~ msgid "Flat"
