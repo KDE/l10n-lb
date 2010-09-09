@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-09-08 06:56+0200\n"
+"POT-Creation-Date: 2010-09-09 06:05+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -6948,135 +6948,135 @@ msgstr "Bild - %1x%2 Pixelen"
 msgid "Done."
 msgstr "Fäerdeg."
 
-#: khtml/khtml_ext.cpp:417
+#: khtml/khtml_ext.cpp:416
 msgid "&Copy Text"
 msgstr "Text &kopéieren"
 
-#: khtml/khtml_ext.cpp:431
+#: khtml/khtml_ext.cpp:430
 #, kde-format
 msgid "Open '%1'"
 msgstr "'%1' opmaachen"
 
-#: khtml/khtml_ext.cpp:448
+#: khtml/khtml_ext.cpp:447
 #, fuzzy
 #| msgid "Copy Email Address"
 msgid "&Copy Email Address"
 msgstr "E-Mail-Adress kopéieren"
 
-#: khtml/khtml_ext.cpp:453
+#: khtml/khtml_ext.cpp:452
 msgid "&Save Link As..."
 msgstr "Link &späicheren als..."
 
-#: khtml/khtml_ext.cpp:458
+#: khtml/khtml_ext.cpp:457
 #, fuzzy
 #| msgid "Copy &Link Address"
 msgid "&Copy Link Address"
 msgstr "Adress vum &Link kopéieren"
 
-#: khtml/khtml_ext.cpp:470
+#: khtml/khtml_ext.cpp:469
 #, fuzzy
 #| msgid "Frame"
 msgctxt "@title:menu HTML frame/iframe"
 msgid "Frame"
 msgstr "Frame"
 
-#: khtml/khtml_ext.cpp:471
+#: khtml/khtml_ext.cpp:470
 msgid "Open in New &Window"
 msgstr "An enger neier &Fënster opmaachen"
 
-#: khtml/khtml_ext.cpp:477
+#: khtml/khtml_ext.cpp:476
 msgid "Open in &This Window"
 msgstr "An &dëser Fënster opmaachen"
 
-#: khtml/khtml_ext.cpp:482
+#: khtml/khtml_ext.cpp:481
 msgid "Open in &New Tab"
 msgstr "An engem neien &Tab opmaachen"
 
-#: khtml/khtml_ext.cpp:492
+#: khtml/khtml_ext.cpp:491
 msgid "Reload Frame"
 msgstr "Frame nei lueden"
 
-#: khtml/khtml_ext.cpp:497 khtml/khtml_part.cpp:423
+#: khtml/khtml_ext.cpp:496 khtml/khtml_part.cpp:423
 msgid "Print Frame..."
 msgstr "Frame drécken..."
 
-#: khtml/khtml_ext.cpp:503 khtml/khtml_part.cpp:282
+#: khtml/khtml_ext.cpp:502 khtml/khtml_part.cpp:282
 msgid "Save &Frame As..."
 msgstr "&Frame späicheren als..."
 
-#: khtml/khtml_ext.cpp:508 khtml/khtml_part.cpp:257
+#: khtml/khtml_ext.cpp:507 khtml/khtml_part.cpp:257
 msgid "View Frame Source"
 msgstr "Quell vum Frame kucken"
 
-#: khtml/khtml_ext.cpp:513
+#: khtml/khtml_ext.cpp:512
 msgid "View Frame Information"
 msgstr "Frame-Informatioun kucken"
 
-#: khtml/khtml_ext.cpp:523
+#: khtml/khtml_ext.cpp:522
 msgid "Block IFrame..."
 msgstr "IFrame blockéieren..."
 
-#: khtml/khtml_ext.cpp:548
+#: khtml/khtml_ext.cpp:547
 msgid "Save Image As..."
 msgstr "Bild späicheren als..."
 
-#: khtml/khtml_ext.cpp:553
+#: khtml/khtml_ext.cpp:552
 msgid "Send Image..."
 msgstr "Bild verschécken..."
 
-#: khtml/khtml_ext.cpp:559
+#: khtml/khtml_ext.cpp:558
 msgid "Copy Image"
 msgstr "Bild kopéieren"
 
-#: khtml/khtml_ext.cpp:567
+#: khtml/khtml_ext.cpp:566
 msgid "Copy Image Location"
 msgstr "Adress vum Bild kopéieren"
 
-#: khtml/khtml_ext.cpp:576
+#: khtml/khtml_ext.cpp:575
 #, kde-format
 msgid "View Image (%1)"
 msgstr "Bild kucken (%1)"
 
-#: khtml/khtml_ext.cpp:582
+#: khtml/khtml_ext.cpp:581
 msgid "Block Image..."
 msgstr "Bild blockéieren..."
 
-#: khtml/khtml_ext.cpp:590
+#: khtml/khtml_ext.cpp:589
 #, kde-format
 msgid "Block Images From %1"
 msgstr "Biller vun %1 blockéieren"
 
-#: khtml/khtml_ext.cpp:602
+#: khtml/khtml_ext.cpp:601
 msgid "Stop Animations"
 msgstr "Animatiounen unhalen"
 
-#: khtml/khtml_ext.cpp:640
+#: khtml/khtml_ext.cpp:638
 #, fuzzy, kde-format
 msgid "Search for '%1' with %2"
 msgstr "No '%1' an %2 sichen"
 
-#: khtml/khtml_ext.cpp:650
+#: khtml/khtml_ext.cpp:648
 #, fuzzy, kde-format
 msgid "Search for '%1' with"
 msgstr "No '%1' siche bei"
 
-#: khtml/khtml_ext.cpp:694
+#: khtml/khtml_ext.cpp:692
 msgid "Save Link As"
 msgstr "Link späicheren als"
 
-#: khtml/khtml_ext.cpp:714
+#: khtml/khtml_ext.cpp:712
 msgid "Save Image As"
 msgstr "Bild späicheren als"
 
-#: khtml/khtml_ext.cpp:728 khtml/khtml_ext.cpp:741
+#: khtml/khtml_ext.cpp:726 khtml/khtml_ext.cpp:739
 msgid "Add URL to Filter"
 msgstr "URL bei de Filter dobäimaachen"
 
-#: khtml/khtml_ext.cpp:729 khtml/khtml_ext.cpp:742
+#: khtml/khtml_ext.cpp:727 khtml/khtml_ext.cpp:740
 msgid "Enter the URL:"
 msgstr ""
 
-#: khtml/khtml_ext.cpp:878
+#: khtml/khtml_ext.cpp:876
 #, kde-format
 msgid ""
 "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
@@ -7084,20 +7084,20 @@ msgstr ""
 "Eng Datei mam Numm \"%1\" gëtt et schonn. Sidd dir sëcher, dass dir se "
 "iwwerschreiwe wëllt?"
 
-#: khtml/khtml_ext.cpp:878 kdewebkit/kwebpage.cpp:71
+#: khtml/khtml_ext.cpp:876 kdewebkit/kwebpage.cpp:71
 msgid "Overwrite File?"
 msgstr "Datei iwwerschreiwen?"
 
-#: khtml/khtml_ext.cpp:878
+#: khtml/khtml_ext.cpp:876
 msgid "Overwrite"
 msgstr "Iwwerschreiwen"
 
-#: khtml/khtml_ext.cpp:939 kparts/browserrun.cpp:386
+#: khtml/khtml_ext.cpp:937 kparts/browserrun.cpp:386
 #, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "Den Download-Manager (%1) konnt an ärem PATH net fonnt ginn "
 
-#: khtml/khtml_ext.cpp:940 kparts/browserrun.cpp:387
+#: khtml/khtml_ext.cpp:938 kparts/browserrun.cpp:387
 #, fuzzy
 msgid ""
 "Try to reinstall it  \n"
@@ -7108,12 +7108,12 @@ msgstr ""
 "\n"
 "D'Integratioun an de Konqueror gëtt ofgeschalt!"
 
-#: khtml/khtml_ext.cpp:1022
+#: khtml/khtml_ext.cpp:1020
 #, no-c-format
 msgid "Default Font Size (100%)"
 msgstr "Standard-Schrëftgréisst (100%)"
 
-#: khtml/khtml_ext.cpp:1035 kdeui/jobs/kwidgetjobtracker.cpp:376
+#: khtml/khtml_ext.cpp:1033 kdeui/jobs/kwidgetjobtracker.cpp:376
 #, no-c-format, kde-format
 msgid "%1%"
 msgstr "%1%"
