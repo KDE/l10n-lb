@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-09-12 01:37+0200\n"
+"POT-Creation-Date: 2010-09-17 01:39+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -13212,56 +13212,56 @@ msgctxt "@action:button Clear current text in the line edit"
 msgid "Clear text"
 msgstr "Kierzel läschen"
 
-#: kdeui/widgets/klineedit.cpp:1176
+#: kdeui/widgets/klineedit.cpp:1179
 #, fuzzy
 #| msgid "Text Completion"
 msgctxt "@title:menu"
 msgid "Text Completion"
 msgstr "Ergänzung vum Text"
 
-#: kdeui/widgets/klineedit.cpp:1183
+#: kdeui/widgets/klineedit.cpp:1186
 #, fuzzy
 #| msgid "None"
 msgctxt "@item:inmenu Text Completion"
 msgid "None"
 msgstr "Keng"
 
-#: kdeui/widgets/klineedit.cpp:1184
+#: kdeui/widgets/klineedit.cpp:1187
 #, fuzzy
 #| msgid "Manual"
 msgctxt "@item:inmenu Text Completion"
 msgid "Manual"
 msgstr "Manuell"
 
-#: kdeui/widgets/klineedit.cpp:1185
+#: kdeui/widgets/klineedit.cpp:1188
 #, fuzzy
 #| msgid "Automatic"
 msgctxt "@item:inmenu Text Completion"
 msgid "Automatic"
 msgstr "Automatësch"
 
-#: kdeui/widgets/klineedit.cpp:1186
+#: kdeui/widgets/klineedit.cpp:1189
 #, fuzzy
 #| msgid "Dropdown List"
 msgctxt "@item:inmenu Text Completion"
 msgid "Dropdown List"
 msgstr "Ausklapplëscht"
 
-#: kdeui/widgets/klineedit.cpp:1187
+#: kdeui/widgets/klineedit.cpp:1190
 #, fuzzy
 #| msgid "Short Automatic"
 msgctxt "@item:inmenu Text Completion"
 msgid "Short Automatic"
 msgstr "Automatësch kuerz"
 
-#: kdeui/widgets/klineedit.cpp:1188
+#: kdeui/widgets/klineedit.cpp:1191
 #, fuzzy
 #| msgid "Dropdown List && Automatic"
 msgctxt "@item:inmenu Text Completion"
 msgid "Dropdown List && Automatic"
 msgstr "Ausklapplëscht && Automatik"
 
-#: kdeui/widgets/klineedit.cpp:1219
+#: kdeui/widgets/klineedit.cpp:1222
 #, fuzzy
 #| msgid "Default"
 msgctxt "@item:inmenu Text Completion"
