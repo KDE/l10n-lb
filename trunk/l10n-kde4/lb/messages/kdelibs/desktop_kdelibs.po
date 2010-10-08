@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-10-06 04:47+0000\n"
+"POT-Creation-Date: 2010-10-08 04:16+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1089,92 +1089,92 @@ msgctxt "Name"
 msgid "Uyghur"
 msgstr "Uiguresch"
 
-#: kdecore/all_languages.desktop:15510
+#: kdecore/all_languages.desktop:15513
 msgctxt "Name"
 msgid "Ukrainian"
 msgstr "Ukrainesch"
 
-#: kdecore/all_languages.desktop:15604
+#: kdecore/all_languages.desktop:15607
 msgctxt "Name"
 msgid "Urdu"
 msgstr "Urdu"
 
-#: kdecore/all_languages.desktop:15698
+#: kdecore/all_languages.desktop:15701
 msgctxt "Name"
 msgid "Uzbek"
 msgstr "Usbekesch"
 
-#: kdecore/all_languages.desktop:15792
+#: kdecore/all_languages.desktop:15795
 msgctxt "Name"
 msgid "Uzbek (Cyrillic)"
 msgstr ""
 
-#: kdecore/all_languages.desktop:15872
+#: kdecore/all_languages.desktop:15875
 msgctxt "Name"
 msgid "Venda"
 msgstr "Venda"
 
-#: kdecore/all_languages.desktop:15965
+#: kdecore/all_languages.desktop:15968
 msgctxt "Name"
 msgid "Vietnamese"
 msgstr "Vietnamesesch"
 
-#: kdecore/all_languages.desktop:16059
+#: kdecore/all_languages.desktop:16062
 msgctxt "Name"
 msgid "Volapük"
 msgstr "Volapük"
 
-#: kdecore/all_languages.desktop:16150
+#: kdecore/all_languages.desktop:16153
 msgctxt "Name"
 msgid "Walloon"
 msgstr "Wallounesch"
 
-#: kdecore/all_languages.desktop:16244
+#: kdecore/all_languages.desktop:16247
 msgctxt "Name"
 msgid "Wolof"
 msgstr "Wolof-Sprooch"
 
-#: kdecore/all_languages.desktop:16338
+#: kdecore/all_languages.desktop:16341
 msgctxt "Name"
 msgid "Xhosa"
 msgstr "Xhosa"
 
-#: kdecore/all_languages.desktop:16432
+#: kdecore/all_languages.desktop:16435
 msgctxt "Name"
 msgid "Yiddish"
 msgstr "Jiddesch"
 
-#: kdecore/all_languages.desktop:16526
+#: kdecore/all_languages.desktop:16529
 msgctxt "Name"
 msgid "Yoruba"
 msgstr "Yoruba-Sprooch"
 
-#: kdecore/all_languages.desktop:16619
+#: kdecore/all_languages.desktop:16622
 msgctxt "Name"
 msgid "Zhuang"
 msgstr "Zhuang"
 
-#: kdecore/all_languages.desktop:16711
+#: kdecore/all_languages.desktop:16714
 msgctxt "Name"
 msgid "Chinese"
 msgstr "Chinesesch"
 
-#: kdecore/all_languages.desktop:16805
+#: kdecore/all_languages.desktop:16808
 msgctxt "Name"
 msgid "Chinese Simplified"
 msgstr "Einfacht Chinesesch"
 
-#: kdecore/all_languages.desktop:16898
+#: kdecore/all_languages.desktop:16901
 msgctxt "Name"
 msgid "Chinese (Hong Kong)"
 msgstr "Chinesesch (Hong Kong)"
 
-#: kdecore/all_languages.desktop:16989
+#: kdecore/all_languages.desktop:16992
 msgctxt "Name"
 msgid "Chinese Traditional"
 msgstr "Traditionellt Chinesesch"
 
-#: kdecore/all_languages.desktop:17082
+#: kdecore/all_languages.desktop:17085
 msgctxt "Name"
 msgid "Zulu"
 msgstr "Zulu"
