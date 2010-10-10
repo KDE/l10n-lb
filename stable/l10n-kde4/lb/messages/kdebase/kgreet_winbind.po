@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kgreet_winbind\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-06-27 04:46+0200\n"
+"POT-Creation-Date: 2010-10-10 01:40+0200\n"
 "PO-Revision-Date: 2005-12-23 21:03+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -52,7 +52,7 @@ msgstr "Passwuert &bestätegen:"
 msgid "Unrecognized prompt \"%1\""
 msgstr "Net-erkannten Agabopfuederung \"%1\""
 
-#: kgreet_winbind.cpp:628
+#: kgreet_winbind.cpp:629
 #, fuzzy
 #| msgid "Winbind / Samba"
 msgctxt "@item:inmenu authentication method"
