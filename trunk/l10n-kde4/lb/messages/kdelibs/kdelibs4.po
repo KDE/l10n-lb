@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-10-09 06:14+0200\n"
+"POT-Creation-Date: 2010-10-12 07:01+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -7782,11 +7782,11 @@ msgstr "Net eroflueden"
 msgid "This is a searchable index. Enter search keywords: "
 msgstr "Dësem Index kënnt dir duerchsichen. Gitt Stëchwierder an: "
 
-#: khtml/ecma/kjs_html.cpp:2149 khtml/ecma/kjs_window.cpp:1613
+#: khtml/ecma/kjs_html.cpp:2153 khtml/ecma/kjs_window.cpp:1613
 msgid "Confirmation: JavaScript Popup"
 msgstr "Bestätegung: JavaScript-Fënsteren"
 
-#: khtml/ecma/kjs_html.cpp:2151
+#: khtml/ecma/kjs_html.cpp:2155
 msgid ""
 "This site is submitting a form which will open up a new browser window via "
 "JavaScript.\n"
@@ -7796,7 +7796,7 @@ msgstr ""
 "Fënster opmëcht.\n"
 "Wëllt dir dat zouloossen?"
 
-#: khtml/ecma/kjs_html.cpp:2154
+#: khtml/ecma/kjs_html.cpp:2158
 #, kde-format
 msgid ""
 "<qt>This site is submitting a form which will open <p>%1</p> in a new "
@@ -7806,11 +7806,11 @@ msgstr ""
 "<qt>Dëss Säit probéiert, e Formular ofzeschécken, deen iwwer JavaScript <p>%"
 "1</p> an enger neier Fënster opmëcht.<br/>Wëllt dir dat zouloossen?</qt>"
 
-#: khtml/ecma/kjs_html.cpp:2156 khtml/ecma/kjs_window.cpp:1621
+#: khtml/ecma/kjs_html.cpp:2160 khtml/ecma/kjs_window.cpp:1621
 msgid "Allow"
 msgstr "Erlaben"
 
-#: khtml/ecma/kjs_html.cpp:2156 khtml/ecma/kjs_window.cpp:1621
+#: khtml/ecma/kjs_html.cpp:2160 khtml/ecma/kjs_window.cpp:1621
 msgid "Do Not Allow"
 msgstr "Net erlaben"
 
