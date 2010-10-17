@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-10-16 06:06+0200\n"
+"POT-Creation-Date: 2010-10-17 06:21+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -11548,17 +11548,17 @@ msgstr ""
 msgid "Ambiguous shortcut detected"
 msgstr "Méideideg \"%1\" net verschafft"
 
-#: kdeui/actions/kstandardaction.cpp:92 kdeui/util/kstandardguiitem.cpp:210
+#: kdeui/actions/kstandardaction.cpp:93 kdeui/util/kstandardguiitem.cpp:210
 msgctxt "go back"
 msgid "&Back"
 msgstr "&Zeréck"
 
-#: kdeui/actions/kstandardaction.cpp:98 kdeui/util/kstandardguiitem.cpp:218
+#: kdeui/actions/kstandardaction.cpp:99 kdeui/util/kstandardguiitem.cpp:218
 msgctxt "go forward"
 msgid "&Forward"
 msgstr "&No Vir"
 
-#: kdeui/actions/kstandardaction.cpp:104
+#: kdeui/actions/kstandardaction.cpp:105
 #, fuzzy
 #| msgctxt "beginning (of line)"
 #| msgid "&Home"
@@ -11566,26 +11566,33 @@ msgctxt "home page"
 msgid "&Home"
 msgstr "&Ufank"
 
-#: kdeui/actions/kstandardaction.cpp:107 kdeui/util/kstandardguiitem.cpp:178
+#: kdeui/actions/kstandardaction.cpp:108 kdeui/util/kstandardguiitem.cpp:178
 msgctxt "show help"
 msgid "&Help"
 msgstr "&Hëllef"
 
-#: kdeui/actions/kstandardaction.cpp:515 kdeui/actions/kstandardaction_p.h:98
+#: kdeui/actions/kstandardaction.cpp:516 kdeui/actions/kstandardaction.cpp:540
+#: kdeui/actions/kstandardaction_p.h:98
 msgid "Show &Menubar"
 msgstr "&Menübar weisen"
 
-#: kdeui/actions/kstandardaction.cpp:521
+#: kdeui/actions/kstandardaction.cpp:522 kdeui/actions/kstandardaction.cpp:547
 #, fuzzy
 #| msgid "Show Menubar<p>Shows the menubar again after it has been hidden"
 msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
 msgstr "Menübar weisen<p>Weist d'Menübar nees un, nodeems se verstoppt gi war"
 
-#: kdeui/actions/kstandardaction.cpp:538 kdeui/actions/kstandardaction_p.h:100
+#: kdeui/actions/kstandardaction.cpp:541
+#, fuzzy
+#| msgid "Hide &Menubar"
+msgid "Hide Menubar"
+msgstr "&Menübar verstoppen"
+
+#: kdeui/actions/kstandardaction.cpp:566 kdeui/actions/kstandardaction_p.h:100
 msgid "Show St&atusbar"
 msgstr "St&atusbar weisen"
 
-#: kdeui/actions/kstandardaction.cpp:541
+#: kdeui/actions/kstandardaction.cpp:569 kdeui/actions/kstandardaction.cpp:592
 #, fuzzy
 #| msgid ""
 #| "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of "
@@ -11596,6 +11603,18 @@ msgid ""
 msgstr ""
 "Statusbar weisen<p>Weist d'Statusbar. Dat ass déi Leescht ënnen an der "
 "Fënster fir d'Statusinformatiounen."
+
+#: kdeui/actions/kstandardaction.cpp:587
+#, fuzzy
+#| msgid "Show St&atusbar"
+msgid "Show Statusbar"
+msgstr "St&atusbar weisen"
+
+#: kdeui/actions/kstandardaction.cpp:588
+#, fuzzy
+#| msgid "Hide St&atusbar"
+msgid "Hide Statusbar"
+msgstr "St&atusbar vestoppen"
 
 #: kdeui/actions/ktogglefullscreenaction.cpp:48
 #: kdeui/actions/ktogglefullscreenaction.cpp:55
@@ -18443,18 +18462,12 @@ msgstr ""
 #~ msgid "Collapse all"
 #~ msgstr "Portemonnaie &zoumaachen"
 
-#~ msgid "Hide &Menubar"
-#~ msgstr "&Menübar verstoppen"
-
 #~ msgid ""
 #~ "Hide Menubar<p>Hide the menubar. You can usually get it back using the "
 #~ "right mouse button inside the window itself."
 #~ msgstr ""
 #~ "Menübar verstoppen<p>D'Menübar verstoppen. Dir kënnt se zeréckhuelen, "
 #~ "wann dir an der Fënster selwer déi riets Maustast klickt."
-
-#~ msgid "Hide St&atusbar"
-#~ msgstr "St&atusbar vestoppen"
 
 #~ msgid ""
 #~ "Hide Statusbar<p>Hides the statusbar, which is the bar at the bottom of "
