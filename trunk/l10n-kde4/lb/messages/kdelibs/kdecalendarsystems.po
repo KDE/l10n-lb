@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-10-08 06:04+0200\n"
+"POT-Creation-Date: 2010-10-23 06:46+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1057,17 +1057,17 @@ msgctxt "@item Calendar system"
 msgid "Invalid Calendar Type"
 msgstr "Ongülteg Werter"
 
-#: kcalendarsystem.cpp:1845
+#: kcalendarsystem.cpp:1962
 msgctxt "Negative symbol as used for year numbers, e.g. -5 = 5 BC"
 msgid "-"
 msgstr ""
 
-#: kcalendarsystem.cpp:1882
+#: kcalendarsystem.cpp:1999
 #, fuzzy
 msgid "Today"
 msgstr "Méinden"
 
-#: kcalendarsystem.cpp:1884
+#: kcalendarsystem.cpp:2001
 #, fuzzy
 msgid "Yesterday"
 msgstr "Dënschten"
