@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio_nfs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-05-03 04:52+0200\n"
+"POT-Creation-Date: 2010-10-27 01:35+0200\n"
 "PO-Revision-Date: 2005-12-23 21:10+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -15,22 +15,22 @@ msgstr ""
 "X-Generator: KBabel 1.11\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: kio_nfs.cpp:941
+#: kio_nfs.cpp:943
 msgid "An RPC error occurred."
 msgstr "En RPC-Feeler ass opgetrueden."
 
-#: kio_nfs.cpp:985
+#: kio_nfs.cpp:987
 msgid "No space left on device"
 msgstr "Keng Plaz méi um Gerät"
 
-#: kio_nfs.cpp:988
+#: kio_nfs.cpp:990
 msgid "Read only file system"
 msgstr "Nëmme-liesen Dateisystem."
 
-#: kio_nfs.cpp:991
+#: kio_nfs.cpp:993
 msgid "Filename too long"
 msgstr "Dateinumm zevill laang"
 
-#: kio_nfs.cpp:998
+#: kio_nfs.cpp:1000
 msgid "Disk quota exceeded"
 msgstr "Späicherlimit um Dateisystem iwwerschratt"
