@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-11-01 06:13+0100\n"
+"POT-Creation-Date: 2010-11-02 07:17+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2863,18 +2863,23 @@ msgstr "&Symbol änneren..."
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Miscellaneous Symbols"
+msgctxt ""
+"@title KCategorizedSortFilterProxyModel grouping for all Nepomukj resources "
+"that are of type rdfs:Resource"
 msgid "Miscellaneous"
 msgstr "Verschidde Symboler"
 
 #: nepomuk/utils/resourcemodel.cpp:175
 #, fuzzy
 #| msgid "Valid Resource"
+msgctxt "@title:column The Nepomuk resource label and icon"
 msgid "Resource"
 msgstr "Gülteg Ressource"
 
 #: nepomuk/utils/resourcemodel.cpp:177
 #, fuzzy
 #| msgid "Resource Selection"
+msgctxt "@title:column The Nepomuk resource's RDF type"
 msgid "Resource Type"
 msgstr "Quell wielen"
 
@@ -2959,7 +2964,7 @@ msgctxt ""
 msgid "Custom..."
 msgstr "Benotzerdefinéiert..."
 
-#: nepomuk/utils/dynamicresourcefacet.cpp:281
+#: nepomuk/utils/dynamicresourcefacet.cpp:247
 #, fuzzy
 #| msgid "More..."
 msgctxt ""
