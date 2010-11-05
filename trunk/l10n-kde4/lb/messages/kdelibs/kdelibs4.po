@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-11-04 06:23+0100\n"
+"POT-Creation-Date: 2010-11-05 06:07+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1209,7 +1209,7 @@ msgstr "Eegeschaft"
 #. i18n: file: kdeui/dialogs/kcupsoptionsjobwidget.ui:122
 #. i18n: ectx: property (text), widget (QTableWidget, jobOptionsTable)
 #: rc.cpp:549 rc.cpp:916 khtml/ecma/debugger/localvariabledock.cpp:52
-#: khtml/java/kjavaappletviewer.cpp:139
+#: khtml/java/kjavaappletviewer.cpp:144
 msgid "Value"
 msgstr "Wert"
 
@@ -1440,7 +1440,7 @@ msgstr "Dëss Noricht net méi weisen"
 #. i18n: ectx: property (whatsThis), widget (QLabel, textLabel2)
 #. i18n: file: kdeui/sonnet/sonnetui.ui:49
 #. i18n: ectx: property (whatsThis), widget (QLabel, m_unknownWord)
-#: rc.cpp:654 rc.cpp:666 rc.cpp:1063 rc.cpp:1075
+#: rc.cpp:654 rc.cpp:666 rc.cpp:1066 rc.cpp:1078
 #, fuzzy
 #| msgid ""
 #| "<qt><p>This word was considered to be an \"unknown word\" because it does "
@@ -1484,7 +1484,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, textLabel2)
 #. i18n: file: kdeui/sonnet/sonnetui.ui:36
 #. i18n: ectx: property (text), widget (QLabel, textLabel2)
-#: rc.cpp:660 rc.cpp:1069
+#: rc.cpp:660 rc.cpp:1072
 msgid "Unknown word:"
 msgstr "Onbekannt Wuert:"
 
@@ -1492,7 +1492,7 @@ msgstr "Onbekannt Wuert:"
 #. i18n: ectx: property (toolTip), widget (QLabel, m_unknownWord)
 #. i18n: file: kdeui/sonnet/sonnetui.ui:43
 #. i18n: ectx: property (toolTip), widget (QLabel, m_unknownWord)
-#: rc.cpp:663 rc.cpp:1072
+#: rc.cpp:663 rc.cpp:1075
 msgid "Unknown word"
 msgstr "Onbekannt Wuert"
 
@@ -1500,7 +1500,7 @@ msgstr "Onbekannt Wuert"
 #. i18n: ectx: property (text), widget (QLabel, m_unknownWord)
 #. i18n: file: kdeui/sonnet/sonnetui.ui:52
 #. i18n: ectx: property (text), widget (QLabel, m_unknownWord)
-#: rc.cpp:672 rc.cpp:1081
+#: rc.cpp:672 rc.cpp:1084
 msgid "<b>misspelled</b>"
 msgstr "<b>falsch geschriwwen</b>"
 
@@ -1512,7 +1512,7 @@ msgstr "<b>falsch geschriwwen</b>"
 #. i18n: ectx: property (whatsThis), widget (QLabel, textLabel5)
 #. i18n: file: kdeui/sonnet/sonnetui.ui:176
 #. i18n: ectx: property (whatsThis), widget (KComboBox, m_language)
-#: rc.cpp:675 rc.cpp:770 rc.cpp:1084 rc.cpp:1142
+#: rc.cpp:675 rc.cpp:770 rc.cpp:1087 rc.cpp:1145
 msgid ""
 "<qt>\n"
 "<p>Select the language of the document you are proofing here.</p>\n"
@@ -1526,7 +1526,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, textLabel5)
 #. i18n: file: kdeui/sonnet/sonnetui.ui:64
 #. i18n: ectx: property (text), widget (QLabel, textLabel5)
-#: rc.cpp:680 rc.cpp:1089
+#: rc.cpp:680 rc.cpp:1092
 msgid "&Language:"
 msgstr "&Sprooch:"
 
@@ -1534,7 +1534,7 @@ msgstr "&Sprooch:"
 #. i18n: ectx: property (toolTip), widget (QLabel, m_contextLabel)
 #. i18n: file: kdeui/sonnet/sonnetui.ui:74
 #. i18n: ectx: property (toolTip), widget (QLabel, m_contextLabel)
-#: rc.cpp:683 rc.cpp:1092
+#: rc.cpp:683 rc.cpp:1095
 msgid "Text excerpt showing the unknown word in its context."
 msgstr "Auszuch aus dem Text mam onbekannte Wuert am Zesummenhang."
 
@@ -1542,7 +1542,7 @@ msgstr "Auszuch aus dem Text mam onbekannte Wuert am Zesummenhang."
 #. i18n: ectx: property (whatsThis), widget (QLabel, m_contextLabel)
 #. i18n: file: kdeui/sonnet/sonnetui.ui:79
 #. i18n: ectx: property (whatsThis), widget (QLabel, m_contextLabel)
-#: rc.cpp:686 rc.cpp:1095
+#: rc.cpp:686 rc.cpp:1098
 msgid ""
 "<qt>\n"
 "<p>Here you can see a text excerpt showing the unknown word in its context. "
@@ -1562,7 +1562,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, m_contextLabel)
 #. i18n: file: kdeui/sonnet/sonnetui.ui:85
 #. i18n: ectx: property (text), widget (QLabel, m_contextLabel)
-#: rc.cpp:691 rc.cpp:1100
+#: rc.cpp:691 rc.cpp:1103
 msgid "... the <b>misspelled</b> word shown in context ..."
 msgstr "... dat <b>falsch geschriwwent</b> Wuert am Kontext..."
 
@@ -1570,7 +1570,7 @@ msgstr "... dat <b>falsch geschriwwent</b> Wuert am Kontext..."
 #. i18n: ectx: property (whatsThis), widget (QPushButton, m_addBtn)
 #. i18n: file: kdeui/sonnet/sonnetui.ui:98
 #. i18n: ectx: property (whatsThis), widget (QPushButton, m_addBtn)
-#: rc.cpp:694 rc.cpp:1103
+#: rc.cpp:694 rc.cpp:1106
 #, fuzzy
 #| msgid ""
 #| "<qt>\n"
@@ -1605,7 +1605,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, m_addBtn)
 #. i18n: file: kdeui/sonnet/sonnetui.ui:101
 #. i18n: ectx: property (text), widget (QPushButton, m_addBtn)
-#: rc.cpp:700 rc.cpp:1109
+#: rc.cpp:700 rc.cpp:1112
 msgid "<< Add to Dictionary"
 msgstr "<< An d'Wierderbuch Dobäischreiwen"
 
@@ -1613,7 +1613,7 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #. i18n: ectx: property (whatsThis), widget (QPushButton, m_replaceAllBtn)
 #. i18n: file: kdeui/sonnet/sonnetui.ui:212
 #. i18n: ectx: property (whatsThis), widget (QPushButton, m_replaceAllBtn)
-#: rc.cpp:703 rc.cpp:1158
+#: rc.cpp:703 rc.cpp:1161
 msgid ""
 "<qt>\n"
 "<p>Click here to replace all occurrences of the unknown text with the text "
@@ -1629,7 +1629,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, m_replaceAllBtn)
 #. i18n: file: kdeui/sonnet/sonnetui.ui:215
 #. i18n: ectx: property (text), widget (QPushButton, m_replaceAllBtn)
-#: rc.cpp:708 rc.cpp:1163
+#: rc.cpp:708 rc.cpp:1166
 msgid "R&eplace All"
 msgstr "Alles &Ersetzen"
 
@@ -1637,7 +1637,7 @@ msgstr "Alles &Ersetzen"
 #. i18n: ectx: property (toolTip), widget (Q3ListView, m_suggestions)
 #. i18n: file: kdeui/sonnet/sonnetui.ui:124
 #. i18n: ectx: property (toolTip), widget (QListView, m_suggestions)
-#: rc.cpp:711 rc.cpp:1112
+#: rc.cpp:711 rc.cpp:1115
 msgid "Suggestion List"
 msgstr "Lëscht mat Beispiller"
 
@@ -1645,7 +1645,7 @@ msgstr "Lëscht mat Beispiller"
 #. i18n: ectx: property (whatsThis), widget (Q3ListView, m_suggestions)
 #. i18n: file: kdeui/sonnet/sonnetui.ui:130
 #. i18n: ectx: property (whatsThis), widget (QListView, m_suggestions)
-#: rc.cpp:714 rc.cpp:1115
+#: rc.cpp:714 rc.cpp:1118
 msgid ""
 "<qt>\n"
 "<p>If the unknown word is misspelled, you should check if the correction for "
@@ -1670,7 +1670,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (Q3ListView, m_suggestions)
 #. i18n: file: kdeui/sonnet/sonnetui.ui:137
 #. i18n: ectx: property (text), widget (QListView, m_suggestions)
-#: rc.cpp:720 rc.cpp:1121
+#: rc.cpp:720 rc.cpp:1124
 msgid "Suggested Words"
 msgstr "Méiglech Ersatzwierder"
 
@@ -1678,7 +1678,7 @@ msgstr "Méiglech Ersatzwierder"
 #. i18n: ectx: property (whatsThis), widget (QPushButton, m_replaceBtn)
 #. i18n: file: kdeui/sonnet/sonnetui.ui:200
 #. i18n: ectx: property (whatsThis), widget (QPushButton, m_replaceBtn)
-#: rc.cpp:723 rc.cpp:1150
+#: rc.cpp:723 rc.cpp:1153
 msgid ""
 "<qt>\n"
 "<p>Click here to replace this occurrence of the unknown text with the text "
@@ -1694,7 +1694,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, m_replaceBtn)
 #. i18n: file: kdeui/sonnet/sonnetui.ui:203
 #. i18n: ectx: property (text), widget (QPushButton, m_replaceBtn)
-#: rc.cpp:728 rc.cpp:1155 kdeui/findreplace/kfinddialog.cpp:198
+#: rc.cpp:728 rc.cpp:1158 kdeui/findreplace/kfinddialog.cpp:198
 msgid "&Replace"
 msgstr "E&rsetzen"
 
@@ -1706,7 +1706,7 @@ msgstr "E&rsetzen"
 #. i18n: ectx: property (whatsThis), widget (QLabel, textLabel4)
 #. i18n: file: kdeui/sonnet/sonnetui.ui:164
 #. i18n: ectx: property (whatsThis), widget (KLineEdit, m_replacement)
-#: rc.cpp:731 rc.cpp:758 rc.cpp:1124 rc.cpp:1133
+#: rc.cpp:731 rc.cpp:758 rc.cpp:1127 rc.cpp:1136
 msgid ""
 "<qt>\n"
 "<p>If the unknown word is misspelled, you should type the correction for "
@@ -1728,7 +1728,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QLabel, textLabel4)
 #. i18n: file: kdeui/sonnet/sonnetui.ui:151
 #. i18n: ectx: property (text), widget (QLabel, textLabel4)
-#: rc.cpp:737 rc.cpp:1130
+#: rc.cpp:737 rc.cpp:1133
 msgid "Replace &with:"
 msgstr "Ersetzen &duerch:"
 
@@ -1736,7 +1736,7 @@ msgstr "Ersetzen &duerch:"
 #. i18n: ectx: property (whatsThis), widget (QPushButton, m_skipBtn)
 #. i18n: file: kdeui/sonnet/sonnetui.ui:225
 #. i18n: ectx: property (whatsThis), widget (QPushButton, m_skipBtn)
-#: rc.cpp:740 rc.cpp:1166
+#: rc.cpp:740 rc.cpp:1169
 msgid ""
 "<qt>\n"
 "<p>Click here to let this occurrence of the unknown word remain as is.</p>\n"
@@ -1755,7 +1755,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, m_skipBtn)
 #. i18n: file: kdeui/sonnet/sonnetui.ui:228
 #. i18n: ectx: property (text), widget (QPushButton, m_skipBtn)
-#: rc.cpp:746 rc.cpp:1172
+#: rc.cpp:746 rc.cpp:1175
 msgid "&Ignore"
 msgstr "&Ignoréieren"
 
@@ -1765,7 +1765,7 @@ msgstr "&Ignoréieren"
 #. i18n: ectx: property (whatsThis), widget (QPushButton, m_skipAllBtn)
 #. i18n: file: kdeui/sonnet/sonnetui.ui:251
 #. i18n: ectx: property (whatsThis), widget (QPushButton, m_autoCorrect)
-#: rc.cpp:749 rc.cpp:1175 rc.cpp:1184
+#: rc.cpp:749 rc.cpp:1178 rc.cpp:1187
 msgid ""
 "<qt>\n"
 "<p>Click here to let all occurrences of the unknown word remain as they are."
@@ -1785,7 +1785,7 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, m_skipAllBtn)
 #. i18n: file: kdeui/sonnet/sonnetui.ui:241
 #. i18n: ectx: property (text), widget (QPushButton, m_skipAllBtn)
-#: rc.cpp:755 rc.cpp:1181
+#: rc.cpp:755 rc.cpp:1184
 msgid "I&gnore All"
 msgstr "Alles Ign&oréieren"
 
@@ -1793,7 +1793,7 @@ msgstr "Alles Ign&oréieren"
 #. i18n: ectx: property (text), widget (QPushButton, m_suggestBtn)
 #. i18n: file: kdeui/sonnet/sonnetui.ui:191
 #. i18n: ectx: property (text), widget (QPushButton, m_suggestBtn)
-#: rc.cpp:764 rc.cpp:1147
+#: rc.cpp:764 rc.cpp:1150
 msgid "S&uggest"
 msgstr "&Virschloen"
 
@@ -1801,7 +1801,7 @@ msgstr "&Virschloen"
 #. i18n: ectx: property (toolTip), widget (KComboBox, m_language)
 #. i18n: file: kdeui/sonnet/sonnetui.ui:171
 #. i18n: ectx: property (toolTip), widget (KComboBox, m_language)
-#: rc.cpp:767 rc.cpp:1139
+#: rc.cpp:767 rc.cpp:1142
 msgid "Language Selection"
 msgstr "Auswiel vun der Sprooch"
 
@@ -2357,8 +2357,10 @@ msgid "Default language:"
 msgstr "Standardsprooch:"
 
 #. i18n: file: kdeui/sonnet/configui.ui:79
-#. i18n: ectx: property (title), widget (KEditListBox, m_ignoreListBox)
-#: rc.cpp:1060
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox)
+#. i18n: file: kdeui/sonnet/configui.ui:85
+#. i18n: ectx: property (title), widget (KEditListWidget, m_ignoreListBox)
+#: rc.cpp:1060 rc.cpp:1063
 #, fuzzy
 #| msgid "Ignore These Words"
 msgid "Ignored Words"
@@ -2366,13 +2368,13 @@ msgstr "Dëss Wierder ignoréieren"
 
 #. i18n: file: kdeui/sonnet/sonnetui.ui:254
 #. i18n: ectx: property (text), widget (QPushButton, m_autoCorrect)
-#: rc.cpp:1190
+#: rc.cpp:1193
 msgid "Autocorrect"
 msgstr "Automatësch Verbesserung"
 
 #. i18n: file: kdeui/widgets/kshortcutwidget.ui:22
 #. i18n: ectx: property (text), widget (QLabel, priLabel)
-#: rc.cpp:1193 kdeui/dialogs/kshortcutseditor.cpp:644
+#: rc.cpp:1196 kdeui/dialogs/kshortcutseditor.cpp:648
 #, fuzzy
 #| msgid "Chain:"
 msgid "Main:"
@@ -2380,7 +2382,7 @@ msgstr "Ketten:"
 
 #. i18n: file: kdeui/widgets/kshortcutwidget.ui:52
 #. i18n: ectx: property (text), widget (QLabel, altLabel)
-#: rc.cpp:1196 kdeui/dialogs/kshortcutseditor.cpp:645
+#: rc.cpp:1199 kdeui/dialogs/kshortcutseditor.cpp:649
 #, fuzzy
 #| msgid "Alternate"
 msgid "Alternate:"
@@ -2654,22 +2656,22 @@ msgctxt ""
 msgid "or"
 msgstr "Mor"
 
-#: nepomuk/core/resource.cpp:499
+#: nepomuk/core/resource.cpp:515
 msgid "Success"
 msgstr ""
 
-#: nepomuk/core/resource.cpp:501
+#: nepomuk/core/resource.cpp:517
 #, fuzzy
 msgid "Communication error"
 msgstr "Configuratioun"
 
-#: nepomuk/core/resource.cpp:503
+#: nepomuk/core/resource.cpp:519
 #, fuzzy
 #| msgid "Invalid reference base"
 msgid "Invalid type in Database"
 msgstr "Ongülteg Basis fir d'Referenz"
 
-#: nepomuk/core/resource.cpp:505 kdecore/network/klocalsocket_unix.cpp:213
+#: nepomuk/core/resource.cpp:521 kdecore/network/klocalsocket_unix.cpp:213
 #: kdecore/network/klocalsocket_unix.cpp:293
 #, fuzzy
 #| msgctxt "QFile"
@@ -3100,42 +3102,42 @@ msgctxt "option:radio A filter on the rating of a resource"
 msgid "Max Rating"
 msgstr "Bewertung"
 
-#: kinit/klauncher.cpp:563
+#: kinit/klauncher.cpp:562
 #, kde-format
 msgid "KDEInit could not launch '%1'."
 msgstr "KDEInit konnt '%1' net starten."
 
-#: kinit/klauncher.cpp:736 kinit/klauncher.cpp:765 kinit/klauncher.cpp:780
+#: kinit/klauncher.cpp:737 kinit/klauncher.cpp:766 kinit/klauncher.cpp:781
 #, kde-format
 msgid "Could not find service '%1'."
 msgstr "Konnt de Service '%1' net fannen."
 
-#: kinit/klauncher.cpp:799
+#: kinit/klauncher.cpp:800
 #, kde-format
 msgid "Service '%1' must be executable to run."
 msgstr ""
 
-#: kinit/klauncher.cpp:801 kinit/klauncher.cpp:837
+#: kinit/klauncher.cpp:802 kinit/klauncher.cpp:838
 #, kde-format
 msgid "Service '%1' is malformatted."
 msgstr "De Service '%1' huet ën ongültege Format."
 
-#: kinit/klauncher.cpp:923
+#: kinit/klauncher.cpp:924
 #, kde-format
 msgid "Launching %1"
 msgstr "%1 gëtt gestart"
 
-#: kinit/klauncher.cpp:1126
+#: kinit/klauncher.cpp:1128
 #, kde-format
 msgid "Unknown protocol '%1'.\n"
 msgstr "Onbekannte Protokoll '%1'.\n"
 
-#: kinit/klauncher.cpp:1187
+#: kinit/klauncher.cpp:1189
 #, kde-format
 msgid "Error loading '%1'.\n"
 msgstr "Feeler beim Luede vun '%1'.\n"
 
-#: kinit/kinit.cpp:524
+#: kinit/kinit.cpp:525
 msgid ""
 "Unable to start new process.\n"
 "The system may have reached the maximum number of open files possible or the "
@@ -3145,7 +3147,7 @@ msgstr ""
 "Déi maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn oder déi vun "
 "iech agestallte maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn."
 
-#: kinit/kinit.cpp:543
+#: kinit/kinit.cpp:544
 msgid ""
 "Unable to create new process.\n"
 "The system may have reached the maximum number of processes possible or the "
@@ -3155,12 +3157,12 @@ msgstr ""
 "Déi maximal Unzuel vu Prozesser kéint erreecht sinn oder déi vun iech "
 "agestallte maximal Unzuel vu Prozesser kéint erreecht sinn."
 
-#: kinit/kinit.cpp:639
+#: kinit/kinit.cpp:640
 #, kde-format
 msgid "Could not find '%1' executable."
 msgstr "Konnt de Programm '%1' net fannen."
 
-#: kinit/kinit.cpp:657
+#: kinit/kinit.cpp:658
 #, kde-format
 msgid ""
 "Could not open library '%1'.\n"
@@ -3169,7 +3171,7 @@ msgstr ""
 "Konnt d'Bibliothéik '%1' net opmaachen.\n"
 "%2"
 
-#: kinit/kinit.cpp:703
+#: kinit/kinit.cpp:704
 #, kde-format
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
@@ -3356,12 +3358,12 @@ msgid ""
 "or the module has been disabled by the administrator.</p></qt>"
 msgstr ""
 
-#: kutils/kcmoduleloader.cpp:132
+#: kutils/kcmoduleloader.cpp:134
 #, kde-format
 msgid "The module %1 is not a valid configuration module."
 msgstr "De Modul %1 ass kee gültege Configuratiounsmodul."
 
-#: kutils/kcmoduleloader.cpp:133
+#: kutils/kcmoduleloader.cpp:135
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt><p>The diagnostics is:<br>The desktop file %1 does not specify a "
@@ -3372,11 +3374,11 @@ msgid ""
 msgstr ""
 "<qt><p>D'Diagnos ass:<br>D'Bürosdatei %1 gëtt keng Bibliothéik un.</qt>"
 
-#: kutils/kcmoduleloader.cpp:152
+#: kutils/kcmoduleloader.cpp:150
 msgid "There was an error loading the module."
 msgstr "Et ass e Feeler beim Luede vum Modul opgetrueden."
 
-#: kutils/kcmoduleloader.cpp:152
+#: kutils/kcmoduleloader.cpp:150
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt><p>The diagnostics is:<br>%1<p>Possible reasons:</p><ul><li>An error "
@@ -3399,7 +3401,7 @@ msgstr ""
 "</ul><p>Kuckt dëss Punkten opmierksam duerch a probéiert, dee Modul ze "
 "läschen. Wann dat net klappt, frot bei ärem Verdeler no.</p></qt>"
 
-#: kutils/kcmoduleloader.cpp:167
+#: kutils/kcmoduleloader.cpp:166
 #, fuzzy
 #| msgid ""
 #| "<qt><p>The diagnostics is:<br>%1<p>Possible reasons:</p><ul><li>An error "
@@ -4206,7 +4208,7 @@ msgid "Name"
 msgstr "Numm"
 
 #: knewstuff/knewstuff2/ui/kdxstranslation.cpp:47
-#: kdeui/dialogs/kshortcutseditor.cpp:669
+#: kdeui/dialogs/kshortcutseditor.cpp:673
 #, fuzzy
 #| msgid "Description:"
 msgid "Description"
@@ -5087,8 +5089,8 @@ msgid ""
 msgstr ""
 
 #: kdecore/localization/kcharsets.cpp:155
-#: kdecore/localization/kencodingprober.cpp:242
-#: kdecore/localization/kencodingprober.cpp:301
+#: kdecore/localization/kencodingprober.cpp:244
+#: kdecore/localization/kencodingprober.cpp:303
 #: kdecore/localization/kencodingdetector.cpp:1149
 #: kdecore/localization/kencodingdetector.cpp:1232
 #, fuzzy
@@ -5098,8 +5100,8 @@ msgid "Western European"
 msgstr "Westeuropäësch"
 
 #: kdecore/localization/kcharsets.cpp:161
-#: kdecore/localization/kencodingprober.cpp:244
-#: kdecore/localization/kencodingprober.cpp:283
+#: kdecore/localization/kencodingprober.cpp:246
+#: kdecore/localization/kencodingprober.cpp:285
 #: kdecore/localization/kencodingdetector.cpp:1151
 #: kdecore/localization/kencodingdetector.cpp:1214
 #, fuzzy
@@ -5109,8 +5111,8 @@ msgid "Central European"
 msgstr "Mëtteleuropäësch"
 
 #: kdecore/localization/kcharsets.cpp:164
-#: kdecore/localization/kencodingprober.cpp:254
-#: kdecore/localization/kencodingprober.cpp:280
+#: kdecore/localization/kencodingprober.cpp:256
+#: kdecore/localization/kencodingprober.cpp:282
 #: kdecore/localization/kencodingdetector.cpp:1161
 #: kdecore/localization/kencodingdetector.cpp:1211
 #, fuzzy
@@ -5127,8 +5129,8 @@ msgid "South-Eastern Europe"
 msgstr "Südosteuropäësch"
 
 #: kdecore/localization/kcharsets.cpp:170
-#: kdecore/localization/kencodingprober.cpp:250
-#: kdecore/localization/kencodingprober.cpp:298
+#: kdecore/localization/kencodingprober.cpp:252
+#: kdecore/localization/kencodingprober.cpp:300
 #: kdecore/localization/kencodingdetector.cpp:1157
 #: kdecore/localization/kencodingdetector.cpp:1229
 #, fuzzy
@@ -5138,8 +5140,8 @@ msgid "Turkish"
 msgstr "Türkësch"
 
 #: kdecore/localization/kcharsets.cpp:173
-#: kdecore/localization/kencodingprober.cpp:240
-#: kdecore/localization/kencodingprober.cpp:286
+#: kdecore/localization/kencodingprober.cpp:242
+#: kdecore/localization/kencodingprober.cpp:288
 #: kdecore/localization/kencodingdetector.cpp:1147
 #: kdecore/localization/kencodingdetector.cpp:1217
 #, fuzzy
@@ -5149,8 +5151,8 @@ msgid "Cyrillic"
 msgstr "Kyrillësch"
 
 #: kdecore/localization/kcharsets.cpp:179
-#: kdecore/localization/kencodingprober.cpp:256
-#: kdecore/localization/kencodingprober.cpp:304
+#: kdecore/localization/kencodingprober.cpp:258
+#: kdecore/localization/kencodingprober.cpp:306
 #: kdecore/localization/kencodingdetector.cpp:1235
 #, fuzzy
 #| msgid "Chinese Traditional"
@@ -5159,8 +5161,8 @@ msgid "Chinese Traditional"
 msgstr "Chinesësch traditionell"
 
 #: kdecore/localization/kcharsets.cpp:182
-#: kdecore/localization/kencodingprober.cpp:258
-#: kdecore/localization/kencodingprober.cpp:307
+#: kdecore/localization/kencodingprober.cpp:260
+#: kdecore/localization/kencodingprober.cpp:309
 #: kdecore/localization/kencodingdetector.cpp:1238
 #, fuzzy
 #| msgid "Chinese Simplified"
@@ -5169,7 +5171,7 @@ msgid "Chinese Simplified"
 msgstr "Chinesësch einfach"
 
 #: kdecore/localization/kcharsets.cpp:186
-#: kdecore/localization/kencodingprober.cpp:310
+#: kdecore/localization/kencodingprober.cpp:312
 #: kdecore/localization/kencodingdetector.cpp:1241
 #, fuzzy
 #| msgid "Korean"
@@ -5178,8 +5180,8 @@ msgid "Korean"
 msgstr "Koreanësch"
 
 #: kdecore/localization/kcharsets.cpp:188
-#: kdecore/localization/kencodingprober.cpp:252
-#: kdecore/localization/kencodingprober.cpp:295
+#: kdecore/localization/kencodingprober.cpp:254
+#: kdecore/localization/kencodingprober.cpp:297
 #: kdecore/localization/kencodingdetector.cpp:1159
 #: kdecore/localization/kencodingdetector.cpp:1226
 #, fuzzy
@@ -5189,8 +5191,8 @@ msgid "Japanese"
 msgstr "Japanësch"
 
 #: kdecore/localization/kcharsets.cpp:192
-#: kdecore/localization/kencodingprober.cpp:246
-#: kdecore/localization/kencodingprober.cpp:289
+#: kdecore/localization/kencodingprober.cpp:248
+#: kdecore/localization/kencodingprober.cpp:291
 #: kdecore/localization/kencodingdetector.cpp:1153
 #: kdecore/localization/kencodingdetector.cpp:1220
 #, fuzzy
@@ -5200,8 +5202,8 @@ msgid "Greek"
 msgstr "Griichësch"
 
 #: kdecore/localization/kcharsets.cpp:195
-#: kdecore/localization/kencodingprober.cpp:260
-#: kdecore/localization/kencodingprober.cpp:277
+#: kdecore/localization/kencodingprober.cpp:262
+#: kdecore/localization/kencodingprober.cpp:279
 #: kdecore/localization/kencodingdetector.cpp:1163
 #: kdecore/localization/kencodingdetector.cpp:1208
 #, fuzzy
@@ -5211,8 +5213,8 @@ msgid "Arabic"
 msgstr "Arabësch"
 
 #: kdecore/localization/kcharsets.cpp:198
-#: kdecore/localization/kencodingprober.cpp:248
-#: kdecore/localization/kencodingprober.cpp:292
+#: kdecore/localization/kencodingprober.cpp:250
+#: kdecore/localization/kencodingprober.cpp:294
 #: kdecore/localization/kencodingdetector.cpp:1155
 #: kdecore/localization/kencodingdetector.cpp:1223
 #, fuzzy
@@ -5222,7 +5224,7 @@ msgid "Hebrew"
 msgstr "Hebräësch"
 
 #: kdecore/localization/kcharsets.cpp:203
-#: kdecore/localization/kencodingprober.cpp:313
+#: kdecore/localization/kencodingprober.cpp:315
 #: kdecore/localization/kencodingdetector.cpp:1244
 #, fuzzy
 #| msgid "Thai"
@@ -5231,8 +5233,8 @@ msgid "Thai"
 msgstr "Thailännësch"
 
 #: kdecore/localization/kcharsets.cpp:206
-#: kdecore/localization/kencodingprober.cpp:238
-#: kdecore/localization/kencodingprober.cpp:316
+#: kdecore/localization/kencodingprober.cpp:240
+#: kdecore/localization/kencodingprober.cpp:318
 #: kdecore/localization/kencodingdetector.cpp:1145
 #: kdecore/localization/kencodingdetector.cpp:1247
 #, fuzzy
@@ -5249,14 +5251,14 @@ msgid "Northern Saami"
 msgstr "Nördlëscht Sami"
 
 #: kdecore/localization/kcharsets.cpp:214
-#: kdecore/localization/kcharsets.cpp:651
+#: kdecore/localization/kcharsets.cpp:652
 #, fuzzy
 #| msgid "Other"
 msgctxt "@item Text character set"
 msgid "Other"
 msgstr "Aner"
 
-#: kdecore/localization/kcharsets.cpp:660
+#: kdecore/localization/kcharsets.cpp:662
 #, fuzzy, kde-format
 #| msgctxt "Descriptive Encoding Name"
 #| msgid "%1 ( %2 )"
@@ -5264,13 +5266,13 @@ msgctxt "@item %1 character set, %2 encoding"
 msgid "%1 ( %2 )"
 msgstr "%1 (%2)"
 
-#: kdecore/localization/kcharsets.cpp:663
+#: kdecore/localization/kcharsets.cpp:665
 #, fuzzy, kde-format
 msgctxt "@item"
 msgid "Other encoding (%1)"
 msgstr "&Verschlësselung festléen"
 
-#: kdecore/localization/kcharsets.cpp:689
+#: kdecore/localization/kcharsets.cpp:691
 #, fuzzy, kde-format
 #| msgctxt "Descriptive Encoding Name"
 #| msgid "%1 ( %2 )"
@@ -5278,15 +5280,15 @@ msgctxt "@item Text encoding: %1 character set, %2 encoding"
 msgid "%1 ( %2 )"
 msgstr "%1 (%2)"
 
-#: kdecore/localization/kencodingprober.cpp:234
-#: kdecore/localization/kencodingprober.cpp:271
+#: kdecore/localization/kencodingprober.cpp:236
+#: kdecore/localization/kencodingprober.cpp:273
 #, fuzzy
 msgctxt "@item Text character set"
 msgid "Disabled"
 msgstr "Veränneren aktivéiert"
 
-#: kdecore/localization/kencodingprober.cpp:236
-#: kdecore/localization/kencodingprober.cpp:274
+#: kdecore/localization/kencodingprober.cpp:238
+#: kdecore/localization/kencodingprober.cpp:276
 #, fuzzy
 #| msgid "Install"
 msgctxt "@item Text character set"
@@ -6785,7 +6787,7 @@ msgstr ""
 msgid "DBus Backend error: received corrupt data from helper %1 %2"
 msgstr ""
 
-#: kdecore/config/kconfig.cpp:688
+#: kdecore/config/kconfig.cpp:692
 msgid "Please contact your system administrator."
 msgstr "Mellt iech w.e.g. bei ärer Systemverwaltung."
 
@@ -7047,7 +7049,7 @@ msgid "Filter error"
 msgstr "Feeler am Filter"
 
 #: khtml/khtml_run.cpp:104 khtml/khtml_part.cpp:3710 khtml/khtml_part.cpp:3939
-#: khtml/khtml_part.cpp:4361 kparts/browserrun.cpp:415
+#: khtml/khtml_part.cpp:4361 kparts/browserrun.cpp:419
 msgid "Save As"
 msgstr "Späicheren als"
 
@@ -7351,12 +7353,12 @@ msgstr "Datei iwwerschreiwen?"
 msgid "Overwrite"
 msgstr "Iwwerschreiwen"
 
-#: khtml/khtml_ext.cpp:940 kparts/browserrun.cpp:386
+#: khtml/khtml_ext.cpp:940 kparts/browserrun.cpp:390
 #, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "Den Download-Manager (%1) konnt an ärem PATH net fonnt ginn "
 
-#: khtml/khtml_ext.cpp:941 kparts/browserrun.cpp:387
+#: khtml/khtml_ext.cpp:941 kparts/browserrun.cpp:391
 #, fuzzy
 msgid ""
 "Try to reinstall it  \n"
@@ -8032,7 +8034,7 @@ msgstr[1] "Dateie &verschécken"
 msgid "Key Generator"
 msgstr "Allgemeng"
 
-#: khtml/html/html_objectimpl.cpp:604
+#: khtml/html/html_objectimpl.cpp:610
 #, kde-format
 msgid ""
 "No plugin found for '%1'.\n"
@@ -8041,15 +8043,15 @@ msgstr ""
 "Kee Plugin fir '%1' fonnt.\n"
 "Wëllt dir op %2 een eroflueden?"
 
-#: khtml/html/html_objectimpl.cpp:605
+#: khtml/html/html_objectimpl.cpp:611
 msgid "Missing Plugin"
 msgstr "Plugin feelt"
 
-#: khtml/html/html_objectimpl.cpp:605
+#: khtml/html/html_objectimpl.cpp:611
 msgid "Download"
 msgstr "Eroflueden"
 
-#: khtml/html/html_objectimpl.cpp:605
+#: khtml/html/html_objectimpl.cpp:611
 msgid "Do Not Download"
 msgstr "Net eroflueden"
 
@@ -8376,27 +8378,27 @@ msgstr "Miniprogramm \"%1\" leeft"
 msgid "Applet \"%1\" stopped"
 msgstr "Miniprogramm \"%1\" gestoppt"
 
-#: khtml/java/kjavaappletviewer.cpp:128
+#: khtml/java/kjavaappletviewer.cpp:133
 msgid "Applet Parameters"
 msgstr "Parameter vum Miniprogramm"
 
-#: khtml/java/kjavaappletviewer.cpp:138
+#: khtml/java/kjavaappletviewer.cpp:143
 msgid "Parameter"
 msgstr "Parameter"
 
-#: khtml/java/kjavaappletviewer.cpp:142
+#: khtml/java/kjavaappletviewer.cpp:147
 msgid "Class"
 msgstr "Klass"
 
-#: khtml/java/kjavaappletviewer.cpp:148
+#: khtml/java/kjavaappletviewer.cpp:153
 msgid "Base URL"
 msgstr "Basis-Adress"
 
-#: khtml/java/kjavaappletviewer.cpp:154
+#: khtml/java/kjavaappletviewer.cpp:159
 msgid "Archives"
 msgstr "Archiver"
 
-#: khtml/java/kjavaappletviewer.cpp:474
+#: khtml/java/kjavaappletviewer.cpp:479
 msgid "KDE Java Applet Plugin"
 msgstr "KDE-Plugin fir Java-Miniprogrammer"
 
@@ -9479,11 +9481,11 @@ msgctxt "@info:whatsthis"
 msgid "This is the file name suggested by the server"
 msgstr ""
 
-#: kparts/part.cpp:813
+#: kparts/part.cpp:817
 msgid "Untitled"
 msgstr "Onbenannt"
 
-#: kparts/part.cpp:819
+#: kparts/part.cpp:823
 #, kde-format
 msgid ""
 "The document \"%1\" has been modified.\n"
@@ -9492,7 +9494,7 @@ msgstr ""
 "Den Dokument \"%1\" ass verännert ginn.\n"
 "Wëllt dir e späicheren oder sou si loosse, wéi e war?"
 
-#: kparts/part.cpp:821
+#: kparts/part.cpp:825
 msgid "Close Document"
 msgstr "Dokument zoumaachen"
 
@@ -9520,17 +9522,17 @@ msgstr "Sicht am Internet"
 msgid "&Search"
 msgstr "&Sichen"
 
-#: kded/kded.cpp:835
+#: kded/kded.cpp:842
 msgid "KDE Daemon"
 msgstr "KDE-Daemon"
 
-#: kded/kded.cpp:837
+#: kded/kded.cpp:844
 msgid "KDE Daemon - triggers Sycoca database updates when needed"
 msgstr ""
 "KDE-Daemon: Léist d'Aktualiséierunge vun der Sycoca-Datebank aus, wa "
 "gebraucht"
 
-#: kded/kded.cpp:840
+#: kded/kded.cpp:847
 msgid "Check Sycoca database only once"
 msgstr "An der Sycoca-Datebank just eng Kéier nokucken"
 
@@ -9680,12 +9682,12 @@ msgstr ""
 msgid "Unknown"
 msgstr "Onbekannt"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:566
-#: kdeui/dialogs/kshortcutseditor.cpp:582
+#: kdeui/dialogs/kshortcutseditor.cpp:570
+#: kdeui/dialogs/kshortcutseditor.cpp:586
 msgid "Key Conflict"
 msgstr "Tastekonflikt"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:567
+#: kdeui/dialogs/kshortcutseditor.cpp:571
 #, fuzzy, kde-format
 msgid ""
 "The '%1' shape gesture has already been allocated to the \"%2\" action.\n"
@@ -9694,16 +9696,16 @@ msgstr ""
 "D'Tastekombinatioun \"%1\" ass scho mat der Aktioun \"%2\" verbonn.\n"
 "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:571
-#: kdeui/dialogs/kshortcutseditor.cpp:587 kdeui/shortcuts/kglobalaccel.cpp:531
-#: kdeui/shortcuts/kglobalaccel.cpp:570
+#: kdeui/dialogs/kshortcutseditor.cpp:575
+#: kdeui/dialogs/kshortcutseditor.cpp:591 kdeui/shortcuts/kglobalaccel.cpp:546
+#: kdeui/shortcuts/kglobalaccel.cpp:586
 #: kdeui/widgets/kkeysequencewidget.cpp:184
 #: kdeui/widgets/kkeysequencewidget.cpp:273
-#: kdeui/widgets/kkeysequencewidget.cpp:667
+#: kdeui/widgets/kkeysequencewidget.cpp:669
 msgid "Reassign"
 msgstr "Nei zouuerdnen"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:583
+#: kdeui/dialogs/kshortcutseditor.cpp:587
 #, fuzzy, kde-format
 msgid ""
 "The '%1' rocker gesture has already been allocated to the \"%2\" action.\n"
@@ -9712,24 +9714,24 @@ msgstr ""
 "D'Tastekombinatioun \"%1\" ass scho mat der Aktioun \"%2\" verbonn.\n"
 "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:626
+#: kdeui/dialogs/kshortcutseditor.cpp:630
 #, fuzzy, kde-format
 #| msgid "Shortcuts"
 msgctxt "header for an applications shortcut list"
 msgid "Shortcuts for %1"
 msgstr "Kierzelen"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:646
+#: kdeui/dialogs/kshortcutseditor.cpp:650
 msgid "Global:"
 msgstr ""
 
-#: kdeui/dialogs/kshortcutseditor.cpp:661
+#: kdeui/dialogs/kshortcutseditor.cpp:665
 #, fuzzy
 #| msgid "Additional Names"
 msgid "Action Name"
 msgstr "Zousätzlech Nimm"
 
-#: kdeui/dialogs/kshortcutseditor.cpp:665
+#: kdeui/dialogs/kshortcutseditor.cpp:669
 msgid "Shortcuts"
 msgstr "Kierzelen"
 
@@ -10571,7 +10573,7 @@ msgstr "Standard"
 
 #: kdeui/dialogs/kshortcuteditwidget.cpp:60
 #: kdeui/dialogs/kshortcuteditwidget.cpp:63
-#: kdeui/widgets/kkeysequencewidget.cpp:701
+#: kdeui/widgets/kkeysequencewidget.cpp:703
 #, fuzzy
 #| msgid "None"
 msgctxt "No shortcut defined"
@@ -11156,11 +11158,11 @@ msgstr ""
 msgid " %1/s "
 msgstr "(%1/s)"
 
-#: kdeui/shortcuts/kglobalaccel.cpp:524
+#: kdeui/shortcuts/kglobalaccel.cpp:539
 msgid "Conflict with Global Shortcut"
 msgstr "Konflikt mat allgemengem Kierzel"
 
-#: kdeui/shortcuts/kglobalaccel.cpp:525
+#: kdeui/shortcuts/kglobalaccel.cpp:540
 #, fuzzy, kde-format
 #| msgid ""
 #| "The '%1' key combination has already been allocated to the global action "
@@ -11175,25 +11177,25 @@ msgstr ""
 "verbonn.\n"
 "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
-#: kdeui/shortcuts/kglobalaccel.cpp:551
+#: kdeui/shortcuts/kglobalaccel.cpp:567
 #, kde-format
 msgid "The '%1' key combination is registered by application %2 for action %3:"
 msgstr ""
 
-#: kdeui/shortcuts/kglobalaccel.cpp:558
+#: kdeui/shortcuts/kglobalaccel.cpp:574
 #, fuzzy, kde-format
 #| msgid "Content information: %1\n"
 msgid "In context '%1' for action '%2'\n"
 msgstr "Beschreiwung vum Inhalt: %1\n"
 
-#: kdeui/shortcuts/kglobalaccel.cpp:562
+#: kdeui/shortcuts/kglobalaccel.cpp:578
 #, kde-format
 msgid ""
 "The '%1' key combination is registered by application %2.\n"
 "%3"
 msgstr ""
 
-#: kdeui/shortcuts/kglobalaccel.cpp:568
+#: kdeui/shortcuts/kglobalaccel.cpp:584
 #, fuzzy
 #| msgid "Conflict with Global Shortcut"
 msgid "Conflict With Registered Global Shortcut"
@@ -11852,28 +11854,28 @@ msgctxt "show help"
 msgid "&Help"
 msgstr "&Hëllef"
 
-#: kdeui/actions/kstandardaction.cpp:516 kdeui/actions/kstandardaction.cpp:540
+#: kdeui/actions/kstandardaction.cpp:517 kdeui/actions/kstandardaction.cpp:542
 #: kdeui/actions/kstandardaction_p.h:98
 msgid "Show &Menubar"
 msgstr "&Menübar weisen"
 
-#: kdeui/actions/kstandardaction.cpp:522 kdeui/actions/kstandardaction.cpp:547
+#: kdeui/actions/kstandardaction.cpp:523 kdeui/actions/kstandardaction.cpp:549
 #, fuzzy
 #| msgid "Show Menubar<p>Shows the menubar again after it has been hidden"
 msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
 msgstr "Menübar weisen<p>Weist d'Menübar nees un, nodeems se verstoppt gi war"
 
-#: kdeui/actions/kstandardaction.cpp:541
+#: kdeui/actions/kstandardaction.cpp:543
 #, fuzzy
 #| msgid "Hide &Menubar"
 msgid "Hide Menubar"
 msgstr "&Menübar verstoppen"
 
-#: kdeui/actions/kstandardaction.cpp:566 kdeui/actions/kstandardaction_p.h:100
+#: kdeui/actions/kstandardaction.cpp:569 kdeui/actions/kstandardaction_p.h:100
 msgid "Show St&atusbar"
 msgstr "St&atusbar weisen"
 
-#: kdeui/actions/kstandardaction.cpp:569 kdeui/actions/kstandardaction.cpp:592
+#: kdeui/actions/kstandardaction.cpp:572 kdeui/actions/kstandardaction.cpp:596
 #, fuzzy
 #| msgid ""
 #| "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of "
@@ -11885,13 +11887,13 @@ msgstr ""
 "Statusbar weisen<p>Weist d'Statusbar. Dat ass déi Leescht ënnen an der "
 "Fënster fir d'Statusinformatiounen."
 
-#: kdeui/actions/kstandardaction.cpp:587
+#: kdeui/actions/kstandardaction.cpp:591
 #, fuzzy
 #| msgid "Show St&atusbar"
 msgid "Show Statusbar"
 msgstr "St&atusbar weisen"
 
-#: kdeui/actions/kstandardaction.cpp:588
+#: kdeui/actions/kstandardaction.cpp:592
 #, fuzzy
 #| msgid "Hide St&atusbar"
 msgid "Hide Statusbar"
@@ -13412,100 +13414,100 @@ msgstr "&Ausgewielt:"
 msgid "without name"
 msgstr "Neien Numm fir den Host"
 
-#: kdeui/widgets/ktoolbar.cpp:268
+#: kdeui/widgets/ktoolbar.cpp:272
 #, fuzzy
 #| msgid "Toolbar Menu"
 msgid "Toolbar Settings"
 msgstr "Toolbar-Menü"
 
-#: kdeui/widgets/ktoolbar.cpp:270
+#: kdeui/widgets/ktoolbar.cpp:274
 msgid "Orientation"
 msgstr "Ausriichtung"
 
-#: kdeui/widgets/ktoolbar.cpp:272
+#: kdeui/widgets/ktoolbar.cpp:276
 msgctxt "toolbar position string"
 msgid "Top"
 msgstr "Uewen"
 
-#: kdeui/widgets/ktoolbar.cpp:274
+#: kdeui/widgets/ktoolbar.cpp:278
 msgctxt "toolbar position string"
 msgid "Left"
 msgstr "Lénks"
 
-#: kdeui/widgets/ktoolbar.cpp:275
+#: kdeui/widgets/ktoolbar.cpp:279
 msgctxt "toolbar position string"
 msgid "Right"
 msgstr "Riets"
 
-#: kdeui/widgets/ktoolbar.cpp:276
+#: kdeui/widgets/ktoolbar.cpp:280
 msgctxt "toolbar position string"
 msgid "Bottom"
 msgstr "Ënnen"
 
-#: kdeui/widgets/ktoolbar.cpp:284
+#: kdeui/widgets/ktoolbar.cpp:288
 msgid "Text Position"
 msgstr "Positioun vum Text"
 
-#: kdeui/widgets/ktoolbar.cpp:286
+#: kdeui/widgets/ktoolbar.cpp:290
 msgid "Icons Only"
 msgstr "Nëmme Symboler"
 
-#: kdeui/widgets/ktoolbar.cpp:287
+#: kdeui/widgets/ktoolbar.cpp:291
 msgid "Text Only"
 msgstr "Nëmmen Text"
 
-#: kdeui/widgets/ktoolbar.cpp:288
+#: kdeui/widgets/ktoolbar.cpp:292
 msgid "Text Alongside Icons"
 msgstr "Text nierwt de Symboler"
 
-#: kdeui/widgets/ktoolbar.cpp:289
+#: kdeui/widgets/ktoolbar.cpp:293
 msgid "Text Under Icons"
 msgstr "Text ënnert de Symboler"
 
-#: kdeui/widgets/ktoolbar.cpp:297
+#: kdeui/widgets/ktoolbar.cpp:301
 msgid "Icon Size"
 msgstr "Gréisst vum Symbol"
 
-#: kdeui/widgets/ktoolbar.cpp:299
+#: kdeui/widgets/ktoolbar.cpp:303
 #, fuzzy
 #| msgid "Default"
 msgctxt "@item:inmenu Icon size"
 msgid "Default"
 msgstr "Standard"
 
-#: kdeui/widgets/ktoolbar.cpp:316 kdeui/widgets/ktoolbar.cpp:336
+#: kdeui/widgets/ktoolbar.cpp:320 kdeui/widgets/ktoolbar.cpp:340
 #, kde-format
 msgid "Small (%1x%2)"
 msgstr "Kleng (%1x%2)"
 
-#: kdeui/widgets/ktoolbar.cpp:318 kdeui/widgets/ktoolbar.cpp:338
+#: kdeui/widgets/ktoolbar.cpp:322 kdeui/widgets/ktoolbar.cpp:342
 #, kde-format
 msgid "Medium (%1x%2)"
 msgstr "Mëttel (%1x%2)"
 
-#: kdeui/widgets/ktoolbar.cpp:320 kdeui/widgets/ktoolbar.cpp:340
+#: kdeui/widgets/ktoolbar.cpp:324 kdeui/widgets/ktoolbar.cpp:344
 #, kde-format
 msgid "Large (%1x%2)"
 msgstr "Grouss (%1x%2)"
 
-#: kdeui/widgets/ktoolbar.cpp:322 kdeui/widgets/ktoolbar.cpp:342
+#: kdeui/widgets/ktoolbar.cpp:326 kdeui/widgets/ktoolbar.cpp:346
 #, kde-format
 msgid "Huge (%1x%2)"
 msgstr "Risëg (%1x%2)"
 
-#: kdeui/widgets/ktoolbar.cpp:362
+#: kdeui/widgets/ktoolbar.cpp:366
 #, fuzzy
 msgid "Lock Toolbar Positions"
 msgstr "Toolbaren"
 
-#: kdeui/widgets/ktoolbar.cpp:1222
+#: kdeui/widgets/ktoolbar.cpp:1232
 #, fuzzy, kde-format
 #| msgid "%1%"
 msgctxt "@action:intoolbar Text label of toolbar button"
 msgid "%1"
 msgstr "%1%"
 
-#: kdeui/widgets/ktoolbar.cpp:1223
+#: kdeui/widgets/ktoolbar.cpp:1233
 #, fuzzy, kde-format
 #| msgid "%1%"
 msgctxt "@info:tooltip Tooltip of toolbar button"
@@ -13576,62 +13578,62 @@ msgstr "Joër auswielen"
 msgid "Select the current day"
 msgstr "Heitegen Dag auswielen"
 
-#: kdeui/widgets/klineedit.cpp:292
+#: kdeui/widgets/klineedit.cpp:296
 #, fuzzy
 msgctxt "@action:button Clear current text in the line edit"
 msgid "Clear text"
 msgstr "Kierzel läschen"
 
-#: kdeui/widgets/klineedit.cpp:1177
+#: kdeui/widgets/klineedit.cpp:1181
 #, fuzzy
 #| msgid "Text Completion"
 msgctxt "@title:menu"
 msgid "Text Completion"
 msgstr "Ergänzung vum Text"
 
-#: kdeui/widgets/klineedit.cpp:1184
+#: kdeui/widgets/klineedit.cpp:1188
 #, fuzzy
 #| msgid "None"
 msgctxt "@item:inmenu Text Completion"
 msgid "None"
 msgstr "Keng"
 
-#: kdeui/widgets/klineedit.cpp:1185
+#: kdeui/widgets/klineedit.cpp:1189
 #, fuzzy
 #| msgid "Manual"
 msgctxt "@item:inmenu Text Completion"
 msgid "Manual"
 msgstr "Manuell"
 
-#: kdeui/widgets/klineedit.cpp:1186
+#: kdeui/widgets/klineedit.cpp:1190
 #, fuzzy
 #| msgid "Automatic"
 msgctxt "@item:inmenu Text Completion"
 msgid "Automatic"
 msgstr "Automatësch"
 
-#: kdeui/widgets/klineedit.cpp:1187
+#: kdeui/widgets/klineedit.cpp:1191
 #, fuzzy
 #| msgid "Dropdown List"
 msgctxt "@item:inmenu Text Completion"
 msgid "Dropdown List"
 msgstr "Ausklapplëscht"
 
-#: kdeui/widgets/klineedit.cpp:1188
+#: kdeui/widgets/klineedit.cpp:1192
 #, fuzzy
 #| msgid "Short Automatic"
 msgctxt "@item:inmenu Text Completion"
 msgid "Short Automatic"
 msgstr "Automatësch kuerz"
 
-#: kdeui/widgets/klineedit.cpp:1189
+#: kdeui/widgets/klineedit.cpp:1193
 #, fuzzy
 #| msgid "Dropdown List && Automatic"
 msgctxt "@item:inmenu Text Completion"
 msgid "Dropdown List && Automatic"
 msgstr "Ausklapplëscht && Automatik"
 
-#: kdeui/widgets/klineedit.cpp:1220
+#: kdeui/widgets/klineedit.cpp:1224
 #, fuzzy
 #| msgid "Default"
 msgctxt "@item:inmenu Text Completion"
@@ -13885,175 +13887,175 @@ msgstr "Regioun"
 msgid "Comment"
 msgstr "Kommentar"
 
-#: kdeui/widgets/kcharselect.cpp:334 kdeui/widgets/kcharselect.cpp:336
+#: kdeui/widgets/kcharselect.cpp:336 kdeui/widgets/kcharselect.cpp:338
 msgid "Enter a search term or character here"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:354
+#: kdeui/widgets/kcharselect.cpp:356
 #, fuzzy
 #| msgid "Previous Item in List"
 msgctxt "Goes to previous character"
 msgid "Previous in History"
 msgstr "Element an der Lëscht virdrunn"
 
-#: kdeui/widgets/kcharselect.cpp:356
+#: kdeui/widgets/kcharselect.cpp:358
 #, fuzzy
 #| msgid "Previous year"
 msgid "Previous Character in History"
 msgstr "Joër virdrunn"
 
-#: kdeui/widgets/kcharselect.cpp:361
+#: kdeui/widgets/kcharselect.cpp:363
 #, fuzzy
 #| msgid "Next Item in List"
 msgctxt "Goes to next character"
 msgid "Next in History"
 msgstr "Nächst Element an der Lëscht"
 
-#: kdeui/widgets/kcharselect.cpp:363
+#: kdeui/widgets/kcharselect.cpp:365
 #, fuzzy
 #| msgid "Set of Characters"
 msgid "Next Character in History"
 msgstr "Zeechesaatz"
 
-#: kdeui/widgets/kcharselect.cpp:371
+#: kdeui/widgets/kcharselect.cpp:373
 #, fuzzy
 #| msgid "Select a year"
 msgid "Select a category"
 msgstr "Joër auswielen"
 
-#: kdeui/widgets/kcharselect.cpp:374
+#: kdeui/widgets/kcharselect.cpp:376
 #, fuzzy
 #| msgid "Message string to be displayed"
 msgid "Select a block to be displayed"
 msgstr "Noricht, déi ugewise soll ginn"
 
-#: kdeui/widgets/kcharselect.cpp:387
+#: kdeui/widgets/kcharselect.cpp:389
 #, fuzzy
 #| msgid "Select Font"
 msgid "Set font"
 msgstr "Schrëft auswielen"
 
-#: kdeui/widgets/kcharselect.cpp:394
+#: kdeui/widgets/kcharselect.cpp:396
 #, fuzzy
 #| msgid "Change font size?"
 msgid "Set font size"
 msgstr "Schrëftgréisst änneren?"
 
-#: kdeui/widgets/kcharselect.cpp:625
+#: kdeui/widgets/kcharselect.cpp:627
 #, fuzzy
 #| msgid "Any Character"
 msgid "Character:"
 msgstr "Iergendeen Zeechen"
 
-#: kdeui/widgets/kcharselect.cpp:631
+#: kdeui/widgets/kcharselect.cpp:633
 #, fuzzy
 #| msgid "Name:"
 msgid "Name: "
 msgstr "Numm:"
 
-#: kdeui/widgets/kcharselect.cpp:639
+#: kdeui/widgets/kcharselect.cpp:641
 msgid "Annotations and Cross References"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:643
+#: kdeui/widgets/kcharselect.cpp:645
 #, fuzzy
 #| msgid "Please enter name:"
 msgid "Alias names:"
 msgstr "Gitt w.e.g. den Numm an:"
 
-#: kdeui/widgets/kcharselect.cpp:651
+#: kdeui/widgets/kcharselect.cpp:653
 #, fuzzy
 #| msgid "Note"
 msgid "Notes:"
 msgstr "Notiz"
 
-#: kdeui/widgets/kcharselect.cpp:659
+#: kdeui/widgets/kcharselect.cpp:661
 msgid "See also:"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:671
+#: kdeui/widgets/kcharselect.cpp:673
 msgid "Equivalents:"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:679
+#: kdeui/widgets/kcharselect.cpp:681
 msgid "Approximate equivalents:"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:688
+#: kdeui/widgets/kcharselect.cpp:690
 #, fuzzy
 #| msgid "Frame Information"
 msgid "CJK Ideograph Information"
 msgstr "Informatioun iwwert de Frame"
 
-#: kdeui/widgets/kcharselect.cpp:691
+#: kdeui/widgets/kcharselect.cpp:693
 msgid "Definition in English: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:696
+#: kdeui/widgets/kcharselect.cpp:698
 msgid "Mandarin Pronunciation: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:701
+#: kdeui/widgets/kcharselect.cpp:703
 msgid "Cantonese Pronunciation: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:706
+#: kdeui/widgets/kcharselect.cpp:708
 msgid "Japanese On Pronunciation: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:711
+#: kdeui/widgets/kcharselect.cpp:713
 msgid "Japanese Kun Pronunciation: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:716
+#: kdeui/widgets/kcharselect.cpp:718
 msgid "Tang Pronunciation: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:721
+#: kdeui/widgets/kcharselect.cpp:723
 msgid "Korean Pronunciation: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:727
+#: kdeui/widgets/kcharselect.cpp:729
 msgid "General Character Properties"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:728
+#: kdeui/widgets/kcharselect.cpp:730
 msgid "Block: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:729
+#: kdeui/widgets/kcharselect.cpp:731
 #, fuzzy
 #| msgid "&Unicode code point:"
 msgid "Unicode category: "
 msgstr "&Unicode Codepunkt:"
 
-#: kdeui/widgets/kcharselect.cpp:733
+#: kdeui/widgets/kcharselect.cpp:735
 msgid "Various Useful Representations"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:734
+#: kdeui/widgets/kcharselect.cpp:736
 msgid "UTF-8:"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:737
+#: kdeui/widgets/kcharselect.cpp:739
 msgid "UTF-16: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:738
+#: kdeui/widgets/kcharselect.cpp:740
 msgid "C octal escaped UTF-8: "
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:741
+#: kdeui/widgets/kcharselect.cpp:743
 msgid "XML decimal entity:"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:870
+#: kdeui/widgets/kcharselect.cpp:872
 #, fuzzy
 #| msgid "&Unicode code point:"
 msgid "Unicode code point:"
 msgstr "&Unicode Codepunkt:"
 
-#: kdeui/widgets/kcharselect.cpp:871
+#: kdeui/widgets/kcharselect.cpp:873
 msgctxt "Character"
 msgid "In decimal:"
 msgstr ""
@@ -14141,24 +14143,24 @@ msgid ""
 "Example for Ctrl+a: hold the Ctrl key and press a."
 msgstr ""
 
-#: kdeui/widgets/kkeysequencewidget.cpp:520
+#: kdeui/widgets/kkeysequencewidget.cpp:522
 #, fuzzy
 #| msgid "Shortcut"
 msgid "Reserved Shortcut"
 msgstr "Tastekombinatioun"
 
-#: kdeui/widgets/kkeysequencewidget.cpp:521
+#: kdeui/widgets/kkeysequencewidget.cpp:523
 msgid ""
 "The F12 key is reserved on Windows, so cannot be used for a global "
 "shortcut.\n"
 "Please choose another one."
 msgstr ""
 
-#: kdeui/widgets/kkeysequencewidget.cpp:661
+#: kdeui/widgets/kkeysequencewidget.cpp:663
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Konflikt mat der Standardkombinatioun vum Programm"
 
-#: kdeui/widgets/kkeysequencewidget.cpp:662
+#: kdeui/widgets/kkeysequencewidget.cpp:664
 #, fuzzy, kde-format
 msgid ""
 "The '%1' key combination is also used for the standard action \"%2\" that "
@@ -14168,18 +14170,18 @@ msgstr ""
 "D'Tastekombinatioun \"%1\" ass scho mat der Standardaktioun \"%2\" verbonn.\n"
 "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
-#: kdeui/widgets/kkeysequencewidget.cpp:694
+#: kdeui/widgets/kkeysequencewidget.cpp:696
 #, fuzzy
 #| msgid "Input file"
 msgctxt "What the user inputs now will be taken as the new shortcut"
 msgid "Input"
 msgstr "Quelldatei"
 
-#: kdeui/widgets/kkeysequencewidget.cpp:744
+#: kdeui/widgets/kkeysequencewidget.cpp:746
 msgid "The key you just pressed is not supported by Qt."
 msgstr ""
 
-#: kdeui/widgets/kkeysequencewidget.cpp:745
+#: kdeui/widgets/kkeysequencewidget.cpp:747
 #, fuzzy
 #| msgid "Untrusted"
 msgid "Unsupported Key"
@@ -15048,7 +15050,7 @@ msgstr "Test"
 msgid "No such function \"%1\""
 msgstr "D'Entrée '%1' ass net am Menü."
 
-#: kdecore/services/kservice.h:543
+#: kdecore/services/kservice.h:553
 #, kde-format
 msgid "The service '%1' does not provide an interface '%2' with keyword '%3'"
 msgstr ""
