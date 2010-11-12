@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-11-10 06:14+0100\n"
+"POT-Creation-Date: 2010-11-12 06:36+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -981,93 +981,93 @@ msgstr "Yaum al-Sabt"
 msgid "Yaum al-Ahad"
 msgstr "Yaum al-Ahad"
 
-#: kcalendarsystem.cpp:181 kcalendarsystem.cpp:271
+#: kcalendarsystem.cpp:180 kcalendarsystem.cpp:270
 #, fuzzy
 msgctxt "@item Calendar system"
 msgid "Invalid Calendar Type"
 msgstr "Ongülteg Werter"
 
-#: kcalendarsystem.cpp:246
+#: kcalendarsystem.cpp:245
 #, fuzzy
 msgctxt "@item Calendar system"
 msgid "Gregorian"
 msgstr "Georgësch"
 
-#: kcalendarsystem.cpp:248
+#: kcalendarsystem.cpp:247
 #, fuzzy
 msgctxt "@item Calendar system"
 msgid "Coptic"
 msgstr "Kopéieren"
 
-#: kcalendarsystem.cpp:250
+#: kcalendarsystem.cpp:249
 #, fuzzy
 msgctxt "@item Calendar system"
 msgid "Ethiopian"
 msgstr "Äthiopësch"
 
-#: kcalendarsystem.cpp:252
+#: kcalendarsystem.cpp:251
 #, fuzzy
 msgctxt "@item Calendar system"
 msgid "Gregorian (Proleptic)"
 msgstr "Georgësch"
 
-#: kcalendarsystem.cpp:254
+#: kcalendarsystem.cpp:253
 #, fuzzy
 msgctxt "@item Calendar system"
 msgid "Hebrew"
 msgstr "Hebräësch"
 
-#: kcalendarsystem.cpp:256
+#: kcalendarsystem.cpp:255
 msgctxt "@item Calendar system"
 msgid "Islamic / Hijri (Civil)"
 msgstr ""
 
-#: kcalendarsystem.cpp:258
+#: kcalendarsystem.cpp:257
 #, fuzzy
 msgctxt "@item Calendar system"
 msgid "Indian National"
 msgstr "International"
 
-#: kcalendarsystem.cpp:260
+#: kcalendarsystem.cpp:259
 #, fuzzy
 msgctxt "@item Calendar system"
 msgid "Jalali"
 msgstr "Installéieren"
 
-#: kcalendarsystem.cpp:262
+#: kcalendarsystem.cpp:261
 msgctxt "@item Calendar system"
 msgid "Japanese"
 msgstr ""
 
-#: kcalendarsystem.cpp:264
+#: kcalendarsystem.cpp:263
 #, fuzzy
 msgctxt "@item Calendar system"
 msgid "Julian"
 msgstr "Jan"
 
-#: kcalendarsystem.cpp:266
+#: kcalendarsystem.cpp:265
 msgctxt "@item Calendar system"
 msgid "Taiwanese"
 msgstr ""
 
-#: kcalendarsystem.cpp:268
+#: kcalendarsystem.cpp:267
 #, fuzzy
 #| msgid "R. Thaani"
 msgctxt "@item Calendar system"
 msgid "Thai"
 msgstr "R. Thaani"
 
-#: kcalendarsystem.cpp:1851
+#: kcalendarsystem.cpp:1850
 msgctxt "Negative symbol as used for year numbers, e.g. -5 = 5 BC"
 msgid "-"
 msgstr ""
 
-#: kcalendarsystem.cpp:1888
+#: kcalendarsystem.cpp:1887
 #, fuzzy
 msgid "Today"
 msgstr "Méinden"
 
-#: kcalendarsystem.cpp:1890
+#: kcalendarsystem.cpp:1889
 #, fuzzy
 msgid "Yesterday"
 msgstr "Dënschten"
