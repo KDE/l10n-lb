@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-11-16 07:19+0000\n"
+"POT-Creation-Date: 2010-11-17 05:51+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -135,7 +135,7 @@ msgctxt "Name"
 msgid "Highlight Selection"
 msgstr ""
 
-#: kate/plugins/hlselection/ktexteditor_hlselection.desktop:23
+#: kate/plugins/hlselection/ktexteditor_hlselection.desktop:29
 msgctxt "Comment"
 msgid "Highlight all words based on the text selection"
 msgstr ""
