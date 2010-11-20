@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-11-19 06:25+0100\n"
+"POT-Creation-Date: 2010-11-20 06:28+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2594,22 +2594,22 @@ msgctxt ""
 msgid "or"
 msgstr "Mor"
 
-#: nepomuk/core/resource.cpp:515
+#: nepomuk/core/resource.cpp:524
 msgid "Success"
 msgstr ""
 
-#: nepomuk/core/resource.cpp:517
+#: nepomuk/core/resource.cpp:526
 #, fuzzy
 msgid "Communication error"
 msgstr "Configuratioun"
 
-#: nepomuk/core/resource.cpp:519
+#: nepomuk/core/resource.cpp:528
 #, fuzzy
 #| msgid "Invalid reference base"
 msgid "Invalid type in Database"
 msgstr "Ongülteg Basis fir d'Referenz"
 
-#: nepomuk/core/resource.cpp:521 kdecore/network/klocalsocket_unix.cpp:213
+#: nepomuk/core/resource.cpp:530 kdecore/network/klocalsocket_unix.cpp:213
 #: kdecore/network/klocalsocket_unix.cpp:293
 #, fuzzy
 #| msgctxt "QFile"
@@ -2910,7 +2910,7 @@ msgstr "Benotzerdefinéiert..."
 msgid "Enter Search Terms..."
 msgstr "Sicht am Internet"
 
-#: nepomuk/utils/dynamicresourcefacet.cpp:247
+#: nepomuk/utils/dynamicresourcefacet.cpp:256
 #, fuzzy
 #| msgid "More..."
 msgctxt ""
