@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-11-26 06:29+0100\n"
+"POT-Creation-Date: 2010-11-27 06:49+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -4632,7 +4632,7 @@ msgstr "Programm: "
 msgid "Qt"
 msgstr "Ophalen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:496 khtml/khtml_part.cpp:4816
+#: kdecore/kernel/kcmdlineargs.cpp:496 khtml/khtml_part.cpp:4814
 msgid "KDE"
 msgstr "KDE"
 
@@ -6966,7 +6966,7 @@ msgstr ""
 msgid "Access Keys activated"
 msgstr "Kuerztasten ugeschalt"
 
-#: khtml/khtmlview.cpp:2799 khtml/khtmlview.cpp:2841 khtml/khtml_part.cpp:4763
+#: khtml/khtmlview.cpp:2799 khtml/khtmlview.cpp:2841 khtml/khtml_part.cpp:4761
 #: khtml/html/html_formimpl.cpp:1632 khtml/html/html_formimpl.cpp:1844
 msgid "Submit"
 msgstr "Verschécken"
@@ -7696,7 +7696,7 @@ msgstr "Am Frame &sichen..."
 msgid "&Find..."
 msgstr "&Sichen..."
 
-#: khtml/khtml_part.cpp:4704
+#: khtml/khtml_part.cpp:4702
 msgid ""
 "Warning:  This is a secure form but it is attempting to send your data back "
 "unencrypted.\n"
@@ -7708,16 +7708,16 @@ msgstr ""
 "Een Drëtte kéint dëss Informatioun offänken a kucken.\n"
 "Wëllt dir sëcher weiderfueren?"
 
-#: khtml/khtml_part.cpp:4707 khtml/khtml_part.cpp:4716
-#: khtml/khtml_part.cpp:4740
+#: khtml/khtml_part.cpp:4705 khtml/khtml_part.cpp:4714
+#: khtml/khtml_part.cpp:4738
 msgid "Network Transmission"
 msgstr "Netzwierk-Transmissioun"
 
-#: khtml/khtml_part.cpp:4707 khtml/khtml_part.cpp:4717
+#: khtml/khtml_part.cpp:4705 khtml/khtml_part.cpp:4715
 msgid "&Send Unencrypted"
 msgstr "Onverschlësselt &verschécken"
 
-#: khtml/khtml_part.cpp:4714
+#: khtml/khtml_part.cpp:4712
 msgid ""
 "Warning: Your data is about to be transmitted across the network "
 "unencrypted.\n"
@@ -7726,7 +7726,7 @@ msgstr ""
 "Warnung: Dir sidd dropp an dru fir är Daten onverschlësselt ze verschécken.\n"
 "Sidd dir iech sëcher, dass dir weiderfuere wëllt?"
 
-#: khtml/khtml_part.cpp:4738
+#: khtml/khtml_part.cpp:4736
 msgid ""
 "This site is attempting to submit form data via email.\n"
 "Do you want to continue?"
@@ -7734,11 +7734,11 @@ msgstr ""
 "De Server probéiert, Formular-Daten iwwert E-Mail ze verschécken.\n"
 "Wëllt dir weiderfueren?"
 
-#: khtml/khtml_part.cpp:4741
+#: khtml/khtml_part.cpp:4739
 msgid "&Send Email"
 msgstr "E-Mail &verschécken"
 
-#: khtml/khtml_part.cpp:4762
+#: khtml/khtml_part.cpp:4760
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt>The form will be submitted to <BR><B>%1</B><BR>on your local "
@@ -7750,7 +7750,7 @@ msgstr ""
 "<qt>De Formular gëtt no<BR><B>%1</B><BR>op ärem lokalen Dateiesystem "
 "verschéckt ginn.<BR>Wëllt dir de Formular ofsenden?"
 
-#: khtml/khtml_part.cpp:4816
+#: khtml/khtml_part.cpp:4814
 msgid ""
 "This site attempted to attach a file from your computer in the form "
 "submission. The attachment was removed for your protection."
