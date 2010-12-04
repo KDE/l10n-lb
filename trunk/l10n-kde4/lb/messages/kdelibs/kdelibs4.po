@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-12-01 02:15+0100\n"
+"POT-Creation-Date: 2010-12-04 02:17+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -11783,7 +11783,7 @@ msgid "Disable automatic checking"
 msgstr "Automatësch Kontroll &ofschalten"
 
 #: kdeui/shortcuts/kcheckaccelerators.cpp:220
-#: kdeui/widgets/kdatepicker.cpp:703
+#: kdeui/widgets/kdatepicker.cpp:656
 #, fuzzy
 #| msgid "Close"
 msgctxt "@action:button"
@@ -13536,40 +13536,40 @@ msgstr "&Iwwer %1"
 msgid "About &KDE"
 msgstr "Iwwer &KDE"
 
-#: kdeui/widgets/kdatepicker.cpp:210
+#: kdeui/widgets/kdatepicker.cpp:174
 #, kde-format
 msgid "Week %1"
 msgstr "Woch %1"
 
-#: kdeui/widgets/kdatepicker.cpp:317
+#: kdeui/widgets/kdatepicker.cpp:278
 msgid "Next year"
 msgstr "Nächst Joër"
 
-#: kdeui/widgets/kdatepicker.cpp:318
+#: kdeui/widgets/kdatepicker.cpp:279
 msgid "Previous year"
 msgstr "Joër virdrunn"
 
-#: kdeui/widgets/kdatepicker.cpp:319
+#: kdeui/widgets/kdatepicker.cpp:280
 msgid "Next month"
 msgstr "Nächste Mount"
 
-#: kdeui/widgets/kdatepicker.cpp:320
+#: kdeui/widgets/kdatepicker.cpp:281
 msgid "Previous month"
 msgstr "Mount virdrunn"
 
-#: kdeui/widgets/kdatepicker.cpp:321
+#: kdeui/widgets/kdatepicker.cpp:282
 msgid "Select a week"
 msgstr "Woch auswielen"
 
-#: kdeui/widgets/kdatepicker.cpp:322
+#: kdeui/widgets/kdatepicker.cpp:283
 msgid "Select a month"
 msgstr "Mount auswielen"
 
-#: kdeui/widgets/kdatepicker.cpp:323
+#: kdeui/widgets/kdatepicker.cpp:284
 msgid "Select a year"
 msgstr "Joër auswielen"
 
-#: kdeui/widgets/kdatepicker.cpp:324
+#: kdeui/widgets/kdatepicker.cpp:285
 msgid "Select the current day"
 msgstr "Heitegen Dag auswielen"
 

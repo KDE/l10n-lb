@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2010-12-03 01:55+0000\n"
+"POT-Creation-Date: 2010-12-04 02:02+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1159,42 +1159,42 @@ msgctxt "Name"
 msgid "KDE Test Language"
 msgstr ""
 
-#: kdecore/localization/all_languages.desktop:16496
+#: kdecore/localization/all_languages.desktop:16498
 msgctxt "Name"
 msgid "Yiddish"
 msgstr "Jiddesch"
 
-#: kdecore/localization/all_languages.desktop:16590
+#: kdecore/localization/all_languages.desktop:16592
 msgctxt "Name"
 msgid "Yoruba"
 msgstr "Yoruba-Sprooch"
 
-#: kdecore/localization/all_languages.desktop:16683
+#: kdecore/localization/all_languages.desktop:16685
 msgctxt "Name"
 msgid "Zhuang"
 msgstr "Zhuang"
 
-#: kdecore/localization/all_languages.desktop:16775
+#: kdecore/localization/all_languages.desktop:16777
 msgctxt "Name"
 msgid "Chinese"
 msgstr "Chinesesch"
 
-#: kdecore/localization/all_languages.desktop:16869
+#: kdecore/localization/all_languages.desktop:16871
 msgctxt "Name"
 msgid "Chinese Simplified"
 msgstr "Einfacht Chinesesch"
 
-#: kdecore/localization/all_languages.desktop:16962
+#: kdecore/localization/all_languages.desktop:16964
 msgctxt "Name"
 msgid "Chinese (Hong Kong)"
 msgstr "Chinesesch (Hong Kong)"
 
-#: kdecore/localization/all_languages.desktop:17053
+#: kdecore/localization/all_languages.desktop:17055
 msgctxt "Name"
 msgid "Chinese Traditional"
 msgstr "Traditionellt Chinesesch"
 
-#: kdecore/localization/all_languages.desktop:17146
+#: kdecore/localization/all_languages.desktop:17148
 msgctxt "Name"
 msgid "Zulu"
 msgstr "Zulu"
