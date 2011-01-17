@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-01-08 02:25+0100\n"
+"POT-Creation-Date: 2011-01-17 10:25+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -6236,27 +6236,27 @@ msgid "Download New Stuff..."
 msgstr "Nei Saachen eroflueden"
 
 #: knewstuff/knewstuff3/downloadwidget.cpp:113
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:312
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:314
 msgid "Timeout. Check Internet connection."
 msgstr ""
 
 #: knewstuff/knewstuff3/downloadwidget.cpp:171
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:252
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:503
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:505
 #, fuzzy, kde-format
 #| msgid "<Merge %1>"
 msgid "Server: %1"
 msgstr "<Merge %1>"
 
 #: knewstuff/knewstuff3/downloadwidget.cpp:172
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:504
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:506
 #, fuzzy, kde-format
 #| msgid "Hide %1"
 msgid "<br />Provider: %1"
 msgstr "%1 net weisen"
 
 #: knewstuff/knewstuff3/downloadwidget.cpp:173
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:505
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:507
 #, fuzzy, kde-format
 #| msgid "Version:"
 msgid "<br />Version: %1"
@@ -6265,20 +6265,20 @@ msgstr "Versioun:"
 #: knewstuff/knewstuff3/downloadwidget.cpp:177
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:82
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:258
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:509
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:511
 #, fuzzy
 #| msgid "Show version information"
 msgid "Provider information"
 msgstr "Informatiounen iwwert d'Versioun uweisen"
 
 #: knewstuff/knewstuff3/downloadwidget.cpp:188
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:535
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:538
 #, fuzzy, kde-format
 msgid "Could not install %1"
 msgstr "Konnt de Service '%1' net fannen."
 
 #: knewstuff/knewstuff3/downloadwidget.cpp:189
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:536
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:539
 #, fuzzy
 #| msgid "Get Hot New Stuff"
 msgid "Get Hot New Stuff!"
@@ -6287,7 +6287,7 @@ msgstr "Nei Saachen ofhuelen"
 #: knewstuff/knewstuff3/downloadwidget.cpp:199
 #: knewstuff/knewstuff3/downloaddialog.cpp:81
 #: knewstuff/knewstuff2/ui/downloaddialog.cpp:127
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:555
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:558
 #, fuzzy
 #| msgid "Get Hot New Stuff"
 msgid "Get Hot New Stuff"
@@ -6473,8 +6473,8 @@ msgstr ""
 "<qt>Gitt w.e.g. d'Passwuert fir de Schlëssel <b>0x%1</b> an, deen zu <br><i>%"
 "2&lt;%3&gt;</i>gehéiert:</qt>"
 
-#: knewstuff/knewstuff3/core/security.cpp:276
-#: knewstuff/knewstuff2/core/security.cpp:276
+#: knewstuff/knewstuff3/core/security.cpp:278
+#: knewstuff/knewstuff2/core/security.cpp:278
 msgid ""
 "<qt>Cannot start <i>gpg</i> and check the validity of the file. Make sure "
 "that <i>gpg</i> is installed, otherwise verification of downloaded resources "
@@ -6484,18 +6484,18 @@ msgstr ""
 "Kuckt w.e.g. no, ob den <i>gpg</i> installéiert ass, well soss kënnen déi "
 "erofgeluede Ressourcen net verifizéiert ginn.</qt>"
 
-#: knewstuff/knewstuff3/core/security.cpp:331
-#: knewstuff/knewstuff2/core/security.cpp:331
+#: knewstuff/knewstuff3/core/security.cpp:333
+#: knewstuff/knewstuff2/core/security.cpp:333
 msgid "Select Signing Key"
 msgstr "Schlëssel fir d'Ënnerschrëft wielen"
 
-#: knewstuff/knewstuff3/core/security.cpp:331
-#: knewstuff/knewstuff2/core/security.cpp:331
+#: knewstuff/knewstuff3/core/security.cpp:333
+#: knewstuff/knewstuff2/core/security.cpp:333
 msgid "Key used for signing:"
 msgstr "Schlëssel fir z'ënnerschreiwen:"
 
-#: knewstuff/knewstuff3/core/security.cpp:363
-#: knewstuff/knewstuff2/core/security.cpp:363
+#: knewstuff/knewstuff3/core/security.cpp:365
+#: knewstuff/knewstuff2/core/security.cpp:365
 msgid ""
 "<qt>Cannot start <i>gpg</i> and sign the file. Make sure that <i>gpg</i> is "
 "installed, otherwise signing of the resources will not be possible.</qt>"
@@ -6816,19 +6816,19 @@ msgid "The comment could not be submitted."
 msgstr "De Modul %1 ass net fonnt ginn."
 
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:379
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:585
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:588
 msgid "A protocol fault has occurred. The request has failed."
 msgstr ""
 
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:380
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:387
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:586
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:593
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:589
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:596
 msgid "Desktop Exchange Service"
 msgstr ""
 
 #: knewstuff/knewstuff2/ui/kdxsbutton.cpp:386
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:592
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:595
 msgid "A network error has occurred. The request has failed."
 msgstr ""
 
@@ -6946,13 +6946,13 @@ msgstr "Kee Provider gewielt."
 msgid "View Comments"
 msgstr "Kommentar"
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:405
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:407
 #, fuzzy
 #| msgid "Unable to create file to upload."
 msgid "Entries failed to load"
 msgstr "D'Datei fir eropzeluede konnt net erstallt ginn."
 
-#: knewstuff/knewstuff2/ui/downloaddialog.cpp:554
+#: knewstuff/knewstuff2/ui/downloaddialog.cpp:557
 #, fuzzy
 #| msgid "There was an error loading the module."
 msgid "There was an error loading data providers."
