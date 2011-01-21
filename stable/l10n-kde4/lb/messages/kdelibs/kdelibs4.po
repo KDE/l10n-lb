@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-01-19 11:53+0100\n"
+"POT-Creation-Date: 2011-01-21 11:07+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2831,7 +2831,7 @@ msgctxt "@title UDS_DISPLAY_NAME for a KIO directory listing."
 msgid "Query Results"
 msgstr ""
 
-#: nepomuk/query/queryparser.cpp:381
+#: nepomuk/query/queryparser.cpp:421
 #, fuzzy
 #| msgid "Esfand"
 msgctxt ""
@@ -2842,7 +2842,7 @@ msgctxt ""
 msgid "and"
 msgstr "Esfand"
 
-#: nepomuk/query/queryparser.cpp:390
+#: nepomuk/query/queryparser.cpp:430
 #, fuzzy
 #| msgid "Mor"
 msgctxt ""
