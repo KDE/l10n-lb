@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-02-02 03:10+0100\n"
+"POT-Creation-Date: 2011-02-09 02:45+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -12725,7 +12725,7 @@ msgstr ""
 "Déi maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn oder déi vun "
 "iech agestallte maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn."
 
-#: kinit/kinit.cpp:546
+#: kinit/kinit.cpp:552
 msgid ""
 "Unable to create new process.\n"
 "The system may have reached the maximum number of processes possible or the "
@@ -12735,12 +12735,12 @@ msgstr ""
 "Déi maximal Unzuel vu Prozesser kéint erreecht sinn oder déi vun iech "
 "agestallte maximal Unzuel vu Prozesser kéint erreecht sinn."
 
-#: kinit/kinit.cpp:642
+#: kinit/kinit.cpp:647
 #, kde-format
 msgid "Could not find '%1' executable."
 msgstr "Konnt de Programm '%1' net fannen."
 
-#: kinit/kinit.cpp:660
+#: kinit/kinit.cpp:665
 #, kde-format
 msgid ""
 "Could not open library '%1'.\n"
@@ -12749,7 +12749,7 @@ msgstr ""
 "Konnt d'Bibliothéik '%1' net opmaachen.\n"
 "%2"
 
-#: kinit/kinit.cpp:706
+#: kinit/kinit.cpp:710
 #, kde-format
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
@@ -12758,37 +12758,37 @@ msgstr ""
 "Konnt de 'kdemain' am '%1' net fannen.\n"
 "%2"
 
-#: kinit/klauncher.cpp:563
+#: kinit/klauncher.cpp:564
 #, kde-format
 msgid "KDEInit could not launch '%1'."
 msgstr "KDEInit konnt '%1' net starten."
 
-#: kinit/klauncher.cpp:738 kinit/klauncher.cpp:767 kinit/klauncher.cpp:782
+#: kinit/klauncher.cpp:745 kinit/klauncher.cpp:774 kinit/klauncher.cpp:789
 #, kde-format
 msgid "Could not find service '%1'."
 msgstr "Konnt de Service '%1' net fannen."
 
-#: kinit/klauncher.cpp:801
+#: kinit/klauncher.cpp:808
 #, kde-format
 msgid "Service '%1' must be executable to run."
 msgstr ""
 
-#: kinit/klauncher.cpp:803 kinit/klauncher.cpp:839
+#: kinit/klauncher.cpp:810 kinit/klauncher.cpp:846
 #, kde-format
 msgid "Service '%1' is malformatted."
 msgstr "De Service '%1' huet ën ongültege Format."
 
-#: kinit/klauncher.cpp:925
+#: kinit/klauncher.cpp:932
 #, kde-format
 msgid "Launching %1"
 msgstr "%1 gëtt gestart"
 
-#: kinit/klauncher.cpp:1127
+#: kinit/klauncher.cpp:1134
 #, kde-format
 msgid "Unknown protocol '%1'.\n"
 msgstr "Onbekannte Protokoll '%1'.\n"
 
-#: kinit/klauncher.cpp:1188
+#: kinit/klauncher.cpp:1202
 #, kde-format
 msgid "Error loading '%1'.\n"
 msgstr "Feeler beim Luede vun '%1'.\n"
