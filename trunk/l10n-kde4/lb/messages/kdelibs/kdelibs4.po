@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-02-09 02:45+0100\n"
+"POT-Creation-Date: 2011-02-13 15:29+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -11464,6 +11464,248 @@ msgstr ""
 msgid "Tobias Anton"
 msgstr ""
 
+#: khtml/khtml_printsettings.cpp:31
+msgid ""
+"<qt><p><strong>'Print images'</strong></p><p>If this checkbox is enabled, "
+"images contained in the HTML page will be printed. Printing may take longer "
+"and use more ink or toner.</p><p>If this checkbox is disabled, only the text "
+"of the HTML page will be printed, without the included images. Printing will "
+"be faster and use less ink or toner.</p> </qt>"
+msgstr ""
+"<qt><p><strong>'Biller drécken'</strong></p><p>Wann dësst Haische markéiert "
+"ass, ginn d'Biller op der HTML-Säit gedréckt. Den Drockvirgang kéint méi "
+"laang daueren a méi Tënt oder Toner verbrauchen.</p><p>Wann dësst Haischen "
+"net markéiert ass, gëtt just den Text vun der HTML-Säit gedréckt, ouni "
+"d'Biller. Den Dockvirgang ass da méi schnell a verbrauch manner Tënt oder "
+"Toner.</p> </qt>"
+
+#: khtml/khtml_printsettings.cpp:43
+msgid ""
+"<qt><p><strong>'Print header'</strong></p><p>If this checkbox is enabled, "
+"the printout of the HTML document will contain a header line at the top of "
+"each page. This header contains the current date, the location URL of the "
+"printed page and the page number.</p><p>If this checkbox is disabled, the "
+"printout of the HTML document will not contain such a header line.</p> </qt>"
+msgstr ""
+"<qt><p><strong>'Header drécken'</strong></p><p>Wann dësst Haische markéiert "
+"ass, gëtt ën Header vun enger Zeil uewen op all Säit matgedréckt. Dësen "
+"Header enthält den aktuellen Datum, d'URL vun der Säit, déi gedréckt gëtt an "
+"d'Nummer vun der Säit.</p><p>Wann dësst Haischen net markéiert ass, gëtt "
+"d'HTML-Säit ouni esou een Header gedréckt.</p> </qt>"
+
+#: khtml/khtml_printsettings.cpp:56
+#, fuzzy
+#| msgid ""
+#| "<qt><p><strong>'Printerfriendly mode'</strong></p><p>If this checkbox is "
+#| "enabled, the printout of the HTML document will be black and white only, "
+#| "and all colored background will be converted into white. Printout will be "
+#| "faster and use less ink or toner.</p><p>If this checkbox is disabled, the "
+#| "printout of the HTML document will happen in the original color settings "
+#| "as you see in your application. This may result in areas of full-page "
+#| "color (or grayscale, if you use a black+white printer). Printout will "
+#| "possibly happen slower and will certainly use much more toner or ink.</p> "
+#| "</qt>"
+msgid ""
+"<qt><p><strong>'Printerfriendly mode'</strong></p><p>If this checkbox is "
+"enabled, the printout of the HTML document will be black and white only, and "
+"all colored background will be converted into white. Printout will be faster "
+"and use less ink or toner.</p><p>If this checkbox is disabled, the printout "
+"of the HTML document will happen in the original color settings as you see "
+"in your application. This may result in areas of full-page color (or "
+"grayscale, if you use a black+white printer). Printout will possibly happen "
+"more slowly and will probably use more toner or ink.</p> </qt>"
+msgstr ""
+"<qt><p><strong>'Dréckerfrëndleche Modus'</strong></p><p>Wann dësst Haische "
+"markéiert ass, gëtt d'HTML-Säit schwaarz-wäiss gedréckt. Den Dockvirgang ass "
+"da méi schnell a verbrauch manner Tënt oder Toner.</p><p>Wann dësst Haischen "
+"net markéiert ass, gëtt d'Säit esou faarwëg gedréckt, wéi dir se um "
+"Bildschirm gesitt. Den Drockvirgang kéint da méi laang daueren a wäert "
+"sëcher méi Tënt oder Toner verbrauchen.</p> </qt>"
+
+#: khtml/khtml_printsettings.cpp:71
+msgid "HTML Settings"
+msgstr "HTML-Astellungen"
+
+#: khtml/khtml_printsettings.cpp:73
+msgid "Printer friendly mode (black text, no background)"
+msgstr "Dréckerfrëndleche Modus (schwaarzen Text ouni Hannergrond)"
+
+#: khtml/khtml_printsettings.cpp:76
+msgid "Print images"
+msgstr "Biller drécken"
+
+#: khtml/khtml_printsettings.cpp:79
+msgid "Print header"
+msgstr "Header drécken"
+
+#: khtml/khtml_run.cpp:104 khtml/khtml_part.cpp:3710 khtml/khtml_part.cpp:3939
+#: khtml/khtml_part.cpp:4361 kparts/browserrun.cpp:419
+msgid "Save As"
+msgstr "Späicheren als"
+
+#: khtml/khtmladaptorpart.cpp:29
+#, fuzzy
+#| msgid "Relative"
+msgid "Inactive"
+msgstr "Relativ"
+
+#: khtml/khtmlimage.cpp:202
+#, kde-format
+msgid "%1 (%2 - %3x%4 Pixels)"
+msgstr "%1 (%2 - %3x%4 Pixelen)"
+
+#: khtml/khtmlimage.cpp:204
+#, kde-format
+msgid "%1 - %2x%3 Pixels"
+msgstr "%1 - %2x%3 Pixelen"
+
+#: khtml/khtmlimage.cpp:209
+#, kde-format
+msgid "%1 (%2x%3 Pixels)"
+msgstr "%1 (%2x%3 Pixelen)"
+
+#: khtml/khtmlimage.cpp:211
+#, kde-format
+msgid "Image - %1x%2 Pixels"
+msgstr "Bild - %1x%2 Pixelen"
+
+#: khtml/khtmlimage.cpp:217
+msgid "Done."
+msgstr "Fäerdeg."
+
+#: khtml/khtmlview.cpp:1842
+msgid "Access Keys activated"
+msgstr "Kuerztasten ugeschalt"
+
+#: khtml/khtmlview.cpp:2797 khtml/khtmlview.cpp:2839 khtml/khtml_part.cpp:4761
+#: khtml/html/html_formimpl.cpp:1632 khtml/html/html_formimpl.cpp:1844
+msgid "Submit"
+msgstr "Verschécken"
+
+#: khtml/test_regression.cpp:619
+msgid "Directory containing tests, basedir and output directories."
+msgstr ""
+
+#: khtml/test_regression.cpp:621
+msgid "Do not suppress debug output"
+msgstr ""
+
+#: khtml/test_regression.cpp:623
+msgid "Regenerate baseline (instead of checking)"
+msgstr ""
+
+#: khtml/test_regression.cpp:625
+msgid "Do not show the window while running tests"
+msgstr ""
+
+#: khtml/test_regression.cpp:627
+msgid "Only run a single test. Multiple options allowed."
+msgstr ""
+
+#: khtml/test_regression.cpp:628
+msgid "Only run .js tests"
+msgstr ""
+
+#: khtml/test_regression.cpp:629
+msgid "Only run .html tests"
+msgstr ""
+
+#: khtml/test_regression.cpp:632
+msgid "Put output in &lt;directory&gt; instead of &lt;base_dir&gt;/output"
+msgstr ""
+
+#: khtml/test_regression.cpp:634
+msgid "Use &lt;directory&gt; as reference instead of &lt;base_dir&gt;/baseline"
+msgstr ""
+
+#: khtml/test_regression.cpp:635
+msgid ""
+"Directory containing tests, basedir and output directories. Only regarded if "
+"-b is not specified."
+msgstr ""
+
+#: khtml/test_regression.cpp:636
+msgid ""
+"Relative path to testcase, or directory of testcases to be run (equivalent "
+"to -t)."
+msgstr ""
+
+#: khtml/test_regression.cpp:638
+#, fuzzy
+#| msgid "Regular e&xpression"
+msgid "TestRegression"
+msgstr "Re&gulären Ausdrock"
+
+#: khtml/test_regression.cpp:639
+msgid "Regression tester for khtml"
+msgstr ""
+
+#: khtml/test_regression_gui_main.cpp:34
+msgid "TestRegressionGui"
+msgstr ""
+
+#: khtml/test_regression_gui_main.cpp:35
+msgid "GUI for the khtml regression tester"
+msgstr ""
+
+#: khtml/test_regression_gui_window.cpp:76
+#, fuzzy
+msgid "Available Tests: 0"
+msgstr "Verfügbar Adressen:"
+
+#: khtml/test_regression_gui_window.cpp:181
+msgid "Please choose a valid 'khtmltests/regression/' directory."
+msgstr ""
+
+#: khtml/test_regression_gui_window.cpp:250
+msgid "Please choose a valid 'khtml/' build directory."
+msgstr ""
+
+#: khtml/test_regression_gui_window.cpp:532
+#, kde-format
+msgid "Available Tests: %1 (ignored: %2)"
+msgstr ""
+
+#: khtml/test_regression_gui_window.cpp:563
+#: khtml/ecma/debugger/debugwindow.cpp:192
+msgid "Continue"
+msgstr "Weider"
+
+#: khtml/test_regression_gui_window.cpp:632
+#, fuzzy
+msgid "Cannot find testregression executable."
+msgstr "Konnt de Programm '%1' net fannen."
+
+#: khtml/test_regression_gui_window.cpp:1102
+#, fuzzy
+msgid "Run test..."
+msgstr "Lëscht ëmbenennen..."
+
+#: khtml/test_regression_gui_window.cpp:1104
+#, fuzzy
+msgid "Add to ignores..."
+msgstr "Op d'Zeil &goen..."
+
+#: khtml/test_regression_gui_window.cpp:1105
+msgid "Remove from ignores..."
+msgstr ""
+
+#: khtml/testkhtml.cpp:39
+#, fuzzy
+#| msgid "URL to open"
+msgid "URL to open"
+msgstr "URL fir opzemaachen"
+
+#: khtml/testkhtml.cpp:41
+#, fuzzy
+#| msgid "Test"
+msgid "Testkhtml"
+msgstr "Test"
+
+#: khtml/testkhtml.cpp:42
+msgid "a basic web browser using the KHTML library"
+msgstr ""
+
 #: khtml/khtml_part.cpp:251
 msgid "View Do&cument Source"
 msgstr "&Quelltext kucken"
@@ -11754,11 +11996,6 @@ msgstr " - CC: "
 msgid " - BCC: "
 msgstr " - BCC: "
 
-#: khtml/khtml_part.cpp:3710 khtml/khtml_part.cpp:3939
-#: khtml/khtml_part.cpp:4361 khtml/khtml_run.cpp:104 kparts/browserrun.cpp:419
-msgid "Save As"
-msgstr "Späicheren als"
-
 #: khtml/khtml_part.cpp:3715
 #, fuzzy, kde-format
 #| msgid ""
@@ -11878,11 +12115,6 @@ msgstr ""
 "<qt>De Formular gëtt no<BR><B>%1</B><BR>op ärem lokalen Dateiesystem "
 "verschéckt ginn.<BR>Wëllt dir de Formular ofsenden?"
 
-#: khtml/khtml_part.cpp:4761 khtml/khtmlview.cpp:2797 khtml/khtmlview.cpp:2839
-#: khtml/html/html_formimpl.cpp:1632 khtml/html/html_formimpl.cpp:1844
-msgid "Submit"
-msgstr "Verschécken"
-
 #: khtml/khtml_part.cpp:4814
 msgid ""
 "This site attempted to attach a file from your computer in the form "
@@ -11971,80 +12203,6 @@ msgstr "Passiv &Norichtefënster bei blockéierte Popup-Fënsteren uweisen"
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "JavaScript fir Fënsteren nei opzemaache &configuréieren..."
 
-#: khtml/khtml_printsettings.cpp:31
-msgid ""
-"<qt><p><strong>'Print images'</strong></p><p>If this checkbox is enabled, "
-"images contained in the HTML page will be printed. Printing may take longer "
-"and use more ink or toner.</p><p>If this checkbox is disabled, only the text "
-"of the HTML page will be printed, without the included images. Printing will "
-"be faster and use less ink or toner.</p> </qt>"
-msgstr ""
-"<qt><p><strong>'Biller drécken'</strong></p><p>Wann dësst Haische markéiert "
-"ass, ginn d'Biller op der HTML-Säit gedréckt. Den Drockvirgang kéint méi "
-"laang daueren a méi Tënt oder Toner verbrauchen.</p><p>Wann dësst Haischen "
-"net markéiert ass, gëtt just den Text vun der HTML-Säit gedréckt, ouni "
-"d'Biller. Den Dockvirgang ass da méi schnell a verbrauch manner Tënt oder "
-"Toner.</p> </qt>"
-
-#: khtml/khtml_printsettings.cpp:43
-msgid ""
-"<qt><p><strong>'Print header'</strong></p><p>If this checkbox is enabled, "
-"the printout of the HTML document will contain a header line at the top of "
-"each page. This header contains the current date, the location URL of the "
-"printed page and the page number.</p><p>If this checkbox is disabled, the "
-"printout of the HTML document will not contain such a header line.</p> </qt>"
-msgstr ""
-"<qt><p><strong>'Header drécken'</strong></p><p>Wann dësst Haische markéiert "
-"ass, gëtt ën Header vun enger Zeil uewen op all Säit matgedréckt. Dësen "
-"Header enthält den aktuellen Datum, d'URL vun der Säit, déi gedréckt gëtt an "
-"d'Nummer vun der Säit.</p><p>Wann dësst Haischen net markéiert ass, gëtt "
-"d'HTML-Säit ouni esou een Header gedréckt.</p> </qt>"
-
-#: khtml/khtml_printsettings.cpp:56
-#, fuzzy
-#| msgid ""
-#| "<qt><p><strong>'Printerfriendly mode'</strong></p><p>If this checkbox is "
-#| "enabled, the printout of the HTML document will be black and white only, "
-#| "and all colored background will be converted into white. Printout will be "
-#| "faster and use less ink or toner.</p><p>If this checkbox is disabled, the "
-#| "printout of the HTML document will happen in the original color settings "
-#| "as you see in your application. This may result in areas of full-page "
-#| "color (or grayscale, if you use a black+white printer). Printout will "
-#| "possibly happen slower and will certainly use much more toner or ink.</p> "
-#| "</qt>"
-msgid ""
-"<qt><p><strong>'Printerfriendly mode'</strong></p><p>If this checkbox is "
-"enabled, the printout of the HTML document will be black and white only, and "
-"all colored background will be converted into white. Printout will be faster "
-"and use less ink or toner.</p><p>If this checkbox is disabled, the printout "
-"of the HTML document will happen in the original color settings as you see "
-"in your application. This may result in areas of full-page color (or "
-"grayscale, if you use a black+white printer). Printout will possibly happen "
-"more slowly and will probably use more toner or ink.</p> </qt>"
-msgstr ""
-"<qt><p><strong>'Dréckerfrëndleche Modus'</strong></p><p>Wann dësst Haische "
-"markéiert ass, gëtt d'HTML-Säit schwaarz-wäiss gedréckt. Den Dockvirgang ass "
-"da méi schnell a verbrauch manner Tënt oder Toner.</p><p>Wann dësst Haischen "
-"net markéiert ass, gëtt d'Säit esou faarwëg gedréckt, wéi dir se um "
-"Bildschirm gesitt. Den Drockvirgang kéint da méi laang daueren a wäert "
-"sëcher méi Tënt oder Toner verbrauchen.</p> </qt>"
-
-#: khtml/khtml_printsettings.cpp:71
-msgid "HTML Settings"
-msgstr "HTML-Astellungen"
-
-#: khtml/khtml_printsettings.cpp:73
-msgid "Printer friendly mode (black text, no background)"
-msgstr "Dréckerfrëndleche Modus (schwaarzen Text ouni Hannergrond)"
-
-#: khtml/khtml_printsettings.cpp:76
-msgid "Print images"
-msgstr "Biller drécken"
-
-#: khtml/khtml_printsettings.cpp:79
-msgid "Print header"
-msgstr "Header drécken"
-
 #: khtml/khtml_settings.cpp:235
 msgid "Accept"
 msgstr "Unhuelen"
@@ -12056,164 +12214,6 @@ msgstr "Zeréckweisen"
 #: khtml/khtml_settings.cpp:916
 msgid "Filter error"
 msgstr "Feeler am Filter"
-
-#: khtml/khtmladaptorpart.cpp:29
-#, fuzzy
-#| msgid "Relative"
-msgid "Inactive"
-msgstr "Relativ"
-
-#: khtml/khtmlimage.cpp:202
-#, kde-format
-msgid "%1 (%2 - %3x%4 Pixels)"
-msgstr "%1 (%2 - %3x%4 Pixelen)"
-
-#: khtml/khtmlimage.cpp:204
-#, kde-format
-msgid "%1 - %2x%3 Pixels"
-msgstr "%1 - %2x%3 Pixelen"
-
-#: khtml/khtmlimage.cpp:209
-#, kde-format
-msgid "%1 (%2x%3 Pixels)"
-msgstr "%1 (%2x%3 Pixelen)"
-
-#: khtml/khtmlimage.cpp:211
-#, kde-format
-msgid "Image - %1x%2 Pixels"
-msgstr "Bild - %1x%2 Pixelen"
-
-#: khtml/khtmlimage.cpp:217
-msgid "Done."
-msgstr "Fäerdeg."
-
-#: khtml/khtmlview.cpp:1842
-msgid "Access Keys activated"
-msgstr "Kuerztasten ugeschalt"
-
-#: khtml/test_regression.cpp:619
-msgid "Directory containing tests, basedir and output directories."
-msgstr ""
-
-#: khtml/test_regression.cpp:621
-msgid "Do not suppress debug output"
-msgstr ""
-
-#: khtml/test_regression.cpp:623
-msgid "Regenerate baseline (instead of checking)"
-msgstr ""
-
-#: khtml/test_regression.cpp:625
-msgid "Do not show the window while running tests"
-msgstr ""
-
-#: khtml/test_regression.cpp:627
-msgid "Only run a single test. Multiple options allowed."
-msgstr ""
-
-#: khtml/test_regression.cpp:628
-msgid "Only run .js tests"
-msgstr ""
-
-#: khtml/test_regression.cpp:629
-msgid "Only run .html tests"
-msgstr ""
-
-#: khtml/test_regression.cpp:632
-msgid "Put output in &lt;directory&gt; instead of &lt;base_dir&gt;/output"
-msgstr ""
-
-#: khtml/test_regression.cpp:634
-msgid "Use &lt;directory&gt; as reference instead of &lt;base_dir&gt;/baseline"
-msgstr ""
-
-#: khtml/test_regression.cpp:635
-msgid ""
-"Directory containing tests, basedir and output directories. Only regarded if "
-"-b is not specified."
-msgstr ""
-
-#: khtml/test_regression.cpp:636
-msgid ""
-"Relative path to testcase, or directory of testcases to be run (equivalent "
-"to -t)."
-msgstr ""
-
-#: khtml/test_regression.cpp:638
-#, fuzzy
-#| msgid "Regular e&xpression"
-msgid "TestRegression"
-msgstr "Re&gulären Ausdrock"
-
-#: khtml/test_regression.cpp:639
-msgid "Regression tester for khtml"
-msgstr ""
-
-#: khtml/test_regression_gui_main.cpp:34
-msgid "TestRegressionGui"
-msgstr ""
-
-#: khtml/test_regression_gui_main.cpp:35
-msgid "GUI for the khtml regression tester"
-msgstr ""
-
-#: khtml/test_regression_gui_window.cpp:76
-#, fuzzy
-msgid "Available Tests: 0"
-msgstr "Verfügbar Adressen:"
-
-#: khtml/test_regression_gui_window.cpp:181
-msgid "Please choose a valid 'khtmltests/regression/' directory."
-msgstr ""
-
-#: khtml/test_regression_gui_window.cpp:250
-msgid "Please choose a valid 'khtml/' build directory."
-msgstr ""
-
-#: khtml/test_regression_gui_window.cpp:532
-#, kde-format
-msgid "Available Tests: %1 (ignored: %2)"
-msgstr ""
-
-#: khtml/test_regression_gui_window.cpp:563
-#: khtml/ecma/debugger/debugwindow.cpp:192
-msgid "Continue"
-msgstr "Weider"
-
-#: khtml/test_regression_gui_window.cpp:632
-#, fuzzy
-msgid "Cannot find testregression executable."
-msgstr "Konnt de Programm '%1' net fannen."
-
-#: khtml/test_regression_gui_window.cpp:1102
-#, fuzzy
-msgid "Run test..."
-msgstr "Lëscht ëmbenennen..."
-
-#: khtml/test_regression_gui_window.cpp:1104
-#, fuzzy
-msgid "Add to ignores..."
-msgstr "Op d'Zeil &goen..."
-
-#: khtml/test_regression_gui_window.cpp:1105
-msgid "Remove from ignores..."
-msgstr ""
-
-#: khtml/testkhtml.cpp:39
-#, fuzzy
-#| msgid "URL to open"
-msgid "URL to open"
-msgstr "URL fir opzemaachen"
-
-#: khtml/testkhtml.cpp:41
-#, fuzzy
-#| msgid "Test"
-msgid "Testkhtml"
-msgstr "Test"
-
-#: khtml/testkhtml.cpp:42
-msgid "a basic web browser using the KHTML library"
-msgstr ""
 
 #: khtml/ecma/kjs_binding.cpp:185
 #, fuzzy
@@ -12323,23 +12323,6 @@ msgstr "Asetzen"
 #: khtml/ecma/kjs_window.cpp:2883
 msgid "Disallow"
 msgstr "Net zouloossen"
-
-#: khtml/ecma/debugger/callstackdock.cpp:37
-#, fuzzy
-#| msgid "Call stack"
-msgid "Call Stack"
-msgstr "Stack opruffen"
-
-#: khtml/ecma/debugger/callstackdock.cpp:41
-#, fuzzy
-msgid "Call"
-msgstr "Installéieren"
-
-#: khtml/ecma/debugger/callstackdock.cpp:41
-#, fuzzy
-#| msgid "Line up"
-msgid "Line"
-msgstr "Ausriichten"
 
 #: khtml/ecma/debugger/consoledock.cpp:220
 #, fuzzy
@@ -12472,6 +12455,23 @@ msgstr "Referenzfeler"
 #, fuzzy
 msgid "Loaded Scripts"
 msgstr "&Handschrëft"
+
+#: khtml/ecma/debugger/callstackdock.cpp:37
+#, fuzzy
+#| msgid "Call stack"
+msgid "Call Stack"
+msgstr "Stack opruffen"
+
+#: khtml/ecma/debugger/callstackdock.cpp:41
+#, fuzzy
+msgid "Call"
+msgstr "Installéieren"
+
+#: khtml/ecma/debugger/callstackdock.cpp:41
+#, fuzzy
+#| msgid "Line up"
+msgid "Line"
+msgstr "Ausriichten"
 
 #: khtml/html/html_formimpl.cpp:422
 msgid ""
