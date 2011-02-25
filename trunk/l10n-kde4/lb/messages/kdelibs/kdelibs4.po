@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-02-20 03:34+0100\n"
+"POT-Creation-Date: 2011-02-25 03:34+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -12623,22 +12623,22 @@ msgstr "Archiver"
 msgid "KDE Java Applet Plugin"
 msgstr "KDE-Plugin fir Java-Miniprogrammer"
 
-#: khtml/kmultipart/kmultipart.cpp:315
-#, fuzzy, kde-format
-msgid "No handler found for %1."
-msgstr "Keen Handler fir \"%1\" fonnt!"
-
-#: khtml/kmultipart/kmultipart.cpp:567
+#: khtml/kmultipart/kmultipart.cpp:41
 msgid "KMultiPart"
 msgstr "KMultiPart"
 
-#: khtml/kmultipart/kmultipart.cpp:569
+#: khtml/kmultipart/kmultipart.cpp:43
 msgid "Embeddable component for multipart/mixed"
 msgstr "Abettungsfäheg Komponent fir multipart/mixed"
 
-#: khtml/kmultipart/kmultipart.cpp:571
-msgid "Copyright 2001, David Faure <email>david@mandrakesoft.com</email>"
+#: khtml/kmultipart/kmultipart.cpp:45
+msgid "Copyright 2001-2011, David Faure <email>faure@kde.org</email>"
 msgstr ""
+
+#: khtml/kmultipart/kmultipart.cpp:325
+#, fuzzy, kde-format
+msgid "No handler found for %1."
+msgstr "Keen Handler fir \"%1\" fonnt!"
 
 #: khtml/rendering/media_controls.cpp:47
 msgid "Play"
