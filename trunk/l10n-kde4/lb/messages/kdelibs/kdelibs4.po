@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-03-09 03:41+0100\n"
+"POT-Creation-Date: 2011-03-12 03:43+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -7943,12 +7943,6 @@ msgstr[1] "Nei Datei."
 msgid "Click this to collapse the dialog, to hide details"
 msgstr ""
 
-#: kdeui/kernel/kapplication.cpp:828
-#, fuzzy, kde-format
-#| msgid "The style %1 was not found\n"
-msgid "The style '%1' was not found"
-msgstr "De Stil %1 ass net fonnt ginn\n"
-
 #: kdeui/kernel/kuniqueapplication.cpp:88
 msgid "Do not run in the background."
 msgstr ""
@@ -7956,6 +7950,12 @@ msgstr ""
 #: kdeui/kernel/kuniqueapplication.cpp:90
 msgid "Internally added if launched from Finder"
 msgstr ""
+
+#: kdeui/kernel/kapplication.cpp:830
+#, fuzzy, kde-format
+#| msgid "The style %1 was not found\n"
+msgid "The style '%1' was not found"
+msgstr "De Stil %1 ass net fonnt ginn\n"
 
 #: kdeui/notifications/knotificationrestrictions.cpp:181
 #, fuzzy
