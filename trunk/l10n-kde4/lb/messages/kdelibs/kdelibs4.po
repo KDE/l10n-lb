@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-03-18 03:37+0100\n"
+"POT-Creation-Date: 2011-03-19 03:39+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -12643,7 +12643,7 @@ msgstr "Abettungsfäheg Komponent fir multipart/mixed"
 msgid "Copyright 2001-2011, David Faure <email>faure@kde.org</email>"
 msgstr ""
 
-#: khtml/kmultipart/kmultipart.cpp:325
+#: khtml/kmultipart/kmultipart.cpp:338
 #, fuzzy, kde-format
 msgid "No handler found for %1."
 msgstr "Keen Handler fir \"%1\" fonnt!"
