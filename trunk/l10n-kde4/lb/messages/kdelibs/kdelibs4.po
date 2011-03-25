@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-03-19 03:39+0100\n"
+"POT-Creation-Date: 2011-03-25 03:42+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -11581,15 +11581,6 @@ msgstr "Bild - %1x%2 Pixelen"
 msgid "Done."
 msgstr "Fäerdeg."
 
-#: khtml/khtmlview.cpp:1842
-msgid "Access Keys activated"
-msgstr "Kuerztasten ugeschalt"
-
-#: khtml/khtmlview.cpp:2797 khtml/khtmlview.cpp:2839 khtml/khtml_part.cpp:4761
-#: khtml/html/html_formimpl.cpp:1635 khtml/html/html_formimpl.cpp:1847
-msgid "Submit"
-msgstr "Verschécken"
-
 #: khtml/test_regression.cpp:619
 msgid "Directory containing tests, basedir and output directories."
 msgstr ""
@@ -12123,6 +12114,11 @@ msgstr ""
 "<qt>De Formular gëtt no<BR><B>%1</B><BR>op ärem lokalen Dateiesystem "
 "verschéckt ginn.<BR>Wëllt dir de Formular ofsenden?"
 
+#: khtml/khtml_part.cpp:4761 khtml/khtmlview.cpp:2797 khtml/khtmlview.cpp:2839
+#: khtml/html/html_formimpl.cpp:1635 khtml/html/html_formimpl.cpp:1847
+msgid "Submit"
+msgstr "Verschécken"
+
 #: khtml/khtml_part.cpp:4814
 msgid ""
 "This site attempted to attach a file from your computer in the form "
@@ -12222,6 +12218,10 @@ msgstr "Zeréckweisen"
 #: khtml/khtml_settings.cpp:916
 msgid "Filter error"
 msgstr "Feeler am Filter"
+
+#: khtml/khtmlview.cpp:1842
+msgid "Access Keys activated"
+msgstr "Kuerztasten ugeschalt"
 
 #: khtml/ecma/kjs_binding.cpp:185
 #, fuzzy
