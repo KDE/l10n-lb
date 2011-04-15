@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-04-10 03:59+0200\n"
+"POT-Creation-Date: 2011-04-15 04:00+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -13957,20 +13957,6 @@ msgctxt "Description of the notified event"
 msgid "Description"
 msgstr "Beschreiwung:"
 
-#: kparts/browserextension.cpp:645
-#, fuzzy, kde-format
-#| msgid "<qt>Do you want to search the Internet for <b>%1</b>?"
-msgid "<qt>Do you want to search the Internet for <b>%1</b>?</qt>"
-msgstr "<qt>Wëllt dir am Internet no <b>%1</b> sichen?"
-
-#: kparts/browserextension.cpp:646
-msgid "Internet Search"
-msgstr "Sicht am Internet"
-
-#: kparts/browserextension.cpp:646
-msgid "&Search"
-msgstr "&Sichen"
-
 #: kparts/browseropenorsavequestion.cpp:100
 #, fuzzy, kde-format
 #| msgid "Redo: %1"
@@ -14067,6 +14053,20 @@ msgstr "Wëllt dir '%1' wiirklech lafe loossen? "
 #: kparts/browserrun.cpp:336
 msgid "Execute File?"
 msgstr "Datei ausféieren?"
+
+#: kparts/browserextension.cpp:645
+#, fuzzy, kde-format
+#| msgid "<qt>Do you want to search the Internet for <b>%1</b>?"
+msgid "<qt>Do you want to search the Internet for <b>%1</b>?</qt>"
+msgstr "<qt>Wëllt dir am Internet no <b>%1</b> sichen?"
+
+#: kparts/browserextension.cpp:646
+msgid "Internet Search"
+msgstr "Sicht am Internet"
+
+#: kparts/browserextension.cpp:646
+msgid "&Search"
+msgstr "&Sichen"
 
 #: kpty/kptydevice.cpp:322
 #, fuzzy
