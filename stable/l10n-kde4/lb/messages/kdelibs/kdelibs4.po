@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-04-24 13:22+0200\n"
+"POT-Creation-Date: 2011-05-02 13:47+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -12756,6 +12756,18 @@ msgstr ""
 "Konnt de 'kdemain' am '%1' net fannen.\n"
 "%2"
 
+#: kinit/klauncher_main.cpp:62
+#, fuzzy
+#| msgid ""
+#| "klauncher: This program is not supposed to be started manually.\n"
+#| "klauncher: It is started automatically by kdeinit.\n"
+msgid ""
+"klauncher: This program is not supposed to be started manually.\n"
+"klauncher: It is started automatically by kdeinit4.\n"
+msgstr ""
+"KLauncher: Dëse Programm sollt am Fong net manuell gestart ginn.\n"
+"E gëtt vu kdeinit automatësch opgeruff.\n"
+
 #: kinit/klauncher.cpp:564
 #, kde-format
 msgid "KDEInit could not launch '%1'."
@@ -12790,18 +12802,6 @@ msgstr "Onbekannte Protokoll '%1'.\n"
 #, kde-format
 msgid "Error loading '%1'.\n"
 msgstr "Feeler beim Luede vun '%1'.\n"
-
-#: kinit/klauncher_main.cpp:62
-#, fuzzy
-#| msgid ""
-#| "klauncher: This program is not supposed to be started manually.\n"
-#| "klauncher: It is started automatically by kdeinit.\n"
-msgid ""
-"klauncher: This program is not supposed to be started manually.\n"
-"klauncher: It is started automatically by kdeinit4.\n"
-msgstr ""
-"KLauncher: Dëse Programm sollt am Fong net manuell gestart ginn.\n"
-"E gëtt vu kdeinit automatësch opgeruff.\n"
 
 #: kjs/object.cpp:554
 msgid "Evaluation error"
