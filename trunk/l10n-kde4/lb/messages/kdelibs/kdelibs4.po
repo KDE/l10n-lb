@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-06-16 04:13+0200\n"
+"POT-Creation-Date: 2011-06-21 04:32+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -11235,7 +11235,7 @@ msgstr "Nächste Mount"
 #, fuzzy
 #| msgid "Next year"
 msgctxt "@option next week"
-msgid "Next week"
+msgid "Next Week"
 msgstr "Nächst Joër"
 
 #: kdeui/widgets/kdatecombobox.cpp:146
@@ -11261,7 +11261,7 @@ msgstr "Dënschten"
 #, fuzzy
 #| msgid "Last Name"
 msgctxt "@option last week"
-msgid "Last week"
+msgid "Last Week"
 msgstr "Familljennumm"
 
 #: kdeui/widgets/kdatecombobox.cpp:150
@@ -11286,6 +11286,7 @@ msgid "No Date"
 msgstr "Datum"
 
 #: kdeui/widgets/kdatecombobox.cpp:230
+msgctxt "@info"
 msgid "The date you entered is invalid"
 msgstr ""
 
@@ -11302,34 +11303,39 @@ msgid "Date cannot be later than %1"
 msgstr ""
 
 #: kdeui/widgets/kdatetimeedit.cpp:195
+msgctxt "UTC time zone"
 msgid "UTC"
 msgstr ""
 
 #: kdeui/widgets/kdatetimeedit.cpp:196
 #, fuzzy
 #| msgid "Rating"
+msgctxt "No specific time zone"
 msgid "Floating"
 msgstr "Bewertung"
 
 #: kdeui/widgets/kdatetimeedit.cpp:243
+msgctxt "@info"
 msgid "The entered date and time is before the minimum allowed date and time."
 msgstr ""
 
 #: kdeui/widgets/kdatetimeedit.cpp:253
+msgctxt "@info"
 msgid "The entered date and time is after the maximum allowed date and time."
 msgstr ""
 
-#: kdeui/widgets/ktimecombobox.cpp:246
+#: kdeui/widgets/ktimecombobox.cpp:259
+msgctxt "@info"
 msgid "The time you entered is invalid"
 msgstr ""
 
-#: kdeui/widgets/ktimecombobox.cpp:249
+#: kdeui/widgets/ktimecombobox.cpp:262
 #, kde-format
 msgctxt "@info"
 msgid "Time cannot be earlier than %1"
 msgstr ""
 
-#: kdeui/widgets/ktimecombobox.cpp:256
+#: kdeui/widgets/ktimecombobox.cpp:269
 #, kde-format
 msgctxt "@info"
 msgid "Time cannot be later than %1"
@@ -15371,16 +15377,22 @@ msgid "pm"
 msgstr "nomëttes/owës"
 
 #, fuzzy
+#~| msgid "Next year"
+#~ msgctxt "@option next week"
+#~ msgid "Next week"
+#~ msgstr "Nächst Joër"
+
+#, fuzzy
+#~| msgid "Last Name"
+#~ msgctxt "@option last week"
+#~ msgid "Last week"
+#~ msgstr "Familljennumm"
+
+#, fuzzy
 #~| msgid "Monday"
 #~ msgctxt "@info/plain"
 #~ msgid "today"
 #~ msgstr "Méinden"
-
-#, fuzzy
-#~| msgid "Next year"
-#~ msgctxt "@option next week"
-#~ msgid "Next Week"
-#~ msgstr "Nächst Joër"
 
 #, fuzzy
 #~| msgid "Hide &Menubar"
