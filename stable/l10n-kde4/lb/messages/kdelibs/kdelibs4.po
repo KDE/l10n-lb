@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-07-29 13:46+0200\n"
+"POT-Creation-Date: 2011-07-30 14:06+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -14706,6 +14706,32 @@ msgstr ""
 msgid "The ontology files containing the ontologies to be generated."
 msgstr ""
 
+#: nepomuk/ui/nepomukmassupdatejob.cpp:76
+#, fuzzy
+#| msgid "Configure &Notifications..."
+msgid "Changing annotations"
+msgstr "&Norichte configuréieren..."
+
+#: nepomuk/ui/tagwidget.cpp:61
+#, fuzzy
+#| msgid "Show all options"
+msgctxt "@label"
+msgid "Show all tags..."
+msgstr "All Optioune weisen"
+
+#: nepomuk/ui/tagwidget.cpp:112
+#, fuzzy
+msgctxt "@label"
+msgid "Add Tags..."
+msgstr "&Dobäimaachen..."
+
+#: nepomuk/ui/tagwidget.cpp:112
+#, fuzzy
+#| msgid "Change &Icon..."
+msgctxt "@label"
+msgid "Change..."
+msgstr "&Symbol änneren..."
+
 #: nepomuk/ui/kedittagsdialog.cpp:49
 #, fuzzy
 #| msgid "Change &Icon..."
@@ -14763,32 +14789,6 @@ msgstr "Läschen"
 msgctxt "@action:button"
 msgid "Cancel"
 msgstr "Ofbriechen"
-
-#: nepomuk/ui/nepomukmassupdatejob.cpp:76
-#, fuzzy
-#| msgid "Configure &Notifications..."
-msgid "Changing annotations"
-msgstr "&Norichte configuréieren..."
-
-#: nepomuk/ui/tagwidget.cpp:61
-#, fuzzy
-#| msgid "Show all options"
-msgctxt "@label"
-msgid "Show all tags..."
-msgstr "All Optioune weisen"
-
-#: nepomuk/ui/tagwidget.cpp:112
-#, fuzzy
-msgctxt "@label"
-msgid "Add Tags..."
-msgstr "&Dobäimaachen..."
-
-#: nepomuk/ui/tagwidget.cpp:112
-#, fuzzy
-#| msgid "Change &Icon..."
-msgctxt "@label"
-msgid "Change..."
-msgstr "&Symbol änneren..."
 
 #: nepomuk/utils/daterangeselectionwidget.cpp:201
 msgid "This Week"
