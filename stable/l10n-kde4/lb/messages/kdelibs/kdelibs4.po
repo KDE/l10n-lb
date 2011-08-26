@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-21 10:47+0200\n"
+"POT-Creation-Date: 2011-08-26 10:36+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -6576,7 +6576,7 @@ msgid "Reset to Defaults"
 msgstr "Standard"
 
 #: kdeui/dialogs/kshortcutseditor.cpp:127
-#: kdeui/widgets/kcharselectdata.cpp:644
+#: kdeui/widgets/kcharselectdata.cpp:685
 msgid "Unknown"
 msgstr "Onbekannt"
 
@@ -9128,7 +9128,7 @@ msgid "Phonetic Symbols"
 msgstr "Geometrësch Symboler"
 
 #: kdeui/widgets/kcharselect-translation.cpp:35
-#: kdeui/widgets/kcharselectdata.cpp:572
+#: kdeui/widgets/kcharselectdata.cpp:613
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "CombiningMarks"
@@ -9272,6 +9272,11 @@ msgid "Samaritan"
 msgstr "Ramadan"
 
 #: kdeui/widgets/kcharselect-translation.cpp:55
+msgctxt "KCharselect unicode block name"
+msgid "Mandaic"
+msgstr ""
+
+#: kdeui/widgets/kcharselect-translation.cpp:56
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Devanagari"
@@ -9279,7 +9284,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Devanagari"
 msgstr "Devanagari"
 
-#: kdeui/widgets/kcharselect-translation.cpp:56
+#: kdeui/widgets/kcharselect-translation.cpp:57
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Bengali"
@@ -9287,7 +9292,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Bengali"
 msgstr "Bengalësch"
 
-#: kdeui/widgets/kcharselect-translation.cpp:57
+#: kdeui/widgets/kcharselect-translation.cpp:58
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Gurmukhi"
@@ -9295,7 +9300,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Gurmukhi"
 msgstr "Grumukhi"
 
-#: kdeui/widgets/kcharselect-translation.cpp:58
+#: kdeui/widgets/kcharselect-translation.cpp:59
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Gujarati"
@@ -9303,7 +9308,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Gujarati"
 msgstr "Gujarati"
 
-#: kdeui/widgets/kcharselect-translation.cpp:59
+#: kdeui/widgets/kcharselect-translation.cpp:60
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Oriya"
@@ -9311,14 +9316,14 @@ msgctxt "KCharselect unicode block name"
 msgid "Oriya"
 msgstr "Oriya"
 
-#: kdeui/widgets/kcharselect-translation.cpp:60
+#: kdeui/widgets/kcharselect-translation.cpp:61
 #, fuzzy
 #| msgid "Tamil"
 msgctxt "KCharselect unicode block name"
 msgid "Tamil"
 msgstr "Tamil"
 
-#: kdeui/widgets/kcharselect-translation.cpp:61
+#: kdeui/widgets/kcharselect-translation.cpp:62
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Telugu"
@@ -9326,7 +9331,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Telugu"
 msgstr "Telugu"
 
-#: kdeui/widgets/kcharselect-translation.cpp:62
+#: kdeui/widgets/kcharselect-translation.cpp:63
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Kannada"
@@ -9334,7 +9339,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Kannada"
 msgstr "Kannada"
 
-#: kdeui/widgets/kcharselect-translation.cpp:63
+#: kdeui/widgets/kcharselect-translation.cpp:64
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Malayalam"
@@ -9342,7 +9347,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Malayalam"
 msgstr "Malayësch"
 
-#: kdeui/widgets/kcharselect-translation.cpp:64
+#: kdeui/widgets/kcharselect-translation.cpp:65
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Sinhala"
@@ -9350,14 +9355,14 @@ msgctxt "KCharselect unicode block name"
 msgid "Sinhala"
 msgstr "Singhalesësch"
 
-#: kdeui/widgets/kcharselect-translation.cpp:65
+#: kdeui/widgets/kcharselect-translation.cpp:66
 #, fuzzy
 #| msgid "Thai"
 msgctxt "KCharselect unicode block name"
 msgid "Thai"
 msgstr "Thailännësch"
 
-#: kdeui/widgets/kcharselect-translation.cpp:66
+#: kdeui/widgets/kcharselect-translation.cpp:67
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Lao"
@@ -9365,7 +9370,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Lao"
 msgstr "Laotësch"
 
-#: kdeui/widgets/kcharselect-translation.cpp:67
+#: kdeui/widgets/kcharselect-translation.cpp:68
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Tibetan"
@@ -9373,7 +9378,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Tibetan"
 msgstr "Tibetanësch"
 
-#: kdeui/widgets/kcharselect-translation.cpp:68
+#: kdeui/widgets/kcharselect-translation.cpp:69
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Myanmar"
@@ -9381,7 +9386,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Myanmar"
 msgstr "Myanmar"
 
-#: kdeui/widgets/kcharselect-translation.cpp:69
+#: kdeui/widgets/kcharselect-translation.cpp:70
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Georgian"
@@ -9389,7 +9394,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Georgian"
 msgstr "Georgësch"
 
-#: kdeui/widgets/kcharselect-translation.cpp:70
+#: kdeui/widgets/kcharselect-translation.cpp:71
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Hangul"
@@ -9397,7 +9402,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Hangul Jamo"
 msgstr "Hangul"
 
-#: kdeui/widgets/kcharselect-translation.cpp:71
+#: kdeui/widgets/kcharselect-translation.cpp:72
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Ethiopic"
@@ -9405,14 +9410,14 @@ msgctxt "KCharselect unicode block name"
 msgid "Ethiopic"
 msgstr "Äthiopësch"
 
-#: kdeui/widgets/kcharselect-translation.cpp:72
+#: kdeui/widgets/kcharselect-translation.cpp:73
 #, fuzzy
 #| msgid "Loading Applet"
 msgctxt "KCharselect unicode block name"
 msgid "Ethiopic Supplement"
 msgstr "Amgaang, de Miniprogramm ze lueden"
 
-#: kdeui/widgets/kcharselect-translation.cpp:73
+#: kdeui/widgets/kcharselect-translation.cpp:74
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Cherokee"
@@ -9420,7 +9425,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Cherokee"
 msgstr "Cherokee"
 
-#: kdeui/widgets/kcharselect-translation.cpp:74
+#: kdeui/widgets/kcharselect-translation.cpp:75
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Canadian Aboriginal"
@@ -9428,7 +9433,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Unified Canadian Aboriginal Syllabics"
 msgstr "Urawunner-Kanadësch"
 
-#: kdeui/widgets/kcharselect-translation.cpp:75
+#: kdeui/widgets/kcharselect-translation.cpp:76
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Ogham"
@@ -9436,13 +9441,13 @@ msgctxt "KCharselect unicode block name"
 msgid "Ogham"
 msgstr "Ogham"
 
-#: kdeui/widgets/kcharselect-translation.cpp:76
+#: kdeui/widgets/kcharselect-translation.cpp:77
 #, fuzzy
 msgctxt "KCharselect unicode block name"
 msgid "Runic"
 msgstr "Runen"
 
-#: kdeui/widgets/kcharselect-translation.cpp:77
+#: kdeui/widgets/kcharselect-translation.cpp:78
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Tagalog"
@@ -9450,7 +9455,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Tagalog"
 msgstr "Tagalog"
 
-#: kdeui/widgets/kcharselect-translation.cpp:78
+#: kdeui/widgets/kcharselect-translation.cpp:79
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Hanunoo"
@@ -9458,7 +9463,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Hanunoo"
 msgstr "Hanunoo"
 
-#: kdeui/widgets/kcharselect-translation.cpp:79
+#: kdeui/widgets/kcharselect-translation.cpp:80
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Buhid"
@@ -9466,7 +9471,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Buhid"
 msgstr "Buhid"
 
-#: kdeui/widgets/kcharselect-translation.cpp:80
+#: kdeui/widgets/kcharselect-translation.cpp:81
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Tagbanwa"
@@ -9474,7 +9479,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Tagbanwa"
 msgstr "Tagbanwa"
 
-#: kdeui/widgets/kcharselect-translation.cpp:81
+#: kdeui/widgets/kcharselect-translation.cpp:82
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Khmer"
@@ -9482,7 +9487,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Khmer"
 msgstr "Kambodschanësch"
 
-#: kdeui/widgets/kcharselect-translation.cpp:82
+#: kdeui/widgets/kcharselect-translation.cpp:83
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Mongolian"
@@ -9490,7 +9495,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Mongolian"
 msgstr "Mongolësch"
 
-#: kdeui/widgets/kcharselect-translation.cpp:83
+#: kdeui/widgets/kcharselect-translation.cpp:84
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Canadian Aboriginal"
@@ -9498,26 +9503,26 @@ msgctxt "KCharselect unicode block name"
 msgid "Unified Canadian Aboriginal Syllabics Extended"
 msgstr "Urawunner-Kanadësch"
 
-#: kdeui/widgets/kcharselect-translation.cpp:84
+#: kdeui/widgets/kcharselect-translation.cpp:85
 msgctxt "KCharselect unicode block name"
 msgid "Limbu"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:85
+#: kdeui/widgets/kcharselect-translation.cpp:86
 #, fuzzy
 #| msgid "Thai"
 msgctxt "KCharselect unicode block name"
 msgid "Tai Le"
 msgstr "Thailännësch"
 
-#: kdeui/widgets/kcharselect-translation.cpp:86
+#: kdeui/widgets/kcharselect-translation.cpp:87
 #, fuzzy
 #| msgid "Thai"
 msgctxt "KCharselect unicode block name"
 msgid "New Tai Lue"
 msgstr "Thailännësch"
 
-#: kdeui/widgets/kcharselect-translation.cpp:87
+#: kdeui/widgets/kcharselect-translation.cpp:88
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Geometric Symbols"
@@ -9525,43 +9530,51 @@ msgctxt "KCharselect unicode block name"
 msgid "Khmer Symbols"
 msgstr "Geometrësch Symboler"
 
-#: kdeui/widgets/kcharselect-translation.cpp:88
+#: kdeui/widgets/kcharselect-translation.cpp:89
 #, fuzzy
 #| msgid "Business Phone"
 msgctxt "KCharselect unicode block name"
 msgid "Buginese"
 msgstr "Tëlefon (Aarbëcht)"
 
-#: kdeui/widgets/kcharselect-translation.cpp:89
+#: kdeui/widgets/kcharselect-translation.cpp:90
 msgctxt "KCharselect unicode block name"
 msgid "Tai Tham"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:90
+#: kdeui/widgets/kcharselect-translation.cpp:91
 #, fuzzy
 #| msgid "Business Phone"
 msgctxt "KCharselect unicode block name"
 msgid "Balinese"
 msgstr "Tëlefon (Aarbëcht)"
 
-#: kdeui/widgets/kcharselect-translation.cpp:91
+#: kdeui/widgets/kcharselect-translation.cpp:92
 #, fuzzy
 #| msgid "Sunday"
 msgctxt "KCharselect unicode block name"
 msgid "Sundanese"
 msgstr "Sonnden"
 
-#: kdeui/widgets/kcharselect-translation.cpp:92
+#: kdeui/widgets/kcharselect-translation.cpp:93
+#, fuzzy
+#| msgctxt "QFont"
+#| msgid "Katakana"
+msgctxt "KCharselect unicode block name"
+msgid "Batak"
+msgstr "Katakana"
+
+#: kdeui/widgets/kcharselect-translation.cpp:94
 msgctxt "KCharselect unicode block name"
 msgid "Lepcha"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:93
+#: kdeui/widgets/kcharselect-translation.cpp:95
 msgctxt "KCharselect unicode block name"
 msgid "Ol Chiki"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:94
+#: kdeui/widgets/kcharselect-translation.cpp:96
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Geometric Symbols"
@@ -9569,7 +9582,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Vedic Extensions"
 msgstr "Geometrësch Symboler"
 
-#: kdeui/widgets/kcharselect-translation.cpp:95
+#: kdeui/widgets/kcharselect-translation.cpp:97
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Geometric Symbols"
@@ -9577,12 +9590,12 @@ msgctxt "KCharselect unicode block name"
 msgid "Phonetic Extensions"
 msgstr "Geometrësch Symboler"
 
-#: kdeui/widgets/kcharselect-translation.cpp:96
+#: kdeui/widgets/kcharselect-translation.cpp:98
 msgctxt "KCharselect unicode block name"
 msgid "Phonetic Extensions Supplement"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:97
+#: kdeui/widgets/kcharselect-translation.cpp:99
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "CombiningMarks"
@@ -9590,31 +9603,31 @@ msgctxt "KCharselect unicode block name"
 msgid "Combining Diacritical Marks Supplement"
 msgstr "CombiningMarks"
 
-#: kdeui/widgets/kcharselect-translation.cpp:98
+#: kdeui/widgets/kcharselect-translation.cpp:100
 #, fuzzy
 #| msgid "Extended Address Information"
 msgctxt "KCharselect unicode block name"
 msgid "Latin Extended Additional"
 msgstr "Allgemeng Informatioun zur Adress"
 
-#: kdeui/widgets/kcharselect-translation.cpp:99
+#: kdeui/widgets/kcharselect-translation.cpp:101
 msgctxt "KCharselect unicode block name"
 msgid "Greek Extended"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:100
+#: kdeui/widgets/kcharselect-translation.cpp:102
 #, fuzzy
 #| msgid "General Settings"
 msgctxt "KCharselect unicode block name"
 msgid "General Punctuation"
 msgstr "Allgemeng Astellungen"
 
-#: kdeui/widgets/kcharselect-translation.cpp:101
+#: kdeui/widgets/kcharselect-translation.cpp:103
 msgctxt "KCharselect unicode block name"
 msgid "Superscripts and Subscripts"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:102
+#: kdeui/widgets/kcharselect-translation.cpp:104
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Currency Symbols"
@@ -9622,7 +9635,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Currency Symbols"
 msgstr "Währungssymboler"
 
-#: kdeui/widgets/kcharselect-translation.cpp:103
+#: kdeui/widgets/kcharselect-translation.cpp:105
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "CombiningMarks"
@@ -9630,7 +9643,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Combining Diacritical Marks for Symbols"
 msgstr "CombiningMarks"
 
-#: kdeui/widgets/kcharselect-translation.cpp:104
+#: kdeui/widgets/kcharselect-translation.cpp:106
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Letterlike Symbols"
@@ -9638,7 +9651,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Letterlike Symbols"
 msgstr "Buchstawenähnlech Symboler"
 
-#: kdeui/widgets/kcharselect-translation.cpp:105
+#: kdeui/widgets/kcharselect-translation.cpp:107
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Number Forms"
@@ -9646,12 +9659,12 @@ msgctxt "KCharselect unicode block name"
 msgid "Number Forms"
 msgstr "Zuelen"
 
-#: kdeui/widgets/kcharselect-translation.cpp:106
+#: kdeui/widgets/kcharselect-translation.cpp:108
 msgctxt "KCharselect unicode block name"
 msgid "Arrows"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:107
+#: kdeui/widgets/kcharselect-translation.cpp:109
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Mathematical Operators"
@@ -9659,14 +9672,14 @@ msgctxt "KCharselect unicode block name"
 msgid "Mathematical Operators"
 msgstr "Mathematësch Operateren"
 
-#: kdeui/widgets/kcharselect-translation.cpp:108
+#: kdeui/widgets/kcharselect-translation.cpp:110
 #, fuzzy
 #| msgid "Miscellaneous"
 msgctxt "KCharselect unicode block name"
 msgid "Miscellaneous Technical"
 msgstr "Verschiddenes"
 
-#: kdeui/widgets/kcharselect-translation.cpp:109
+#: kdeui/widgets/kcharselect-translation.cpp:111
 #, fuzzy
 #| msgctxt "QAccel"
 #| msgid "Control"
@@ -9674,12 +9687,12 @@ msgctxt "KCharselect unicode block name"
 msgid "Control Pictures"
 msgstr "Ctrl"
 
-#: kdeui/widgets/kcharselect-translation.cpp:110
+#: kdeui/widgets/kcharselect-translation.cpp:112
 msgctxt "KCharselect unicode block name"
 msgid "Optical Character Recognition"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:111
+#: kdeui/widgets/kcharselect-translation.cpp:113
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Enclosed and Square"
@@ -9687,19 +9700,19 @@ msgctxt "KCharselect unicode block name"
 msgid "Enclosed Alphanumerics"
 msgstr "Ëmrësser a Rechtecker"
 
-#: kdeui/widgets/kcharselect-translation.cpp:112
+#: kdeui/widgets/kcharselect-translation.cpp:114
 msgctxt "KCharselect unicode block name"
 msgid "Box Drawing"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:113
+#: kdeui/widgets/kcharselect-translation.cpp:115
 #, fuzzy
 #| msgid "Close Document"
 msgctxt "KCharselect unicode block name"
 msgid "Block Elements"
 msgstr "Dokument zoumaachen"
 
-#: kdeui/widgets/kcharselect-translation.cpp:114
+#: kdeui/widgets/kcharselect-translation.cpp:116
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Geometric Symbols"
@@ -9707,7 +9720,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Geometric Shapes"
 msgstr "Geometrësch Symboler"
 
-#: kdeui/widgets/kcharselect-translation.cpp:115
+#: kdeui/widgets/kcharselect-translation.cpp:117
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Miscellaneous Symbols"
@@ -9715,14 +9728,14 @@ msgctxt "KCharselect unicode block name"
 msgid "Miscellaneous Symbols"
 msgstr "Verschidde Symboler"
 
-#: kdeui/widgets/kcharselect-translation.cpp:116
+#: kdeui/widgets/kcharselect-translation.cpp:118
 #, fuzzy
 #| msgid "Digit"
 msgctxt "KCharselect unicode block name"
 msgid "Dingbats"
 msgstr "Zuel"
 
-#: kdeui/widgets/kcharselect-translation.cpp:117
+#: kdeui/widgets/kcharselect-translation.cpp:119
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Miscellaneous Symbols"
@@ -9730,12 +9743,12 @@ msgctxt "KCharselect unicode block name"
 msgid "Miscellaneous Mathematical Symbols-A"
 msgstr "Verschidde Symboler"
 
-#: kdeui/widgets/kcharselect-translation.cpp:118
+#: kdeui/widgets/kcharselect-translation.cpp:120
 msgctxt "KCharselect unicode block name"
 msgid "Supplemental Arrows-A"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:119
+#: kdeui/widgets/kcharselect-translation.cpp:121
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Braille"
@@ -9743,12 +9756,12 @@ msgctxt "KCharselect unicode block name"
 msgid "Braille Patterns"
 msgstr "Braille"
 
-#: kdeui/widgets/kcharselect-translation.cpp:120
+#: kdeui/widgets/kcharselect-translation.cpp:122
 msgctxt "KCharselect unicode block name"
 msgid "Supplemental Arrows-B"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:121
+#: kdeui/widgets/kcharselect-translation.cpp:123
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Miscellaneous Symbols"
@@ -9756,7 +9769,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Miscellaneous Mathematical Symbols-B"
 msgstr "Verschidde Symboler"
 
-#: kdeui/widgets/kcharselect-translation.cpp:122
+#: kdeui/widgets/kcharselect-translation.cpp:124
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Mathematical Operators"
@@ -9764,7 +9777,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Supplemental Mathematical Operators"
 msgstr "Mathematësch Operateren"
 
-#: kdeui/widgets/kcharselect-translation.cpp:123
+#: kdeui/widgets/kcharselect-translation.cpp:125
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Miscellaneous Symbols"
@@ -9772,40 +9785,40 @@ msgctxt "KCharselect unicode block name"
 msgid "Miscellaneous Symbols and Arrows"
 msgstr "Verschidde Symboler"
 
-#: kdeui/widgets/kcharselect-translation.cpp:124
+#: kdeui/widgets/kcharselect-translation.cpp:126
 #, fuzzy
 #| msgid "Baltic"
 msgctxt "KCharselect unicode block name"
 msgid "Glagolitic"
 msgstr "Baltësch"
 
-#: kdeui/widgets/kcharselect-translation.cpp:125
+#: kdeui/widgets/kcharselect-translation.cpp:127
 #, fuzzy
 #| msgid "Extended Address Information"
 msgctxt "KCharselect unicode block name"
 msgid "Latin Extended-C"
 msgstr "Allgemeng Informatioun zur Adress"
 
-#: kdeui/widgets/kcharselect-translation.cpp:126
+#: kdeui/widgets/kcharselect-translation.cpp:128
 #, fuzzy
 #| msgid "Copy"
 msgctxt "KCharselect unicode block name"
 msgid "Coptic"
 msgstr "Kopéieren"
 
-#: kdeui/widgets/kcharselect-translation.cpp:127
+#: kdeui/widgets/kcharselect-translation.cpp:129
 #, fuzzy
 #| msgid "Loading Applet"
 msgctxt "KCharselect unicode block name"
 msgid "Georgian Supplement"
 msgstr "Amgaang, de Miniprogramm ze lueden"
 
-#: kdeui/widgets/kcharselect-translation.cpp:128
+#: kdeui/widgets/kcharselect-translation.cpp:130
 msgctxt "KCharselect unicode block name"
 msgid "Tifinagh"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:129
+#: kdeui/widgets/kcharselect-translation.cpp:131
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Ethiopic"
@@ -9813,45 +9826,45 @@ msgctxt "KCharselect unicode block name"
 msgid "Ethiopic Extended"
 msgstr "Äthiopësch"
 
-#: kdeui/widgets/kcharselect-translation.cpp:130
+#: kdeui/widgets/kcharselect-translation.cpp:132
 #, fuzzy
 #| msgid "Extended Address Information"
 msgctxt "KCharselect unicode block name"
 msgid "Cyrillic Extended-A"
 msgstr "Allgemeng Informatioun zur Adress"
 
-#: kdeui/widgets/kcharselect-translation.cpp:131
+#: kdeui/widgets/kcharselect-translation.cpp:133
 #, fuzzy
 #| msgid "General Settings"
 msgctxt "KCharselect unicode block name"
 msgid "Supplemental Punctuation"
 msgstr "Allgemeng Astellungen"
 
-#: kdeui/widgets/kcharselect-translation.cpp:132
+#: kdeui/widgets/kcharselect-translation.cpp:134
 #, fuzzy
 #| msgid "Loading Applet"
 msgctxt "KCharselect unicode block name"
 msgid "CJK Radicals Supplement"
 msgstr "Amgaang, de Miniprogramm ze lueden"
 
-#: kdeui/widgets/kcharselect-translation.cpp:133
+#: kdeui/widgets/kcharselect-translation.cpp:135
 msgctxt "KCharselect unicode block name"
 msgid "Kangxi Radicals"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:134
+#: kdeui/widgets/kcharselect-translation.cpp:136
 #, fuzzy
 #| msgid "Geographic Position"
 msgctxt "KCharselect unicode block name"
 msgid "Ideographic Description Characters"
 msgstr "Geographësch Positioun"
 
-#: kdeui/widgets/kcharselect-translation.cpp:135
+#: kdeui/widgets/kcharselect-translation.cpp:137
 msgctxt "KCharselect unicode block name"
 msgid "CJK Symbols and Punctuation"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:136
+#: kdeui/widgets/kcharselect-translation.cpp:138
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Hiragana"
@@ -9859,7 +9872,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Hiragana"
 msgstr "Hiragana"
 
-#: kdeui/widgets/kcharselect-translation.cpp:137
+#: kdeui/widgets/kcharselect-translation.cpp:139
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Katakana"
@@ -9867,7 +9880,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Katakana"
 msgstr "Katakana"
 
-#: kdeui/widgets/kcharselect-translation.cpp:138
+#: kdeui/widgets/kcharselect-translation.cpp:140
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Bopomofo"
@@ -9875,7 +9888,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Bopomofo"
 msgstr "Bopomofo"
 
-#: kdeui/widgets/kcharselect-translation.cpp:139
+#: kdeui/widgets/kcharselect-translation.cpp:141
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Hangul"
@@ -9883,7 +9896,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Hangul Compatibility Jamo"
 msgstr "Hangul"
 
-#: kdeui/widgets/kcharselect-translation.cpp:140
+#: kdeui/widgets/kcharselect-translation.cpp:142
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Kannada"
@@ -9891,7 +9904,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Kanbun"
 msgstr "Kannada"
 
-#: kdeui/widgets/kcharselect-translation.cpp:141
+#: kdeui/widgets/kcharselect-translation.cpp:143
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Bopomofo"
@@ -9899,59 +9912,59 @@ msgctxt "KCharselect unicode block name"
 msgid "Bopomofo Extended"
 msgstr "Bopomofo"
 
-#: kdeui/widgets/kcharselect-translation.cpp:142
+#: kdeui/widgets/kcharselect-translation.cpp:144
 msgctxt "KCharselect unicode block name"
 msgid "CJK Strokes"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:143
+#: kdeui/widgets/kcharselect-translation.cpp:145
 msgctxt "KCharselect unicode block name"
 msgid "Katakana Phonetic Extensions"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:144
+#: kdeui/widgets/kcharselect-translation.cpp:146
 msgctxt "KCharselect unicode block name"
 msgid "Enclosed CJK Letters and Months"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:145
+#: kdeui/widgets/kcharselect-translation.cpp:147
 msgctxt "KCharselect unicode block name"
 msgid "CJK Compatibility"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:146
+#: kdeui/widgets/kcharselect-translation.cpp:148
 #, fuzzy
 #| msgid "Frame Information"
 msgctxt "KCharselect unicode block name"
 msgid "CJK Unified Ideographs Extension A"
 msgstr "Informatioun iwwert de Frame"
 
-#: kdeui/widgets/kcharselect-translation.cpp:147
+#: kdeui/widgets/kcharselect-translation.cpp:149
 msgctxt "KCharselect unicode block name"
 msgid "Yijing Hexagram Symbols"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:148
+#: kdeui/widgets/kcharselect-translation.cpp:150
 msgctxt "KCharselect unicode block name"
 msgid "CJK Unified Ideographs"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:149
+#: kdeui/widgets/kcharselect-translation.cpp:151
 msgctxt "KCharselect unicode block name"
 msgid "Yi Syllables"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:150
+#: kdeui/widgets/kcharselect-translation.cpp:152
 msgctxt "KCharselect unicode block name"
 msgid "Yi Radicals"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:151
+#: kdeui/widgets/kcharselect-translation.cpp:153
 msgctxt "KCharselect unicode block name"
 msgid "Lisu"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:152
+#: kdeui/widgets/kcharselect-translation.cpp:154
 #, fuzzy
 #| msgctxt "of March"
 #| msgid "of Mar"
@@ -9959,21 +9972,21 @@ msgctxt "KCharselect unicode block name"
 msgid "Vai"
 msgstr "Mäe"
 
-#: kdeui/widgets/kcharselect-translation.cpp:153
+#: kdeui/widgets/kcharselect-translation.cpp:155
 #, fuzzy
 #| msgid "Extended Address Information"
 msgctxt "KCharselect unicode block name"
 msgid "Cyrillic Extended-B"
 msgstr "Allgemeng Informatioun zur Adress"
 
-#: kdeui/widgets/kcharselect-translation.cpp:154
+#: kdeui/widgets/kcharselect-translation.cpp:156
 #, fuzzy
 #| msgid "Tamuz"
 msgctxt "KCharselect unicode block name"
 msgid "Bamum"
 msgstr "Tamuz"
 
-#: kdeui/widgets/kcharselect-translation.cpp:155
+#: kdeui/widgets/kcharselect-translation.cpp:157
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "SpacingModifiers"
@@ -9981,19 +9994,19 @@ msgctxt "KCharselect unicode block name"
 msgid "Modifier Tone Letters"
 msgstr "SpacingModifiers"
 
-#: kdeui/widgets/kcharselect-translation.cpp:156
+#: kdeui/widgets/kcharselect-translation.cpp:158
 #, fuzzy
 #| msgid "Extended Address Information"
 msgctxt "KCharselect unicode block name"
 msgid "Latin Extended-D"
 msgstr "Allgemeng Informatioun zur Adress"
 
-#: kdeui/widgets/kcharselect-translation.cpp:157
+#: kdeui/widgets/kcharselect-translation.cpp:159
 msgctxt "KCharselect unicode block name"
 msgid "Syloti Nagri"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:158
+#: kdeui/widgets/kcharselect-translation.cpp:160
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Number Forms"
@@ -10001,17 +10014,17 @@ msgctxt "KCharselect unicode block name"
 msgid "Common Indic Number Forms"
 msgstr "Zuelen"
 
-#: kdeui/widgets/kcharselect-translation.cpp:159
+#: kdeui/widgets/kcharselect-translation.cpp:161
 msgctxt "KCharselect unicode block name"
 msgid "Phags-pa"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:160
+#: kdeui/widgets/kcharselect-translation.cpp:162
 msgctxt "KCharselect unicode block name"
 msgid "Saurashtra"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:161
+#: kdeui/widgets/kcharselect-translation.cpp:163
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Devanagari"
@@ -10019,122 +10032,130 @@ msgctxt "KCharselect unicode block name"
 msgid "Devanagari Extended"
 msgstr "Devanagari"
 
-#: kdeui/widgets/kcharselect-translation.cpp:162
+#: kdeui/widgets/kcharselect-translation.cpp:164
 msgctxt "KCharselect unicode block name"
 msgid "Kayah Li"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:163
+#: kdeui/widgets/kcharselect-translation.cpp:165
 #, fuzzy
 #| msgid "Rank"
 msgctxt "KCharselect unicode block name"
 msgid "Rejang"
 msgstr "Rang"
 
-#: kdeui/widgets/kcharselect-translation.cpp:164
+#: kdeui/widgets/kcharselect-translation.cpp:166
 #, fuzzy
 #| msgid "Extended Address Information"
 msgctxt "KCharselect unicode block name"
 msgid "Hangul Jamo Extended-A"
 msgstr "Allgemeng Informatioun zur Adress"
 
-#: kdeui/widgets/kcharselect-translation.cpp:165
+#: kdeui/widgets/kcharselect-translation.cpp:167
 #, fuzzy
 #| msgid "Japanese"
 msgctxt "KCharselect unicode block name"
 msgid "Javanese"
 msgstr "Japanësch"
 
-#: kdeui/widgets/kcharselect-translation.cpp:166
+#: kdeui/widgets/kcharselect-translation.cpp:168
 #, fuzzy
 #| msgid "Kha"
 msgctxt "KCharselect unicode block name"
 msgid "Cham"
 msgstr "Kha"
 
-#: kdeui/widgets/kcharselect-translation.cpp:167
+#: kdeui/widgets/kcharselect-translation.cpp:169
 #, fuzzy
 #| msgid "Extended Address Information"
 msgctxt "KCharselect unicode block name"
 msgid "Myanmar Extended-A"
 msgstr "Allgemeng Informatioun zur Adress"
 
-#: kdeui/widgets/kcharselect-translation.cpp:168
+#: kdeui/widgets/kcharselect-translation.cpp:170
 #, fuzzy
 #| msgid "Thai"
 msgctxt "KCharselect unicode block name"
 msgid "Tai Viet"
 msgstr "Thailännësch"
 
-#: kdeui/widgets/kcharselect-translation.cpp:169
+#: kdeui/widgets/kcharselect-translation.cpp:171
+#, fuzzy
+#| msgctxt "QFont"
+#| msgid "Ethiopic"
+msgctxt "KCharselect unicode block name"
+msgid "Ethiopic Extended-A"
+msgstr "Äthiopësch"
+
+#: kdeui/widgets/kcharselect-translation.cpp:172
 msgctxt "KCharselect unicode block name"
 msgid "Meetei Mayek"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:170
+#: kdeui/widgets/kcharselect-translation.cpp:173
 msgctxt "KCharselect unicode block name"
 msgid "Hangul Syllables"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:171
+#: kdeui/widgets/kcharselect-translation.cpp:174
 #, fuzzy
 #| msgid "Extended Address Information"
 msgctxt "KCharselect unicode block name"
 msgid "Hangul Jamo Extended-B"
 msgstr "Allgemeng Informatioun zur Adress"
 
-#: kdeui/widgets/kcharselect-translation.cpp:172
+#: kdeui/widgets/kcharselect-translation.cpp:175
 msgctxt "KCharselect unicode block name"
 msgid "High Surrogates"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:173
+#: kdeui/widgets/kcharselect-translation.cpp:176
 #, fuzzy
 #| msgid "Private"
 msgctxt "KCharselect unicode block name"
 msgid "High Private Use Surrogates"
 msgstr "Privat"
 
-#: kdeui/widgets/kcharselect-translation.cpp:174
+#: kdeui/widgets/kcharselect-translation.cpp:177
 msgctxt "KCharselect unicode block name"
 msgid "Low Surrogates"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:175
+#: kdeui/widgets/kcharselect-translation.cpp:178
 #, fuzzy
 #| msgid "Private"
 msgctxt "KCharselect unicode block name"
 msgid "Private Use Area"
 msgstr "Privat"
 
-#: kdeui/widgets/kcharselect-translation.cpp:176
+#: kdeui/widgets/kcharselect-translation.cpp:179
 msgctxt "KCharselect unicode block name"
 msgid "CJK Compatibility Ideographs"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:177
+#: kdeui/widgets/kcharselect-translation.cpp:180
 msgctxt "KCharselect unicode block name"
 msgid "Alphabetic Presentation Forms"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:178
+#: kdeui/widgets/kcharselect-translation.cpp:181
 msgctxt "KCharselect unicode block name"
 msgid "Arabic Presentation Forms-A"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:179
+#: kdeui/widgets/kcharselect-translation.cpp:182
 msgctxt "KCharselect unicode block name"
 msgid "Variation Selectors"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:180
+#: kdeui/widgets/kcharselect-translation.cpp:183
 #, fuzzy
 #| msgid "Vertical"
 msgctxt "KCharselect unicode block name"
 msgid "Vertical Forms"
 msgstr "Vertikal"
 
-#: kdeui/widgets/kcharselect-translation.cpp:181
+#: kdeui/widgets/kcharselect-translation.cpp:184
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "CombiningMarks"
@@ -10142,24 +10163,24 @@ msgctxt "KCharselect unicode block name"
 msgid "Combining Half Marks"
 msgstr "CombiningMarks"
 
-#: kdeui/widgets/kcharselect-translation.cpp:182
+#: kdeui/widgets/kcharselect-translation.cpp:185
 msgctxt "KCharselect unicode block name"
 msgid "CJK Compatibility Forms"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:183
+#: kdeui/widgets/kcharselect-translation.cpp:186
 #, fuzzy
 #| msgid "Icons"
 msgctxt "KCharselect unicode block name"
 msgid "Small Form Variants"
 msgstr "Symboler"
 
-#: kdeui/widgets/kcharselect-translation.cpp:184
+#: kdeui/widgets/kcharselect-translation.cpp:187
 msgctxt "KCharselect unicode block name"
 msgid "Arabic Presentation Forms-B"
 msgstr ""
 
-#: kdeui/widgets/kcharselect-translation.cpp:185
+#: kdeui/widgets/kcharselect-translation.cpp:188
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Katakana Half-Width Forms"
@@ -10167,7 +10188,7 @@ msgctxt "KCharselect unicode block name"
 msgid "Halfwidth and Fullwidth Forms"
 msgstr "Katakana (Hallëf sou breet)"
 
-#: kdeui/widgets/kcharselect-translation.cpp:186
+#: kdeui/widgets/kcharselect-translation.cpp:189
 msgctxt "KCharselect unicode block name"
 msgid "Specials"
 msgstr ""
@@ -10345,165 +10366,165 @@ msgctxt "Character"
 msgid "In decimal:"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:241
+#: kdeui/widgets/kcharselectdata.cpp:242
 msgid "<Non Private Use High Surrogate>"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:243
+#: kdeui/widgets/kcharselectdata.cpp:244
 msgid "<Private Use High Surrogate>"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:245
+#: kdeui/widgets/kcharselectdata.cpp:246
 msgid "<Low Surrogate>"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:247
+#: kdeui/widgets/kcharselectdata.cpp:248
 #, fuzzy
 #| msgid "Private"
 msgid "<Private Use>"
 msgstr "Privat"
 
-#: kdeui/widgets/kcharselectdata.cpp:277
+#: kdeui/widgets/kcharselectdata.cpp:278
 msgid "<not assigned>"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:581
+#: kdeui/widgets/kcharselectdata.cpp:622
 #, fuzzy
 #| msgid "Horizontal"
 msgid "Non-printable"
 msgstr "Horizontal"
 
-#: kdeui/widgets/kcharselectdata.cpp:614
+#: kdeui/widgets/kcharselectdata.cpp:655
 #, fuzzy
 #| msgid "Other Contributors:"
 msgid "Other, Control"
 msgstr "Aner Mataarbëchter:"
 
-#: kdeui/widgets/kcharselectdata.cpp:615
+#: kdeui/widgets/kcharselectdata.cpp:656
 #, fuzzy
 #| msgid "vCard Format"
 msgid "Other, Format"
 msgstr "Format vun der vCard"
 
-#: kdeui/widgets/kcharselectdata.cpp:616
+#: kdeui/widgets/kcharselectdata.cpp:657
 msgid "Other, Not Assigned"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:617
+#: kdeui/widgets/kcharselectdata.cpp:658
 msgid "Other, Private Use"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:618
+#: kdeui/widgets/kcharselectdata.cpp:659
 msgid "Other, Surrogate"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:619
+#: kdeui/widgets/kcharselectdata.cpp:660
 msgid "Letter, Lowercase"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:620
+#: kdeui/widgets/kcharselectdata.cpp:661
 #, fuzzy
 #| msgid "Last modified:"
 msgid "Letter, Modifier"
 msgstr "Als Lescht geännert:"
 
-#: kdeui/widgets/kcharselectdata.cpp:621
+#: kdeui/widgets/kcharselectdata.cpp:662
 msgid "Letter, Other"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:622
+#: kdeui/widgets/kcharselectdata.cpp:663
 msgid "Letter, Titlecase"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:623
+#: kdeui/widgets/kcharselectdata.cpp:664
 msgid "Letter, Uppercase"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:624
+#: kdeui/widgets/kcharselectdata.cpp:665
 msgid "Mark, Spacing Combining"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:625
+#: kdeui/widgets/kcharselectdata.cpp:666
 msgid "Mark, Enclosing"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:626
+#: kdeui/widgets/kcharselectdata.cpp:667
 msgid "Mark, Non-Spacing"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:627
+#: kdeui/widgets/kcharselectdata.cpp:668
 msgid "Number, Decimal Digit"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:628
+#: kdeui/widgets/kcharselectdata.cpp:669
 #, fuzzy
 #| msgctxt "QAccel"
 #| msgid "Number Lock"
 msgid "Number, Letter"
 msgstr "Nummer Lock"
 
-#: kdeui/widgets/kcharselectdata.cpp:629
+#: kdeui/widgets/kcharselectdata.cpp:670
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Number Forms"
 msgid "Number, Other"
 msgstr "Zuelen"
 
-#: kdeui/widgets/kcharselectdata.cpp:630
+#: kdeui/widgets/kcharselectdata.cpp:671
 msgid "Punctuation, Connector"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:631
+#: kdeui/widgets/kcharselectdata.cpp:672
 msgid "Punctuation, Dash"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:632
+#: kdeui/widgets/kcharselectdata.cpp:673
 msgid "Punctuation, Close"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:633
+#: kdeui/widgets/kcharselectdata.cpp:674
 msgid "Punctuation, Final Quote"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:634
+#: kdeui/widgets/kcharselectdata.cpp:675
 msgid "Punctuation, Initial Quote"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:635
+#: kdeui/widgets/kcharselectdata.cpp:676
 msgid "Punctuation, Other"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:636
+#: kdeui/widgets/kcharselectdata.cpp:677
 msgid "Punctuation, Open"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:637
+#: kdeui/widgets/kcharselectdata.cpp:678
 msgid "Symbol, Currency"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:638
+#: kdeui/widgets/kcharselectdata.cpp:679
 msgid "Symbol, Modifier"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:639
+#: kdeui/widgets/kcharselectdata.cpp:680
 msgid "Symbol, Math"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:640
+#: kdeui/widgets/kcharselectdata.cpp:681
 msgid "Symbol, Other"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:641
+#: kdeui/widgets/kcharselectdata.cpp:682
 #, fuzzy
 #| msgid "Start of Line"
 msgid "Separator, Line"
 msgstr "Ufank vun der Zeil"
 
-#: kdeui/widgets/kcharselectdata.cpp:642
+#: kdeui/widgets/kcharselectdata.cpp:683
 msgid "Separator, Paragraph"
 msgstr ""
 
-#: kdeui/widgets/kcharselectdata.cpp:643
+#: kdeui/widgets/kcharselectdata.cpp:684
 #, fuzzy
 #| msgid "Start replace"
 msgid "Separator, Space"
@@ -13263,7 +13284,7 @@ msgid "Most Downloads"
 msgstr "Am meeschten erofgelueden"
 
 #: knewstuff/knewstuff2/core/security.cpp:75
-#: knewstuff/knewstuff3/core/security.cpp:75
+#: knewstuff/knewstuff3/core/security.cpp:86
 msgid ""
 "<qt>Cannot start <i>gpg</i> and retrieve the available keys. Make sure that "
 "<i>gpg</i> is installed, otherwise verification of downloaded resources will "
@@ -13274,7 +13295,7 @@ msgstr ""
 "erofgeluede Ressourcen net verifizéiert ginn.</qt>"
 
 #: knewstuff/knewstuff2/core/security.cpp:197
-#: knewstuff/knewstuff3/core/security.cpp:197
+#: knewstuff/knewstuff3/core/security.cpp:208
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt>Enter passphrase for key <b>0x%1</b>, belonging to<br><i>%2&lt;%3&gt;"
@@ -13287,7 +13308,7 @@ msgstr ""
 "%2&lt;%3&gt;</i>gehéiert:</qt>"
 
 #: knewstuff/knewstuff2/core/security.cpp:278
-#: knewstuff/knewstuff3/core/security.cpp:278
+#: knewstuff/knewstuff3/core/security.cpp:289
 msgid ""
 "<qt>Cannot start <i>gpg</i> and check the validity of the file. Make sure "
 "that <i>gpg</i> is installed, otherwise verification of downloaded resources "
@@ -13298,17 +13319,17 @@ msgstr ""
 "erofgeluede Ressourcen net verifizéiert ginn.</qt>"
 
 #: knewstuff/knewstuff2/core/security.cpp:333
-#: knewstuff/knewstuff3/core/security.cpp:333
+#: knewstuff/knewstuff3/core/security.cpp:344
 msgid "Select Signing Key"
 msgstr "Schlëssel fir d'Ënnerschrëft wielen"
 
 #: knewstuff/knewstuff2/core/security.cpp:333
-#: knewstuff/knewstuff3/core/security.cpp:333
+#: knewstuff/knewstuff3/core/security.cpp:344
 msgid "Key used for signing:"
 msgstr "Schlëssel fir z'ënnerschreiwen:"
 
 #: knewstuff/knewstuff2/core/security.cpp:365
-#: knewstuff/knewstuff3/core/security.cpp:365
+#: knewstuff/knewstuff3/core/security.cpp:376
 msgid ""
 "<qt>Cannot start <i>gpg</i> and sign the file. Make sure that <i>gpg</i> is "
 "installed, otherwise signing of the resources will not be possible.</qt>"
