@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-14 12:16+0200\n"
+"POT-Creation-Date: 2011-09-09 11:28+0200\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -850,6 +850,12 @@ msgstr "Feeler: %1"
 msgid "Error loading script %1"
 msgstr ""
 
+#: script/katescriptconsole.cpp:116
+#, fuzzy
+#| msgid "Execution"
+msgid "Execute"
+msgstr "Ausféierung"
+
 #: script/katescriptmanager.cpp:339 script/katescriptmanager.cpp:352
 #, fuzzy, kde-format
 msgid "Command not found: %1"
@@ -858,12 +864,6 @@ msgstr "Kommando gouf net fonnt"
 #: script/katescriptmanager.cpp:349
 msgid "Reload all JavaScript files (indenters, command line scripts, etc)."
 msgstr ""
-
-#: script/katescriptconsole.cpp:116
-#, fuzzy
-#| msgid "Execution"
-msgid "Execute"
-msgstr "Ausféierung"
 
 #: search/katesearchbar.cpp:76
 msgid "Add..."
@@ -1251,6 +1251,20 @@ msgstr ""
 msgctxt "@item:intable Text context"
 msgid "Error"
 msgstr "Feeler:"
+
+#: utils/kateautoindent.cpp:75
+#, fuzzy
+#| msgid "None"
+msgctxt "Autoindent mode"
+msgid "None"
+msgstr "Keen"
+
+#: utils/kateautoindent.cpp:78
+#, fuzzy
+#| msgid "Normal"
+msgctxt "Autoindent mode"
+msgid "Normal"
+msgstr "Normal"
 
 #: utils/katebookmarks.cpp:85
 msgid "Set &Bookmark"
@@ -1734,6 +1748,214 @@ msgstr ""
 msgid "Extensions Manager"
 msgstr "Plugin-Manager"
 
+#: utils/kateprinter.cpp:204
+msgid "(Selection of) "
+msgstr "(Auswal vun)"
+
+#: utils/kateprinter.cpp:486
+#, kde-format
+msgid "Typographical Conventions for %1"
+msgstr "Typographesch Konventioune fir %1"
+
+#: utils/kateprinter.cpp:516
+#, fuzzy
+#| msgid "Context"
+msgid "text"
+msgstr "Kontext"
+
+#: utils/kateprinter.cpp:640
+msgid "Te&xt Settings"
+msgstr "Te&xt-Astellungen"
+
+#: utils/kateprinter.cpp:647
+#, fuzzy
+#| msgid "Print &line numbers"
+msgid "Print line &numbers"
+msgstr "Zei&lennummeren drécken"
+
+#: utils/kateprinter.cpp:650
+#, fuzzy
+#| msgid "Print &line numbers"
+msgid "Print &legend"
+msgstr "Zei&lennummeren drécken"
+
+#: utils/kateprinter.cpp:662
+msgid ""
+"<p>If enabled, line numbers will be printed on the left side of the page(s)."
+"</p>"
+msgstr ""
+"<p>Wann se ugeschalt ass, ginn d'Zeilennummeren op de lénke Rand vun de "
+"Säiten gedréckt.</p>"
+
+#: utils/kateprinter.cpp:664
+#, fuzzy
+#| msgid ""
+#| "<p>Print a box displaying typographical conventions for the document "
+#| "type, as defined by the syntax highlighting being used."
+msgid ""
+"<p>Print a box displaying typographical conventions for the document type, "
+"as defined by the syntax highlighting being used.</p>"
+msgstr ""
+"<p>Dréckt eng Këscht déi d'typographesch Konventioune fir den Dokumenttyp "
+"uweist, wéi se vum aktuell benotzte Syntax-Ervirhiewungsmodus virgi ginn."
+
+#: utils/kateprinter.cpp:726
+msgid "Hea&der && Footer"
+msgstr "&Kapp- && Fousszeilen"
+
+#: utils/kateprinter.cpp:733
+msgid "Pr&int header"
+msgstr "Kappze&ilen drécken"
+
+#: utils/kateprinter.cpp:735
+msgid "Pri&nt footer"
+msgstr "Fousszeile&n drécken"
+
+#: utils/kateprinter.cpp:741
+msgid "Header/footer font:"
+msgstr "Schrëft fir Kapp-/Fousszeilen:"
+
+#: utils/kateprinter.cpp:746
+msgid "Choo&se Font..."
+msgstr "&Schrëft auswielen..."
+
+#: utils/kateprinter.cpp:752
+msgid "Header Properties"
+msgstr "Eegeschafte vun de Kappzeilen"
+
+#: utils/kateprinter.cpp:756
+msgid "&Format:"
+msgstr "&Format:"
+
+#: utils/kateprinter.cpp:767 utils/kateprinter.cpp:797
+msgid "Colors:"
+msgstr "Faarwen:"
+
+#: utils/kateprinter.cpp:773 utils/kateprinter.cpp:803
+msgid "Foreground:"
+msgstr "Virdergrond:"
+
+#: utils/kateprinter.cpp:776
+msgid "Bac&kground"
+msgstr "Hanner&grond"
+
+#: utils/kateprinter.cpp:780
+msgid "Footer Properties"
+msgstr "Eegeschafte vun de Fousszeilen"
+
+#: utils/kateprinter.cpp:785
+msgid "For&mat:"
+msgstr "For&mat:"
+
+#: utils/kateprinter.cpp:806
+msgid "&Background"
+msgstr "&Hannergrond"
+
+#: utils/kateprinter.cpp:833
+msgid "<p>Format of the page header. The following tags are supported:</p>"
+msgstr ""
+"<p>Format vun de Kappzeilen. Déi folgend Formatuweisunge ginn ënnerstëtzt:</"
+"p>"
+
+#: utils/kateprinter.cpp:835
+#, fuzzy
+#| msgid ""
+#| "<ul><li><tt>%u</tt>: current user name</li><li><tt>%d</tt>: complete date/"
+#| "time in short format</li><li><tt>%D</tt>: complete date/time in long "
+#| "format</li><li><tt>%h</tt>: current time</li><li><tt>%y</tt>: current "
+#| "date in short format</li><li><tt>%Y</tt>: current date in long format</"
+#| "li><li><tt>%f</tt>: file name</li><li><tt>%U</tt>: full URL of the "
+#| "document</li><li><tt>%p</tt>: page number</li></ul><br><u>Note:</u> Do "
+#| "<b>not</b> use the '|' (vertical bar) character."
+msgid ""
+"<ul><li><tt>%u</tt>: current user name</li><li><tt>%d</tt>: complete date/"
+"time in short format</li><li><tt>%D</tt>: complete date/time in long format</"
+"li><li><tt>%h</tt>: current time</li><li><tt>%y</tt>: current date in short "
+"format</li><li><tt>%Y</tt>: current date in long format</li><li><tt>%f</tt>: "
+"file name</li><li><tt>%U</tt>: full URL of the document</li><li><tt>%p</tt>: "
+"page number</li></ul><br />"
+msgstr ""
+"<ul><li><tt>%u</tt>: aktuellen Benotzernumm</li><li><tt>%d</tt>: kompletten "
+"Datum/Zäit am Kuerzformat</li><li><tt>%D</tt>: kompletten Datum/Zäit am "
+"Laangformat</li><li><tt>%h</tt>: aktuell Zäit</li><li><tt>%y</tt>: aktuellen "
+"Datum am Kuerzformat</li><li><tt>%Y</tt>: aktuellen Datum am Laangformat</"
+"li><li><tt>%f</tt>: Dateinumm</li><li><tt>%U</tt>: komplett URL vum "
+"Dokument</li><li><tt>%p</tt>: Säitennummer</li></ul><br><u>Opgepasst:</u> "
+"Benotzt <b>net</b> de vertikale Strich '|'."
+
+#: utils/kateprinter.cpp:848
+msgid "<p>Format of the page footer. The following tags are supported:</p>"
+msgstr ""
+"<p>Format vun de Fousszeilen. Déi folgend Formatuweisunge ginn ënnerstëtzt:</"
+"p>"
+
+#: utils/kateprinter.cpp:1029
+msgid "L&ayout"
+msgstr "L&ayout"
+
+#: utils/kateprinter.cpp:1035 utils/kateschema.cpp:863
+msgid "&Schema:"
+msgstr "&Schema:"
+
+#: utils/kateprinter.cpp:1040
+msgid "Draw bac&kground color"
+msgstr "Hanner&grondfaarf zeechnen"
+
+#: utils/kateprinter.cpp:1043
+msgid "Draw &boxes"
+msgstr "Rummen &zeechnen"
+
+#: utils/kateprinter.cpp:1047
+msgid "Box Properties"
+msgstr "Rumm-Eegenschafte"
+
+#: utils/kateprinter.cpp:1051
+msgid "W&idth:"
+msgstr "B&reet:"
+
+#: utils/kateprinter.cpp:1059
+msgid "&Margin:"
+msgstr "Ra&nd:"
+
+#: utils/kateprinter.cpp:1067
+msgid "Co&lor:"
+msgstr "Faar&f:"
+
+#: utils/kateprinter.cpp:1084
+msgid "Select the color scheme to use for the print."
+msgstr ""
+
+#: utils/kateprinter.cpp:1086
+msgid ""
+"<p>If enabled, the background color of the editor will be used.</p><p>This "
+"may be useful if your color scheme is designed for a dark background.</p>"
+msgstr ""
+"<p>Wann ugeschalt, gëtt d'Hannergrondfaarf vum Editor benotzt.</p><p>Dësst "
+"kann nëtzlech sinn, wann ärt Faarfschema fir en däischteren Hannergrond "
+"entworf gouf.</p>"
+
+#: utils/kateprinter.cpp:1089
+msgid ""
+"<p>If enabled, a box as defined in the properties below will be drawn around "
+"the contents of each page. The Header and Footer will be separated from the "
+"contents with a line as well.</p>"
+msgstr ""
+"<p>Wann ugeschalt, gëtt eng Rumm, wéi an den Eegeschafte ënnendrënner "
+"definéiert, ronderëm d'Inhalter vun all Säit gedréckt. D'Kapp- an "
+"d'Fousszeilen ginn och vun den Inhalter mat enger Linn getrennt.</p>"
+
+#: utils/kateprinter.cpp:1093
+msgid "The width of the box outline"
+msgstr "Breet vun der Kontur vun der Rumm"
+
+#: utils/kateprinter.cpp:1095
+msgid "The margin inside boxes, in pixels"
+msgstr "Rand an der Rumm (a Pixelen)"
+
+#: utils/kateprinter.cpp:1097
+msgid "The line color to use for boxes"
+msgstr "Linnefaarf vun der Rumm"
+
 #: utils/kateschema.cpp:207 view/kateviewhelpers.cpp:745
 msgid "Bookmark"
 msgstr "Lieszeechen"
@@ -1869,10 +2091,6 @@ msgstr ""
 #, kde-format
 msgid "Exporting colors for single highlighting: %1"
 msgstr ""
-
-#: utils/kateschema.cpp:863 utils/kateprinter.cpp:1035
-msgid "&Schema:"
-msgstr "&Schema:"
 
 #: utils/kateschema.cpp:870
 msgid "&New..."
@@ -2068,310 +2286,6 @@ msgstr ""
 #: utils/katestyletreewidget.cpp:607
 msgid "Kate Styles"
 msgstr "Kate-Stiler"
-
-#: utils/kateautoindent.cpp:75
-#, fuzzy
-#| msgid "None"
-msgctxt "Autoindent mode"
-msgid "None"
-msgstr "Keen"
-
-#: utils/kateautoindent.cpp:78
-#, fuzzy
-#| msgid "Normal"
-msgctxt "Autoindent mode"
-msgid "Normal"
-msgstr "Normal"
-
-#: utils/kateprinter.cpp:204
-msgid "(Selection of) "
-msgstr "(Auswal vun)"
-
-#: utils/kateprinter.cpp:486
-#, kde-format
-msgid "Typographical Conventions for %1"
-msgstr "Typographesch Konventioune fir %1"
-
-#: utils/kateprinter.cpp:516
-#, fuzzy
-#| msgid "Context"
-msgid "text"
-msgstr "Kontext"
-
-#: utils/kateprinter.cpp:640
-msgid "Te&xt Settings"
-msgstr "Te&xt-Astellungen"
-
-#: utils/kateprinter.cpp:647
-#, fuzzy
-#| msgid "Print &line numbers"
-msgid "Print line &numbers"
-msgstr "Zei&lennummeren drécken"
-
-#: utils/kateprinter.cpp:650
-#, fuzzy
-#| msgid "Print &line numbers"
-msgid "Print &legend"
-msgstr "Zei&lennummeren drécken"
-
-#: utils/kateprinter.cpp:662
-msgid ""
-"<p>If enabled, line numbers will be printed on the left side of the page(s)."
-"</p>"
-msgstr ""
-"<p>Wann se ugeschalt ass, ginn d'Zeilennummeren op de lénke Rand vun de "
-"Säiten gedréckt.</p>"
-
-#: utils/kateprinter.cpp:664
-#, fuzzy
-#| msgid ""
-#| "<p>Print a box displaying typographical conventions for the document "
-#| "type, as defined by the syntax highlighting being used."
-msgid ""
-"<p>Print a box displaying typographical conventions for the document type, "
-"as defined by the syntax highlighting being used.</p>"
-msgstr ""
-"<p>Dréckt eng Këscht déi d'typographesch Konventioune fir den Dokumenttyp "
-"uweist, wéi se vum aktuell benotzte Syntax-Ervirhiewungsmodus virgi ginn."
-
-#: utils/kateprinter.cpp:726
-msgid "Hea&der && Footer"
-msgstr "&Kapp- && Fousszeilen"
-
-#: utils/kateprinter.cpp:733
-msgid "Pr&int header"
-msgstr "Kappze&ilen drécken"
-
-#: utils/kateprinter.cpp:735
-msgid "Pri&nt footer"
-msgstr "Fousszeile&n drécken"
-
-#: utils/kateprinter.cpp:741
-msgid "Header/footer font:"
-msgstr "Schrëft fir Kapp-/Fousszeilen:"
-
-#: utils/kateprinter.cpp:746
-msgid "Choo&se Font..."
-msgstr "&Schrëft auswielen..."
-
-#: utils/kateprinter.cpp:752
-msgid "Header Properties"
-msgstr "Eegeschafte vun de Kappzeilen"
-
-#: utils/kateprinter.cpp:756
-msgid "&Format:"
-msgstr "&Format:"
-
-#: utils/kateprinter.cpp:767 utils/kateprinter.cpp:797
-msgid "Colors:"
-msgstr "Faarwen:"
-
-#: utils/kateprinter.cpp:773 utils/kateprinter.cpp:803
-msgid "Foreground:"
-msgstr "Virdergrond:"
-
-#: utils/kateprinter.cpp:776
-msgid "Bac&kground"
-msgstr "Hanner&grond"
-
-#: utils/kateprinter.cpp:780
-msgid "Footer Properties"
-msgstr "Eegeschafte vun de Fousszeilen"
-
-#: utils/kateprinter.cpp:785
-msgid "For&mat:"
-msgstr "For&mat:"
-
-#: utils/kateprinter.cpp:806
-msgid "&Background"
-msgstr "&Hannergrond"
-
-#: utils/kateprinter.cpp:833
-msgid "<p>Format of the page header. The following tags are supported:</p>"
-msgstr ""
-"<p>Format vun de Kappzeilen. Déi folgend Formatuweisunge ginn ënnerstëtzt:</"
-"p>"
-
-#: utils/kateprinter.cpp:835
-#, fuzzy
-#| msgid ""
-#| "<ul><li><tt>%u</tt>: current user name</li><li><tt>%d</tt>: complete date/"
-#| "time in short format</li><li><tt>%D</tt>: complete date/time in long "
-#| "format</li><li><tt>%h</tt>: current time</li><li><tt>%y</tt>: current "
-#| "date in short format</li><li><tt>%Y</tt>: current date in long format</"
-#| "li><li><tt>%f</tt>: file name</li><li><tt>%U</tt>: full URL of the "
-#| "document</li><li><tt>%p</tt>: page number</li></ul><br><u>Note:</u> Do "
-#| "<b>not</b> use the '|' (vertical bar) character."
-msgid ""
-"<ul><li><tt>%u</tt>: current user name</li><li><tt>%d</tt>: complete date/"
-"time in short format</li><li><tt>%D</tt>: complete date/time in long format</"
-"li><li><tt>%h</tt>: current time</li><li><tt>%y</tt>: current date in short "
-"format</li><li><tt>%Y</tt>: current date in long format</li><li><tt>%f</tt>: "
-"file name</li><li><tt>%U</tt>: full URL of the document</li><li><tt>%p</tt>: "
-"page number</li></ul><br />"
-msgstr ""
-"<ul><li><tt>%u</tt>: aktuellen Benotzernumm</li><li><tt>%d</tt>: kompletten "
-"Datum/Zäit am Kuerzformat</li><li><tt>%D</tt>: kompletten Datum/Zäit am "
-"Laangformat</li><li><tt>%h</tt>: aktuell Zäit</li><li><tt>%y</tt>: aktuellen "
-"Datum am Kuerzformat</li><li><tt>%Y</tt>: aktuellen Datum am Laangformat</"
-"li><li><tt>%f</tt>: Dateinumm</li><li><tt>%U</tt>: komplett URL vum "
-"Dokument</li><li><tt>%p</tt>: Säitennummer</li></ul><br><u>Opgepasst:</u> "
-"Benotzt <b>net</b> de vertikale Strich '|'."
-
-#: utils/kateprinter.cpp:848
-msgid "<p>Format of the page footer. The following tags are supported:</p>"
-msgstr ""
-"<p>Format vun de Fousszeilen. Déi folgend Formatuweisunge ginn ënnerstëtzt:</"
-"p>"
-
-#: utils/kateprinter.cpp:1029
-msgid "L&ayout"
-msgstr "L&ayout"
-
-#: utils/kateprinter.cpp:1040
-msgid "Draw bac&kground color"
-msgstr "Hanner&grondfaarf zeechnen"
-
-#: utils/kateprinter.cpp:1043
-msgid "Draw &boxes"
-msgstr "Rummen &zeechnen"
-
-#: utils/kateprinter.cpp:1047
-msgid "Box Properties"
-msgstr "Rumm-Eegenschafte"
-
-#: utils/kateprinter.cpp:1051
-msgid "W&idth:"
-msgstr "B&reet:"
-
-#: utils/kateprinter.cpp:1059
-msgid "&Margin:"
-msgstr "Ra&nd:"
-
-#: utils/kateprinter.cpp:1067
-msgid "Co&lor:"
-msgstr "Faar&f:"
-
-#: utils/kateprinter.cpp:1084
-msgid "Select the color scheme to use for the print."
-msgstr ""
-
-#: utils/kateprinter.cpp:1086
-msgid ""
-"<p>If enabled, the background color of the editor will be used.</p><p>This "
-"may be useful if your color scheme is designed for a dark background.</p>"
-msgstr ""
-"<p>Wann ugeschalt, gëtt d'Hannergrondfaarf vum Editor benotzt.</p><p>Dësst "
-"kann nëtzlech sinn, wann ärt Faarfschema fir en däischteren Hannergrond "
-"entworf gouf.</p>"
-
-#: utils/kateprinter.cpp:1089
-msgid ""
-"<p>If enabled, a box as defined in the properties below will be drawn around "
-"the contents of each page. The Header and Footer will be separated from the "
-"contents with a line as well.</p>"
-msgstr ""
-"<p>Wann ugeschalt, gëtt eng Rumm, wéi an den Eegeschafte ënnendrënner "
-"definéiert, ronderëm d'Inhalter vun all Säit gedréckt. D'Kapp- an "
-"d'Fousszeilen ginn och vun den Inhalter mat enger Linn getrennt.</p>"
-
-#: utils/kateprinter.cpp:1093
-msgid "The width of the box outline"
-msgstr "Breet vun der Kontur vun der Rumm"
-
-#: utils/kateprinter.cpp:1095
-msgid "The margin inside boxes, in pixels"
-msgstr "Rand an der Rumm (a Pixelen)"
-
-#: utils/kateprinter.cpp:1097
-msgid "The line color to use for boxes"
-msgstr "Linnefaarf vun der Rumm"
-
-#: view/kateviewaccessible.h:66
-msgid "Move To..."
-msgstr ""
-
-#: view/kateviewaccessible.h:67
-#, fuzzy
-#| msgid "Move Word Left"
-msgid "Move Left"
-msgstr "Wuert no lénks bewegen"
-
-#: view/kateviewaccessible.h:68
-#, fuzzy
-#| msgid "Move Word Right"
-msgid "Move Right"
-msgstr "Wuert no riets bewegen"
-
-#: view/kateviewaccessible.h:69
-#, fuzzy
-#| msgid "Join Lines"
-msgid "Move Up"
-msgstr "Zeilen zesummeféieren"
-
-#: view/kateviewaccessible.h:70
-msgid "Move Down"
-msgstr ""
-
-#: view/kateviewhelpers.cpp:361
-msgid "Available Commands"
-msgstr "Verfügbar Kommandoen"
-
-#: view/kateviewhelpers.cpp:363
-msgid ""
-"<p>For help on individual commands, do <code>'help &lt;command&gt;'</code></"
-"p>"
-msgstr ""
-
-#: view/kateviewhelpers.cpp:374
-#, kde-format
-msgid "No help for '%1'"
-msgstr "Keng Hëllef fir %1"
-
-#: view/kateviewhelpers.cpp:377
-#, kde-format
-msgid "No such command <b>%1</b>"
-msgstr "Et gëtt keen esou ee Kommando <b>%1</b>"
-
-#: view/kateviewhelpers.cpp:382
-msgid ""
-"<p>This is the Katepart <b>command line</b>.<br />Syntax: <code><b>command "
-"[ arguments ]</b></code><br />For a list of available commands, enter "
-"<code><b>help list</b></code><br />For help for individual commands, enter "
-"<code><b>help &lt;command&gt;</b></code></p>"
-msgstr ""
-
-#: view/kateviewhelpers.cpp:489
-#, kde-format
-msgid "Error: No range allowed for command \"%1\"."
-msgstr ""
-
-#: view/kateviewhelpers.cpp:505
-msgid "Success: "
-msgstr "Erfolleg:"
-
-#: view/kateviewhelpers.cpp:520
-#, kde-format
-msgid "Command \"%1\" failed."
-msgstr "De Kommando \"%1\" ass feelgeschloen."
-
-#: view/kateviewhelpers.cpp:526
-#, kde-format
-msgid "No such command: \"%1\""
-msgstr "Et gëtt keen esou ee Kommando: \"%1\""
-
-#: view/kateviewhelpers.cpp:1510 view/kateviewhelpers.cpp:1511
-#, kde-format
-msgid "Mark Type %1"
-msgstr "Markéierungstyp %1"
-
-#: view/kateviewhelpers.cpp:1530
-msgid "Set Default Mark Type"
-msgstr "Standard-Markéierungstyp festleeën"
-
-#: view/kateviewhelpers.cpp:1596
-msgid "Disable Annotation Bar"
-msgstr ""
 
 #: view/kateview.cpp:330
 msgid "Cut the selected text and move it to the clipboard"
@@ -3035,6 +2949,92 @@ msgstr "IWW"
 #| msgid " INS "
 msgid "INS"
 msgstr "AFÜG"
+
+#: view/kateviewaccessible.h:66
+msgid "Move To..."
+msgstr ""
+
+#: view/kateviewaccessible.h:67
+#, fuzzy
+#| msgid "Move Word Left"
+msgid "Move Left"
+msgstr "Wuert no lénks bewegen"
+
+#: view/kateviewaccessible.h:68
+#, fuzzy
+#| msgid "Move Word Right"
+msgid "Move Right"
+msgstr "Wuert no riets bewegen"
+
+#: view/kateviewaccessible.h:69
+#, fuzzy
+#| msgid "Join Lines"
+msgid "Move Up"
+msgstr "Zeilen zesummeféieren"
+
+#: view/kateviewaccessible.h:70
+msgid "Move Down"
+msgstr ""
+
+#: view/kateviewhelpers.cpp:361
+msgid "Available Commands"
+msgstr "Verfügbar Kommandoen"
+
+#: view/kateviewhelpers.cpp:363
+msgid ""
+"<p>For help on individual commands, do <code>'help &lt;command&gt;'</code></"
+"p>"
+msgstr ""
+
+#: view/kateviewhelpers.cpp:374
+#, kde-format
+msgid "No help for '%1'"
+msgstr "Keng Hëllef fir %1"
+
+#: view/kateviewhelpers.cpp:377
+#, kde-format
+msgid "No such command <b>%1</b>"
+msgstr "Et gëtt keen esou ee Kommando <b>%1</b>"
+
+#: view/kateviewhelpers.cpp:382
+msgid ""
+"<p>This is the Katepart <b>command line</b>.<br />Syntax: <code><b>command "
+"[ arguments ]</b></code><br />For a list of available commands, enter "
+"<code><b>help list</b></code><br />For help for individual commands, enter "
+"<code><b>help &lt;command&gt;</b></code></p>"
+msgstr ""
+
+#: view/kateviewhelpers.cpp:489
+#, kde-format
+msgid "Error: No range allowed for command \"%1\"."
+msgstr ""
+
+#: view/kateviewhelpers.cpp:505
+msgid "Success: "
+msgstr "Erfolleg:"
+
+#: view/kateviewhelpers.cpp:520
+#, kde-format
+msgid "Command \"%1\" failed."
+msgstr "De Kommando \"%1\" ass feelgeschloen."
+
+#: view/kateviewhelpers.cpp:526
+#, kde-format
+msgid "No such command: \"%1\""
+msgstr "Et gëtt keen esou ee Kommando: \"%1\""
+
+#: view/kateviewhelpers.cpp:1510 view/kateviewhelpers.cpp:1511
+#, kde-format
+msgid "Mark Type %1"
+msgstr "Markéierungstyp %1"
+
+#: view/kateviewhelpers.cpp:1530
+msgid "Set Default Mark Type"
+msgstr "Standard-Markéierungstyp festleeën"
+
+#: view/kateviewhelpers.cpp:1596
+msgid "Disable Annotation Bar"
+msgstr ""
 
 #: vimode/katevimodebar.cpp:125
 msgid "VI: INSERT MODE"
