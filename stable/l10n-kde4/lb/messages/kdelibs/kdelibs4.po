@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-09-21 10:43+0200\n"
+"POT-Creation-Date: 2011-09-26 11:12+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -10355,13 +10355,13 @@ msgstr ""
 msgid "XML decimal entity:"
 msgstr ""
 
-#: kdeui/widgets/kcharselect.cpp:876
+#: kdeui/widgets/kcharselect.cpp:875
 #, fuzzy
 #| msgid "&Unicode code point:"
 msgid "Unicode code point:"
 msgstr "&Unicode Codepunkt:"
 
-#: kdeui/widgets/kcharselect.cpp:877
+#: kdeui/widgets/kcharselect.cpp:876
 msgctxt "Character"
 msgid "In decimal:"
 msgstr ""
