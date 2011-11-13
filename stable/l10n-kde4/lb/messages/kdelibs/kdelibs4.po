@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-11-11 12:20+0100\n"
+"POT-Creation-Date: 2011-11-13 10:49+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -11400,21 +11400,6 @@ msgstr "Toolbaren"
 msgid "No text"
 msgstr "Keen Text!"
 
-#: kdeui/ksecretsservice/dbusbackend.cpp:130
-#, fuzzy
-#| msgid "Cannot create backup file (permission denied)."
-msgid "Cannot create DL Group for dbus session open"
-msgstr "Konnt d'Sëcherungsdatei net erstellen (Zougrëff net erlaabt)."
-
-#: kdeui/ksecretsservice/dbusbackend.cpp:152
-#, kde-format
-msgid "ERROR when trying to bind to %1 daemon. Check dbus configuration."
-msgstr ""
-
-#: kdeui/ksecretsservice/dbusbackend.cpp:184
-msgid "OK"
-msgstr "OK"
-
 #: kdeui/ksecretsservice/ksecretsservicecollectionjobs.cpp:127
 msgid "Cannot start collection unlocking"
 msgstr ""
@@ -11503,6 +11488,21 @@ msgstr ""
 #, kde-format
 msgid "ERROR instantiating prompt with path '%1'"
 msgstr ""
+
+#: kdeui/ksecretsservice/dbusbackend.cpp:135
+#, fuzzy
+#| msgid "Cannot create backup file (permission denied)."
+msgid "Cannot create DL Group for dbus session open"
+msgstr "Konnt d'Sëcherungsdatei net erstellen (Zougrëff net erlaabt)."
+
+#: kdeui/ksecretsservice/dbusbackend.cpp:157
+#, kde-format
+msgid "ERROR when trying to bind to %1 daemon. Check dbus configuration."
+msgstr ""
+
+#: kdeui/ksecretsservice/dbusbackend.cpp:189
+msgid "OK"
+msgstr "OK"
 
 #: kdewebkit/kwebpage.cpp:126 khtml/khtml_ext.cpp:879
 msgid "Overwrite File?"
