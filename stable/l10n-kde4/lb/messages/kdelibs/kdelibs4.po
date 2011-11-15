@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-11-14 11:03+0100\n"
+"POT-Creation-Date: 2011-11-15 17:43+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2871,15 +2871,15 @@ msgstr ""
 "Ze vill falsch geschriwwe Wierder. D'automatësch Rechtschreifkontroll ass "
 "ausgeschalt ginn."
 
-#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:495
+#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:493
 msgid "Check Spelling..."
 msgstr "Rechtschreifkontroll..."
 
-#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:498
+#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:496
 msgid "Auto Spell Check"
 msgstr "Automatësch Kontroll"
 
-#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:502
+#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:500
 msgid "Allow Tabulations"
 msgstr "Tabellarësch Unuerdnung zouloossen"
 
@@ -10842,6 +10842,37 @@ msgstr "Net als sëcher agestuft"
 msgid "without name"
 msgstr "Neien Numm fir den Host"
 
+#: kdeui/widgets/ktextedit.cpp:527
+#, fuzzy
+#| msgid "Please enter &name:"
+msgid "Speak Text"
+msgstr "Gitt w.e.g. den &Numm an:"
+
+#: kdeui/widgets/ktextedit.cpp:542
+msgid "Starting Jovie Text-to-Speech Service Failed"
+msgstr ""
+
+#: kdeui/widgets/ktextedit.cpp:631
+#, fuzzy, kde-format
+#| msgid "Suggestion List"
+msgid "No suggestions for %1"
+msgstr "Lëscht mat Beispiller"
+
+#: kdeui/widgets/ktextedit.cpp:642
+msgid "Ignore"
+msgstr "Ignoréieren"
+
+#: kdeui/widgets/ktextedit.cpp:643
+#, fuzzy
+#| msgid "<< Add to Dictionary"
+msgid "Add to Dictionary"
+msgstr "<< An d'Wierderbuch Dobäischreiwen"
+
+#: kdeui/widgets/ktextedit.cpp:788
+#, fuzzy
+msgid "Nothing to spell check."
+msgstr "Kee Provider gewielt."
+
 #: kdeui/widgets/kpixmapregionselectorwidget.cpp:195
 msgid "Image Operations"
 msgstr "Bildmodifikatioun"
@@ -11105,37 +11136,6 @@ msgstr ""
 msgctxt "@info"
 msgid "Time cannot be later than %1"
 msgstr ""
-
-#: kdeui/widgets/ktextedit.cpp:526
-#, fuzzy
-#| msgid "Please enter &name:"
-msgid "Speak Text"
-msgstr "Gitt w.e.g. den &Numm an:"
-
-#: kdeui/widgets/ktextedit.cpp:541
-msgid "Starting Jovie Text-to-Speech Service Failed"
-msgstr ""
-
-#: kdeui/widgets/ktextedit.cpp:630
-#, fuzzy, kde-format
-#| msgid "Suggestion List"
-msgid "No suggestions for %1"
-msgstr "Lëscht mat Beispiller"
-
-#: kdeui/widgets/ktextedit.cpp:641
-msgid "Ignore"
-msgstr "Ignoréieren"
-
-#: kdeui/widgets/ktextedit.cpp:642
-#, fuzzy
-#| msgid "<< Add to Dictionary"
-msgid "Add to Dictionary"
-msgstr "<< An d'Wierderbuch Dobäischreiwen"
-
-#: kdeui/widgets/ktextedit.cpp:787
-#, fuzzy
-msgid "Nothing to spell check."
-msgstr "Kee Provider gewielt."
 
 #: kdeui/widgets/ktimezonewidget.cpp:66
 #, fuzzy
@@ -11504,10 +11504,6 @@ msgstr "Configuratioun"
 msgid "Unlock operation returned unexpected result"
 msgstr ""
 
-#: kdewebkit/kwebpage.cpp:126 khtml/khtml_ext.cpp:879
-msgid "Overwrite File?"
-msgstr "Datei iwwerschreiwen?"
-
 #: kdewidgets/makekdewidgets.cpp:84
 msgid "Builds Qt widget plugins from an ini style description file."
 msgstr ""
@@ -11680,6 +11676,10 @@ msgid ""
 msgstr ""
 "Eng Datei mam Numm \"%1\" gëtt et schonn. Sidd dir sëcher, dass dir se "
 "iwwerschreiwe wëllt?"
+
+#: khtml/khtml_ext.cpp:879
+msgid "Overwrite File?"
+msgstr "Datei iwwerschreiwen?"
 
 #: khtml/khtml_ext.cpp:879
 msgid "Overwrite"
