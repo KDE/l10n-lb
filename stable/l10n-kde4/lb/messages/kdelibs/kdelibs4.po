@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-12-09 11:08+0100\n"
+"POT-Creation-Date: 2011-12-10 10:51+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -5837,17 +5837,6 @@ msgctxt "Encodings menu"
 msgid "Autodetect"
 msgstr "Automatësch Verbesserung"
 
-#: kdeui/actions/krecentfilesaction.cpp:80
-#, fuzzy
-msgid "No Entries"
-msgstr "Eegeschaften"
-
-#: kdeui/actions/krecentfilesaction.cpp:84
-#, fuzzy
-#| msgid "Clear input"
-msgid "Clear List"
-msgstr "Input-Feld eidelmaachen"
-
 #: kdeui/actions/kstandardaction.cpp:93 kdeui/util/kstandardguiitem.cpp:210
 msgctxt "go back"
 msgid "&Back"
@@ -5935,6 +5924,17 @@ msgstr ""
 #| msgid "Ambiguous \"%1\" not handled"
 msgid "Ambiguous shortcut detected"
 msgstr "Méideideg \"%1\" net verschafft"
+
+#: kdeui/actions/krecentfilesaction.cpp:81
+#, fuzzy
+msgid "No Entries"
+msgstr "Eegeschaften"
+
+#: kdeui/actions/krecentfilesaction.cpp:85
+#, fuzzy
+#| msgid "Clear input"
+msgid "Clear List"
+msgstr "Input-Feld eidelmaachen"
 
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:84
 #, fuzzy
