@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-12-18 11:35+0100\n"
+"POT-Creation-Date: 2011-12-20 18:04+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -7993,24 +7993,24 @@ msgid "Minimize"
 msgstr "Kleng maachen"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:215
-#: kdeui/notifications/kstatusnotifieritem.cpp:487
-#: kdeui/notifications/kstatusnotifieritem.cpp:925
+#: kdeui/notifications/kstatusnotifieritem.cpp:488
+#: kdeui/notifications/kstatusnotifieritem.cpp:926
 msgid "&Minimize"
 msgstr "&Grouss maachen"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:219
-#: kdeui/notifications/kstatusnotifieritem.cpp:923
+#: kdeui/notifications/kstatusnotifieritem.cpp:924
 msgid "&Restore"
 msgstr "Zeréck&setzen"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:239
-#: kdeui/notifications/kstatusnotifieritem.cpp:933
+#: kdeui/notifications/kstatusnotifieritem.cpp:934
 #, kde-format
 msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgstr "<qt>Sidd dir sëcher, dass dir <b>%1</b> zoumaache wëllt ?</qt>"
 
 #: kdeui/notifications/ksystemtrayicon.cpp:242
-#: kdeui/notifications/kstatusnotifieritem.cpp:936
+#: kdeui/notifications/kstatusnotifieritem.cpp:937
 msgid "Confirm Quit From System Tray"
 msgstr "Aus dem Systemberäich erausgoen"
 
@@ -14568,19 +14568,6 @@ msgstr "Configuratioun"
 msgid "Invalid type in Database"
 msgstr "Ongülteg Basis fir d'Referenz"
 
-#: nepomuk/query/query.cpp:696
-#, kde-format
-msgctxt ""
-"@title UDS_DISPLAY_NAME for a KIO directory listing. %1 is the query the "
-"user entered."
-msgid "Query Results from '%1'"
-msgstr ""
-
-#: nepomuk/query/query.cpp:702
-msgctxt "@title UDS_DISPLAY_NAME for a KIO directory listing."
-msgid "Query Results"
-msgstr ""
-
 #: nepomuk/query/queryparser.cpp:461
 #, fuzzy
 #| msgid "Esfand"
@@ -14602,6 +14589,19 @@ msgctxt ""
 "keyword."
 msgid "or"
 msgstr "Mor"
+
+#: nepomuk/query/query.cpp:696
+#, kde-format
+msgctxt ""
+"@title UDS_DISPLAY_NAME for a KIO directory listing. %1 is the query the "
+"user entered."
+msgid "Query Results from '%1'"
+msgstr ""
+
+#: nepomuk/query/query.cpp:702
+msgctxt "@title UDS_DISPLAY_NAME for a KIO directory listing."
+msgid "Query Results"
+msgstr ""
 
 #: nepomuk/rcgen/rcgen.cpp:49 nepomuk/rcgen/rcgen.cpp:51
 msgid "Nepomuk Resource Class Generator"
@@ -14820,7 +14820,7 @@ msgctxt "@option:check A filter on file type - media video"
 msgid "Video"
 msgstr "Video"
 
-#: nepomuk/utils/facet.cpp:143 nepomuk/utils/typefacet.cpp:74
+#: nepomuk/utils/facet.cpp:143 nepomuk/utils/typefacet.cpp:73
 #, fuzzy
 #| msgid "Pager"
 msgctxt "@option:check A filter on file type"
@@ -14994,42 +14994,42 @@ msgstr "Benotzerdefinéiert..."
 msgid "Enter Search Terms..."
 msgstr "Sicht am Internet"
 
-#: nepomuk/utils/typefacet.cpp:81
+#: nepomuk/utils/typefacet.cpp:80
 #, fuzzy
 #| msgid "&Contents"
 msgctxt "@option:check A filter on resource type"
 msgid "Contacts"
 msgstr "I&nhalt"
 
-#: nepomuk/utils/typefacet.cpp:83
+#: nepomuk/utils/typefacet.cpp:82
 #, fuzzy
 #| msgid "Email"
 msgctxt "@option:check A filter on resource type"
 msgid "Emails"
 msgstr "E-Mail"
 
-#: nepomuk/utils/typefacet.cpp:85
+#: nepomuk/utils/typefacet.cpp:84
 #, fuzzy
 #| msgid "Task"
 msgctxt "@option:check A filter on resource type"
 msgid "Tasks"
 msgstr "Aufgab"
 
-#: nepomuk/utils/typefacet.cpp:87
+#: nepomuk/utils/typefacet.cpp:86
 #, fuzzy
 #| msgid "Task"
 msgctxt "@option:check A filter on resource type"
 msgid "Tags"
 msgstr "Aufgab"
 
-#: nepomuk/utils/typefacet.cpp:221 nepomuk/utils/typefacet.cpp:230
+#: nepomuk/utils/typefacet.cpp:220 nepomuk/utils/typefacet.cpp:229
 #, fuzzy
 #| msgid "File"
 msgctxt "@option:check Do filter on type - show only files"
 msgid "Files"
 msgstr "Datei"
 
-#: nepomuk/utils/typefacet.cpp:223 nepomuk/utils/typefacet.cpp:232
+#: nepomuk/utils/typefacet.cpp:222 nepomuk/utils/typefacet.cpp:231
 #, fuzzy
 #| msgid "Other"
 msgctxt "@option:check Do filter on type - show everything but files"
