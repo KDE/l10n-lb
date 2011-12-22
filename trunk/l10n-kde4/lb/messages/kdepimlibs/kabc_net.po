@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kabc_net\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-12-21 04:45+0100\n"
+"POT-Creation-Date: 2011-12-22 04:47+0100\n"
 "PO-Revision-Date: 2006-05-01 21:12+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -14,6 +14,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.2\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: resourcenetconfig.cpp:43
+msgid "Format:"
+msgstr "Format:"
+
+#: resourcenetconfig.cpp:48
+msgid "Location:"
+msgstr "Adress:"
 
 #: resourcenet.cpp:146
 #, kde-format
@@ -49,14 +57,6 @@ msgstr ""
 #, kde-format
 msgid "Problems during parsing file '%1'."
 msgstr "Et goufe Problemer beim Analyséiere vun der Datei '%1'."
-
-#: resourcenetconfig.cpp:43
-msgid "Format:"
-msgstr "Format:"
-
-#: resourcenetconfig.cpp:48
-msgid "Location:"
-msgstr "Adress:"
 
 #~ msgid "Download failed in some way!"
 #~ msgstr "D'Eroflueden ass op iergend eng Art a Weis feelgeschloen !"

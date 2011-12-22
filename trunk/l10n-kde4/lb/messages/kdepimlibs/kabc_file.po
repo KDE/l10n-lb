@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kabc_file\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-12-21 04:45+0100\n"
+"POT-Creation-Date: 2011-12-22 04:47+0100\n"
 "PO-Revision-Date: 2005-12-04 23:07+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -14,6 +14,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: resourcefileconfig.cpp:46
+msgid "Format:"
+msgstr "Format:"
+
+#: resourcefileconfig.cpp:51
+msgid "Location:"
+msgstr "Adress:"
 
 #: resourcefile.cpp:211
 #, kde-format
@@ -30,14 +38,6 @@ msgstr "Et goufe Problemer beim Analyséieren vun der Datei '%1'"
 #, kde-format
 msgid "Unable to save file '%1'."
 msgstr "D'Datei '%1' konnt net gespäichert ginn."
-
-#: resourcefileconfig.cpp:46
-msgid "Format:"
-msgstr "Format:"
-
-#: resourcefileconfig.cpp:51
-msgid "Location:"
-msgstr "Adress:"
 
 #~ msgid "Download failed in some way!"
 #~ msgstr "D'Eroflueden ass op iergend eng Art a Weis feelgeschloen !"
