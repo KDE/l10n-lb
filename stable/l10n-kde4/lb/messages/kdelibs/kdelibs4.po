@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-12-20 18:04+0100\n"
+"POT-Creation-Date: 2011-12-22 13:28+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -14802,95 +14802,6 @@ msgctxt ""
 msgid "More..."
 msgstr "Méi..."
 
-#: nepomuk/utils/facet.cpp:132 nepomuk/utils/typefacet.cpp:64
-#, fuzzy
-msgctxt "@option:check A filter on file type"
-msgid "Documents"
-msgstr "Lautstäerkt erop"
-
-#: nepomuk/utils/facet.cpp:136 nepomuk/utils/typefacet.cpp:68
-msgctxt "@option:check A filter on file type - audio files"
-msgid "Audio"
-msgstr ""
-
-#: nepomuk/utils/facet.cpp:139 nepomuk/utils/typefacet.cpp:70
-#, fuzzy
-#| msgid "Video"
-msgctxt "@option:check A filter on file type - media video"
-msgid "Video"
-msgstr "Video"
-
-#: nepomuk/utils/facet.cpp:143 nepomuk/utils/typefacet.cpp:73
-#, fuzzy
-#| msgid "Pager"
-msgctxt "@option:check A filter on file type"
-msgid "Images"
-msgstr "Pager"
-
-#: nepomuk/utils/facet.cpp:179
-#, fuzzy
-#| msgid "no error"
-msgctxt ""
-"@option:radio A filter on prioritizing/sorting a selection of resources"
-msgid "No priority"
-msgstr "ouni Feeler"
-
-#: nepomuk/utils/facet.cpp:180
-#, fuzzy
-#| msgid "Last modified:"
-msgctxt ""
-"@option:radio A filter on prioritizing/sorting a selection of resources"
-msgid "Last modified"
-msgstr "Als Lescht geännert:"
-
-#: nepomuk/utils/facet.cpp:181
-msgctxt ""
-"@option:radio A filter on prioritizing/sorting a selection of resources"
-msgid "Most important"
-msgstr ""
-
-#: nepomuk/utils/facet.cpp:182
-#, fuzzy
-#| msgid "File opened."
-msgctxt ""
-"@option:radio A filter on prioritizing/sorting a selection of resources"
-msgid "Never opened"
-msgstr "Datei opgemaach."
-
-#: nepomuk/utils/facet.cpp:192
-#, fuzzy
-#| msgid "Rating"
-msgctxt "@option:radio A filter on the rating of a resource"
-msgid "Any Rating"
-msgstr "Bewertung"
-
-#: nepomuk/utils/facet.cpp:193
-msgctxt "@option:radio A filter on the rating of a resource"
-msgid "1 or more"
-msgstr ""
-
-#: nepomuk/utils/facet.cpp:194
-msgctxt "@option:radio A filter on the rating of a resource"
-msgid "2 or more"
-msgstr ""
-
-#: nepomuk/utils/facet.cpp:195
-msgctxt "@option:radio A filter on the rating of a resource"
-msgid "3 or more"
-msgstr ""
-
-#: nepomuk/utils/facet.cpp:196
-msgctxt "@option:radio A filter on the rating of a resource"
-msgid "4 or more"
-msgstr ""
-
-#: nepomuk/utils/facet.cpp:197
-#, fuzzy
-#| msgid "Rating"
-msgctxt "@option:radio A filter on the rating of a resource"
-msgid "Max Rating"
-msgstr "Bewertung"
-
 #: nepomuk/utils/resourcemodel.cpp:149
 #, fuzzy
 #| msgctxt "QFont"
@@ -14994,6 +14905,31 @@ msgstr "Benotzerdefinéiert..."
 msgid "Enter Search Terms..."
 msgstr "Sicht am Internet"
 
+#: nepomuk/utils/typefacet.cpp:64 nepomuk/utils/facet.cpp:132
+#, fuzzy
+msgctxt "@option:check A filter on file type"
+msgid "Documents"
+msgstr "Lautstäerkt erop"
+
+#: nepomuk/utils/typefacet.cpp:68 nepomuk/utils/facet.cpp:136
+msgctxt "@option:check A filter on file type - audio files"
+msgid "Audio"
+msgstr ""
+
+#: nepomuk/utils/typefacet.cpp:70 nepomuk/utils/facet.cpp:138
+#, fuzzy
+#| msgid "Video"
+msgctxt "@option:check A filter on file type - media video"
+msgid "Video"
+msgstr "Video"
+
+#: nepomuk/utils/typefacet.cpp:73 nepomuk/utils/facet.cpp:141
+#, fuzzy
+#| msgid "Pager"
+msgctxt "@option:check A filter on file type"
+msgid "Images"
+msgstr "Pager"
+
 #: nepomuk/utils/typefacet.cpp:80
 #, fuzzy
 #| msgid "&Contents"
@@ -15035,6 +14971,70 @@ msgstr "Datei"
 msgctxt "@option:check Do filter on type - show everything but files"
 msgid "Other"
 msgstr "Aner"
+
+#: nepomuk/utils/facet.cpp:177
+#, fuzzy
+#| msgid "no error"
+msgctxt ""
+"@option:radio A filter on prioritizing/sorting a selection of resources"
+msgid "No priority"
+msgstr "ouni Feeler"
+
+#: nepomuk/utils/facet.cpp:178
+#, fuzzy
+#| msgid "Last modified:"
+msgctxt ""
+"@option:radio A filter on prioritizing/sorting a selection of resources"
+msgid "Last modified"
+msgstr "Als Lescht geännert:"
+
+#: nepomuk/utils/facet.cpp:179
+msgctxt ""
+"@option:radio A filter on prioritizing/sorting a selection of resources"
+msgid "Most important"
+msgstr ""
+
+#: nepomuk/utils/facet.cpp:180
+#, fuzzy
+#| msgid "File opened."
+msgctxt ""
+"@option:radio A filter on prioritizing/sorting a selection of resources"
+msgid "Never opened"
+msgstr "Datei opgemaach."
+
+#: nepomuk/utils/facet.cpp:190
+#, fuzzy
+#| msgid "Rating"
+msgctxt "@option:radio A filter on the rating of a resource"
+msgid "Any Rating"
+msgstr "Bewertung"
+
+#: nepomuk/utils/facet.cpp:191
+msgctxt "@option:radio A filter on the rating of a resource"
+msgid "1 or more"
+msgstr ""
+
+#: nepomuk/utils/facet.cpp:192
+msgctxt "@option:radio A filter on the rating of a resource"
+msgid "2 or more"
+msgstr ""
+
+#: nepomuk/utils/facet.cpp:193
+msgctxt "@option:radio A filter on the rating of a resource"
+msgid "3 or more"
+msgstr ""
+
+#: nepomuk/utils/facet.cpp:194
+msgctxt "@option:radio A filter on the rating of a resource"
+msgid "4 or more"
+msgstr ""
+
+#: nepomuk/utils/facet.cpp:195
+#, fuzzy
+#| msgid "Rating"
+msgctxt "@option:radio A filter on the rating of a resource"
+msgid "Max Rating"
+msgstr "Bewertung"
 
 #: kdeui/colors/kcolorcombo.cpp:352
 #, fuzzy
