@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-01-29 03:03+0100\n"
+"POT-Creation-Date: 2012-02-08 04:46+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -5350,7 +5350,7 @@ msgid "Connection timed out"
 msgstr "D'Verbindungszäit ass iwwerschratt ginn"
 
 #: kdecore/network/klocalsocket_unix.cpp:213
-#: kdecore/network/klocalsocket_unix.cpp:293 nepomuk/core/resource.cpp:539
+#: kdecore/network/klocalsocket_unix.cpp:293 nepomuk/core/resource.cpp:538
 #, fuzzy
 #| msgctxt "QFile"
 #| msgid "Unknown error"
@@ -14546,16 +14546,16 @@ msgstr "Komponenten auswielen"
 msgid "Enable component"
 msgstr "Abettungsfäheg HTML-Komponent"
 
-#: nepomuk/core/resource.cpp:533
+#: nepomuk/core/resource.cpp:532
 msgid "Success"
 msgstr ""
 
-#: nepomuk/core/resource.cpp:535
+#: nepomuk/core/resource.cpp:534
 #, fuzzy
 msgid "Communication error"
 msgstr "Configuratioun"
 
-#: nepomuk/core/resource.cpp:537
+#: nepomuk/core/resource.cpp:536
 #, fuzzy
 #| msgid "Invalid reference base"
 msgid "Invalid type in Database"
