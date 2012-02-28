@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-02-24 11:23+0100\n"
+"POT-Creation-Date: 2012-02-28 17:39+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -8662,12 +8662,6 @@ msgstr ""
 msgid "Conflict With Registered Global Shortcut"
 msgstr "Konflikt mat allgemengem Kierzel"
 
-#: kdeui/sonnet/configdialog.cpp:51
-#, fuzzy
-#| msgid "Resource Configuration"
-msgid "Spell Checking Configuration"
-msgstr "Ressource-Configuratioun"
-
 #: kdeui/sonnet/dialog.cpp:103 kdeui/sonnet/dialog.cpp:224
 #: kdeui/sonnet/dialog.cpp:445
 #, fuzzy
@@ -8707,6 +8701,12 @@ msgstr "Rechtschreifkontroll"
 #| msgid "Spell Checker"
 msgid "Spell check complete."
 msgstr "Rechtschreifkontroll"
+
+#: kdeui/sonnet/configdialog.cpp:51
+#, fuzzy
+#| msgid "Resource Configuration"
+msgid "Spell Checking Configuration"
+msgstr "Ressource-Configuratioun"
 
 #: kdeui/util/kcompletion.cpp:693
 msgid ""
@@ -10805,6 +10805,37 @@ msgstr "Net als sëcher agestuft"
 msgid "without name"
 msgstr "Neien Numm fir den Host"
 
+#: kdeui/widgets/ktextedit.cpp:527
+#, fuzzy
+#| msgid "Please enter &name:"
+msgid "Speak Text"
+msgstr "Gitt w.e.g. den &Numm an:"
+
+#: kdeui/widgets/ktextedit.cpp:542
+msgid "Starting Jovie Text-to-Speech Service Failed"
+msgstr ""
+
+#: kdeui/widgets/ktextedit.cpp:631
+#, fuzzy, kde-format
+#| msgid "Suggestion List"
+msgid "No suggestions for %1"
+msgstr "Lëscht mat Beispiller"
+
+#: kdeui/widgets/ktextedit.cpp:642
+msgid "Ignore"
+msgstr "Ignoréieren"
+
+#: kdeui/widgets/ktextedit.cpp:643
+#, fuzzy
+#| msgid "<< Add to Dictionary"
+msgid "Add to Dictionary"
+msgstr "<< An d'Wierderbuch Dobäischreiwen"
+
+#: kdeui/widgets/ktextedit.cpp:788
+#, fuzzy
+msgid "Nothing to spell check."
+msgstr "Kee Provider gewielt."
+
 #: kdeui/widgets/kpixmapregionselectorwidget.cpp:195
 msgid "Image Operations"
 msgstr "Bildmodifikatioun"
@@ -11051,37 +11082,6 @@ msgstr "&Handschrëft"
 #| msgid "&Copy Text"
 msgid "&Copy Full Text"
 msgstr "Text &kopéieren"
-
-#: kdeui/widgets/ktextedit.cpp:527
-#, fuzzy
-#| msgid "Please enter &name:"
-msgid "Speak Text"
-msgstr "Gitt w.e.g. den &Numm an:"
-
-#: kdeui/widgets/ktextedit.cpp:542
-msgid "Starting Jovie Text-to-Speech Service Failed"
-msgstr ""
-
-#: kdeui/widgets/ktextedit.cpp:631
-#, fuzzy, kde-format
-#| msgid "Suggestion List"
-msgid "No suggestions for %1"
-msgstr "Lëscht mat Beispiller"
-
-#: kdeui/widgets/ktextedit.cpp:642
-msgid "Ignore"
-msgstr "Ignoréieren"
-
-#: kdeui/widgets/ktextedit.cpp:643
-#, fuzzy
-#| msgid "<< Add to Dictionary"
-msgid "Add to Dictionary"
-msgstr "<< An d'Wierderbuch Dobäischreiwen"
-
-#: kdeui/widgets/ktextedit.cpp:788
-#, fuzzy
-msgid "Nothing to spell check."
-msgstr "Kee Provider gewielt."
 
 #: kdeui/widgets/ktimecombobox.cpp:259
 msgctxt "@info"
