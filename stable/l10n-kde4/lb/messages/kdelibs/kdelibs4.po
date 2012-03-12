@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-03-01 11:26+0100\n"
+"POT-Creation-Date: 2012-03-12 11:15+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -11559,6 +11559,14 @@ msgstr "Bild - %1x%2 Pixelen"
 msgid "Done."
 msgstr "Fäerdeg."
 
+#: khtml/test_regression_gui_main.cpp:34
+msgid "TestRegressionGui"
+msgstr ""
+
+#: khtml/test_regression_gui_main.cpp:35
+msgid "GUI for the khtml regression tester"
+msgstr ""
+
 #: khtml/khtml_ext.cpp:418
 msgid "&Copy Text"
 msgstr "Text &kopéieren"
@@ -11723,14 +11731,6 @@ msgstr ""
 #, no-c-format
 msgid "Default Font Size (100%)"
 msgstr "Standard-Schrëftgréisst (100%)"
-
-#: khtml/test_regression_gui_main.cpp:34
-msgid "TestRegressionGui"
-msgstr ""
-
-#: khtml/test_regression_gui_main.cpp:35
-msgid "GUI for the khtml regression tester"
-msgstr ""
 
 #: khtml/khtml_part.cpp:251
 msgid "View Do&cument Source"
@@ -12234,11 +12234,11 @@ msgstr "Passiv &Norichtefënster bei blockéierte Popup-Fënsteren uweisen"
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "JavaScript fir Fënsteren nei opzemaache &configuréieren..."
 
-#: khtml/khtml_settings.cpp:235
+#: khtml/khtml_settings.cpp:235 kparts/htmlextension.cpp:117
 msgid "Accept"
 msgstr "Unhuelen"
 
-#: khtml/khtml_settings.cpp:236
+#: khtml/khtml_settings.cpp:236 kparts/htmlextension.cpp:119
 msgid "Reject"
 msgstr "Zeréckweisen"
 
