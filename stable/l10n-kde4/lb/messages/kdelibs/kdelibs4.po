@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-03-12 11:15+0100\n"
+"POT-Creation-Date: 2012-03-13 18:28+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -12673,7 +12673,7 @@ msgstr[1] "Dateie &verschécken"
 msgid "Key Generator"
 msgstr "Allgemeng"
 
-#: khtml/html/html_objectimpl.cpp:610
+#: khtml/html/html_objectimpl.cpp:608
 #, kde-format
 msgid ""
 "No plugin found for '%1'.\n"
@@ -12682,15 +12682,15 @@ msgstr ""
 "Kee Plugin fir '%1' fonnt.\n"
 "Wëllt dir op %2 een eroflueden?"
 
-#: khtml/html/html_objectimpl.cpp:611
+#: khtml/html/html_objectimpl.cpp:609
 msgid "Missing Plugin"
 msgstr "Plugin feelt"
 
-#: khtml/html/html_objectimpl.cpp:611
+#: khtml/html/html_objectimpl.cpp:609
 msgid "Download"
 msgstr "Eroflueden"
 
-#: khtml/html/html_objectimpl.cpp:611
+#: khtml/html/html_objectimpl.cpp:609
 msgid "Do Not Download"
 msgstr "Net eroflueden"
 
