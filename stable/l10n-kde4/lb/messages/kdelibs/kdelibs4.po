@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-03-27 19:25+0200\n"
+"POT-Creation-Date: 2012-04-03 18:40+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -5448,69 +5448,69 @@ msgstr "Feeler am System: %1"
 msgid "request was canceled"
 msgstr "D'Ufro ass ofgebrach ginn"
 
-#: kdecore/network/ktcpsocket.cpp:152
+#: kdecore/network/ktcpsocket.cpp:161
 #, fuzzy
 #| msgid "no error"
 msgctxt "SSL error"
 msgid "No error"
 msgstr "ouni Feeler"
 
-#: kdecore/network/ktcpsocket.cpp:154
+#: kdecore/network/ktcpsocket.cpp:163
 msgctxt "SSL error"
 msgid "The certificate authority's certificate is invalid"
 msgstr ""
 
-#: kdecore/network/ktcpsocket.cpp:156
+#: kdecore/network/ktcpsocket.cpp:165
 #, fuzzy
 #| msgid "Certificate Password"
 msgctxt "SSL error"
 msgid "The certificate has expired"
 msgstr "Passwuert vum Zertifikat"
 
-#: kdecore/network/ktcpsocket.cpp:158
+#: kdecore/network/ktcpsocket.cpp:167
 msgctxt "SSL error"
 msgid "The certificate is invalid"
 msgstr ""
 
-#: kdecore/network/ktcpsocket.cpp:160
+#: kdecore/network/ktcpsocket.cpp:169
 msgctxt "SSL error"
 msgid "The certificate is not signed by any trusted certificate authority"
 msgstr ""
 
-#: kdecore/network/ktcpsocket.cpp:162
+#: kdecore/network/ktcpsocket.cpp:171
 msgctxt "SSL error"
 msgid "The certificate has been revoked"
 msgstr ""
 
-#: kdecore/network/ktcpsocket.cpp:164
+#: kdecore/network/ktcpsocket.cpp:173
 msgctxt "SSL error"
 msgid "The certificate is unsuitable for this purpose"
 msgstr ""
 
-#: kdecore/network/ktcpsocket.cpp:166
+#: kdecore/network/ktcpsocket.cpp:175
 msgctxt "SSL error"
 msgid ""
 "The root certificate authority's certificate is not trusted for this purpose"
 msgstr ""
 
-#: kdecore/network/ktcpsocket.cpp:168
+#: kdecore/network/ktcpsocket.cpp:177
 msgctxt "SSL error"
 msgid ""
 "The certificate authority's certificate is marked to reject this "
 "certificate's purpose"
 msgstr ""
 
-#: kdecore/network/ktcpsocket.cpp:170
+#: kdecore/network/ktcpsocket.cpp:179
 msgctxt "SSL error"
 msgid "The peer did not present any certificate"
 msgstr ""
 
-#: kdecore/network/ktcpsocket.cpp:172
+#: kdecore/network/ktcpsocket.cpp:181
 msgctxt "SSL error"
 msgid "The certificate does not apply to the given host"
 msgstr ""
 
-#: kdecore/network/ktcpsocket.cpp:174
+#: kdecore/network/ktcpsocket.cpp:183
 #, fuzzy
 #| msgid "The certificate file could not be loaded. Try a different password?"
 msgctxt "SSL error"
@@ -5518,12 +5518,12 @@ msgid "The certificate cannot be verified for internal reasons"
 msgstr ""
 "D'Zertifikatsdatei konnt net geluede ginn. Ën anert Passwuert probéieren?"
 
-#: kdecore/network/ktcpsocket.cpp:176
+#: kdecore/network/ktcpsocket.cpp:185
 msgctxt "SSL error"
 msgid "The certificate chain is too long"
 msgstr ""
 
-#: kdecore/network/ktcpsocket.cpp:179
+#: kdecore/network/ktcpsocket.cpp:188
 #, fuzzy
 #| msgctxt "QFile"
 #| msgid "Unknown error"
@@ -7988,31 +7988,31 @@ msgstr "De Stil %1 ass net fonnt ginn\n"
 msgid "Unknown Application"
 msgstr "Programm zoumaachen"
 
-#: kdeui/notifications/kstatusnotifieritem.cpp:488
-#: kdeui/notifications/kstatusnotifieritem.cpp:926
+#: kdeui/notifications/ksystemtrayicon.cpp:156
+msgid "Minimize"
+msgstr "Kleng maachen"
+
 #: kdeui/notifications/ksystemtrayicon.cpp:215
+#: kdeui/notifications/kstatusnotifieritem.cpp:490
+#: kdeui/notifications/kstatusnotifieritem.cpp:928
 msgid "&Minimize"
 msgstr "&Grouss maachen"
 
-#: kdeui/notifications/kstatusnotifieritem.cpp:924
 #: kdeui/notifications/ksystemtrayicon.cpp:219
+#: kdeui/notifications/kstatusnotifieritem.cpp:926
 msgid "&Restore"
 msgstr "Zeréck&setzen"
 
-#: kdeui/notifications/kstatusnotifieritem.cpp:934
 #: kdeui/notifications/ksystemtrayicon.cpp:239
+#: kdeui/notifications/kstatusnotifieritem.cpp:936
 #, kde-format
 msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgstr "<qt>Sidd dir sëcher, dass dir <b>%1</b> zoumaache wëllt ?</qt>"
 
-#: kdeui/notifications/kstatusnotifieritem.cpp:937
 #: kdeui/notifications/ksystemtrayicon.cpp:242
+#: kdeui/notifications/kstatusnotifieritem.cpp:939
 msgid "Confirm Quit From System Tray"
 msgstr "Aus dem Systemberäich erausgoen"
-
-#: kdeui/notifications/ksystemtrayicon.cpp:156
-msgid "Minimize"
-msgstr "Kleng maachen"
 
 #: kdeui/shortcuts/kcheckaccelerators.cpp:209
 #, fuzzy
