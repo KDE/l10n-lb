@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-04-12 12:14+0200\n"
+"POT-Creation-Date: 2012-04-18 11:32+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -15182,7 +15182,7 @@ msgstr "-onbenannt-"
 msgid "No service matching the requirements was found"
 msgstr ""
 
-#: kdecore/services/kservice.h:555
+#: kdecore/services/kservice.h:561
 #, kde-format
 msgid "The service '%1' does not provide an interface '%2' with keyword '%3'"
 msgstr ""
