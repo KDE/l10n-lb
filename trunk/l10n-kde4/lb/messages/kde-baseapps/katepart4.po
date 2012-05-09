@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-05-06 04:43+0200\n"
+"POT-Creation-Date: 2012-05-09 04:30+0200\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -3199,6 +3199,18 @@ msgstr ""
 #: schema/katestyletreewidget.cpp:604
 msgid "Kate Styles"
 msgstr "Kate-Stiler"
+
+#: schema/kateschemaconfig.cpp:58
+#, fuzzy
+#| msgid "Font & Color Schemas"
+msgid "Use KDE Color Scheme"
+msgstr "Schrëft- & Faarfschemas"
+
+#: schema/kateschemaconfig.cpp:85
+#, fuzzy
+#| msgid "&Background Color..."
+msgid "Editor Background Colors"
+msgstr "Hanner&grondfaarf..."
 
 #: schema/kateschemaconfig.cpp:87
 #, fuzzy
