@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-05-16 11:40+0200\n"
+"POT-Creation-Date: 2012-05-18 12:28+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2812,7 +2812,7 @@ msgctxt "@item Spelling dictionary"
 msgid "<application>Hunspell</application> Default"
 msgstr ""
 
-#: kde3support/kdeui/k3wizard.cpp:48
+#: kde3support/kdeui/k3wizard.cpp:48 kdeui/actions/kstandardaction_p.h:90
 msgid "&Back"
 msgstr "&Zeréck"
 
@@ -5841,31 +5841,6 @@ msgctxt "Encodings menu"
 msgid "Autodetect"
 msgstr "Automatësch Verbesserung"
 
-#: kdeui/actions/ktogglefullscreenaction.cpp:48
-#: kdeui/actions/ktogglefullscreenaction.cpp:55
-#: kdeui/actions/ktogglefullscreenaction.cpp:85
-#: kdeui/actions/kstandardaction_p.h:101
-msgid "F&ull Screen Mode"
-msgstr "&Vollbildmodus"
-
-#: kdeui/actions/ktogglefullscreenaction.cpp:51
-#: kdeui/actions/ktogglefullscreenaction.cpp:58
-#: kdeui/actions/ktogglefullscreenaction.cpp:86
-#, fuzzy
-#| msgid "Full Screen Mode"
-msgid "Full Screen"
-msgstr "Vollbildmodus"
-
-#: kdeui/actions/ktogglefullscreenaction.cpp:81
-msgid "Exit F&ull Screen Mode"
-msgstr "Aus dem &Vollbildmodus erausgoen"
-
-#: kdeui/actions/ktogglefullscreenaction.cpp:82
-#, fuzzy
-#| msgid "Exit F&ull Screen Mode"
-msgid "Exit Full Screen"
-msgstr "Aus dem &Vollbildmodus erausgoen"
-
 #: kdeui/actions/kaction.cpp:122
 #, kde-format
 msgid ""
@@ -5914,21 +5889,21 @@ msgctxt "show help"
 msgid "&Help"
 msgstr "&Hëllef"
 
-#: kdeui/actions/kstandardaction.cpp:516 kdeui/actions/kstandardaction_p.h:98
+#: kdeui/actions/kstandardaction.cpp:521 kdeui/actions/kstandardaction_p.h:98
 msgid "Show &Menubar"
 msgstr "&Menübar weisen"
 
-#: kdeui/actions/kstandardaction.cpp:522
+#: kdeui/actions/kstandardaction.cpp:527
 #, fuzzy
 #| msgid "Show Menubar<p>Shows the menubar again after it has been hidden"
 msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
 msgstr "Menübar weisen<p>Weist d'Menübar nees un, nodeems se verstoppt gi war"
 
-#: kdeui/actions/kstandardaction.cpp:539 kdeui/actions/kstandardaction_p.h:100
+#: kdeui/actions/kstandardaction.cpp:544 kdeui/actions/kstandardaction_p.h:100
 msgid "Show St&atusbar"
 msgstr "St&atusbar weisen"
 
-#: kdeui/actions/kstandardaction.cpp:542
+#: kdeui/actions/kstandardaction.cpp:547
 #, fuzzy
 #| msgid ""
 #| "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of "
@@ -5939,6 +5914,46 @@ msgid ""
 msgstr ""
 "Statusbar weisen<p>Weist d'Statusbar. Dat ass déi Leescht ënnen an der "
 "Fënster fir d'Statusinformatiounen."
+
+#: kdeui/actions/ktogglefullscreenaction.cpp:48
+#, fuzzy
+#| msgid "Exit F&ull Screen Mode"
+msgctxt "@action:inmenu"
+msgid "Exit F&ull Screen Mode"
+msgstr "Aus dem &Vollbildmodus erausgoen"
+
+#: kdeui/actions/ktogglefullscreenaction.cpp:49
+#, fuzzy
+#| msgid "Exit F&ull Screen Mode"
+msgctxt "@action:intoolbar"
+msgid "Exit Full Screen"
+msgstr "Aus dem &Vollbildmodus erausgoen"
+
+#: kdeui/actions/ktogglefullscreenaction.cpp:50
+#, fuzzy
+#| msgid "Exit F&ull Screen Mode"
+msgctxt "@info:tooltip"
+msgid "Exit full screen mode"
+msgstr "Aus dem &Vollbildmodus erausgoen"
+
+#: kdeui/actions/ktogglefullscreenaction.cpp:53
+#, fuzzy
+#| msgid "F&ull Screen Mode"
+msgctxt "@action:inmenu"
+msgid "F&ull Screen Mode"
+msgstr "&Vollbildmodus"
+
+#: kdeui/actions/ktogglefullscreenaction.cpp:54
+#, fuzzy
+#| msgid "Full Screen Mode"
+msgctxt "@action:intoolbar"
+msgid "Full Screen"
+msgstr "Vollbildmodus"
+
+#: kdeui/actions/ktogglefullscreenaction.cpp:55
+msgctxt "@info:tooltip"
+msgid "Display the window in full screen"
+msgstr ""
 
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:84
 #, fuzzy
@@ -8999,7 +9014,7 @@ msgstr "Datei opmaachen"
 msgid "&Quit"
 msgstr "O&phalen"
 
-#: kdeui/util/kstandardguiitem.cpp:255
+#: kdeui/util/kstandardguiitem.cpp:255 kdeui/actions/kstandardaction_p.h:53
 msgid "Quit application"
 msgstr "Programm zoumaachen"
 
@@ -15199,13 +15214,54 @@ msgstr ""
 msgid "&New"
 msgstr "&Nei"
 
+#: kdeui/actions/kstandardaction_p.h:43
+#, fuzzy
+#| msgid "Clear shortcut"
+msgid "Create new document"
+msgstr "Kierzel läschen"
+
+#: kdeui/actions/kstandardaction_p.h:44
+msgid "Open an existing document"
+msgstr ""
+
 #: kdeui/actions/kstandardaction_p.h:45
 msgid "Open &Recent"
 msgstr "&Viru kuerzem opgemaachen Dateien"
 
+#: kdeui/actions/kstandardaction_p.h:45
+msgid "Open a document which was recently opened"
+msgstr ""
+
+#: kdeui/actions/kstandardaction_p.h:46
+#, fuzzy
+#| msgid "Close Document"
+msgid "Save document"
+msgstr "Dokument zoumaachen"
+
+#: kdeui/actions/kstandardaction_p.h:47
+msgid "Save document under a new name"
+msgstr ""
+
 #: kdeui/actions/kstandardaction_p.h:48
 msgid "Re&vert"
 msgstr "&Zerécksetzen"
+
+#: kdeui/actions/kstandardaction_p.h:48
+msgid "Revert unsaved changes made to document"
+msgstr ""
+
+#: kdeui/actions/kstandardaction_p.h:49
+#, fuzzy
+#| msgid "Close Document"
+msgid "Close document"
+msgstr "Dokument zoumaachen"
+
+#: kdeui/actions/kstandardaction_p.h:50
+#, fuzzy
+#| msgctxt "QAccel"
+#| msgid "Print Screen"
+msgid "Print document"
+msgstr "Print Screen"
 
 #: kdeui/actions/kstandardaction_p.h:51
 #, fuzzy
@@ -15213,25 +15269,57 @@ msgstr "&Zerécksetzen"
 msgid "Print Previe&w"
 msgstr "Drocker&virschau..."
 
+#: kdeui/actions/kstandardaction_p.h:51
+msgid "Show a print preview of document"
+msgstr ""
+
 #: kdeui/actions/kstandardaction_p.h:52
 msgid "&Mail..."
 msgstr "Ver&schécken..."
+
+#: kdeui/actions/kstandardaction_p.h:52
+msgid "Send document by mail"
+msgstr ""
+
+#: kdeui/actions/kstandardaction_p.h:55
+msgid "Undo last action"
+msgstr ""
 
 #: kdeui/actions/kstandardaction_p.h:56
 msgid "Re&do"
 msgstr "Nees &zeréck"
 
+#: kdeui/actions/kstandardaction_p.h:56
+#, fuzzy
+#| msgid "HTML documentation"
+msgid "Redo last undone action"
+msgstr "HTML-Dokumentatioun"
+
 #: kdeui/actions/kstandardaction_p.h:57
 msgid "Cu&t"
 msgstr "Schnei&den"
+
+#: kdeui/actions/kstandardaction_p.h:57
+msgid "Cut selection to clipboard"
+msgstr ""
 
 #: kdeui/actions/kstandardaction_p.h:58
 msgid "&Copy"
 msgstr "&Kopéieren"
 
+#: kdeui/actions/kstandardaction_p.h:58
+msgid "Copy selection to clipboard"
+msgstr ""
+
 #: kdeui/actions/kstandardaction_p.h:59 kdeui/actions/kstandardaction_p.h:60
 msgid "&Paste"
 msgstr "&Peschen"
+
+#: kdeui/actions/kstandardaction_p.h:59 kdeui/actions/kstandardaction_p.h:60
+#, fuzzy
+#| msgid "Upload Info"
+msgid "Paste clipboard content"
+msgstr "Informatiounen iwwert d'Eroplueden"
 
 #: kdeui/actions/kstandardaction_p.h:62
 msgid "Select &All"
@@ -15257,17 +15345,33 @@ msgstr "E&rsetzen..."
 msgid "&Actual Size"
 msgstr "&Richteg Gréisst"
 
+#: kdeui/actions/kstandardaction_p.h:69
+msgid "View document at its actual size"
+msgstr ""
+
 #: kdeui/actions/kstandardaction_p.h:70
 msgid "&Fit to Page"
 msgstr "&Un d'Säit upassen"
+
+#: kdeui/actions/kstandardaction_p.h:70
+msgid "Zoom to fit page in window"
+msgstr ""
 
 #: kdeui/actions/kstandardaction_p.h:71
 msgid "Fit to Page &Width"
 msgstr "Un d'&Breet vun der Säit upassen"
 
+#: kdeui/actions/kstandardaction_p.h:71
+msgid "Zoom to fit page width in window"
+msgstr ""
+
 #: kdeui/actions/kstandardaction_p.h:72
 msgid "Fit to Page &Height"
 msgstr "Un d'&Héicht vun der Säit upassen"
+
+#: kdeui/actions/kstandardaction_p.h:72
+msgid "Zoom to fit page height in window"
+msgstr ""
 
 #: kdeui/actions/kstandardaction_p.h:73
 msgid "Zoom &In"
@@ -15281,21 +15385,49 @@ msgstr "Era&uszoomen"
 msgid "&Zoom..."
 msgstr "&Zoom..."
 
+#: kdeui/actions/kstandardaction_p.h:75
+#, fuzzy
+#| msgid "Select a week"
+msgid "Select zoom level"
+msgstr "Woch auswielen"
+
 #: kdeui/actions/kstandardaction_p.h:76
 msgid "&Redisplay"
+msgstr "&Frësch uweisen"
+
+#: kdeui/actions/kstandardaction_p.h:76
+#, fuzzy
+#| msgid "&Redisplay"
+msgid "Redisplay document"
 msgstr "&Frësch uweisen"
 
 #: kdeui/actions/kstandardaction_p.h:78
 msgid "&Up"
 msgstr "&Erop"
 
+#: kdeui/actions/kstandardaction_p.h:78
+msgid "Go up"
+msgstr ""
+
 #: kdeui/actions/kstandardaction_p.h:83
 msgid "&Previous Page"
+msgstr "Säit &virdrunn"
+
+#: kdeui/actions/kstandardaction_p.h:83
+#, fuzzy
+#| msgid "&Previous Page"
+msgid "Go to previous page"
 msgstr "Säit &virdrunn"
 
 #: kdeui/actions/kstandardaction_p.h:84
 msgid "&Next Page"
 msgstr "&Nächst Säit"
+
+#: kdeui/actions/kstandardaction_p.h:84
+#, fuzzy
+#| msgid "Go to Line"
+msgid "Go to next page"
+msgstr "Sprang op d'Zeil"
 
 #: kdeui/actions/kstandardaction_p.h:85
 msgid "&Go To..."
@@ -15313,17 +15445,40 @@ msgstr "Op d'Zeil &goen..."
 msgid "&First Page"
 msgstr "&Éischt Säit"
 
+#: kdeui/actions/kstandardaction_p.h:88
+#, fuzzy
+#| msgid "Go to Line"
+msgid "Go to first page"
+msgstr "Sprang op d'Zeil"
+
 #: kdeui/actions/kstandardaction_p.h:89
 msgid "&Last Page"
 msgstr "&Lescht Säit"
 
+#: kdeui/actions/kstandardaction_p.h:89
+#, fuzzy
+#| msgid "&Go to Page..."
+msgid "Go to last page"
+msgstr "Op d'Säit &goen..."
+
 #: kdeui/actions/kstandardaction_p.h:90
-msgid "&Back in the Document"
-msgstr ""
+#, fuzzy
+#| msgid "Go back one step"
+msgid "Go back in document"
+msgstr "Ee Schrack zeréckgoen"
 
 #: kdeui/actions/kstandardaction_p.h:91
-msgid "&Forward in the Document"
-msgstr ""
+#, fuzzy
+#| msgctxt "go forward"
+#| msgid "&Forward"
+msgid "&Forward"
+msgstr "&No Vir"
+
+#: kdeui/actions/kstandardaction_p.h:91
+#, fuzzy
+#| msgid "Go forward one step"
+msgid "Go forward in document"
+msgstr "Ee Schrack no vir goen"
 
 #: kdeui/actions/kstandardaction_p.h:93
 msgid "&Add Bookmark"
@@ -15337,9 +15492,37 @@ msgstr "Lieszeechen ä&nneren..."
 msgid "&Spelling..."
 msgstr "&Rechtschreiwung..."
 
+#: kdeui/actions/kstandardaction_p.h:96
+#, fuzzy
+#| msgid "Check Spelling"
+msgid "Check spelling in document"
+msgstr "Rechtschreifkontroll"
+
+#: kdeui/actions/kstandardaction_p.h:98
+#, fuzzy
+#| msgid "Show &Menubar"
+msgid "Show or hide menubar"
+msgstr "&Menübar weisen"
+
 #: kdeui/actions/kstandardaction_p.h:99
 msgid "Show &Toolbar"
 msgstr "&Toolbar weisen"
+
+#: kdeui/actions/kstandardaction_p.h:99
+#, fuzzy
+#| msgid "Show &Toolbar"
+msgid "Show or hide toolbar"
+msgstr "&Toolbar weisen"
+
+#: kdeui/actions/kstandardaction_p.h:100
+#, fuzzy
+#| msgid "Show St&atusbar"
+msgid "Show or hide statusbar"
+msgstr "St&atusbar weisen"
+
+#: kdeui/actions/kstandardaction_p.h:101
+msgid "F&ull Screen Mode"
+msgstr "&Vollbildmodus"
 
 #: kdeui/actions/kstandardaction_p.h:102
 msgid "&Save Settings"
@@ -15434,11 +15617,6 @@ msgstr "nomëttes/owës"
 #~ msgstr "&Menübar verstoppen"
 
 #, fuzzy
-#~| msgid "Show St&atusbar"
-#~ msgid "Show Statusbar"
-#~ msgstr "St&atusbar weisen"
-
-#, fuzzy
 #~| msgid "Hide St&atusbar"
 #~ msgid "Hide Statusbar"
 #~ msgstr "St&atusbar vestoppen"
@@ -15460,11 +15638,6 @@ msgstr "nomëttes/owës"
 #~ msgctxt "option:check A filter on file type - media files"
 #~ msgid "Media"
 #~ msgstr "Meta"
-
-#, fuzzy
-#~| msgid "Show &Toolbar"
-#~ msgid "Show Toolbar"
-#~ msgstr "&Toolbar weisen"
 
 #~ msgid "Hide Toolbar"
 #~ msgstr "Toolbar verstoppen"
