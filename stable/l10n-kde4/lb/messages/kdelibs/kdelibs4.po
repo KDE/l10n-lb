@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-06-05 19:05+0200\n"
+"POT-Creation-Date: 2012-06-10 12:22+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -15195,6 +15195,12 @@ msgstr "-standard-"
 msgid "-unnamed-"
 msgstr "-onbenannt-"
 
+#: interfaces/terminal/example/main.cc:32
+#, fuzzy
+#| msgid "Test"
+msgid "TETest"
+msgstr "Test"
+
 #: kdecore/services/kmimetypetrader.h:136
 #: kdecore/services/kmimetypetrader.h:169
 #: kdecore/services/kservicetypetrader.h:192
@@ -15654,11 +15660,6 @@ msgstr "nomëttes/owës"
 #~| msgid "KIOTest"
 #~ msgid "KrossTest"
 #~ msgstr "KIOTest"
-
-#, fuzzy
-#~| msgid "Test"
-#~ msgid "TETest"
-#~ msgstr "Test"
 
 #~ msgid "Find stopped."
 #~ msgstr "Sicht opgehal."
