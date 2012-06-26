@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-06-15 04:37+0200\n"
+"POT-Creation-Date: 2012-06-26 07:39+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1668,7 +1668,7 @@ msgstr "&Eroplueden"
 
 #. i18n: file: knewstuff/knewstuff3/uploaddialog.ui:207
 #. i18n: ectx: property (text), widget (QLabel, label_8)
-#: rc.cpp:841 khtml/khtml_part.cpp:1855
+#: rc.cpp:841 khtml/khtml_part.cpp:1869
 msgid "Description:"
 msgstr "Beschreiwung:"
 
@@ -3703,7 +3703,7 @@ msgstr "Programm: "
 msgid "Qt"
 msgstr "Ophalen"
 
-#: kdecore/kernel/kcmdlineargs.cpp:496 khtml/khtml_part.cpp:4819
+#: kdecore/kernel/kcmdlineargs.cpp:496 khtml/khtml_part.cpp:4833
 msgid "KDE"
 msgstr "KDE"
 
@@ -5357,54 +5357,6 @@ msgstr "Onbekannte Feeler"
 msgid "Operation not supported"
 msgstr "Dëss Aktioun gëtt net ënnerstëtzt"
 
-#: kdecore/network/netsupp.cpp:891 kdecore/network/k3resolver.cpp:545
-msgid "no error"
-msgstr "ouni Feeler"
-
-#: kdecore/network/netsupp.cpp:892
-msgid "address family for nodename not supported"
-msgstr "Famill vun Adresse fir den Node net ënnerstëtzt"
-
-#: kdecore/network/netsupp.cpp:893 kdecore/network/k3resolver.cpp:547
-msgid "temporary failure in name resolution"
-msgstr "Temporäre Feeler bei der Opléisung vum Numm"
-
-#: kdecore/network/netsupp.cpp:894
-msgid "invalid value for 'ai_flags'"
-msgstr "Falsche Wert fir 'ai_flags'"
-
-#: kdecore/network/netsupp.cpp:895 kdecore/network/k3resolver.cpp:548
-msgid "non-recoverable failure in name resolution"
-msgstr "Net behiefbare Feeler bei der Opléisung vum Numm"
-
-#: kdecore/network/netsupp.cpp:896
-msgid "'ai_family' not supported"
-msgstr "'ai_family' gëtt net ënnerstëtzt"
-
-#: kdecore/network/netsupp.cpp:897 kdecore/network/k3resolver.cpp:550
-msgid "memory allocation failure"
-msgstr "Feeler bei der Allocatioun vu Späicherplaz"
-
-#: kdecore/network/netsupp.cpp:898
-msgid "no address associated with nodename"
-msgstr "Keng Adress gehéiert zum Node"
-
-#: kdecore/network/netsupp.cpp:899 kdecore/network/k3resolver.cpp:551
-msgid "name or service not known"
-msgstr "Numm oder Service net bekannt"
-
-#: kdecore/network/netsupp.cpp:900
-msgid "servname not supported for ai_socktype"
-msgstr "Servernumm fir 'ai_socktype' net ënnerstëtzt"
-
-#: kdecore/network/netsupp.cpp:901
-msgid "'ai_socktype' not supported"
-msgstr "'ai socktype' net ënnerstëtzt"
-
-#: kdecore/network/netsupp.cpp:902
-msgid "system error"
-msgstr "Feeler am System"
-
 #: kdecore/network/k3socks.cpp:137
 msgid "NEC SOCKS client"
 msgstr "Statioun fir den NEC SOCKS Server"
@@ -5418,13 +5370,33 @@ msgstr "SOCKS-Statioun fir den Dante-Server"
 msgid "Timed out trying to connect to remote host"
 msgstr ""
 
+#: kdecore/network/k3resolver.cpp:545 kdecore/network/netsupp.cpp:894
+msgid "no error"
+msgstr "ouni Feeler"
+
 #: kdecore/network/k3resolver.cpp:546
 msgid "requested family not supported for this host name"
 msgstr "Gefroot Famill gëtt fir dësen Hostnumm net ënnerstëtzt"
 
+#: kdecore/network/k3resolver.cpp:547 kdecore/network/netsupp.cpp:896
+msgid "temporary failure in name resolution"
+msgstr "Temporäre Feeler bei der Opléisung vum Numm"
+
+#: kdecore/network/k3resolver.cpp:548 kdecore/network/netsupp.cpp:898
+msgid "non-recoverable failure in name resolution"
+msgstr "Net behiefbare Feeler bei der Opléisung vum Numm"
+
 #: kdecore/network/k3resolver.cpp:549
 msgid "invalid flags"
 msgstr "Ongülteg Werter"
+
+#: kdecore/network/k3resolver.cpp:550 kdecore/network/netsupp.cpp:900
+msgid "memory allocation failure"
+msgstr "Feeler bei der Allocatioun vu Späicherplaz"
+
+#: kdecore/network/k3resolver.cpp:551 kdecore/network/netsupp.cpp:902
+msgid "name or service not known"
+msgstr "Numm oder Service net bekannt"
 
 #: kdecore/network/k3resolver.cpp:552
 msgid "requested family not supported"
@@ -5534,6 +5506,34 @@ msgstr ""
 msgctxt "SSL error"
 msgid "Unknown error"
 msgstr "Onbekannte Feeler"
+
+#: kdecore/network/netsupp.cpp:895
+msgid "address family for nodename not supported"
+msgstr "Famill vun Adresse fir den Node net ënnerstëtzt"
+
+#: kdecore/network/netsupp.cpp:897
+msgid "invalid value for 'ai_flags'"
+msgstr "Falsche Wert fir 'ai_flags'"
+
+#: kdecore/network/netsupp.cpp:899
+msgid "'ai_family' not supported"
+msgstr "'ai_family' gëtt net ënnerstëtzt"
+
+#: kdecore/network/netsupp.cpp:901
+msgid "no address associated with nodename"
+msgstr "Keng Adress gehéiert zum Node"
+
+#: kdecore/network/netsupp.cpp:903
+msgid "servname not supported for ai_socktype"
+msgstr "Servernumm fir 'ai_socktype' net ënnerstëtzt"
+
+#: kdecore/network/netsupp.cpp:904
+msgid "'ai_socktype' not supported"
+msgstr "'ai socktype' net ënnerstëtzt"
+
+#: kdecore/network/netsupp.cpp:905
+msgid "system error"
+msgstr "Feeler am System"
 
 #: kdecore/services/kmimetyperepository.cpp:611
 #, fuzzy, kde-format
@@ -5841,6 +5841,57 @@ msgctxt "Encodings menu"
 msgid "Autodetect"
 msgstr "Automatësch Verbesserung"
 
+#: kdeui/actions/krecentfilesaction.cpp:81
+#, fuzzy
+msgid "No Entries"
+msgstr "Eegeschaften"
+
+#: kdeui/actions/krecentfilesaction.cpp:85
+#, fuzzy
+#| msgid "Clear input"
+msgid "Clear List"
+msgstr "Input-Feld eidelmaachen"
+
+#: kdeui/actions/ktogglefullscreenaction.cpp:48
+#, fuzzy
+#| msgid "Exit F&ull Screen Mode"
+msgctxt "@action:inmenu"
+msgid "Exit F&ull Screen Mode"
+msgstr "Aus dem &Vollbildmodus erausgoen"
+
+#: kdeui/actions/ktogglefullscreenaction.cpp:49
+#, fuzzy
+#| msgid "Exit F&ull Screen Mode"
+msgctxt "@action:intoolbar"
+msgid "Exit Full Screen"
+msgstr "Aus dem &Vollbildmodus erausgoen"
+
+#: kdeui/actions/ktogglefullscreenaction.cpp:50
+#, fuzzy
+#| msgid "Exit F&ull Screen Mode"
+msgctxt "@info:tooltip"
+msgid "Exit full screen mode"
+msgstr "Aus dem &Vollbildmodus erausgoen"
+
+#: kdeui/actions/ktogglefullscreenaction.cpp:53
+#, fuzzy
+#| msgid "F&ull Screen Mode"
+msgctxt "@action:inmenu"
+msgid "F&ull Screen Mode"
+msgstr "&Vollbildmodus"
+
+#: kdeui/actions/ktogglefullscreenaction.cpp:54
+#, fuzzy
+#| msgid "Full Screen Mode"
+msgctxt "@action:intoolbar"
+msgid "Full Screen"
+msgstr "Vollbildmodus"
+
+#: kdeui/actions/ktogglefullscreenaction.cpp:55
+msgctxt "@info:tooltip"
+msgid "Display the window in full screen"
+msgstr ""
+
 #: kdeui/actions/kaction.cpp:122
 #, kde-format
 msgid ""
@@ -5854,17 +5905,6 @@ msgstr ""
 #| msgid "Ambiguous \"%1\" not handled"
 msgid "Ambiguous shortcut detected"
 msgstr "Méideideg \"%1\" net verschafft"
-
-#: kdeui/actions/krecentfilesaction.cpp:81
-#, fuzzy
-msgid "No Entries"
-msgstr "Eegeschaften"
-
-#: kdeui/actions/krecentfilesaction.cpp:85
-#, fuzzy
-#| msgid "Clear input"
-msgid "Clear List"
-msgstr "Input-Feld eidelmaachen"
 
 #: kdeui/actions/kstandardaction.cpp:93 kdeui/util/kstandardguiitem.cpp:210
 msgctxt "go back"
@@ -5909,51 +5949,11 @@ msgstr "St&atusbar weisen"
 #| "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of "
 #| "the window used for status information."
 msgid ""
-"Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of the "
-"window used for status information.</p>"
+"Show Statusbar<br /><br />Shows the statusbar, which is the bar at the "
+"bottom of the window used for status information."
 msgstr ""
 "Statusbar weisen<p>Weist d'Statusbar. Dat ass déi Leescht ënnen an der "
 "Fënster fir d'Statusinformatiounen."
-
-#: kdeui/actions/ktogglefullscreenaction.cpp:48
-#, fuzzy
-#| msgid "Exit F&ull Screen Mode"
-msgctxt "@action:inmenu"
-msgid "Exit F&ull Screen Mode"
-msgstr "Aus dem &Vollbildmodus erausgoen"
-
-#: kdeui/actions/ktogglefullscreenaction.cpp:49
-#, fuzzy
-#| msgid "Exit F&ull Screen Mode"
-msgctxt "@action:intoolbar"
-msgid "Exit Full Screen"
-msgstr "Aus dem &Vollbildmodus erausgoen"
-
-#: kdeui/actions/ktogglefullscreenaction.cpp:50
-#, fuzzy
-#| msgid "Exit F&ull Screen Mode"
-msgctxt "@info:tooltip"
-msgid "Exit full screen mode"
-msgstr "Aus dem &Vollbildmodus erausgoen"
-
-#: kdeui/actions/ktogglefullscreenaction.cpp:53
-#, fuzzy
-#| msgid "F&ull Screen Mode"
-msgctxt "@action:inmenu"
-msgid "F&ull Screen Mode"
-msgstr "&Vollbildmodus"
-
-#: kdeui/actions/ktogglefullscreenaction.cpp:54
-#, fuzzy
-#| msgid "Full Screen Mode"
-msgctxt "@action:intoolbar"
-msgid "Full Screen"
-msgstr "Vollbildmodus"
-
-#: kdeui/actions/ktogglefullscreenaction.cpp:55
-msgctxt "@info:tooltip"
-msgid "Display the window in full screen"
-msgstr ""
 
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:84
 #, fuzzy
@@ -6509,6 +6509,10 @@ msgid "Please click and drag on the image to select the region of interest:"
 msgstr ""
 "Klickt an zitt w.e.g. iwwert d'Bild fir de gewënschte Beräich ze wielen:"
 
+#: kdeui/dialogs/kconfigdialog.cpp:43 kutils/kcmultidialog.cpp:208
+msgid "Configure"
+msgstr "Configuréieren"
+
 #: kdeui/dialogs/kshortcutsdialog.cpp:67
 msgid ""
 "The current shortcut scheme is modified. Save before switching to the new "
@@ -6545,10 +6549,6 @@ msgstr "Rotschléi beim Start &weisen"
 msgctxt "Opposite to Previous"
 msgid "&Next"
 msgstr "&Weider"
-
-#: kdeui/dialogs/kconfigdialog.cpp:43 kutils/kcmultidialog.cpp:208
-msgid "Configure"
-msgstr "Configuréieren"
 
 #: kdeui/dialogs/kshortcutseditoritem.cpp:45
 #, fuzzy, kde-format
@@ -6976,7 +6976,7 @@ msgid "Warning"
 msgstr "Warnung"
 
 #: kdeui/dialogs/kmessagebox.cpp:841 kdeui/dialogs/kmessagebox.cpp:871
-#: khtml/rendering/render_form.cpp:872 kjs/object.cpp:553
+#: khtml/rendering/render_form.cpp:870 kjs/object.cpp:553
 #: knewstuff/knewstuff3/uploaddialog.cpp:528
 msgid "Error"
 msgstr "Feeler"
@@ -7031,8 +7031,8 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "Toolbaren zerécksetzen"
 
-#: kdeui/dialogs/kedittoolbar.cpp:602 khtml/khtmlview.cpp:2807
-#: khtml/khtmlview.cpp:2840 khtml/html/html_formimpl.cpp:1845
+#: kdeui/dialogs/kedittoolbar.cpp:602 khtml/khtmlview.cpp:2811
+#: khtml/khtmlview.cpp:2844 khtml/html/html_formimpl.cpp:1845
 msgid "Reset"
 msgstr "Zerécksetzen"
 
@@ -7599,6 +7599,44 @@ msgctxt "Numeric IDs of scripts for font previews"
 msgid "1"
 msgstr "%1%"
 
+#: kdeui/fonts/kfontdialog.cpp:75
+msgid "Select Font"
+msgstr "Schrëft auswielen"
+
+#: kdeui/fonts/kfontrequester.cpp:110
+msgid "Choose..."
+msgstr "Auswielen..."
+
+#: kdeui/fonts/kfontrequester.cpp:215
+msgid "Click to select a font"
+msgstr "Klickt hei, fir eng Schrëft ze wielen"
+
+#: kdeui/fonts/kfontrequester.cpp:222
+msgid "Preview of the selected font"
+msgstr "Virschau vun der gewielter Schrëft"
+
+#: kdeui/fonts/kfontrequester.cpp:223
+msgid ""
+"This is a preview of the selected font. You can change it by clicking the "
+"\"Choose...\" button."
+msgstr ""
+"Dësst ass eng Virschau vun der gewielter Schrëft. Mat engem Klick op "
+"\"Auswielen...\" kënnt dir Ännerunge virhuelen."
+
+#: kdeui/fonts/kfontrequester.cpp:228
+#, kde-format
+msgid "Preview of the \"%1\" font"
+msgstr "Virschau vun der Schrëft \"%1\""
+
+#: kdeui/fonts/kfontrequester.cpp:229
+#, kde-format
+msgid ""
+"This is a preview of the \"%1\" font. You can change it by clicking the "
+"\"Choose...\" button."
+msgstr ""
+"Dësst ass eng Virschau vun der Schrëft \"%1\". Mat engem Klick op "
+"\"Auswielen...\" kënnt dir Ännerunge virhuelen."
+
 #: kdeui/fonts/kfontchooser.cpp:162
 #, fuzzy
 #| msgid "Here you can choose the font to be used."
@@ -7705,14 +7743,22 @@ msgctxt "@info:whatsthis"
 msgid "Here you can choose the font style to be used."
 msgstr "Hei kënnt dir de Schrëftstil wielen, dee benotzt soll ginn."
 
-#: kdeui/fonts/kfontchooser.cpp:296 kdeui/fonts/kfontchooser.cpp:639
+#: kdeui/fonts/kfontchooser.cpp:295 kdeui/fonts/kfontchooser.cpp:623
+#: kdeui/fonts/kfontchooser.cpp:640
+#, fuzzy
+#| msgid "Regular"
+msgctxt "@item font"
+msgid "Regular"
+msgstr "Normal"
+
+#: kdeui/fonts/kfontchooser.cpp:296 kdeui/fonts/kfontchooser.cpp:644
 #, fuzzy
 #| msgid "Italic"
 msgctxt "@item font"
 msgid "Italic"
 msgstr "Kursiv"
 
-#: kdeui/fonts/kfontchooser.cpp:297 kdeui/fonts/kfontchooser.cpp:640
+#: kdeui/fonts/kfontchooser.cpp:297 kdeui/fonts/kfontchooser.cpp:645
 #, fuzzy
 #| msgctxt "font style"
 #| msgid "Oblique"
@@ -7787,50 +7833,12 @@ msgstr "Aktuell Schrëft"
 #. noun-adjective congruence wrt. gender of the family name).
 #. The message provides the dynamic context 'family', which is
 #. the family name to which the style string corresponds.
-#: kdeui/fonts/kfontchooser.cpp:625
+#: kdeui/fonts/kfontchooser.cpp:630
 #, fuzzy, kde-format
 #| msgid "%1%"
 msgctxt "@item Font style"
 msgid "%1"
 msgstr "%1%"
-
-#: kdeui/fonts/kfontdialog.cpp:75
-msgid "Select Font"
-msgstr "Schrëft auswielen"
-
-#: kdeui/fonts/kfontrequester.cpp:110
-msgid "Choose..."
-msgstr "Auswielen..."
-
-#: kdeui/fonts/kfontrequester.cpp:215
-msgid "Click to select a font"
-msgstr "Klickt hei, fir eng Schrëft ze wielen"
-
-#: kdeui/fonts/kfontrequester.cpp:222
-msgid "Preview of the selected font"
-msgstr "Virschau vun der gewielter Schrëft"
-
-#: kdeui/fonts/kfontrequester.cpp:223
-msgid ""
-"This is a preview of the selected font. You can change it by clicking the "
-"\"Choose...\" button."
-msgstr ""
-"Dësst ass eng Virschau vun der gewielter Schrëft. Mat engem Klick op "
-"\"Auswielen...\" kënnt dir Ännerunge virhuelen."
-
-#: kdeui/fonts/kfontrequester.cpp:228
-#, kde-format
-msgid "Preview of the \"%1\" font"
-msgstr "Virschau vun der Schrëft \"%1\""
-
-#: kdeui/fonts/kfontrequester.cpp:229
-#, kde-format
-msgid ""
-"This is a preview of the \"%1\" font. You can change it by clicking the "
-"\"Choose...\" button."
-msgstr ""
-"Dësst ass eng Virschau vun der Schrëft \"%1\". Mat engem Klick op "
-"\"Auswielen...\" kënnt dir Ännerunge virhuelen."
 
 #: kdeui/itemviews/kfilterproxysearchline.cpp:73
 #: nepomuk/utils/searchwidget.cpp:142
@@ -10541,6 +10549,85 @@ msgstr ""
 msgid "Separator, Space"
 msgstr "Mam Ersetzen ufänken"
 
+#. i18n: Placeholder text in line edit widgets is the text appearing
+#. before any user input, briefly explaining to the user what to type
+#. (e.g. "Enter search pattern").
+#. By default the text is set in italic, which may not be appropriate
+#. for some languages and scripts (e.g. for CJK ideographs).
+#. i18n: Placeholder text in text edit widgets is the text appearing
+#. before any user input, briefly explaining to the user what to type
+#. (e.g. "Enter message").
+#. By default the text is set in italic, which may not be appropriate
+#. for some languages and scripts (e.g. for CJK ideographs).
+#: kdeui/widgets/klineedit.cpp:87 kdeui/widgets/ktextedit.cpp:79
+#, fuzzy
+#| msgid "%1%"
+msgctxt "Italic placeholder text in line edits: 0 no, 1 yes"
+msgid "1"
+msgstr "%1%"
+
+#: kdeui/widgets/klineedit.cpp:296
+#, fuzzy
+msgctxt "@action:button Clear current text in the line edit"
+msgid "Clear text"
+msgstr "Kierzel läschen"
+
+#: kdeui/widgets/klineedit.cpp:1216
+#, fuzzy
+#| msgid "Text Completion"
+msgctxt "@title:menu"
+msgid "Text Completion"
+msgstr "Ergänzung vum Text"
+
+#: kdeui/widgets/klineedit.cpp:1223
+#, fuzzy
+#| msgid "None"
+msgctxt "@item:inmenu Text Completion"
+msgid "None"
+msgstr "Keng"
+
+#: kdeui/widgets/klineedit.cpp:1224
+#, fuzzy
+#| msgid "Manual"
+msgctxt "@item:inmenu Text Completion"
+msgid "Manual"
+msgstr "Manuell"
+
+#: kdeui/widgets/klineedit.cpp:1225
+#, fuzzy
+#| msgid "Automatic"
+msgctxt "@item:inmenu Text Completion"
+msgid "Automatic"
+msgstr "Automatësch"
+
+#: kdeui/widgets/klineedit.cpp:1226
+#, fuzzy
+#| msgid "Dropdown List"
+msgctxt "@item:inmenu Text Completion"
+msgid "Dropdown List"
+msgstr "Ausklapplëscht"
+
+#: kdeui/widgets/klineedit.cpp:1227
+#, fuzzy
+#| msgid "Short Automatic"
+msgctxt "@item:inmenu Text Completion"
+msgid "Short Automatic"
+msgstr "Automatësch kuerz"
+
+#: kdeui/widgets/klineedit.cpp:1228
+#, fuzzy
+#| msgid "Dropdown List && Automatic"
+msgctxt "@item:inmenu Text Completion"
+msgid "Dropdown List && Automatic"
+msgstr "Ausklapplëscht && Automatik"
+
+#: kdeui/widgets/klineedit.cpp:1259
+#, fuzzy
+#| msgid "Default"
+msgctxt "@item:inmenu Text Completion"
+msgid "Default"
+msgstr "Standard"
+
 #: kdeui/widgets/ktoolbar.cpp:292
 #, fuzzy
 #| msgid "Show help"
@@ -10702,7 +10789,7 @@ msgstr "Er&opréckelen"
 msgid "Move &Down"
 msgstr "&Erofréckelen"
 
-#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:995
+#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:993
 msgid "Clear &History"
 msgstr "&History läschen"
 
@@ -10854,85 +10941,6 @@ msgstr ""
 #| msgid "Could not create the new configuration file."
 msgid "You are not allowed to save the configuration"
 msgstr "Konnt déi nei Configuratiounsdatei net erstellen."
-
-#. i18n: Placeholder text in line edit widgets is the text appearing
-#. before any user input, briefly explaining to the user what to type
-#. (e.g. "Enter search pattern").
-#. By default the text is set in italic, which may not be appropriate
-#. for some languages and scripts (e.g. for CJK ideographs).
-#. i18n: Placeholder text in text edit widgets is the text appearing
-#. before any user input, briefly explaining to the user what to type
-#. (e.g. "Enter message").
-#. By default the text is set in italic, which may not be appropriate
-#. for some languages and scripts (e.g. for CJK ideographs).
-#: kdeui/widgets/klineedit.cpp:87 kdeui/widgets/ktextedit.cpp:79
-#, fuzzy
-#| msgid "%1%"
-msgctxt "Italic placeholder text in line edits: 0 no, 1 yes"
-msgid "1"
-msgstr "%1%"
-
-#: kdeui/widgets/klineedit.cpp:296
-#, fuzzy
-msgctxt "@action:button Clear current text in the line edit"
-msgid "Clear text"
-msgstr "Kierzel läschen"
-
-#: kdeui/widgets/klineedit.cpp:1213
-#, fuzzy
-#| msgid "Text Completion"
-msgctxt "@title:menu"
-msgid "Text Completion"
-msgstr "Ergänzung vum Text"
-
-#: kdeui/widgets/klineedit.cpp:1220
-#, fuzzy
-#| msgid "None"
-msgctxt "@item:inmenu Text Completion"
-msgid "None"
-msgstr "Keng"
-
-#: kdeui/widgets/klineedit.cpp:1221
-#, fuzzy
-#| msgid "Manual"
-msgctxt "@item:inmenu Text Completion"
-msgid "Manual"
-msgstr "Manuell"
-
-#: kdeui/widgets/klineedit.cpp:1222
-#, fuzzy
-#| msgid "Automatic"
-msgctxt "@item:inmenu Text Completion"
-msgid "Automatic"
-msgstr "Automatësch"
-
-#: kdeui/widgets/klineedit.cpp:1223
-#, fuzzy
-#| msgid "Dropdown List"
-msgctxt "@item:inmenu Text Completion"
-msgid "Dropdown List"
-msgstr "Ausklapplëscht"
-
-#: kdeui/widgets/klineedit.cpp:1224
-#, fuzzy
-#| msgid "Short Automatic"
-msgctxt "@item:inmenu Text Completion"
-msgid "Short Automatic"
-msgstr "Automatësch kuerz"
-
-#: kdeui/widgets/klineedit.cpp:1225
-#, fuzzy
-#| msgid "Dropdown List && Automatic"
-msgctxt "@item:inmenu Text Completion"
-msgid "Dropdown List && Automatic"
-msgstr "Ausklapplëscht && Automatik"
-
-#: kdeui/widgets/klineedit.cpp:1256
-#, fuzzy
-#| msgid "Default"
-msgctxt "@item:inmenu Text Completion"
-msgid "Default"
-msgstr "Standard"
 
 #: kdeui/widgets/kpixmapregionselectorwidget.cpp:195
 msgid "Image Operations"
@@ -11539,8 +11547,8 @@ msgstr "Biller drécken"
 msgid "Print header"
 msgstr "Header drécken"
 
-#: khtml/khtml_run.cpp:104 khtml/khtml_part.cpp:3716 khtml/khtml_part.cpp:3945
-#: khtml/khtml_part.cpp:4366 kparts/browserrun.cpp:426
+#: khtml/khtml_run.cpp:104 khtml/khtml_part.cpp:3730 khtml/khtml_part.cpp:3959
+#: khtml/khtml_part.cpp:4380 kparts/browserrun.cpp:426
 msgid "Save As"
 msgstr "Späicheren als"
 
@@ -11550,61 +11558,61 @@ msgstr "Späicheren als"
 msgid "Inactive"
 msgstr "Relativ"
 
-#: khtml/khtml_part.cpp:251
+#: khtml/khtml_part.cpp:252
 msgid "View Do&cument Source"
 msgstr "&Quelltext kucken"
 
-#: khtml/khtml_part.cpp:258 khtml/khtml_ext.cpp:509
+#: khtml/khtml_part.cpp:259 khtml/khtml_ext.cpp:509
 msgid "View Frame Source"
 msgstr "Quell vum Frame kucken"
 
-#: khtml/khtml_part.cpp:265
+#: khtml/khtml_part.cpp:266
 msgid "View Document Information"
 msgstr "Dokument-Informatioun kucken"
 
-#: khtml/khtml_part.cpp:272
+#: khtml/khtml_part.cpp:273
 msgid "Save &Background Image As..."
 msgstr "Bild am &Hannergrond späicheren als..."
 
-#: khtml/khtml_part.cpp:281 khtml/khtml_ext.cpp:504
+#: khtml/khtml_part.cpp:282 khtml/khtml_ext.cpp:504
 msgid "Save &Frame As..."
 msgstr "&Frame späicheren als..."
 
-#: khtml/khtml_part.cpp:293 khtml/khtml_part.cpp:4027
+#: khtml/khtml_part.cpp:294 khtml/khtml_part.cpp:4041
 msgid "SSL"
 msgstr "SSL"
 
-#: khtml/khtml_part.cpp:297
+#: khtml/khtml_part.cpp:298
 msgid "Print Rendering Tree to STDOUT"
 msgstr "Rendering-Bau op STDOUT drécken"
 
-#: khtml/khtml_part.cpp:301
+#: khtml/khtml_part.cpp:302
 msgid "Print DOM Tree to STDOUT"
 msgstr "DOM-Bam op STDOUT drécken"
 
-#: khtml/khtml_part.cpp:305
+#: khtml/khtml_part.cpp:306
 #, fuzzy
 #| msgid "Print DOM Tree to STDOUT"
 msgid "Print frame tree to STDOUT"
 msgstr "DOM-Bam op STDOUT drécken"
 
-#: khtml/khtml_part.cpp:309
+#: khtml/khtml_part.cpp:310
 msgid "Stop Animated Images"
 msgstr "Animéiert Biller unhalen"
 
-#: khtml/khtml_part.cpp:313
+#: khtml/khtml_part.cpp:314
 msgid "Set &Encoding"
 msgstr "&Verschlësselung festléen"
 
-#: khtml/khtml_part.cpp:352
+#: khtml/khtml_part.cpp:353
 msgid "Use S&tylesheet"
 msgstr "S&til-Virlag benotzen"
 
-#: khtml/khtml_part.cpp:357
+#: khtml/khtml_part.cpp:358
 msgid "Enlarge Font"
 msgstr "Schrëft vergréisseren"
 
-#: khtml/khtml_part.cpp:360
+#: khtml/khtml_part.cpp:361
 #, fuzzy
 #| msgid ""
 #| "Enlarge Font<p>Make the font in this window bigger. Click and hold down "
@@ -11617,11 +11625,11 @@ msgstr ""
 "Klickt op d'Maustast an haalt se un, fir e Menü mat all de méigleche "
 "Schrëftgréissten ze gesin."
 
-#: khtml/khtml_part.cpp:364
+#: khtml/khtml_part.cpp:365
 msgid "Shrink Font"
 msgstr "Schrëft verklengeren"
 
-#: khtml/khtml_part.cpp:367
+#: khtml/khtml_part.cpp:368
 #, fuzzy
 #| msgid ""
 #| "Shrink Font<p>Make the font in this window smaller. Click and hold down "
@@ -11634,7 +11642,7 @@ msgstr ""
 "op d'Maustast an haalt se un, fir e Menü mat all de méigleche "
 "Schrëftgréissten ze gesin."
 
-#: khtml/khtml_part.cpp:382
+#: khtml/khtml_part.cpp:383
 #, fuzzy
 #| msgid ""
 #| "Find text<p>Shows a dialog that allows you to find text on the displayed "
@@ -11646,7 +11654,7 @@ msgstr ""
 "Text sichen<p>Mëcht ën Dialog op, fir op der ugewisener Säit no Text ze "
 "sichen."
 
-#: khtml/khtml_part.cpp:386
+#: khtml/khtml_part.cpp:387
 #, fuzzy
 #| msgid ""
 #| "Find next<p>Find the next occurrence of the text that you have found "
@@ -11658,7 +11666,7 @@ msgstr ""
 "Weidersichen<p>Sicht nom nächsten Optriede vum Text, deen dir mat der "
 "Funktioun <b>Text sichen</b> fonnt hutt"
 
-#: khtml/khtml_part.cpp:392
+#: khtml/khtml_part.cpp:393
 #, fuzzy
 #| msgid ""
 #| "Find previous<p>Find the previous occurrence of the text that you have "
@@ -11670,31 +11678,31 @@ msgstr ""
 "Virdru sichen<p>Sicht weider vir no engem Optriede vum Text, deen dir mat "
 "der Funktioun <b>Text sichen</b> fonnt hutt"
 
-#: khtml/khtml_part.cpp:397
+#: khtml/khtml_part.cpp:398
 msgid "Find Text as You Type"
 msgstr "Text beim antippen ergänzen"
 
-#: khtml/khtml_part.cpp:400
+#: khtml/khtml_part.cpp:401
 msgid ""
 "This shortcut shows the find bar, for finding text in the displayed page. It "
 "cancels the effect of \"Find Links as You Type\", which sets the \"Find "
 "links only\" option."
 msgstr ""
 
-#: khtml/khtml_part.cpp:403
+#: khtml/khtml_part.cpp:404
 msgid "Find Links as You Type"
 msgstr "Linke beim antippen ergänzen"
 
-#: khtml/khtml_part.cpp:409
+#: khtml/khtml_part.cpp:410
 msgid ""
 "This shortcut shows the find bar, and sets the option \"Find links only\"."
 msgstr ""
 
-#: khtml/khtml_part.cpp:421 khtml/khtml_ext.cpp:498
+#: khtml/khtml_part.cpp:422 khtml/khtml_ext.cpp:498
 msgid "Print Frame..."
 msgstr "Frame drécken..."
 
-#: khtml/khtml_part.cpp:425
+#: khtml/khtml_part.cpp:426
 #, fuzzy
 #| msgid ""
 #| "Print Frame<p>Some pages have several frames. To print only a single "
@@ -11706,120 +11714,120 @@ msgstr ""
 "Frame drécken<p>Verschidde Säiten hu méi wéi ee Frame. Fir just een eenzege "
 "Frame ze drécken, wielt ën aus a klickt dann op dës Funktioun."
 
-#: khtml/khtml_part.cpp:439
+#: khtml/khtml_part.cpp:440
 msgid "Toggle Caret Mode"
 msgstr "Caret-Modus un/aus"
 
-#: khtml/khtml_part.cpp:700
+#: khtml/khtml_part.cpp:714
 #, kde-format
 msgid "The fake user-agent '%1' is in use."
 msgstr "Dee geschmuggelte User-Agent '%1' gëtt benotzt."
 
-#: khtml/khtml_part.cpp:1197
+#: khtml/khtml_part.cpp:1211
 msgid "This web page contains coding errors."
 msgstr "Dës Websäit huet Kodéierungsfeler."
 
-#: khtml/khtml_part.cpp:1239
+#: khtml/khtml_part.cpp:1253
 msgid "&Hide Errors"
 msgstr "Feeler &verstoppen"
 
-#: khtml/khtml_part.cpp:1240
+#: khtml/khtml_part.cpp:1254
 msgid "&Disable Error Reporting"
 msgstr "Feelerberichter &deaktivéieren"
 
-#: khtml/khtml_part.cpp:1284
+#: khtml/khtml_part.cpp:1298
 #, fuzzy, kde-format
 #| msgid "<b>Error</b>: %1: %2"
 msgid "<qt><b>Error</b>: %1: %2</qt>"
 msgstr "<b>Feeler</b>: %1: %2"
 
-#: khtml/khtml_part.cpp:1333
+#: khtml/khtml_part.cpp:1347
 #, fuzzy, kde-format
 #| msgid "<b>Error</b>: node %1: %2"
 msgid "<qt><b>Error</b>: node %1: %2</qt>"
 msgstr "<b>Feeler</b>: Node %1: %2"
 
-#: khtml/khtml_part.cpp:1449
+#: khtml/khtml_part.cpp:1463
 msgid "Display Images on Page"
 msgstr "D'Biller op dëser Säit weisen"
 
-#: khtml/khtml_part.cpp:1826
+#: khtml/khtml_part.cpp:1840
 #, fuzzy, kde-format
 #| msgid "<b>Error</b>: %1: %2"
 msgid "Error: %1 - %2"
 msgstr "<b>Feeler</b>: %1: %2"
 
-#: khtml/khtml_part.cpp:1831
+#: khtml/khtml_part.cpp:1845
 msgid "The requested operation could not be completed"
 msgstr "Déi gewënschten Operatioun konnt net duerchgefouert ginn"
 
-#: khtml/khtml_part.cpp:1837
+#: khtml/khtml_part.cpp:1851
 msgid "Technical Reason: "
 msgstr "Technësche Grond: "
 
-#: khtml/khtml_part.cpp:1843
+#: khtml/khtml_part.cpp:1857
 msgid "Details of the Request:"
 msgstr "Detailer vun der Ufro:"
 
-#: khtml/khtml_part.cpp:1845
+#: khtml/khtml_part.cpp:1859
 #, kde-format
 msgid "URL: %1"
 msgstr "URL: %1"
 
-#: khtml/khtml_part.cpp:1848
+#: khtml/khtml_part.cpp:1862
 #, fuzzy, kde-format
 #| msgid "Print %1"
 msgid "Protocol: %1"
 msgstr "%1 drécken"
 
-#: khtml/khtml_part.cpp:1851
+#: khtml/khtml_part.cpp:1865
 #, kde-format
 msgid "Date and Time: %1"
 msgstr "Datum an Zäit: %1"
 
-#: khtml/khtml_part.cpp:1853
+#: khtml/khtml_part.cpp:1867
 #, kde-format
 msgid "Additional Information: %1"
 msgstr "Zousätzlech Informatioun: %1"
 
-#: khtml/khtml_part.cpp:1861
+#: khtml/khtml_part.cpp:1875
 msgid "Possible Causes:"
 msgstr "Méiglech Grënn:"
 
-#: khtml/khtml_part.cpp:1868
+#: khtml/khtml_part.cpp:1882
 msgid "Possible Solutions:"
 msgstr "Méiglech Léisungen:"
 
-#: khtml/khtml_part.cpp:2286
+#: khtml/khtml_part.cpp:2300
 msgid "Page loaded."
 msgstr "Säit gelueden."
 
-#: khtml/khtml_part.cpp:2288
+#: khtml/khtml_part.cpp:2302
 #, kde-format
 msgid "%1 Image of %2 loaded."
 msgid_plural "%1 Images of %2 loaded."
 msgstr[0] "%1 Bild vun %2 gelueden."
 msgstr[1] "%1 Biller vun %2 gelueden."
 
-#: khtml/khtml_part.cpp:2463
+#: khtml/khtml_part.cpp:2477
 msgid "Automatic Detection"
 msgstr "Automatësch Detektioun"
 
-#: khtml/khtml_part.cpp:3525 khtml/khtml_part.cpp:3612
-#: khtml/khtml_part.cpp:3623
+#: khtml/khtml_part.cpp:3539 khtml/khtml_part.cpp:3626
+#: khtml/khtml_part.cpp:3637
 msgid " (In new window)"
 msgstr " (an enger neier Fënster)"
 
-#: khtml/khtml_part.cpp:3564
+#: khtml/khtml_part.cpp:3578
 msgid "Symbolic Link"
 msgstr "Symbolësche Link"
 
-#: khtml/khtml_part.cpp:3566
+#: khtml/khtml_part.cpp:3580
 #, kde-format
 msgid "%1 (Link)"
 msgstr "%1 (Link)"
 
-#: khtml/khtml_part.cpp:3586
+#: khtml/khtml_part.cpp:3600
 #, fuzzy, kde-format
 #| msgid "%2 (%1 bytes)"
 msgid "%2 (%1 byte)"
@@ -11827,32 +11835,32 @@ msgid_plural "%2 (%1 bytes)"
 msgstr[0] "%2 (%1 byte)"
 msgstr[1] "%2 (%1 byte)"
 
-#: khtml/khtml_part.cpp:3590
+#: khtml/khtml_part.cpp:3604
 #, kde-format
 msgid "%2 (%1 K)"
 msgstr "%2 (%1 K)"
 
-#: khtml/khtml_part.cpp:3625
+#: khtml/khtml_part.cpp:3639
 msgid " (In other frame)"
 msgstr " (an engem anere Frame)"
 
-#: khtml/khtml_part.cpp:3630
+#: khtml/khtml_part.cpp:3644
 msgid "Email to: "
 msgstr "E-Mail un: "
 
-#: khtml/khtml_part.cpp:3636
+#: khtml/khtml_part.cpp:3650
 msgid " - Subject: "
 msgstr " - Betreff: "
 
-#: khtml/khtml_part.cpp:3638
+#: khtml/khtml_part.cpp:3652
 msgid " - CC: "
 msgstr " - CC: "
 
-#: khtml/khtml_part.cpp:3640
+#: khtml/khtml_part.cpp:3654
 msgid " - BCC: "
 msgstr " - BCC: "
 
-#: khtml/khtml_part.cpp:3721
+#: khtml/khtml_part.cpp:3735
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt>This untrusted page links to<BR><B>%1</B>.<BR>Do you want to follow "
@@ -11864,60 +11872,60 @@ msgstr ""
 "<qt>Dëss Säit ass als \"net sëcher\" agestuft ginn an enthält de Link <BR><B>"
 "%1</B>.</BR>Wëllt dir déi Adress opruffen?"
 
-#: khtml/khtml_part.cpp:3722
+#: khtml/khtml_part.cpp:3736
 msgid "Follow"
 msgstr "Opruffen"
 
-#: khtml/khtml_part.cpp:3823
+#: khtml/khtml_part.cpp:3837
 msgid "Frame Information"
 msgstr "Informatioun iwwert de Frame"
 
-#: khtml/khtml_part.cpp:3829
+#: khtml/khtml_part.cpp:3843
 #, kde-format
 msgid "   <a href=\"%1\">[Properties]</a>"
 msgstr "   <a href=\"%1\">[Eegeschaften]</a>"
 
-#: khtml/khtml_part.cpp:3855
+#: khtml/khtml_part.cpp:3869
 #, fuzzy
 #| msgid "Turkish"
 msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
 msgid "Quirks"
 msgstr "Türkësch"
 
-#: khtml/khtml_part.cpp:3858
+#: khtml/khtml_part.cpp:3872
 #, fuzzy
 #| msgid "&Use as Standard"
 msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
 msgid "Almost standards"
 msgstr "&Als Standard benotzen"
 
-#: khtml/khtml_part.cpp:3862
+#: khtml/khtml_part.cpp:3876
 #, fuzzy
 msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
 msgid "Strict"
 msgstr "&Start"
 
-#: khtml/khtml_part.cpp:3933
+#: khtml/khtml_part.cpp:3947
 msgid "Save Background Image As"
 msgstr "Bild am Hannergrond späicheren als"
 
-#: khtml/khtml_part.cpp:4025
+#: khtml/khtml_part.cpp:4039
 msgid "The peer SSL certificate chain appears to be corrupt."
 msgstr ""
 
-#: khtml/khtml_part.cpp:4044
+#: khtml/khtml_part.cpp:4058
 msgid "Save Frame As"
 msgstr "Frame späicheren als"
 
-#: khtml/khtml_part.cpp:4088
+#: khtml/khtml_part.cpp:4102
 msgid "&Find in Frame..."
 msgstr "Am Frame &sichen..."
 
-#: khtml/khtml_part.cpp:4090 kdeui/actions/kstandardaction_p.h:64
+#: khtml/khtml_part.cpp:4104 kdeui/actions/kstandardaction_p.h:64
 msgid "&Find..."
 msgstr "&Sichen..."
 
-#: khtml/khtml_part.cpp:4707
+#: khtml/khtml_part.cpp:4721
 msgid ""
 "Warning:  This is a secure form but it is attempting to send your data back "
 "unencrypted.\n"
@@ -11929,16 +11937,16 @@ msgstr ""
 "Een Drëtte kéint dëss Informatioun offänken a kucken.\n"
 "Wëllt dir sëcher weiderfueren?"
 
-#: khtml/khtml_part.cpp:4710 khtml/khtml_part.cpp:4719
-#: khtml/khtml_part.cpp:4743
+#: khtml/khtml_part.cpp:4724 khtml/khtml_part.cpp:4733
+#: khtml/khtml_part.cpp:4757
 msgid "Network Transmission"
 msgstr "Netzwierk-Transmissioun"
 
-#: khtml/khtml_part.cpp:4710 khtml/khtml_part.cpp:4720
+#: khtml/khtml_part.cpp:4724 khtml/khtml_part.cpp:4734
 msgid "&Send Unencrypted"
 msgstr "Onverschlësselt &verschécken"
 
-#: khtml/khtml_part.cpp:4717
+#: khtml/khtml_part.cpp:4731
 msgid ""
 "Warning: Your data is about to be transmitted across the network "
 "unencrypted.\n"
@@ -11947,7 +11955,7 @@ msgstr ""
 "Warnung: Dir sidd dropp an dru fir är Daten onverschlësselt ze verschécken.\n"
 "Sidd dir iech sëcher, dass dir weiderfuere wëllt?"
 
-#: khtml/khtml_part.cpp:4741
+#: khtml/khtml_part.cpp:4755
 msgid ""
 "This site is attempting to submit form data via email.\n"
 "Do you want to continue?"
@@ -11955,11 +11963,11 @@ msgstr ""
 "De Server probéiert, Formular-Daten iwwert E-Mail ze verschécken.\n"
 "Wëllt dir weiderfueren?"
 
-#: khtml/khtml_part.cpp:4744
+#: khtml/khtml_part.cpp:4758
 msgid "&Send Email"
 msgstr "E-Mail &verschécken"
 
-#: khtml/khtml_part.cpp:4765
+#: khtml/khtml_part.cpp:4779
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt>The form will be submitted to <BR><B>%1</B><BR>on your local "
@@ -11971,12 +11979,12 @@ msgstr ""
 "<qt>De Formular gëtt no<BR><B>%1</B><BR>op ärem lokalen Dateiesystem "
 "verschéckt ginn.<BR>Wëllt dir de Formular ofsenden?"
 
-#: khtml/khtml_part.cpp:4766 khtml/khtmlview.cpp:2793 khtml/khtmlview.cpp:2835
+#: khtml/khtml_part.cpp:4780 khtml/khtmlview.cpp:2797 khtml/khtmlview.cpp:2839
 #: khtml/html/html_formimpl.cpp:1641 khtml/html/html_formimpl.cpp:1853
 msgid "Submit"
 msgstr "Verschécken"
 
-#: khtml/khtml_part.cpp:4819
+#: khtml/khtml_part.cpp:4833
 msgid ""
 "This site attempted to attach a file from your computer in the form "
 "submission. The attachment was removed for your protection."
@@ -11984,16 +11992,16 @@ msgstr ""
 "De Server huet probéiert, eng Datei aus ärem Dateiesystem un de Formular "
 "drunnzehänken. Den Unhang ass zu ärer Sëcherheet geläscht ginn."
 
-#: khtml/khtml_part.cpp:5890
+#: khtml/khtml_part.cpp:5904
 #, kde-format
 msgid "(%1/s)"
 msgstr "(%1/s)"
 
-#: khtml/khtml_part.cpp:6802
+#: khtml/khtml_part.cpp:6816
 msgid "Security Warning"
 msgstr "Sëcherheetswarnung"
 
-#: khtml/khtml_part.cpp:6811
+#: khtml/khtml_part.cpp:6825
 #, fuzzy, kde-format
 #| msgid "<qt>Access by untrusted page to<BR><B>%1</B><BR> denied."
 msgid "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
@@ -12001,44 +12009,44 @@ msgstr ""
 "<qt>Zougang op<BR><B>%1</B><BR>duerch eng Säit, déi als net sëcher ugesinn "
 "ass, verweigert."
 
-#: khtml/khtml_part.cpp:6812 khtml/java/kjavaappletserver.cpp:794
+#: khtml/khtml_part.cpp:6826 khtml/java/kjavaappletserver.cpp:794
 msgid "Security Alert"
 msgstr "Sëcherheetsnoricht"
 
-#: khtml/khtml_part.cpp:7160
+#: khtml/khtml_part.cpp:7174
 #, kde-format
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr ""
 "Den digitale Portemonnaie '%1' ass op a gëtt fir Formularer a Passwierder "
 "benotzt."
 
-#: khtml/khtml_part.cpp:7220
+#: khtml/khtml_part.cpp:7234
 msgid "&Close Wallet"
 msgstr "Portemonnaie &zoumaachen"
 
-#: khtml/khtml_part.cpp:7223
+#: khtml/khtml_part.cpp:7237
 msgid "&Allow storing passwords for this site"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7228
+#: khtml/khtml_part.cpp:7242
 #, kde-format
 msgid "Remove password for form %1"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7333
+#: khtml/khtml_part.cpp:7347
 msgid "JavaScript &Debugger"
 msgstr "JavaScript-&Debugger"
 
-#: khtml/khtml_part.cpp:7365
+#: khtml/khtml_part.cpp:7379
 msgid "This page was prevented from opening a new window via JavaScript."
 msgstr ""
 "Dëss Säit ass dovun ofgehal ginn, mat JavaScript eng nei fënster opzemaachen."
 
-#: khtml/khtml_part.cpp:7371
+#: khtml/khtml_part.cpp:7385
 msgid "Popup Window Blocked"
 msgstr "Popup-Fënster blockéiert"
 
-#: khtml/khtml_part.cpp:7371
+#: khtml/khtml_part.cpp:7385
 msgid ""
 "This page has attempted to open a popup window but was blocked.\n"
 "You can click on this icon in the status bar to control this behavior\n"
@@ -12049,18 +12057,18 @@ msgstr ""
 "d'Fënster\n"
 "awer opzemaachen oder Astellunge virzehuelen."
 
-#: khtml/khtml_part.cpp:7384
+#: khtml/khtml_part.cpp:7398
 #, fuzzy, kde-format
 msgid "&Show Blocked Popup Window"
 msgid_plural "&Show %1 Blocked Popup Windows"
 msgstr[0] "Blockéiert Popup-Fënster &weisen"
 msgstr[1] "%1 blockéiert Popup-Fënstere weisen"
 
-#: khtml/khtml_part.cpp:7385
+#: khtml/khtml_part.cpp:7399
 msgid "Show Blocked Window Passive Popup &Notification"
 msgstr "Passiv &Norichtefënster bei blockéierte Popup-Fënsteren uweisen"
 
-#: khtml/khtml_part.cpp:7387
+#: khtml/khtml_part.cpp:7401
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "JavaScript fir Fënsteren nei opzemaache &configuréieren..."
 
@@ -12365,7 +12373,7 @@ msgstr ""
 msgid "Default Font Size (100%)"
 msgstr "Standard-Schrëftgréisst (100%)"
 
-#: khtml/khtmlview.cpp:1842
+#: khtml/khtmlview.cpp:1846
 msgid "Access Keys activated"
 msgstr "Kuerztasten ugeschalt"
 
@@ -12393,72 +12401,11 @@ msgstr "JavaScript"
 msgid "&Stop Script"
 msgstr "&Handschrëft"
 
-#: khtml/ecma/kjs_window.cpp:1650 khtml/ecma/kjs_html.cpp:2162
+#: khtml/ecma/kjs_html.cpp:2166 khtml/ecma/kjs_window.cpp:1660
 msgid "Confirmation: JavaScript Popup"
 msgstr "Bestätegung: JavaScript-Fënsteren"
 
-#: khtml/ecma/kjs_window.cpp:1653
-msgid ""
-"This site is requesting to open up a new browser window via JavaScript.\n"
-"Do you want to allow this?"
-msgstr ""
-"Dëss Säit huet ugefrot, fir eng nei Fënster iwwert JavaScript opzemaachen.\n"
-"Wëllt dir dat zouloossen?"
-
-#: khtml/ecma/kjs_window.cpp:1656
-#, kde-format
-msgid ""
-"<qt>This site is requesting to open<p>%1</p>in a new browser window via "
-"JavaScript.<br />Do you want to allow this?</qt>"
-msgstr ""
-"<qt>Dëss Säit huet ugefrot, fir<p>%1</p>an enger neier Fënster iwwert "
-"JavaScript opzemaachen.<br/>Wëllt dir dat zouloossen?</qt>"
-
-#: khtml/ecma/kjs_window.cpp:1658 khtml/ecma/kjs_html.cpp:2169
-msgid "Allow"
-msgstr "Erlaben"
-
-#: khtml/ecma/kjs_window.cpp:1658 khtml/ecma/kjs_html.cpp:2169
-msgid "Do Not Allow"
-msgstr "Net erlaben"
-
-#: khtml/ecma/kjs_window.cpp:1971
-msgid "Close window?"
-msgstr "Fënster zoumaachen?"
-
-#: khtml/ecma/kjs_window.cpp:1971
-msgid "Confirmation Required"
-msgstr "Bestätegung noutwendeg"
-
-#: khtml/ecma/kjs_window.cpp:2874
-#, kde-format
-msgid ""
-"Do you want a bookmark pointing to the location \"%1\" to be added to your "
-"collection?"
-msgstr "Wëllt dir e Lieszeeche fir \"%1\" an är Sammlung dobäimaachen?"
-
-#: khtml/ecma/kjs_window.cpp:2877
-#, kde-format
-msgid ""
-"Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
-"added to your collection?"
-msgstr ""
-"Wëllt dir e Lieszeeche mam Numm \"%2\" fir \"%1\" an är Sammlung "
-"dobäimaachen?"
-
-#: khtml/ecma/kjs_window.cpp:2885
-msgid "JavaScript Attempted Bookmark Insert"
-msgstr "JavaScript huet probéiert, e Lieszeechen dobäizemaachen"
-
-#: khtml/ecma/kjs_window.cpp:2889
-msgid "Insert"
-msgstr "Asetzen"
-
-#: khtml/ecma/kjs_window.cpp:2889
-msgid "Disallow"
-msgstr "Net zouloossen"
-
-#: khtml/ecma/kjs_html.cpp:2164
+#: khtml/ecma/kjs_html.cpp:2168
 msgid ""
 "This site is submitting a form which will open up a new browser window via "
 "JavaScript.\n"
@@ -12468,7 +12415,7 @@ msgstr ""
 "Fënster opmëcht.\n"
 "Wëllt dir dat zouloossen?"
 
-#: khtml/ecma/kjs_html.cpp:2167
+#: khtml/ecma/kjs_html.cpp:2171
 #, kde-format
 msgid ""
 "<qt>This site is submitting a form which will open <p>%1</p> in a new "
@@ -12477,6 +12424,67 @@ msgid ""
 msgstr ""
 "<qt>Dëss Säit probéiert, e Formular ofzeschécken, deen iwwer JavaScript <p>"
 "%1</p> an enger neier Fënster opmëcht.<br/>Wëllt dir dat zouloossen?</qt>"
+
+#: khtml/ecma/kjs_html.cpp:2173 khtml/ecma/kjs_window.cpp:1668
+msgid "Allow"
+msgstr "Erlaben"
+
+#: khtml/ecma/kjs_html.cpp:2173 khtml/ecma/kjs_window.cpp:1668
+msgid "Do Not Allow"
+msgstr "Net erlaben"
+
+#: khtml/ecma/kjs_window.cpp:1663
+msgid ""
+"This site is requesting to open up a new browser window via JavaScript.\n"
+"Do you want to allow this?"
+msgstr ""
+"Dëss Säit huet ugefrot, fir eng nei Fënster iwwert JavaScript opzemaachen.\n"
+"Wëllt dir dat zouloossen?"
+
+#: khtml/ecma/kjs_window.cpp:1666
+#, kde-format
+msgid ""
+"<qt>This site is requesting to open<p>%1</p>in a new browser window via "
+"JavaScript.<br />Do you want to allow this?</qt>"
+msgstr ""
+"<qt>Dëss Säit huet ugefrot, fir<p>%1</p>an enger neier Fënster iwwert "
+"JavaScript opzemaachen.<br/>Wëllt dir dat zouloossen?</qt>"
+
+#: khtml/ecma/kjs_window.cpp:1981
+msgid "Close window?"
+msgstr "Fënster zoumaachen?"
+
+#: khtml/ecma/kjs_window.cpp:1981
+msgid "Confirmation Required"
+msgstr "Bestätegung noutwendeg"
+
+#: khtml/ecma/kjs_window.cpp:2884
+#, kde-format
+msgid ""
+"Do you want a bookmark pointing to the location \"%1\" to be added to your "
+"collection?"
+msgstr "Wëllt dir e Lieszeeche fir \"%1\" an är Sammlung dobäimaachen?"
+
+#: khtml/ecma/kjs_window.cpp:2887
+#, kde-format
+msgid ""
+"Do you want a bookmark pointing to the location \"%1\" titled \"%2\" to be "
+"added to your collection?"
+msgstr ""
+"Wëllt dir e Lieszeeche mam Numm \"%2\" fir \"%1\" an är Sammlung "
+"dobäimaachen?"
+
+#: khtml/ecma/kjs_window.cpp:2895
+msgid "JavaScript Attempted Bookmark Insert"
+msgstr "JavaScript huet probéiert, e Lieszeechen dobäizemaachen"
+
+#: khtml/ecma/kjs_window.cpp:2899
+msgid "Insert"
+msgstr "Asetzen"
+
+#: khtml/ecma/kjs_window.cpp:2899
+msgid "Disallow"
+msgstr "Net zouloossen"
 
 #: khtml/ecma/debugger/consoledock.cpp:220
 #, fuzzy
@@ -12798,34 +12806,34 @@ msgstr "Keen Handler fir \"%1\" fonnt!"
 msgid "Play"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:851
+#: khtml/rendering/render_form.cpp:849
 #, fuzzy
 #| msgid "Shortcut"
 msgid "New Web Shortcut"
 msgstr "Tastekombinatioun"
 
-#: khtml/rendering/render_form.cpp:872
+#: khtml/rendering/render_form.cpp:870
 #, fuzzy, kde-format
 #| msgctxt "Socket error code AlreadyCreated"
 #| msgid "socket is already created"
 msgid "%1 is already assigned to %2"
 msgstr "De Socket ass schonn erstallt ginn"
 
-#: khtml/rendering/render_form.cpp:917
+#: khtml/rendering/render_form.cpp:915
 msgid "Search &provider name:"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:919
+#: khtml/rendering/render_form.cpp:917
 msgid "New search provider"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:924
+#: khtml/rendering/render_form.cpp:922
 #, fuzzy
 #| msgid "Shortcuts"
 msgid "UR&I shortcuts:"
 msgstr "Kierzelen"
 
-#: khtml/rendering/render_form.cpp:1010
+#: khtml/rendering/render_form.cpp:1008
 #, fuzzy
 #| msgid "Clear shortcut"
 msgid "Create Web Shortcut"
@@ -15587,12 +15595,6 @@ msgstr "moies"
 #: kdecore/date/kdatetime.cpp:2991
 msgid "pm"
 msgstr "nomëttes/owës"
-
-#, fuzzy
-#~| msgid "Regular"
-#~ msgctxt "@item font"
-#~ msgid "Regular"
-#~ msgstr "Normal"
 
 #~ msgid "What's &This"
 #~ msgstr "Wat ass &dat"
