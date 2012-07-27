@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-07-05 04:50+0200\n"
+"POT-Creation-Date: 2012-07-27 04:18+0200\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -3101,6 +3101,105 @@ msgstr "Markéierungstyp %1"
 msgid "Use default color from the KDE color scheme"
 msgstr ""
 
+#: schema/katestyletreewidget.cpp:133
+#, fuzzy
+#| msgid "Context"
+msgctxt "@title:column Meaning of text in editor"
+msgid "Context"
+msgstr "Kontext"
+
+#: schema/katestyletreewidget.cpp:133
+#, fuzzy
+#| msgid "Normal"
+msgctxt "@title:column Text style"
+msgid "Normal"
+msgstr "Normal"
+
+#: schema/katestyletreewidget.cpp:133
+#, fuzzy
+#| msgid "Selected"
+msgctxt "@title:column Text style"
+msgid "Selected"
+msgstr "Ausgewielt"
+
+#: schema/katestyletreewidget.cpp:133
+#, fuzzy
+#| msgid "Background"
+msgctxt "@title:column Text style"
+msgid "Background"
+msgstr "Hannergrond"
+
+#: schema/katestyletreewidget.cpp:133
+#, fuzzy
+#| msgid "Background Selected"
+msgctxt "@title:column Text style"
+msgid "Background Selected"
+msgstr "Hannergrond ausgewielt"
+
+#: schema/katestyletreewidget.cpp:135
+msgid "Use Default Style"
+msgstr "Standard-Stil benotzen"
+
+#: schema/katestyletreewidget.cpp:223
+msgid "&Bold"
+msgstr "&Fett"
+
+#: schema/katestyletreewidget.cpp:228
+msgid "&Italic"
+msgstr "&Kursiv"
+
+#: schema/katestyletreewidget.cpp:233
+msgid "&Underline"
+msgstr "&Ënnerstrach"
+
+#: schema/katestyletreewidget.cpp:238
+msgid "S&trikeout"
+msgstr "Due&rchgestrach"
+
+#: schema/katestyletreewidget.cpp:245
+msgid "Normal &Color..."
+msgstr "N&ormal Faarf..."
+
+#: schema/katestyletreewidget.cpp:248
+msgid "&Selected Color..."
+msgstr "Au&sgewielt-Faarf..."
+
+#: schema/katestyletreewidget.cpp:251
+msgid "&Background Color..."
+msgstr "Hanner&grondfaarf..."
+
+#: schema/katestyletreewidget.cpp:254
+msgid "S&elected Background Color..."
+msgstr "Ausgewi&elt-Hannergrondfaarf..."
+
+#: schema/katestyletreewidget.cpp:266
+msgid "Unset Background Color"
+msgstr ""
+
+#: schema/katestyletreewidget.cpp:270
+msgid "Unset Selected Background Color"
+msgstr ""
+
+#: schema/katestyletreewidget.cpp:277
+msgid "Use &Default Style"
+msgstr "Stan&dard-Stil benotzen"
+
+#: schema/katestyletreewidget.cpp:389
+#, fuzzy
+msgctxt "No text or background color set"
+msgid "None set"
+msgstr "Keen"
+
+#: schema/katestyletreewidget.cpp:603
+msgid ""
+"\"Use Default Style\" will be automatically unset when you change any style "
+"properties."
+msgstr ""
+
+#: schema/katestyletreewidget.cpp:604
+msgid "Kate Styles"
+msgstr "Kate-Stiler"
+
 #: schema/kateschemaconfig.cpp:58
 #, fuzzy
 #| msgid "Font & Color Schemas"
@@ -3530,105 +3629,6 @@ msgid ""
 "<p>The schema %1 already exists, or was just deleted.</p><p>Please choose a "
 "different schema name.</p>"
 msgstr ""
-
-#: schema/katestyletreewidget.cpp:133
-#, fuzzy
-#| msgid "Context"
-msgctxt "@title:column Meaning of text in editor"
-msgid "Context"
-msgstr "Kontext"
-
-#: schema/katestyletreewidget.cpp:133
-#, fuzzy
-#| msgid "Normal"
-msgctxt "@title:column Text style"
-msgid "Normal"
-msgstr "Normal"
-
-#: schema/katestyletreewidget.cpp:133
-#, fuzzy
-#| msgid "Selected"
-msgctxt "@title:column Text style"
-msgid "Selected"
-msgstr "Ausgewielt"
-
-#: schema/katestyletreewidget.cpp:133
-#, fuzzy
-#| msgid "Background"
-msgctxt "@title:column Text style"
-msgid "Background"
-msgstr "Hannergrond"
-
-#: schema/katestyletreewidget.cpp:133
-#, fuzzy
-#| msgid "Background Selected"
-msgctxt "@title:column Text style"
-msgid "Background Selected"
-msgstr "Hannergrond ausgewielt"
-
-#: schema/katestyletreewidget.cpp:135
-msgid "Use Default Style"
-msgstr "Standard-Stil benotzen"
-
-#: schema/katestyletreewidget.cpp:223
-msgid "&Bold"
-msgstr "&Fett"
-
-#: schema/katestyletreewidget.cpp:228
-msgid "&Italic"
-msgstr "&Kursiv"
-
-#: schema/katestyletreewidget.cpp:233
-msgid "&Underline"
-msgstr "&Ënnerstrach"
-
-#: schema/katestyletreewidget.cpp:238
-msgid "S&trikeout"
-msgstr "Due&rchgestrach"
-
-#: schema/katestyletreewidget.cpp:245
-msgid "Normal &Color..."
-msgstr "N&ormal Faarf..."
-
-#: schema/katestyletreewidget.cpp:248
-msgid "&Selected Color..."
-msgstr "Au&sgewielt-Faarf..."
-
-#: schema/katestyletreewidget.cpp:251
-msgid "&Background Color..."
-msgstr "Hanner&grondfaarf..."
-
-#: schema/katestyletreewidget.cpp:254
-msgid "S&elected Background Color..."
-msgstr "Ausgewi&elt-Hannergrondfaarf..."
-
-#: schema/katestyletreewidget.cpp:266
-msgid "Unset Background Color"
-msgstr ""
-
-#: schema/katestyletreewidget.cpp:270
-msgid "Unset Selected Background Color"
-msgstr ""
-
-#: schema/katestyletreewidget.cpp:277
-msgid "Use &Default Style"
-msgstr "Stan&dard-Stil benotzen"
-
-#: schema/katestyletreewidget.cpp:389
-#, fuzzy
-msgctxt "No text or background color set"
-msgid "None set"
-msgstr "Keen"
-
-#: schema/katestyletreewidget.cpp:603
-msgid ""
-"\"Use Default Style\" will be automatically unset when you change any style "
-"properties."
-msgstr ""
-
-#: schema/katestyletreewidget.cpp:604
-msgid "Kate Styles"
-msgstr "Kate-Stiler"
 
 #. i18n: file: data/katepartsimpleui.rc:4
 #. i18n: ectx: Menu (file)
