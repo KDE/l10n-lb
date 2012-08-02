@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-07-27 04:25+0200\n"
+"POT-Creation-Date: 2012-08-02 04:35+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -5300,7 +5300,7 @@ msgid "Connection timed out"
 msgstr "D'Verbindungszäit ass iwwerschratt ginn"
 
 #: kdecore/network/klocalsocket_unix.cpp:213
-#: kdecore/network/klocalsocket_unix.cpp:293 nepomuk/core/resource.cpp:538
+#: kdecore/network/klocalsocket_unix.cpp:293 nepomuk/core/resource.cpp:560
 #, fuzzy
 #| msgctxt "QFile"
 #| msgid "Unknown error"
@@ -5892,6 +5892,20 @@ msgctxt "@info:tooltip"
 msgid "Display the window in full screen"
 msgstr ""
 
+#: kdeui/actions/kaction.cpp:122
+#, kde-format
+msgid ""
+"The key sequence '%1' is ambiguous. Use 'Configure Shortcuts'\n"
+"from the 'Settings' menu to solve the ambiguity.\n"
+"No action will be triggered."
+msgstr ""
+
+#: kdeui/actions/kaction.cpp:126
+#, fuzzy
+#| msgid "Ambiguous \"%1\" not handled"
+msgid "Ambiguous shortcut detected"
+msgstr "Méideideg \"%1\" net verschafft"
+
 #: kdeui/actions/kstandardaction.cpp:93 kdeui/util/kstandardguiitem.cpp:210
 msgctxt "go back"
 msgid "&Back"
@@ -5940,20 +5954,6 @@ msgid ""
 msgstr ""
 "Statusbar weisen<p>Weist d'Statusbar. Dat ass déi Leescht ënnen an der "
 "Fënster fir d'Statusinformatiounen."
-
-#: kdeui/actions/kaction.cpp:122
-#, kde-format
-msgid ""
-"The key sequence '%1' is ambiguous. Use 'Configure Shortcuts'\n"
-"from the 'Settings' menu to solve the ambiguity.\n"
-"No action will be triggered."
-msgstr ""
-
-#: kdeui/actions/kaction.cpp:126
-#, fuzzy
-#| msgid "Ambiguous \"%1\" not handled"
-msgid "Ambiguous shortcut detected"
-msgstr "Méideideg \"%1\" net verschafft"
 
 #: kdeui/dialogs/kaboutapplicationdialog.cpp:84
 #, fuzzy
@@ -10549,84 +10549,22 @@ msgstr ""
 msgid "Separator, Space"
 msgstr "Mam Ersetzen ufänken"
 
-#. i18n: Placeholder text in line edit widgets is the text appearing
-#. before any user input, briefly explaining to the user what to type
-#. (e.g. "Enter search pattern").
-#. By default the text is set in italic, which may not be appropriate
-#. for some languages and scripts (e.g. for CJK ideographs).
 #. i18n: Placeholder text in text edit widgets is the text appearing
 #. before any user input, briefly explaining to the user what to type
 #. (e.g. "Enter message").
 #. By default the text is set in italic, which may not be appropriate
 #. for some languages and scripts (e.g. for CJK ideographs).
-#: kdeui/widgets/klineedit.cpp:87 kdeui/widgets/ktextedit.cpp:79
+#. i18n: Placeholder text in line edit widgets is the text appearing
+#. before any user input, briefly explaining to the user what to type
+#. (e.g. "Enter search pattern").
+#. By default the text is set in italic, which may not be appropriate
+#. for some languages and scripts (e.g. for CJK ideographs).
+#: kdeui/widgets/ktextedit.cpp:79 kdeui/widgets/klineedit.cpp:87
 #, fuzzy
 #| msgid "%1%"
 msgctxt "Italic placeholder text in line edits: 0 no, 1 yes"
 msgid "1"
 msgstr "%1%"
-
-#: kdeui/widgets/klineedit.cpp:296
-#, fuzzy
-msgctxt "@action:button Clear current text in the line edit"
-msgid "Clear text"
-msgstr "Kierzel läschen"
-
-#: kdeui/widgets/klineedit.cpp:1216
-#, fuzzy
-#| msgid "Text Completion"
-msgctxt "@title:menu"
-msgid "Text Completion"
-msgstr "Ergänzung vum Text"
-
-#: kdeui/widgets/klineedit.cpp:1223
-#, fuzzy
-#| msgid "None"
-msgctxt "@item:inmenu Text Completion"
-msgid "None"
-msgstr "Keng"
-
-#: kdeui/widgets/klineedit.cpp:1224
-#, fuzzy
-#| msgid "Manual"
-msgctxt "@item:inmenu Text Completion"
-msgid "Manual"
-msgstr "Manuell"
-
-#: kdeui/widgets/klineedit.cpp:1225
-#, fuzzy
-#| msgid "Automatic"
-msgctxt "@item:inmenu Text Completion"
-msgid "Automatic"
-msgstr "Automatësch"
-
-#: kdeui/widgets/klineedit.cpp:1226
-#, fuzzy
-#| msgid "Dropdown List"
-msgctxt "@item:inmenu Text Completion"
-msgid "Dropdown List"
-msgstr "Ausklapplëscht"
-
-#: kdeui/widgets/klineedit.cpp:1227
-#, fuzzy
-#| msgid "Short Automatic"
-msgctxt "@item:inmenu Text Completion"
-msgid "Short Automatic"
-msgstr "Automatësch kuerz"
-
-#: kdeui/widgets/klineedit.cpp:1228
-#, fuzzy
-#| msgid "Dropdown List && Automatic"
-msgctxt "@item:inmenu Text Completion"
-msgid "Dropdown List && Automatic"
-msgstr "Ausklapplëscht && Automatik"
-
-#: kdeui/widgets/klineedit.cpp:1259
-#, fuzzy
-#| msgid "Default"
-msgctxt "@item:inmenu Text Completion"
-msgid "Default"
-msgstr "Standard"
 
 #: kdeui/widgets/ktextedit.cpp:525
 #, fuzzy
@@ -10972,6 +10910,68 @@ msgstr ""
 #| msgid "Could not create the new configuration file."
 msgid "You are not allowed to save the configuration"
 msgstr "Konnt déi nei Configuratiounsdatei net erstellen."
+
+#: kdeui/widgets/klineedit.cpp:296
+#, fuzzy
+msgctxt "@action:button Clear current text in the line edit"
+msgid "Clear text"
+msgstr "Kierzel läschen"
+
+#: kdeui/widgets/klineedit.cpp:1216
+#, fuzzy
+#| msgid "Text Completion"
+msgctxt "@title:menu"
+msgid "Text Completion"
+msgstr "Ergänzung vum Text"
+
+#: kdeui/widgets/klineedit.cpp:1223
+#, fuzzy
+#| msgid "None"
+msgctxt "@item:inmenu Text Completion"
+msgid "None"
+msgstr "Keng"
+
+#: kdeui/widgets/klineedit.cpp:1224
+#, fuzzy
+#| msgid "Manual"
+msgctxt "@item:inmenu Text Completion"
+msgid "Manual"
+msgstr "Manuell"
+
+#: kdeui/widgets/klineedit.cpp:1225
+#, fuzzy
+#| msgid "Automatic"
+msgctxt "@item:inmenu Text Completion"
+msgid "Automatic"
+msgstr "Automatësch"
+
+#: kdeui/widgets/klineedit.cpp:1226
+#, fuzzy
+#| msgid "Dropdown List"
+msgctxt "@item:inmenu Text Completion"
+msgid "Dropdown List"
+msgstr "Ausklapplëscht"
+
+#: kdeui/widgets/klineedit.cpp:1227
+#, fuzzy
+#| msgid "Short Automatic"
+msgctxt "@item:inmenu Text Completion"
+msgid "Short Automatic"
+msgstr "Automatësch kuerz"
+
+#: kdeui/widgets/klineedit.cpp:1228
+#, fuzzy
+#| msgid "Dropdown List && Automatic"
+msgctxt "@item:inmenu Text Completion"
+msgid "Dropdown List && Automatic"
+msgstr "Ausklapplëscht && Automatik"
+
+#: kdeui/widgets/klineedit.cpp:1259
+#, fuzzy
+#| msgid "Default"
+msgctxt "@item:inmenu Text Completion"
+msgid "Default"
+msgstr "Standard"
 
 #: kdeui/widgets/kpixmapregionselectorwidget.cpp:195
 msgid "Image Operations"
@@ -14574,16 +14574,16 @@ msgstr "Komponenten auswielen"
 msgid "Enable component"
 msgstr "Abettungsfäheg HTML-Komponent"
 
-#: nepomuk/core/resource.cpp:532
+#: nepomuk/core/resource.cpp:554
 msgid "Success"
 msgstr ""
 
-#: nepomuk/core/resource.cpp:534
+#: nepomuk/core/resource.cpp:556
 #, fuzzy
 msgid "Communication error"
 msgstr "Configuratioun"
 
-#: nepomuk/core/resource.cpp:536
+#: nepomuk/core/resource.cpp:558
 #, fuzzy
 #| msgid "Invalid reference base"
 msgid "Invalid type in Database"
