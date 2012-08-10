@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-07 21:36+0200\n"
+"POT-Creation-Date: 2012-08-10 13:58+0200\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2725,32 +2725,6 @@ msgstr "IWW"
 msgid "INS"
 msgstr "AFÜG"
 
-#: view/kateviewaccessible.h:80
-msgid "Move To..."
-msgstr ""
-
-#: view/kateviewaccessible.h:81
-#, fuzzy
-#| msgid "Move Word Left"
-msgid "Move Left"
-msgstr "Wuert no lénks bewegen"
-
-#: view/kateviewaccessible.h:82
-#, fuzzy
-#| msgid "Move Word Right"
-msgid "Move Right"
-msgstr "Wuert no riets bewegen"
-
-#: view/kateviewaccessible.h:83
-#, fuzzy
-#| msgid "Join Lines"
-msgid "Move Up"
-msgstr "Zeilen zesummeféieren"
-
-#: view/kateviewaccessible.h:84
-msgid "Move Down"
-msgstr ""
-
 #: view/kateviewhelpers.cpp:363
 msgid "Available Commands"
 msgstr "Verfügbar Kommandoen"
@@ -2813,6 +2787,32 @@ msgstr "Standard-Markéierungstyp festleeën"
 
 #: view/kateviewhelpers.cpp:1661
 msgid "Disable Annotation Bar"
+msgstr ""
+
+#: view/kateviewaccessible.h:80
+msgid "Move To..."
+msgstr ""
+
+#: view/kateviewaccessible.h:81
+#, fuzzy
+#| msgid "Move Word Left"
+msgid "Move Left"
+msgstr "Wuert no lénks bewegen"
+
+#: view/kateviewaccessible.h:82
+#, fuzzy
+#| msgid "Move Word Right"
+msgid "Move Right"
+msgstr "Wuert no riets bewegen"
+
+#: view/kateviewaccessible.h:83
+#, fuzzy
+#| msgid "Join Lines"
+msgid "Move Up"
+msgstr "Zeilen zesummeféieren"
+
+#: view/kateviewaccessible.h:84
+msgid "Move Down"
 msgstr ""
 
 #: vimode/katevimodebar.cpp:125
