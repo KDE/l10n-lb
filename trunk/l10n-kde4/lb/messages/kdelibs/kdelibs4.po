@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-07 08:18+0200\n"
+"POT-Creation-Date: 2012-08-10 05:03+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -5300,7 +5300,7 @@ msgid "Connection timed out"
 msgstr "D'Verbindungszäit ass iwwerschratt ginn"
 
 #: kdecore/network/klocalsocket_unix.cpp:213
-#: kdecore/network/klocalsocket_unix.cpp:293 nepomuk/core/resource.cpp:538
+#: kdecore/network/klocalsocket_unix.cpp:293 nepomuk/core/resource.cpp:560
 #, fuzzy
 #| msgctxt "QFile"
 #| msgid "Unknown error"
@@ -5955,43 +5955,6 @@ msgstr ""
 "Statusbar weisen<p>Weist d'Statusbar. Dat ass déi Leescht ënnen an der "
 "Fënster fir d'Statusinformatiounen."
 
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:84
-#, fuzzy
-msgid ""
-"<qt>No information available.<br />The supplied KAboutData object does not "
-"exist.</qt>"
-msgstr ""
-"Keng Informatioun verfügbar.\n"
-"Et gëtt kee passend KAboutData-Objekt."
-
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:113
-#, kde-format
-msgid ""
-"<html><font size=\"5\">%1</font><br /><b>Version %2</b><br />&nbsp;</html>"
-msgstr ""
-
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:117
-#, kde-format
-msgctxt ""
-"Program name, version and KDE platform version; do not translate "
-"'Development Platform'"
-msgid ""
-"<html><font size=\"5\">%1</font><br /><b>Version %2</b><br />Using KDE "
-"Development Platform %3</html>"
-msgstr ""
-
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:153
-#, fuzzy, kde-format
-#| msgid "License:"
-msgid "License: %1"
-msgstr "Lizenz:"
-
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:312
-#, fuzzy
-#| msgid "&License Agreement"
-msgid "License Agreement"
-msgstr "&Lizenz"
-
 #: kdeui/dialogs/klinkdialog.cpp:49
 #, fuzzy
 #| msgid "Save Link As"
@@ -6549,6 +6512,43 @@ msgstr "Rotschléi beim Start &weisen"
 msgctxt "Opposite to Previous"
 msgid "&Next"
 msgstr "&Weider"
+
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:84
+#, fuzzy
+msgid ""
+"<qt>No information available.<br />The supplied KAboutData object does not "
+"exist.</qt>"
+msgstr ""
+"Keng Informatioun verfügbar.\n"
+"Et gëtt kee passend KAboutData-Objekt."
+
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:113
+#, kde-format
+msgid ""
+"<html><font size=\"5\">%1</font><br /><b>Version %2</b><br />&nbsp;</html>"
+msgstr ""
+
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:117
+#, kde-format
+msgctxt ""
+"Program name, version and KDE platform version; do not translate "
+"'Development Platform'"
+msgid ""
+"<html><font size=\"5\">%1</font><br /><b>Version %2</b><br />Using KDE "
+"Development Platform %3</html>"
+msgstr ""
+
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:153
+#, fuzzy, kde-format
+#| msgid "License:"
+msgid "License: %1"
+msgstr "Lizenz:"
+
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:315
+#, fuzzy
+#| msgid "&License Agreement"
+msgid "License Agreement"
+msgstr "&Lizenz"
 
 #: kdeui/dialogs/kshortcutseditoritem.cpp:45
 #, fuzzy, kde-format
@@ -10541,6 +10541,117 @@ msgstr ""
 msgid "Separator, Space"
 msgstr "Mam Ersetzen ufänken"
 
+#: kdeui/widgets/ktoolbar.cpp:292
+#, fuzzy
+#| msgid "Show help"
+msgctxt "@title:menu"
+msgid "Show Text"
+msgstr "Hëllef weisen"
+
+#: kdeui/widgets/ktoolbar.cpp:295
+#, fuzzy
+#| msgid "Toolbar Menu"
+msgctxt "@title:menu"
+msgid "Toolbar Settings"
+msgstr "Toolbar-Menü"
+
+#: kdeui/widgets/ktoolbar.cpp:297
+#, fuzzy
+#| msgid "Orientation"
+msgctxt "Toolbar orientation"
+msgid "Orientation"
+msgstr "Ausriichtung"
+
+#: kdeui/widgets/ktoolbar.cpp:299
+msgctxt "toolbar position string"
+msgid "Top"
+msgstr "Uewen"
+
+#: kdeui/widgets/ktoolbar.cpp:301
+msgctxt "toolbar position string"
+msgid "Left"
+msgstr "Lénks"
+
+#: kdeui/widgets/ktoolbar.cpp:302
+msgctxt "toolbar position string"
+msgid "Right"
+msgstr "Riets"
+
+#: kdeui/widgets/ktoolbar.cpp:303
+msgctxt "toolbar position string"
+msgid "Bottom"
+msgstr "Ënnen"
+
+#: kdeui/widgets/ktoolbar.cpp:311
+msgid "Text Position"
+msgstr "Positioun vum Text"
+
+#: kdeui/widgets/ktoolbar.cpp:313
+msgid "Icons Only"
+msgstr "Nëmme Symboler"
+
+#: kdeui/widgets/ktoolbar.cpp:314
+msgid "Text Only"
+msgstr "Nëmmen Text"
+
+#: kdeui/widgets/ktoolbar.cpp:315
+msgid "Text Alongside Icons"
+msgstr "Text nierwt de Symboler"
+
+#: kdeui/widgets/ktoolbar.cpp:316
+msgid "Text Under Icons"
+msgstr "Text ënnert de Symboler"
+
+#: kdeui/widgets/ktoolbar.cpp:324
+msgid "Icon Size"
+msgstr "Gréisst vum Symbol"
+
+#: kdeui/widgets/ktoolbar.cpp:326
+#, fuzzy
+#| msgid "Default"
+msgctxt "@item:inmenu Icon size"
+msgid "Default"
+msgstr "Standard"
+
+#: kdeui/widgets/ktoolbar.cpp:343 kdeui/widgets/ktoolbar.cpp:363
+#, kde-format
+msgid "Small (%1x%2)"
+msgstr "Kleng (%1x%2)"
+
+#: kdeui/widgets/ktoolbar.cpp:345 kdeui/widgets/ktoolbar.cpp:365
+#, kde-format
+msgid "Medium (%1x%2)"
+msgstr "Mëttel (%1x%2)"
+
+#: kdeui/widgets/ktoolbar.cpp:347 kdeui/widgets/ktoolbar.cpp:367
+#, kde-format
+msgid "Large (%1x%2)"
+msgstr "Grouss (%1x%2)"
+
+#: kdeui/widgets/ktoolbar.cpp:349 kdeui/widgets/ktoolbar.cpp:369
+#, kde-format
+msgid "Huge (%1x%2)"
+msgstr "Risëg (%1x%2)"
+
+#: kdeui/widgets/ktoolbar.cpp:389
+#, fuzzy
+msgid "Lock Toolbar Positions"
+msgstr "Toolbaren"
+
+#: kdeui/widgets/ktoolbar.cpp:1326
+#, fuzzy, kde-format
+#| msgid "%1%"
+msgctxt "@action:intoolbar Text label of toolbar button"
+msgid "%1"
+msgstr "%1%"
+
+#: kdeui/widgets/ktoolbar.cpp:1327
+#, fuzzy, kde-format
+#| msgid "%1%"
+msgctxt "@info:tooltip Tooltip of toolbar button"
+msgid "%1"
+msgstr "%1%"
+
 #. i18n: Placeholder text in text edit widgets is the text appearing
 #. before any user input, briefly explaining to the user what to type
 #. (e.g. "Enter message").
@@ -10868,116 +10979,6 @@ msgstr "Der &Auer no dréien"
 #: kdeui/widgets/kpixmapregionselectorwidget.cpp:205
 msgid "Rotate &Counterclockwise"
 msgstr "&Géint d'Auer dréien"
-
-#: kdeui/widgets/ktoolbar.cpp:292
-#, fuzzy
-#| msgid "Show help"
-msgctxt "@title:menu"
-msgid "Show Text"
-msgstr "Hëllef weisen"
-
-#: kdeui/widgets/ktoolbar.cpp:295
-#, fuzzy
-#| msgid "Toolbar Menu"
-msgctxt "@title:menu"
-msgid "Toolbar Settings"
-msgstr "Toolbar-Menü"
-
-#: kdeui/widgets/ktoolbar.cpp:297
-#, fuzzy
-#| msgid "Orientation"
-msgid "Orientation"
-msgstr "Ausriichtung"
-
-#: kdeui/widgets/ktoolbar.cpp:299
-msgctxt "toolbar position string"
-msgid "Top"
-msgstr "Uewen"
-
-#: kdeui/widgets/ktoolbar.cpp:301
-msgctxt "toolbar position string"
-msgid "Left"
-msgstr "Lénks"
-
-#: kdeui/widgets/ktoolbar.cpp:302
-msgctxt "toolbar position string"
-msgid "Right"
-msgstr "Riets"
-
-#: kdeui/widgets/ktoolbar.cpp:303
-msgctxt "toolbar position string"
-msgid "Bottom"
-msgstr "Ënnen"
-
-#: kdeui/widgets/ktoolbar.cpp:311
-msgid "Text Position"
-msgstr "Positioun vum Text"
-
-#: kdeui/widgets/ktoolbar.cpp:313
-msgid "Icons Only"
-msgstr "Nëmme Symboler"
-
-#: kdeui/widgets/ktoolbar.cpp:314
-msgid "Text Only"
-msgstr "Nëmmen Text"
-
-#: kdeui/widgets/ktoolbar.cpp:315
-msgid "Text Alongside Icons"
-msgstr "Text nierwt de Symboler"
-
-#: kdeui/widgets/ktoolbar.cpp:316
-msgid "Text Under Icons"
-msgstr "Text ënnert de Symboler"
-
-#: kdeui/widgets/ktoolbar.cpp:324
-msgid "Icon Size"
-msgstr "Gréisst vum Symbol"
-
-#: kdeui/widgets/ktoolbar.cpp:326
-#, fuzzy
-#| msgid "Default"
-msgctxt "@item:inmenu Icon size"
-msgid "Default"
-msgstr "Standard"
-
-#: kdeui/widgets/ktoolbar.cpp:343 kdeui/widgets/ktoolbar.cpp:363
-#, kde-format
-msgid "Small (%1x%2)"
-msgstr "Kleng (%1x%2)"
-
-#: kdeui/widgets/ktoolbar.cpp:345 kdeui/widgets/ktoolbar.cpp:365
-#, kde-format
-msgid "Medium (%1x%2)"
-msgstr "Mëttel (%1x%2)"
-
-#: kdeui/widgets/ktoolbar.cpp:347 kdeui/widgets/ktoolbar.cpp:367
-#, kde-format
-msgid "Large (%1x%2)"
-msgstr "Grouss (%1x%2)"
-
-#: kdeui/widgets/ktoolbar.cpp:349 kdeui/widgets/ktoolbar.cpp:369
-#, kde-format
-msgid "Huge (%1x%2)"
-msgstr "Risëg (%1x%2)"
-
-#: kdeui/widgets/ktoolbar.cpp:389
-#, fuzzy
-msgid "Lock Toolbar Positions"
-msgstr "Toolbaren"
-
-#: kdeui/widgets/ktoolbar.cpp:1326
-#, fuzzy, kde-format
-#| msgid "%1%"
-msgctxt "@action:intoolbar Text label of toolbar button"
-msgid "%1"
-msgstr "%1%"
-
-#: kdeui/widgets/ktoolbar.cpp:1327
-#, fuzzy, kde-format
-#| msgid "%1%"
-msgctxt "@info:tooltip Tooltip of toolbar button"
-msgid "%1"
-msgstr "%1%"
 
 #: kdeui/widgets/krichtextwidget.cpp:232
 #, fuzzy
@@ -14568,16 +14569,16 @@ msgstr "Komponenten auswielen"
 msgid "Enable component"
 msgstr "Abettungsfäheg HTML-Komponent"
 
-#: nepomuk/core/resource.cpp:532
+#: nepomuk/core/resource.cpp:554
 msgid "Success"
 msgstr ""
 
-#: nepomuk/core/resource.cpp:534
+#: nepomuk/core/resource.cpp:556
 #, fuzzy
 msgid "Communication error"
 msgstr "Configuratioun"
 
-#: nepomuk/core/resource.cpp:536
+#: nepomuk/core/resource.cpp:558
 #, fuzzy
 #| msgid "Invalid reference base"
 msgid "Invalid type in Database"
