@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-07 21:42+0200\n"
+"POT-Creation-Date: 2012-08-18 17:05+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1373,7 +1373,7 @@ msgstr ""
 #. i18n: file: threadweaver/Examples/Jobs/JobsBase.ui:87
 #. i18n: ectx: property (text), widget (QPushButton, pbStop)
 #: rc.cpp:700 rc.cpp:1130 kdeui/jobs/kstatusbarjobtracker.cpp:160
-#: kdeui/util/kkeyserver_x11.cpp:103 kdeui/util/kstandardguiitem.cpp:281
+#: kdeui/util/kstandardguiitem.cpp:281 kdeui/util/kkeyserver_x11.cpp:103
 #: kross/ui/view.cpp:308
 msgid "Stop"
 msgstr "Stop"
@@ -8747,70 +8747,6 @@ msgstr ""
 msgid "There is no matching item available.\n"
 msgstr "Näischt passendes fonnt ginn.\n"
 
-#: kdeui/util/kkeyserver_x11.cpp:95
-msgid "Backspace"
-msgstr "Zeréck-Tast"
-
-#: kdeui/util/kkeyserver_x11.cpp:96
-msgid "SysReq"
-msgstr "System offänken"
-
-#: kdeui/util/kkeyserver_x11.cpp:97
-msgid "CapsLock"
-msgstr "Caps Lock"
-
-#: kdeui/util/kkeyserver_x11.cpp:98
-msgid "NumLock"
-msgstr "Num Lock"
-
-#: kdeui/util/kkeyserver_x11.cpp:99
-msgid "ScrollLock"
-msgstr "Scroll Lock"
-
-#: kdeui/util/kkeyserver_x11.cpp:100
-msgid "PageUp"
-msgstr "Page Up"
-
-#: kdeui/util/kkeyserver_x11.cpp:101
-msgid "PageDown"
-msgstr "Page Down"
-
-#: kdeui/util/kkeyserver_x11.cpp:104
-msgid "Again"
-msgstr "Nach eng Kéier"
-
-#: kdeui/util/kkeyserver_x11.cpp:105
-msgid "Props"
-msgstr "Eegeschaften"
-
-#: kdeui/util/kkeyserver_x11.cpp:106 kdeui/util/kundostack.cpp:67
-msgid "Undo"
-msgstr "Réckgängeg"
-
-#: kdeui/util/kkeyserver_x11.cpp:107
-msgid "Front"
-msgstr "Vir"
-
-#: kdeui/util/kkeyserver_x11.cpp:108
-msgid "Copy"
-msgstr "Kopéieren"
-
-#: kdeui/util/kkeyserver_x11.cpp:109
-msgid "Open"
-msgstr "Opmaachen"
-
-#: kdeui/util/kkeyserver_x11.cpp:110
-msgid "Paste"
-msgstr "Peschen"
-
-#: kdeui/util/kkeyserver_x11.cpp:111
-msgid "Find"
-msgstr "Sichen"
-
-#: kdeui/util/kkeyserver_x11.cpp:112
-msgid "Cut"
-msgstr "Ausschneiden"
-
 #: kdeui/util/kstandardguiitem.cpp:109
 msgid "&OK"
 msgstr "&OK"
@@ -9056,6 +8992,70 @@ msgstr "&Iwwerschreiwen"
 #| msgid "Redo"
 msgid "Redo"
 msgstr "Nees zeréck"
+
+#: kdeui/util/kundostack.cpp:67 kdeui/util/kkeyserver_x11.cpp:106
+msgid "Undo"
+msgstr "Réckgängeg"
+
+#: kdeui/util/kkeyserver_x11.cpp:95
+msgid "Backspace"
+msgstr "Zeréck-Tast"
+
+#: kdeui/util/kkeyserver_x11.cpp:96
+msgid "SysReq"
+msgstr "System offänken"
+
+#: kdeui/util/kkeyserver_x11.cpp:97
+msgid "CapsLock"
+msgstr "Caps Lock"
+
+#: kdeui/util/kkeyserver_x11.cpp:98
+msgid "NumLock"
+msgstr "Num Lock"
+
+#: kdeui/util/kkeyserver_x11.cpp:99
+msgid "ScrollLock"
+msgstr "Scroll Lock"
+
+#: kdeui/util/kkeyserver_x11.cpp:100
+msgid "PageUp"
+msgstr "Page Up"
+
+#: kdeui/util/kkeyserver_x11.cpp:101
+msgid "PageDown"
+msgstr "Page Down"
+
+#: kdeui/util/kkeyserver_x11.cpp:104
+msgid "Again"
+msgstr "Nach eng Kéier"
+
+#: kdeui/util/kkeyserver_x11.cpp:105
+msgid "Props"
+msgstr "Eegeschaften"
+
+#: kdeui/util/kkeyserver_x11.cpp:107
+msgid "Front"
+msgstr "Vir"
+
+#: kdeui/util/kkeyserver_x11.cpp:108
+msgid "Copy"
+msgstr "Kopéieren"
+
+#: kdeui/util/kkeyserver_x11.cpp:109
+msgid "Open"
+msgstr "Opmaachen"
+
+#: kdeui/util/kkeyserver_x11.cpp:110
+msgid "Paste"
+msgstr "Peschen"
+
+#: kdeui/util/kkeyserver_x11.cpp:111
+msgid "Find"
+msgstr "Sichen"
+
+#: kdeui/util/kkeyserver_x11.cpp:112
+msgid "Cut"
+msgstr "Ausschneiden"
 
 #: kdeui/widgets/kactionselector.cpp:100
 msgid "&Available:"
