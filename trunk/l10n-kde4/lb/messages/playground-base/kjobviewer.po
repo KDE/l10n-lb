@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kjobviewer\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-18 04:29+0200\n"
+"POT-Creation-Date: 2012-08-19 05:52+0200\n"
 "PO-Revision-Date: 2005-12-27 21:28+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -20,25 +20,25 @@ msgid "All Printers"
 msgstr "All Dréckeren"
 
 #: kjobviewer.cpp:141
-msgid "Print Error"
-msgstr "Feeler beim Drécken"
-
-#: kjobviewer.cpp:141
 msgid "There is no default printer. Start with --all to see all printers."
 msgstr ""
 "Et gëtt kee Standarddrécker. Start mat --all fir all d'Dréckeren ze gesinn."
 
+#: kjobviewer.cpp:141
+msgid "Print Error"
+msgstr "Feeler beim Drécken"
+
 #: main.cpp:31
-msgid "(c) 2001, Michael Goffioul"
-msgstr ""
+msgid "KJobViewer"
+msgstr "KJobViewer"
 
 #: main.cpp:31
 msgid "A print job viewer"
 msgstr "En Uweiser fir Drockoptreeg"
 
 #: main.cpp:31
-msgid "KJobViewer"
-msgstr "KJobViewer"
+msgid "(c) 2001, Michael Goffioul"
+msgstr ""
 
 #: main.cpp:32
 msgid "Michael Goffioul"
