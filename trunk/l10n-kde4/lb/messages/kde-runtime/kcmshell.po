@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmshell\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-02 05:31+0200\n"
+"POT-Creation-Date: 2012-08-20 04:50+0200\n"
 "PO-Revision-Date: 2005-12-04 23:02+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -14,6 +14,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Michel Ludwig"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "michel.ludwig@kdemail.net"
 
 #: main.cpp:168
 msgid "KDE Control Module"
@@ -89,16 +97,6 @@ msgid ""
 "Could not find module '%1'. See kcmshell4 --list for the full list of "
 "modules."
 msgstr ""
-
-#: rc.cpp:1
-msgctxt "NAME OF TRANSLATORS"
-msgid "Your names"
-msgstr "Michel Ludwig"
-
-#: rc.cpp:2
-msgctxt "EMAIL OF TRANSLATORS"
-msgid "Your emails"
-msgstr "michel.ludwig@kdemail.net"
 
 #~ msgid "Embeds the module with buttons in window with id <id>"
 #~ msgstr "Bett d'Modul mat Knäppercher an der Fënster mat der id <id> an"

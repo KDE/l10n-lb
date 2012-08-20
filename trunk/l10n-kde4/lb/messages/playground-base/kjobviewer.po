@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kjobviewer\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-19 05:52+0200\n"
+"POT-Creation-Date: 2012-08-20 06:00+0200\n"
 "PO-Revision-Date: 2005-12-27 21:28+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -14,6 +14,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Michel Ludwig"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "michel.ludwig@kdemail.net"
 
 #: kjobviewer.cpp:134
 msgid "All Printers"
@@ -27,6 +35,16 @@ msgstr ""
 #: kjobviewer.cpp:141
 msgid "Print Error"
 msgstr "Feeler beim Drécken"
+
+#. i18n: ectx: Menu (jobs)
+#: kjobviewerui.rc:4
+msgid "&Jobs"
+msgstr "Optree&g"
+
+#. i18n: ectx: Menu (filter)
+#: kjobviewerui.rc:13
+msgid "F&ilter"
+msgstr "F&ilter"
 
 #: main.cpp:31
 msgid "KJobViewer"
@@ -55,25 +73,3 @@ msgstr "Optrag-Uweiser beim Starte weisen"
 #: main.cpp:38
 msgid "Show jobs for all printers"
 msgstr "Optreeg fir all Dréckeren uweisen"
-
-#: rc.cpp:1
-msgctxt "NAME OF TRANSLATORS"
-msgid "Your names"
-msgstr "Michel Ludwig"
-
-#: rc.cpp:2
-msgctxt "EMAIL OF TRANSLATORS"
-msgid "Your emails"
-msgstr "michel.ludwig@kdemail.net"
-
-#. i18n: file: kjobviewerui.rc:4
-#. i18n: ectx: Menu (jobs)
-#: rc.cpp:5
-msgid "&Jobs"
-msgstr "Optree&g"
-
-#. i18n: file: kjobviewerui.rc:13
-#. i18n: ectx: Menu (filter)
-#: rc.cpp:8
-msgid "F&ilter"
-msgstr "F&ilter"
