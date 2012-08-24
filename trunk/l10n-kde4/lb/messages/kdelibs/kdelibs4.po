@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-23 10:29+0200\n"
+"POT-Creation-Date: 2012-08-24 04:57+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -14037,11 +14037,11 @@ msgstr "Unhuelen"
 msgid "Reject"
 msgstr "Zeréckweisen"
 
-#: kparts/part.cpp:815
+#: kparts/part.cpp:816
 msgid "Untitled"
 msgstr "Onbenannt"
 
-#: kparts/part.cpp:821
+#: kparts/part.cpp:822
 #, kde-format
 msgid ""
 "The document \"%1\" has been modified.\n"
@@ -14050,7 +14050,7 @@ msgstr ""
 "Den Dokument \"%1\" ass verännert ginn.\n"
 "Wëllt dir e späicheren oder sou si loosse, wéi e war?"
 
-#: kparts/part.cpp:823
+#: kparts/part.cpp:824
 msgid "Close Document"
 msgstr "Dokument zoumaachen"
 
