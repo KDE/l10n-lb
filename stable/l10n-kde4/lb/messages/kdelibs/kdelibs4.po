@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-09-17 12:39+0200\n"
+"POT-Creation-Date: 2012-09-22 14:04+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -9874,15 +9874,15 @@ msgctxt "@item:inmenu Text Completion"
 msgid "Default"
 msgstr "Standard"
 
-#: kdeui/widgets/kpixmapregionselectorwidget.cpp:195
+#: kdeui/widgets/kpixmapregionselectorwidget.cpp:193
 msgid "Image Operations"
 msgstr "Bildmodifikatioun"
 
-#: kdeui/widgets/kpixmapregionselectorwidget.cpp:198
+#: kdeui/widgets/kpixmapregionselectorwidget.cpp:196
 msgid "&Rotate Clockwise"
 msgstr "Der &Auer no dréien"
 
-#: kdeui/widgets/kpixmapregionselectorwidget.cpp:205
+#: kdeui/widgets/kpixmapregionselectorwidget.cpp:203
 msgid "Rotate &Counterclockwise"
 msgstr "&Géint d'Auer dréien"
 
