@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-10-19 04:36+0200\n"
+"POT-Creation-Date: 2012-10-20 04:52+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -10862,7 +10862,7 @@ msgstr "Ënnerschriwwe vun (Nogekuckt: "
 msgid "Certificate (validation: %1)"
 msgstr "Zertifikat (Nogekuckt: "
 
-#: khtml/java/kjavaappletserver.cpp:794 khtml/khtml_part.cpp:6826
+#: khtml/java/kjavaappletserver.cpp:794 khtml/khtml_part.cpp:6830
 msgid "Security Alert"
 msgstr "Sëcherheetsnoricht"
 
@@ -11057,12 +11057,12 @@ msgstr "Datei iwwerschreiwen?"
 msgid "Overwrite"
 msgstr "Iwwerschreiwen"
 
-#: khtml/khtml_ext.cpp:940 kparts/browserrun.cpp:405
+#: khtml/khtml_ext.cpp:940 kparts/browserrun.cpp:397
 #, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "Den Download-Manager (%1) konnt an ärem PATH net fonnt ginn "
 
-#: khtml/khtml_ext.cpp:941 kparts/browserrun.cpp:406
+#: khtml/khtml_ext.cpp:941 kparts/browserrun.cpp:398
 #, fuzzy
 msgid ""
 "Try to reinstall it  \n"
@@ -11414,7 +11414,7 @@ msgid " - BCC: "
 msgstr " - BCC: "
 
 #: khtml/khtml_part.cpp:3730 khtml/khtml_part.cpp:3959
-#: khtml/khtml_part.cpp:4380 khtml/khtml_run.cpp:104 kparts/browserrun.cpp:434
+#: khtml/khtml_part.cpp:4380 khtml/khtml_run.cpp:104 kparts/browserrun.cpp:426
 msgid "Save As"
 msgstr "Späicheren als"
 
@@ -11541,16 +11541,16 @@ msgstr ""
 "De Server huet probéiert, eng Datei aus ärem Dateiesystem un de Formular "
 "drunnzehänken. Den Unhang ass zu ärer Sëcherheet geläscht ginn."
 
-#: khtml/khtml_part.cpp:5904
+#: khtml/khtml_part.cpp:5908
 #, kde-format
 msgid "(%1/s)"
 msgstr "(%1/s)"
 
-#: khtml/khtml_part.cpp:6816
+#: khtml/khtml_part.cpp:6820
 msgid "Security Warning"
 msgstr "Sëcherheetswarnung"
 
-#: khtml/khtml_part.cpp:6825
+#: khtml/khtml_part.cpp:6829
 #, fuzzy, kde-format
 #| msgid "<qt>Access by untrusted page to<BR><B>%1</B><BR> denied."
 msgid "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
@@ -11558,40 +11558,40 @@ msgstr ""
 "<qt>Zougang op<BR><B>%1</B><BR>duerch eng Säit, déi als net sëcher ugesinn "
 "ass, verweigert."
 
-#: khtml/khtml_part.cpp:7174
+#: khtml/khtml_part.cpp:7178
 #, kde-format
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr ""
 "Den digitale Portemonnaie '%1' ass op a gëtt fir Formularer a Passwierder "
 "benotzt."
 
-#: khtml/khtml_part.cpp:7234
+#: khtml/khtml_part.cpp:7238
 msgid "&Close Wallet"
 msgstr "Portemonnaie &zoumaachen"
 
-#: khtml/khtml_part.cpp:7237
+#: khtml/khtml_part.cpp:7241
 msgid "&Allow storing passwords for this site"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7242
+#: khtml/khtml_part.cpp:7246
 #, kde-format
 msgid "Remove password for form %1"
 msgstr ""
 
-#: khtml/khtml_part.cpp:7347
+#: khtml/khtml_part.cpp:7351
 msgid "JavaScript &Debugger"
 msgstr "JavaScript-&Debugger"
 
-#: khtml/khtml_part.cpp:7379
+#: khtml/khtml_part.cpp:7383
 msgid "This page was prevented from opening a new window via JavaScript."
 msgstr ""
 "Dëss Säit ass dovun ofgehal ginn, mat JavaScript eng nei fënster opzemaachen."
 
-#: khtml/khtml_part.cpp:7385
+#: khtml/khtml_part.cpp:7389
 msgid "Popup Window Blocked"
 msgstr "Popup-Fënster blockéiert"
 
-#: khtml/khtml_part.cpp:7385
+#: khtml/khtml_part.cpp:7389
 msgid ""
 "This page has attempted to open a popup window but was blocked.\n"
 "You can click on this icon in the status bar to control this behavior\n"
@@ -11602,18 +11602,18 @@ msgstr ""
 "d'Fënster\n"
 "awer opzemaachen oder Astellunge virzehuelen."
 
-#: khtml/khtml_part.cpp:7398
+#: khtml/khtml_part.cpp:7402
 #, fuzzy, kde-format
 msgid "&Show Blocked Popup Window"
 msgid_plural "&Show %1 Blocked Popup Windows"
 msgstr[0] "Blockéiert Popup-Fënster &weisen"
 msgstr[1] "%1 blockéiert Popup-Fënstere weisen"
 
-#: khtml/khtml_part.cpp:7399
+#: khtml/khtml_part.cpp:7403
 msgid "Show Blocked Window Passive Popup &Notification"
 msgstr "Passiv &Norichtefënster bei blockéierte Popup-Fënsteren uweisen"
 
-#: khtml/khtml_part.cpp:7401
+#: khtml/khtml_part.cpp:7405
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "JavaScript fir Fënsteren nei opzemaache &configuréieren..."
 
@@ -12307,7 +12307,7 @@ msgid "<h1>KJSEmbed Documentation Viewer</h1>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QPushButton, mExecute)
-#: kjsembed/examples/kjsconsole/jsconsole.ui:106 kparts/browserrun.cpp:344
+#: kjsembed/examples/kjsconsole/jsconsole.ui:106 kparts/browserrun.cpp:336
 msgid "Execute"
 msgstr "Ausféieren"
 
@@ -14026,13 +14026,13 @@ msgctxt "@info:whatsthis"
 msgid "This is the file name suggested by the server"
 msgstr ""
 
-#: kparts/browserrun.cpp:343
+#: kparts/browserrun.cpp:335
 #, fuzzy, kde-format
 #| msgid "Do you really want to execute '%1'? "
 msgid "Do you really want to execute '%1'?"
 msgstr "Wëllt dir '%1' wiirklech lafe loossen? "
 
-#: kparts/browserrun.cpp:344
+#: kparts/browserrun.cpp:336
 msgid "Execute File?"
 msgstr "Datei ausféieren?"
 
