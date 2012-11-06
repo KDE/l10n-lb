@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-11-01 04:47+0100\n"
+"POT-Creation-Date: 2012-11-06 03:33+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -3987,8 +3987,8 @@ msgstr "St&atusbar weisen"
 #| "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of "
 #| "the window used for status information."
 msgid ""
-"Show Statusbar<br /><br />Shows the statusbar, which is the bar at the "
-"bottom of the window used for status information."
+"Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of the "
+"window used for status information.</p>"
 msgstr ""
 "Statusbar weisen<p>Weist d'Statusbar. Dat ass déi Leescht ënnen an der "
 "Fënster fir d'Statusinformatiounen."
@@ -6591,22 +6591,14 @@ msgctxt "@info:whatsthis"
 msgid "Here you can choose the font style to be used."
 msgstr "Hei kënnt dir de Schrëftstil wielen, dee benotzt soll ginn."
 
-#: kdeui/fonts/kfontchooser.cpp:298 kdeui/fonts/kfontchooser.cpp:629
-#: kdeui/fonts/kfontchooser.cpp:647
-#, fuzzy
-#| msgid "Regular"
-msgctxt "@item font"
-msgid "Regular"
-msgstr "Normal"
-
-#: kdeui/fonts/kfontchooser.cpp:299 kdeui/fonts/kfontchooser.cpp:651
+#: kdeui/fonts/kfontchooser.cpp:299 kdeui/fonts/kfontchooser.cpp:645
 #, fuzzy
 #| msgid "Italic"
 msgctxt "@item font"
 msgid "Italic"
 msgstr "Kursiv"
 
-#: kdeui/fonts/kfontchooser.cpp:300 kdeui/fonts/kfontchooser.cpp:652
+#: kdeui/fonts/kfontchooser.cpp:300 kdeui/fonts/kfontchooser.cpp:646
 #, fuzzy
 #| msgctxt "font style"
 #| msgid "Oblique"
@@ -6681,7 +6673,7 @@ msgstr "Aktuell Schrëft"
 #. noun-adjective congruence wrt. gender of the family name).
 #. The message provides the dynamic context 'family', which is
 #. the family name to which the style string corresponds.
-#: kdeui/fonts/kfontchooser.cpp:636
+#: kdeui/fonts/kfontchooser.cpp:630
 #, fuzzy, kde-format
 #| msgid "%1%"
 msgctxt "@item Font style"
@@ -9825,56 +9817,56 @@ msgctxt "@action:button Clear current text in the line edit"
 msgid "Clear text"
 msgstr "Kierzel läschen"
 
-#: kdeui/widgets/klineedit.cpp:1216
+#: kdeui/widgets/klineedit.cpp:1213
 #, fuzzy
 #| msgid "Text Completion"
 msgctxt "@title:menu"
 msgid "Text Completion"
 msgstr "Ergänzung vum Text"
 
-#: kdeui/widgets/klineedit.cpp:1223
+#: kdeui/widgets/klineedit.cpp:1220
 #, fuzzy
 #| msgid "None"
 msgctxt "@item:inmenu Text Completion"
 msgid "None"
 msgstr "Keng"
 
-#: kdeui/widgets/klineedit.cpp:1224
+#: kdeui/widgets/klineedit.cpp:1221
 #, fuzzy
 #| msgid "Manual"
 msgctxt "@item:inmenu Text Completion"
 msgid "Manual"
 msgstr "Manuell"
 
-#: kdeui/widgets/klineedit.cpp:1225
+#: kdeui/widgets/klineedit.cpp:1222
 #, fuzzy
 #| msgid "Automatic"
 msgctxt "@item:inmenu Text Completion"
 msgid "Automatic"
 msgstr "Automatësch"
 
-#: kdeui/widgets/klineedit.cpp:1226
+#: kdeui/widgets/klineedit.cpp:1223
 #, fuzzy
 #| msgid "Dropdown List"
 msgctxt "@item:inmenu Text Completion"
 msgid "Dropdown List"
 msgstr "Ausklapplëscht"
 
-#: kdeui/widgets/klineedit.cpp:1227
+#: kdeui/widgets/klineedit.cpp:1224
 #, fuzzy
 #| msgid "Short Automatic"
 msgctxt "@item:inmenu Text Completion"
 msgid "Short Automatic"
 msgstr "Automatësch kuerz"
 
-#: kdeui/widgets/klineedit.cpp:1228
+#: kdeui/widgets/klineedit.cpp:1225
 #, fuzzy
 #| msgid "Dropdown List && Automatic"
 msgctxt "@item:inmenu Text Completion"
 msgid "Dropdown List && Automatic"
 msgstr "Ausklapplëscht && Automatik"
 
-#: kdeui/widgets/klineedit.cpp:1259
+#: kdeui/widgets/klineedit.cpp:1256
 #, fuzzy
 #| msgid "Default"
 msgctxt "@item:inmenu Text Completion"
@@ -10153,17 +10145,17 @@ msgstr "Gitt w.e.g. den &Numm an:"
 msgid "Starting Jovie Text-to-Speech Service Failed"
 msgstr ""
 
-#: kdeui/widgets/ktextedit.cpp:686
+#: kdeui/widgets/ktextedit.cpp:681
 #, fuzzy, kde-format
 #| msgid "Suggestion List"
 msgid "No suggestions for %1"
 msgstr "Lëscht mat Beispiller"
 
-#: kdeui/widgets/ktextedit.cpp:698
+#: kdeui/widgets/ktextedit.cpp:693
 msgid "Ignore"
 msgstr "Ignoréieren"
 
-#: kdeui/widgets/ktextedit.cpp:699
+#: kdeui/widgets/ktextedit.cpp:694
 #, fuzzy
 #| msgid "<< Add to Dictionary"
 msgid "Add to Dictionary"
@@ -15256,6 +15248,12 @@ msgstr "Ofbriechen"
 #, fuzzy
 msgid "Suspend"
 msgstr "Klang"
+
+#, fuzzy
+#~| msgid "Regular"
+#~ msgctxt "@item font"
+#~ msgid "Regular"
+#~ msgstr "Normal"
 
 #~ msgid "What's &This"
 #~ msgstr "Wat ass &dat"
