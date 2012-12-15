@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-12-06 02:58+0100\n"
+"POT-Creation-Date: 2012-12-15 03:06+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -187,7 +187,7 @@ msgid "&Thanks To"
 msgstr "&Merci un"
 
 #: kde3support/kdeui/k3aboutapplication.cpp:164
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:287
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:288
 msgid "T&ranslation"
 msgstr "Iwwe&rsetzung"
 
@@ -4614,7 +4614,7 @@ msgstr ""
 msgid "License: %1"
 msgstr "Lizenz:"
 
-#: kdeui/dialogs/kaboutapplicationdialog.cpp:315
+#: kdeui/dialogs/kaboutapplicationdialog.cpp:316
 #, fuzzy
 #| msgid "&License Agreement"
 msgid "License Agreement"
