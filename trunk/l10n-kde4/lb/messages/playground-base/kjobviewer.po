@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kjobviewer\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-20 06:00+0200\n"
+"POT-Creation-Date: 2013-02-11 03:53+0100\n"
 "PO-Revision-Date: 2005-12-27 21:28+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -36,16 +36,6 @@ msgstr ""
 msgid "Print Error"
 msgstr "Feeler beim Drécken"
 
-#. i18n: ectx: Menu (jobs)
-#: kjobviewerui.rc:4
-msgid "&Jobs"
-msgstr "Optree&g"
-
-#. i18n: ectx: Menu (filter)
-#: kjobviewerui.rc:13
-msgid "F&ilter"
-msgstr "F&ilter"
-
 #: main.cpp:31
 msgid "KJobViewer"
 msgstr "KJobViewer"
@@ -73,3 +63,9 @@ msgstr "Optrag-Uweiser beim Starte weisen"
 #: main.cpp:38
 msgid "Show jobs for all printers"
 msgstr "Optreeg fir all Dréckeren uweisen"
+
+#~ msgid "&Jobs"
+#~ msgstr "Optree&g"
+
+#~ msgid "F&ilter"
+#~ msgstr "F&ilter"
