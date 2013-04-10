@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-04-05 10:15+0200\n"
+"POT-Creation-Date: 2013-04-10 10:16+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -3891,17 +3891,17 @@ msgstr "Just ën Test fir d'Menü-Erstellung maachen"
 msgid "Track menu id for debug purposes"
 msgstr "D'Menü-ID fir ën Debugging späicheren"
 
-#: kded/kded.cpp:859
+#: kded/kded.cpp:860
 msgid "KDE Daemon"
 msgstr "KDE-Daemon"
 
-#: kded/kded.cpp:861
+#: kded/kded.cpp:862
 msgid "KDE Daemon - triggers Sycoca database updates when needed"
 msgstr ""
 "KDE-Daemon: Léist d'Aktualiséierunge vun der Sycoca-Datebank aus, wa "
 "gebraucht"
 
-#: kded/kded.cpp:864
+#: kded/kded.cpp:865
 msgid "Check Sycoca database only once"
 msgstr "An der Sycoca-Datebank just eng Kéier nokucken"
 
