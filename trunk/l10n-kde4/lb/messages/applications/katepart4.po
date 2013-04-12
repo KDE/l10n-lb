@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-04-11 02:20+0200\n"
+"POT-Creation-Date: 2013-04-12 02:10+0200\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -7493,6 +7493,12 @@ msgstr "Arécke réck&gängeg"
 msgid "Use this to unindent a selected block of text."
 msgstr ""
 
+#: view/kateview.cpp:1020
+#, fuzzy
+#| msgid "Current line:"
+msgid "Fold Toplevel Nodes"
+msgstr "Aktuell Zeil:"
+
 #: view/kateview.cpp:1038
 #, fuzzy
 #| msgid "Current line:"
@@ -7503,18 +7509,18 @@ msgstr "Aktuell Zeil:"
 msgid "Unfold Current Node"
 msgstr ""
 
-#: view/kateview.cpp:1124
+#: view/kateview.cpp:1134
 #, fuzzy
 msgid "OVR"
 msgstr "IWW"
 
-#: view/kateview.cpp:1124
+#: view/kateview.cpp:1134
 #, fuzzy
 #| msgid " INS "
 msgid "INS"
 msgstr "AFÜG"
 
-#: view/kateview.cpp:1149
+#: view/kateview.cpp:1159
 #, kde-format
 msgid "%1 (R/O)"
 msgstr ""
@@ -7649,7 +7655,7 @@ msgid "VI: REPLACE"
 msgstr ""
 
 #: vimode/kateviinsertmode.cpp:237 vimode/katevimodebase.cpp:877
-#: vimode/katevinormalmode.cpp:3248
+#: vimode/katevinormalmode.cpp:3250
 #, kde-format
 msgid "Nothing in register %1"
 msgstr ""
