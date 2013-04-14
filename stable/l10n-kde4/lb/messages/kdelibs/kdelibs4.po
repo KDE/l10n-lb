@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-04-13 11:48+0200\n"
+"POT-Creation-Date: 2013-04-14 10:11+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -5665,7 +5665,7 @@ msgid "Warning"
 msgstr "Warnung"
 
 #: kdeui/dialogs/kmessagebox.cpp:841 kdeui/dialogs/kmessagebox.cpp:871
-#: khtml/rendering/render_form.cpp:868 kjs/object.cpp:553
+#: khtml/rendering/render_form.cpp:869 kjs/object.cpp:553
 #: knewstuff/knewstuff3/uploaddialog.cpp:535
 msgid "Error"
 msgstr "Feeler"
@@ -9651,7 +9651,7 @@ msgstr "&Erofréckelen"
 msgid "&Help"
 msgstr "&Hëllef"
 
-#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:991
+#: kdeui/widgets/khistorycombobox.cpp:177 khtml/rendering/render_form.cpp:992
 msgid "Clear &History"
 msgstr "&History läschen"
 
@@ -11772,34 +11772,34 @@ msgstr ""
 msgid "Pause"
 msgstr "Paus"
 
-#: khtml/rendering/render_form.cpp:847
+#: khtml/rendering/render_form.cpp:848
 #, fuzzy
 #| msgid "Shortcut"
 msgid "New Web Shortcut"
 msgstr "Tastekombinatioun"
 
-#: khtml/rendering/render_form.cpp:868
+#: khtml/rendering/render_form.cpp:869
 #, fuzzy, kde-format
 #| msgctxt "Socket error code AlreadyCreated"
 #| msgid "socket is already created"
 msgid "%1 is already assigned to %2"
 msgstr "De Socket ass schonn erstallt ginn"
 
-#: khtml/rendering/render_form.cpp:913
+#: khtml/rendering/render_form.cpp:914
 msgid "Search &provider name:"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:915
+#: khtml/rendering/render_form.cpp:916
 msgid "New search provider"
 msgstr ""
 
-#: khtml/rendering/render_form.cpp:920
+#: khtml/rendering/render_form.cpp:921
 #, fuzzy
 #| msgid "Shortcuts"
 msgid "UR&I shortcuts:"
 msgstr "Kierzelen"
 
-#: khtml/rendering/render_form.cpp:1006
+#: khtml/rendering/render_form.cpp:1007
 #, fuzzy
 #| msgid "Clear shortcut"
 msgid "Create Web Shortcut"
