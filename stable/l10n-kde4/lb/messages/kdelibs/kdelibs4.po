@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-04-14 10:11+0200\n"
+"POT-Creation-Date: 2013-04-16 19:13+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1125,20 +1125,20 @@ msgstr ""
 msgid "Already opened."
 msgstr "Schonn op."
 
-#: kdecore/io/ksavefile.cpp:106
+#: kdecore/io/ksavefile.cpp:125
 msgid "Insufficient permissions in target directory."
 msgstr ""
 
-#: kdecore/io/ksavefile.cpp:127
+#: kdecore/io/ksavefile.cpp:129
 #, fuzzy
 msgid "Unable to open temporary file."
 msgstr "D'Datei konnt net gespaart ginn."
 
-#: kdecore/io/ksavefile.cpp:235
+#: kdecore/io/ksavefile.cpp:237
 msgid "Synchronization to disk failed"
 msgstr ""
 
-#: kdecore/io/ksavefile.cpp:260
+#: kdecore/io/ksavefile.cpp:262
 #, fuzzy
 msgid "Error during rename."
 msgstr "Feeler beim Opmaache vun der Datei."
