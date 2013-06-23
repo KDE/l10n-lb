@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-05-29 01:28+0000\n"
+"POT-Creation-Date: 2013-06-23 05:19+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1098,11 +1098,11 @@ msgstr ""
 msgid "DBus Backend error: received corrupt data from helper %1 %2"
 msgstr ""
 
-#: kdecore/config/kconfig.cpp:815
+#: kdecore/config/kconfig.cpp:821
 msgid "Please contact your system administrator."
 msgstr "Mellt iech w.e.g. bei ärer Systemverwaltung."
 
-#: kdecore/config/kconfigini.cpp:523
+#: kdecore/config/kconfigini.cpp:528
 #, kde-format
 msgid "Configuration file \"%1\" not writable.\n"
 msgstr "D'Configuratiounsdatei \"%1\" konnt net geschriwwe ginn.\n"
