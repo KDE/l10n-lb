@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-08-01 01:27+0000\n"
+"POT-Creation-Date: 2013-08-02 01:50+0000\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -209,15 +209,15 @@ msgstr "Rumm-Eegenschafte"
 msgid "Auto Word Completion"
 msgstr "Wuertvervollstännegungs-Plugin"
 
-#: completion/katewordcompletion.cpp:356
+#: completion/katewordcompletion.cpp:369
 msgid "Shell Completion"
 msgstr "Kommandozeilvervollstännegung"
 
-#: completion/katewordcompletion.cpp:362
+#: completion/katewordcompletion.cpp:375
 msgid "Reuse Word Above"
 msgstr "Wuert uewendriwwer nach eng Kéier benotzen"
 
-#: completion/katewordcompletion.cpp:367
+#: completion/katewordcompletion.cpp:380
 msgid "Reuse Word Below"
 msgstr "Wuert  nnendrënnernach eng Kéëier benotzen"
 
@@ -2429,7 +2429,7 @@ msgstr "Erv&irhiewung:"
 msgid "Marker Colors"
 msgstr "Faarwen"
 
-#: schema/kateschemaconfig.cpp:202 view/kateviewhelpers.cpp:1273
+#: schema/kateschemaconfig.cpp:202 view/kateviewhelpers.cpp:1274
 msgid "Bookmark"
 msgstr "Lieszeechen"
 
@@ -7646,34 +7646,34 @@ msgstr "Zeilen zesummeféieren"
 msgid "Move Down"
 msgstr ""
 
-#: view/kateviewhelpers.cpp:207 view/kateviewhelpers.cpp:255
-#: view/kateviewhelpers.cpp:727
+#: view/kateviewhelpers.cpp:208 view/kateviewhelpers.cpp:256
+#: view/kateviewhelpers.cpp:728
 #, kde-format
 msgctxt "from line - to line"
 msgid "<center>%1<br/>&#x2014;<br/>%2</center>"
 msgstr ""
 
-#: view/kateviewhelpers.cpp:898
+#: view/kateviewhelpers.cpp:899
 msgid "Available Commands"
 msgstr "Verfügbar Kommandoen"
 
-#: view/kateviewhelpers.cpp:900
+#: view/kateviewhelpers.cpp:901
 msgid ""
 "<p>For help on individual commands, do <code>'help &lt;command&gt;'</code></"
 "p>"
 msgstr ""
 
-#: view/kateviewhelpers.cpp:911
+#: view/kateviewhelpers.cpp:912
 #, kde-format
 msgid "No help for '%1'"
 msgstr "Keng Hëllef fir %1"
 
-#: view/kateviewhelpers.cpp:914
+#: view/kateviewhelpers.cpp:915
 #, kde-format
 msgid "No such command <b>%1</b>"
 msgstr "Et gëtt keen esou ee Kommando <b>%1</b>"
 
-#: view/kateviewhelpers.cpp:919
+#: view/kateviewhelpers.cpp:920
 msgid ""
 "<p>This is the Katepart <b>command line</b>.<br />Syntax: <code><b>command "
 "[ arguments ]</b></code><br />For a list of available commands, enter "
@@ -7681,35 +7681,35 @@ msgid ""
 "<code><b>help &lt;command&gt;</b></code></p>"
 msgstr ""
 
-#: view/kateviewhelpers.cpp:1008
+#: view/kateviewhelpers.cpp:1009
 #, kde-format
 msgid "Error: No range allowed for command \"%1\"."
 msgstr ""
 
-#: view/kateviewhelpers.cpp:1025
+#: view/kateviewhelpers.cpp:1026
 msgid "Success: "
 msgstr "Erfolleg:"
 
-#: view/kateviewhelpers.cpp:1041
+#: view/kateviewhelpers.cpp:1042
 #, kde-format
 msgid "Command \"%1\" failed."
 msgstr "De Kommando \"%1\" ass feelgeschloen."
 
-#: view/kateviewhelpers.cpp:1048
+#: view/kateviewhelpers.cpp:1049
 #, kde-format
 msgid "No such command: \"%1\""
 msgstr "Et gëtt keen esou ee Kommando: \"%1\""
 
-#: view/kateviewhelpers.cpp:2067 view/kateviewhelpers.cpp:2068
+#: view/kateviewhelpers.cpp:2068 view/kateviewhelpers.cpp:2069
 #, kde-format
 msgid "Mark Type %1"
 msgstr "Markéierungstyp %1"
 
-#: view/kateviewhelpers.cpp:2087
+#: view/kateviewhelpers.cpp:2088
 msgid "Set Default Mark Type"
 msgstr "Standard-Markéierungstyp festleeën"
 
-#: view/kateviewhelpers.cpp:2153
+#: view/kateviewhelpers.cpp:2154
 msgid "Disable Annotation Bar"
 msgstr ""
 
