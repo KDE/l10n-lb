@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-08-03 05:17+0000\n"
+"POT-Creation-Date: 2013-09-02 05:14+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -5499,7 +5499,7 @@ msgstr ""
 msgid "Reset Toolbars"
 msgstr "Toolbaren zerécksetzen"
 
-#: kdeui/dialogs/kedittoolbar.cpp:602 khtml/html/html_formimpl.cpp:1845
+#: kdeui/dialogs/kedittoolbar.cpp:602 khtml/html/html_formimpl.cpp:1835
 #: khtml/khtmlview.cpp:2811 khtml/khtmlview.cpp:2844
 msgid "Reset"
 msgstr "Zerécksetzen"
@@ -10690,7 +10690,7 @@ msgstr "Asetzen"
 msgid "Disallow"
 msgstr "Net zouloossen"
 
-#: khtml/html/html_formimpl.cpp:422
+#: khtml/html/html_formimpl.cpp:418
 msgid ""
 "The following files will not be uploaded because they could not be found.\n"
 "Do you want to continue?"
@@ -10698,15 +10698,15 @@ msgstr ""
 "Déi folgend Dateie ginn net eropgeluede well si net fonnt gi sinn.\n"
 "Wëllt dir weiderfueren?"
 
-#: khtml/html/html_formimpl.cpp:426
+#: khtml/html/html_formimpl.cpp:422
 msgid "Submit Confirmation"
 msgstr "Bestätegung schécken"
 
-#: khtml/html/html_formimpl.cpp:426
+#: khtml/html/html_formimpl.cpp:422
 msgid "&Submit Anyway"
 msgstr "Trotzdem &verschécken"
 
-#: khtml/html/html_formimpl.cpp:437
+#: khtml/html/html_formimpl.cpp:433
 #, fuzzy
 msgid ""
 "You are about to transfer the following files from your local computer to "
@@ -10717,11 +10717,11 @@ msgstr ""
 "z'iwwerdroen.\n"
 "Wëllt dir wiirklech weiderfueren?"
 
-#: khtml/html/html_formimpl.cpp:441
+#: khtml/html/html_formimpl.cpp:437
 msgid "Send Confirmation"
 msgstr "Bestätegung ofschécken"
 
-#: khtml/html/html_formimpl.cpp:441
+#: khtml/html/html_formimpl.cpp:437
 #, fuzzy
 #| msgid "&Send Files"
 msgid "&Send File"
@@ -10729,12 +10729,12 @@ msgid_plural "&Send Files"
 msgstr[0] "Dateie &verschécken"
 msgstr[1] "Dateie &verschécken"
 
-#: khtml/html/html_formimpl.cpp:1641 khtml/html/html_formimpl.cpp:1853
+#: khtml/html/html_formimpl.cpp:1631 khtml/html/html_formimpl.cpp:1843
 #: khtml/khtml_part.cpp:4787 khtml/khtmlview.cpp:2797 khtml/khtmlview.cpp:2839
 msgid "Submit"
 msgstr "Verschécken"
 
-#: khtml/html/html_formimpl.cpp:2717
+#: khtml/html/html_formimpl.cpp:2707
 #, fuzzy
 #| msgid "General"
 msgid "Key Generator"
