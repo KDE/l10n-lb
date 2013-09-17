@@ -18989,7 +18989,7 @@ msgstr "Klang"
 #~ "%3&gt;</i>."
 #~ msgstr ""
 #~ "D'Ressource ass mam Schlëssel <i>0x%1</i> ënnerschriwwe ginn, dee "
-#~ "gehéiert zu <i>%2 &It;%3&gt;</i>."
+#~ "gehéiert zu <i>%2 &lt;%3&gt;</i>."
 
 #, fuzzy
 #~ msgid ""
