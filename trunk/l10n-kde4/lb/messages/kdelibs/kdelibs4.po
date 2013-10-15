@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-10-13 01:42+0000\n"
+"POT-Creation-Date: 2013-10-15 01:30+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -5685,7 +5685,7 @@ msgstr "Dëss Noricht net méi weisen"
 #. i18n: ectx: property (text), widget (QLabel, labelPassword)
 #. i18n: ectx: property (text), widget (QLabel, passwordLabel)
 #. i18n: ectx: property (text), widget (QLabel, label_11)
-#: kdeui/dialogs/knewpassworddialog.ui:44 kdeui/dialogs/kpassworddialog.ui:106
+#: kdeui/dialogs/knewpassworddialog.ui:44 kdeui/dialogs/kpassworddialog.ui:108
 #: knewstuff/knewstuff3/uploaddialog.ui:89
 msgid "Password:"
 msgstr "Passwuert:"
@@ -5696,32 +5696,39 @@ msgid "Password"
 msgstr "Passwuert:"
 
 #. i18n: ectx: property (text), widget (QLabel, prompt)
-#: kdeui/dialogs/kpassworddialog.ui:31
+#: kdeui/dialogs/kpassworddialog.ui:28
 msgid "Supply a username and password below."
 msgstr ""
 
+#. i18n: ectx: property (text), widget (QRadioButton, anonymousRadioButton)
+#: kdeui/dialogs/kpassworddialog.ui:65
+msgid "No password, use anonymous (or guest) login"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, usePasswordButton)
+#: kdeui/dialogs/kpassworddialog.ui:72
+#, fuzzy
+#| msgid "&Keep password"
+msgid "Use this password:"
+msgstr "Passwuert &bäibehalen"
+
 #. i18n: ectx: property (text), widget (QLabel, userNameLabel)
 #. i18n: ectx: property (text), widget (QLabel, label_10)
-#: kdeui/dialogs/kpassworddialog.ui:73
+#: kdeui/dialogs/kpassworddialog.ui:88
 #: knewstuff/knewstuff3/uploaddialog.ui:105
 #, fuzzy
 msgid "Username:"
 msgstr "Benotzer:"
 
-#. i18n: ectx: property (text), widget (QCheckBox, anonymousCheckBox)
-#: kdeui/dialogs/kpassworddialog.ui:86
-msgid "Anonymous"
-msgstr "Anonym"
-
 #. i18n: ectx: property (text), widget (QLabel, domainLabel)
-#: kdeui/dialogs/kpassworddialog.ui:93
+#: kdeui/dialogs/kpassworddialog.ui:98
 #, fuzzy
 #| msgid "Chain:"
 msgid "Domain:"
 msgstr "Ketten:"
 
 #. i18n: ectx: property (text), widget (QCheckBox, keepCheckBox)
-#: kdeui/dialogs/kpassworddialog.ui:123
+#: kdeui/dialogs/kpassworddialog.ui:122
 #, fuzzy
 #| msgid "&Keep password"
 msgid "Remember password"
@@ -15251,6 +15258,9 @@ msgstr "Ofbriechen"
 #, fuzzy
 msgid "Suspend"
 msgstr "Klang"
+
+#~ msgid "Anonymous"
+#~ msgstr "Anonym"
 
 #, fuzzy
 #~| msgid "Regular"
