@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-11-08 01:29+0000\n"
+"POT-Creation-Date: 2013-11-22 01:33+0000\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -5779,51 +5779,51 @@ msgctxt "Autoindent mode"
 msgid "Normal"
 msgstr "Normal"
 
-#: utils/katebookmarks.cpp:85
+#: utils/katebookmarks.cpp:62
 msgid "Set &Bookmark"
 msgstr "Lies&zeechen setzen"
 
-#: utils/katebookmarks.cpp:89
+#: utils/katebookmarks.cpp:66
 msgid "If a line has no bookmark then add one, otherwise remove it."
 msgstr ""
 "Wann eng Zeil kee Lieszeechen huet, maach eent dobäi, anerefalls maach et "
 "ewech."
 
-#: utils/katebookmarks.cpp:92
+#: utils/katebookmarks.cpp:69
 msgid "Clear &All Bookmarks"
 msgstr "&All d'Lieszeeche läschen"
 
-#: utils/katebookmarks.cpp:94
+#: utils/katebookmarks.cpp:71
 msgid "Remove all bookmarks of the current document."
 msgstr "Maach all d'Lieszeeche vum aktuellen Dokument ewech."
 
-#: utils/katebookmarks.cpp:97 utils/katebookmarks.cpp:262
+#: utils/katebookmarks.cpp:74 utils/katebookmarks.cpp:245
 msgid "Next Bookmark"
 msgstr "Näscht Lieszeechen"
 
-#: utils/katebookmarks.cpp:101
+#: utils/katebookmarks.cpp:78
 msgid "Go to the next bookmark."
 msgstr "Zum nächste Lieszeeche goen."
 
-#: utils/katebookmarks.cpp:104 utils/katebookmarks.cpp:263
+#: utils/katebookmarks.cpp:81 utils/katebookmarks.cpp:246
 msgid "Previous Bookmark"
 msgstr "Lieszeeche virdrun"
 
-#: utils/katebookmarks.cpp:108
+#: utils/katebookmarks.cpp:85
 msgid "Go to the previous bookmark."
 msgstr "Zum Lieszeeche virdru goen."
 
-#: utils/katebookmarks.cpp:111
+#: utils/katebookmarks.cpp:88
 #, fuzzy
 msgid "&Bookmarks"
 msgstr "Lieszeechen"
 
-#: utils/katebookmarks.cpp:226
+#: utils/katebookmarks.cpp:208
 #, kde-format
 msgid "&Next: %1 - \"%2\""
 msgstr "&Nächst: %1 - \"%2\""
 
-#: utils/katebookmarks.cpp:233
+#: utils/katebookmarks.cpp:216
 #, kde-format
 msgid "&Previous: %1 - \"%2\""
 msgstr "&Virdrun: %1 - \"%2\""
