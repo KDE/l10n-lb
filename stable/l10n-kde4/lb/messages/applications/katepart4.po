@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-10-30 01:27+0000\n"
+"POT-Creation-Date: 2013-12-18 05:09+0000\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2010,11 +2010,11 @@ msgctxt "translators: you can also translate 'Try Again' with 'Reload'"
 msgid "Try Again"
 msgstr ""
 
-#: document/katedocument.cpp:1912 document/katedocument.cpp:5501
+#: document/katedocument.cpp:1912 document/katedocument.cpp:5508
 msgid "&Close"
 msgstr ""
 
-#: document/katedocument.cpp:1913 document/katedocument.cpp:5502
+#: document/katedocument.cpp:1913 document/katedocument.cpp:5509
 msgid "Close message"
 msgstr ""
 
@@ -2133,7 +2133,7 @@ msgid "Untitled"
 msgstr "Onbegrenzt"
 
 #: document/katedocument.cpp:3736 document/katedocument.cpp:3912
-#: document/katedocument.cpp:4560
+#: document/katedocument.cpp:4567
 msgid "Save File"
 msgstr "Datei späicheren"
 
@@ -2174,7 +2174,7 @@ msgstr "D'Datei '%1' gouf vun engem anere Programm erstallt."
 msgid "The file '%1' was deleted by another program."
 msgstr "D'Datei '%1' gouf vun engem anere Programm geläscht."
 
-#: document/katedocument.cpp:4588
+#: document/katedocument.cpp:4595
 #, kde-format
 msgid ""
 "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
@@ -2182,27 +2182,27 @@ msgstr ""
 "Eng Datei mam Numm \"%1\" gëtt et schonns. Sidd dir sëcher, dass dir se "
 "iwwerschreiwe wëllt ?"
 
-#: document/katedocument.cpp:4590
+#: document/katedocument.cpp:4597
 msgid "Overwrite File?"
 msgstr "Datei iwwerschreiwen ?"
 
-#: document/katedocument.cpp:4808
+#: document/katedocument.cpp:4815
 #, kde-format
 msgid ""
 "The document \"%1\" has been modified.\n"
 "Do you want to save your changes or discard them?"
 msgstr ""
 
-#: document/katedocument.cpp:4810
+#: document/katedocument.cpp:4817
 msgid "Close Document"
 msgstr ""
 
-#: document/katedocument.cpp:4940
+#: document/katedocument.cpp:4947
 #, kde-format
 msgid "The file <a href=\"%1\">%2</a> is still loading."
 msgstr ""
 
-#: document/katedocument.cpp:4947
+#: document/katedocument.cpp:4954
 msgid "&Abort Loading"
 msgstr ""
 
