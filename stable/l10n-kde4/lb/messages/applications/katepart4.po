@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-12-22 05:16+0000\n"
+"POT-Creation-Date: 2013-12-30 05:13+0000\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -7351,6 +7351,27 @@ msgstr "&Enn vun der Zeil"
 #: view/kateview.cpp:621
 msgid "Choose which line endings should be used, when you save the document"
 msgstr ""
+
+#: view/kateview.cpp:623
+#, fuzzy
+#| msgid "UNIX"
+msgctxt "@item:inmenu End of Line"
+msgid "&UNIX"
+msgstr "UNIX"
+
+#: view/kateview.cpp:624
+#, fuzzy
+#| msgid "DOS/Windows"
+msgctxt "@item:inmenu End of Line"
+msgid "&Windows/DOS"
+msgstr "DOS/Windows"
+
+#: view/kateview.cpp:625
+#, fuzzy
+#| msgid "Macintosh"
+msgctxt "@item:inmenu End of Line"
+msgid "&Macintosh"
+msgstr "Macintosh"
 
 #: view/kateview.cpp:630
 msgid "Add &Byte Order Mark (BOM)"
