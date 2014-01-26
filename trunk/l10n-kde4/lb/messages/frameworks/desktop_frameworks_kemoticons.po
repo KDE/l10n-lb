@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-01-25 15:05+0000\n"
+"POT-Creation-Date: 2014-01-26 02:02+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -20,7 +20,7 @@ msgctxt "Name"
 msgid "Adium Emoticons Theme"
 msgstr ""
 
-#: src/providers/adium/emoticonstheme_adium.desktop:5
+#: src/providers/adium/emoticonstheme_adium.desktop:8
 msgctxt "Comment"
 msgid "Library to use Adium emoticons theme"
 msgstr ""
@@ -33,7 +33,7 @@ msgctxt "Name"
 msgid "KDE Emoticons Theme"
 msgstr "KDE-Faarfthema"
 
-#: src/providers/kde/emoticonstheme_kde.desktop:5
+#: src/providers/kde/emoticonstheme_kde.desktop:8
 msgctxt "Comment"
 msgid "Library to use KDE emoticons theme"
 msgstr ""
@@ -43,7 +43,7 @@ msgctxt "Name"
 msgid "Pidgin Emoticons Theme"
 msgstr ""
 
-#: src/providers/pidgin/emoticonstheme_pidgin.desktop:5
+#: src/providers/pidgin/emoticonstheme_pidgin.desktop:8
 msgctxt "Comment"
 msgid "Library to use Pidgin emoticons theme"
 msgstr ""
@@ -53,7 +53,7 @@ msgctxt "Name"
 msgid "XMPP Emoticons Theme"
 msgstr ""
 
-#: src/providers/xmpp/emoticonstheme_xmpp.desktop:5
+#: src/providers/xmpp/emoticonstheme_xmpp.desktop:8
 msgctxt "Comment"
 msgid "Library to use XMPP emoticons theme"
 msgstr ""
