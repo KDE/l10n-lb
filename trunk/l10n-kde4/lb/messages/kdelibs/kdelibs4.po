@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-12-25 01:31+0000\n"
+"POT-Creation-Date: 2014-01-29 01:34+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -7685,7 +7685,7 @@ msgstr "Rechtschreifkontroll"
 msgid "Autocorrect"
 msgstr "Automatësch Verbesserung"
 
-#: kdeui/util/kcompletion.cpp:693
+#: kdeui/util/kcompletion.cpp:696
 msgid ""
 "You reached the end of the list\n"
 "of matching items.\n"
@@ -7693,7 +7693,7 @@ msgstr ""
 "Dir sidd um Enn vun der Lëscht\n"
 "vu passenden Elementer ukom.\n"
 
-#: kdeui/util/kcompletion.cpp:699
+#: kdeui/util/kcompletion.cpp:702
 msgid ""
 "The completion is ambiguous, more than one\n"
 "match is available.\n"
@@ -7701,7 +7701,7 @@ msgstr ""
 "D'Ergänzung ass net eendäideg, méi wéi \n"
 "eng Méiglechkeet ass fonnt ginn.\n"
 
-#: kdeui/util/kcompletion.cpp:705
+#: kdeui/util/kcompletion.cpp:708
 msgid "There is no matching item available.\n"
 msgstr "Näischt passendes fonnt ginn.\n"
 
