@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-03-28 02:29+0000\n"
+"POT-Creation-Date: 2014-03-29 02:15+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -48,7 +48,7 @@ msgctxt "Description"
 msgid "A kioslave for data URIs (rfc2397)"
 msgstr "E kioslave fir Donnéen-URIs (rfc2397)"
 
-#: src/ioslaves/protocols/mms.protocol:11
+#: src/ioslaves/protocols/mms.protocol:10
 msgctxt "Description"
 msgid "Microsoft Media Server Protocol"
 msgstr "Microsoft-Media Server-Protokoll"
@@ -126,7 +126,7 @@ msgctxt "Name"
 msgid "Password Caching"
 msgstr "Ënnerstëtzung fir d'Zwëschespäichere vu Passwierder"
 
-#: src/kpasswdserver/kpasswdserver.desktop:4
+#: src/kpasswdserver/kpasswdserver.desktop:13
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Password caching support"
