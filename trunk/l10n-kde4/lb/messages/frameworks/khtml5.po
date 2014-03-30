@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-03-28 01:56+0000\n"
+"POT-Creation-Date: 2014-03-30 01:52+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -335,12 +335,12 @@ msgid_plural "&Send Files"
 msgstr[0] "Dateie &verschécken"
 msgstr[1] "Dateie &verschécken"
 
-#: html/html_formimpl.cpp:1689 html/html_formimpl.cpp:1910 khtml_part.cpp:4971
-#: khtmlview.cpp:2880 khtmlview.cpp:2924
+#: html/html_formimpl.cpp:1689 html/html_formimpl.cpp:1910 khtml_part.cpp:4972
+#: khtmlview.cpp:2881 khtmlview.cpp:2925
 msgid "Submit"
 msgstr "Verschécken"
 
-#: html/html_formimpl.cpp:1902 khtmlview.cpp:2895 khtmlview.cpp:2930
+#: html/html_formimpl.cpp:1902 khtmlview.cpp:2896 khtmlview.cpp:2931
 msgid "Reset"
 msgstr "Zerécksetzen"
 
@@ -428,7 +428,7 @@ msgstr "Net als sëcher agestuft"
 msgid "KDE SSL Information"
 msgstr "Informatioun"
 
-#: html/ksslkeygen.cpp:132 khtml_part.cpp:5026
+#: html/ksslkeygen.cpp:132 khtml_part.cpp:5027
 msgid "KDE"
 msgstr "KDE"
 
@@ -562,7 +562,7 @@ msgstr "Ënnerschriwwe vun (Nogekuckt: "
 msgid "Certificate (validation: %1)"
 msgstr "Zertifikat (Nogekuckt: "
 
-#: java/kjavaappletserver.cpp:812 khtml_part.cpp:7057
+#: java/kjavaappletserver.cpp:812 khtml_part.cpp:7058
 msgid "Security Alert"
 msgstr "Sëcherheetsnoricht"
 
@@ -636,135 +636,135 @@ msgstr "&Usiicht"
 msgid "HTML Toolbar"
 msgstr "Haapt-Toolbar"
 
-#: khtml_ext.cpp:412
+#: khtml_ext.cpp:413
 msgid "&Copy Text"
 msgstr "Text &kopéieren"
 
-#: khtml_ext.cpp:426
+#: khtml_ext.cpp:427
 #, kde-format
 msgid "Open '%1'"
 msgstr "'%1' opmaachen"
 
-#: khtml_ext.cpp:443
+#: khtml_ext.cpp:444
 #, fuzzy
 #| msgid "Copy Email Address"
 msgid "&Copy Email Address"
 msgstr "E-Mail-Adress kopéieren"
 
-#: khtml_ext.cpp:448
+#: khtml_ext.cpp:449
 msgid "&Save Link As..."
 msgstr "Link &späicheren als..."
 
-#: khtml_ext.cpp:453
+#: khtml_ext.cpp:454
 #, fuzzy
 #| msgid "Copy &Link Address"
 msgid "&Copy Link Address"
 msgstr "Adress vum &Link kopéieren"
 
-#: khtml_ext.cpp:465
+#: khtml_ext.cpp:466
 #, fuzzy
 #| msgid "Frame"
 msgctxt "@title:menu HTML frame/iframe"
 msgid "Frame"
 msgstr "Frame"
 
-#: khtml_ext.cpp:466
+#: khtml_ext.cpp:467
 msgid "Open in New &Window"
 msgstr "An enger neier &Fënster opmaachen"
 
-#: khtml_ext.cpp:472
+#: khtml_ext.cpp:473
 msgid "Open in &This Window"
 msgstr "An &dëser Fënster opmaachen"
 
-#: khtml_ext.cpp:477
+#: khtml_ext.cpp:478
 msgid "Open in &New Tab"
 msgstr "An engem neien &Tab opmaachen"
 
-#: khtml_ext.cpp:487
+#: khtml_ext.cpp:488
 msgid "Reload Frame"
 msgstr "Frame nei lueden"
 
-#: khtml_ext.cpp:492 khtml_part.cpp:448
+#: khtml_ext.cpp:493 khtml_part.cpp:449
 msgid "Print Frame..."
 msgstr "Frame drécken..."
 
-#: khtml_ext.cpp:498 khtml_part.cpp:300
+#: khtml_ext.cpp:499 khtml_part.cpp:301
 msgid "Save &Frame As..."
 msgstr "&Frame späicheren als..."
 
-#: khtml_ext.cpp:503 khtml_part.cpp:276
+#: khtml_ext.cpp:504 khtml_part.cpp:277
 msgid "View Frame Source"
 msgstr "Quell vum Frame kucken"
 
-#: khtml_ext.cpp:508
+#: khtml_ext.cpp:509
 msgid "View Frame Information"
 msgstr "Frame-Informatioun kucken"
 
-#: khtml_ext.cpp:518
+#: khtml_ext.cpp:519
 msgid "Block IFrame..."
 msgstr "IFrame blockéieren..."
 
-#: khtml_ext.cpp:542
+#: khtml_ext.cpp:543
 msgid "Save Image As..."
 msgstr "Bild späicheren als..."
 
-#: khtml_ext.cpp:547
+#: khtml_ext.cpp:548
 msgid "Send Image..."
 msgstr "Bild verschécken..."
 
-#: khtml_ext.cpp:553
+#: khtml_ext.cpp:554
 msgid "Copy Image"
 msgstr "Bild kopéieren"
 
-#: khtml_ext.cpp:561
+#: khtml_ext.cpp:562
 msgid "Copy Image Location"
 msgstr "Adress vum Bild kopéieren"
 
-#: khtml_ext.cpp:570
+#: khtml_ext.cpp:571
 #, kde-format
 msgid "View Image (%1)"
 msgstr "Bild kucken (%1)"
 
-#: khtml_ext.cpp:576
+#: khtml_ext.cpp:577
 msgid "Block Image..."
 msgstr "Bild blockéieren..."
 
-#: khtml_ext.cpp:583
+#: khtml_ext.cpp:584
 #, kde-format
 msgid "Block Images From %1"
 msgstr "Biller vun %1 blockéieren"
 
-#: khtml_ext.cpp:595
+#: khtml_ext.cpp:596
 msgid "Stop Animations"
 msgstr "Animatiounen unhalen"
 
-#: khtml_ext.cpp:636
+#: khtml_ext.cpp:637
 #, fuzzy, kde-format
 msgid "Search for '%1' with %2"
 msgstr "No '%1' an %2 sichen"
 
-#: khtml_ext.cpp:646
+#: khtml_ext.cpp:647
 #, fuzzy, kde-format
 msgid "Search for '%1' with"
 msgstr "No '%1' siche bei"
 
-#: khtml_ext.cpp:692
+#: khtml_ext.cpp:693
 msgid "Save Link As"
 msgstr "Link späicheren als"
 
-#: khtml_ext.cpp:711
+#: khtml_ext.cpp:712
 msgid "Save Image As"
 msgstr "Bild späicheren als"
 
-#: khtml_ext.cpp:725 khtml_ext.cpp:737
+#: khtml_ext.cpp:726 khtml_ext.cpp:738
 msgid "Add URL to Filter"
 msgstr "URL bei de Filter dobäimaachen"
 
-#: khtml_ext.cpp:726 khtml_ext.cpp:738
+#: khtml_ext.cpp:727 khtml_ext.cpp:739
 msgid "Enter the URL:"
 msgstr ""
 
-#: khtml_ext.cpp:874
+#: khtml_ext.cpp:875
 #, kde-format
 msgid ""
 "A file named \"%1\" already exists. Are you sure you want to overwrite it?"
@@ -772,20 +772,20 @@ msgstr ""
 "Eng Datei mam Numm \"%1\" gëtt et schonn. Sidd dir sëcher, dass dir se "
 "iwwerschreiwe wëllt?"
 
-#: khtml_ext.cpp:874
+#: khtml_ext.cpp:875
 msgid "Overwrite File?"
 msgstr "Datei iwwerschreiwen?"
 
-#: khtml_ext.cpp:874
+#: khtml_ext.cpp:875
 msgid "Overwrite"
 msgstr "Iwwerschreiwen"
 
-#: khtml_ext.cpp:926
+#: khtml_ext.cpp:927
 #, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "Den Download-Manager (%1) konnt an ärem PATH net fonnt ginn "
 
-#: khtml_ext.cpp:927
+#: khtml_ext.cpp:928
 #, fuzzy
 msgid ""
 "Try to reinstall it  \n"
@@ -796,12 +796,12 @@ msgstr ""
 "\n"
 "D'Integratioun an de Konqueror gëtt ofgeschalt!"
 
-#: khtml_ext.cpp:1006
+#: khtml_ext.cpp:1007
 #, no-c-format
 msgid "Default Font Size (100%)"
 msgstr "Standard-Schrëftgréisst (100%)"
 
-#: khtml_ext.cpp:1020
+#: khtml_ext.cpp:1021
 #, no-c-format, kde-format
 msgid "%1%"
 msgstr "%1%"
@@ -814,53 +814,53 @@ msgstr "KHTML"
 msgid "Embeddable HTML component"
 msgstr "Abettungsfäheg HTML-Komponent"
 
-#: khtml_part.cpp:269
+#: khtml_part.cpp:270
 msgid "View Do&cument Source"
 msgstr "&Quelltext kucken"
 
-#: khtml_part.cpp:283
+#: khtml_part.cpp:284
 msgid "View Document Information"
 msgstr "Dokument-Informatioun kucken"
 
-#: khtml_part.cpp:290
+#: khtml_part.cpp:291
 msgid "Save &Background Image As..."
 msgstr "Bild am &Hannergrond späicheren als..."
 
-#: khtml_part.cpp:312 khtml_part.cpp:4198
+#: khtml_part.cpp:313 khtml_part.cpp:4199
 msgid "SSL"
 msgstr "SSL"
 
-#: khtml_part.cpp:316
+#: khtml_part.cpp:317
 msgid "Print Rendering Tree to STDOUT"
 msgstr "Rendering-Bau op STDOUT drécken"
 
-#: khtml_part.cpp:320
+#: khtml_part.cpp:321
 msgid "Print DOM Tree to STDOUT"
 msgstr "DOM-Bam op STDOUT drécken"
 
-#: khtml_part.cpp:324
+#: khtml_part.cpp:325
 #, fuzzy
 #| msgid "Print DOM Tree to STDOUT"
 msgid "Print frame tree to STDOUT"
 msgstr "DOM-Bam op STDOUT drécken"
 
-#: khtml_part.cpp:328
+#: khtml_part.cpp:329
 msgid "Stop Animated Images"
 msgstr "Animéiert Biller unhalen"
 
-#: khtml_part.cpp:332
+#: khtml_part.cpp:333
 msgid "Set &Encoding"
 msgstr "&Verschlësselung festléen"
 
-#: khtml_part.cpp:378
+#: khtml_part.cpp:379
 msgid "Use S&tylesheet"
 msgstr "S&til-Virlag benotzen"
 
-#: khtml_part.cpp:383
+#: khtml_part.cpp:384
 msgid "Enlarge Font"
 msgstr "Schrëft vergréisseren"
 
-#: khtml_part.cpp:386
+#: khtml_part.cpp:387
 #, fuzzy
 #| msgid ""
 #| "Enlarge Font<p>Make the font in this window bigger. Click and hold down "
@@ -873,11 +873,11 @@ msgstr ""
 "Klickt op d'Maustast an haalt se un, fir e Menü mat all de méigleche "
 "Schrëftgréissten ze gesin."
 
-#: khtml_part.cpp:390
+#: khtml_part.cpp:391
 msgid "Shrink Font"
 msgstr "Schrëft verklengeren"
 
-#: khtml_part.cpp:393
+#: khtml_part.cpp:394
 #, fuzzy
 #| msgid ""
 #| "Shrink Font<p>Make the font in this window smaller. Click and hold down "
@@ -890,7 +890,7 @@ msgstr ""
 "op d'Maustast an haalt se un, fir e Menü mat all de méigleche "
 "Schrëftgréissten ze gesin."
 
-#: khtml_part.cpp:408
+#: khtml_part.cpp:409
 #, fuzzy
 #| msgid ""
 #| "Find text<p>Shows a dialog that allows you to find text on the displayed "
@@ -902,7 +902,7 @@ msgstr ""
 "Text sichen<p>Mëcht ën Dialog op, fir op der ugewisener Säit no Text ze "
 "sichen."
 
-#: khtml_part.cpp:412
+#: khtml_part.cpp:413
 #, fuzzy
 #| msgid ""
 #| "Find next<p>Find the next occurrence of the text that you have found "
@@ -914,7 +914,7 @@ msgstr ""
 "Weidersichen<p>Sicht nom nächsten Optriede vum Text, deen dir mat der "
 "Funktioun <b>Text sichen</b> fonnt hutt"
 
-#: khtml_part.cpp:418
+#: khtml_part.cpp:419
 #, fuzzy
 #| msgid ""
 #| "Find previous<p>Find the previous occurrence of the text that you have "
@@ -926,27 +926,27 @@ msgstr ""
 "Virdru sichen<p>Sicht weider vir no engem Optriede vum Text, deen dir mat "
 "der Funktioun <b>Text sichen</b> fonnt hutt"
 
-#: khtml_part.cpp:423
+#: khtml_part.cpp:424
 msgid "Find Text as You Type"
 msgstr "Text beim antippen ergänzen"
 
-#: khtml_part.cpp:426
+#: khtml_part.cpp:427
 msgid ""
 "This shortcut shows the find bar, for finding text in the displayed page. It "
 "cancels the effect of \"Find Links as You Type\", which sets the \"Find "
 "links only\" option."
 msgstr ""
 
-#: khtml_part.cpp:430
+#: khtml_part.cpp:431
 msgid "Find Links as You Type"
 msgstr "Linke beim antippen ergänzen"
 
-#: khtml_part.cpp:436
+#: khtml_part.cpp:437
 msgid ""
 "This shortcut shows the find bar, and sets the option \"Find links only\"."
 msgstr ""
 
-#: khtml_part.cpp:452
+#: khtml_part.cpp:453
 #, fuzzy
 #| msgid ""
 #| "Print Frame<p>Some pages have several frames. To print only a single "
@@ -958,123 +958,123 @@ msgstr ""
 "Frame drécken<p>Verschidde Säiten hu méi wéi ee Frame. Fir just een eenzege "
 "Frame ze drécken, wielt ën aus a klickt dann op dës Funktioun."
 
-#: khtml_part.cpp:467
+#: khtml_part.cpp:468
 msgid "Toggle Caret Mode"
 msgstr "Caret-Modus un/aus"
 
-#: khtml_part.cpp:767
+#: khtml_part.cpp:768
 #, kde-format
 msgid "The fake user-agent '%1' is in use."
 msgstr "Dee geschmuggelte User-Agent '%1' gëtt benotzt."
 
-#: khtml_part.cpp:1271
+#: khtml_part.cpp:1272
 msgid "This web page contains coding errors."
 msgstr "Dës Websäit huet Kodéierungsfeler."
 
-#: khtml_part.cpp:1316
+#: khtml_part.cpp:1317
 msgid "&Hide Errors"
 msgstr "Feeler &verstoppen"
 
-#: khtml_part.cpp:1317
+#: khtml_part.cpp:1318
 msgid "&Disable Error Reporting"
 msgstr "Feelerberichter &deaktivéieren"
 
-#: khtml_part.cpp:1364
+#: khtml_part.cpp:1365
 #, fuzzy, kde-format
 #| msgid "<b>Error</b>: %1: %2"
 msgid "<qt><b>Error</b>: %1: %2</qt>"
 msgstr "<b>Feeler</b>: %1: %2"
 
-#: khtml_part.cpp:1414
+#: khtml_part.cpp:1415
 #, fuzzy, kde-format
 #| msgid "<b>Error</b>: node %1: %2"
 msgid "<qt><b>Error</b>: node %1: %2</qt>"
 msgstr "<b>Feeler</b>: Node %1: %2"
 
-#: khtml_part.cpp:1536
+#: khtml_part.cpp:1537
 msgid "Display Images on Page"
 msgstr "D'Biller op dëser Säit weisen"
 
-#: khtml_part.cpp:1920
+#: khtml_part.cpp:1921
 #, fuzzy, kde-format
 #| msgid "<b>Error</b>: %1: %2"
 msgid "Error: %1 - %2"
 msgstr "<b>Feeler</b>: %1: %2"
 
-#: khtml_part.cpp:1925
+#: khtml_part.cpp:1926
 msgid "The requested operation could not be completed"
 msgstr "Déi gewënschten Operatioun konnt net duerchgefouert ginn"
 
-#: khtml_part.cpp:1931
+#: khtml_part.cpp:1932
 msgid "Technical Reason: "
 msgstr "Technësche Grond: "
 
-#: khtml_part.cpp:1937
+#: khtml_part.cpp:1938
 msgid "Details of the Request:"
 msgstr "Detailer vun der Ufro:"
 
-#: khtml_part.cpp:1939
+#: khtml_part.cpp:1940
 #, kde-format
 msgid "URL: %1"
 msgstr "URL: %1"
 
-#: khtml_part.cpp:1942
+#: khtml_part.cpp:1943
 #, fuzzy, kde-format
 #| msgid "Print %1"
 msgid "Protocol: %1"
 msgstr "%1 drécken"
 
-#: khtml_part.cpp:1945
+#: khtml_part.cpp:1946
 #, kde-format
 msgid "Date and Time: %1"
 msgstr "Datum an Zäit: %1"
 
-#: khtml_part.cpp:1947
+#: khtml_part.cpp:1948
 #, kde-format
 msgid "Additional Information: %1"
 msgstr "Zousätzlech Informatioun: %1"
 
-#: khtml_part.cpp:1949
+#: khtml_part.cpp:1950
 msgid "Description:"
 msgstr "Beschreiwung:"
 
-#: khtml_part.cpp:1955
+#: khtml_part.cpp:1956
 msgid "Possible Causes:"
 msgstr "Méiglech Grënn:"
 
-#: khtml_part.cpp:1962
+#: khtml_part.cpp:1963
 msgid "Possible Solutions:"
 msgstr "Méiglech Léisungen:"
 
-#: khtml_part.cpp:2410
+#: khtml_part.cpp:2411
 msgid "Page loaded."
 msgstr "Säit gelueden."
 
-#: khtml_part.cpp:2412
+#: khtml_part.cpp:2413
 #, kde-format
 msgid "%1 Image of %2 loaded."
 msgid_plural "%1 Images of %2 loaded."
 msgstr[0] "%1 Bild vun %2 gelueden."
 msgstr[1] "%1 Biller vun %2 gelueden."
 
-#: khtml_part.cpp:2590
+#: khtml_part.cpp:2591
 msgid "Automatic Detection"
 msgstr "Automatësch Detektioun"
 
-#: khtml_part.cpp:3721 khtml_part.cpp:3785 khtml_part.cpp:3795
+#: khtml_part.cpp:3722 khtml_part.cpp:3786 khtml_part.cpp:3796
 msgid " (In new window)"
 msgstr " (an enger neier Fënster)"
 
-#: khtml_part.cpp:3749
+#: khtml_part.cpp:3750
 msgid "Symbolic Link"
 msgstr "Symbolësche Link"
 
-#: khtml_part.cpp:3751
+#: khtml_part.cpp:3752
 #, kde-format
 msgid "%1 (Link)"
 msgstr "%1 (Link)"
 
-#: khtml_part.cpp:3767
+#: khtml_part.cpp:3768
 #, fuzzy, kde-format
 #| msgid "%2 (%1 bytes)"
 msgid "%2 (%1 byte)"
@@ -1082,37 +1082,37 @@ msgid_plural "%2 (%1 bytes)"
 msgstr[0] "%2 (%1 byte)"
 msgstr[1] "%2 (%1 byte)"
 
-#: khtml_part.cpp:3770
+#: khtml_part.cpp:3771
 #, kde-format
 msgid "%2 (%1 K)"
 msgstr "%2 (%1 K)"
 
-#: khtml_part.cpp:3797
+#: khtml_part.cpp:3798
 msgid " (In other frame)"
 msgstr " (an engem anere Frame)"
 
-#: khtml_part.cpp:3803
+#: khtml_part.cpp:3804
 msgid "Email to: "
 msgstr "E-Mail un: "
 
-#: khtml_part.cpp:3809
+#: khtml_part.cpp:3810
 msgid " - Subject: "
 msgstr " - Betreff: "
 
-#: khtml_part.cpp:3811
+#: khtml_part.cpp:3812
 msgid " - CC: "
 msgstr " - CC: "
 
-#: khtml_part.cpp:3813
+#: khtml_part.cpp:3814
 msgid " - BCC: "
 msgstr " - BCC: "
 
-#: khtml_part.cpp:3894 khtml_part.cpp:4116 khtml_part.cpp:4552
+#: khtml_part.cpp:3895 khtml_part.cpp:4117 khtml_part.cpp:4553
 #: khtml_run.cpp:106
 msgid "Save As"
 msgstr "Späicheren als"
 
-#: khtml_part.cpp:3899
+#: khtml_part.cpp:3900
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt>This untrusted page links to<BR><B>%1</B>.<BR>Do you want to follow "
@@ -1124,60 +1124,60 @@ msgstr ""
 "<qt>Dëss Säit ass als \"net sëcher\" agestuft ginn an enthält de Link <BR><B>"
 "%1</B>.</BR>Wëllt dir déi Adress opruffen?"
 
-#: khtml_part.cpp:3900
+#: khtml_part.cpp:3901
 msgid "Follow"
 msgstr "Opruffen"
 
-#: khtml_part.cpp:3995
+#: khtml_part.cpp:3996
 msgid "Frame Information"
 msgstr "Informatioun iwwert de Frame"
 
-#: khtml_part.cpp:4001
+#: khtml_part.cpp:4002
 #, kde-format
 msgid "   <a href=\"%1\">[Properties]</a>"
 msgstr "   <a href=\"%1\">[Eegeschaften]</a>"
 
-#: khtml_part.cpp:4027
+#: khtml_part.cpp:4028
 #, fuzzy
 #| msgid "Turkish"
 msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
 msgid "Quirks"
 msgstr "Türkësch"
 
-#: khtml_part.cpp:4030
+#: khtml_part.cpp:4031
 #, fuzzy
 #| msgid "&Use as Standard"
 msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
 msgid "Almost standards"
 msgstr "&Als Standard benotzen"
 
-#: khtml_part.cpp:4034
+#: khtml_part.cpp:4035
 #, fuzzy
 msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
 msgid "Strict"
 msgstr "&Start"
 
-#: khtml_part.cpp:4103
+#: khtml_part.cpp:4104
 msgid "Save Background Image As"
 msgstr "Bild am Hannergrond späicheren als"
 
-#: khtml_part.cpp:4196
+#: khtml_part.cpp:4197
 msgid "The peer SSL certificate chain appears to be corrupt."
 msgstr ""
 
-#: khtml_part.cpp:4217
+#: khtml_part.cpp:4218
 msgid "Save Frame As"
 msgstr "Frame späicheren als"
 
-#: khtml_part.cpp:4261
+#: khtml_part.cpp:4262
 msgid "&Find in Frame..."
 msgstr "Am Frame &sichen..."
 
-#: khtml_part.cpp:4263
+#: khtml_part.cpp:4264
 msgid "&Find..."
 msgstr "&Sichen..."
 
-#: khtml_part.cpp:4910
+#: khtml_part.cpp:4911
 msgid ""
 "Warning:  This is a secure form but it is attempting to send your data back "
 "unencrypted.\n"
@@ -1189,15 +1189,15 @@ msgstr ""
 "Een Drëtte kéint dëss Informatioun offänken a kucken.\n"
 "Wëllt dir sëcher weiderfueren?"
 
-#: khtml_part.cpp:4913 khtml_part.cpp:4923 khtml_part.cpp:4948
+#: khtml_part.cpp:4914 khtml_part.cpp:4924 khtml_part.cpp:4949
 msgid "Network Transmission"
 msgstr "Netzwierk-Transmissioun"
 
-#: khtml_part.cpp:4913 khtml_part.cpp:4924
+#: khtml_part.cpp:4914 khtml_part.cpp:4925
 msgid "&Send Unencrypted"
 msgstr "Onverschlësselt &verschécken"
 
-#: khtml_part.cpp:4921
+#: khtml_part.cpp:4922
 msgid ""
 "Warning: Your data is about to be transmitted across the network "
 "unencrypted.\n"
@@ -1206,7 +1206,7 @@ msgstr ""
 "Warnung: Dir sidd dropp an dru fir är Daten onverschlësselt ze verschécken.\n"
 "Sidd dir iech sëcher, dass dir weiderfuere wëllt?"
 
-#: khtml_part.cpp:4946
+#: khtml_part.cpp:4947
 msgid ""
 "This site is attempting to submit form data via email.\n"
 "Do you want to continue?"
@@ -1214,11 +1214,11 @@ msgstr ""
 "De Server probéiert, Formular-Daten iwwert E-Mail ze verschécken.\n"
 "Wëllt dir weiderfueren?"
 
-#: khtml_part.cpp:4949
+#: khtml_part.cpp:4950
 msgid "&Send Email"
 msgstr "E-Mail &verschécken"
 
-#: khtml_part.cpp:4970
+#: khtml_part.cpp:4971
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt>The form will be submitted to <BR><B>%1</B><BR>on your local "
@@ -1230,7 +1230,7 @@ msgstr ""
 "<qt>De Formular gëtt no<BR><B>%1</B><BR>op ärem lokalen Dateiesystem "
 "verschéckt ginn.<BR>Wëllt dir de Formular ofsenden?"
 
-#: khtml_part.cpp:5026
+#: khtml_part.cpp:5027
 msgid ""
 "This site attempted to attach a file from your computer in the form "
 "submission. The attachment was removed for your protection."
@@ -1238,16 +1238,16 @@ msgstr ""
 "De Server huet probéiert, eng Datei aus ärem Dateiesystem un de Formular "
 "drunnzehänken. Den Unhang ass zu ärer Sëcherheet geläscht ginn."
 
-#: khtml_part.cpp:6120
+#: khtml_part.cpp:6121
 #, kde-format
 msgid "(%1/s)"
 msgstr "(%1/s)"
 
-#: khtml_part.cpp:7049
+#: khtml_part.cpp:7050
 msgid "Security Warning"
 msgstr "Sëcherheetswarnung"
 
-#: khtml_part.cpp:7056
+#: khtml_part.cpp:7057
 #, fuzzy, kde-format
 #| msgid "<qt>Access by untrusted page to<BR><B>%1</B><BR> denied."
 msgid "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
@@ -1255,40 +1255,40 @@ msgstr ""
 "<qt>Zougang op<BR><B>%1</B><BR>duerch eng Säit, déi als net sëcher ugesinn "
 "ass, verweigert."
 
-#: khtml_part.cpp:7427
+#: khtml_part.cpp:7428
 #, kde-format
 msgid "The wallet '%1' is open and being used for form data and passwords."
 msgstr ""
 "Den digitale Portemonnaie '%1' ass op a gëtt fir Formularer a Passwierder "
 "benotzt."
 
-#: khtml_part.cpp:7486
+#: khtml_part.cpp:7487
 msgid "&Close Wallet"
 msgstr "Portemonnaie &zoumaachen"
 
-#: khtml_part.cpp:7489
+#: khtml_part.cpp:7490
 msgid "&Allow storing passwords for this site"
 msgstr ""
 
-#: khtml_part.cpp:7494
+#: khtml_part.cpp:7495
 #, kde-format
 msgid "Remove password for form %1"
 msgstr ""
 
-#: khtml_part.cpp:7609
+#: khtml_part.cpp:7610
 msgid "JavaScript &Debugger"
 msgstr "JavaScript-&Debugger"
 
-#: khtml_part.cpp:7642
+#: khtml_part.cpp:7643
 msgid "This page was prevented from opening a new window via JavaScript."
 msgstr ""
 "Dëss Säit ass dovun ofgehal ginn, mat JavaScript eng nei fënster opzemaachen."
 
-#: khtml_part.cpp:7648
+#: khtml_part.cpp:7649
 msgid "Popup Window Blocked"
 msgstr "Popup-Fënster blockéiert"
 
-#: khtml_part.cpp:7648
+#: khtml_part.cpp:7649
 msgid ""
 "This page has attempted to open a popup window but was blocked.\n"
 "You can click on this icon in the status bar to control this behavior\n"
@@ -1299,18 +1299,18 @@ msgstr ""
 "d'Fënster\n"
 "awer opzemaachen oder Astellunge virzehuelen."
 
-#: khtml_part.cpp:7662
+#: khtml_part.cpp:7663
 #, fuzzy, kde-format
 msgid "&Show Blocked Popup Window"
 msgid_plural "&Show %1 Blocked Popup Windows"
 msgstr[0] "Blockéiert Popup-Fënster &weisen"
 msgstr[1] "%1 blockéiert Popup-Fënstere weisen"
 
-#: khtml_part.cpp:7664
+#: khtml_part.cpp:7665
 msgid "Show Blocked Window Passive Popup &Notification"
 msgstr "Passiv &Norichtefënster bei blockéierte Popup-Fënsteren uweisen"
 
-#: khtml_part.cpp:7666
+#: khtml_part.cpp:7667
 msgid "&Configure JavaScript New Window Policies..."
 msgstr "JavaScript fir Fënsteren nei opzemaache &configuréieren..."
 
@@ -1428,7 +1428,7 @@ msgstr "Bild - %1x%2 Pixelen"
 msgid "Done."
 msgstr "Fäerdeg."
 
-#: khtmlview.cpp:1903
+#: khtmlview.cpp:1904
 msgid "Access Keys activated"
 msgstr "Kuerztasten ugeschalt"
 
