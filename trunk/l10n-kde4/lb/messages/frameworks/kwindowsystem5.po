@@ -16,132 +16,6 @@ msgstr ""
 "X-Generator: KBabel 1.11.2\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:88
-#, fuzzy
-#| msgid "Backspace"
-msgctxt "KKeyServer|"
-msgid "Backspace"
-msgstr "Zeréck-Tast"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:89
-#, fuzzy
-#| msgid "SysReq"
-msgctxt "KKeyServer|"
-msgid "SysReq"
-msgstr "System offänken"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:90
-#, fuzzy
-#| msgid "CapsLock"
-msgctxt "KKeyServer|"
-msgid "CapsLock"
-msgstr "Caps Lock"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:91
-#, fuzzy
-#| msgid "NumLock"
-msgctxt "KKeyServer|"
-msgid "NumLock"
-msgstr "Num Lock"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:92
-#, fuzzy
-#| msgid "ScrollLock"
-msgctxt "KKeyServer|"
-msgid "ScrollLock"
-msgstr "Scroll Lock"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:93
-#, fuzzy
-#| msgid "PageUp"
-msgctxt "KKeyServer|"
-msgid "PageUp"
-msgstr "Page Up"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:94
-#, fuzzy
-#| msgid "PageDown"
-msgctxt "KKeyServer|"
-msgid "PageDown"
-msgstr "Page Down"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:96
-#, fuzzy
-#| msgid "Stop"
-msgctxt "KKeyServer|"
-msgid "Stop"
-msgstr "Stop"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:97
-#, fuzzy
-#| msgid "Again"
-msgctxt "KKeyServer|"
-msgid "Again"
-msgstr "Nach eng Kéier"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:98
-#, fuzzy
-#| msgid "Props"
-msgctxt "KKeyServer|"
-msgid "Props"
-msgstr "Eegeschaften"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:99
-#, fuzzy
-#| msgid "Undo"
-msgctxt "KKeyServer|"
-msgid "Undo"
-msgstr "Réckgängeg"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:100
-#, fuzzy
-#| msgid "Front"
-msgctxt "KKeyServer|"
-msgid "Front"
-msgstr "Vir"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:101
-#, fuzzy
-#| msgid "Copy"
-msgctxt "KKeyServer|"
-msgid "Copy"
-msgstr "Kopéieren"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:102
-#, fuzzy
-#| msgid "Open"
-msgctxt "KKeyServer|"
-msgid "Open"
-msgstr "Opmaachen"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:103
-#, fuzzy
-#| msgid "Paste"
-msgctxt "KKeyServer|"
-msgid "Paste"
-msgstr "Peschen"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:104
-#, fuzzy
-#| msgid "Find"
-msgctxt "KKeyServer|"
-msgid "Find"
-msgstr "Sichen"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:105
-#, fuzzy
-#| msgid "Cut"
-msgctxt "KKeyServer|"
-msgid "Cut"
-msgstr "Ausschneiden"
-
-#: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kkeyserver_x11.cpp:106
-#, fuzzy
-#| msgid "Print"
-msgctxt "KKeyServer|"
-msgid "Print"
-msgstr "Drécken"
-
 #: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kwindowsystem_mac.cpp:580
 #: ../../home/scripty/prod/git-unstable/frameworks_kwindowsystem/src/kwindowsystem_win.cpp:632
 #, fuzzy, qt-format
@@ -156,6 +30,114 @@ msgstr "Büro %1"
 msgctxt "QObject|"
 msgid "Desktop %1"
 msgstr "Büro %1"
+
+#, fuzzy
+#~| msgid "Backspace"
+#~ msgctxt "KKeyServer|"
+#~ msgid "Backspace"
+#~ msgstr "Zeréck-Tast"
+
+#, fuzzy
+#~| msgid "SysReq"
+#~ msgctxt "KKeyServer|"
+#~ msgid "SysReq"
+#~ msgstr "System offänken"
+
+#, fuzzy
+#~| msgid "CapsLock"
+#~ msgctxt "KKeyServer|"
+#~ msgid "CapsLock"
+#~ msgstr "Caps Lock"
+
+#, fuzzy
+#~| msgid "NumLock"
+#~ msgctxt "KKeyServer|"
+#~ msgid "NumLock"
+#~ msgstr "Num Lock"
+
+#, fuzzy
+#~| msgid "ScrollLock"
+#~ msgctxt "KKeyServer|"
+#~ msgid "ScrollLock"
+#~ msgstr "Scroll Lock"
+
+#, fuzzy
+#~| msgid "PageUp"
+#~ msgctxt "KKeyServer|"
+#~ msgid "PageUp"
+#~ msgstr "Page Up"
+
+#, fuzzy
+#~| msgid "PageDown"
+#~ msgctxt "KKeyServer|"
+#~ msgid "PageDown"
+#~ msgstr "Page Down"
+
+#, fuzzy
+#~| msgid "Stop"
+#~ msgctxt "KKeyServer|"
+#~ msgid "Stop"
+#~ msgstr "Stop"
+
+#, fuzzy
+#~| msgid "Again"
+#~ msgctxt "KKeyServer|"
+#~ msgid "Again"
+#~ msgstr "Nach eng Kéier"
+
+#, fuzzy
+#~| msgid "Props"
+#~ msgctxt "KKeyServer|"
+#~ msgid "Props"
+#~ msgstr "Eegeschaften"
+
+#, fuzzy
+#~| msgid "Undo"
+#~ msgctxt "KKeyServer|"
+#~ msgid "Undo"
+#~ msgstr "Réckgängeg"
+
+#, fuzzy
+#~| msgid "Front"
+#~ msgctxt "KKeyServer|"
+#~ msgid "Front"
+#~ msgstr "Vir"
+
+#, fuzzy
+#~| msgid "Copy"
+#~ msgctxt "KKeyServer|"
+#~ msgid "Copy"
+#~ msgstr "Kopéieren"
+
+#, fuzzy
+#~| msgid "Open"
+#~ msgctxt "KKeyServer|"
+#~ msgid "Open"
+#~ msgstr "Opmaachen"
+
+#, fuzzy
+#~| msgid "Paste"
+#~ msgctxt "KKeyServer|"
+#~ msgid "Paste"
+#~ msgstr "Peschen"
+
+#, fuzzy
+#~| msgid "Find"
+#~ msgctxt "KKeyServer|"
+#~ msgid "Find"
+#~ msgstr "Sichen"
+
+#, fuzzy
+#~| msgid "Cut"
+#~ msgctxt "KKeyServer|"
+#~ msgid "Cut"
+#~ msgstr "Ausschneiden"
+
+#, fuzzy
+#~| msgid "Print"
+#~ msgctxt "KKeyServer|"
+#~ msgid "Print"
+#~ msgstr "Drécken"
 
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"
