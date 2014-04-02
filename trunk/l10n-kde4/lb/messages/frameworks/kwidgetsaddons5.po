@@ -1874,7 +1874,7 @@ msgctxt "KDatePicker|"
 msgid "Select the current day"
 msgstr "Heitegen Dag auswielen"
 
-#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kdatepicker.cpp:652
+#: ../../home/scripty/prod/git-unstable/frameworks_kwidgetsaddons/src/kdatepicker.cpp:643
 #, fuzzy
 #| msgid "Close"
 msgctxt "KDatePicker|@action:button"
