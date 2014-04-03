@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-02 01:41+0000\n"
+"POT-Creation-Date: 2014-04-03 01:41+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -99,6 +99,11 @@ msgstr ""
 #| msgid "Cancel"
 msgid "Cancel?"
 msgstr "Ofbriechen"
+
+#: qts/values_p.h:75
+#, fuzzy, kde-format
+msgid "No such function \"%1\""
+msgstr "D'Entrée '%1' ass net am Menü."
 
 #: ui/actioncollectionview.cpp:175
 msgid "Name:"
@@ -9245,10 +9250,6 @@ msgstr "Allgemeng"
 #, fuzzy
 #~ msgid "Scriptfile"
 #~ msgstr "&Handschrëft"
-
-#, fuzzy
-#~ msgid "No such function \"%1\""
-#~ msgstr "D'Entrée '%1' ass net am Menü."
 
 #~ msgid "The module %1 could not be found."
 #~ msgstr "De Modul %1 ass net fonnt ginn."
