@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-02 01:41+0000\n"
+"POT-Creation-Date: 2014-04-06 01:53+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -206,11 +206,11 @@ msgstr "Beschreiwung vum Inhalt: %1\n"
 msgid "The library %1 does not offer a KPluginFactory."
 msgstr "D'Bibliothéik %1 huet keng %2-Funktioun."
 
-#: services/kservice.cpp:1014
+#: services/kservice.cpp:1028
 msgid "The provided service is not valid"
 msgstr ""
 
-#: services/kservice.cpp:1018
+#: services/kservice.cpp:1032
 #, kde-format
 msgid "The service '%1' provides no library or the Library key is missing"
 msgstr ""
