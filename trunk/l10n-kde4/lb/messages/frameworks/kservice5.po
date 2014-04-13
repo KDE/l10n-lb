@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-06 01:53+0000\n"
+"POT-Creation-Date: 2014-04-13 01:46+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -194,18 +194,6 @@ msgstr "Konnt de Mailprogramm net starten"
 msgid "No service implementing %1"
 msgstr ""
 
-#: plugin/kpluginloader.cpp:53
-#, fuzzy, kde-format
-#| msgid "Content information: %1\n"
-msgid "Could not find plugin '%1' for application '%2'"
-msgstr "Beschreiwung vum Inhalt: %1\n"
-
-#: plugin/kpluginloader.cpp:224
-#, fuzzy, kde-format
-#| msgid "The library %1 does not offer an %2 function."
-msgid "The library %1 does not offer a KPluginFactory."
-msgstr "D'Bibliothéik %1 huet keng %2-Funktioun."
-
 #: services/kservice.cpp:1028
 msgid "The provided service is not valid"
 msgstr ""
@@ -214,6 +202,16 @@ msgstr ""
 #, kde-format
 msgid "The service '%1' provides no library or the Library key is missing"
 msgstr ""
+
+#, fuzzy
+#~| msgid "Content information: %1\n"
+#~ msgid "Could not find plugin '%1' for application '%2'"
+#~ msgstr "Beschreiwung vum Inhalt: %1\n"
+
+#, fuzzy
+#~| msgid "The library %1 does not offer an %2 function."
+#~ msgid "The library %1 does not offer a KPluginFactory."
+#~ msgstr "D'Bibliothéik %1 huet keng %2-Funktioun."
 
 #~ msgid "Name"
 #~ msgstr "Numm"

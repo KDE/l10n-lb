@@ -194,6 +194,20 @@ msgstr ""
 "%1 ass vum\n"
 "%2 geschriwwe ginn"
 
+#: ../../home/scripty/prod/git-unstable/frameworks_kcoreaddons/src/lib/plugin/kpluginloader.cpp:51
+#, fuzzy, qt-format
+#| msgid "Content information: %1\n"
+msgctxt "KPluginLoader|"
+msgid "Could not find plugin '%1' for application '%2'"
+msgstr "Beschreiwung vum Inhalt: %1\n"
+
+#: ../../home/scripty/prod/git-unstable/frameworks_kcoreaddons/src/lib/plugin/kpluginloader.cpp:222
+#, fuzzy, qt-format
+#| msgid "The library %1 does not offer an %2 function."
+msgctxt "KPluginLoader|"
+msgid "The library %1 does not offer a KPluginFactory."
+msgstr "D'Bibliothéik %1 huet keng %2-Funktioun."
+
 #. MetricBinaryDialect size in bytes
 #: ../../home/scripty/prod/git-unstable/frameworks_kcoreaddons/src/lib/util/kformatprivate.cpp:88
 #, fuzzy, qt-format
@@ -2840,11 +2854,6 @@ msgstr "%1 %2"
 #, fuzzy
 #~ msgid "KLibLoader: Unknown error"
 #~ msgstr "Onbekannte Feeler"
-
-#, fuzzy
-#~| msgid "Content information: %1\n"
-#~ msgid "Could not find plugin '%1' for application '%2'"
-#~ msgstr "Beschreiwung vum Inhalt: %1\n"
 
 #, fuzzy
 #~| msgid "The library %1 does not offer a KDE compatible factory."
@@ -13056,9 +13065,6 @@ msgstr "%1 %2"
 #~| msgid "Preview not available."
 #~ msgid "No preview available."
 #~ msgstr "Keng Virschau do."
-
-#~ msgid "The library %1 does not offer an %2 function."
-#~ msgstr "D'Bibliothéik %1 huet keng %2-Funktioun."
 
 #~ msgid "The library %1 does not offer a KDE compatible factory."
 #~ msgstr "D'Bibliothéik %1 huet keng Factory, déi mat KDE kompatibel ass."
