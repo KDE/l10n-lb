@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio_tar\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-11 02:18+0000\n"
+"POT-Creation-Date: 2014-04-22 01:56+0000\n"
 "PO-Revision-Date: 2005-12-10 21:43+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -25,7 +25,7 @@ msgstr ""
 "Dateiformat.\n"
 "%1"
 
-#: kio_archive.cpp:461
+#: kio_archive.cpp:467
 #, kde-format
 msgid ""
 "The archive file could not be opened, perhaps because the format is "
