@@ -700,12 +700,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Numm"
 
 #, fuzzy
-#~| msgid "Host:"
 #~ msgid "Host"
 #~ msgstr "Host:"
 
 #, fuzzy
-#~| msgid "Port:"
 #~ msgid "Port"
 #~ msgstr "Port:"
 
@@ -717,11 +715,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Editor Auswielen"
 
 #, fuzzy
-#~| msgid ""
-#~| "Please choose the default text editing component that you wish to use in "
-#~| "this application. If you choose <B>System Default</B>, the application "
-#~| "will honor your changes in the Control Center. All other choices will "
-#~| "override that setting."
 #~ msgid ""
 #~ "Please choose the default text editing component that you wish to use in "
 #~ "this application. If you choose <B>System Default</B>, the application "
@@ -734,7 +727,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "ignoréiert déi Astellung."
 
 #, fuzzy
-#~| msgid "Test"
 #~ msgid "TETest"
 #~ msgstr "Test"
 
@@ -949,7 +941,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Rechtschreifkontroll"
 
 #, fuzzy
-#~| msgid "Create &root/affix combinations not in dictionary"
 #~ msgctxt "@option:check"
 #~ msgid "Create &root/affix combinations not in dictionary"
 #~ msgstr ""
@@ -957,183 +948,151 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "Wierderbuch steet"
 
 #, fuzzy
-#~| msgid "Consider run-together &words as spelling errors"
 #~ msgctxt "@option:check"
 #~ msgid "Consider run-together &words as spelling errors"
 #~ msgstr "&Zesummegesate Wierder als Schreiffeeler erkennen"
 
 #, fuzzy
-#~| msgid "&Dictionary:"
 #~ msgctxt "@label:listbox"
 #~ msgid "&Dictionary:"
 #~ msgstr "&Wierderbuch:"
 
 #, fuzzy
-#~| msgid "&Encoding:"
 #~ msgctxt "@label:listbox"
 #~ msgid "&Encoding:"
 #~ msgstr "&Kodéierung:"
 
 #, fuzzy
-#~| msgid "&Client:"
 #~ msgctxt "@label:listbox"
 #~ msgid "&Client:"
 #~ msgstr "&Programm:"
 
 #, fuzzy
-#~| msgid "Hebrew"
 #~ msgctxt "@item Spelling dictionary"
 #~ msgid "Hebrew"
 #~ msgstr "Hebräësch"
 
 #, fuzzy
-#~| msgid "Turkish"
 #~ msgctxt "@item Spelling dictionary"
 #~ msgid "Turkish"
 #~ msgstr "Türkësch"
 
 #, fuzzy
-#~| msgid "English"
 #~ msgctxt "@item Spelling dictionary"
 #~ msgid "English"
 #~ msgstr "Englësch"
 
 #, fuzzy
-#~| msgid "Spanish"
 #~ msgctxt "@item Spelling dictionary"
 #~ msgid "Spanish"
 #~ msgstr "Spuenësch"
 
 #, fuzzy
-#~| msgid "Danish"
 #~ msgctxt "@item Spelling dictionary"
 #~ msgid "Danish"
 #~ msgstr "Dänësch"
 
 #, fuzzy
-#~| msgid "German"
 #~ msgctxt "@item Spelling dictionary"
 #~ msgid "German"
 #~ msgstr "Däitsch"
 
 #, fuzzy
-#~| msgid "German (new spelling)"
 #~ msgctxt "@item Spelling dictionary"
 #~ msgid "German (new spelling)"
 #~ msgstr "Däitsch (nei Rechtschreiwung)"
 
 #, fuzzy
-#~| msgid "Brazilian Portuguese"
 #~ msgctxt "@item Spelling dictionary"
 #~ msgid "Brazilian Portuguese"
 #~ msgstr "Brasilianëscht Portugisësch"
 
 #, fuzzy
-#~| msgid "Portuguese"
 #~ msgctxt "@item Spelling dictionary"
 #~ msgid "Portuguese"
 #~ msgstr "Portugisësch"
 
 #, fuzzy
-#~| msgid "Esperanto"
 #~ msgctxt "@item Spelling dictionary"
 #~ msgid "Esperanto"
 #~ msgstr "Esperanto"
 
 #, fuzzy
-#~| msgid "Norwegian"
 #~ msgctxt "@item Spelling dictionary"
 #~ msgid "Norwegian"
 #~ msgstr "Norwegësch"
 
 #, fuzzy
-#~| msgid "Polish"
 #~ msgctxt "@item Spelling dictionary"
 #~ msgid "Polish"
 #~ msgstr "Polnësch"
 
 #, fuzzy
-#~| msgid "Russian"
 #~ msgctxt "@item Spelling dictionary"
 #~ msgid "Russian"
 #~ msgstr "Russësch"
 
 #, fuzzy
-#~| msgid "Slovenian"
 #~ msgctxt "@item Spelling dictionary"
 #~ msgid "Slovenian"
 #~ msgstr "Slovenësch"
 
 #, fuzzy
-#~| msgid "Slovak"
 #~ msgctxt "@item Spelling dictionary"
 #~ msgid "Slovak"
 #~ msgstr "Slovakësch"
 
 #, fuzzy
-#~| msgid "Czech"
 #~ msgctxt "@item Spelling dictionary"
 #~ msgid "Czech"
 #~ msgstr "Tschechësch"
 
 #, fuzzy
-#~| msgid "Swedish"
 #~ msgctxt "@item Spelling dictionary"
 #~ msgid "Swedish"
 #~ msgstr "Schwedësch"
 
 #, fuzzy
-#~| msgid "Swiss German"
 #~ msgctxt "@item Spelling dictionary"
 #~ msgid "Swiss German"
 #~ msgstr "Däitsch (Schwäiz)"
 
 #, fuzzy
-#~| msgid "Ukrainian"
 #~ msgctxt "@item Spelling dictionary"
 #~ msgid "Ukrainian"
 #~ msgstr "Ukrainësch"
 
 #, fuzzy
-#~| msgid "Lithuanian"
 #~ msgctxt "@item Spelling dictionary"
 #~ msgid "Lithuanian"
 #~ msgstr "Litauësch"
 
 #, fuzzy
-#~| msgid "French"
 #~ msgctxt "@item Spelling dictionary"
 #~ msgid "French"
 #~ msgstr "Franséisch"
 
 #, fuzzy
-#~| msgid "Belarusian"
 #~ msgctxt "@item Spelling dictionary"
 #~ msgid "Belarusian"
 #~ msgstr "Wäissrussësch"
 
 #, fuzzy
-#~| msgid "Hungarian"
 #~ msgctxt "@item Spelling dictionary"
 #~ msgid "Hungarian"
 #~ msgstr "Ungarësch"
 
 #, fuzzy
-#~| msgid "Unknown"
 #~ msgctxt "@item Spelling dictionary"
 #~ msgid "Unknown"
 #~ msgstr "Onbekannt"
 
 #, fuzzy
-#~| msgctxt "default spelling dictionary"
-#~| msgid "Default - %1 [%2]"
 #~ msgctxt "@item Spelling dictionary: %1 dictionary name, %2 file name"
 #~ msgid "Default - %1 [%2]"
 #~ msgstr "Standard - %1 [%2]"
 
 #, fuzzy
-#~| msgctxt "default spelling dictionary"
-#~| msgid "Default - %1"
 #~ msgctxt "@item Spelling dictionary: %1 dictionary name"
 #~ msgid "Default - %1"
 #~ msgstr "Standard - %1"
@@ -1171,7 +1130,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Weider"
 
 #, fuzzy
-#~| msgid "Unknown Field"
 #~ msgid "Unknown View"
 #~ msgstr "Onbekannt Feld"
 
@@ -1258,7 +1216,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Präfix, wou d'Ressource-Dateie gespäichert ginn"
 
 #, fuzzy
-#~| msgid "Installation failed."
 #~ msgid "Installation prefix for Qt"
 #~ msgstr "Installatioun net gaang."
 
@@ -1365,55 +1322,46 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Dëse Programm ass ënnert de Bedingunge vun %1 veröffentlëcht ginn."
 
 #, fuzzy
-#~| msgid "GPL"
 #~ msgctxt "@item license (short name)"
 #~ msgid "GPL v2"
 #~ msgstr "GPL"
 
 #, fuzzy
-#~| msgid "LGPL"
 #~ msgctxt "@item license (short name)"
 #~ msgid "LGPL v2"
 #~ msgstr "LGPL"
 
 #, fuzzy
-#~| msgid "License:"
 #~ msgctxt "@item license (short name)"
 #~ msgid "BSD License"
 #~ msgstr "Lizenz:"
 
 #, fuzzy
-#~| msgid "License:"
 #~ msgctxt "@item license"
 #~ msgid "BSD License"
 #~ msgstr "Lizenz:"
 
 #, fuzzy
-#~| msgid "Public Key"
 #~ msgctxt "@item license (short name)"
 #~ msgid "Artistic License"
 #~ msgstr "Öffentleche Schlëssel"
 
 #, fuzzy
-#~| msgid "Public Key"
 #~ msgctxt "@item license"
 #~ msgid "Artistic License"
 #~ msgstr "Öffentleche Schlëssel"
 
 #, fuzzy
-#~| msgid "Public Key"
 #~ msgctxt "@item license"
 #~ msgid "Q Public License"
 #~ msgstr "Öffentleche Schlëssel"
 
 #, fuzzy
-#~| msgid "GPL"
 #~ msgctxt "@item license (short name)"
 #~ msgid "GPL v3"
 #~ msgstr "GPL"
 
 #, fuzzy
-#~| msgid "LGPL"
 #~ msgctxt "@item license (short name)"
 #~ msgid "LGPL v3"
 #~ msgstr "LGPL"
@@ -1554,9 +1502,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Leet de GUI-Stil fir d'Uwendung fest"
 
 #, fuzzy
-#~| msgid ""
-#~| "sets the client geometry of the main widget - see man X for the argument "
-#~| "format"
 #~ msgid ""
 #~ "sets the client geometry of the main widget - see man X for the argument "
 #~ "format (usually WidthxHeight+XPos+YPos)"
@@ -1565,12 +1510,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "den Argumenter fannt dir mat \"man X\" eraus"
 
 #, fuzzy
-#~| msgid "Application: "
 #~ msgid "KDE Application"
 #~ msgstr "Programm: "
 
 #, fuzzy
-#~| msgid "Quit"
 #~ msgid "Qt"
 #~ msgstr "Ophalen"
 
@@ -1581,7 +1524,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Onbekannt Optioun '%1'."
 
 #, fuzzy
-#~| msgid "'%1' missing."
 #~ msgctxt "@info:shell %1 is cmdoption name"
 #~ msgid "'%1' missing."
 #~ msgstr "'%1' feelt."
@@ -1699,7 +1641,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "%1"
 
 #, fuzzy
-#~| msgid "Could not Launch Mail Client"
 #~ msgid "Could not launch Mail Client"
 #~ msgstr "Konnt de Mailprogramm net starten"
 
@@ -1713,15 +1654,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "%1"
 
 #, fuzzy
-#~| msgid "Could not Launch Browser"
 #~ msgid "Could not launch Browser"
 #~ msgstr "Konnt de Browser net starten"
 
 #, fuzzy
-#~| msgid ""
-#~| "Could not launch the mail client:\n"
-#~| "\n"
-#~| "%1"
 #~ msgid ""
 #~ "Could not launch the terminal client:\n"
 #~ "\n"
@@ -1732,115 +1668,95 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "%1"
 
 #, fuzzy
-#~| msgid "Could not Launch Mail Client"
 #~ msgid "Could not launch Terminal Client"
 #~ msgstr "Konnt de Mailprogramm net starten"
 
 #, fuzzy
-#~| msgid "Western European"
 #~ msgctxt "@item Text character set"
 #~ msgid "Western European"
 #~ msgstr "Westeuropäësch"
 
 #, fuzzy
-#~| msgid "Central European"
 #~ msgctxt "@item Text character set"
 #~ msgid "Central European"
 #~ msgstr "Mëtteleuropäësch"
 
 #, fuzzy
-#~| msgid "Baltic"
 #~ msgctxt "@item Text character set"
 #~ msgid "Baltic"
 #~ msgstr "Baltësch"
 
 #, fuzzy
-#~| msgid "South-Eastern Europe"
 #~ msgctxt "@item Text character set"
 #~ msgid "South-Eastern Europe"
 #~ msgstr "Südosteuropäësch"
 
 #, fuzzy
-#~| msgid "Turkish"
 #~ msgctxt "@item Text character set"
 #~ msgid "Turkish"
 #~ msgstr "Türkësch"
 
 #, fuzzy
-#~| msgid "Cyrillic"
 #~ msgctxt "@item Text character set"
 #~ msgid "Cyrillic"
 #~ msgstr "Kyrillësch"
 
 #, fuzzy
-#~| msgid "Chinese Traditional"
 #~ msgctxt "@item Text character set"
 #~ msgid "Chinese Traditional"
 #~ msgstr "Chinesësch traditionell"
 
 #, fuzzy
-#~| msgid "Chinese Simplified"
 #~ msgctxt "@item Text character set"
 #~ msgid "Chinese Simplified"
 #~ msgstr "Chinesësch einfach"
 
 #, fuzzy
-#~| msgid "Korean"
 #~ msgctxt "@item Text character set"
 #~ msgid "Korean"
 #~ msgstr "Koreanësch"
 
 #, fuzzy
-#~| msgid "Japanese"
 #~ msgctxt "@item Text character set"
 #~ msgid "Japanese"
 #~ msgstr "Japanësch"
 
 #, fuzzy
-#~| msgid "Greek"
 #~ msgctxt "@item Text character set"
 #~ msgid "Greek"
 #~ msgstr "Griichësch"
 
 #, fuzzy
-#~| msgid "Arabic"
 #~ msgctxt "@item Text character set"
 #~ msgid "Arabic"
 #~ msgstr "Arabësch"
 
 #, fuzzy
-#~| msgid "Hebrew"
 #~ msgctxt "@item Text character set"
 #~ msgid "Hebrew"
 #~ msgstr "Hebräësch"
 
 #, fuzzy
-#~| msgid "Thai"
 #~ msgctxt "@item Text character set"
 #~ msgid "Thai"
 #~ msgstr "Thailännësch"
 
 #, fuzzy
-#~| msgid "Unicode"
 #~ msgctxt "@item Text character set"
 #~ msgid "Unicode"
 #~ msgstr "Unicode"
 
 #, fuzzy
-#~| msgid "Northern Saami"
 #~ msgctxt "@item Text character set"
 #~ msgid "Northern Saami"
 #~ msgstr "Nördlëscht Sami"
 
 #, fuzzy
-#~| msgid "Other"
 #~ msgctxt "@item Text character set"
 #~ msgid "Other"
 #~ msgstr "Aner"
 
 #, fuzzy
-#~| msgctxt "Descriptive Encoding Name"
-#~| msgid "%1 ( %2 )"
 #~ msgctxt "@item %1 character set, %2 encoding"
 #~ msgid "%1 ( %2 )"
 #~ msgstr "%1 (%2)"
@@ -1851,8 +1767,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Verschlësselung festléen"
 
 #, fuzzy
-#~| msgctxt "Descriptive Encoding Name"
-#~| msgid "%1 ( %2 )"
 #~ msgctxt "@item Text encoding: %1 character set, %2 encoding"
 #~ msgid "%1 ( %2 )"
 #~ msgstr "%1 (%2)"
@@ -1863,94 +1777,71 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Veränneren aktivéiert"
 
 #, fuzzy
-#~| msgid "Install"
 #~ msgctxt "@item Text character set"
 #~ msgid "Universal"
 #~ msgstr "Installéieren"
 
 #, fuzzy
-#~| msgid "Arabic"
 #~ msgctxt "digit set"
 #~ msgid "Arabic-Indic"
 #~ msgstr "Arabësch"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Bengali"
 #~ msgctxt "digit set"
 #~ msgid "Bengali"
 #~ msgstr "Bengalësch"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Devanagari"
 #~ msgctxt "digit set"
 #~ msgid "Devanagari"
 #~ msgstr "Devanagari"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Gujarati"
 #~ msgctxt "digit set"
 #~ msgid "Gujarati"
 #~ msgstr "Gujarati"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Gurmukhi"
 #~ msgctxt "digit set"
 #~ msgid "Gurmukhi"
 #~ msgstr "Grumukhi"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Kannada"
 #~ msgctxt "digit set"
 #~ msgid "Kannada"
 #~ msgstr "Kannada"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Khmer"
 #~ msgctxt "digit set"
 #~ msgid "Khmer"
 #~ msgstr "Kambodschanësch"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Malayalam"
 #~ msgctxt "digit set"
 #~ msgid "Malayalam"
 #~ msgstr "Malayësch"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Oriya"
 #~ msgctxt "digit set"
 #~ msgid "Oriya"
 #~ msgstr "Oriya"
 
 #, fuzzy
-#~| msgid "Tamil"
 #~ msgctxt "digit set"
 #~ msgid "Tamil"
 #~ msgstr "Tamil"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Telugu"
 #~ msgctxt "digit set"
 #~ msgid "Telugu"
 #~ msgstr "Telugu"
 
 #, fuzzy
-#~| msgid "Thai"
 #~ msgctxt "digit set"
 #~ msgid "Thai"
 #~ msgstr "Thailännësch"
 
 #, fuzzy
-#~| msgid "Arabic"
 #~ msgctxt "digit set"
 #~ msgid "Arabic"
 #~ msgstr "Arabësch"
@@ -2081,7 +1972,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "%1 %2"
 
 #, fuzzy
-#~| msgid "Monday"
 #~ msgctxt "@item:intext %1 is a real number, e.g. 1.23 days"
 #~ msgid "%1 days"
 #~ msgstr "Méinden"
@@ -2104,7 +1994,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr[1] "%1 Optiounen"
 
 #, fuzzy
-#~| msgid "Monday"
 #~ msgctxt "@item:intext"
 #~ msgid "1 day"
 #~ msgid_plural "%1 days"
@@ -2126,8 +2015,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr[1] "%1 Optiounen"
 
 #, fuzzy
-#~| msgctxt "concatenation of dates and time"
-#~| msgid "%1 %2"
 #~ msgctxt ""
 #~ "@item:intext days and hours. This uses the previous item:intext messages. "
 #~ "If this does not fit the grammar of your language please contact the i18n "
@@ -2136,8 +2023,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "%1 %2"
 
 #, fuzzy
-#~| msgctxt "concatenation of dates and time"
-#~| msgid "%1 %2"
 #~ msgctxt ""
 #~ "@item:intext hours and minutes. This uses the previous item:intext "
 #~ "messages. If this does not fit the grammar of your language please "
@@ -2146,8 +2031,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "%1 %2"
 
 #, fuzzy
-#~| msgctxt "concatenation of dates and time"
-#~| msgid "%1 %2"
 #~ msgctxt ""
 #~ "@item:intext minutes and seconds. This uses the previous item:intext "
 #~ "messages. If this does not fit the grammar of your language please "
@@ -2156,18 +2039,15 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "%1 %2"
 
 #, fuzzy
-#~| msgid "Av"
 #~ msgctxt "Before Noon KLocale::NarrowName"
 #~ msgid "A"
 #~ msgstr "Av"
 
 #, fuzzy
-#~| msgid "Monday"
 #~ msgid "Today"
 #~ msgstr "Méinden"
 
 #, fuzzy
-#~| msgid "Tuesday"
 #~ msgid "Yesterday"
 #~ msgstr "Dënschten"
 
@@ -2186,14 +2066,11 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "(%1/s)"
 
 #, fuzzy
-#~| msgid "Note"
 #~ msgctxt "@note/plain"
 #~ msgid "Note: %1"
 #~ msgstr "Notiz"
 
 #, fuzzy
-#~| msgctxt "concatenation of dates and time"
-#~| msgid "%1 %2"
 #~ msgctxt ""
 #~ "@note-with-label/plain\n"
 #~ "%1 is the note label, %2 is the text"
@@ -2201,14 +2078,11 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "%1 %2"
 
 #, fuzzy
-#~| msgid "<b>Error</b>: %1: %2"
 #~ msgctxt "@warning/rich"
 #~ msgid "<b>Warning</b>: %1"
 #~ msgstr "<b>Feeler</b>: %1: %2"
 
 #, fuzzy
-#~| msgctxt "concatenation of dates and time"
-#~| msgid "%1 %2"
 #~ msgctxt ""
 #~ "@warning-with-label/plain\n"
 #~ "%1 is the warning label, %2 is the text"
@@ -2216,7 +2090,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "%1 %2"
 
 #, fuzzy
-#~| msgid "<b>Error</b>: %1: %2"
 #~ msgctxt ""
 #~ "@warning-with-label/rich\n"
 #~ "%1 is the warning label, %2 is the text"
@@ -2224,7 +2097,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "<b>Feeler</b>: %1: %2"
 
 #, fuzzy
-#~| msgid "%2 (%1 K)"
 #~ msgctxt ""
 #~ "@link-with-description/plain\n"
 #~ "%1 is the URL, %2 is the descriptive text"
@@ -2232,7 +2104,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "%2 (%1 K)"
 
 #, fuzzy
-#~| msgid "   <a href=\"%1\">[Properties]</a>"
 #~ msgctxt ""
 #~ "@link-with-description/rich\n"
 #~ "%1 is the URL, %2 is the descriptive text"
@@ -2240,19 +2111,16 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "   <a href=\"%1\">[Eegeschaften]</a>"
 
 #, fuzzy
-#~| msgid "%1%"
 #~ msgctxt "@application/plain"
 #~ msgid "%1"
 #~ msgstr "%1%"
 
 #, fuzzy
-#~| msgid "%1%"
 #~ msgctxt "@application/rich"
 #~ msgid "%1"
 #~ msgstr "%1%"
 
 #, fuzzy
-#~| msgid "%1%"
 #~ msgctxt "@command/plain"
 #~ msgid "%1"
 #~ msgstr "%1%"
@@ -2265,25 +2133,21 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "%1 (%2)"
 
 #, fuzzy
-#~| msgid "<b>Error</b>: %1: %2"
 #~ msgctxt "@icode/rich"
 #~ msgid "<tt>%1</tt>"
 #~ msgstr "<b>Feeler</b>: %1: %2"
 
 #, fuzzy
-#~| msgid "%1%"
 #~ msgctxt "@shortcut/plain"
 #~ msgid "%1"
 #~ msgstr "%1%"
 
 #, fuzzy
-#~| msgid "<b>Error</b>: %1: %2"
 #~ msgctxt "@emphasis-strong/rich"
 #~ msgid "<b>%1</b>"
 #~ msgstr "<b>Feeler</b>: %1: %2"
 
 #, fuzzy
-#~| msgid "Please report bugs to <a href=\"mailto:%1\">%2</a>.\n"
 #~ msgctxt "@email/rich"
 #~ msgid "&lt;<a href=\"mailto:%1\">%1</a>&gt;"
 #~ msgstr ""
@@ -2291,7 +2155,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "%2</a>.\n"
 
 #, fuzzy
-#~| msgid "Please report bugs to <a href=\"mailto:%1\">%2</a>.\n"
 #~ msgctxt ""
 #~ "@email-with-name/rich\n"
 #~ "%1 is name, %2 is address"
@@ -2301,7 +2164,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "%2</a>.\n"
 
 #, fuzzy
-#~| msgid "%1%"
 #~ msgctxt "@envar/plain"
 #~ msgid "$%1"
 #~ msgstr "%1%"
@@ -2312,178 +2174,141 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "(%1/s)"
 
 #, fuzzy
-#~| msgid "<b>Error</b>: %1: %2"
 #~ msgctxt "@message/rich"
 #~ msgid "<i>%1</i>"
 #~ msgstr "<b>Feeler</b>: %1: %2"
 
 #, fuzzy
-#~| msgid "+"
 #~ msgctxt "shortcut-key-delimiter/plain"
 #~ msgid "+"
 #~ msgstr "+"
 
 #, fuzzy
-#~| msgid "+"
 #~ msgctxt "shortcut-key-delimiter/rich"
 #~ msgid "+"
 #~ msgstr "+"
 
 #, fuzzy
-#~| msgid "Alt"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Alt"
 #~ msgstr "Alt"
 
 #, fuzzy
-#~| msgid "Alt"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "AltGr"
 #~ msgstr "Alt"
 
 #, fuzzy
-#~| msgid "Backspace"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Backspace"
 #~ msgstr "Zeréck-Tast"
 
 #, fuzzy
-#~| msgid "CapsLock"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "CapsLock"
 #~ msgstr "Caps Lock"
 
 #, fuzzy
-#~| msgid "Ctrl"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Control"
 #~ msgstr "Ctrl"
 
 #, fuzzy
-#~| msgid "Ctrl"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Ctrl"
 #~ msgstr "Ctrl"
 
 #, fuzzy
-#~| msgctxt "QAccel"
-#~| msgid "Del"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Del"
 #~ msgstr "Del"
 
 #, fuzzy
-#~| msgid "Delete"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Delete"
 #~ msgstr "Läschen"
 
 #, fuzzy
-#~| msgctxt "QAccel"
-#~| msgid "Down"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Down"
 #~ msgstr "Erof"
 
 #, fuzzy
-#~| msgid "End"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "End"
 #~ msgstr "Enn"
 
 #, fuzzy
-#~| msgctxt "QAccel"
-#~| msgid "Enter"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Enter"
 #~ msgstr "Enter"
 
 #, fuzzy
-#~| msgctxt "QAccel"
-#~| msgid "Esc"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Esc"
 #~ msgstr "Esc"
 
 #, fuzzy
-#~| msgid "Escape"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Escape"
 #~ msgstr "Esc"
 
 #, fuzzy
-#~| msgctxt "Opposite to End"
-#~| msgid "Home"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Home"
 #~ msgstr "Ufank"
 
 #, fuzzy
-#~| msgid "Type"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Hyper"
 #~ msgstr "Typ"
 
 #, fuzzy
-#~| msgctxt "QAccel"
-#~| msgid "Ins"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Ins"
 #~ msgstr "Ins"
 
 #, fuzzy
-#~| msgid "Insert"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Insert"
 #~ msgstr "Asetzen"
 
 #, fuzzy
-#~| msgid "Left"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Left"
 #~ msgstr "Lénks"
 
 #, fuzzy
-#~| msgctxt "QAccel"
-#~| msgid "Menu"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Menu"
 #~ msgstr "Menü"
 
 #, fuzzy
-#~| msgid "Meta"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Meta"
 #~ msgstr "Meta"
 
 #, fuzzy
-#~| msgid "NumLock"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "NumLock"
 #~ msgstr "Num Lock"
 
 #, fuzzy
-#~| msgid "PageDown"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "PageDown"
 #~ msgstr "Page Down"
 
 #, fuzzy
-#~| msgid "PageUp"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "PageUp"
 #~ msgstr "Page Up"
 
 #, fuzzy
-#~| msgctxt "QAccel"
-#~| msgid "PgDown"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "PgDown"
 #~ msgstr "PgDown"
 
 #, fuzzy
-#~| msgctxt "QAccel"
-#~| msgid "PgUp"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "PgUp"
 #~ msgstr "PgUp"
@@ -2494,47 +2319,36 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Paus"
 
 #, fuzzy
-#~| msgctxt "QAccel"
-#~| msgid "Print Screen"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "PrintScreen"
 #~ msgstr "Print Screen"
 
 #, fuzzy
-#~| msgctxt "QAccel"
-#~| msgid "Print Screen"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "PrtScr"
 #~ msgstr "Print Screen"
 
 #, fuzzy
-#~| msgctxt "QAccel"
-#~| msgid "Return"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Return"
 #~ msgstr "Enter"
 
 #, fuzzy
-#~| msgid "Right"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Right"
 #~ msgstr "Riets"
 
 #, fuzzy
-#~| msgid "ScrollLock"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "ScrollLock"
 #~ msgstr "Scroll Lock"
 
 #, fuzzy
-#~| msgid "Shift"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Shift"
 #~ msgstr "Shift"
 
 #, fuzzy
-#~| msgctxt "QAccel"
-#~| msgid "Space"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Space"
 #~ msgstr "Eidel-Tast"
@@ -2545,31 +2359,26 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Klang"
 
 #, fuzzy
-#~| msgid "SysReq"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "SysReq"
 #~ msgstr "System offänken"
 
 #, fuzzy
-#~| msgid "Sab"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Tab"
 #~ msgstr "Sab"
 
 #, fuzzy
-#~| msgid "Up"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Up"
 #~ msgstr "Erop"
 
 #, fuzzy
-#~| msgid "Win"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Win"
 #~ msgstr "Windows"
 
 #, fuzzy
-#~| msgid "F%1"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "F%1"
 #~ msgstr "F%1"
@@ -2689,89 +2498,66 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "SOCKS-Statioun fir den Dante-Server"
 
 #, fuzzy
-#~| msgctxt "Socket error code NotSupported"
-#~| msgid "operation is not supported"
 #~ msgid "The socket operation is not supported"
 #~ msgstr "Dëss Aktioun gëtt net ënnerstëtzt"
 
 #, fuzzy
-#~| msgctxt "Socket error code ConnectionRefused"
-#~| msgid "connection actively refused"
 #~ msgid "Connection refused"
 #~ msgstr "D'Verbindung ass ofgeleent ginn"
 
 #, fuzzy
-#~| msgid "Permission denied."
 #~ msgid "Permission denied"
 #~ msgstr "Zougrëff net erlaabt."
 
 #, fuzzy
-#~| msgctxt "Socket error code ConnectionTimedOut"
-#~| msgid "connection timed out"
 #~ msgid "Connection timed out"
 #~ msgstr "D'Verbindungszäit ass iwwerschratt ginn"
 
 #, fuzzy
-#~| msgctxt "QFile"
-#~| msgid "Unknown error"
 #~ msgid "Unknown error"
 #~ msgstr "Onbekannte Feeler"
 
 #, fuzzy
-#~| msgctxt "Socket error code AddressInUse"
-#~| msgid "address already in use"
 #~ msgid "Address is already in use"
 #~ msgstr "Dëss adress gëtt scho benotzt"
 
 #, fuzzy
-#~| msgid "This file cannot be opened."
 #~ msgid "Path cannot be used"
 #~ msgstr "Dëss Datei kann net opgemaach ginn."
 
 #, fuzzy
-#~| msgid "No such file."
 #~ msgid "No such file or directory"
 #~ msgstr "Sou eng Datei gëtt et net."
 
 #, fuzzy
-#~| msgid "Read-only"
 #~ msgid "Read-only filesystem"
 #~ msgstr "Nëmme Liesen"
 
 #, fuzzy
-#~| msgctxt "QFile"
-#~| msgid "Unknown error"
 #~ msgid "Unknown socket error"
 #~ msgstr "Onbekannte Feeler"
 
 #, fuzzy
-#~| msgctxt "Socket error code NotSupported"
-#~| msgid "operation is not supported"
 #~ msgid "Operation not supported"
 #~ msgstr "Dëss Aktioun gëtt net ënnerstëtzt"
 
 #, fuzzy
-#~| msgid "no error"
 #~ msgctxt "SSL error"
 #~ msgid "No error"
 #~ msgstr "ouni Feeler"
 
 #, fuzzy
-#~| msgid "Certificate Password"
 #~ msgctxt "SSL error"
 #~ msgid "The certificate has expired"
 #~ msgstr "Passwuert vum Zertifikat"
 
 #, fuzzy
-#~| msgid "The certificate file could not be loaded. Try a different password?"
 #~ msgctxt "SSL error"
 #~ msgid "The certificate cannot be verified for internal reasons"
 #~ msgstr ""
 #~ "D'Zertifikatsdatei konnt net geluede ginn. Ën anert Passwuert probéieren?"
 
 #, fuzzy
-#~| msgctxt "QFile"
-#~| msgid "Unknown error"
 #~ msgctxt "SSL error"
 #~ msgid "Unknown error"
 #~ msgstr "Onbekannte Feeler"
@@ -2824,22 +2610,16 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Konnt déi nei Datei net erstellen."
 
 #, fuzzy
-#~| msgctxt "QFile"
-#~| msgid "Could not read from the file"
 #~ msgid "Could not read data from %1 into shm"
 #~ msgstr "Konnt d'Datei net liesen"
 
 #, fuzzy
-#~| msgid ""
-#~| "Cannot save the file\n"
-#~| "\""
 #~ msgid "Cannot seek past eof"
 #~ msgstr ""
 #~ "Konnt d'Datei net späicheren\n"
 #~ "\""
 
 #, fuzzy
-#~| msgid "Link not found: \"%1\"."
 #~ msgid "Library \"%1\" not found"
 #~ msgstr "Link net fonnt: \"%1\"."
 
@@ -2857,12 +2637,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Onbekannte Feeler"
 
 #, fuzzy
-#~| msgid "Content information: %1\n"
 #~ msgid "Could not find plugin '%1' for application '%2'"
 #~ msgstr "Beschreiwung vum Inhalt: %1\n"
 
 #, fuzzy
-#~| msgid "The library %1 does not offer a KDE compatible factory."
 #~ msgid "The library %1 does not offer a KDE 4 compatible factory."
 #~ msgstr "D'Bibliothéik %1 huet keng Factory, déi mat KDE kompatibel ass."
 
@@ -2905,18 +2683,15 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "An der Sycoca-Datebank just eng Kéier nokucken"
 
 #, fuzzy
-#~| msgid "Ambiguous \"%1\" not handled"
 #~ msgid "Ambiguous shortcut detected"
 #~ msgstr "Méideideg \"%1\" net verschafft"
 
 #, fuzzy
-#~| msgid "Default"
 #~ msgctxt "Encodings menu"
 #~ msgid "Default"
 #~ msgstr "Standard"
 
 #, fuzzy
-#~| msgid "Autocorrect"
 #~ msgctxt "Encodings menu"
 #~ msgid "Autodetect"
 #~ msgstr "Automatësch Verbesserung"
@@ -2926,7 +2701,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Eegeschaften"
 
 #, fuzzy
-#~| msgid "Clear input"
 #~ msgid "Clear List"
 #~ msgstr "Input-Feld eidelmaachen"
 
@@ -2939,8 +2713,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&No Vir"
 
 #, fuzzy
-#~| msgctxt "beginning (of line)"
-#~| msgid "&Home"
 #~ msgctxt "home page"
 #~ msgid "&Home"
 #~ msgstr "&Ufank"
@@ -2953,7 +2725,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Menübar weisen"
 
 #, fuzzy
-#~| msgid "Show Menubar<p>Shows the menubar again after it has been hidden"
 #~ msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
 #~ msgstr ""
 #~ "Menübar weisen<p>Weist d'Menübar nees un, nodeems se verstoppt gi war"
@@ -2962,9 +2733,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "St&atusbar weisen"
 
 #, fuzzy
-#~| msgid ""
-#~| "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of "
-#~| "the window used for status information."
 #~ msgid ""
 #~ "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of "
 #~ "the window used for status information.</p>"
@@ -2976,7 +2744,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Nei"
 
 #, fuzzy
-#~| msgid "Clear shortcut"
 #~ msgid "Create new document"
 #~ msgstr "Kierzel läschen"
 
@@ -2990,7 +2757,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Späicheren"
 
 #, fuzzy
-#~| msgid "Close Document"
 #~ msgid "Save document"
 #~ msgstr "Dokument zoumaachen"
 
@@ -3004,7 +2770,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Zoumaachen"
 
 #, fuzzy
-#~| msgid "Close Document"
 #~ msgid "Close document"
 #~ msgstr "Dokument zoumaachen"
 
@@ -3012,13 +2777,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Drécken..."
 
 #, fuzzy
-#~| msgctxt "QAccel"
-#~| msgid "Print Screen"
 #~ msgid "Print document"
 #~ msgstr "Print Screen"
 
 #, fuzzy
-#~| msgid "Print Previe&w..."
 #~ msgid "Print Previe&w"
 #~ msgstr "Drocker&virschau..."
 
@@ -3035,7 +2797,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Nees &zeréck"
 
 #, fuzzy
-#~| msgid "HTML documentation"
 #~ msgid "Redo last undone action"
 #~ msgstr "HTML-Dokumentatioun"
 
@@ -3049,7 +2810,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Peschen"
 
 #, fuzzy
-#~| msgid "Upload Info"
 #~ msgid "Paste clipboard content"
 #~ msgstr "Informatiounen iwwert d'Eroplueden"
 
@@ -3096,7 +2856,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Zoom..."
 
 #, fuzzy
-#~| msgid "Select a week"
 #~ msgid "Select zoom level"
 #~ msgstr "Woch auswielen"
 
@@ -3104,7 +2863,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Frësch uweisen"
 
 #, fuzzy
-#~| msgid "&Redisplay"
 #~ msgid "Redisplay document"
 #~ msgstr "&Frësch uweisen"
 
@@ -3115,7 +2873,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Säit &virdrunn"
 
 #, fuzzy
-#~| msgid "&Previous Page"
 #~ msgid "Go to previous page"
 #~ msgstr "Säit &virdrunn"
 
@@ -3123,7 +2880,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Nächst Säit"
 
 #, fuzzy
-#~| msgid "Go to Line"
 #~ msgid "Go to next page"
 #~ msgstr "Sprang op d'Zeil"
 
@@ -3140,7 +2896,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Éischt Säit"
 
 #, fuzzy
-#~| msgid "Go to Line"
 #~ msgid "Go to first page"
 #~ msgstr "Sprang op d'Zeil"
 
@@ -3148,23 +2903,18 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Lescht Säit"
 
 #, fuzzy
-#~| msgid "&Go to Page..."
 #~ msgid "Go to last page"
 #~ msgstr "Op d'Säit &goen..."
 
 #, fuzzy
-#~| msgid "Go back one step"
 #~ msgid "Go back in document"
 #~ msgstr "Ee Schrack zeréckgoen"
 
 #, fuzzy
-#~| msgctxt "go forward"
-#~| msgid "&Forward"
 #~ msgid "&Forward"
 #~ msgstr "&No Vir"
 
 #, fuzzy
-#~| msgid "Go forward one step"
 #~ msgid "Go forward in document"
 #~ msgstr "Ee Schrack no vir goen"
 
@@ -3178,12 +2928,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Rechtschreiwung..."
 
 #, fuzzy
-#~| msgid "Check Spelling"
 #~ msgid "Check spelling in document"
 #~ msgstr "Rechtschreifkontroll"
 
 #, fuzzy
-#~| msgid "Show &Menubar"
 #~ msgid "Show or hide menubar"
 #~ msgstr "&Menübar weisen"
 
@@ -3191,12 +2939,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Toolbar weisen"
 
 #, fuzzy
-#~| msgid "Show &Toolbar"
 #~ msgid "Show or hide toolbar"
 #~ msgstr "&Toolbar weisen"
 
 #, fuzzy
-#~| msgid "Show St&atusbar"
 #~ msgid "Show or hide statusbar"
 #~ msgstr "St&atusbar weisen"
 
@@ -3241,37 +2987,31 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Iwwer &KDE"
 
 #, fuzzy
-#~| msgid "Exit F&ull Screen Mode"
 #~ msgctxt "@action:inmenu"
 #~ msgid "Exit F&ull Screen Mode"
 #~ msgstr "Aus dem &Vollbildmodus erausgoen"
 
 #, fuzzy
-#~| msgid "Exit F&ull Screen Mode"
 #~ msgctxt "@action:intoolbar"
 #~ msgid "Exit Full Screen"
 #~ msgstr "Aus dem &Vollbildmodus erausgoen"
 
 #, fuzzy
-#~| msgid "Exit F&ull Screen Mode"
 #~ msgctxt "@info:tooltip"
 #~ msgid "Exit full screen mode"
 #~ msgstr "Aus dem &Vollbildmodus erausgoen"
 
 #, fuzzy
-#~| msgid "F&ull Screen Mode"
 #~ msgctxt "@action:inmenu"
 #~ msgid "F&ull Screen Mode"
 #~ msgstr "&Vollbildmodus"
 
 #, fuzzy
-#~| msgid "Full Screen Mode"
 #~ msgctxt "@action:intoolbar"
 #~ msgid "Full Screen"
 #~ msgstr "Vollbildmodus"
 
 #, fuzzy
-#~| msgid "Custom..."
 #~ msgctxt "Custom color"
 #~ msgid "Custom..."
 #~ msgstr "Benotzerdefinéiert..."
@@ -3289,8 +3029,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Forty-Faarwen"
 
 #, fuzzy
-#~| msgctxt "palette name"
-#~| msgid "Web Colors"
 #~ msgctxt "palette name"
 #~ msgid "Oxygen Colors"
 #~ msgstr "Web-Faarwen"
@@ -3311,9 +3049,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Definéiert Faarwen"
 
 #, fuzzy
-#~| msgid ""
-#~| "Unable to read X11 RGB color strings. The following file location(s) "
-#~| "were examined:\n"
 #~ msgctxt ""
 #~ "%1 is the number of paths, %2 is the list of paths (with newlines between "
 #~ "them)"
@@ -3333,7 +3068,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "Späicherplaze sinn durchsicht ginn:\n"
 
 #, fuzzy
-#~| msgid "Select Color"
 #~ msgid "Select Color"
 #~ msgstr "Faarf auswielen"
 
@@ -3389,28 +3123,23 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "Et gëtt kee passend KAboutData-Objekt."
 
 #, fuzzy
-#~| msgid "License:"
 #~ msgid "License: %1"
 #~ msgstr "Lizenz:"
 
 #, fuzzy
-#~| msgid "&License Agreement"
 #~ msgid "License Agreement"
 #~ msgstr "&Lizenz"
 
 #, fuzzy
-#~| msgid "Other Contributors:"
 #~ msgctxt "Action to send an email to a contributor"
 #~ msgid "Email contributor"
 #~ msgstr "Aner Mataarbëchter:"
 
 #, fuzzy
-#~| msgid "Homepage"
 #~ msgid "Visit contributor's homepage"
 #~ msgstr "Homepage"
 
 #, fuzzy
-#~| msgid "Other Contributors:"
 #~ msgctxt "Action to send an email to a contributor"
 #~ msgid ""
 #~ "Email contributor\n"
@@ -3418,41 +3147,34 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Aner Mataarbëchter:"
 
 #, fuzzy
-#~| msgid "Homepage"
 #~ msgid ""
 #~ "Visit contributor's homepage\n"
 #~ "%1"
 #~ msgstr "Homepage"
 
 #, fuzzy
-#~| msgid "Homepage"
 #~ msgid ""
 #~ "Visit contributor's page\n"
 #~ "%1"
 #~ msgstr "Homepage"
 
 #, fuzzy
-#~| msgid "Homepage"
 #~ msgid ""
 #~ "Visit contributor's blog\n"
 #~ "%1"
 #~ msgstr "Homepage"
 
 #, fuzzy
-#~| msgid "%1%"
 #~ msgctxt "@item Contributor name in about dialog."
 #~ msgid "%1"
 #~ msgstr "%1%"
 
 #, fuzzy
-#~| msgctxt "concatenation of dates and time"
-#~| msgid "%1 %2"
 #~ msgctxt "City, Country"
 #~ msgid "%1, %2"
 #~ msgstr "%1 %2"
 
 #, fuzzy
-#~| msgid "Other"
 #~ msgctxt "A generic social network or homepage link of an unlisted type."
 #~ msgid "Other"
 #~ msgstr "Aner"
@@ -3463,7 +3185,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Net zouloossen"
 
 #, fuzzy
-#~| msgid "Homepage"
 #~ msgctxt "A type of link."
 #~ msgid "Homepage"
 #~ msgstr "Homepage"
@@ -3535,18 +3256,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "fannt dir, wat dir sicht."
 
 #, fuzzy
-#~| msgid ""
-#~| "KDE is available free of charge, but making it is not free.<br><br>Thus, "
-#~| "the KDE team formed the KDE e.V., a non-profit organization legally "
-#~| "founded in Tuebingen, Germany. The KDE e.V. represents the KDE project "
-#~| "in legal and financial matters. See <a href=\"http://www.kde-ev.org/"
-#~| "\">http://www.kde-ev.org</a> for information on the KDE e.V.<br><br>The "
-#~| "KDE team does need financial support. Most of the money is used to "
-#~| "reimburse members and others on expenses they experienced when "
-#~| "contributing to KDE. You are encouraged to support KDE through a "
-#~| "financial donation, using one of the ways described at <a href=\"http://"
-#~| "www.kde.org/support/\">http://www.kde.org/support/</a>.<br><br>Thank you "
-#~| "very much in advance for your support."
 #~ msgid ""
 #~ "<html>KDE software is and will always be available free of charge, "
 #~ "however creating it is not free.<br /><br />To support development the "
@@ -3580,7 +3289,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Käferen a Wënsch mellen"
 
 #, fuzzy
-#~| msgid "&Join the KDE Team"
 #~ msgid "&Join KDE"
 #~ msgstr "Gitt &Member am KDE-Team"
 
@@ -3607,7 +3315,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "\"-Knäppche fir se z'änneren"
 
 #, fuzzy
-#~| msgid "From:"
 #~ msgctxt "Email sender address"
 #~ msgid "From:"
 #~ msgstr "Vun:"
@@ -3619,7 +3326,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "D'E-Mail-Adress, wou de Käfer gemellt gëtt."
 
 #, fuzzy
-#~| msgid "To:"
 #~ msgctxt "Email receiver address"
 #~ msgid "To:"
 #~ msgstr "Un:"
@@ -3655,7 +3361,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Versioun:"
 
 #, fuzzy
-#~| msgid "no version set (programmer error!)"
 #~ msgid "no version set (programmer error)"
 #~ msgstr "keng Versioun (Feeler vum Programméierer!)"
 
@@ -3726,14 +3431,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "verschécke kënnt."
 
 #, fuzzy
-#~| msgid ""
-#~| "<p>You chose the severity <b>Critical</b>. Please note that this "
-#~| "severity is intended only for bugs that</p><ul><li>break unrelated "
-#~| "software on the system (or the whole system)</li><li>cause serious data "
-#~| "loss</li><li>introduce a security hole on the system where the affected "
-#~| "package is installed</li></ul>\n"
-#~| "<p>Does the bug you are reporting cause any of the above damage? If it "
-#~| "does not, please select a lower severity. Thank you!</p>"
 #~ msgid ""
 #~ "<p>You chose the severity <b>Critical</b>. Please note that this severity "
 #~ "is intended only for bugs that:</p><ul><li>break unrelated software on "
@@ -3752,14 +3449,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "eng schwaach Gravitéit aus. Merci.</p>"
 
 #, fuzzy
-#~| msgid ""
-#~| "<p>You chose the severity <b>Grave</b>. Please note that this severity "
-#~| "is intended only for bugs that</p><ul><li>make the package in question "
-#~| "unusable or mostly so</li><li>cause data loss</li><li>introduce a "
-#~| "security hole allowing access to the accounts of users who use the "
-#~| "affected package</li></ul>\n"
-#~| "<p>Does the bug you are reporting cause any of the above damage? If it "
-#~| "does not, please select a lower severity. Thank you!</p>"
 #~ msgid ""
 #~ "<p>You chose the severity <b>Grave</b>. Please note that this severity is "
 #~ "intended only for bugs that:</p><ul><li>make the package in question "
@@ -3778,10 +3467,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "eng schwaach Gravitéit aus. Merci.</p>"
 
 #, fuzzy
-#~| msgid ""
-#~| "Unable to send the bug report.\n"
-#~| "Please submit a bug report manually...\n"
-#~| "See http://bugs.kde.org/ for instructions."
 #~ msgid ""
 #~ "Unable to send the bug report.\n"
 #~ "Please submit a bug report manually....\n"
@@ -3809,32 +3494,26 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Configuréieren"
 
 #, fuzzy
-#~| msgid "Jom"
 #~ msgid "Job"
 #~ msgstr "Jom"
 
 #, fuzzy
-#~| msgid "Ctrl"
 #~ msgid "Job Control"
 #~ msgstr "Ctrl"
 
 #, fuzzy
-#~| msgid "Key used for signing:"
 #~ msgid "Scheduled printing:"
 #~ msgstr "Schlëssel fir z'ënnerschreiwen:"
 
 #, fuzzy
-#~| msgid "Information"
 #~ msgid "Billing information:"
 #~ msgstr "Informatioun"
 
 #, fuzzy
-#~| msgid "Options"
 #~ msgid "Job Options"
 #~ msgstr "Optiounen"
 
 #, fuzzy
-#~| msgid "Options"
 #~ msgid "Option"
 #~ msgstr "Optiounen"
 
@@ -3842,17 +3521,14 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Wert"
 
 #, fuzzy
-#~| msgid "Print images"
 #~ msgid "Print Immediately"
 #~ msgstr "Biller drécken"
 
 #, fuzzy
-#~| msgid "Pager"
 #~ msgid "Pages"
 #~ msgstr "Pager"
 
 #, fuzzy
-#~| msgid "%1%"
 #~ msgid "16"
 #~ msgstr "%1%"
 
@@ -3862,111 +3538,91 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Start"
 
 #, fuzzy
-#~| msgid "End"
 #~ msgctxt "Banner page at end"
 #~ msgid "End"
 #~ msgstr "Enn"
 
 #, fuzzy
-#~| msgid "Page loaded."
 #~ msgid "Page Label"
 #~ msgstr "Säit gelueden."
 
 #, fuzzy
-#~| msgid "Border"
 #~ msgid "Page Border"
 #~ msgstr "Rand"
 
 #, fuzzy
-#~| msgid "&First Page"
 #~ msgid "Mirror Pages"
 #~ msgstr "&Éischt Säit"
 
 #, fuzzy
-#~| msgid "None"
 #~ msgctxt "No border line"
 #~ msgid "None"
 #~ msgstr "Keng"
 
 #, fuzzy
-#~| msgid "Save Link As"
 #~ msgid "Single Line"
 #~ msgstr "Link späicheren als"
 
 #, fuzzy
-#~| msgid "&Double Size"
 #~ msgid "Double Line"
 #~ msgstr "&Duebel Gréisst"
 
 #, fuzzy
-#~| msgid "&Double Size"
 #~ msgid "Double Thick Line"
 #~ msgstr "&Duebel Gréisst"
 
 #, fuzzy
-#~| msgid "None"
 #~ msgctxt "Banner page"
 #~ msgid "None"
 #~ msgstr "Keng"
 
 #, fuzzy
-#~| msgid "Standard"
 #~ msgctxt "Banner page"
 #~ msgid "Standard"
 #~ msgstr "Standard"
 
 #, fuzzy
-#~| msgid "Class"
 #~ msgctxt "Banner page"
 #~ msgid "Unclassified"
 #~ msgstr "Klass"
 
 #, fuzzy
-#~| msgid "Confidential"
 #~ msgctxt "Banner page"
 #~ msgid "Confidential"
 #~ msgstr "Vertraulech"
 
 #, fuzzy
-#~| msgid "Class"
 #~ msgctxt "Banner page"
 #~ msgid "Classified"
 #~ msgstr "Klass"
 
 #, fuzzy
-#~| msgid "Security"
 #~ msgctxt "Banner page"
 #~ msgid "Secret"
 #~ msgstr "Sëcherheet"
 
 #, fuzzy
-#~| msgid "Security"
 #~ msgctxt "Banner page"
 #~ msgid "Top Secret"
 #~ msgstr "Sëcherheet"
 
 #, fuzzy
-#~| msgid "Pager"
 #~ msgid "All Pages"
 #~ msgstr "Pager"
 
 #, fuzzy
-#~| msgid "Pager"
 #~ msgid "Odd Pages"
 #~ msgstr "Pager"
 
 #, fuzzy
-#~| msgid "Pager"
 #~ msgid "Even Pages"
 #~ msgstr "Pager"
 
 #, fuzzy
-#~| msgid "Page loaded."
 #~ msgid "Page Set"
 #~ msgstr "Säit gelueden."
 
 #, fuzzy
-#~| msgid "Print"
 #~ msgctxt "@title:window"
 #~ msgid "Print"
 #~ msgstr "Drécken"
@@ -3987,12 +3643,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "--- Trenner ---"
 
 #, fuzzy
-#~| msgid "Change &Icon..."
 #~ msgid "Change Text"
 #~ msgstr "&Symbol änneren..."
 
 #, fuzzy
-#~| msgid "Find Text"
 #~ msgid "Icon te&xt:"
 #~ msgstr "Text sichen"
 
@@ -4022,7 +3676,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Verfügbar Aktiounen:"
 
 #, fuzzy
-#~| msgid "Filter:"
 #~ msgid "Filter"
 #~ msgstr "Filter:"
 
@@ -4033,12 +3686,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Symbol änneren..."
 
 #, fuzzy
-#~| msgid "Change &Icon..."
 #~ msgid "Change Te&xt..."
 #~ msgstr "&Symbol änneren..."
 
 #, fuzzy
-#~| msgid "%1%"
 #~ msgctxt "@item:intable Action name in toolbar editor"
 #~ msgid "%1"
 #~ msgstr "%1%"
@@ -4068,51 +3719,42 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Aktiounelëscht: %1"
 
 #, fuzzy
-#~| msgid "%1%"
 #~ msgctxt "@label Action tooltip in toolbar editor, below the action list"
 #~ msgid "%1"
 #~ msgstr "%1%"
 
 #, fuzzy
-#~| msgid "Change &Icon..."
 #~ msgid "Change Icon"
 #~ msgstr "&Symbol änneren..."
 
 #, fuzzy
-#~| msgid "Save Link As"
 #~ msgid "Manage Link"
 #~ msgstr "Link späicheren als"
 
 #, fuzzy
-#~| msgid "Find Text"
 #~ msgid "Link Text:"
 #~ msgstr "Text sichen"
 
 #, fuzzy
-#~| msgid "URL:"
 #~ msgid "Link URL:"
 #~ msgstr "URL:"
 
 #, fuzzy
-#~| msgid "%1%"
 #~ msgctxt "@action:button filter-yes"
 #~ msgid "%1"
 #~ msgstr "%1%"
 
 #, fuzzy
-#~| msgid "%1%"
 #~ msgctxt "@action:button filter-no"
 #~ msgid "%1"
 #~ msgstr "%1%"
 
 #, fuzzy
-#~| msgid "%1%"
 #~ msgctxt "@action:button filter-continue"
 #~ msgid "%1"
 #~ msgstr "%1%"
 
 #, fuzzy
-#~| msgid "%1%"
 #~ msgctxt "@action:button filter-cancel"
 #~ msgid "%1"
 #~ msgstr "%1%"
@@ -4149,7 +3791,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Passwuert:"
 
 #, fuzzy
-#~| msgid "&Keep password"
 #~ msgid "Use this password:"
 #~ msgstr "Passwuert &bäibehalen"
 
@@ -4158,12 +3799,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Benotzer:"
 
 #, fuzzy
-#~| msgid "Chain:"
 #~ msgid "Domain:"
 #~ msgstr "Ketten:"
 
 #, fuzzy
-#~| msgid "&Keep password"
 #~ msgid "Remember password"
 #~ msgstr "Passwuert &bäibehalen"
 
@@ -4175,12 +3814,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "Klickt an zitt w.e.g. iwwert d'Bild fir de gewënschte Beräich ze wielen:"
 
 #, fuzzy
-#~| msgid "Default"
 #~ msgid "Default:"
 #~ msgstr "Standard"
 
 #, fuzzy
-#~| msgid "None"
 #~ msgctxt "No shortcut defined"
 #~ msgid "None"
 #~ msgstr "Keng"
@@ -4190,17 +3827,14 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Benotzerdéfinéiert"
 
 #, fuzzy
-#~| msgid "Shortcuts"
 #~ msgid "Shortcut Schemes"
 #~ msgstr "Kierzelen"
 
 #, fuzzy
-#~| msgid "Curr&ent actions:"
 #~ msgid "Current scheme:"
 #~ msgstr "Ug&ewisen Aktiounen:"
 
 #, fuzzy
-#~| msgid "New List..."
 #~ msgid "New..."
 #~ msgstr "Nei Lëscht..."
 
@@ -4208,22 +3842,18 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Läschen"
 
 #, fuzzy
-#~| msgid "Action"
 #~ msgid "More Actions"
 #~ msgstr "Aktioun"
 
 #, fuzzy
-#~| msgid "Defaults"
 #~ msgid "Save as Scheme Defaults"
 #~ msgstr "Standard"
 
 #, fuzzy
-#~| msgid "Curr&ent actions:"
 #~ msgid "Name for new scheme:"
 #~ msgstr "Ug&ewisen Aktiounen:"
 
 #, fuzzy
-#~| msgid "Curr&ent actions:"
 #~ msgid "New Scheme"
 #~ msgstr "Ug&ewisen Aktiounen:"
 
@@ -4234,7 +3864,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "ersetze wëllt?"
 
 #, fuzzy
-#~| msgid "Click to select a font"
 #~ msgid "Export to Location"
 #~ msgstr "Klickt hei, fir eng Schrëft ze wielen"
 
@@ -4245,7 +3874,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Drécken"
 
 #, fuzzy
-#~| msgid "Defaults"
 #~ msgid "Reset to Defaults"
 #~ msgstr "Standard"
 
@@ -4275,7 +3903,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Alternativ"
 
 #, fuzzy
-#~| msgid "Alternate"
 #~ msgid "Global Alternate"
 #~ msgstr "Alternativ"
 
@@ -4305,23 +3932,19 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
 #, fuzzy
-#~| msgid "Shortcuts"
 #~ msgctxt "header for an applications shortcut list"
 #~ msgid "Shortcuts for %1"
 #~ msgstr "Kierzelen"
 
 #, fuzzy
-#~| msgid "Chain:"
 #~ msgid "Main:"
 #~ msgstr "Ketten:"
 
 #, fuzzy
-#~| msgid "Alternate"
 #~ msgid "Alternate:"
 #~ msgstr "Alternativ"
 
 #, fuzzy
-#~| msgid "Additional Names"
 #~ msgid "Action Name"
 #~ msgstr "Zousätzlech Nimm"
 
@@ -4329,38 +3952,31 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Kierzelen"
 
 #, fuzzy
-#~| msgid "Description:"
 #~ msgid "Description"
 #~ msgstr "Beschreiwung:"
 
 #, fuzzy
-#~| msgid "%1%"
 #~ msgctxt "@item:intable Action name in shortcuts configuration"
 #~ msgid "%1"
 #~ msgstr "%1%"
 
 #, fuzzy
-#~| msgid "sets the application name"
 #~ msgid "Switch Application Language"
 #~ msgstr "Bestëmmt den Numm vun der Uwendung"
 
 #, fuzzy
-#~| msgid "Default language:"
 #~ msgid "Add Fallback Language"
 #~ msgstr "Standardsprooch:"
 
 #, fuzzy
-#~| msgid "Application sounds"
 #~ msgid "Application Language Changed"
 #~ msgstr "Kläng vun den Uwendungen"
 
 #, fuzzy
-#~| msgid "Default language:"
 #~ msgid "Primary language:"
 #~ msgstr "Standardsprooch:"
 
 #, fuzzy
-#~| msgid "Default language:"
 #~ msgid "Fallback language:"
 #~ msgstr "Standardsprooch:"
 
@@ -4417,7 +4033,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Text sichen"
 
 #, fuzzy
-#~| msgid "Find"
 #~ msgctxt "@title:group"
 #~ msgid "Find"
 #~ msgstr "Sichen"
@@ -4504,13 +4119,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Gitt w.e.g. ën Ersatz-String an, oder wielt een aus der Lëscht."
 
 #, fuzzy
-#~| msgid ""
-#~| "<qt>If enabled, any occurrence of <code><b>\\N</b></code>, where "
-#~| "<code><b>N</b></code> is a integer number, will be replaced with the "
-#~| "corresponding capture (\"parenthesized substring\") from the pattern."
-#~| "<p>To include (a literal <code><b>\\N</b></code> in your replacement, "
-#~| "put an extra backslash in front of it, like <code><b>\\\\N</b></code>.</"
-#~| "qt>"
 #~ msgid ""
 #~ "<qt>If enabled, any occurrence of <code><b>\\N</b></code>, where "
 #~ "<code><b>N</b></code> is an integer number, will be replaced with the "
@@ -4606,7 +4214,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Ersetzen"
 
 #, fuzzy
-#~| msgid "&All"
 #~ msgctxt "@action:button Replace all occurrences"
 #~ msgid "&All"
 #~ msgstr "&Alleguer"
@@ -4633,13 +4240,11 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Wëllt dir um Ufank weidersichen?"
 
 #, fuzzy
-#~| msgid "Restart"
 #~ msgctxt "@action:button Restart find & replace"
 #~ msgid "Restart"
 #~ msgstr "Nei ufänken"
 
 #, fuzzy
-#~| msgid "Stop"
 #~ msgctxt "@action:button Stop find & replace"
 #~ msgid "Stop"
 #~ msgstr "Stop"
@@ -4667,13 +4272,11 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "Verbessert dat w.e.g."
 
 #, fuzzy
-#~| msgid "&Verify:"
 #~ msgctxt "@item Font name"
 #~ msgid "Serif"
 #~ msgstr "&Nokucken:"
 
 #, fuzzy
-#~| msgid "%1%"
 #~ msgctxt "@item Font name"
 #~ msgid "%1"
 #~ msgstr "%1%"
@@ -4684,7 +4287,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "%1 - [%2]"
 
 #, fuzzy
-#~| msgid "Here you can choose the font to be used."
 #~ msgctxt "@info:whatsthis"
 #~ msgid "Here you can choose the font to be used."
 #~ msgstr "Hei kënnt dir eng Schrëft eraussichen."
@@ -4693,44 +4295,37 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Gewënscht Schrëft"
 
 #, fuzzy
-#~| msgid "Font"
 #~ msgctxt "@option:check"
 #~ msgid "Font"
 #~ msgstr "Schrëft"
 
 #, fuzzy
-#~| msgid "Enable this checkbox to change the font family settings."
 #~ msgctxt "@info:whatsthis"
 #~ msgid "Enable this checkbox to change the font family settings."
 #~ msgstr ""
 #~ "Wielt dësst Haische fir d'Astellunge vun der Schrëftfamill z'änneren."
 
 #, fuzzy
-#~| msgid "Change font family?"
 #~ msgctxt "@info:tooltip"
 #~ msgid "Change font family?"
 #~ msgstr "Schrëftfamill änneren?"
 
 #, fuzzy
-#~| msgid "Font:"
 #~ msgctxt "@label"
 #~ msgid "Font:"
 #~ msgstr "Schrëft:"
 
 #, fuzzy
-#~| msgid "Font style"
 #~ msgctxt "@option:check"
 #~ msgid "Font style"
 #~ msgstr "Schrëftstil"
 
 #, fuzzy
-#~| msgid "Enable this checkbox to change the font style settings."
 #~ msgctxt "@info:whatsthis"
 #~ msgid "Enable this checkbox to change the font style settings."
 #~ msgstr "Wielt dësst Haische fir d'Astellunge vum Schrëftstil z'änneren."
 
 #, fuzzy
-#~| msgid "Change font style?"
 #~ msgctxt "@info:tooltip"
 #~ msgid "Change font style?"
 #~ msgstr "Stil änneren?"
@@ -4739,75 +4334,62 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Schrëftstil:"
 
 #, fuzzy
-#~| msgid "Size"
 #~ msgctxt "@option:check"
 #~ msgid "Size"
 #~ msgstr "Gréisst"
 
 #, fuzzy
-#~| msgid "Enable this checkbox to change the font size settings."
 #~ msgctxt "@info:whatsthis"
 #~ msgid "Enable this checkbox to change the font size settings."
 #~ msgstr ""
 #~ "Wielt dësst Haische fir d'Astellunge vun der Schrëftgréisst z'änneren."
 
 #, fuzzy
-#~| msgid "Change font size?"
 #~ msgctxt "@info:tooltip"
 #~ msgid "Change font size?"
 #~ msgstr "Schrëftgréisst änneren?"
 
 #, fuzzy
-#~| msgid "Size:"
 #~ msgctxt "@label:listbox Font size"
 #~ msgid "Size:"
 #~ msgstr "Gréisst:"
 
 #, fuzzy
-#~| msgid "Here you can choose the font family to be used."
 #~ msgctxt "@info:whatsthis"
 #~ msgid "Here you can choose the font family to be used."
 #~ msgstr "Hei kënnt dir d'Schrëftfamill wielen, déi benotzt soll ginn."
 
 #, fuzzy
-#~| msgid "Here you can choose the font style to be used."
 #~ msgctxt "@info:whatsthis"
 #~ msgid "Here you can choose the font style to be used."
 #~ msgstr "Hei kënnt dir de Schrëftstil wielen, dee benotzt soll ginn."
 
 #, fuzzy
-#~| msgid "Italic"
 #~ msgctxt "@item font"
 #~ msgid "Italic"
 #~ msgstr "Kursiv"
 
 #, fuzzy
-#~| msgctxt "font style"
-#~| msgid "Oblique"
 #~ msgctxt "@item font"
 #~ msgid "Oblique"
 #~ msgstr "Schif"
 
 #, fuzzy
-#~| msgid "Bold"
 #~ msgctxt "@item font"
 #~ msgid "Bold"
 #~ msgstr "Fett"
 
 #, fuzzy
-#~| msgid "Bold Italic"
 #~ msgctxt "@item font"
 #~ msgid "Bold Italic"
 #~ msgstr "Fett kursiv"
 
 #, fuzzy
-#~| msgid "Relative"
 #~ msgctxt "@item font size"
 #~ msgid "Relative"
 #~ msgstr "Relativ"
 
 #, fuzzy
-#~| msgid "Font size<br><i>fixed</i> or <i>relative</i><br>to environment"
 #~ msgid "Font size<br /><i>fixed</i> or <i>relative</i><br />to environment"
 #~ msgstr "Schrëftgréisst <br><i>fest</i> oder <i>relativ</i><br>zum Rescht"
 
@@ -4838,20 +4420,17 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Aktuell Schrëft"
 
 #, fuzzy
-#~| msgid "%1%"
 #~ msgctxt "@item Font style"
 #~ msgid "%1"
 #~ msgstr "%1%"
 
 #, fuzzy
-#~| msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
 #~ msgctxt "short"
 #~ msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
 #~ msgstr ""
 #~ "Ëch hätt gär dräi Wirschtercher mat Fritten a Ketchup, ouni Zalot a Geméis"
 
 #, fuzzy
-#~| msgid "%1%"
 #~ msgctxt "Numeric IDs of scripts for font previews"
 #~ msgid "1"
 #~ msgstr "%1%"
@@ -4886,8 +4465,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "\"Auswielen...\" kënnt dir Ännerunge virhuelen."
 
 #, fuzzy
-#~| msgctxt "QAccel"
-#~| msgid "Search"
 #~ msgid "Search"
 #~ msgstr "Sichen"
 
@@ -4899,7 +4476,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "(%1/s)"
 
 #, fuzzy
-#~| msgid "%1%"
 #~ msgctxt "%1 is the label, we add a ':' to it"
 #~ msgid "%1:"
 #~ msgstr "%1%"
@@ -4963,12 +4539,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr[1] "Nei Datei."
 
 #, fuzzy
-#~| msgid "The style %1 was not found\n"
 #~ msgid "The style '%1' was not found"
 #~ msgstr "De Stil %1 ass net fonnt ginn\n"
 
 #, fuzzy
-#~| msgid "Quit application"
 #~ msgid "Unknown Application"
 #~ msgstr "Programm zoumaachen"
 
@@ -4988,19 +4562,16 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Kleng maachen"
 
 #, fuzzy
-#~| msgid "Dr. Klash' Accelerator Diagnosis"
 #~ msgctxt "@title:window"
 #~ msgid "Dr. Klash' Accelerator Diagnosis"
 #~ msgstr "Dem Dr. Klash seng Diagnos iwwer Kierzelen"
 
 #, fuzzy
-#~| msgid "&Disable automatic checking"
 #~ msgctxt "@option:check"
 #~ msgid "Disable automatic checking"
 #~ msgstr "Automatësch Kontroll &ofschalten"
 
 #, fuzzy
-#~| msgid "Close"
 #~ msgctxt "@action:button"
 #~ msgid "Close"
 #~ msgstr "Zoumaachen"
@@ -5018,10 +4589,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Konflikt mat allgemengem Kierzel"
 
 #, fuzzy
-#~| msgid ""
-#~| "The '%1' key combination has already been allocated to the global action "
-#~| "\"%2\".\n"
-#~| "Do you want to reassign it from that action to the current one?"
 #~ msgid ""
 #~ "The '%1' key combination has already been allocated to the global action "
 #~ "\"%2\" in %3.\n"
@@ -5032,156 +4599,129 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
 #, fuzzy
-#~| msgid "Content information: %1\n"
 #~ msgid "In context '%1' for action '%2'\n"
 #~ msgstr "Beschreiwung vum Inhalt: %1\n"
 
 #, fuzzy
-#~| msgid "Conflict with Global Shortcut"
 #~ msgid "Conflict With Registered Global Shortcut"
 #~ msgstr "Konflikt mat allgemengem Kierzel"
 
 #, fuzzy
-#~| msgid "Open"
 #~ msgctxt "@action"
 #~ msgid "Open"
 #~ msgstr "Opmaachen"
 
 #, fuzzy
-#~| msgid "New"
 #~ msgctxt "@action"
 #~ msgid "New"
 #~ msgstr "Nei"
 
 #, fuzzy
-#~| msgid "Close"
 #~ msgctxt "@action"
 #~ msgid "Close"
 #~ msgstr "Zoumaachen"
 
 #, fuzzy
-#~| msgid "Save"
 #~ msgctxt "@action"
 #~ msgid "Save"
 #~ msgstr "Späicheren"
 
 #, fuzzy
-#~| msgid "Print"
 #~ msgctxt "@action"
 #~ msgid "Print"
 #~ msgstr "Drécken"
 
 #, fuzzy
-#~| msgid "Quit"
 #~ msgctxt "@action"
 #~ msgid "Quit"
 #~ msgstr "Ophalen"
 
 #, fuzzy
-#~| msgid "Undo"
 #~ msgctxt "@action"
 #~ msgid "Undo"
 #~ msgstr "Réckgängeg"
 
 #, fuzzy
-#~| msgid "Redo"
 #~ msgctxt "@action"
 #~ msgid "Redo"
 #~ msgstr "Nees zeréck"
 
 #, fuzzy
-#~| msgid "Cut"
 #~ msgctxt "@action"
 #~ msgid "Cut"
 #~ msgstr "Ausschneiden"
 
 #, fuzzy
-#~| msgid "Copy"
 #~ msgctxt "@action"
 #~ msgid "Copy"
 #~ msgstr "Kopéieren"
 
 #, fuzzy
-#~| msgid "Paste"
 #~ msgctxt "@action"
 #~ msgid "Paste"
 #~ msgstr "Peschen"
 
 #, fuzzy
-#~| msgid "Paste Selection"
 #~ msgctxt "@action"
 #~ msgid "Paste Selection"
 #~ msgstr "Selectioun peschen"
 
 #, fuzzy
-#~| msgid "Select All"
 #~ msgctxt "@action"
 #~ msgid "Select All"
 #~ msgstr "Alles auswielen"
 
 #, fuzzy
-#~| msgid "Deselect"
 #~ msgctxt "@action"
 #~ msgid "Deselect"
 #~ msgstr "Selectioun ofwielen"
 
 #, fuzzy
-#~| msgid "Delete Word Backwards"
 #~ msgctxt "@action"
 #~ msgid "Delete Word Backwards"
 #~ msgstr "Hannerzeg läschen"
 
 #, fuzzy
-#~| msgid "Delete Word Forward"
 #~ msgctxt "@action"
 #~ msgid "Delete Word Forward"
 #~ msgstr "Vijenzëg läschen"
 
 #, fuzzy
-#~| msgid "Find"
 #~ msgctxt "@action"
 #~ msgid "Find"
 #~ msgstr "Sichen"
 
 #, fuzzy
-#~| msgid "Find Next"
 #~ msgctxt "@action"
 #~ msgid "Find Next"
 #~ msgstr "Weidersichen"
 
 #, fuzzy
-#~| msgid "Find Prev"
 #~ msgctxt "@action"
 #~ msgid "Find Prev"
 #~ msgstr "Virdru sichen"
 
 #, fuzzy
-#~| msgid "Replace"
 #~ msgctxt "@action"
 #~ msgid "Replace"
 #~ msgstr "Ersetzen"
 
 #, fuzzy
-#~| msgctxt "Opposite to End"
-#~| msgid "Home"
 #~ msgctxt "@action Go to main page"
 #~ msgid "Home"
 #~ msgstr "Ufank"
 
 #, fuzzy
-#~| msgid "Region"
 #~ msgctxt "@action Beginning of document"
 #~ msgid "Begin"
 #~ msgstr "Regioun"
 
 #, fuzzy
-#~| msgid "End"
 #~ msgctxt "@action End of document"
 #~ msgid "End"
 #~ msgstr "Enn"
 
 #, fuzzy
-#~| msgid "Prior"
 #~ msgctxt "@action"
 #~ msgid "Prior"
 #~ msgstr "Virdrunn"
@@ -5192,223 +4732,186 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Nächsten"
 
 #, fuzzy
-#~| msgid "Up"
 #~ msgctxt "@action"
 #~ msgid "Up"
 #~ msgstr "Erop"
 
 #, fuzzy
-#~| msgid "Back"
 #~ msgctxt "@action"
 #~ msgid "Back"
 #~ msgstr "Zeréck"
 
 #, fuzzy
-#~| msgid "Forward"
 #~ msgctxt "@action"
 #~ msgid "Forward"
 #~ msgstr "No Vir"
 
 #, fuzzy
-#~| msgid "Reload"
 #~ msgctxt "@action"
 #~ msgid "Reload"
 #~ msgstr "Nach eng Kéier lueden"
 
 #, fuzzy
-#~| msgid "Beginning of Line"
 #~ msgctxt "@action"
 #~ msgid "Beginning of Line"
 #~ msgstr "Ufank vun der Linn"
 
 #, fuzzy
-#~| msgid "End of Line"
 #~ msgctxt "@action"
 #~ msgid "End of Line"
 #~ msgstr "Enn vun der Linn"
 
 #, fuzzy
-#~| msgid "Go to Line"
 #~ msgctxt "@action"
 #~ msgid "Go to Line"
 #~ msgstr "Sprang op d'Zeil"
 
 #, fuzzy
-#~| msgid "Backward Word"
 #~ msgctxt "@action"
 #~ msgid "Backward Word"
 #~ msgstr "Ee Wuert zeréck"
 
 #, fuzzy
-#~| msgid "Forward Word"
 #~ msgctxt "@action"
 #~ msgid "Forward Word"
 #~ msgstr "Ee Wuert no vir"
 
 #, fuzzy
-#~| msgid "Add Bookmark"
 #~ msgctxt "@action"
 #~ msgid "Add Bookmark"
 #~ msgstr "Lieszeechen dobäimaachen"
 
 #, fuzzy
-#~| msgid "Zoom In"
 #~ msgctxt "@action"
 #~ msgid "Zoom In"
 #~ msgstr "Erazoomen"
 
 #, fuzzy
-#~| msgid "Zoom Out"
 #~ msgctxt "@action"
 #~ msgid "Zoom Out"
 #~ msgstr "Erauszoomen"
 
 #, fuzzy
-#~| msgid "Full Screen Mode"
 #~ msgctxt "@action"
 #~ msgid "Full Screen Mode"
 #~ msgstr "Vollbildmodus"
 
 #, fuzzy
-#~| msgid "Show Menu Bar"
 #~ msgctxt "@action"
 #~ msgid "Show Menu Bar"
 #~ msgstr "D'Menübar weisen"
 
 #, fuzzy
-#~| msgid "Activate Next Tab"
 #~ msgctxt "@action"
 #~ msgid "Activate Next Tab"
 #~ msgstr "Nächsten Tab aktivéieren"
 
 #, fuzzy
-#~| msgid "Activate Previous Tab"
 #~ msgctxt "@action"
 #~ msgid "Activate Previous Tab"
 #~ msgstr "Tab virdrunn aktivéieren"
 
 #, fuzzy
-#~| msgid "Help"
 #~ msgctxt "@action"
 #~ msgid "Help"
 #~ msgstr "Hëllef"
 
 #, fuzzy
-#~| msgid "What's This"
 #~ msgctxt "@action"
 #~ msgid "What's This"
 #~ msgstr "Wat ass dat"
 
 #, fuzzy
-#~| msgid "Text Completion"
 #~ msgctxt "@action"
 #~ msgid "Text Completion"
 #~ msgstr "Ergänzung vum Text"
 
 #, fuzzy
-#~| msgid "Previous Completion Match"
 #~ msgctxt "@action"
 #~ msgid "Previous Completion Match"
 #~ msgstr "Ergänzung virdrunn"
 
 #, fuzzy
-#~| msgid "Next Completion Match"
 #~ msgctxt "@action"
 #~ msgid "Next Completion Match"
 #~ msgstr "Nächst Ergänzung"
 
 #, fuzzy
-#~| msgid "Substring Completion"
 #~ msgctxt "@action"
 #~ msgid "Substring Completion"
 #~ msgstr "Ergänzung vum Substring"
 
 #, fuzzy
-#~| msgid "Previous Item in List"
 #~ msgctxt "@action"
 #~ msgid "Previous Item in List"
 #~ msgstr "Element an der Lëscht virdrunn"
 
 #, fuzzy
-#~| msgid "Next Item in List"
 #~ msgctxt "@action"
 #~ msgid "Next Item in List"
 #~ msgstr "Nächst Element an der Lëscht"
 
 #, fuzzy
-#~| msgid "Open &Recent"
 #~ msgctxt "@action"
 #~ msgid "Open Recent"
 #~ msgstr "&Viru kuerzem opgemaachen Dateien"
 
 #, fuzzy
-#~| msgid "Save As"
 #~ msgctxt "@action"
 #~ msgid "Save As"
 #~ msgstr "Späicheren als"
 
 #, fuzzy
-#~| msgid "Re&vert"
 #~ msgctxt "@action"
 #~ msgid "Revert"
 #~ msgstr "&Zerécksetzen"
 
 #, fuzzy
-#~| msgid "Print Previe&w..."
 #~ msgctxt "@action"
 #~ msgid "Print Preview"
 #~ msgstr "Drocker&virschau..."
 
 #, fuzzy
-#~| msgid "Mailbox"
 #~ msgctxt "@action"
 #~ msgid "Mail"
 #~ msgstr "Mailbox"
 
 #, fuzzy
-#~| msgid "Clear"
 #~ msgctxt "@action"
 #~ msgid "Clear"
 #~ msgstr "Eidelmaachen"
 
 #, fuzzy
-#~| msgid "&Actual Size"
 #~ msgctxt "@action"
 #~ msgid "Actual Size"
 #~ msgstr "&Richteg Gréisst"
 
 #, fuzzy
-#~| msgid "&Fit to Page"
 #~ msgctxt "@action"
 #~ msgid "Fit To Page"
 #~ msgstr "&Un d'Säit upassen"
 
 #, fuzzy
-#~| msgid "Width"
 #~ msgctxt "@action"
 #~ msgid "Fit To Width"
 #~ msgstr "Breet"
 
 #, fuzzy
-#~| msgid "Height"
 #~ msgctxt "@action"
 #~ msgid "Fit To Height"
 #~ msgstr "Héicht"
 
 #, fuzzy
-#~| msgid "Zoom"
 #~ msgctxt "@action"
 #~ msgid "Zoom"
 #~ msgstr "Zoom"
 
 #, fuzzy
-#~| msgid "Photo"
 #~ msgctxt "@action"
 #~ msgid "Goto"
 #~ msgstr "Foto"
 
 #, fuzzy
-#~| msgid "&Go to Page..."
 #~ msgctxt "@action"
 #~ msgid "Goto Page"
 #~ msgstr "Op d'Säit &goen..."
@@ -5419,49 +4922,41 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Lautstäerkt erop"
 
 #, fuzzy
-#~| msgid "Forward"
 #~ msgctxt "@action"
 #~ msgid "Document Forward"
 #~ msgstr "No Vir"
 
 #, fuzzy
-#~| msgid "&Edit Bookmarks"
 #~ msgctxt "@action"
 #~ msgid "Edit Bookmarks"
 #~ msgstr "Lieszeeche &veränneren"
 
 #, fuzzy
-#~| msgid "&Spelling..."
 #~ msgctxt "@action"
 #~ msgid "Spelling"
 #~ msgstr "&Rechtschreiwung..."
 
 #, fuzzy
-#~| msgid "Show &Toolbar"
 #~ msgctxt "@action"
 #~ msgid "Show Toolbar"
 #~ msgstr "&Toolbar weisen"
 
 #, fuzzy
-#~| msgid "Show St&atusbar"
 #~ msgctxt "@action"
 #~ msgid "Show Statusbar"
 #~ msgstr "St&atusbar weisen"
 
 #, fuzzy
-#~| msgid "Options"
 #~ msgctxt "@action"
 #~ msgid "Save Options"
 #~ msgstr "Optiounen"
 
 #, fuzzy
-#~| msgid "Configure &Key Bindings..."
 #~ msgctxt "@action"
 #~ msgid "Key Bindings"
 #~ msgstr "&Tastenzouweisunge configuréieren..."
 
 #, fuzzy
-#~| msgid "Reference error"
 #~ msgctxt "@action"
 #~ msgid "Preferences"
 #~ msgstr "Referenzfeler"
@@ -5472,31 +4967,26 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Toolbare configuréieren"
 
 #, fuzzy
-#~| msgid "Configure &Notifications..."
 #~ msgctxt "@action"
 #~ msgid "Configure Notifications"
 #~ msgstr "&Norichte configuréieren..."
 
 #, fuzzy
-#~| msgid "Tip of the Day"
 #~ msgctxt "@action"
 #~ msgid "Tip Of Day"
 #~ msgstr "Rotschlag vum Dag"
 
 #, fuzzy
-#~| msgid "&Report Bug..."
 #~ msgctxt "@action"
 #~ msgid "Report Bug"
 #~ msgstr "E Käfer &mellen..."
 
 #, fuzzy
-#~| msgid "sets the application name"
 #~ msgctxt "@action"
 #~ msgid "Switch Application Language"
 #~ msgstr "Bestëmmt den Numm vun der Uwendung"
 
 #, fuzzy
-#~| msgid "Quit application"
 #~ msgctxt "@action"
 #~ msgid "About Application"
 #~ msgstr "Programm zoumaachen"
@@ -5507,13 +4997,11 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Iwwer &KDE"
 
 #, fuzzy
-#~| msgid "Check Spelling"
 #~ msgctxt "@title:window"
 #~ msgid "Check Spelling"
 #~ msgstr "Rechtschreifkontroll"
 
 #, fuzzy
-#~| msgid "&Finished"
 #~ msgctxt "@action:button"
 #~ msgid "&Finished"
 #~ msgstr "&Fäerdeg"
@@ -5608,8 +5096,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Ännerunge verwerfen"
 
 #, fuzzy
-#~| msgid ""
-#~| "Pressing this button will discard all recent changes made in this dialog"
 #~ msgid ""
 #~ "Pressing this button will discard all recent changes made in this dialog."
 #~ msgstr "Dréckt dëse Knäppche fir d'Ännerungen ze verwerfen"
@@ -5634,10 +5120,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Ännerungen uwenden"
 
 #, fuzzy
-#~| msgid ""
-#~| "When clicking <b>Apply</b>, the settings will be handed over to the "
-#~| "program, but the dialog will not be closed.\n"
-#~| "Use this to try different settings."
 #~ msgid ""
 #~ "When you click <b>Apply</b>, the settings will be handed over to the "
 #~ "program, but the dialog will not be closed.\n"
@@ -5654,10 +5136,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "An de Systemverwaltungsmodus goen"
 
 #, fuzzy
-#~| msgid ""
-#~| "When clicking <b>Administrator Mode</b> you will be prompted for the "
-#~| "administrator (root) password in order to make changes which require "
-#~| "root privileges."
 #~ msgid ""
 #~ "When you click <b>Administrator Mode</b> you will be prompted for the "
 #~ "administrator (root) password in order to make changes which require root "
@@ -5680,22 +5158,18 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "D'Fënster oder d'Dokument zoumaachen"
 
 #, fuzzy
-#~| msgid "Close window?"
 #~ msgid "&Close Window"
 #~ msgstr "Fënster zoumaachen?"
 
 #, fuzzy
-#~| msgid "Close the current window or document"
 #~ msgid "Close the current window."
 #~ msgstr "D'Fënster oder d'Dokument zoumaachen"
 
 #, fuzzy
-#~| msgid "Close Document"
 #~ msgid "&Close Document"
 #~ msgstr "Dokument zoumaachen"
 
 #, fuzzy
-#~| msgid "Close the current window or document"
 #~ msgid "Close the current document."
 #~ msgstr "D'Fënster oder d'Dokument zoumaachen"
 
@@ -5755,7 +5229,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Iwwerschreiwen"
 
 #, fuzzy
-#~| msgid "Redo"
 #~ msgid "Redo"
 #~ msgstr "Nees zeréck"
 
@@ -5771,13 +5244,11 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Handschrëft"
 
 #, fuzzy
-#~| msgid "KDE Scripts"
 #~ msgctxt "KCharSelect section name"
 #~ msgid "Middle Eastern Scripts"
 #~ msgstr "KDE-Scripter"
 
 #, fuzzy
-#~| msgid "KDE Scripts"
 #~ msgctxt "KCharSelect section name"
 #~ msgid "South Asian Scripts"
 #~ msgstr "KDE-Scripter"
@@ -5788,13 +5259,11 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Handschrëft"
 
 #, fuzzy
-#~| msgid "KDE Scripts"
 #~ msgctxt "KCharSelect section name"
 #~ msgid "South East Asian Scripts"
 #~ msgstr "KDE-Scripter"
 
 #, fuzzy
-#~| msgid "KDE Scripts"
 #~ msgctxt "KCharSelect section name"
 #~ msgid "East Asian Scripts"
 #~ msgstr "KDE-Scripter"
@@ -5810,281 +5279,211 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Handschrëft"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Currency Symbols"
 #~ msgctxt "KCharSelect section name"
 #~ msgid "Symbols"
 #~ msgstr "Währungssymboler"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Mathematical Operators"
 #~ msgctxt "KCharSelect section name"
 #~ msgid "Mathematical Symbols"
 #~ msgstr "Mathematësch Operateren"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Geometric Symbols"
 #~ msgctxt "KCharSelect section name"
 #~ msgid "Phonetic Symbols"
 #~ msgstr "Geometrësch Symboler"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "CombiningMarks"
 #~ msgctxt "KCharSelect section name"
 #~ msgid "Combining Diacritical Marks"
 #~ msgstr "CombiningMarks"
 
 #, fuzzy
-#~| msgid "Other"
 #~ msgctxt "KCharSelect section name"
 #~ msgid "Other"
 #~ msgstr "Aner"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Latin"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Basic Latin"
 #~ msgstr "Latäin"
 
 #, fuzzy
-#~| msgid "Loading Applet"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Latin-1 Supplement"
 #~ msgstr "Amgaang, de Miniprogramm ze lueden"
 
 #, fuzzy
-#~| msgid "Extended Address Information"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Latin Extended-A"
 #~ msgstr "Allgemeng Informatioun zur Adress"
 
 #, fuzzy
-#~| msgid "Extended Address Information"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Latin Extended-B"
 #~ msgstr "Allgemeng Informatioun zur Adress"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "SpacingModifiers"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Spacing Modifier Letters"
 #~ msgstr "SpacingModifiers"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "CombiningMarks"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Combining Diacritical Marks"
 #~ msgstr "CombiningMarks"
 
 #, fuzzy
-#~| msgid "Cyrillic"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Cyrillic"
 #~ msgstr "Kyrillësch"
 
 #, fuzzy
-#~| msgid "Loading Applet"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Cyrillic Supplement"
 #~ msgstr "Amgaang, de Miniprogramm ze lueden"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Armenian"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Armenian"
 #~ msgstr "Armenësch"
 
 #, fuzzy
-#~| msgid "Hebrew"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Hebrew"
 #~ msgstr "Hebräësch"
 
 #, fuzzy
-#~| msgid "Arabic"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Arabic"
 #~ msgstr "Arabësch"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Syriac"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Syriac"
 #~ msgstr "Syrësch"
 
 #, fuzzy
-#~| msgid "Loading Applet"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Arabic Supplement"
 #~ msgstr "Amgaang, de Miniprogramm ze lueden"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Thaana"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Thaana"
 #~ msgstr "Thaana (Maledivësch)"
 
 #, fuzzy
-#~| msgid "No"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "NKo"
 #~ msgstr "Nee"
 
 #, fuzzy
-#~| msgid "Ramadan"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Samaritan"
 #~ msgstr "Ramadan"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Devanagari"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Devanagari"
 #~ msgstr "Devanagari"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Bengali"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Bengali"
 #~ msgstr "Bengalësch"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Gurmukhi"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Gurmukhi"
 #~ msgstr "Grumukhi"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Gujarati"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Gujarati"
 #~ msgstr "Gujarati"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Oriya"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Oriya"
 #~ msgstr "Oriya"
 
 #, fuzzy
-#~| msgid "Tamil"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Tamil"
 #~ msgstr "Tamil"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Telugu"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Telugu"
 #~ msgstr "Telugu"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Kannada"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Kannada"
 #~ msgstr "Kannada"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Malayalam"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Malayalam"
 #~ msgstr "Malayësch"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Sinhala"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Sinhala"
 #~ msgstr "Singhalesësch"
 
 #, fuzzy
-#~| msgid "Thai"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Thai"
 #~ msgstr "Thailännësch"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Lao"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Lao"
 #~ msgstr "Laotësch"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Tibetan"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Tibetan"
 #~ msgstr "Tibetanësch"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Myanmar"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Myanmar"
 #~ msgstr "Myanmar"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Georgian"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Georgian"
 #~ msgstr "Georgësch"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Hangul"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Hangul Jamo"
 #~ msgstr "Hangul"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Ethiopic"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Ethiopic"
 #~ msgstr "Äthiopësch"
 
 #, fuzzy
-#~| msgid "Loading Applet"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Ethiopic Supplement"
 #~ msgstr "Amgaang, de Miniprogramm ze lueden"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Cherokee"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Cherokee"
 #~ msgstr "Cherokee"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Canadian Aboriginal"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Unified Canadian Aboriginal Syllabics"
 #~ msgstr "Urawunner-Kanadësch"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Ogham"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Ogham"
 #~ msgstr "Ogham"
@@ -6095,662 +5494,513 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Runen"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Tagalog"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Tagalog"
 #~ msgstr "Tagalog"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Hanunoo"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Hanunoo"
 #~ msgstr "Hanunoo"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Buhid"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Buhid"
 #~ msgstr "Buhid"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Tagbanwa"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Tagbanwa"
 #~ msgstr "Tagbanwa"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Khmer"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Khmer"
 #~ msgstr "Kambodschanësch"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Mongolian"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Mongolian"
 #~ msgstr "Mongolësch"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Canadian Aboriginal"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Unified Canadian Aboriginal Syllabics Extended"
 #~ msgstr "Urawunner-Kanadësch"
 
 #, fuzzy
-#~| msgid "Thai"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Tai Le"
 #~ msgstr "Thailännësch"
 
 #, fuzzy
-#~| msgid "Thai"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "New Tai Lue"
 #~ msgstr "Thailännësch"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Geometric Symbols"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Khmer Symbols"
 #~ msgstr "Geometrësch Symboler"
 
 #, fuzzy
-#~| msgid "Business Phone"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Buginese"
 #~ msgstr "Tëlefon (Aarbëcht)"
 
 #, fuzzy
-#~| msgid "Business Phone"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Balinese"
 #~ msgstr "Tëlefon (Aarbëcht)"
 
 #, fuzzy
-#~| msgid "Sunday"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Sundanese"
 #~ msgstr "Sonnden"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Katakana"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Batak"
 #~ msgstr "Katakana"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Geometric Symbols"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Vedic Extensions"
 #~ msgstr "Geometrësch Symboler"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Geometric Symbols"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Phonetic Extensions"
 #~ msgstr "Geometrësch Symboler"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "CombiningMarks"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Combining Diacritical Marks Supplement"
 #~ msgstr "CombiningMarks"
 
 #, fuzzy
-#~| msgid "Extended Address Information"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Latin Extended Additional"
 #~ msgstr "Allgemeng Informatioun zur Adress"
 
 #, fuzzy
-#~| msgid "General Settings"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "General Punctuation"
 #~ msgstr "Allgemeng Astellungen"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Currency Symbols"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Currency Symbols"
 #~ msgstr "Währungssymboler"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "CombiningMarks"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Combining Diacritical Marks for Symbols"
 #~ msgstr "CombiningMarks"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Letterlike Symbols"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Letterlike Symbols"
 #~ msgstr "Buchstawenähnlech Symboler"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Number Forms"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Number Forms"
 #~ msgstr "Zuelen"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Mathematical Operators"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Mathematical Operators"
 #~ msgstr "Mathematësch Operateren"
 
 #, fuzzy
-#~| msgid "Miscellaneous"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Miscellaneous Technical"
 #~ msgstr "Verschiddenes"
 
 #, fuzzy
-#~| msgctxt "QAccel"
-#~| msgid "Control"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Control Pictures"
 #~ msgstr "Ctrl"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Enclosed and Square"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Enclosed Alphanumerics"
 #~ msgstr "Ëmrësser a Rechtecker"
 
 #, fuzzy
-#~| msgid "Close Document"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Block Elements"
 #~ msgstr "Dokument zoumaachen"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Geometric Symbols"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Geometric Shapes"
 #~ msgstr "Geometrësch Symboler"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Miscellaneous Symbols"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Miscellaneous Symbols"
 #~ msgstr "Verschidde Symboler"
 
 #, fuzzy
-#~| msgid "Digit"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Dingbats"
 #~ msgstr "Zuel"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Miscellaneous Symbols"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Miscellaneous Mathematical Symbols-A"
 #~ msgstr "Verschidde Symboler"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Braille"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Braille Patterns"
 #~ msgstr "Braille"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Miscellaneous Symbols"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Miscellaneous Mathematical Symbols-B"
 #~ msgstr "Verschidde Symboler"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Mathematical Operators"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Supplemental Mathematical Operators"
 #~ msgstr "Mathematësch Operateren"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Miscellaneous Symbols"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Miscellaneous Symbols and Arrows"
 #~ msgstr "Verschidde Symboler"
 
 #, fuzzy
-#~| msgid "Baltic"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Glagolitic"
 #~ msgstr "Baltësch"
 
 #, fuzzy
-#~| msgid "Extended Address Information"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Latin Extended-C"
 #~ msgstr "Allgemeng Informatioun zur Adress"
 
 #, fuzzy
-#~| msgid "Copy"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Coptic"
 #~ msgstr "Kopéieren"
 
 #, fuzzy
-#~| msgid "Loading Applet"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Georgian Supplement"
 #~ msgstr "Amgaang, de Miniprogramm ze lueden"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Ethiopic"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Ethiopic Extended"
 #~ msgstr "Äthiopësch"
 
 #, fuzzy
-#~| msgid "Extended Address Information"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Cyrillic Extended-A"
 #~ msgstr "Allgemeng Informatioun zur Adress"
 
 #, fuzzy
-#~| msgid "General Settings"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Supplemental Punctuation"
 #~ msgstr "Allgemeng Astellungen"
 
 #, fuzzy
-#~| msgid "Loading Applet"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "CJK Radicals Supplement"
 #~ msgstr "Amgaang, de Miniprogramm ze lueden"
 
 #, fuzzy
-#~| msgid "Geographic Position"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Ideographic Description Characters"
 #~ msgstr "Geographësch Positioun"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Hiragana"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Hiragana"
 #~ msgstr "Hiragana"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Katakana"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Katakana"
 #~ msgstr "Katakana"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Bopomofo"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Bopomofo"
 #~ msgstr "Bopomofo"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Hangul"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Hangul Compatibility Jamo"
 #~ msgstr "Hangul"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Kannada"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Kanbun"
 #~ msgstr "Kannada"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Bopomofo"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Bopomofo Extended"
 #~ msgstr "Bopomofo"
 
 #, fuzzy
-#~| msgid "Frame Information"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "CJK Unified Ideographs Extension A"
 #~ msgstr "Informatioun iwwert de Frame"
 
 #, fuzzy
-#~| msgctxt "of March"
-#~| msgid "of Mar"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Vai"
 #~ msgstr "Mäe"
 
 #, fuzzy
-#~| msgid "Extended Address Information"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Cyrillic Extended-B"
 #~ msgstr "Allgemeng Informatioun zur Adress"
 
 #, fuzzy
-#~| msgid "Tamuz"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Bamum"
 #~ msgstr "Tamuz"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "SpacingModifiers"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Modifier Tone Letters"
 #~ msgstr "SpacingModifiers"
 
 #, fuzzy
-#~| msgid "Extended Address Information"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Latin Extended-D"
 #~ msgstr "Allgemeng Informatioun zur Adress"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Number Forms"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Common Indic Number Forms"
 #~ msgstr "Zuelen"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Devanagari"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Devanagari Extended"
 #~ msgstr "Devanagari"
 
 #, fuzzy
-#~| msgid "Rank"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Rejang"
 #~ msgstr "Rang"
 
 #, fuzzy
-#~| msgid "Extended Address Information"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Hangul Jamo Extended-A"
 #~ msgstr "Allgemeng Informatioun zur Adress"
 
 #, fuzzy
-#~| msgid "Japanese"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Javanese"
 #~ msgstr "Japanësch"
 
 #, fuzzy
-#~| msgid "Kha"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Cham"
 #~ msgstr "Kha"
 
 #, fuzzy
-#~| msgid "Extended Address Information"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Myanmar Extended-A"
 #~ msgstr "Allgemeng Informatioun zur Adress"
 
 #, fuzzy
-#~| msgid "Thai"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Tai Viet"
 #~ msgstr "Thailännësch"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Ethiopic"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Ethiopic Extended-A"
 #~ msgstr "Äthiopësch"
 
 #, fuzzy
-#~| msgid "Extended Address Information"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Hangul Jamo Extended-B"
 #~ msgstr "Allgemeng Informatioun zur Adress"
 
 #, fuzzy
-#~| msgid "Private"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "High Private Use Surrogates"
 #~ msgstr "Privat"
 
 #, fuzzy
-#~| msgid "Private"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Private Use Area"
 #~ msgstr "Privat"
 
 #, fuzzy
-#~| msgid "Vertical"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Vertical Forms"
 #~ msgstr "Vertikal"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "CombiningMarks"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Combining Half Marks"
 #~ msgstr "CombiningMarks"
 
 #, fuzzy
-#~| msgid "Icons"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Small Form Variants"
 #~ msgstr "Symboler"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Katakana Half-Width Forms"
 #~ msgctxt "KCharselect unicode block name"
 #~ msgid "Halfwidth and Fullwidth Forms"
 #~ msgstr "Katakana (Hallëf sou breet)"
 
 #, fuzzy
-#~| msgid "Previous Item in List"
 #~ msgctxt "Goes to previous character"
 #~ msgid "Previous in History"
 #~ msgstr "Element an der Lëscht virdrunn"
 
 #, fuzzy
-#~| msgid "Previous year"
 #~ msgid "Previous Character in History"
 #~ msgstr "Joër virdrunn"
 
 #, fuzzy
-#~| msgid "Next Item in List"
 #~ msgctxt "Goes to next character"
 #~ msgid "Next in History"
 #~ msgstr "Nächst Element an der Lëscht"
 
 #, fuzzy
-#~| msgid "Set of Characters"
 #~ msgid "Next Character in History"
 #~ msgstr "Zeechesaatz"
 
 #, fuzzy
-#~| msgid "Select a year"
 #~ msgid "Select a category"
 #~ msgstr "Joër auswielen"
 
 #, fuzzy
-#~| msgid "Message string to be displayed"
 #~ msgid "Select a block to be displayed"
 #~ msgstr "Noricht, déi ugewise soll ginn"
 
 #, fuzzy
-#~| msgid "Select Font"
 #~ msgid "Set font"
 #~ msgstr "Schrëft auswielen"
 
 #, fuzzy
-#~| msgid "Change font size?"
 #~ msgid "Set font size"
 #~ msgstr "Schrëftgréisst änneren?"
 
 #, fuzzy
-#~| msgid "Any Character"
 #~ msgid "Character:"
 #~ msgstr "Iergendeen Zeechen"
 
 #, fuzzy
-#~| msgid "Name:"
 #~ msgid "Name: "
 #~ msgstr "Numm:"
 
 #, fuzzy
-#~| msgid "Please enter name:"
 #~ msgid "Alias names:"
 #~ msgstr "Gitt w.e.g. den Numm an:"
 
 #, fuzzy
-#~| msgid "Note"
 #~ msgid "Notes:"
 #~ msgstr "Notiz"
 
 #, fuzzy
-#~| msgid "Frame Information"
 #~ msgid "CJK Ideograph Information"
 #~ msgstr "Informatioun iwwert de Frame"
 
 #, fuzzy
-#~| msgid "&Unicode code point:"
 #~ msgid "Unicode category: "
 #~ msgstr "&Unicode Codepunkt:"
 
 #, fuzzy
-#~| msgid "&Unicode code point:"
 #~ msgid "Unicode code point:"
 #~ msgstr "&Unicode Codepunkt:"
 
 #, fuzzy
-#~| msgid "Private"
 #~ msgid "<Private Use>"
 #~ msgstr "Privat"
 
 #, fuzzy
-#~| msgid "Horizontal"
 #~ msgid "Non-printable"
 #~ msgstr "Horizontal"
 
 #, fuzzy
-#~| msgid "Other Contributors:"
 #~ msgid "Other, Control"
 #~ msgstr "Aner Mataarbëchter:"
 
 #, fuzzy
-#~| msgid "vCard Format"
 #~ msgid "Other, Format"
 #~ msgstr "Format vun der vCard"
 
 #, fuzzy
-#~| msgid "Last modified:"
 #~ msgid "Letter, Modifier"
 #~ msgstr "Als Lescht geännert:"
 
 #, fuzzy
-#~| msgctxt "QAccel"
-#~| msgid "Number Lock"
 #~ msgid "Number, Letter"
 #~ msgstr "Nummer Lock"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Number Forms"
 #~ msgid "Number, Other"
 #~ msgstr "Zuelen"
 
 #, fuzzy
-#~| msgid "Start of Line"
 #~ msgid "Separator, Line"
 #~ msgstr "Ufank vun der Zeil"
 
 #, fuzzy
-#~| msgid "Start replace"
 #~ msgid "Separator, Space"
 #~ msgstr "Mam Ersetzen ufänken"
 
 #, fuzzy
-#~| msgid "Could not create the new configuration file."
 #~ msgid "You are not allowed to save the configuration"
 #~ msgstr "Konnt déi nei Configuratiounsdatei net erstellen."
 
 #, fuzzy
-#~| msgid "Next year"
 #~ msgctxt "@option next year"
 #~ msgid "Next Year"
 #~ msgstr "Nächst Joër"
 
 #, fuzzy
-#~| msgid "Next month"
 #~ msgctxt "@option next month"
 #~ msgid "Next Month"
 #~ msgstr "Nächste Mount"
 
 #, fuzzy
-#~| msgid "Next year"
 #~ msgctxt "@option next week"
 #~ msgid "Next Week"
 #~ msgstr "Nächst Joër"
 
 #, fuzzy
-#~| msgid "Monday"
 #~ msgctxt "@option today"
 #~ msgid "Today"
 #~ msgstr "Méinden"
 
 #, fuzzy
-#~| msgid "Tuesday"
 #~ msgctxt "@option yesterday"
 #~ msgid "Yesterday"
 #~ msgstr "Dënschten"
 
 #, fuzzy
-#~| msgid "Last Name"
 #~ msgctxt "@option last week"
 #~ msgid "Last Week"
 #~ msgstr "Familljennumm"
 
 #, fuzzy
-#~| msgid "Next month"
 #~ msgctxt "@option last month"
 #~ msgid "Last Month"
 #~ msgstr "Nächste Mount"
 
 #, fuzzy
-#~| msgid "Last Name"
 #~ msgctxt "@option last year"
 #~ msgid "Last Year"
 #~ msgstr "Familljennumm"
 
 #, fuzzy
-#~| msgid "Dates"
 #~ msgctxt "@option do not specify a date"
 #~ msgid "No Date"
 #~ msgstr "Datum"
@@ -6783,7 +6033,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Heitegen Dag auswielen"
 
 #, fuzzy
-#~| msgid "Rating"
 #~ msgctxt "No specific time zone"
 #~ msgid "Floating"
 #~ msgstr "Bewertung"
@@ -6801,12 +6050,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&History läschen"
 
 #, fuzzy
-#~| msgid "No further item in the history."
 #~ msgid "No further items in the history."
 #~ msgstr "Keen Element méi an der History."
 
 #, fuzzy
-#~| msgid "Conflict with Global Shortcut"
 #~ msgctxt "%1 is the number of shortcuts with which there is a conflict"
 #~ msgid "Conflict with Registered Global Shortcut"
 #~ msgid_plural "Conflict with Registered Global Shortcuts"
@@ -6814,7 +6061,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr[1] "Konflikt mat allgemengem Kierzel"
 
 #, fuzzy
-#~| msgid "Shortcut"
 #~ msgctxt "%1 is the number of conflicts"
 #~ msgid "Shortcut Conflict"
 #~ msgid_plural "Shortcut Conflicts"
@@ -6822,7 +6068,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr[1] "Tastekombinatioun"
 
 #, fuzzy
-#~| msgid "Content information: %1\n"
 #~ msgid "Shortcut '%1' for action '%2'\n"
 #~ msgstr "Beschreiwung vum Inhalt: %1\n"
 
@@ -6844,15 +6089,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
 #, fuzzy
-#~| msgid "Shortcut"
 #~ msgid "Shortcut conflict"
 #~ msgstr "Tastekombinatioun"
 
 #, fuzzy
-#~| msgid ""
-#~| "The '%1' key combination has already been allocated to the \"%2\" "
-#~| "action.\n"
-#~| "Please choose a unique key combination."
 #~ msgid ""
 #~ "<qt>The '%1' key combination is already used by the <b>%2</b> action."
 #~ "<br>Please select a different one.</qt>"
@@ -6861,7 +6101,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "w.e.g. eng eendaiteg Kombinatioun."
 
 #, fuzzy
-#~| msgid "Shortcut"
 #~ msgid "Reserved Shortcut"
 #~ msgstr "Tastekombinatioun"
 
@@ -6879,18 +6118,15 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
 #, fuzzy
-#~| msgid "Input file"
 #~ msgctxt "What the user inputs now will be taken as the new shortcut"
 #~ msgid "Input"
 #~ msgstr "Quelldatei"
 
 #, fuzzy
-#~| msgid "Untrusted"
 #~ msgid "Unsupported Key"
 #~ msgstr "Net als sëcher agestuft"
 
 #, fuzzy
-#~| msgid "%1%"
 #~ msgctxt "Italic placeholder text in line edits: 0 no, 1 yes"
 #~ msgid "1"
 #~ msgstr "%1%"
@@ -6901,49 +6137,41 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Kierzel läschen"
 
 #, fuzzy
-#~| msgid "Text Completion"
 #~ msgctxt "@title:menu"
 #~ msgid "Text Completion"
 #~ msgstr "Ergänzung vum Text"
 
 #, fuzzy
-#~| msgid "None"
 #~ msgctxt "@item:inmenu Text Completion"
 #~ msgid "None"
 #~ msgstr "Keng"
 
 #, fuzzy
-#~| msgid "Manual"
 #~ msgctxt "@item:inmenu Text Completion"
 #~ msgid "Manual"
 #~ msgstr "Manuell"
 
 #, fuzzy
-#~| msgid "Automatic"
 #~ msgctxt "@item:inmenu Text Completion"
 #~ msgid "Automatic"
 #~ msgstr "Automatësch"
 
 #, fuzzy
-#~| msgid "Dropdown List"
 #~ msgctxt "@item:inmenu Text Completion"
 #~ msgid "Dropdown List"
 #~ msgstr "Ausklapplëscht"
 
 #, fuzzy
-#~| msgid "Short Automatic"
 #~ msgctxt "@item:inmenu Text Completion"
 #~ msgid "Short Automatic"
 #~ msgstr "Automatësch kuerz"
 
 #, fuzzy
-#~| msgid "Dropdown List && Automatic"
 #~ msgctxt "@item:inmenu Text Completion"
 #~ msgid "Dropdown List && Automatic"
 #~ msgstr "Ausklapplëscht && Automatik"
 
 #, fuzzy
-#~| msgid "Default"
 #~ msgctxt "@item:inmenu Text Completion"
 #~ msgid "Default"
 #~ msgstr "Standard"
@@ -6958,44 +6186,36 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Géint d'Auer dréien"
 
 #, fuzzy
-#~| msgid "Text Completion"
 #~ msgctxt "@action"
 #~ msgid "Text &Color..."
 #~ msgstr "Ergänzung vum Text"
 
 #, fuzzy
-#~| msgctxt "palette name"
-#~| msgid "Web Colors"
 #~ msgctxt "@label stroke color"
 #~ msgid "Color"
 #~ msgstr "Web-Faarwen"
 
 #, fuzzy
-#~| msgid "&Font"
 #~ msgctxt "@action"
 #~ msgid "&Font"
 #~ msgstr "Schrë&ft"
 
 #, fuzzy
-#~| msgid "Font Size"
 #~ msgctxt "@action"
 #~ msgid "Font &Size"
 #~ msgstr "Schrëftgréisst"
 
 #, fuzzy
-#~| msgid "Bold"
 #~ msgctxt "@action boldify selected text"
 #~ msgid "&Bold"
 #~ msgstr "Fett"
 
 #, fuzzy
-#~| msgid "Italic"
 #~ msgctxt "@action italicize selected text"
 #~ msgid "&Italic"
 #~ msgstr "Kursiv"
 
 #, fuzzy
-#~| msgid "&Underline"
 #~ msgctxt "@action underline selected text"
 #~ msgid "&Underline"
 #~ msgstr "Ë&nnersträichen"
@@ -7006,44 +6226,36 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Schrack"
 
 #, fuzzy
-#~| msgid "Align"
 #~ msgctxt "@action"
 #~ msgid "Align &Left"
 #~ msgstr "Alignéieren"
 
 #, fuzzy
-#~| msgid "Left"
 #~ msgctxt "@label left justify"
 #~ msgid "Left"
 #~ msgstr "Lénks"
 
 #, fuzzy
-#~| msgctxt "QAccel"
-#~| msgid "Enter"
 #~ msgctxt "@label center justify"
 #~ msgid "Center"
 #~ msgstr "Enter"
 
 #, fuzzy
-#~| msgid "Right"
 #~ msgctxt "@label right justify"
 #~ msgid "Right"
 #~ msgstr "Riets"
 
 #, fuzzy
-#~| msgid "None"
 #~ msgctxt "@item:inmenu no list style"
 #~ msgid "None"
 #~ msgstr "Keng"
 
 #, fuzzy
-#~| msgid "Discard"
 #~ msgctxt "@item:inmenu disc list style"
 #~ msgid "Disc"
 #~ msgstr "Si loossen"
 
 #, fuzzy
-#~| msgid "File"
 #~ msgctxt "@item:inmenu circle list style"
 #~ msgid "Circle"
 #~ msgstr "Datei"
@@ -7054,31 +6266,26 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Ressource"
 
 #, fuzzy
-#~| msgid "Sab"
 #~ msgctxt "@item:inmenu lowercase abc lists"
 #~ msgid "abc"
 #~ msgstr "Sab"
 
 #, fuzzy
-#~| msgid "TAB"
 #~ msgctxt "@item:inmenu uppercase abc lists"
 #~ msgid "ABC"
 #~ msgstr "Tab"
 
 #, fuzzy
-#~| msgid "Line up"
 #~ msgctxt "@action"
 #~ msgid "Link"
 #~ msgstr "Ausriichten"
 
 #, fuzzy
-#~| msgid "Formatted Name"
 #~ msgctxt "@action"
 #~ msgid "Format Painter"
 #~ msgstr "Formatéierten Numm"
 
 #, fuzzy
-#~| msgid "Find Text"
 #~ msgctxt "@action"
 #~ msgid "To Plain Text"
 #~ msgstr "Text sichen"
@@ -7094,7 +6301,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Handschrëft"
 
 #, fuzzy
-#~| msgid "&Copy Text"
 #~ msgid "&Copy Full Text"
 #~ msgstr "Text &kopéieren"
 
@@ -7103,18 +6309,15 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Kee Provider gewielt."
 
 #, fuzzy
-#~| msgid "Please enter &name:"
 #~ msgid "Speak Text"
 #~ msgstr "Gitt w.e.g. den &Numm an:"
 
 #, fuzzy
-#~| msgid "Area"
 #~ msgctxt "Define an area in the time zone, like a town area"
 #~ msgid "Area"
 #~ msgstr "Beräich"
 
 #, fuzzy
-#~| msgid "Region"
 #~ msgctxt "Time zone"
 #~ msgid "Region"
 #~ msgstr "Regioun"
@@ -7123,19 +6326,16 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Kommentar"
 
 #, fuzzy
-#~| msgid "Show help"
 #~ msgctxt "@title:menu"
 #~ msgid "Show Text"
 #~ msgstr "Hëllef weisen"
 
 #, fuzzy
-#~| msgid "Toolbar Menu"
 #~ msgctxt "@title:menu"
 #~ msgid "Toolbar Settings"
 #~ msgstr "Toolbar-Menü"
 
 #, fuzzy
-#~| msgid "Orientation"
 #~ msgctxt "Toolbar orientation"
 #~ msgid "Orientation"
 #~ msgstr "Ausriichtung"
@@ -7175,7 +6375,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Gréisst vum Symbol"
 
 #, fuzzy
-#~| msgid "Default"
 #~ msgctxt "@item:inmenu Icon size"
 #~ msgid "Default"
 #~ msgstr "Standard"
@@ -7197,13 +6396,11 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Toolbaren"
 
 #, fuzzy
-#~| msgid "%1%"
 #~ msgctxt "@action:intoolbar Text label of toolbar button"
 #~ msgid "%1"
 #~ msgstr "%1%"
 
 #, fuzzy
-#~| msgid "%1%"
 #~ msgctxt "@info:tooltip Tooltip of toolbar button"
 #~ msgid "%1"
 #~ msgstr "%1%"
@@ -7216,12 +6413,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Bei d'Benotzerdefinéiert Faarwen &dobäimaachen"
 
 #, fuzzy
-#~| msgid "Configure S&hortcuts..."
 #~ msgid "Configure Shortcut..."
 #~ msgstr "&Kierzel configuréieren..."
 
 #, fuzzy
-#~| msgid "Toolbars"
 #~ msgid "Toolbars Shown"
 #~ msgstr "Toolbaren"
 
@@ -7239,7 +6434,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "V&eränneren"
 
 #, fuzzy
-#~| msgid "&Move"
 #~ msgctxt "@title:menu Game move"
 #~ msgid "&Move"
 #~ msgstr "&Réckelen"
@@ -7282,7 +6476,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "KDE-Widgets erstellen"
 
 #, fuzzy
-#~| msgid "Call stack"
 #~ msgid "Call Stack"
 #~ msgstr "Stack opruffen"
 
@@ -7291,18 +6484,14 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Installéieren"
 
 #, fuzzy
-#~| msgid "Line up"
 #~ msgid "Line"
 #~ msgstr "Ausriichten"
 
 #, fuzzy
-#~| msgid "Close"
 #~ msgid "Console"
 #~ msgstr "Zoumaachen"
 
 #, fuzzy
-#~| msgctxt "QAccel"
-#~| msgid "Enter"
 #~ msgid "Enter"
 #~ msgstr "Enter"
 
@@ -7313,7 +6502,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Stop bei der nächster Feststellung"
 
 #, fuzzy
-#~| msgid "&Break at Next Statement"
 #~ msgid "Break at Next"
 #~ msgstr "&Stop bei der nächster Feststellung"
 
@@ -7333,17 +6521,14 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Schrack"
 
 #, fuzzy
-#~| msgid "Resources"
 #~ msgid "Reindent Sources"
 #~ msgstr "Quellen"
 
 #, fuzzy
-#~| msgid "Action"
 #~ msgid "Report Exceptions"
 #~ msgstr "Aktioun"
 
 #, fuzzy
-#~| msgid "Close Document"
 #~ msgid "Close source"
 #~ msgstr "Dokument zoumaachen"
 
@@ -7373,7 +6558,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Dëss Noricht net méi weisen"
 
 #, fuzzy
-#~| msgid "Reference error"
 #~ msgid "Reference"
 #~ msgstr "Referenzfeler"
 
@@ -7382,10 +6566,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Handschrëft"
 
 #, fuzzy
-#~| msgid ""
-#~| "A script on this page is causing KHTML to freeze. If it continues to "
-#~| "run, other applications may become less responsive.\n"
-#~| "Do you want to abort the script?"
 #~ msgid ""
 #~ "A script on this page is causing KHTML to freeze. If it continues to run, "
 #~ "other applications may become less responsive.\n"
@@ -7499,7 +6679,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Bestätegung ofschécken"
 
 #, fuzzy
-#~| msgid "&Send Files"
 #~ msgid "&Send File"
 #~ msgid_plural "&Send Files"
 #~ msgstr[0] "Dateie &verschécken"
@@ -7509,7 +6688,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Verschécken"
 
 #, fuzzy
-#~| msgid "General"
 #~ msgid "Key Generator"
 #~ msgstr "Allgemeng"
 
@@ -7536,7 +6714,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Informatiounen zum Dokument"
 
 #, fuzzy
-#~| msgid "General"
 #~ msgctxt "@title:group Document information"
 #~ msgid "General"
 #~ msgstr "Allgemeng"
@@ -7578,12 +6755,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Feeler: Java-Programm net fonnt"
 
 #, fuzzy
-#~| msgid "Signed by (validation: "
 #~ msgid "Signed by (validation: %1)"
 #~ msgstr "Ënnerschriwwe vun (Nogekuckt: "
 
 #, fuzzy
-#~| msgid "Certificate (validation: "
 #~ msgid "Certificate (validation: %1)"
 #~ msgstr "Zertifikat (Nogekuckt: "
 
@@ -7621,7 +6796,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "KDE-Plugin fir Java-Miniprogrammer"
 
 #, fuzzy
-#~| msgid "Main Toolbar"
 #~ msgid "HTML Toolbar"
 #~ msgstr "Haapt-Toolbar"
 
@@ -7632,7 +6806,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "'%1' opmaachen"
 
 #, fuzzy
-#~| msgid "Copy Email Address"
 #~ msgid "&Copy Email Address"
 #~ msgstr "E-Mail-Adress kopéieren"
 
@@ -7640,12 +6813,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Link &späicheren als..."
 
 #, fuzzy
-#~| msgid "Copy &Link Address"
 #~ msgid "&Copy Link Address"
 #~ msgstr "Adress vum &Link kopéieren"
 
 #, fuzzy
-#~| msgid "Frame"
 #~ msgctxt "@title:menu HTML frame/iframe"
 #~ msgid "Frame"
 #~ msgstr "Frame"
@@ -7771,7 +6942,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "DOM-Bam op STDOUT drécken"
 
 #, fuzzy
-#~| msgid "Print DOM Tree to STDOUT"
 #~ msgid "Print frame tree to STDOUT"
 #~ msgstr "DOM-Bam op STDOUT drécken"
 
@@ -7788,9 +6958,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Schrëft vergréisseren"
 
 #, fuzzy
-#~| msgid ""
-#~| "Enlarge Font<p>Make the font in this window bigger. Click and hold down "
-#~| "the mouse button for a menu with all available font sizes."
 #~ msgid ""
 #~ "<qt>Enlarge Font<br /><br />Make the font in this window bigger. Click "
 #~ "and hold down the mouse button for a menu with all available font sizes.</"
@@ -7804,9 +6971,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Schrëft verklengeren"
 
 #, fuzzy
-#~| msgid ""
-#~| "Shrink Font<p>Make the font in this window smaller. Click and hold down "
-#~| "the mouse button for a menu with all available font sizes."
 #~ msgid ""
 #~ "<qt>Shrink Font<br /><br />Make the font in this window smaller. Click "
 #~ "and hold down the mouse button for a menu with all available font sizes.</"
@@ -7817,9 +6981,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "Schrëftgréissten ze gesin."
 
 #, fuzzy
-#~| msgid ""
-#~| "Find text<p>Shows a dialog that allows you to find text on the displayed "
-#~| "page."
 #~ msgid ""
 #~ "<qt>Find text<br /><br />Shows a dialog that allows you to find text on "
 #~ "the displayed page.</qt>"
@@ -7828,9 +6989,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "sichen."
 
 #, fuzzy
-#~| msgid ""
-#~| "Find next<p>Find the next occurrence of the text that you have found "
-#~| "using the <b>Find Text</b> function"
 #~ msgid ""
 #~ "<qt>Find next<br /><br />Find the next occurrence of the text that you "
 #~ "have found using the <b>Find Text</b> function.</qt>"
@@ -7839,9 +6997,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "Funktioun <b>Text sichen</b> fonnt hutt"
 
 #, fuzzy
-#~| msgid ""
-#~| "Find previous<p>Find the previous occurrence of the text that you have "
-#~| "found using the <b>Find Text</b> function"
 #~ msgid ""
 #~ "<qt>Find previous<br /><br />Find the previous occurrence of the text "
 #~ "that you have found using the <b>Find Text</b> function.</qt>"
@@ -7856,9 +7011,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Linke beim antippen ergänzen"
 
 #, fuzzy
-#~| msgid ""
-#~| "Print Frame<p>Some pages have several frames. To print only a single "
-#~| "frame, click on it and then use this function."
 #~ msgid ""
 #~ "<qt>Print Frame<br /><br />Some pages have several frames. To print only "
 #~ "a single frame, click on it and then use this function.</qt>"
@@ -7882,12 +7034,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Feelerberichter &deaktivéieren"
 
 #, fuzzy
-#~| msgid "<b>Error</b>: %1: %2"
 #~ msgid "<qt><b>Error</b>: %1: %2</qt>"
 #~ msgstr "<b>Feeler</b>: %1: %2"
 
 #, fuzzy
-#~| msgid "<b>Error</b>: node %1: %2"
 #~ msgid "<qt><b>Error</b>: node %1: %2</qt>"
 #~ msgstr "<b>Feeler</b>: Node %1: %2"
 
@@ -7895,7 +7045,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "D'Biller op dëser Säit weisen"
 
 #, fuzzy
-#~| msgid "<b>Error</b>: %1: %2"
 #~ msgid "Error: %1 - %2"
 #~ msgstr "<b>Feeler</b>: %1: %2"
 
@@ -7912,7 +7061,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "URL: %1"
 
 #, fuzzy
-#~| msgid "Print %1"
 #~ msgid "Protocol: %1"
 #~ msgstr "%1 drécken"
 
@@ -7952,7 +7100,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "%1 (Link)"
 
 #, fuzzy
-#~| msgid "%2 (%1 bytes)"
 #~ msgid "%2 (%1 byte)"
 #~ msgid_plural "%2 (%1 bytes)"
 #~ msgstr[0] "%2 (%1 byte)"
@@ -7980,9 +7127,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Späicheren als"
 
 #, fuzzy
-#~| msgid ""
-#~| "<qt>This untrusted page links to<BR><B>%1</B>.<BR>Do you want to follow "
-#~| "the link?"
 #~ msgid ""
 #~ "<qt>This untrusted page links to<br /><b>%1</b>.<br />Do you want to "
 #~ "follow the link?</qt>"
@@ -8000,13 +7144,11 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "   <a href=\"%1\">[Eegeschaften]</a>"
 
 #, fuzzy
-#~| msgid "Turkish"
 #~ msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
 #~ msgid "Quirks"
 #~ msgstr "Türkësch"
 
 #, fuzzy
-#~| msgid "&Use as Standard"
 #~ msgctxt "HTML rendering mode (see http://en.wikipedia.org/wiki/Quirks_mode)"
 #~ msgid "Almost standards"
 #~ msgstr "&Als Standard benotzen"
@@ -8062,9 +7204,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "E-Mail &verschécken"
 
 #, fuzzy
-#~| msgid ""
-#~| "<qt>The form will be submitted to <BR><B>%1</B><BR>on your local "
-#~| "filesystem.<BR>Do you want to submit the form?"
 #~ msgid ""
 #~ "<qt>The form will be submitted to <br /><b>%1</b><br />on your local "
 #~ "filesystem.<br />Do you want to submit the form?</qt>"
@@ -8086,7 +7225,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Sëcherheetswarnung"
 
 #, fuzzy
-#~| msgid "<qt>Access by untrusted page to<BR><B>%1</B><BR> denied."
 #~ msgid "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
 #~ msgstr ""
 #~ "<qt>Zougang op<BR><B>%1</B><BR>duerch eng Säit, déi als net sëcher "
@@ -8163,16 +7301,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "gedréckt.</p> </qt>"
 
 #, fuzzy
-#~| msgid ""
-#~| "<qt><p><strong>'Printerfriendly mode'</strong></p><p>If this checkbox is "
-#~| "enabled, the printout of the HTML document will be black and white only, "
-#~| "and all colored background will be converted into white. Printout will "
-#~| "be faster and use less ink or toner.</p><p>If this checkbox is disabled, "
-#~| "the printout of the HTML document will happen in the original color "
-#~| "settings as you see in your application. This may result in areas of "
-#~| "full-page color (or grayscale, if you use a black+white printer). "
-#~| "Printout will possibly happen slower and will certainly use much more "
-#~| "toner or ink.</p> </qt>"
 #~ msgid ""
 #~ "<qt><p><strong>'Printerfriendly mode'</strong></p><p>If this checkbox is "
 #~ "enabled, the printout of the HTML document will be black and white only, "
@@ -8207,7 +7335,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Feeler am Filter"
 
 #, fuzzy
-#~| msgid "Relative"
 #~ msgid "Inactive"
 #~ msgstr "Relativ"
 
@@ -8264,28 +7391,22 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Paus"
 
 #, fuzzy
-#~| msgid "Shortcut"
 #~ msgid "New Web Shortcut"
 #~ msgstr "Tastekombinatioun"
 
 #, fuzzy
-#~| msgctxt "Socket error code AlreadyCreated"
-#~| msgid "socket is already created"
 #~ msgid "%1 is already assigned to %2"
 #~ msgstr "De Socket ass schonn erstallt ginn"
 
 #, fuzzy
-#~| msgid "Shortcuts"
 #~ msgid "UR&I shortcuts:"
 #~ msgstr "Kierzelen"
 
 #, fuzzy
-#~| msgid "Clear shortcut"
 #~ msgid "Create Web Shortcut"
 #~ msgstr "Kierzel läschen"
 
 #, fuzzy
-#~| msgid "Regular e&xpression"
 #~ msgid "TestRegression"
 #~ msgstr "Re&gulären Ausdrock"
 
@@ -8326,17 +7447,14 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Op d'Zeil &goen..."
 
 #, fuzzy
-#~| msgid "URL to open"
 #~ msgid "URL to open"
 #~ msgstr "URL fir opzemaachen"
 
 #, fuzzy
-#~| msgid "Test"
 #~ msgid "Testkhtml"
 #~ msgstr "Test"
 
 #, fuzzy
-#~| msgid "Find Links as You Type"
 #~ msgid "Find &links only"
 #~ msgstr "Linke beim antippen ergänzen"
 
@@ -8345,7 +7463,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "1 Iwwereneestëmmung fonnt."
 
 #, fuzzy
-#~| msgid "Find:"
 #~ msgid "F&ind:"
 #~ msgstr "Sichen:"
 
@@ -8353,32 +7470,26 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Weider"
 
 #, fuzzy
-#~| msgid "Options"
 #~ msgid "Opt&ions"
 #~ msgstr "Optiounen"
 
 #, fuzzy
-#~| msgid "Do you really want to execute '%1'? "
 #~ msgid "Do you want to store this password?"
 #~ msgstr "Wëllt dir '%1' wiirklech lafe loossen? "
 
 #, fuzzy
-#~| msgid "Do you want to restart search from the end?"
 #~ msgid "Do you want to store this password for %1?"
 #~ msgstr "Wëllt dir vun hanne weidersichen?"
 
 #, fuzzy
-#~| msgid "Store"
 #~ msgid "&Store"
 #~ msgstr "Späicheren"
 
 #, fuzzy
-#~| msgid "Ne&ver for This Site"
 #~ msgid "Ne&ver store for this site"
 #~ msgstr "Nie fir &dëss Säit"
 
 #, fuzzy
-#~| msgid "Do not show this message again"
 #~ msgid "Do &not store this time"
 #~ msgstr "Dëss Noricht net méi weisen"
 
@@ -8433,7 +7544,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "%2"
 
 #, fuzzy
-#~| msgid "KDEInit could not launch '%1'."
 #~ msgid "KDEInit could not launch '%1'"
 #~ msgstr "KDEInit konnt '%1' net starten."
 
@@ -8453,9 +7563,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Feeler beim Luede vun '%1'.\n"
 
 #, fuzzy
-#~| msgid ""
-#~| "klauncher: This program is not supposed to be started manually.\n"
-#~| "klauncher: It is started automatically by kdeinit.\n"
 #~ msgid ""
 #~ "klauncher: This program is not supposed to be started manually.\n"
 #~ "klauncher: It is started automatically by kdeinit4.\n"
@@ -8482,7 +7589,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "URI-Feeler"
 
 #, fuzzy
-#~| msgid "+"
 #~ msgctxt "addition"
 #~ msgid "+"
 #~ msgstr "+"
@@ -8544,12 +7650,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "De Stil %1 ass net fonnt ginn\n"
 
 #, fuzzy
-#~| msgid "Alt"
 #~ msgid "Alert"
 #~ msgstr "Alt"
 
 #, fuzzy
-#~| msgid "Configure"
 #~ msgid "Confirm"
 #~ msgstr "Configuréieren"
 
@@ -8576,15 +7680,12 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Konnt de Service '%1' net fannen."
 
 #, fuzzy
-#~| msgid "There is no resource available!"
 #~ msgid "but there is only %1 available"
 #~ msgid_plural "but there are only %1 available"
 #~ msgstr[0] "Et ass keng Ressource do!"
 #~ msgstr[1] "Et ass keng Ressource do!"
 
 #, fuzzy
-#~| msgctxt "concatenation of dates and time"
-#~| msgid "%1 %2"
 #~ msgctxt ""
 #~ "%1 is 'the slot asked for foo arguments', %2 is 'but there are only bar "
 #~ "available'"
@@ -8630,12 +7731,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Konnt d'Quell '%1' net lueden"
 
 #, fuzzy
-#~| msgid "Rating"
 #~ msgid "loading %1"
 #~ msgstr "Bewertung"
 
 #, fuzzy
-#~| msgid "Latest"
 #~ msgctxt "describes the feed of the latest posted entries"
 #~ msgid "Latest"
 #~ msgstr "Dat Neitst"
@@ -8656,9 +7755,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "erofgeluede Ressourcen net verifizéiert ginn.</qt>"
 
 #, fuzzy
-#~| msgid ""
-#~| "<qt>Enter passphrase for key <b>0x%1</b>, belonging to<br><i>%2&lt;%3&gt;"
-#~| "</i>:</qt>"
 #~ msgid ""
 #~ "<qt>Enter passphrase for key <b>0x%1</b>, belonging to<br /><i>%2&lt;"
 #~ "%3&gt;</i><br />:</qt>"
@@ -8691,52 +7787,42 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "erofgeluede Ressourcen net ënnerschriwwe ginn.</qt>"
 
 #, fuzzy
-#~| msgid "Get Hot New Stuff"
 #~ msgid "Get Hot New Stuff"
 #~ msgstr "Nei Saachen ofhuelen"
 
 #, fuzzy
-#~| msgid "Rating"
 #~ msgid "Add Rating"
 #~ msgstr "Bewertung"
 
 #, fuzzy
-#~| msgid "Comment"
 #~ msgid "Add Comment"
 #~ msgstr "Kommentar"
 
 #, fuzzy
-#~| msgid "Comment"
 #~ msgid "View Comments"
 #~ msgstr "Kommentar"
 
 #, fuzzy
-#~| msgid "Redo: %1"
 #~ msgid "Re: %1"
 #~ msgstr "Nees zeréck: %1"
 
 #, fuzzy
-#~| msgid "Unable to create file to upload."
 #~ msgid "Entries failed to load"
 #~ msgstr "D'Datei fir eropzeluede konnt net erstallt ginn."
 
 #, fuzzy
-#~| msgid "<Merge %1>"
 #~ msgid "Server: %1"
 #~ msgstr "<Merge %1>"
 
 #, fuzzy
-#~| msgid "Hide %1"
 #~ msgid "<br />Provider: %1"
 #~ msgstr "%1 net weisen"
 
 #, fuzzy
-#~| msgid "Version:"
 #~ msgid "<br />Version: %1"
 #~ msgstr "Versioun:"
 
 #, fuzzy
-#~| msgid "Show version information"
 #~ msgid "Provider information"
 #~ msgstr "Informatiounen iwwert d'Versioun uweisen"
 
@@ -8745,12 +7831,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Konnt de Service '%1' net fannen."
 
 #, fuzzy
-#~| msgid "Get Hot New Stuff"
 #~ msgid "Get Hot New Stuff!"
 #~ msgstr "Nei Saachen ofhuelen"
 
 #, fuzzy
-#~| msgid "There was an error loading the module."
 #~ msgid "There was an error loading data providers."
 #~ msgstr "Et ass e Feeler beim Luede vum Modul opgetrueden."
 
@@ -8759,7 +7843,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Ressource"
 
 #, fuzzy
-#~| msgid "??"
 #~ msgid "?"
 #~ msgstr "??"
 
@@ -8768,12 +7851,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Doppelpunkt"
 
 #, fuzzy
-#~| msgid "Rating"
 #~ msgid "Rating: "
 #~ msgstr "Bewertung"
 
 #, fuzzy
-#~| msgid "Downloads"
 #~ msgid "Downloads: "
 #~ msgstr "Downloads"
 
@@ -8781,17 +7862,14 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Installéieren"
 
 #, fuzzy
-#~| msgid "Install"
 #~ msgid "Uninstall"
 #~ msgstr "Installéieren"
 
 #, fuzzy
-#~| msgid "Most Downloads"
 #~ msgid "<p>No Downloads</p>"
 #~ msgstr "Am meeschten erofgelueden"
 
 #, fuzzy
-#~| msgid "Downloads"
 #~ msgid "<p>Downloads: %1</p>\n"
 #~ msgstr "Downloads"
 
@@ -8799,32 +7877,26 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Aktualiséieren"
 
 #, fuzzy
-#~| msgid "Rating"
 #~ msgid "Rating: %1"
 #~ msgstr "Bewertung"
 
 #, fuzzy
-#~| msgid "Preview URL:"
 #~ msgid "No Preview"
 #~ msgstr "URL-Virschau:"
 
 #, fuzzy
-#~| msgid "Print Previe&w..."
 #~ msgid "Loading Preview"
 #~ msgstr "Drocker&virschau..."
 
 #, fuzzy
-#~| msgid "Comment"
 #~ msgid "Comments"
 #~ msgstr "Kommentar"
 
 #, fuzzy
-#~| msgid "Change"
 #~ msgid "Changelog"
 #~ msgstr "Änneren"
 
 #, fuzzy
-#~| msgid "Switch Left Dock"
 #~ msgid "Switch version"
 #~ msgstr "Dee lénksen Dock ëmschalten"
 
@@ -8833,77 +7905,62 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Doppelpunkt"
 
 #, fuzzy
-#~| msgid "Translation"
 #~ msgid "Translate"
 #~ msgstr "Iwwersetzung"
 
 #, fuzzy
-#~| msgid "(empty entry)"
 #~ msgid "Report bad entry"
 #~ msgstr "(Eidel Entrée)"
 
 #, fuzzy
-#~| msgid "&Send Email"
 #~ msgid "Send Mail"
 #~ msgstr "E-Mail &verschécken"
 
 #, fuzzy
-#~| msgid "Hide %1"
 #~ msgid "Provider: %1"
 #~ msgstr "%1 net weisen"
 
 #, fuzzy
-#~| msgid "Version:"
 #~ msgid "Version: %1"
 #~ msgstr "Versioun:"
 
 #, fuzzy
-#~| msgid "Remove Entry"
 #~ msgid "Removal of entry"
 #~ msgstr "Entrée ewechhuelen"
 
 #, fuzzy
-#~| msgid "The requested operation could not be completed"
 #~ msgid "The rating could not be submitted."
 #~ msgstr "Déi gewënschten Operatioun konnt net duerchgefouert ginn"
 
 #, fuzzy
-#~| msgid "Comment"
 #~ msgid "Comment on entry"
 #~ msgstr "Kommentar"
 
 #, fuzzy
-#~| msgid "The module %1 could not be found."
 #~ msgid "The comment could not be submitted."
 #~ msgstr "De Modul %1 ass net fonnt ginn."
 
 #, fuzzy
-#~| msgid "New Distribution List"
 #~ msgid "KNewStuff contributions"
 #~ msgstr "Nei Distributiounslëscht"
 
 #, fuzzy
-#~| msgid "Version"
 #~ msgid "Version %1"
 #~ msgstr "Versioun"
 
 #, fuzzy
-#~| msgid "Comment"
 #~ msgid "User comments"
 #~ msgstr "Kommentar"
 
 #, fuzzy
-#~| msgid "Translation"
 #~ msgid "Translate this entry"
 #~ msgstr "Iwwersetzung"
 
 #, fuzzy
-#~| msgid "Page loaded."
 #~ msgid "Payload"
 #~ msgstr "Säit gelueden."
 
 #, fuzzy
-#~| msgid "Download New Stuff"
 #~ msgid "Download New Stuff..."
 #~ msgstr "Nei Saachen eroflueden"
 
@@ -8936,7 +7993,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Auteur:"
 
 #, fuzzy
-#~| msgid "Email Address"
 #~ msgid "Email address:"
 #~ msgstr "E-Mail-Adress"
 
@@ -8962,60 +8018,49 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Zesummefaassung:"
 
 #, fuzzy
-#~| msgid "No text was replaced."
 #~ msgctxt "voting for an item (good/bad)"
 #~ msgid "Your vote was recorded."
 #~ msgstr "Et ass näischt ersat ginn."
 
 #, fuzzy
-#~| msgid "Install"
 #~ msgid "Initializing"
 #~ msgstr "Installéieren"
 
 #, fuzzy
-#~| msgid "Configuration files"
 #~ msgid "Configuration file not found: \"%1\""
 #~ msgstr "Configuratiounsdateien"
 
 #, fuzzy
-#~| msgid "Configuration files"
 #~ msgid "Configuration file is invalid: \"%1\""
 #~ msgstr "Configuratiounsdateien"
 
 #, fuzzy
-#~| msgid "View Frame Information"
 #~ msgid "Loading provider information"
 #~ msgstr "Frame-Informatioun kucken"
 
 #, fuzzy
-#~| msgid "Error parsing providers list."
 #~ msgid "Error initializing provider."
 #~ msgstr "Feeler beim duerchliese vun der Providerlëscht."
 
 #, fuzzy
-#~| msgid "Loading Applet"
 #~ msgid "Loading data"
 #~ msgstr "Amgaang, de Miniprogramm ze lueden"
 
 #, fuzzy
-#~| msgid "Loading resource '%1' failed!"
 #~ msgid "Loading of providers from file: %1 failed"
 #~ msgstr "D'Quell '%1' konnt net geluede ginn!"
 
 #, fuzzy
-#~| msgid "Print Previe&w..."
 #~ msgid "Loading one preview"
 #~ msgid_plural "Loading %1 previews"
 #~ msgstr[0] "Drocker&virschau..."
 #~ msgstr[1] "Drocker&virschau..."
 
 #, fuzzy
-#~| msgid "Install"
 #~ msgid "Installing"
 #~ msgstr "Installéieren"
 
 #, fuzzy
-#~| msgid "invalid flags"
 #~ msgid "Invalid item."
 #~ msgstr "Ongülteg Werter"
 
@@ -9028,93 +8073,75 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Konnt de Service '%1' net fannen."
 
 #, fuzzy
-#~| msgid "Override existing entries"
 #~ msgid "Overwrite existing file?"
 #~ msgstr "Dat, wat do ass, iwwerschreiwen"
 
 #, fuzzy
-#~| msgid "Download"
 #~ msgid "Download File"
 #~ msgstr "Eroflueden"
 
 #, fuzzy
-#~| msgid "Icon Size"
 #~ msgid "Icons view mode"
 #~ msgstr "Gréisst vum Symbol"
 
 #, fuzzy
-#~| msgid "Details"
 #~ msgid "Details view mode"
 #~ msgstr "Detailer"
 
 #, fuzzy
-#~| msgid "Hot New Stuff Providers"
 #~ msgid "All Providers"
 #~ msgstr "Ubidder vun neie Saachen"
 
 #, fuzzy
-#~| msgid "Categories"
 #~ msgid "All Categories"
 #~ msgstr "Kategorien"
 
 #, fuzzy
-#~| msgid "Hide %1"
 #~ msgid "Provider:"
 #~ msgstr "%1 net weisen"
 
 #, fuzzy
-#~| msgid "Categories"
 #~ msgid "Category:"
 #~ msgstr "Kategorien"
 
 #, fuzzy
-#~| msgid "New List"
 #~ msgid "Newest"
 #~ msgstr "Nei Lëscht"
 
 #, fuzzy
-#~| msgid "Rating"
 #~ msgid "Rating"
 #~ msgstr "Bewertung"
 
 #, fuzzy
-#~| msgid "Most Downloads"
 #~ msgid "Most downloads"
 #~ msgstr "Am meeschten erofgelueden"
 
 #, fuzzy
-#~| msgid "Install"
 #~ msgid "Installed"
 #~ msgstr "Installéieren"
 
 #, fuzzy
-#~| msgid "S&earch:"
 #~ msgid "Search:"
 #~ msgstr "Siche&n:"
 
 #, fuzzy
-#~| msgid "Home Fax"
 #~ msgid "Become a Fan"
 #~ msgstr "Fax Doheem"
 
 #, fuzzy
-#~| msgid "Suggestion List"
 #~ msgid "Details for %1"
 #~ msgstr "Lëscht mat Beispiller"
 
 #, fuzzy
-#~| msgid "Change"
 #~ msgid "Changelog:"
 #~ msgstr "Änneren"
 
 #, fuzzy
-#~| msgid "Homepage"
 #~ msgctxt "A link to the description of this Get Hot New Stuff item"
 #~ msgid "Homepage"
 #~ msgstr "Homepage"
 
 #, fuzzy
-#~| msgid "HTML documentation"
 #~ msgctxt ""
 #~ "A link to make a donation for a Get Hot New Stuff item (opens a web "
 #~ "browser)"
@@ -9122,51 +8149,42 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "HTML-Dokumentatioun"
 
 #, fuzzy
-#~| msgid "Open in New &Window"
 #~ msgctxt "Tooltip for a link in a dialog"
 #~ msgid "Opens in a browser window"
 #~ msgstr "An enger neier &Fënster opmaachen"
 
 #, fuzzy
-#~| msgid "Rating"
 #~ msgid "Rating: %1%"
 #~ msgstr "Bewertung"
 
 #, fuzzy
-#~| msgid "<b>Error</b>: %1: %2"
 #~ msgctxt "Show the author of this item in a list"
 #~ msgid "By <i>%1</i>"
 #~ msgstr "<b>Feeler</b>: %1: %2"
 
 #, fuzzy
-#~| msgid "Download"
 #~ msgid "1 download"
 #~ msgid_plural "%1 downloads"
 #~ msgstr[0] "Eroflueden"
 #~ msgstr[1] "Eroflueden"
 
 #, fuzzy
-#~| msgid "Update"
 #~ msgid "Updating"
 #~ msgstr "Aktualiséieren"
 
 #, fuzzy
-#~| msgid "Installation"
 #~ msgid "Install Again"
 #~ msgstr "Installatioun"
 
 #, fuzzy
-#~| msgid "Check Spelling..."
 #~ msgid "Checking login..."
 #~ msgstr "Rechtschreifkontroll..."
 
 #, fuzzy
-#~| msgid "Print Previe&w..."
 #~ msgid "Fetching your previously updated content..."
 #~ msgstr "Drocker&virschau..."
 
 #, fuzzy
-#~| msgid "Save Login Information"
 #~ msgid "Could not verify login, please try again."
 #~ msgstr "Umeldungsinformatioune späicheren"
 
@@ -9175,42 +8193,34 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "De Stil %1 ass net fonnt ginn\n"
 
 #, fuzzy
-#~| msgid "Upload Files"
 #~ msgid "Upload Failed"
 #~ msgstr "Dateien eroplueden"
 
 #, fuzzy
-#~| msgid "Select Region of Image"
 #~ msgid "Select preview image"
 #~ msgstr "Bildauschnëtt wielen"
 
 #, fuzzy
-#~| msgid "Upload Files"
 #~ msgid "Uploading Failed"
 #~ msgstr "Dateien eroplueden"
 
 #, fuzzy
-#~| msgid "Authentication"
 #~ msgid "Authentication error."
 #~ msgstr "Authentifizéierung"
 
 #, fuzzy
-#~| msgid "Upload Files"
 #~ msgid "Upload failed: %1"
 #~ msgstr "Dateien eroplueden"
 
 #, fuzzy
-#~| msgid "File reloaded."
 #~ msgid "File to upload:"
 #~ msgstr "Datei nach eng Kéier gelueden."
 
 #, fuzzy
-#~| msgid "&Upload"
 #~ msgid "New Upload"
 #~ msgstr "&Eroplueden"
 
 #, fuzzy
-#~| msgid "Preview image: %1\n"
 #~ msgid "Preview Images"
 #~ msgstr "Virschau vum Bild:%1\n"
 
@@ -9219,7 +8229,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Komponenten auswielen..."
 
 #, fuzzy
-#~| msgid "Ne&ver for This Site"
 #~ msgid "Set a price for this item"
 #~ msgstr "Nie fir &dëss Säit"
 
@@ -9232,72 +8241,58 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Ressource"
 
 #, fuzzy
-#~| msgid "Upload Info"
 #~ msgid "Upload content"
 #~ msgstr "Informatiounen iwwert d'Eroplueden"
 
 #, fuzzy
-#~| msgid "Print Previe&w..."
 #~ msgid "Upload first preview"
 #~ msgstr "Drocker&virschau..."
 
 #, fuzzy
-#~| msgid "Print Previe&w..."
 #~ msgid "Upload second preview"
 #~ msgstr "Drocker&virschau..."
 
 #, fuzzy
-#~| msgid "Print Previe&w..."
 #~ msgid "Upload third preview"
 #~ msgstr "Drocker&virschau..."
 
 #, fuzzy
-#~| msgid "Start replace"
 #~ msgid "Start Upload"
 #~ msgstr "Mam Ersetzen ufänken"
 
 #, fuzzy
-#~| msgid "Select the current day"
 #~ msgid "Select the sound to play"
 #~ msgstr "Heitegen Dag auswielen"
 
 #, fuzzy
-#~| msgid "Go to Line"
 #~ msgid "Log to a file"
 #~ msgstr "Sprang op d'Zeil"
 
 #, fuzzy
-#~| msgid "Select the current day"
 #~ msgid "Select the command to run"
 #~ msgstr "Heitegen Dag auswielen"
 
 #, fuzzy
-#~| msgid "S&earch:"
 #~ msgid "Sp&eech"
 #~ msgstr "Siche&n:"
 
 #, fuzzy
-#~| msgid "artsmessage"
 #~ msgid "Speak Event Message"
 #~ msgstr "aRts-Noricht"
 
 #, fuzzy
-#~| msgid "Please enter &name:"
 #~ msgid "Speak Event Name"
 #~ msgstr "Gitt w.e.g. den &Numm an:"
 
 #, fuzzy
-#~| msgid "Please enter &name:"
 #~ msgid "Speak Custom Text"
 #~ msgstr "Gitt w.e.g. den &Numm an:"
 
 #, fuzzy
-#~| msgid "Configure &Notifications..."
 #~ msgid "Configure Notifications"
 #~ msgstr "&Norichte configuréieren..."
 
 #, fuzzy
-#~| msgid "State"
 #~ msgctxt "State of the notified event"
 #~ msgid "State"
 #~ msgstr "Status"
@@ -9308,13 +8303,11 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Tamil"
 
 #, fuzzy
-#~| msgid "Description:"
 #~ msgctxt "Description of the notified event"
 #~ msgid "Description"
 #~ msgstr "Beschreiwung:"
 
 #, fuzzy
-#~| msgid "<qt>Do you want to search the Internet for <b>%1</b>?"
 #~ msgid "<qt>Do you want to search the Internet for <b>%1</b>?</qt>"
 #~ msgstr "<qt>Wëllt dir am Internet no <b>%1</b> sichen?"
 
@@ -9325,61 +8318,51 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Sichen"
 
 #, fuzzy
-#~| msgid "Redo: %1"
 #~ msgctxt "@label Type of file"
 #~ msgid "Type: %1"
 #~ msgstr "Nees zeréck: %1"
 
 #, fuzzy
-#~| msgid "Do not show this message again"
 #~ msgctxt "@label:checkbox"
 #~ msgid "Remember action for files of this type"
 #~ msgstr "Dëss Noricht net méi weisen"
 
 #, fuzzy
-#~| msgid "&Open with '%1'"
 #~ msgctxt "@label:button"
 #~ msgid "&Open with %1"
 #~ msgstr "Mat '%1' &opmaachen"
 
 #, fuzzy
-#~| msgid "&Open with '%1'"
 #~ msgctxt "@action:inmenu"
 #~ msgid "Open &with %1"
 #~ msgstr "Mat '%1' &opmaachen"
 
 #, fuzzy
-#~| msgid "Open '%1'"
 #~ msgctxt "@info"
 #~ msgid "Open '%1'?"
 #~ msgstr "'%1' opmaachen"
 
 #, fuzzy
-#~| msgid "&Open With..."
 #~ msgctxt "@label:button"
 #~ msgid "&Open with..."
 #~ msgstr "&Opmaache mat..."
 
 #, fuzzy
-#~| msgid "&Open With..."
 #~ msgctxt "@label:button"
 #~ msgid "&Open with"
 #~ msgstr "&Opmaache mat..."
 
 #, fuzzy
-#~| msgid "&Open"
 #~ msgctxt "@label:button"
 #~ msgid "&Open"
 #~ msgstr "&Opmaachen"
 
 #, fuzzy
-#~| msgid "Name:"
 #~ msgctxt "@label File name"
 #~ msgid "Name: %1"
 #~ msgstr "Numm:"
 
 #, fuzzy
-#~| msgid "Do you really want to execute '%1'? "
 #~ msgid "Do you really want to execute '%1'?"
 #~ msgstr "Wëllt dir '%1' wiirklech lafe loossen? "
 
@@ -9406,23 +8389,18 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Dokument zoumaachen"
 
 #, fuzzy
-#~| msgid "ErrorReadingRoot"
 #~ msgid "Error reading from PTY"
 #~ msgstr "ErrorReadingRoot"
 
 #, fuzzy
-#~| msgctxt "Socket error code Timeout"
-#~| msgid "timed operation timed out"
 #~ msgid "PTY operation timed out"
 #~ msgstr "D'Zäit fir dëss Aktioun ass iwwerschratt ginn"
 
 #, fuzzy
-#~| msgid "Error opening file."
 #~ msgid "Error opening PTY"
 #~ msgstr "Feeler beim Opmaache vun der Datei."
 
 #, fuzzy
-#~| msgid "Props"
 #~ msgid "Kross"
 #~ msgstr "Eegeschaften"
 
@@ -9455,7 +8433,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Kee KScript Runner fir den Typ \"%1\" kritt."
 
 #, fuzzy
-#~| msgid "Cancel"
 #~ msgid "Cancel?"
 #~ msgstr "Ofbriechen"
 
@@ -9502,7 +8479,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Veränneren"
 
 #, fuzzy
-#~| msgid "General"
 #~ msgctxt "@title:group Script properties"
 #~ msgid "General"
 #~ msgstr "Allgemeng"
@@ -9511,9 +8487,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "De Modul %1 ass net fonnt ginn."
 
 #, fuzzy
-#~| msgid ""
-#~| "<qt><p>The diagnostics is:<br>The desktop file %1 could not be found.</"
-#~| "qt>"
 #~ msgid ""
 #~ "<qt><p>The diagnosis is:<br />The desktop file %1 could not be found.</"
 #~ "p></qt>"
@@ -9527,9 +8500,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "De Modul %1 ass kee gültege Configuratiounsmodul."
 
 #, fuzzy
-#~| msgid ""
-#~| "<qt><p>The diagnostics is:<br>The desktop file %1 does not specify a "
-#~| "library.</qt>"
 #~ msgid ""
 #~ "<qt>The diagnosis is:<br />The desktop file %1 does not specify a library."
 #~ "</qt>"
@@ -9540,13 +8510,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Et ass e Feeler beim Luede vum Modul opgetrueden."
 
 #, fuzzy
-#~| msgid ""
-#~| "<qt><p>The diagnostics is:<br>%1<p>Possible reasons:</p><ul><li>An error "
-#~| "occurred during your last KDE upgrade leaving an orphaned control "
-#~| "module<li>You have old third party modules lying around.</ul><p>Check "
-#~| "these points carefully and try to remove the module mentioned in the "
-#~| "error message. If this fails, consider contacting your distributor or "
-#~| "packager.</p></qt>"
 #~ msgid ""
 #~ "<qt>The diagnosis is:<br />%1<p>Possible reasons:</p><ul><li>An error "
 #~ "occurred during your last KDE upgrade leaving an orphaned control module</"
@@ -9562,13 +8525,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "ze läschen. Wann dat net klappt, frot bei ärem Verdeler no.</p></qt>"
 
 #, fuzzy
-#~| msgid ""
-#~| "<qt><p>The diagnostics is:<br>%1<p>Possible reasons:</p><ul><li>An error "
-#~| "occurred during your last KDE upgrade leaving an orphaned control "
-#~| "module<li>You have old third party modules lying around.</ul><p>Check "
-#~| "these points carefully and try to remove the module mentioned in the "
-#~| "error message. If this fails, consider contacting your distributor or "
-#~| "packager.</p></qt>"
 #~ msgid ""
 #~ "<qt><p>Possible reasons:<ul><li>An error occurred during your last KDE "
 #~ "upgrade leaving an orphaned control module</li><li>You have old third "
@@ -9587,9 +8543,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Dëss Configuratioun ass schonn am %1 opgemaach"
 
 #, fuzzy
-#~| msgid ""
-#~| "The document \"%1\" has been modified.\n"
-#~| "Do you want to save your changes or discard them?"
 #~ msgid ""
 #~ "The settings of the current module have changed.\n"
 #~ "Do you want to apply the changes or discard them?"
@@ -9598,7 +8551,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "Wëllt dir e späicheren oder sou si loosse, wéi e war?"
 
 #, fuzzy
-#~| msgid "Apply settings"
 #~ msgid "Apply Settings"
 #~ msgstr "Astellungen uwenden"
 
@@ -9639,12 +8591,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Rotschlag vum Dag"
 
 #, fuzzy
-#~| msgid "Search Columns"
 #~ msgid "Search Plugins"
 #~ msgstr "Kolonnen duerchsichen"
 
 #, fuzzy
-#~| msgid "About %1"
 #~ msgctxt "Used only for plugins"
 #~ msgid "About %1"
 #~ msgstr "Iwwer %1"
@@ -9656,7 +8606,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "%2"
 
 #, fuzzy
-#~| msgid "Print Previe&w..."
 #~ msgid "Print Preview"
 #~ msgstr "Drocker&virschau..."
 
@@ -9664,7 +8613,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Komponenten auswielen"
 
 #, fuzzy
-#~| msgid "Embeddable HTML component"
 #~ msgid "Enable component"
 #~ msgstr "Abettungsfäheg HTML-Komponent"
 
@@ -9673,12 +8621,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Configuratioun"
 
 #, fuzzy
-#~| msgid "Invalid reference base"
 #~ msgid "Invalid type in Database"
 #~ msgstr "Ongülteg Basis fir d'Referenz"
 
 #, fuzzy
-#~| msgid "Esfand"
 #~ msgctxt ""
 #~ "Boolean AND keyword in desktop search strings. You can add several "
 #~ "variants separated by spaces, e.g. retain the English one alongside the "
@@ -9688,7 +8634,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Esfand"
 
 #, fuzzy
-#~| msgid "Mor"
 #~ msgctxt ""
 #~ "Boolean OR keyword in desktop search strings. You can add several "
 #~ "variants separated by spaces, e.g. retain the English one alongside the "
@@ -9702,58 +8647,48 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Fënster"
 
 #, fuzzy
-#~| msgid "(c) 2003 Tobias Koenig"
 #~ msgid "Tobias Koenig"
 #~ msgstr "(c) 2003 Tobias Koenig"
 
 #, fuzzy
-#~| msgid "Directory to generate files in"
 #~ msgid "Specify the target folder to store generated files into."
 #~ msgstr "Verzeechnis fir erstallten Dateien"
 
 #, fuzzy
-#~| msgid "Change &Icon..."
 #~ msgctxt "@title:window"
 #~ msgid "Change Tags"
 #~ msgstr "&Symbol änneren..."
 
 #, fuzzy
-#~| msgid "Pager"
 #~ msgctxt "@title:window"
 #~ msgid "Add Tags"
 #~ msgstr "Pager"
 
 #, fuzzy
-#~| msgid "Delete"
 #~ msgctxt "@info"
 #~ msgid "Delete tag"
 #~ msgstr "Läschen"
 
 #, fuzzy
-#~| msgid "Delete"
 #~ msgctxt "@title"
 #~ msgid "Delete tag"
 #~ msgstr "Läschen"
 
 #, fuzzy
-#~| msgid "Delete"
 #~ msgctxt "@action:button"
 #~ msgid "Delete"
 #~ msgstr "Läschen"
 
 #, fuzzy
-#~| msgid "Cancel"
 #~ msgctxt "@action:button"
 #~ msgid "Cancel"
 #~ msgstr "Ofbriechen"
 
 #, fuzzy
-#~| msgid "Configure &Notifications..."
 #~ msgid "Changing annotations"
 #~ msgstr "&Norichte configuréieren..."
 
 #, fuzzy
-#~| msgid "Show all options"
 #~ msgctxt "@label"
 #~ msgid "Show all tags..."
 #~ msgstr "All Optioune weisen"
@@ -9764,13 +8699,11 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Dobäimaachen..."
 
 #, fuzzy
-#~| msgid "Change &Icon..."
 #~ msgctxt "@label"
 #~ msgid "Change..."
 #~ msgstr "&Symbol änneren..."
 
 #, fuzzy
-#~| msgid "Monday"
 #~ msgctxt ""
 #~ "referring to a filter on the modification and usage date of files/"
 #~ "resources"
@@ -9778,7 +8711,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Méinden"
 
 #, fuzzy
-#~| msgid "Tuesday"
 #~ msgctxt ""
 #~ "referring to a filter on the modification and usage date of files/"
 #~ "resources"
@@ -9786,7 +8718,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Dënschten"
 
 #, fuzzy
-#~| msgid "Last Name"
 #~ msgctxt ""
 #~ "referring to a filter on the modification and usage date of files/"
 #~ "resources"
@@ -9794,7 +8725,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Familljennumm"
 
 #, fuzzy
-#~| msgid "Next month"
 #~ msgctxt ""
 #~ "referring to a filter on the modification and usage date of files/"
 #~ "resources"
@@ -9802,7 +8732,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Nächste Mount"
 
 #, fuzzy
-#~| msgid "Last Name"
 #~ msgctxt ""
 #~ "referring to a filter on the modification and usage date of files/"
 #~ "resources"
@@ -9810,7 +8739,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Familljennumm"
 
 #, fuzzy
-#~| msgid "Custom..."
 #~ msgctxt ""
 #~ "referring to a filter on the modification and usage date of files/"
 #~ "resources that will open a dialog to choose a date range"
@@ -9818,18 +8746,14 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Benotzerdefinéiert..."
 
 #, fuzzy
-#~| msgid "Restore"
 #~ msgid "Before"
 #~ msgstr "Zerécksetzen"
 
 #, fuzzy
-#~| msgctxt "QAccel"
-#~| msgid "Asterisk"
 #~ msgid "After"
 #~ msgstr "Asterisk"
 
 #, fuzzy
-#~| msgid "More..."
 #~ msgctxt ""
 #~ "@option:check An item in a list of resources that allows to query for "
 #~ "more resources to put in the list"
@@ -9842,53 +8766,44 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Lautstäerkt erop"
 
 #, fuzzy
-#~| msgid "Video"
 #~ msgctxt "@option:check A filter on file type - media video"
 #~ msgid "Video"
 #~ msgstr "Video"
 
 #, fuzzy
-#~| msgid "Pager"
 #~ msgctxt "@option:check A filter on file type"
 #~ msgid "Images"
 #~ msgstr "Pager"
 
 #, fuzzy
-#~| msgid "no error"
 #~ msgctxt ""
 #~ "@option:radio A filter on prioritizing/sorting a selection of resources"
 #~ msgid "No priority"
 #~ msgstr "ouni Feeler"
 
 #, fuzzy
-#~| msgid "Last modified:"
 #~ msgctxt ""
 #~ "@option:radio A filter on prioritizing/sorting a selection of resources"
 #~ msgid "Last modified"
 #~ msgstr "Als Lescht geännert:"
 
 #, fuzzy
-#~| msgid "File opened."
 #~ msgctxt ""
 #~ "@option:radio A filter on prioritizing/sorting a selection of resources"
 #~ msgid "Never opened"
 #~ msgstr "Datei opgemaach."
 
 #, fuzzy
-#~| msgid "Rating"
 #~ msgctxt "@option:radio A filter on the rating of a resource"
 #~ msgid "Any Rating"
 #~ msgstr "Bewertung"
 
 #, fuzzy
-#~| msgid "Rating"
 #~ msgctxt "@option:radio A filter on the rating of a resource"
 #~ msgid "Max Rating"
 #~ msgstr "Bewertung"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Miscellaneous Symbols"
 #~ msgctxt ""
 #~ "@title KCategorizedSortFilterProxyModel grouping for all Nepomukj "
 #~ "resources that are of type rdfs:Resource"
@@ -9896,54 +8811,45 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Verschidde Symboler"
 
 #, fuzzy
-#~| msgid "Valid Resource"
 #~ msgctxt "@title:column The Nepomuk resource label and icon"
 #~ msgid "Resource"
 #~ msgstr "Gülteg Ressource"
 
 #, fuzzy
-#~| msgid "Resource Selection"
 #~ msgctxt "@title:column The Nepomuk resource's RDF type"
 #~ msgid "Resource Type"
 #~ msgstr "Quell wielen"
 
 #, fuzzy
-#~| msgid "Internet Search"
 #~ msgid "Enter Search Terms..."
 #~ msgstr "Sicht am Internet"
 
 #, fuzzy
-#~| msgid "&Contents"
 #~ msgctxt "@option:check A filter on resource type"
 #~ msgid "Contacts"
 #~ msgstr "I&nhalt"
 
 #, fuzzy
-#~| msgid "Email"
 #~ msgctxt "@option:check A filter on resource type"
 #~ msgid "Emails"
 #~ msgstr "E-Mail"
 
 #, fuzzy
-#~| msgid "Task"
 #~ msgctxt "@option:check A filter on resource type"
 #~ msgid "Tasks"
 #~ msgstr "Aufgab"
 
 #, fuzzy
-#~| msgid "Task"
 #~ msgctxt "@option:check A filter on resource type"
 #~ msgid "Tags"
 #~ msgstr "Aufgab"
 
 #, fuzzy
-#~| msgid "File"
 #~ msgctxt "@option:check Do filter on type - show only files"
 #~ msgid "Files"
 #~ msgstr "Datei"
 
 #, fuzzy
-#~| msgid "Other"
 #~ msgctxt "@option:check Do filter on type - show everything but files"
 #~ msgid "Other"
 #~ msgstr "Aner"
@@ -9967,7 +8873,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Anonym"
 
 #, fuzzy
-#~| msgid "Regular"
 #~ msgctxt "@item font"
 #~ msgid "Regular"
 #~ msgstr "Normal"
@@ -9976,47 +8881,39 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Wat ass &dat"
 
 #, fuzzy
-#~| msgid "Next year"
 #~ msgctxt "@option next week"
 #~ msgid "Next week"
 #~ msgstr "Nächst Joër"
 
 #, fuzzy
-#~| msgid "Last Name"
 #~ msgctxt "@option last week"
 #~ msgid "Last week"
 #~ msgstr "Familljennumm"
 
 #, fuzzy
-#~| msgid "Monday"
 #~ msgctxt "@info/plain"
 #~ msgid "today"
 #~ msgstr "Méinden"
 
 #, fuzzy
-#~| msgid "Hide &Menubar"
 #~ msgid "Hide Menubar"
 #~ msgstr "&Menübar verstoppen"
 
 #, fuzzy
-#~| msgid "Hide St&atusbar"
 #~ msgid "Hide Statusbar"
 #~ msgstr "St&atusbar vestoppen"
 
 #, fuzzy
-#~| msgid "File"
 #~ msgctxt "option:check A filter on resource type"
 #~ msgid "Files"
 #~ msgstr "Datei"
 
 #, fuzzy
-#~| msgid "%1%"
 #~ msgctxt "@item Author name in about dialog"
 #~ msgid "%1"
 #~ msgstr "%1%"
 
 #, fuzzy
-#~| msgid "Meta"
 #~ msgctxt "option:check A filter on file type - media files"
 #~ msgid "Media"
 #~ msgstr "Meta"
@@ -10033,7 +8930,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Aktioun"
 
 #, fuzzy
-#~| msgid "KIOTest"
 #~ msgid "KrossTest"
 #~ msgstr "KIOTest"
 
@@ -10059,23 +8955,18 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Text net fonnt: \"%1\"."
 
 #, fuzzy
-#~| msgid "KSpell2 Configuration"
 #~ msgid "Sonnet Configuration"
 #~ msgstr "KSpell2-Configuratioun"
 
 #, fuzzy
-#~| msgid "Ignore"
 #~ msgid "I agree"
 #~ msgstr "Ignoréieren"
 
 #, fuzzy
-#~| msgid "Upload Files"
 #~ msgid "Upload Your Own Files..."
 #~ msgstr "Dateien eroplueden"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Devanagari"
 #~ msgctxt "digit set"
 #~ msgid "Devenagari"
 #~ msgstr "Devanagari"
@@ -10093,17 +8984,14 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "schécken."
 
 #, fuzzy
-#~| msgid "Details"
 #~ msgid "Details..."
 #~ msgstr "Detailer"
 
 #, fuzzy
-#~| msgid "New Game"
 #~ msgid "New Tag"
 #~ msgstr "Neit Spill"
 
 #, fuzzy
-#~| msgid "Please select type of the new resource:"
 #~ msgid "Please insert the name of the new tag:"
 #~ msgstr "Wielt w.e.g. den Typ vum neie Modul:"
 
@@ -10112,7 +9000,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Test"
 
 #, fuzzy
-#~| msgid "Print Previe&w..."
 #~ msgid "Loading preview..."
 #~ msgstr "Drocker&virschau..."
 
@@ -10135,12 +9022,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Neien Numm fir den Host"
 
 #, fuzzy
-#~| msgid "Description:"
 #~ msgid "description"
 #~ msgstr "Beschreiwung:"
 
 #, fuzzy
-#~| msgid "Additional Names"
 #~ msgid "Autor Name"
 #~ msgstr "Zousätzlech Nimm"
 
@@ -10149,7 +9034,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Konnt d'Datei net opmaachen."
 
 #, fuzzy
-#~| msgid "Upload Files"
 #~ msgid "Voting failed."
 #~ msgstr "Dateien eroplueden"
 
@@ -10158,67 +9042,54 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Konnt déi nei Datei net erstellen."
 
 #, fuzzy
-#~| msgid "Preview URL:"
 #~ msgid "Previews"
 #~ msgstr "URL-Virschau:"
 
 #, fuzzy
-#~| msgid "Comment"
 #~ msgid "Community"
 #~ msgstr "Kommentar"
 
 #, fuzzy
-#~| msgid "Preview URL:"
 #~ msgid "Preview"
 #~ msgstr "URL-Virschau:"
 
 #, fuzzy
-#~| msgid "BSD"
 #~ msgid "USD"
 #~ msgstr "BSD"
 
 #, fuzzy
-#~| msgid "Print Previe&w..."
 #~ msgid "Uploading preview image and content..."
 #~ msgstr "Drocker&virschau..."
 
 #, fuzzy
-#~| msgid "Successfully uploaded new stuff."
 #~ msgid "Content file successfully uploaded."
 #~ msgstr "Nei Saachen erfollegräich eropgelueden."
 
 #, fuzzy
-#~| msgid "Successfully uploaded new stuff."
 #~ msgid "Preview image successfully uploaded."
 #~ msgstr "Nei Saachen erfollegräich eropgelueden."
 
 #, fuzzy
-#~| msgid "<Merge %1>"
 #~ msgid "Server:"
 #~ msgstr "<Merge %1>"
 
 #, fuzzy
-#~| msgid "&Upload"
 #~ msgid "Upload..."
 #~ msgstr "&Eroplueden"
 
 #, fuzzy
-#~| msgid "Show version information"
 #~ msgid "Fetching provider information..."
 #~ msgstr "Informatiounen iwwert d'Versioun uweisen"
 
 #, fuzzy
-#~| msgid "The requested operation could not be completed"
 #~ msgid "Provider could not be initialized."
 #~ msgstr "Déi gewënschten Operatioun konnt net duerchgefouert ginn"
 
 #, fuzzy
-#~| msgid "Clear the input in the edit field"
 #~ msgid "Please fill out the name field."
 #~ msgstr "Den Inhalt vum Input-Feld läschen"
 
 #, fuzzy
-#~| msgid "Contents"
 #~ msgid "Content Added"
 #~ msgstr "Inhalt"
 
@@ -10276,7 +9147,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Wëllt dir d'KDE-Configuratioun nach eng Kéier lueden?"
 
 #, fuzzy
-#~| msgid "Reload"
 #~ msgctxt "Reload KDE configuration messagebox"
 #~ msgid "Reload"
 #~ msgstr "Nach eng Kéier lueden"
@@ -10434,7 +9304,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Februar"
 
 #, fuzzy
-#~| msgid "March"
 #~ msgctxt "March long"
 #~ msgid "March"
 #~ msgstr "Mäerz"
@@ -10453,7 +9322,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Juli"
 
 #, fuzzy
-#~| msgid "August"
 #~ msgctxt "August long"
 #~ msgid "August"
 #~ msgstr "August"
@@ -10520,151 +9388,121 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Sonnden"
 
 #, fuzzy
-#~| msgid "of Sha`ban"
 #~ msgctxt "Indian National month 1 - ShortNamePossessive"
 #~ msgid "of Cha"
 #~ msgstr "am Sha`ban"
 
 #, fuzzy
-#~| msgctxt "of March"
-#~| msgid "of Mar"
 #~ msgctxt "Indian National month 2 - ShortNamePossessive"
 #~ msgid "of Vai"
 #~ msgstr "Mäe"
 
 #, fuzzy
-#~| msgctxt "of January"
-#~| msgid "of Jan"
 #~ msgctxt "Indian National month 3 - ShortNamePossessive"
 #~ msgid "of Jya"
 #~ msgstr "Jan"
 
 #, fuzzy
-#~| msgid "Kho"
 #~ msgctxt "Indian National month 4 - ShortNamePossessive"
 #~ msgid "of Āsh"
 #~ msgstr "Kho"
 
 #, fuzzy
-#~| msgid "of Sha`ban"
 #~ msgctxt "Indian National month 5 - ShortNamePossessive"
 #~ msgid "of Shr"
 #~ msgstr "am Sha`ban"
 
 #, fuzzy
-#~| msgid "of March"
 #~ msgctxt "Indian National month 6 - ShortNamePossessive"
 #~ msgid "of Bhā"
 #~ msgstr "Mäerz"
 
 #, fuzzy
-#~| msgid "Esf"
 #~ msgctxt "Indian National month 7 - ShortNamePossessive"
 #~ msgid "of Āsw"
 #~ msgstr "Esf"
 
 #, fuzzy
-#~| msgctxt "of March"
-#~| msgid "of Mar"
 #~ msgctxt "Indian National month 8 - ShortNamePossessive"
 #~ msgid "of Kār"
 #~ msgstr "Mäe"
 
 #, fuzzy
-#~| msgctxt "of April"
-#~| msgid "of Apr"
 #~ msgctxt "Indian National month 9 - ShortNamePossessive"
 #~ msgid "of Agr"
 #~ msgstr "Abr"
 
 #, fuzzy
-#~| msgid "Tamuz"
 #~ msgctxt "Indian National month 10 - ShortNamePossessive"
 #~ msgid "of Pau"
 #~ msgstr "Tamuz"
 
 #, fuzzy
-#~| msgctxt "of March"
-#~| msgid "of Mar"
 #~ msgctxt "Indian National month 11 - ShortNamePossessive"
 #~ msgid "of Māg"
 #~ msgstr "Mäe"
 
 #, fuzzy
-#~| msgid "Kho"
 #~ msgctxt "Indian National month 12 - ShortNamePossessive"
 #~ msgid "of Phā"
 #~ msgstr "Kho"
 
 #, fuzzy
-#~| msgid "of Muharram"
 #~ msgctxt "Indian National month 1 - LongNamePossessive"
 #~ msgid "of Chaitra"
 #~ msgstr "am Muharram"
 
 #, fuzzy
-#~| msgid "Nisan"
 #~ msgctxt "Indian National month 3 - LongNamePossessive"
 #~ msgid "of Jyaishtha"
 #~ msgstr "Nisan"
 
 #, fuzzy
-#~| msgid "Shvat"
 #~ msgctxt "Indian National month 5 - LongNamePossessive"
 #~ msgid "of Shrāvana"
 #~ msgstr "Shvat"
 
 #, fuzzy
-#~| msgid "Khordad"
 #~ msgctxt "Indian National month 6 - LongNamePossessive"
 #~ msgid "of Bhādrapad"
 #~ msgstr "Khordad"
 
 #, fuzzy
-#~| msgid "Heshvan"
 #~ msgctxt "Indian National month 7 - LongNamePossessive"
 #~ msgid "of Āshwin"
 #~ msgstr "Heshvan"
 
 #, fuzzy
-#~| msgid "Bahman"
 #~ msgctxt "Indian National month 9 - LongNamePossessive"
 #~ msgid "of Agrahayana"
 #~ msgstr "Bahman"
 
 #, fuzzy
-#~| msgid "of March"
 #~ msgctxt "Indian National month 10 - LongNamePossessive"
 #~ msgid "of Paush"
 #~ msgstr "Mäerz"
 
 #, fuzzy
-#~| msgid "of March"
 #~ msgctxt "Indian National month 11 - LongNamePossessive"
 #~ msgid "of Māgh"
 #~ msgstr "Mäerz"
 
 #, fuzzy
-#~| msgid "Kha"
 #~ msgctxt "Indian National month 1 - ShortName"
 #~ msgid "Cha"
 #~ msgstr "Kha"
 
 #, fuzzy
-#~| msgctxt "January"
-#~| msgid "Jan"
 #~ msgctxt "Indian National month 3 - ShortName"
 #~ msgid "Jya"
 #~ msgstr "Jan"
 
 #, fuzzy
-#~| msgid "Sr."
 #~ msgctxt "Indian National month 5 - ShortName"
 #~ msgid "Shr"
 #~ msgstr "Sr."
 
 #, fuzzy
-#~| msgid "Arb"
 #~ msgctxt "Indian National month 9 - ShortName"
 #~ msgid "Agr"
 #~ msgstr "Arb"
@@ -10675,14 +9513,11 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Paus"
 
 #, fuzzy
-#~| msgid "Chain:"
 #~ msgctxt "Indian National month 1 - LongName"
 #~ msgid "Chaitra"
 #~ msgstr "Ketten:"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Thaana"
 #~ msgctxt "Indian National month 9 - LongName"
 #~ msgid "Agrahayana"
 #~ msgstr "Thaana (Maledivësch)"
@@ -10693,27 +9528,21 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Paus"
 
 #, fuzzy
-#~| msgid "Jom"
 #~ msgctxt "Indian National weekday 1 - ShortDayName"
 #~ msgid "Som"
 #~ msgstr "Jom"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Buhid"
 #~ msgctxt "Indian National weekday 3 - ShortDayName"
 #~ msgid "Bud"
 #~ msgstr "Buhid"
 
 #, fuzzy
-#~| msgctxt "Sunday"
-#~| msgid "Sun"
 #~ msgctxt "Indian National weekday 5 - ShortDayName"
 #~ msgid "Suk"
 #~ msgstr "So"
 
 #, fuzzy
-#~| msgid "Sivan"
 #~ msgctxt "Indian National weekday 6 - ShortDayName"
 #~ msgid "San"
 #~ msgstr "Sivan"
@@ -10869,215 +9698,172 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Yaum al-Ahad"
 
 #, fuzzy
-#~| msgctxt "of March"
-#~| msgid "of Mar"
 #~ msgctxt "of Farvardin short"
 #~ msgid "of Far"
 #~ msgstr "Mäe"
 
 #, fuzzy
-#~| msgid "Ord"
 #~ msgctxt "of Ordibehesht short"
 #~ msgid "of Ord"
 #~ msgstr "Ord"
 
 #, fuzzy
-#~| msgid "Kho"
 #~ msgctxt "of Khordad short"
 #~ msgid "of Kho"
 #~ msgstr "Kho"
 
 #, fuzzy
-#~| msgid "Tir"
 #~ msgctxt "of Tir short"
 #~ msgid "of Tir"
 #~ msgstr "Tir"
 
 #, fuzzy
-#~| msgctxt "of March"
-#~| msgid "of Mar"
 #~ msgctxt "of Mordad short"
 #~ msgid "of Mor"
 #~ msgstr "Mäe"
 
 #, fuzzy
-#~| msgid "of Sha`ban"
 #~ msgctxt "of Shahrivar short"
 #~ msgid "of Sha"
 #~ msgstr "am Sha`ban"
 
 #, fuzzy
-#~| msgid "of March"
 #~ msgctxt "of Mehr short"
 #~ msgid "of Meh"
 #~ msgstr "Mäerz"
 
 #, fuzzy
-#~| msgid "Aba"
 #~ msgctxt "of Aban short"
 #~ msgid "of Aba"
 #~ msgstr "Aba"
 
 #, fuzzy
-#~| msgid "Aza"
 #~ msgctxt "of Azar short"
 #~ msgid "of Aza"
 #~ msgstr "Aza"
 
 #, fuzzy
-#~| msgctxt "of December"
-#~| msgid "of Dec"
 #~ msgctxt "of Dei short"
 #~ msgid "of Dei"
 #~ msgstr "Dez"
 
 #, fuzzy
-#~| msgid "of March"
 #~ msgctxt "of Bahman short"
 #~ msgid "of Bah"
 #~ msgstr "Mäerz"
 
 #, fuzzy
-#~| msgid "Esf"
 #~ msgctxt "of Esfand short"
 #~ msgid "of Esf"
 #~ msgstr "Esf"
 
 #, fuzzy
-#~| msgid "Far"
 #~ msgctxt "Farvardin short"
 #~ msgid "Far"
 #~ msgstr "Far"
 
 #, fuzzy
-#~| msgid "Ord"
 #~ msgctxt "Ordibehesht short"
 #~ msgid "Ord"
 #~ msgstr "Ord"
 
 #, fuzzy
-#~| msgid "Kho"
 #~ msgctxt "Khordad short"
 #~ msgid "Kho"
 #~ msgstr "Kho"
 
 #, fuzzy
-#~| msgid "Tir"
 #~ msgctxt "Tir short"
 #~ msgid "Tir"
 #~ msgstr "Tir"
 
 #, fuzzy
-#~| msgid "Mor"
 #~ msgctxt "Mordad short"
 #~ msgid "Mor"
 #~ msgstr "Mor"
 
 #, fuzzy
-#~| msgid "Sha"
 #~ msgctxt "Shahrivar short"
 #~ msgid "Sha"
 #~ msgstr "Sha"
 
 #, fuzzy
-#~| msgid "Meh"
 #~ msgctxt "Mehr short"
 #~ msgid "Meh"
 #~ msgstr "Meh"
 
 #, fuzzy
-#~| msgid "Aba"
 #~ msgctxt "Aban short"
 #~ msgid "Aba"
 #~ msgstr "Aba"
 
 #, fuzzy
-#~| msgid "Aza"
 #~ msgctxt "Azar short"
 #~ msgid "Aza"
 #~ msgstr "Aza"
 
 #, fuzzy
-#~| msgid "Dei"
 #~ msgctxt "Dei short"
 #~ msgid "Dei"
 #~ msgstr "Dei"
 
 #, fuzzy
-#~| msgid "Bah"
 #~ msgctxt "Bahman short"
 #~ msgid "Bah"
 #~ msgstr "Bah"
 
 #, fuzzy
-#~| msgid "Esf"
 #~ msgctxt "Esfand"
 #~ msgid "Esf"
 #~ msgstr "Esf"
 
 #, fuzzy
-#~| msgid "Farvardin"
 #~ msgid "of Farvardin"
 #~ msgstr "Farvadin"
 
 #, fuzzy
-#~| msgid "Ordibehesht"
 #~ msgid "of Ordibehesht"
 #~ msgstr "Ordibehesht"
 
 #, fuzzy
-#~| msgid "Khordad"
 #~ msgid "of Khordad"
 #~ msgstr "Khordad"
 
 #, fuzzy
-#~| msgid "Tir"
 #~ msgctxt "of Tir long"
 #~ msgid "of Tir"
 #~ msgstr "Tir"
 
 #, fuzzy
-#~| msgid "Mordad"
 #~ msgid "of Mordad"
 #~ msgstr "Mordad"
 
 #, fuzzy
-#~| msgid "Shahrivar"
 #~ msgid "of Shahrivar"
 #~ msgstr "Shahrivar"
 
 #, fuzzy
-#~| msgctxt "of March"
-#~| msgid "of Mar"
 #~ msgid "of Mehr"
 #~ msgstr "Mäe"
 
 #, fuzzy
-#~| msgctxt "of January"
-#~| msgid "of Jan"
 #~ msgid "of Aban"
 #~ msgstr "Jan"
 
 #, fuzzy
-#~| msgctxt "of March"
-#~| msgid "of Mar"
 #~ msgid "of Azar"
 #~ msgstr "Mäe"
 
 #, fuzzy
-#~| msgctxt "of December"
-#~| msgid "of Dec"
 #~ msgctxt "of Dei long"
 #~ msgid "of Dei"
 #~ msgstr "Dez"
 
 #, fuzzy
-#~| msgid "Bahman"
 #~ msgid "of Bahman"
 #~ msgstr "Bahman"
 
 #, fuzzy
-#~| msgid "Esfand"
 #~ msgid "of Esfand"
 #~ msgstr "Esfand"
 
@@ -11091,7 +9877,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Khordad"
 
 #, fuzzy
-#~| msgid "Tir"
 #~ msgctxt "Tir long"
 #~ msgid "Tir"
 #~ msgstr "Tir"
@@ -11112,7 +9897,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Azar"
 
 #, fuzzy
-#~| msgid "Dei"
 #~ msgctxt "Dei long"
 #~ msgid "Dei"
 #~ msgstr "Dei"
@@ -11124,43 +9908,36 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Esfand"
 
 #, fuzzy
-#~| msgid "2sh"
 #~ msgctxt "Do shanbe short"
 #~ msgid "2sh"
 #~ msgstr "2sh"
 
 #, fuzzy
-#~| msgid "3sh"
 #~ msgctxt "Se shanbe short"
 #~ msgid "3sh"
 #~ msgstr "3sh"
 
 #, fuzzy
-#~| msgid "4sh"
 #~ msgctxt "Chahar shanbe short"
 #~ msgid "4sh"
 #~ msgstr "4sh"
 
 #, fuzzy
-#~| msgid "5sh"
 #~ msgctxt "Panj shanbe short"
 #~ msgid "5sh"
 #~ msgstr "5sh"
 
 #, fuzzy
-#~| msgid "Jom"
 #~ msgctxt "Jumee short"
 #~ msgid "Jom"
 #~ msgstr "Jom"
 
 #, fuzzy
-#~| msgid "shn"
 #~ msgctxt "Shanbe short"
 #~ msgid "shn"
 #~ msgstr "shn"
 
 #, fuzzy
-#~| msgid "1sh"
 #~ msgctxt "Yek-shanbe short"
 #~ msgid "1sh"
 #~ msgstr "1sh"
@@ -11187,76 +9964,58 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Yek-shanbe"
 
 #, fuzzy
-#~| msgid "Tishrey"
 #~ msgid "of Tishrey"
 #~ msgstr "Tishrey"
 
 #, fuzzy
-#~| msgid "Heshvan"
 #~ msgid "of Heshvan"
 #~ msgstr "Heshvan"
 
 #, fuzzy
-#~| msgid "Kislev"
 #~ msgid "of Kislev"
 #~ msgstr "Kislev"
 
 #, fuzzy
-#~| msgid "Tevet"
 #~ msgid "of Tevet"
 #~ msgstr "Tevet"
 
 #, fuzzy
-#~| msgid "Shvat"
 #~ msgid "of Shvat"
 #~ msgstr "Shvat"
 
 #, fuzzy
-#~| msgctxt "of March"
-#~| msgid "of Mar"
 #~ msgid "of Adar"
 #~ msgstr "Mäe"
 
 #, fuzzy
-#~| msgid "Nisan"
 #~ msgid "of Nisan"
 #~ msgstr "Nisan"
 
 #, fuzzy
-#~| msgctxt "of March"
-#~| msgid "of Mar"
 #~ msgid "of Iyar"
 #~ msgstr "Mäe"
 
 #, fuzzy
-#~| msgid "Sivan"
 #~ msgid "of Sivan"
 #~ msgstr "Sivan"
 
 #, fuzzy
-#~| msgid "Tamuz"
 #~ msgid "of Tamuz"
 #~ msgstr "Tamuz"
 
 #, fuzzy
-#~| msgctxt "of April"
-#~| msgid "of Apr"
 #~ msgid "of Av"
 #~ msgstr "Abr"
 
 #, fuzzy
-#~| msgctxt "of July"
-#~| msgid "of Jul"
 #~ msgid "of Elul"
 #~ msgstr "Jul"
 
 #, fuzzy
-#~| msgid "Adar I"
 #~ msgid "of Adar I"
 #~ msgstr "Adar I"
 
 #, fuzzy
-#~| msgid "Adar II"
 #~ msgid "of Adar II"
 #~ msgstr "Adar II"
 
@@ -11300,212 +10059,166 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Adar II"
 
 #, fuzzy
-#~| msgid "Copy"
 #~ msgctxt "@item Calendar system"
 #~ msgid "Coptic"
 #~ msgstr "Kopéieren"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Ethiopic"
 #~ msgctxt "@item Calendar system"
 #~ msgid "Ethiopian"
 #~ msgstr "Äthiopësch"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Georgian"
 #~ msgctxt "@item Calendar system"
 #~ msgid "Gregorian"
 #~ msgstr "Georgësch"
 
 #, fuzzy
-#~| msgctxt "QFont"
-#~| msgid "Georgian"
 #~ msgctxt "@item Calendar system"
 #~ msgid "Gregorian (Proleptic)"
 #~ msgstr "Georgësch"
 
 #, fuzzy
-#~| msgid "Hebrew"
 #~ msgctxt "@item Calendar system"
 #~ msgid "Hebrew"
 #~ msgstr "Hebräësch"
 
 #, fuzzy
-#~| msgid "International"
 #~ msgctxt "@item Calendar system"
 #~ msgid "Indian National"
 #~ msgstr "International"
 
 #, fuzzy
-#~| msgctxt "January"
-#~| msgid "Jan"
 #~ msgctxt "@item Calendar system"
 #~ msgid "Julian"
 #~ msgstr "Jan"
 
 #, fuzzy
-#~| msgid "invalid flags"
 #~ msgctxt "@item Calendar system"
 #~ msgid "Invalid Calendar Type"
 #~ msgstr "Ongülteg Werter"
 
 #, fuzzy
-#~| msgid "Kho"
 #~ msgctxt "Coptic month 1 - ShortNamePossessive"
 #~ msgid "of Tho"
 #~ msgstr "Kho"
 
 #, fuzzy
-#~| msgid "Tamuz"
 #~ msgctxt "Coptic month 2 - ShortNamePossessive"
 #~ msgid "of Pao"
 #~ msgstr "Tamuz"
 
 #, fuzzy
-#~| msgid "Shvat"
 #~ msgctxt "Coptic month 3 - ShortNamePossessive"
 #~ msgid "of Hat"
 #~ msgstr "Shvat"
 
 #, fuzzy
-#~| msgid "Nisan"
 #~ msgctxt "Coptic month 4 - ShortNamePossessive"
 #~ msgid "of Kia"
 #~ msgstr "Nisan"
 
 #, fuzzy
-#~| msgctxt "of February"
-#~| msgid "of Feb"
 #~ msgctxt "Coptic month 5 - ShortNamePossessive"
 #~ msgid "of Tob"
 #~ msgstr "Feb"
 
 #, fuzzy
-#~| msgid "of March"
 #~ msgctxt "Coptic month 6 - ShortNamePossessive"
 #~ msgid "of Mes"
 #~ msgstr "Mäerz"
 
 #, fuzzy
-#~| msgctxt "of March"
-#~| msgid "of Mar"
 #~ msgctxt "Coptic month 7 - ShortNamePossessive"
 #~ msgid "of Par"
 #~ msgstr "Mäe"
 
 #, fuzzy
-#~| msgid "Tamuz"
 #~ msgctxt "Coptic month 8 - ShortNamePossessive"
 #~ msgid "of Pam"
 #~ msgstr "Tamuz"
 
 #, fuzzy
-#~| msgid "of March"
 #~ msgctxt "Coptic month 9 - ShortNamePossessive"
 #~ msgid "of Pas"
 #~ msgstr "Mäerz"
 
 #, fuzzy
-#~| msgctxt "of January"
-#~| msgid "of Jan"
 #~ msgctxt "Coptic month 10 - ShortNamePossessive"
 #~ msgid "of Pan"
 #~ msgstr "Jan"
 
 #, fuzzy
-#~| msgctxt "of February"
-#~| msgid "of Feb"
 #~ msgctxt "Coptic month 11 - ShortNamePossessive"
 #~ msgid "of Epe"
 #~ msgstr "Feb"
 
 #, fuzzy
-#~| msgctxt "of March"
-#~| msgid "of Mar"
 #~ msgctxt "Coptic month 12 - ShortNamePossessive"
 #~ msgid "of Meo"
 #~ msgstr "Mäe"
 
 #, fuzzy
-#~| msgid "Kho"
 #~ msgctxt "Coptic month 13 - ShortNamePossessive"
 #~ msgid "of Kou"
 #~ msgstr "Kho"
 
 #, fuzzy
-#~| msgid "Kho"
 #~ msgctxt "Coptic month 1 - LongNamePossessive"
 #~ msgid "of Thoout"
 #~ msgstr "Kho"
 
 #, fuzzy
-#~| msgid "Tamuz"
 #~ msgctxt "Coptic month 2 - LongNamePossessive"
 #~ msgid "of Paope"
 #~ msgstr "Tamuz"
 
 #, fuzzy
-#~| msgid "of Hijjah"
 #~ msgctxt "Coptic month 3 - LongNamePossessive"
 #~ msgid "of Hathor"
 #~ msgstr "am Hijjah"
 
 #, fuzzy
-#~| msgid "Kho"
 #~ msgctxt "Coptic month 4 - LongNamePossessive"
 #~ msgid "of Kiahk"
 #~ msgstr "Kho"
 
 #, fuzzy
-#~| msgid "of October"
 #~ msgctxt "Coptic month 5 - LongNamePossessive"
 #~ msgid "of Tobe"
 #~ msgstr "Oktober"
 
 #, fuzzy
-#~| msgctxt "of March"
-#~| msgid "of Mar"
 #~ msgctxt "Coptic month 6 - LongNamePossessive"
 #~ msgid "of Meshir"
 #~ msgstr "Mäe"
 
 #, fuzzy
-#~| msgid "Tamuz"
 #~ msgctxt "Coptic month 8 - LongNamePossessive"
 #~ msgid "of Parmoute"
 #~ msgstr "Tamuz"
 
 #, fuzzy
-#~| msgid "of March"
 #~ msgctxt "Coptic month 9 - LongNamePossessive"
 #~ msgid "of Pashons"
 #~ msgstr "Mäerz"
 
 #, fuzzy
-#~| msgctxt "of January"
-#~| msgid "of Jan"
 #~ msgctxt "Coptic month 10 - LongNamePossessive"
 #~ msgid "of Paone"
 #~ msgstr "Jan"
 
 #, fuzzy
-#~| msgctxt "of September"
-#~| msgid "of Sep"
 #~ msgctxt "Coptic month 11 - LongNamePossessive"
 #~ msgid "of Epep"
 #~ msgstr "Sep"
 
 #, fuzzy
-#~| msgctxt "of March"
-#~| msgid "of Mar"
 #~ msgctxt "Coptic month 12 - LongNamePossessive"
 #~ msgid "of Mesore"
 #~ msgstr "Mäe"
 
 #, fuzzy
-#~| msgid "Thl"
 #~ msgctxt "Coptic month 1 - ShortName"
 #~ msgid "Tho"
 #~ msgstr "Thl"
@@ -11516,113 +10229,91 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Paus"
 
 #, fuzzy
-#~| msgctxt "Saturday"
-#~| msgid "Sat"
 #~ msgctxt "Coptic month 3 - ShortName"
 #~ msgid "Hat"
 #~ msgstr "Sa"
 
 #, fuzzy
-#~| msgid "Kha"
 #~ msgctxt "Coptic month 4 - ShortName"
 #~ msgid "Kia"
 #~ msgstr "Kha"
 
 #, fuzzy
-#~| msgid "Jom"
 #~ msgctxt "Coptic month 5 - ShortName"
 #~ msgid "Tob"
 #~ msgstr "Jom"
 
 #, fuzzy
-#~| msgid "Yes"
 #~ msgctxt "Coptic month 6 - ShortName"
 #~ msgid "Mes"
 #~ msgstr "Jo"
 
 #, fuzzy
-#~| msgid "Parcel"
 #~ msgctxt "Coptic month 7 - ShortName"
 #~ msgid "Par"
 #~ msgstr "Këscht"
 
 #, fuzzy
-#~| msgid "am"
 #~ msgctxt "Coptic month 8 - ShortName"
 #~ msgid "Pam"
 #~ msgstr "moies"
 
 #, fuzzy
-#~| msgid "Pager"
 #~ msgctxt "Coptic month 9 - ShortName"
 #~ msgid "Pas"
 #~ msgstr "Pager"
 
 #, fuzzy
-#~| msgctxt "toolbar position string"
-#~| msgid "Floating"
 #~ msgctxt "Coptic month 10 - ShortName"
 #~ msgid "Pan"
 #~ msgstr "Schwiewend"
 
 #, fuzzy
-#~| msgid "Escape"
 #~ msgctxt "Coptic month 11 - ShortName"
 #~ msgid "Epe"
 #~ msgstr "Esc"
 
 #, fuzzy
-#~| msgctxt "Monday"
-#~| msgid "Mon"
 #~ msgctxt "Coptic month 12 - ShortName"
 #~ msgid "Meo"
 #~ msgstr "Mé"
 
 #, fuzzy
-#~| msgid "Kho"
 #~ msgctxt "Coptic month 13 - ShortName"
 #~ msgid "Kou"
 #~ msgstr "Kho"
 
 #, fuzzy
-#~| msgctxt "Thursday"
-#~| msgid "Thu"
 #~ msgctxt "Coptic month 1 - LongName"
 #~ msgid "Thoout"
 #~ msgstr "Do"
 
 #, fuzzy
-#~| msgid "Property"
 #~ msgctxt "Coptic month 2 - LongName"
 #~ msgid "Paope"
 #~ msgstr "Eegeschaft"
 
 #, fuzzy
-#~| msgid "Author"
 #~ msgctxt "Coptic month 3 - LongName"
 #~ msgid "Hathor"
 #~ msgstr "Auteur"
 
 #, fuzzy
-#~| msgid "Table:"
 #~ msgctxt "Coptic month 5 - LongName"
 #~ msgid "Tobe"
 #~ msgstr "Tabell:"
 
 #, fuzzy
-#~| msgid "Mehr"
 #~ msgctxt "Coptic month 6 - LongName"
 #~ msgid "Meshir"
 #~ msgstr "Mehr"
 
 #, fuzzy
-#~| msgid "Parameter"
 #~ msgctxt "Coptic month 7 - LongName"
 #~ msgid "Paremhotep"
 #~ msgstr "Parameter"
 
 #, fuzzy
-#~| msgid "Parameter"
 #~ msgctxt "Coptic month 8 - LongName"
 #~ msgid "Parmoute"
 #~ msgstr "Parameter"
@@ -11633,19 +10324,16 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Paus"
 
 #, fuzzy
-#~| msgid "None"
 #~ msgctxt "Coptic month 10 - LongName"
 #~ msgid "Paone"
 #~ msgstr "Keng"
 
 #, fuzzy
-#~| msgid "Escape"
 #~ msgctxt "Coptic month 11 - LongName"
 #~ msgid "Epep"
 #~ msgstr "Esc"
 
 #, fuzzy
-#~| msgid "Pager"
 #~ msgctxt "Coptic weekday 1 - ShortDayName"
 #~ msgid "Pes"
 #~ msgstr "Pager"
@@ -11656,239 +10344,186 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Paus"
 
 #, fuzzy
-#~| msgid "Postal"
 #~ msgctxt "Coptic weekday 6 - ShortDayName"
 #~ msgid "Psa"
 #~ msgstr "Post"
 
 #, fuzzy
-#~| msgid "Personal"
 #~ msgctxt "Coptic weekday 1 - LongDayName"
 #~ msgid "Pesnau"
 #~ msgstr "Perséinlech"
 
 #, fuzzy
-#~| msgid "Comment"
 #~ msgctxt "Coptic weekday 2 - LongDayName"
 #~ msgid "Pshoment"
 #~ msgstr "Kommentar"
 
 #, fuzzy
-#~| msgid "Position"
 #~ msgctxt "Coptic weekday 4 - LongDayName"
 #~ msgid "Ptiou"
 #~ msgstr "Positioun"
 
 #, fuzzy
-#~| msgid "of March"
 #~ msgctxt "Ethiopian month 1 - ShortNamePossessive"
 #~ msgid "of Mes"
 #~ msgstr "Mäerz"
 
 #, fuzzy
-#~| msgid "Tevet"
 #~ msgctxt "Ethiopian month 2 - ShortNamePossessive"
 #~ msgid "of Teq"
 #~ msgstr "Tevet"
 
 #, fuzzy
-#~| msgctxt "of February"
-#~| msgid "of Feb"
 #~ msgctxt "Ethiopian month 3 - ShortNamePossessive"
 #~ msgid "of Hed"
 #~ msgstr "Feb"
 
 #, fuzzy
-#~| msgid "of March"
 #~ msgctxt "Ethiopian month 4 - ShortNamePossessive"
 #~ msgid "of Tah"
 #~ msgstr "Mäerz"
 
 #, fuzzy
-#~| msgid "Tir"
 #~ msgctxt "Ethiopian month 5 - ShortNamePossessive"
 #~ msgid "of Ter"
 #~ msgstr "Tir"
 
 #, fuzzy
-#~| msgctxt "of January"
-#~| msgid "of Jan"
 #~ msgctxt "Ethiopian month 6 - ShortNamePossessive"
 #~ msgid "of Yak"
 #~ msgstr "Jan"
 
 #, fuzzy
-#~| msgctxt "of March"
-#~| msgid "of Mar"
 #~ msgctxt "Ethiopian month 7 - ShortNamePossessive"
 #~ msgid "of Mag"
 #~ msgstr "Mäe"
 
 #, fuzzy
-#~| msgctxt "of May short"
-#~| msgid "of May"
 #~ msgctxt "Ethiopian month 8 - ShortNamePossessive"
 #~ msgid "of Miy"
 #~ msgstr "Mee"
 
 #, fuzzy
-#~| msgctxt "of January"
-#~| msgid "of Jan"
 #~ msgctxt "Ethiopian month 9 - ShortNamePossessive"
 #~ msgid "of Gen"
 #~ msgstr "Jan"
 
 #, fuzzy
-#~| msgctxt "of September"
-#~| msgid "of Sep"
 #~ msgctxt "Ethiopian month 10 - ShortNamePossessive"
 #~ msgid "of Sen"
 #~ msgstr "Sep"
 
 #, fuzzy
-#~| msgid "Tamuz"
 #~ msgctxt "Ethiopian month 11 - ShortNamePossessive"
 #~ msgid "of Ham"
 #~ msgstr "Tamuz"
 
 #, fuzzy
-#~| msgid "of March"
 #~ msgctxt "Ethiopian month 12 - ShortNamePossessive"
 #~ msgid "of Neh"
 #~ msgstr "Mäerz"
 
 #, fuzzy
-#~| msgid "Tamuz"
 #~ msgctxt "Ethiopian month 13 - ShortNamePossessive"
 #~ msgid "of Pag"
 #~ msgstr "Tamuz"
 
 #, fuzzy
-#~| msgctxt "of March"
-#~| msgid "of Mar"
 #~ msgctxt "Ethiopian month 1 - LongNamePossessive"
 #~ msgid "of Meskerem"
 #~ msgstr "Mäe"
 
 #, fuzzy
-#~| msgid "Tevet"
 #~ msgctxt "Ethiopian month 2 - LongNamePossessive"
 #~ msgid "of Tequemt"
 #~ msgstr "Tevet"
 
 #, fuzzy
-#~| msgctxt "of March"
-#~| msgid "of Mar"
 #~ msgctxt "Ethiopian month 3 - LongNamePossessive"
 #~ msgid "of Hedar"
 #~ msgstr "Mäe"
 
 #, fuzzy
-#~| msgid "Bahman"
 #~ msgctxt "Ethiopian month 4 - LongNamePossessive"
 #~ msgid "of Tahsas"
 #~ msgstr "Bahman"
 
 #, fuzzy
-#~| msgid "Tir"
 #~ msgctxt "Ethiopian month 5 - LongNamePossessive"
 #~ msgid "of Ter"
 #~ msgstr "Tir"
 
 #, fuzzy
-#~| msgctxt "of March"
-#~| msgid "of Mar"
 #~ msgctxt "Ethiopian month 6 - LongNamePossessive"
 #~ msgid "of Yakatit"
 #~ msgstr "Mäe"
 
 #, fuzzy
-#~| msgid "of Rajab"
 #~ msgctxt "Ethiopian month 7 - LongNamePossessive"
 #~ msgid "of Magabit"
 #~ msgstr "am Rajab"
 
 #, fuzzy
-#~| msgctxt "of May short"
-#~| msgid "of May"
 #~ msgctxt "Ethiopian month 8 - LongNamePossessive"
 #~ msgid "of Miyazya"
 #~ msgstr "Mee"
 
 #, fuzzy
-#~| msgctxt "of February"
-#~| msgid "of Feb"
 #~ msgctxt "Ethiopian month 9 - LongNamePossessive"
 #~ msgid "of Genbot"
 #~ msgstr "Feb"
 
 #, fuzzy
-#~| msgctxt "of September"
-#~| msgid "of Sep"
 #~ msgctxt "Ethiopian month 10 - LongNamePossessive"
 #~ msgid "of Sene"
 #~ msgstr "Sep"
 
 #, fuzzy
-#~| msgid "Tamuz"
 #~ msgctxt "Ethiopian month 11 - LongNamePossessive"
 #~ msgid "of Hamle"
 #~ msgstr "Tamuz"
 
 #, fuzzy
-#~| msgid "of Sha`ban"
 #~ msgctxt "Ethiopian month 12 - LongNamePossessive"
 #~ msgid "of Nehase"
 #~ msgstr "am Sha`ban"
 
 #, fuzzy
-#~| msgid "Tamuz"
 #~ msgctxt "Ethiopian month 13 - LongNamePossessive"
 #~ msgid "of Pagumen"
 #~ msgstr "Tamuz"
 
 #, fuzzy
-#~| msgid "Yes"
 #~ msgctxt "Ethiopian month 1 - ShortName"
 #~ msgid "Mes"
 #~ msgstr "Jo"
 
 #, fuzzy
-#~| msgctxt "Tuesday"
-#~| msgid "Tue"
 #~ msgctxt "Ethiopian month 2 - ShortName"
 #~ msgid "Teq"
 #~ msgstr "Dë"
 
 #, fuzzy
-#~| msgctxt "Wednesday"
-#~| msgid "Wed"
 #~ msgctxt "Ethiopian month 3 - ShortName"
 #~ msgid "Hed"
 #~ msgstr "Më"
 
 #, fuzzy
-#~| msgid "Trash"
 #~ msgctxt "Ethiopian month 4 - ShortName"
 #~ msgid "Tah"
 #~ msgstr "Dreckskëscht"
 
 #, fuzzy
-#~| msgctxt "Tuesday"
-#~| msgid "Tue"
 #~ msgctxt "Ethiopian month 5 - ShortName"
 #~ msgid "Ter"
 #~ msgstr "Dë"
 
 #, fuzzy
-#~| msgctxt "March"
-#~| msgid "Mar"
 #~ msgctxt "Ethiopian month 7 - ShortName"
 #~ msgid "Mag"
 #~ msgstr "Mäe"
 
 #, fuzzy
-#~| msgid "Modify"
 #~ msgctxt "Ethiopian month 8 - ShortName"
 #~ msgid "Miy"
 #~ msgstr "Änneren"
@@ -11899,132 +10534,106 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Griichësch"
 
 #, fuzzy
-#~| msgid "&Send"
 #~ msgctxt "Ethiopian month 10 - ShortName"
 #~ msgid "Sen"
 #~ msgstr "&Fortschécken"
 
 #, fuzzy
-#~| msgid "am"
 #~ msgctxt "Ethiopian month 11 - ShortName"
 #~ msgid "Ham"
 #~ msgstr "moies"
 
 #, fuzzy
-#~| msgid "Meh"
 #~ msgctxt "Ethiopian month 12 - ShortName"
 #~ msgid "Neh"
 #~ msgstr "Meh"
 
 #, fuzzy
-#~| msgid "Pager"
 #~ msgctxt "Ethiopian month 13 - ShortName"
 #~ msgid "Pag"
 #~ msgstr "Pager"
 
 #, fuzzy
-#~| msgid "Tevet"
 #~ msgctxt "Ethiopian month 2 - LongName"
 #~ msgid "Tequemt"
 #~ msgstr "Tevet"
 
 #, fuzzy
-#~| msgid "Adar"
 #~ msgctxt "Ethiopian month 3 - LongName"
 #~ msgid "Hedar"
 #~ msgstr "Adar"
 
 #, fuzzy
-#~| msgid "Task"
 #~ msgctxt "Ethiopian month 4 - LongName"
 #~ msgid "Tahsas"
 #~ msgstr "Aufgab"
 
 #, fuzzy
-#~| msgctxt "Tuesday"
-#~| msgid "Tue"
 #~ msgctxt "Ethiopian month 5 - LongName"
 #~ msgid "Ter"
 #~ msgstr "Dë"
 
 #, fuzzy
-#~| msgid "&Send"
 #~ msgctxt "Ethiopian month 10 - LongName"
 #~ msgid "Sene"
 #~ msgstr "&Fortschécken"
 
 #, fuzzy
-#~| msgid "Sample"
 #~ msgctxt "Ethiopian month 11 - LongName"
 #~ msgid "Hamle"
 #~ msgstr "Beispill"
 
 #, fuzzy
-#~| msgid "Name"
 #~ msgctxt "Ethiopian month 12 - LongName"
 #~ msgid "Nehase"
 #~ msgstr "Numm"
 
 #, fuzzy
-#~| msgid "Pager"
 #~ msgctxt "Ethiopian month 13 - LongName"
 #~ msgid "Pagumen"
 #~ msgstr "Pager"
 
 #, fuzzy
-#~| msgctxt "September"
-#~| msgid "Sep"
 #~ msgctxt "Ethiopian weekday 1 - ShortDayName"
 #~ msgid "Seg"
 #~ msgstr "Sep"
 
 #, fuzzy
-#~| msgctxt "March"
-#~| msgid "Mar"
 #~ msgctxt "Ethiopian weekday 2 - ShortDayName"
 #~ msgid "Mak"
 #~ msgstr "Mäe"
 
 #, fuzzy
-#~| msgid "Jom"
 #~ msgctxt "Ethiopian weekday 3 - ShortDayName"
 #~ msgid "Rob"
 #~ msgstr "Jom"
 
 #, fuzzy
-#~| msgid "am"
 #~ msgctxt "Ethiopian weekday 4 - ShortDayName"
 #~ msgid "Ham"
 #~ msgstr "moies"
 
 #, fuzzy
-#~| msgid "Arb"
 #~ msgctxt "Ethiopian weekday 5 - ShortDayName"
 #~ msgid "Arb"
 #~ msgstr "Arb"
 
 #, fuzzy
-#~| msgctxt "Wednesday"
-#~| msgid "Wed"
 #~ msgctxt "Ethiopian weekday 6 - ShortDayName"
 #~ msgid "Qed"
 #~ msgstr "Më"
 
 #, fuzzy
-#~| msgctxt "Thursday"
-#~| msgid "Thu"
 #~ msgctxt "Ethiopian weekday 7 - ShortDayName"
 #~ msgid "Ehu"
 #~ msgstr "Do"
 
 #, fuzzy
-#~| msgid "&Send"
 #~ msgctxt "Ethiopian weekday 1 - LongDayName"
 #~ msgid "Segno"
 #~ msgstr "&Fortschécken"
 
 #, fuzzy
-#~| msgid "Jom"
 #~ msgctxt "Ethiopian weekday 3 - LongDayName"
 #~ msgid "Rob"
 #~ msgstr "Jom"
@@ -12035,31 +10644,26 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Paus"
 
 #, fuzzy
-#~| msgid "Arb"
 #~ msgctxt "Ethiopian weekday 5 - LongDayName"
 #~ msgid "Arb"
 #~ msgstr "Arb"
 
 #, fuzzy
-#~| msgid "Name"
 #~ msgctxt "Ethiopian weekday 6 - LongDayName"
 #~ msgid "Qedame"
 #~ msgstr "Numm"
 
 #, fuzzy
-#~| msgid "Most Downloads"
 #~ msgctxt "Sorting order of the list of items in get hot new stuff"
 #~ msgid "Most Downloads"
 #~ msgstr "Am meeschten erofgelueden"
 
 #, fuzzy
-#~| msgid "Installation"
 #~ msgctxt "Sorting order of the list of items in get hot new stuff"
 #~ msgid "Installed only"
 #~ msgstr "Installatioun"
 
 #, fuzzy
-#~| msgid "Download New Stuff"
 #~ msgid "Download New Stuff"
 #~ msgstr "Nei Saachen eroflueden"
 
@@ -12093,12 +10697,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "</qt>"
 
 #, fuzzy
-#~| msgid "Conflict with Global Shortcut"
 #~ msgid "Conflict With Registered Global Shortcut(s)"
 #~ msgstr "Konflikt mat allgemengem Kierzel"
 
 #, fuzzy
-#~| msgid "Shortcut"
 #~ msgid "Shortcut Conflict(s)"
 #~ msgstr "Tastekombinatioun"
 
@@ -12112,23 +10714,19 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Handschrëft"
 
 #, fuzzy
-#~| msgid "Save"
 #~ msgid "Save"
 #~ msgstr "Späicheren"
 
 #, fuzzy
-#~| msgid "Action"
 #~ msgid "Long Action"
 #~ msgstr "Aktioun"
 
 #, fuzzy
-#~| msgid "Open"
 #~ msgctxt "The open file menu entry"
 #~ msgid "Open"
 #~ msgstr "Opmaachen"
 
 #, fuzzy
-#~| msgid "Test"
 #~ msgid "KIdleTest"
 #~ msgstr "Test"
 
@@ -12172,12 +10770,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Ofbriechen"
 
 #, fuzzy
-#~| msgid "Abort"
 #~ msgid "Abort?"
 #~ msgstr "Ofbriechen"
 
 #, fuzzy
-#~| msgid "Download New %1"
 #~ msgctxt ""
 #~ "Hot new stuff offers to Download New Data. Apps can fill in an individual "
 #~ "string here, but Data is the default. This is in an action that gets "
@@ -12186,30 +10782,20 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Nei %1 eroflueden"
 
 #, fuzzy
-#~| msgctxt "QAccel"
-#~| msgid "Plus"
 #~ msgctxt "number-format:integer"
 #~ msgid "us"
 #~ msgstr "Plus"
 
 #, fuzzy
-#~| msgctxt "QAccel"
-#~| msgid "Plus"
 #~ msgctxt "number-format:real"
 #~ msgid "us"
 #~ msgstr "Plus"
 
 #, fuzzy
-#~| msgid "Do Not Store"
 #~ msgid "Do &Not Store"
 #~ msgstr "Net späicheren"
 
 #, fuzzy
-#~| msgid ""
-#~| "Konqueror has the ability to store the password in an encrypted wallet. "
-#~| "When the wallet is unlocked, it can then automatically restore the login "
-#~| "information next time you submit this form. Do you want to store the "
-#~| "information now?"
 #~ msgid ""
 #~ "Konqueror has the ability to store the password in an encrypted wallet. "
 #~ "When the wallet is unlocked, it can then automatically restore the login "
@@ -12221,22 +10807,16 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "Kéier besicht. Wëllt dir d'Informatioun elo späicheren?"
 
 #, fuzzy
-#~| msgid "Back"
 #~ msgctxt "Goes to previous character"
 #~ msgid "Back"
 #~ msgstr "Zeréck"
 
 #, fuzzy
-#~| msgid "Forward"
 #~ msgctxt "Goes to next character"
 #~ msgid "Forward"
 #~ msgstr "No Vir"
 
 #, fuzzy
-#~| msgctxt "Character"
-#~| msgid ""
-#~| "<qt><font size=\"+4\" face=\"%1\">%2</font><br>Unicode code point: U+"
-#~| "%3<br>(In decimal: %4)<br>(Character: %5)</qt>"
 #~ msgctxt "Character"
 #~ msgid ""
 #~ "<qt><font size=\"+4\" face=\"%1\">%2</font><br />%3<br />Unicode code "
@@ -12257,22 +10837,18 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "%1besicht. Wëllt dir d'Informatioun elo späicheren?"
 
 #, fuzzy
-#~| msgid "Comment"
 #~ msgid "Add Elements"
 #~ msgstr "Kommentar"
 
 #, fuzzy
-#~| msgid "Remove Entry"
 #~ msgid "Remove Elements"
 #~ msgstr "Entrée ewechhuelen"
 
 #, fuzzy
-#~| msgid "Replace Text"
 #~ msgid "Replace Element"
 #~ msgstr "Text ersetzen"
 
 #, fuzzy
-#~| msgid "Quit application"
 #~ msgid "Sample KFormula application"
 #~ msgstr "Programm zoumaachen"
 
@@ -12280,7 +10856,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "&Optiounen"
 
 #, fuzzy
-#~| msgid "Untrusted"
 #~ msgid "Unsorted"
 #~ msgstr "Net als sëcher agestuft"
 
@@ -12359,43 +10934,36 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Entschlësselungsfeler."
 
 #, fuzzy
-#~| msgid "Open Recent"
 #~ msgctxt "@action"
 #~ msgid "OpenRecent"
 #~ msgstr "Viru kuerzem opgamaachen Dateien"
 
 #, fuzzy
-#~| msgid "Save As"
 #~ msgctxt "@action"
 #~ msgid "SaveAs"
 #~ msgstr "Späicheren als"
 
 #, fuzzy
-#~| msgid "Print Previe&w..."
 #~ msgctxt "@action"
 #~ msgid "PrintPreview"
 #~ msgstr "Drocker&virschau..."
 
 #, fuzzy
-#~| msgid "&Actual Size"
 #~ msgctxt "@action"
 #~ msgid "ActualSize"
 #~ msgstr "&Richteg Gréisst"
 
 #, fuzzy
-#~| msgid "&Edit Bookmarks"
 #~ msgctxt "@action"
 #~ msgid "EditBookmarks"
 #~ msgstr "Lieszeeche &veränneren"
 
 #, fuzzy
-#~| msgid "Show Toolbar"
 #~ msgctxt "@action"
 #~ msgid "ShowToolbar"
 #~ msgstr "Toolbar weisen"
 
 #, fuzzy
-#~| msgid "Show St&atusbar"
 #~ msgctxt "@action"
 #~ msgid "ShowStatusbar"
 #~ msgstr "St&atusbar weisen"
@@ -12406,19 +10974,16 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Toolbare configuréieren"
 
 #, fuzzy
-#~| msgid "Configure &Notifications..."
 #~ msgctxt "@action"
 #~ msgid "ConfigureNotifications"
 #~ msgstr "&Norichte configuréieren..."
 
 #, fuzzy
-#~| msgid "sets the application name"
 #~ msgctxt "@action"
 #~ msgid "SwitchApplicationLanguage"
 #~ msgstr "Bestëmmt den Numm vun der Uwendung"
 
 #, fuzzy
-#~| msgid "About"
 #~ msgctxt "@action"
 #~ msgid "AboutApp"
 #~ msgstr "Iwwer"
@@ -12432,65 +10997,53 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Englësch"
 
 #, fuzzy
-#~| msgid "Trash"
 #~ msgctxt "@action:inmenu"
 #~ msgid "Empty Trash"
 #~ msgstr "Dreckskëscht"
 
 #, fuzzy
-#~| msgid "&Edit..."
 #~ msgid "&Edit '%1'..."
 #~ msgstr "V&eränneren..."
 
 #, fuzzy
-#~| msgid "Hide %1"
 #~ msgid "&Hide '%1'"
 #~ msgstr "%1 net weisen"
 
 #, fuzzy
-#~| msgid "Show all options"
 #~ msgid "&Show All Entries"
 #~ msgstr "All Optioune weisen"
 
 #, fuzzy
-#~| msgid "&Remove"
 #~ msgid "&Remove '%1'"
 #~ msgstr "&Ewechmaachen"
 
 #, fuzzy
-#~| msgid "Do you really want to execute '%1'? "
 #~ msgctxt "@info"
 #~ msgid "Do you really want to empty the Trash? All items will be deleted."
 #~ msgstr "Wëllt dir '%1' wiirklech lafe loossen? "
 
 #, fuzzy
-#~| msgid "Trash"
 #~ msgctxt "@action:button"
 #~ msgid "Empty Trash"
 #~ msgstr "Dreckskëscht"
 
 #, fuzzy
-#~| msgid "Files"
 #~ msgid "*|All Files"
 #~ msgstr "Dateien"
 
 #, fuzzy
-#~| msgid "&Send Files"
 #~ msgid "All Supported Files"
 #~ msgstr "Dateie &verschécken"
 
 #, fuzzy
-#~| msgid "Hide %1"
 #~ msgid "Drive: %1"
 #~ msgstr "%1 net weisen"
 
 #, fuzzy
-#~| msgid "Show license information"
 #~ msgid "Show Places Navigation Panel"
 #~ msgstr "Lizenzinformatiounen uweisen"
 
 #, fuzzy
-#~| msgid "Bookmarks"
 #~ msgid "Show Bookmarks"
 #~ msgstr "Lieszeechen"
 
@@ -12499,17 +11052,14 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Configuratioun"
 
 #, fuzzy
-#~| msgid "InvalidCA"
 #~ msgid "Invalid URL"
 #~ msgstr "InvalidCA"
 
 #, fuzzy
-#~| msgid "The file '%1' already exists. Do you want to overwrite it?"
 #~ msgid "The file \"%1\" already exists. Do you wish to overwrite it?"
 #~ msgstr "D'Datei '%1' gëtt et schonn. Soll se iwwerschriwwe ginn?"
 
 #, fuzzy
-#~| msgid "File Error"
 #~ msgid "Filename Error"
 #~ msgstr "Dateifeler"
 
@@ -12517,77 +11067,62 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Lieszeechen"
 
 #, fuzzy
-#~| msgctxt "Opposite to End"
-#~| msgid "Home"
 #~ msgctxt "Home Directory"
 #~ msgid "Home"
 #~ msgstr "Ufank"
 
 #, fuzzy
-#~| msgid "New"
 #~ msgid "Network"
 #~ msgstr "Nei"
 
 #, fuzzy
-#~| msgid "NoCARoot"
 #~ msgid "Root"
 #~ msgstr "NoCARoot"
 
 #, fuzzy
-#~| msgid "&Remove"
 #~ msgid "&Release '%1'"
 #~ msgstr "&Ewechmaachen"
 
 #, fuzzy
-#~| msgid "&Remove"
 #~ msgid "&Safely Remove '%1'"
 #~ msgstr "&Ewechmaachen"
 
 #, fuzzy
-#~| msgid "&About %1"
 #~ msgid "&Unmount '%1'"
 #~ msgstr "&Iwwer %1"
 
 #, fuzzy
-#~| msgid "&Open with '%1'"
 #~ msgid "&Eject '%1'"
 #~ msgstr "Mat '%1' &opmaachen"
 
 #, fuzzy
-#~| msgid "An error occurred while loading <B>%1</B>:"
 #~ msgid "An error occurred while accessing '%1', the system responded: %2"
 #~ msgstr "E Feeler ass beim Luede vun <B>%1</B> opgetrueden:"
 
 #, fuzzy
-#~| msgid "An error occurred while loading <B>%1</B>:"
 #~ msgid "An error occurred while accessing '%1'"
 #~ msgstr "E Feeler ass beim Luede vun <B>%1</B> opgetrueden:"
 
 #, fuzzy
-#~| msgid "Custom"
 #~ msgid "Custom Path"
 #~ msgstr "Benotzerdefinéiert"
 
 #, fuzzy
-#~| msgid "Home Phone"
 #~ msgctxt "@title:window"
 #~ msgid "New Folder"
 #~ msgstr "Tëlefon (Doheem)"
 
 #, fuzzy
-#~| msgid "Select Color"
 #~ msgctxt "@title:window"
 #~ msgid "Select Folder"
 #~ msgstr "Faarf auswielen"
 
 #, fuzzy
-#~| msgid "Home Phone"
 #~ msgctxt "@action:button"
 #~ msgid "New Folder..."
 #~ msgstr "Tëlefon (Doheem)"
 
 #, fuzzy
-#~| msgid "Home Phone"
 #~ msgctxt "@action:inmenu"
 #~ msgid "New Folder..."
 #~ msgstr "Tëlefon (Doheem)"
@@ -12598,12 +11133,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Hëllef weisen"
 
 #, fuzzy
-#~| msgid "&Edit..."
 #~ msgid "Edit Places Entry"
 #~ msgstr "V&eränneren..."
 
 #, fuzzy
-#~| msgid "Description:"
 #~ msgid "&Description:"
 #~ msgstr "Beschreiwung:"
 
@@ -12616,58 +11149,47 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Kee Provider gewielt."
 
 #, fuzzy
-#~| msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 #~ msgid ""
 #~ "<qt>Do you really want to delete\n"
 #~ " <b>'%1'</b>?</qt>"
 #~ msgstr "<qt>Sidd dir sëcher, dass dir <b>%1</b> zoumaache wëllt ?</qt>"
 
 #, fuzzy
-#~| msgid "Delete All"
 #~ msgid "Delete File"
 #~ msgstr "Alles Läschen"
 
 #, fuzzy
-#~| msgid "Delete item(s)"
 #~ msgid "Delete Files"
 #~ msgstr "Element(er) läschen"
 
 #, fuzzy
-#~| msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 #~ msgid ""
 #~ "<qt>Do you really want to trash\n"
 #~ " <b>'%1'</b>?</qt>"
 #~ msgstr "<qt>Sidd dir sëcher, dass dir <b>%1</b> zoumaache wëllt ?</qt>"
 
 #, fuzzy
-#~| msgid "Trash"
 #~ msgid "Trash File"
 #~ msgstr "Dreckskëscht"
 
 #, fuzzy
-#~| msgid "Trash"
 #~ msgctxt "to trash"
 #~ msgid "&Trash"
 #~ msgstr "Dreckskëscht"
 
 #, fuzzy
-#~| msgid "Files"
 #~ msgid "Trash Files"
 #~ msgstr "Dateien"
 
 #, fuzzy
-#~| msgctxt "QAccel"
-#~| msgid "Menu"
 #~ msgid "Menu"
 #~ msgstr "Menü"
 
 #, fuzzy
-#~| msgid "Print header"
 #~ msgid "Parent Folder"
 #~ msgstr "Header drécken"
 
 #, fuzzy
-#~| msgid "Home Phone"
 #~ msgid "Home Folder"
 #~ msgstr "Tëlefon (Doheem)"
 
@@ -12675,37 +11197,30 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Nach eng Kéier lueden"
 
 #, fuzzy
-#~| msgid "Sort String"
 #~ msgid "Sorting"
 #~ msgstr "Sortéierungsschlëssel"
 
 #, fuzzy
-#~| msgid "Name"
 #~ msgid "By Name"
 #~ msgstr "Numm"
 
 #, fuzzy
-#~| msgid "Size"
 #~ msgid "By Size"
 #~ msgstr "Gréisst"
 
 #, fuzzy
-#~| msgid "Dates"
 #~ msgid "By Date"
 #~ msgstr "Datum"
 
 #, fuzzy
-#~| msgid "Type"
 #~ msgid "By Type"
 #~ msgstr "Typ"
 
 #, fuzzy
-#~| msgid "&New View"
 #~ msgid "Tree View"
 #~ msgstr "&Nei Siicht"
 
 #, fuzzy
-#~| msgid "Details"
 #~ msgid "Detailed Tree View"
 #~ msgstr "Detailer"
 
@@ -12714,28 +11229,23 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Hëllef weisen"
 
 #, fuzzy
-#~| msgid "Click to select a font"
 #~ msgid "Click for Location Navigation"
 #~ msgstr "Klickt hei, fir eng Schrëft ze wielen"
 
 #, fuzzy
-#~| msgid "Navigation"
 #~ msgid "Navigate"
 #~ msgstr "Navigatioun"
 
 #, fuzzy
-#~| msgid "Show all options"
 #~ msgid "Show Full Path"
 #~ msgstr "All Optioune weisen"
 
 #, fuzzy
-#~| msgid "Business Phone"
 #~ msgctxt "@item Text character set"
 #~ msgid "Chinese"
 #~ msgstr "Tëlefon (Aarbëcht)"
 
 #, fuzzy
-#~| msgid "Print header"
 #~ msgctxt "@info:tooltip"
 #~ msgid "Parent Folder"
 #~ msgstr "Header drécken"
@@ -12755,7 +11265,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Kommentar"
 
 #, fuzzy
-#~| msgid "Author:"
 #~ msgid ""
 #~ "\n"
 #~ "\n"
@@ -12772,7 +11281,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "E-Mail"
 
 #, fuzzy
-#~| msgid "Version:"
 #~ msgid ""
 #~ "\n"
 #~ "\n"
@@ -12781,7 +11289,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Versioun:"
 
 #, fuzzy
-#~| msgid "License:"
 #~ msgid ""
 #~ "\n"
 #~ "\n"
@@ -12790,12 +11297,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Lizenz:"
 
 #, fuzzy
-#~| msgid "About %1"
 #~ msgid "About Plugin \"%1\""
 #~ msgstr "Iwwer %1"
 
 #, fuzzy
-#~| msgid "%1%"
 #~ msgctxt "@info:tooltip Action tooltip in shortcuts configuration"
 #~ msgid "%1"
 #~ msgstr "%1%"
@@ -12805,18 +11310,15 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Virgang fortsetzen"
 
 #, fuzzy
-#~| msgid "None"
 #~ msgctxt "@action no list style"
 #~ msgid "None"
 #~ msgstr "Keng"
 
 #, fuzzy
-#~| msgid "Email"
 #~ msgid "Email:"
 #~ msgstr "E-Mail"
 
 #, fuzzy
-#~| msgid "Show %1"
 #~ msgid "Show:"
 #~ msgstr "%1 weisen"
 
@@ -12833,12 +11335,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Feeler: "
 
 #, fuzzy
-#~| msgid "Latest"
 #~ msgid "qttest"
 #~ msgstr "Dat Neitst"
 
 #, fuzzy
-#~| msgid "Please select type of the new resource:"
 #~ msgid "Please select the file to open."
 #~ msgstr "Wielt w.e.g. den Typ vum neie Modul:"
 
@@ -12908,7 +11408,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "%2"
 
 #, fuzzy
-#~| msgid "Type"
 #~ msgid "Type"
 #~ msgstr "Typ"
 
@@ -12917,14 +11416,12 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Eegeschaften"
 
 #, fuzzy
-#~| msgid "Description:"
 #~ msgid ""
 #~ "Description:\n"
 #~ "\t%1"
 #~ msgstr "Beschreiwung:"
 
 #, fuzzy
-#~| msgid "Popup Menu Context"
 #~ msgctxt "@action"
 #~ msgid "Popup Menu Context"
 #~ msgstr "Kontextmenü"
@@ -12935,8 +11432,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Paus"
 
 #, fuzzy
-#~| msgctxt "concatenation of dates and time"
-#~| msgid "%1 %2"
 #~ msgctxt ""
 #~ "@email-with-name/plain\n"
 #~ "%1 is name, %2 is address"
@@ -12944,34 +11439,27 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "%1 %2"
 
 #, fuzzy
-#~| msgid "Automatic"
 #~ msgid "Automatic choice"
 #~ msgstr "Automatësch"
 
 #, fuzzy
-#~| msgid "View"
 #~ msgid "KDXSView"
 #~ msgstr "Siicht"
 
 #, fuzzy
-#~| msgid "No provider selected."
 #~ msgid "No provider offered DXS access."
 #~ msgstr "Kee Provider gewielt."
 
 #, fuzzy
-#~| msgid "Desktop %1"
 #~ msgid "Desktop: %1"
 #~ msgstr "Büro %1"
 
 #, fuzzy
-#~| msgctxt "Opposite to End"
-#~| msgid "Home"
 #~ msgctxt "@action Opposite to End"
 #~ msgid "Home"
 #~ msgstr "Ufank"
 
 #, fuzzy
-#~| msgid "End"
 #~ msgctxt "@action"
 #~ msgid "End"
 #~ msgstr "Enn"
@@ -12980,17 +11468,14 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "D'Configuratioun gëtt net gespäichert.\n"
 
 #, fuzzy
-#~| msgid "Files"
 #~ msgid "Folders"
 #~ msgstr "Dateien"
 
 #, fuzzy
-#~| msgid "Icons"
 #~ msgid "Small Icons"
 #~ msgstr "Symboler"
 
 #, fuzzy
-#~| msgid "Icons"
 #~ msgid "Large Icons"
 #~ msgstr "Symboler"
 
@@ -12998,17 +11483,14 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Gréisst"
 
 #, fuzzy
-#~| msgid "Other"
 #~ msgid "Owner"
 #~ msgstr "Aner"
 
 #, fuzzy
-#~| msgid "Props"
 #~ msgid "Group"
 #~ msgstr "Eegeschaften"
 
 #, fuzzy
-#~| msgid "Preview not available."
 #~ msgid "No preview available."
 #~ msgstr "Keng Virschau do."
 
@@ -13019,7 +11501,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "D'Bibliothéik %1 huet keng Factory, déi mat KDE kompatibel ass."
 
 #, fuzzy
-#~| msgid "The library %1 does not offer an %2 function."
 #~ msgid "The library %1 does not offer a qt_plugin_instance function."
 #~ msgstr "D'Bibliothéik %1 huet keng %2-Funktioun."
 
@@ -13027,31 +11508,22 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "D'Bibliothéiksdatei \"%1\" ass iwwert äre Wee net fonnt ginn."
 
 #, fuzzy
-#~| msgid "URL:"
 #~ msgid "&URL:"
 #~ msgstr "URL:"
 
 #, fuzzy
-#~| msgid "Re&vert"
 #~ msgid "Reverse"
 #~ msgstr "&Zerécksetzen"
 
 #, fuzzy
-#~| msgid "Use p&laceholders"
 #~ msgid "Separate Folders"
 #~ msgstr "P&lazhaler benotzen"
 
 #, fuzzy
-#~| msgid "C&ase sensitive"
 #~ msgid "Case Insensitive"
 #~ msgstr "Op Grouss-/Klengschreiwung opp&assen"
 
 #, fuzzy
-#~| msgid ""
-#~| "<qt>There was an error when loading the module '%1'.<br><br>The desktop "
-#~| "file (%2) as well as the library (%3) was found but yet the module could "
-#~| "not be loaded properly. Most likely the factory declaration was wrong, "
-#~| "or the create_* function was missing.</qt>"
 #~ msgid ""
 #~ "<qt>There was an error when loading the module '%1'.<br /><br />The "
 #~ "desktop file (%2) as well as the library (%3) was found but yet the "
@@ -13070,13 +11542,11 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "De Modul %1 konnt net geluede ginn."
 
 #, fuzzy
-#~| msgid "+"
 #~ msgctxt "shortcut-key-delimiter"
 #~ msgid "+"
 #~ msgstr "+"
 
 #, fuzzy
-#~| msgid "Curr&ent actions:"
 #~ msgid "Current location"
 #~ msgstr "Ug&ewisen Aktiounen:"
 
@@ -13238,83 +11708,66 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "KDE-Zertifikatsobjekt"
 
 #, fuzzy
-#~| msgid "&Background Color"
 #~ msgid "Background Mode"
 #~ msgstr "Faarf &hannen"
 
 #, fuzzy
-#~| msgid "Japanese"
 #~ msgid "Scanlines"
 #~ msgstr "Japanësch"
 
 #, fuzzy
-#~| msgid "Compiler:"
 #~ msgid "Complex"
 #~ msgstr "Compiler:"
 
 #, fuzzy
-#~| msgid "Appearance"
 #~ msgid "Checkbox Appereance"
 #~ msgstr "Ausgesinn"
 
 #, fuzzy
-#~| msgid "V:"
 #~ msgid "V"
 #~ msgstr "V:"
 
 #, fuzzy
-#~| msgid "OK"
 #~ msgid "O"
 #~ msgstr "OK"
 
 #, fuzzy
-#~| msgid "Translation"
 #~ msgid "Tabbar transition"
 #~ msgstr "Iwwersetzung"
 
 #, fuzzy
-#~| msgid "Stri&keout"
 #~ msgid "Slide out"
 #~ msgstr "&Duerchsträichen"
 
 #, fuzzy
-#~| msgid "NoCARoot"
 #~ msgid "Roll out"
 #~ msgstr "NoCARoot"
 
 #, fuzzy
-#~| msgid "Tile V&ertically"
 #~ msgid "Open vertically"
 #~ msgstr "V&ertikal kachelen"
 
 #, fuzzy
-#~| msgid "Tile V&ertically"
 #~ msgid "Close vertically"
 #~ msgstr "V&ertikal kachelen"
 
 #, fuzzy
-#~| msgid "Expand &Horizontally"
 #~ msgid "Open horizontally"
 #~ msgstr "&Horizontal ausdehnen"
 
 #, fuzzy
-#~| msgid "Expand &Horizontally"
 #~ msgid "Close horizontally"
 #~ msgstr "&Horizontal ausdehnen"
 
 #, fuzzy
-#~| msgid "Popup Menu Context"
 #~ msgid "Popup Menus"
 #~ msgstr "Kontextmenü"
 
 #, fuzzy
-#~| msgid "Show all options"
 #~ msgid "Show icons"
 #~ msgstr "All Optioune weisen"
 
 #, fuzzy
-#~| msgctxt "QAccel"
-#~| msgid "Tab"
 #~ msgid "Tabbar"
 #~ msgstr "Tab"
 
@@ -13322,38 +11775,30 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Plugin fir de Stil am Netz"
 
 #, fuzzy
-#~| msgid "Class"
 #~ msgid "Glass"
 #~ msgstr "Klass"
 
 #, fuzzy
-#~| msgid "Center"
 #~ msgid "XRender"
 #~ msgstr "Mëtt"
 
 #, fuzzy
-#~| msgid "Open"
 #~ msgid "OpenGL"
 #~ msgstr "Opmaachen"
 
 #, fuzzy
-#~| msgid "&Hide Errors"
 #~ msgid "&Hide Entry"
 #~ msgstr "Feeler &verstoppen"
 
 #, fuzzy
-#~| msgid "Add Entry"
 #~ msgid "&Add Entry..."
 #~ msgstr "Entrée dobäimaachen"
 
 #, fuzzy
-#~| msgctxt "QAccel"
-#~| msgid "Standby"
 #~ msgid "Standby"
 #~ msgstr "Standby"
 
 #, fuzzy
-#~| msgid "Alternate"
 #~ msgid "Hibernate"
 #~ msgstr "Alternativ"
 
@@ -13536,12 +11981,10 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ "an der Fënster fir d'Statusinformatiounen."
 
 #, fuzzy
-#~| msgid "Bookmarks"
 #~ msgid "Hide Bookmarks"
 #~ msgstr "Lieszeechen"
 
 #, fuzzy
-#~| msgid "Find Prev"
 #~ msgid "Hide Preview"
 #~ msgstr "Virdru sichen"
 
@@ -13574,7 +12017,6 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Mam Ersetzen ufänken"
 
 #, fuzzy
-#~| msgid "F&ull Screen Mode"
 #~ msgid "F &ull Screen Mode"
 #~ msgstr "&Vollbildmodus"
 
@@ -13586,17 +12028,14 @@ msgstr "<< An d'Wierderbuch Dobäischreiwen"
 #~ msgstr "Manuell"
 
 #, fuzzy
-#~| msgid "Desktop %1"
 #~ msgid "Desktop"
 #~ msgstr "Büro %1"
 
 #, fuzzy
-#~| msgid "Copy"
 #~ msgid "Floppy"
 #~ msgstr "Kopéieren"
 
 #, fuzzy
-#~| msgid "Description:"
 #~ msgid "Enter a description"
 #~ msgstr "Beschreiwung:"
 
