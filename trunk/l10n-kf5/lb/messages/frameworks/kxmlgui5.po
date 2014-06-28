@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-27 20:56+0000\n"
+"POT-Creation-Date: 2014-06-28 08:03+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -891,8 +891,8 @@ msgctxt "What the user inputs now will be taken as the new shortcut"
 msgid "Input"
 msgstr "Quelldatei"
 
-#: kkeysequencewidget.cpp:666 kshortcuteditwidget.cpp:61
-#: kshortcuteditwidget.cpp:64
+#: kkeysequencewidget.cpp:666 kshortcuteditwidget.cpp:63
+#: kshortcuteditwidget.cpp:66
 #, fuzzy
 #| msgid "None"
 msgctxt "No shortcut defined"
@@ -966,13 +966,13 @@ msgstr "Rotschlag vum Dag"
 msgid "The email address to send the bug report to."
 msgstr "D'E-Mail-Adress, wou de Käfer gemellt gëtt."
 
-#: kshortcuteditwidget.cpp:60
+#: kshortcuteditwidget.cpp:62
 #, fuzzy
 #| msgid "Default"
 msgid "Default:"
 msgstr "Standard"
 
-#: kshortcuteditwidget.cpp:68
+#: kshortcuteditwidget.cpp:70
 #, fuzzy
 msgid "Custom:"
 msgstr "&Benotzerdéfinéiert"
