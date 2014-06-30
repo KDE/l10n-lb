@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-06-20 02:00+0000\n"
+"POT-Creation-Date: 2014-06-30 01:58+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -12191,12 +12191,12 @@ msgstr "De Service '%1' huet ën ongültege Format."
 msgid "Launching %1"
 msgstr "%1 gëtt gestart"
 
-#: kinit/klauncher.cpp:1151
+#: kinit/klauncher.cpp:1158
 #, kde-format
 msgid "Unknown protocol '%1'.\n"
 msgstr "Onbekannte Protokoll '%1'.\n"
 
-#: kinit/klauncher.cpp:1219
+#: kinit/klauncher.cpp:1226
 #, kde-format
 msgid "Error loading '%1'.\n"
 msgstr "Feeler beim Luede vun '%1'.\n"
