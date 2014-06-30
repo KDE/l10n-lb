@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-06-18 08:05+0000\n"
+"POT-Creation-Date: 2014-06-30 08:26+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -20,7 +20,7 @@ msgctxt "Name"
 msgid "HTTP Cache Cleaner"
 msgstr "Opraumer fir den HTTP-Zwëschespäicher"
 
-#: src/ioslaves/http/http_cache_cleaner.desktop:36
+#: src/ioslaves/http/http_cache_cleaner.desktop:37
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr "Entfernt al Entréen aus dem HTTP-Zwëschespäicher"
@@ -33,7 +33,7 @@ msgctxt "Name"
 msgid "Cookie Jar"
 msgstr "KDED-Modul fir d'Verwaltung vun de Cookien"
 
-#: src/ioslaves/http/kcookiejar/kcookiejar.desktop:32
+#: src/ioslaves/http/kcookiejar/kcookiejar.desktop:33
 msgctxt "Comment"
 msgid "Stores network cookies"
 msgstr ""
@@ -66,7 +66,7 @@ msgctxt "Name"
 msgid "Network Proxy Configuration"
 msgstr "Automatesch Proxy-Configuratioun"
 
-#: src/kpac/proxyscout.desktop:31
+#: src/kpac/proxyscout.desktop:32
 msgctxt "Comment"
 msgid "Automatic proxy configuration"
 msgstr "Automatesch Proxy-Configuratioun"
@@ -79,7 +79,7 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "Automatesch Proxy-Configuratioun"
 
-#: src/kpac/proxyscout.notifyrc:33
+#: src/kpac/proxyscout.notifyrc:34
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Invalid proxy script"
@@ -87,12 +87,12 @@ msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "Ongültegt Proxy-Skript"
 
-#: src/kpac/proxyscout.notifyrc:63
+#: src/kpac/proxyscout.notifyrc:65
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr "D'Proxy-Configuratiounsskript, dat erofgelude gouf, ass ongülteg"
 
-#: src/kpac/proxyscout.notifyrc:97
+#: src/kpac/proxyscout.notifyrc:100
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Script download error"
@@ -100,12 +100,12 @@ msgctxt "Name"
 msgid "Script Download Error"
 msgstr "Feeler beim Erofluede vum Skript"
 
-#: src/kpac/proxyscout.notifyrc:127
+#: src/kpac/proxyscout.notifyrc:131
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr "D'Proxy-Konfiguratiounsskript konnt net erofgeluede ginn"
 
-#: src/kpac/proxyscout.notifyrc:162
+#: src/kpac/proxyscout.notifyrc:167
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Script evaluation error"
@@ -113,7 +113,7 @@ msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr "Feeler beim Evaluéieren vum Skript"
 
-#: src/kpac/proxyscout.notifyrc:191
+#: src/kpac/proxyscout.notifyrc:197
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "Et gouf e Feeler beim Ausféiere vum Proxy-Konfiguratiounsskript"
@@ -142,7 +142,7 @@ msgctxt "Name"
 msgid "SSL Certificate Policy"
 msgstr "PKCS#12-Zertifikatspak"
 
-#: src/kssld/kssld.desktop:36
+#: src/kssld/kssld.desktop:37
 msgctxt "Comment"
 msgid "Provides SSL certificate policy to applications"
 msgstr ""
@@ -621,7 +621,7 @@ msgctxt "Name"
 msgid "Freecode"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/freecode.desktop:52
+#: src/urifilters/ikws/searchproviders/freecode.desktop:53
 msgctxt "Query"
 msgid "http://freecode.com/search?q=\\\\{@}"
 msgstr ""
@@ -769,7 +769,7 @@ msgctxt "Name"
 msgid "Google Shopping"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/google_shopping.desktop:52
+#: src/urifilters/ikws/searchproviders/google_shopping.desktop:53
 msgctxt "Query"
 msgid "https://www.google.com/search?hl=en&tbm=shop&q=\\\\{@}"
 msgstr ""
@@ -945,7 +945,7 @@ msgctxt "Name"
 msgid "KDE Projects"
 msgstr "Kexi-Projektdatei"
 
-#: src/urifilters/ikws/searchproviders/kde_projects.desktop:51
+#: src/urifilters/ikws/searchproviders/kde_projects.desktop:52
 msgctxt "Query"
 msgid "https://projects.kde.org/search?projects=1&q=\\\\{@}"
 msgstr ""
@@ -1156,7 +1156,7 @@ msgctxt "Name"
 msgid "Qt4 Documentation"
 msgstr "Krita-Dokument"
 
-#: src/urifilters/ikws/searchproviders/qt4.desktop:52
+#: src/urifilters/ikws/searchproviders/qt4.desktop:53
 msgctxt "Query"
 msgid "http://qt-project.org/doc/search/qt-4.8?search=\\\\{@}"
 msgstr ""
@@ -1186,7 +1186,7 @@ msgctxt "Name"
 msgid "Dictionary of the Galician Academy (RAG)"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/rag.desktop:48
+#: src/urifilters/ikws/searchproviders/rag.desktop:49
 msgctxt "Query"
 msgid ""
 "http://www.realacademiagalega.org/dicionario#searchNoun.do?nounTitle=\\\\{@}"
