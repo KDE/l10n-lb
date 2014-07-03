@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-07-01 12:12+0000\n"
+"POT-Creation-Date: 2014-07-03 08:04+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -193,7 +193,7 @@ msgctxt "Name"
 msgid "Amazon"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/amazon.desktop:71
+#: src/urifilters/ikws/searchproviders/amazon.desktop:72
 msgctxt "Query"
 msgid ""
 "http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias=aps&field-keywords=\\"

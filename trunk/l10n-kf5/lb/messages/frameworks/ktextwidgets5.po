@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-27 20:56+0000\n"
+"POT-Creation-Date: 2014-07-03 08:00+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -143,15 +143,15 @@ msgstr "&Ausgewielten Text"
 msgid "&Prompt on replace"
 msgstr "Virum Ersetzen no&froen"
 
-#: findreplace/kfinddialog.cpp:199
+#: findreplace/kfinddialog.cpp:201
 msgid "&Replace"
 msgstr "E&rsetzen"
 
-#: findreplace/kfinddialog.cpp:200
+#: findreplace/kfinddialog.cpp:202
 msgid "Start replace"
 msgstr "Mam Ersetzen ufänken"
 
-#: findreplace/kfinddialog.cpp:201
+#: findreplace/kfinddialog.cpp:203
 msgid ""
 "<qt>If you press the <b>Replace</b> button, the text you entered above is "
 "searched for within the document and any occurrence is replaced with the "
@@ -161,15 +161,15 @@ msgstr ""
 "deem Text, deen dir uewen agin hutt, gesicht, an all Optriede gëtt duerch "
 "den Ersatztext ersat.</qt>"
 
-#: findreplace/kfinddialog.cpp:205
+#: findreplace/kfinddialog.cpp:207
 msgid "&Find"
 msgstr "&Sichen"
 
-#: findreplace/kfinddialog.cpp:206
+#: findreplace/kfinddialog.cpp:208
 msgid "Start searching"
 msgstr "Mat der Sicht ufänken"
 
-#: findreplace/kfinddialog.cpp:207
+#: findreplace/kfinddialog.cpp:209
 msgid ""
 "<qt>If you press the <b>Find</b> button, the text you entered above is "
 "searched for within the document.</qt>"
@@ -177,28 +177,28 @@ msgstr ""
 "<qt>Wann dir op de<b>Sichen</b>-Knäppche klickt, gëtt am Dokument no deem "
 "Text, deen dir uewen agin hutt, gesicht.</qt>"
 
-#: findreplace/kfinddialog.cpp:213
+#: findreplace/kfinddialog.cpp:215
 msgid ""
 "Enter a pattern to search for, or select a previous pattern from the list."
 msgstr ""
 "Gitt w.e.g. e Muster an, no deem gesicht soll ginn, oder wielt ee Muster aus "
 "der Lëscht."
 
-#: findreplace/kfinddialog.cpp:216
+#: findreplace/kfinddialog.cpp:218
 msgid "If enabled, search for a regular expression."
 msgstr "Wann ugeschalt, gëtt no engem regulären Ausdrock gesicht."
 
-#: findreplace/kfinddialog.cpp:218
+#: findreplace/kfinddialog.cpp:220
 msgid "Click here to edit your regular expression using a graphical editor."
 msgstr ""
 "Klickt hei fir mat engem grafëschen Editor un ärem regulären Ausdrock ze "
 "schaffen."
 
-#: findreplace/kfinddialog.cpp:220
+#: findreplace/kfinddialog.cpp:222
 msgid "Enter a replacement string, or select a previous one from the list."
 msgstr "Gitt w.e.g. ën Ersatz-String an, oder wielt een aus der Lëscht."
 
-#: findreplace/kfinddialog.cpp:222
+#: findreplace/kfinddialog.cpp:224
 #, fuzzy
 #| msgid ""
 #| "<qt>If enabled, any occurrence of <code><b>\\N</b></code>, where "
@@ -219,23 +219,23 @@ msgstr ""
 "\\N</b></code> (aus Buchstawen) an ärer Ersetzung mat anzebezéien, setzt e "
 "backslash virdrunn, wéi z.B. <code><b>\\\\N</b></code>.</qt>"
 
-#: findreplace/kfinddialog.cpp:229
+#: findreplace/kfinddialog.cpp:231
 msgid "Click for a menu of available captures."
 msgstr "Klickt fir e Menü mat verfügbaren Treffer ze kréien."
 
-#: findreplace/kfinddialog.cpp:231
+#: findreplace/kfinddialog.cpp:233
 msgid "Require word boundaries in both ends of a match to succeed."
 msgstr "Wuertgrenzen op béide Säite vun engem Treffer gi gebraucht."
 
-#: findreplace/kfinddialog.cpp:233
+#: findreplace/kfinddialog.cpp:235
 msgid "Start searching at the current cursor location rather than at the top."
 msgstr "Beim Cursor mat der Sicht ufänken, amplaz ganz uewen."
 
-#: findreplace/kfinddialog.cpp:235
+#: findreplace/kfinddialog.cpp:237
 msgid "Only search within the current selection."
 msgstr "Nëmme bannent der aktueller Selectioun sichen."
 
-#: findreplace/kfinddialog.cpp:237
+#: findreplace/kfinddialog.cpp:239
 msgid ""
 "Perform a case sensitive search: entering the pattern 'Joe' will not match "
 "'joe' or 'JOE', only 'Joe'."
@@ -243,80 +243,80 @@ msgstr ""
 "Op Grouss- a Klengschreiwung gëtt opgepasst: 'Kevin' ass net dat Selwëcht "
 "wéi 'KEVIN' oder 'kevin'."
 
-#: findreplace/kfinddialog.cpp:240
+#: findreplace/kfinddialog.cpp:242
 msgid "Search backwards."
 msgstr "Hannerzeg sichen."
 
-#: findreplace/kfinddialog.cpp:242
+#: findreplace/kfinddialog.cpp:244
 msgid "Ask before replacing each match found."
 msgstr "Froen, éier en Treffer ersat gëtt."
 
-#: findreplace/kfinddialog.cpp:454
+#: findreplace/kfinddialog.cpp:456
 msgid "Any Character"
 msgstr "Iergendeen Zeechen"
 
-#: findreplace/kfinddialog.cpp:455
+#: findreplace/kfinddialog.cpp:457
 msgid "Start of Line"
 msgstr "Ufank vun der Zeil"
 
-#: findreplace/kfinddialog.cpp:456
+#: findreplace/kfinddialog.cpp:458
 msgid "End of Line"
 msgstr "Enn vun der Linn"
 
-#: findreplace/kfinddialog.cpp:457
+#: findreplace/kfinddialog.cpp:459
 msgid "Set of Characters"
 msgstr "Zeechesaatz"
 
-#: findreplace/kfinddialog.cpp:458
+#: findreplace/kfinddialog.cpp:460
 msgid "Repeats, Zero or More Times"
 msgstr "Widerhuelung (guer net oder e puer Kéieren)"
 
-#: findreplace/kfinddialog.cpp:459
+#: findreplace/kfinddialog.cpp:461
 msgid "Repeats, One or More Times"
 msgstr "Widerhuelung (eng Kéier oder e puer Kéieren)"
 
-#: findreplace/kfinddialog.cpp:460
+#: findreplace/kfinddialog.cpp:462
 msgid "Optional"
 msgstr "Optional"
 
-#: findreplace/kfinddialog.cpp:461
+#: findreplace/kfinddialog.cpp:463
 msgid "Escape"
 msgstr "Esc"
 
-#: findreplace/kfinddialog.cpp:462
+#: findreplace/kfinddialog.cpp:464
 msgid "TAB"
 msgstr "Tab"
 
-#: findreplace/kfinddialog.cpp:463
+#: findreplace/kfinddialog.cpp:465
 msgid "Newline"
 msgstr "Nei Zeil"
 
-#: findreplace/kfinddialog.cpp:464
+#: findreplace/kfinddialog.cpp:466
 msgid "Carriage Return"
 msgstr "Récklaf vum Won"
 
-#: findreplace/kfinddialog.cpp:465
+#: findreplace/kfinddialog.cpp:467
 msgid "White Space"
 msgstr "Eidel Plaz"
 
-#: findreplace/kfinddialog.cpp:466
+#: findreplace/kfinddialog.cpp:468
 msgid "Digit"
 msgstr "Zuel"
 
-#: findreplace/kfinddialog.cpp:568
+#: findreplace/kfinddialog.cpp:570
 msgid "Complete Match"
 msgstr "Vollstänneg Iwwereneestëmmung"
 
-#: findreplace/kfinddialog.cpp:573
+#: findreplace/kfinddialog.cpp:575
 #, kde-format
 msgid "Captured Text (%1)"
 msgstr "Text fonnt (%1)"
 
-#: findreplace/kfinddialog.cpp:581
+#: findreplace/kfinddialog.cpp:583
 msgid "You must enter some text to search for."
 msgstr "Dir musst ën Text agin, no deem der siche wëllt."
 
-#: findreplace/kfinddialog.cpp:590
+#: findreplace/kfinddialog.cpp:592
 msgid "Invalid regular expression."
 msgstr "Ongültege regulären Ausdrock."
 
