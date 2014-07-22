@@ -2416,6 +2416,425 @@ msgctxt "KSqueezedTextLabel|"
 msgid "&Copy Full Text"
 msgstr "Text &kopéieren"
 
+#: kstandardguiitem.cpp:108
+#, fuzzy
+#| msgid "&OK"
+msgctxt "KStandardGuiItem|"
+msgid "&OK"
+msgstr "&OK"
+
+#: kstandardguiitem.cpp:113
+#, fuzzy
+#| msgid "&Cancel"
+msgctxt "KStandardGuiItem|"
+msgid "&Cancel"
+msgstr "&Ofbriechen"
+
+#: kstandardguiitem.cpp:118
+#, fuzzy
+#| msgid "&Yes"
+msgctxt "KStandardGuiItem|"
+msgid "&Yes"
+msgstr "&Jo"
+
+#: kstandardguiitem.cpp:118
+#, fuzzy
+#| msgid "Yes"
+msgctxt "KStandardGuiItem|"
+msgid "Yes"
+msgstr "Jo"
+
+#: kstandardguiitem.cpp:123
+#, fuzzy
+#| msgid "&No"
+msgctxt "KStandardGuiItem|"
+msgid "&No"
+msgstr "&Nee"
+
+#: kstandardguiitem.cpp:123
+#, fuzzy
+#| msgid "No"
+msgctxt "KStandardGuiItem|"
+msgid "No"
+msgstr "Nee"
+
+#: kstandardguiitem.cpp:128
+#, fuzzy
+#| msgid "&Discard"
+msgctxt "KStandardGuiItem|"
+msgid "&Discard"
+msgstr "&Si loossen"
+
+#: kstandardguiitem.cpp:128
+#, fuzzy
+#| msgid "Discard changes"
+msgctxt "KStandardGuiItem|"
+msgid "Discard changes"
+msgstr "Ännerunge verwerfen"
+
+#: kstandardguiitem.cpp:129
+#, fuzzy
+msgctxt "KStandardGuiItem|"
+msgid ""
+"Pressing this button will discard all recent changes made in this dialog."
+msgstr "Dréckt dëse Knäppche fir d'Ännerungen ze verwerfen"
+
+#: kstandardguiitem.cpp:135
+#, fuzzy
+#| msgid "&Save"
+msgctxt "KStandardGuiItem|"
+msgid "&Save"
+msgstr "&Späicheren"
+
+#: kstandardguiitem.cpp:135
+#, fuzzy
+#| msgid "Save data"
+msgctxt "KStandardGuiItem|"
+msgid "Save data"
+msgstr "Date späicheren"
+
+#: kstandardguiitem.cpp:140
+#, fuzzy
+#| msgid "&Do Not Save"
+msgctxt "KStandardGuiItem|"
+msgid "&Do Not Save"
+msgstr "&Net Späicheren"
+
+#: kstandardguiitem.cpp:141
+#, fuzzy
+msgctxt "KStandardGuiItem|"
+msgid "Do not save data"
+msgstr "Daten net späicheren"
+
+#: kstandardguiitem.cpp:146
+#, fuzzy
+#| msgid "Save &As..."
+msgctxt "KStandardGuiItem|"
+msgid "Save &As..."
+msgstr "Späicheren &Als..."
+
+#: kstandardguiitem.cpp:147
+#, fuzzy
+#| msgid "Save file with another name"
+msgctxt "KStandardGuiItem|"
+msgid "Save file with another name"
+msgstr "Ënnert engem aneren Numm späicheren"
+
+#: kstandardguiitem.cpp:152
+#, fuzzy
+#| msgid "&Apply"
+msgctxt "KStandardGuiItem|"
+msgid "&Apply"
+msgstr "&Uwenden"
+
+#: kstandardguiitem.cpp:152
+#, fuzzy
+#| msgid "Apply changes"
+msgctxt "KStandardGuiItem|"
+msgid "Apply changes"
+msgstr "Ännerungen uwenden"
+
+#: kstandardguiitem.cpp:153
+#, fuzzy
+msgctxt "KStandardGuiItem|"
+msgid ""
+"When you click <b>Apply</b>, the settings will be handed over to the "
+"program, but the dialog will not be closed.\n"
+"Use this to try different settings."
+msgstr ""
+"Wann dir op <b>Uwenden</b> klickt, ginn d'Astellungen iwwerholl, ouni dass "
+"d'Fënster zougemaach gëtt.\n"
+"Probéiert domat verschidden Astellungen."
+
+#: kstandardguiitem.cpp:161
+#, fuzzy
+#| msgid "Administrator &Mode..."
+msgctxt "KStandardGuiItem|"
+msgid "Administrator &Mode..."
+msgstr "Systemverwaltungsm&odus..."
+
+#: kstandardguiitem.cpp:161
+#, fuzzy
+#| msgid "Enter Administrator Mode"
+msgctxt "KStandardGuiItem|"
+msgid "Enter Administrator Mode"
+msgstr "An de Systemverwaltungsmodus goen"
+
+#: kstandardguiitem.cpp:162
+#, fuzzy
+msgctxt "KStandardGuiItem|"
+msgid ""
+"When you click <b>Administrator Mode</b> you will be prompted for the "
+"administrator (root) password in order to make changes which require root "
+"privileges."
+msgstr ""
+"Wann dir op <b>Systemverwaltungsmodus</b> klickt, gitt dir nom Root-"
+"Passwuert gefrot fir Ännerunge firzehuelen, déi no Administrator-Rechter "
+"verlaangen."
+
+#: kstandardguiitem.cpp:169
+#, fuzzy
+#| msgid "C&lear"
+msgctxt "KStandardGuiItem|"
+msgid "C&lear"
+msgstr "Eidelmaa&chen"
+
+#: kstandardguiitem.cpp:170
+#, fuzzy
+#| msgid "Clear input"
+msgctxt "KStandardGuiItem|"
+msgid "Clear input"
+msgstr "Input-Feld eidelmaachen"
+
+#: kstandardguiitem.cpp:171
+#, fuzzy
+#| msgid "Clear the input in the edit field"
+msgctxt "KStandardGuiItem|"
+msgid "Clear the input in the edit field"
+msgstr "Den Inhalt vum Input-Feld läschen"
+
+#: kstandardguiitem.cpp:176
+#, fuzzy
+#| msgid "&Help"
+msgctxt "KStandardGuiItem|show help"
+msgid "&Help"
+msgstr "&Hëllef"
+
+#: kstandardguiitem.cpp:177
+#, fuzzy
+#| msgid "Show help"
+msgctxt "KStandardGuiItem|"
+msgid "Show help"
+msgstr "Hëllef weisen"
+
+#: kstandardguiitem.cpp:182
+#, fuzzy
+#| msgid "&Close"
+msgctxt "KStandardGuiItem|"
+msgid "&Close"
+msgstr "&Zoumaachen"
+
+#: kstandardguiitem.cpp:183
+#, fuzzy
+#| msgid "Close the current window or document"
+msgctxt "KStandardGuiItem|"
+msgid "Close the current window or document"
+msgstr "D'Fënster oder d'Dokument zoumaachen"
+
+#: kstandardguiitem.cpp:188
+#, fuzzy
+msgctxt "KStandardGuiItem|"
+msgid "&Close Window"
+msgstr "Fënster zoumaachen?"
+
+#: kstandardguiitem.cpp:189
+#, fuzzy
+msgctxt "KStandardGuiItem|"
+msgid "Close the current window."
+msgstr "D'Fënster oder d'Dokument zoumaachen"
+
+#: kstandardguiitem.cpp:194
+#, fuzzy
+msgctxt "KStandardGuiItem|"
+msgid "&Close Document"
+msgstr "Dokument zoumaachen"
+
+#: kstandardguiitem.cpp:195
+#, fuzzy
+msgctxt "KStandardGuiItem|"
+msgid "Close the current document."
+msgstr "D'Fënster oder d'Dokument zoumaachen"
+
+#: kstandardguiitem.cpp:200
+#, fuzzy
+#| msgid "&Defaults"
+msgctxt "KStandardGuiItem|"
+msgid "&Defaults"
+msgstr "&Standardastellungen"
+
+#: kstandardguiitem.cpp:201
+#, fuzzy
+#| msgid "Reset all items to their default values"
+msgctxt "KStandardGuiItem|"
+msgid "Reset all items to their default values"
+msgstr "All Elementer op hir Standardwerter zerécksetzen"
+
+#: kstandardguiitem.cpp:208
+#, fuzzy
+#| msgid "&Back"
+msgctxt "KStandardGuiItem|go back"
+msgid "&Back"
+msgstr "&Zeréck"
+
+#: kstandardguiitem.cpp:209
+#, fuzzy
+#| msgid "Go back one step"
+msgctxt "KStandardGuiItem|"
+msgid "Go back one step"
+msgstr "Ee Schrack zeréckgoen"
+
+#: kstandardguiitem.cpp:216
+#, fuzzy
+#| msgctxt "go forward"
+#| msgid "&Forward"
+msgctxt "KStandardGuiItem|go forward"
+msgid "&Forward"
+msgstr "&No Vir"
+
+#: kstandardguiitem.cpp:217
+#, fuzzy
+#| msgid "Go forward one step"
+msgctxt "KStandardGuiItem|"
+msgid "Go forward one step"
+msgstr "Ee Schrack no vir goen"
+
+#: kstandardguiitem.cpp:227
+#, fuzzy
+#| msgid "&Print..."
+msgctxt "KStandardGuiItem|"
+msgid "&Print..."
+msgstr "&Drécken..."
+
+#: kstandardguiitem.cpp:228
+#, fuzzy
+#| msgid "Opens the print dialog to print the current document"
+msgctxt "KStandardGuiItem|"
+msgid "Opens the print dialog to print the current document"
+msgstr "Mëcht ën Dialog op, fir dat aktuellt Dokument ze drécken"
+
+#: kstandardguiitem.cpp:234
+#, fuzzy
+#| msgid "C&ontinue"
+msgctxt "KStandardGuiItem|"
+msgid "C&ontinue"
+msgstr "W&eider"
+
+#: kstandardguiitem.cpp:235
+#, fuzzy
+#| msgid "Continue operation"
+msgctxt "KStandardGuiItem|"
+msgid "Continue operation"
+msgstr "Virgang fortsetzen"
+
+#: kstandardguiitem.cpp:240
+#, fuzzy
+#| msgid "&Delete"
+msgctxt "KStandardGuiItem|"
+msgid "&Delete"
+msgstr "&Läschen"
+
+#: kstandardguiitem.cpp:241
+#, fuzzy
+#| msgid "Delete item(s)"
+msgctxt "KStandardGuiItem|"
+msgid "Delete item(s)"
+msgstr "Element(er) läschen"
+
+#: kstandardguiitem.cpp:246
+#, fuzzy
+#| msgid "&Open..."
+msgctxt "KStandardGuiItem|"
+msgid "&Open..."
+msgstr "&Opmaachen..."
+
+#: kstandardguiitem.cpp:247
+#, fuzzy
+#| msgid "Open file"
+msgctxt "KStandardGuiItem|"
+msgid "Open file"
+msgstr "Datei opmaachen"
+
+#: kstandardguiitem.cpp:252
+#, fuzzy
+#| msgid "&Quit"
+msgctxt "KStandardGuiItem|"
+msgid "&Quit"
+msgstr "O&phalen"
+
+#: kstandardguiitem.cpp:253
+#, fuzzy
+#| msgid "Quit application"
+msgctxt "KStandardGuiItem|"
+msgid "Quit application"
+msgstr "Programm zoumaachen"
+
+#: kstandardguiitem.cpp:258
+#, fuzzy
+#| msgid "&Reset"
+msgctxt "KStandardGuiItem|"
+msgid "&Reset"
+msgstr "&Zerécksetzen"
+
+#: kstandardguiitem.cpp:259
+#, fuzzy
+#| msgid "Reset configuration"
+msgctxt "KStandardGuiItem|"
+msgid "Reset configuration"
+msgstr "D'Configuratioun zerécksetzen"
+
+#: kstandardguiitem.cpp:264
+#, fuzzy
+#| msgid "&Insert"
+msgctxt "KStandardGuiItem|Verb"
+msgid "&Insert"
+msgstr "&Asetzen"
+
+#: kstandardguiitem.cpp:269
+#, fuzzy
+#| msgid "Confi&gure..."
+msgctxt "KStandardGuiItem|"
+msgid "Confi&gure..."
+msgstr "Confi&guréieren..."
+
+#: kstandardguiitem.cpp:274
+#, fuzzy
+#| msgid "&Find"
+msgctxt "KStandardGuiItem|"
+msgid "&Find"
+msgstr "&Sichen"
+
+#: kstandardguiitem.cpp:279
+#, fuzzy
+#| msgid "Stop"
+msgctxt "KStandardGuiItem|"
+msgid "Stop"
+msgstr "Stop"
+
+#: kstandardguiitem.cpp:284
+#, fuzzy
+#| msgid "Add"
+msgctxt "KStandardGuiItem|"
+msgid "Add"
+msgstr "Dobäimaachen"
+
+#: kstandardguiitem.cpp:289
+#, fuzzy
+#| msgid "Remove"
+msgctxt "KStandardGuiItem|"
+msgid "Remove"
+msgstr "Ewechmaachen"
+
+#: kstandardguiitem.cpp:294
+#, fuzzy
+#| msgid "Test"
+msgctxt "KStandardGuiItem|"
+msgid "Test"
+msgstr "Test"
+
+#: kstandardguiitem.cpp:299
+#, fuzzy
+#| msgid "Properties"
+msgctxt "KStandardGuiItem|"
+msgid "Properties"
+msgstr "Eegeschaften"
+
+#: kstandardguiitem.cpp:304
+#, fuzzy
+#| msgid "&Overwrite"
+msgctxt "KStandardGuiItem|"
+msgid "&Overwrite"
+msgstr "&Iwwerschreiwen"
+
 #: ktimecombobox.cpp:252
 msgctxt "KTimeComboBox|@info"
 msgid "The time you entered is invalid"
@@ -4627,21 +5046,12 @@ msgstr ""
 #~ msgid "Create new document"
 #~ msgstr "Kierzel läschen"
 
-#~ msgid "&Open..."
-#~ msgstr "&Opmaachen..."
-
 #~ msgid "Open &Recent"
 #~ msgstr "&Viru kuerzem opgemaachen Dateien"
-
-#~ msgid "&Save"
-#~ msgstr "&Späicheren"
 
 #, fuzzy
 #~ msgid "Save document"
 #~ msgstr "Dokument zoumaachen"
-
-#~ msgid "Save &As..."
-#~ msgstr "Späicheren &Als..."
 
 #~ msgid "Re&vert"
 #~ msgstr "&Zerécksetzen"
@@ -4649,9 +5059,6 @@ msgstr ""
 #, fuzzy
 #~ msgid "Close document"
 #~ msgstr "Dokument zoumaachen"
-
-#~ msgid "&Print..."
-#~ msgstr "&Drécken..."
 
 #, fuzzy
 #~ msgid "Print document"
@@ -4663,12 +5070,6 @@ msgstr ""
 
 #~ msgid "&Mail..."
 #~ msgstr "Ver&schécken..."
-
-#~ msgid "&Quit"
-#~ msgstr "O&phalen"
-
-#~ msgid "Quit application"
-#~ msgstr "Programm zoumaachen"
 
 #~ msgid "Re&do"
 #~ msgstr "Nees &zeréck"
@@ -4689,9 +5090,6 @@ msgstr ""
 #, fuzzy
 #~ msgid "Paste clipboard content"
 #~ msgstr "Informatiounen iwwert d'Eroplueden"
-
-#~ msgid "C&lear"
-#~ msgstr "Eidelmaa&chen"
 
 #~ msgid "Select &All"
 #~ msgstr "&Alles auswielen"
@@ -5773,9 +6171,6 @@ msgstr ""
 #~ msgid "Fallback language:"
 #~ msgstr "Standardsprooch:"
 
-#~ msgid "Remove"
-#~ msgstr "Ewechmaachen"
-
 #~ msgid "Tip of the Day"
 #~ msgstr "Rotschlag vum Dag"
 
@@ -5883,9 +6278,6 @@ msgstr ""
 #~ "<qt>Wann dir op den <b>Ersetzen</b>-Knäppche klickt, da gëtt am Dokument "
 #~ "no deem Text, deen dir uewen agin hutt, gesicht, an all Optriede gëtt "
 #~ "duerch den Ersatztext ersat.</qt>"
-
-#~ msgid "&Find"
-#~ msgstr "&Sichen"
 
 #~ msgid "Start searching"
 #~ msgstr "Mat der Sicht ufänken"
@@ -6112,9 +6504,6 @@ msgstr ""
 #, fuzzy
 #~ msgid "Search"
 #~ msgstr "Sichen"
-
-#~ msgid "Stop"
-#~ msgstr "Stop"
 
 #, fuzzy
 #~ msgid " %1/s "
@@ -6760,159 +7149,9 @@ msgstr ""
 #~ msgid "Cut"
 #~ msgstr "Ausschneiden"
 
-#~ msgid "&OK"
-#~ msgstr "&OK"
-
-#~ msgid "&Cancel"
-#~ msgstr "&Ofbriechen"
-
-#~ msgid "&Yes"
-#~ msgstr "&Jo"
-
-#~ msgid "Yes"
-#~ msgstr "Jo"
-
-#~ msgid "&No"
-#~ msgstr "&Nee"
-
-#~ msgid "No"
-#~ msgstr "Nee"
-
-#~ msgid "&Discard"
-#~ msgstr "&Si loossen"
-
-#~ msgid "Discard changes"
-#~ msgstr "Ännerunge verwerfen"
-
-#, fuzzy
-#~ msgid ""
-#~ "Pressing this button will discard all recent changes made in this dialog."
-#~ msgstr "Dréckt dëse Knäppche fir d'Ännerungen ze verwerfen"
-
-#~ msgid "Save data"
-#~ msgstr "Date späicheren"
-
-#~ msgid "&Do Not Save"
-#~ msgstr "&Net Späicheren"
-
-#, fuzzy
-#~ msgid "Do not save data"
-#~ msgstr "Daten net späicheren"
-
-#~ msgid "Save file with another name"
-#~ msgstr "Ënnert engem aneren Numm späicheren"
-
-#~ msgid "&Apply"
-#~ msgstr "&Uwenden"
-
-#~ msgid "Apply changes"
-#~ msgstr "Ännerungen uwenden"
-
-#, fuzzy
-#~ msgid ""
-#~ "When you click <b>Apply</b>, the settings will be handed over to the "
-#~ "program, but the dialog will not be closed.\n"
-#~ "Use this to try different settings."
-#~ msgstr ""
-#~ "Wann dir op <b>Uwenden</b> klickt, ginn d'Astellungen iwwerholl, ouni "
-#~ "dass d'Fënster zougemaach gëtt.\n"
-#~ "Probéiert domat verschidden Astellungen."
-
-#~ msgid "Administrator &Mode..."
-#~ msgstr "Systemverwaltungsm&odus..."
-
-#~ msgid "Enter Administrator Mode"
-#~ msgstr "An de Systemverwaltungsmodus goen"
-
-#, fuzzy
-#~ msgid ""
-#~ "When you click <b>Administrator Mode</b> you will be prompted for the "
-#~ "administrator (root) password in order to make changes which require root "
-#~ "privileges."
-#~ msgstr ""
-#~ "Wann dir op <b>Systemverwaltungsmodus</b> klickt, gitt dir nom Root-"
-#~ "Passwuert gefrot fir Ännerunge firzehuelen, déi no Administrator-Rechter "
-#~ "verlaangen."
-
-#~ msgid "Clear input"
-#~ msgstr "Input-Feld eidelmaachen"
-
-#~ msgid "Clear the input in the edit field"
-#~ msgstr "Den Inhalt vum Input-Feld läschen"
-
-#~ msgid "Show help"
-#~ msgstr "Hëllef weisen"
-
-#~ msgid "Close the current window or document"
-#~ msgstr "D'Fënster oder d'Dokument zoumaachen"
-
-#, fuzzy
-#~ msgid "&Close Window"
-#~ msgstr "Fënster zoumaachen?"
-
-#, fuzzy
-#~ msgid "Close the current window."
-#~ msgstr "D'Fënster oder d'Dokument zoumaachen"
-
-#, fuzzy
-#~ msgid "&Close Document"
-#~ msgstr "Dokument zoumaachen"
-
-#, fuzzy
-#~ msgid "Close the current document."
-#~ msgstr "D'Fënster oder d'Dokument zoumaachen"
-
-#~ msgid "&Defaults"
-#~ msgstr "&Standardastellungen"
-
-#~ msgid "Reset all items to their default values"
-#~ msgstr "All Elementer op hir Standardwerter zerécksetzen"
-
-#~ msgid "Go forward one step"
-#~ msgstr "Ee Schrack no vir goen"
-
-#~ msgid "Opens the print dialog to print the current document"
-#~ msgstr "Mëcht ën Dialog op, fir dat aktuellt Dokument ze drécken"
-
-#~ msgid "C&ontinue"
-#~ msgstr "W&eider"
-
-#~ msgid "Continue operation"
-#~ msgstr "Virgang fortsetzen"
-
-#~ msgid "&Delete"
-#~ msgstr "&Läschen"
-
-#~ msgid "Delete item(s)"
-#~ msgstr "Element(er) läschen"
-
-#~ msgid "Open file"
-#~ msgstr "Datei opmaachen"
-
-#~ msgid "&Reset"
-#~ msgstr "&Zerécksetzen"
-
-#~ msgid "Reset configuration"
-#~ msgstr "D'Configuratioun zerécksetzen"
-
 #~ msgctxt "Verb"
 #~ msgid "&Insert"
 #~ msgstr "&Asetzen"
-
-#~ msgid "Confi&gure..."
-#~ msgstr "Confi&guréieren..."
-
-#~ msgid "Add"
-#~ msgstr "Dobäimaachen"
-
-#~ msgid "Test"
-#~ msgstr "Test"
-
-#~ msgid "Properties"
-#~ msgstr "Eegeschaften"
-
-#~ msgid "&Overwrite"
-#~ msgstr "&Iwwerschreiwen"
 
 #, fuzzy
 #~ msgid "Redo"
@@ -7011,9 +7250,6 @@ msgstr ""
 #~ msgctxt "@option yesterday"
 #~ msgid "Yesterday"
 #~ msgstr "Dënschten"
-
-#~ msgid "&Help"
-#~ msgstr "&Hëllef"
 
 #~ msgid "Clear &History"
 #~ msgstr "&History läschen"
@@ -13393,9 +13629,6 @@ msgstr ""
 
 #~ msgid "Highscore"
 #~ msgstr "Beschtelëscht"
-
-#~ msgid "&Insert"
-#~ msgstr "&Asetzen"
 
 #~ msgid "Show &Statusbar"
 #~ msgstr "&Statusbar weisen"
