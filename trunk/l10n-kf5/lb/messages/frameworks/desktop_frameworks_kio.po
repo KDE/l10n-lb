@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-07-17 08:36+0000\n"
+"POT-Creation-Date: 2014-07-31 08:30+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -56,6 +56,26 @@ msgstr "Microsoft-Media Server-Protokoll"
 #: src/ioslaves/telnet/ktelnetservice5.desktop:10
 msgctxt "Name"
 msgid "KTelnetService"
+msgstr ""
+
+#: src/kcms/webshortcuts/webshortcuts.desktop:14
+msgctxt "Name"
+msgid "Web Shortcuts"
+msgstr ""
+
+#: src/kcms/webshortcuts/webshortcuts.desktop:107
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Configure KDE Resources"
+msgctxt "Comment"
+msgid "Configure web shortcuts"
+msgstr "KDE-Ressourcen astellen"
+
+#: src/kcms/webshortcuts/webshortcuts.desktop:109
+msgctxt "X-KDE-Keywords"
+msgid ""
+"Web Shortcuts,Browsing,WWW,Internet,Internet Filters,Network,Search Engines,"
+"Shortcuts"
 msgstr ""
 
 #: src/kpac/proxyscout.desktop:3
@@ -4513,10 +4533,6 @@ msgstr "Erweiderte Browser-Plugin"
 #~ msgctxt "Name"
 #~ msgid "GZip Filter"
 #~ msgstr "GZip-Filter"
-
-#~ msgctxt "Comment"
-#~ msgid "Configure KDE Resources"
-#~ msgstr "KDE-Ressourcen astellen"
 
 #~ msgctxt "Keywords"
 #~ msgid ""
