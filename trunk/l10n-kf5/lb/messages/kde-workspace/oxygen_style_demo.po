@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kstyle_config\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-07-31 08:23+0000\n"
+"POT-Creation-Date: 2014-08-01 08:47+0000\n"
 "PO-Revision-Date: 2005-12-04 23:09+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -691,20 +691,19 @@ msgstr ""
 msgid "Third Page"
 msgstr ""
 
-#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
-#: ui/oxygensliderdemowidget.ui:29
-msgid "Vertical"
-msgstr ""
-
 #. i18n: ectx: property (title), widget (QGroupBox, groupBox)
-#: ui/oxygensliderdemowidget.ui:74
+#: ui/oxygensliderdemowidget.ui:17
 msgid "Horizontal"
 msgstr ""
 
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: ui/oxygensliderdemowidget.ui:94
+msgid "Vertical"
+msgstr ""
+
 #. i18n: ectx: property (text), widget (QCheckBox, checkBox)
-#. i18n: ectx: property (text), widget (QCheckBox, checkBox_2)
-#: ui/oxygensliderdemowidget.ui:106 ui/oxygensliderdemowidget.ui:126
-msgid "Busy"
+#: ui/oxygensliderdemowidget.ui:139
+msgid "Animate Progress Bars"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, label)
