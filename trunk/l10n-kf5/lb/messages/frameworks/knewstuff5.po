@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-08-07 07:59+0000\n"
+"POT-Creation-Date: 2014-08-08 08:34+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -309,13 +309,116 @@ msgstr "Ubidder vun neie Saachen"
 msgid "All Categories"
 msgstr "Kategorien"
 
+#. i18n: ectx: property (text), widget (QLabel, label_9)
+#. i18n: ectx: property (text), widget (QLabel, m_providerLabel)
+#: downloadwidget.ui:54 uploaddialog.ui:127
+#, fuzzy
+#| msgid "Hide %1"
+msgid "Provider:"
+msgstr "%1 net weisen"
+
+#. i18n: ectx: property (text), widget (QLabel, mCategoryLabel)
+#. i18n: ectx: property (text), widget (QLabel, m_categoryLabel)
+#: downloadwidget.ui:71 uploaddialog.ui:304
+#, fuzzy
+#| msgid "Categories"
+msgid "Category:"
+msgstr "Kategorien"
+
+#. i18n: ectx: property (text), widget (QRadioButton, newestRadio)
+#: downloadwidget.ui:90
+#, fuzzy
+#| msgid "New List"
+msgid "Newest"
+msgstr "Nei Lëscht"
+
+#. i18n: ectx: property (text), widget (QRadioButton, ratingRadio)
+#: downloadwidget.ui:103
+#, fuzzy
+#| msgid "Rating"
+msgid "Rating"
+msgstr "Bewertung"
+
+#. i18n: ectx: property (text), widget (QRadioButton, mostDownloadsRadio)
+#: downloadwidget.ui:110
+#, fuzzy
+#| msgid "Most Downloads"
+msgid "Most downloads"
+msgstr "Am meeschten erofgelueden"
+
+#. i18n: ectx: property (text), widget (QRadioButton, installedRadio)
+#: downloadwidget.ui:117
+#, fuzzy
+#| msgid "Install"
+msgid "Installed"
+msgstr "Installéieren"
+
+#. i18n: ectx: property (text), widget (QLabel, orderLabel)
+#: downloadwidget.ui:175
+msgid "Order by:"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: downloadwidget.ui:185
+#, fuzzy
+#| msgid "S&earch:"
+msgid "Search:"
+msgstr "Siche&n:"
+
+#. i18n: ectx: property (placeholderText), widget (KLineEdit, m_searchEdit)
+#: downloadwidget.ui:211
+#, fuzzy
+#| msgid "Internet Search"
+msgid "Enter search phrase here"
+msgstr "Sicht am Internet"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: downloadwidget.ui:366
+msgid "Author:"
+msgstr "Auteur:"
+
+#. i18n: ectx: property (text), widget (QLabel, homepageLabel)
+#: downloadwidget.ui:391
+msgid "<a href=\"http://opendesktop.org\">Homepage</a>"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QRadioButton, radioUpdate)
+#. i18n: ectx: property (text), widget (QPushButton, updateButton)
+#: downloadwidget.ui:567 ui/itemsgridviewdelegate.cpp:329
+#: ui/itemsviewdelegate.cpp:123 uploaddialog.ui:171
+msgid "Update"
+msgstr "Aktualiséieren"
+
+#. i18n: ectx: property (text), widget (QPushButton, uninstallButton)
+#: downloadwidget.ui:577 ui/itemsgridviewdelegate.cpp:325
+#: ui/itemsviewdelegate.cpp:119
+#, fuzzy
+#| msgid "Install"
+msgid "Uninstall"
+msgstr "Installéieren"
+
+#. i18n: ectx: property (text), widget (QPushButton, becomeFanButton)
+#: downloadwidget.ui:584
+#, fuzzy
+#| msgid "Home Fax"
+msgid "Become a Fan"
+msgstr "Fax Doheem"
+
+#. i18n: ectx: property (text), widget (QPushButton, installButton)
+#: downloadwidget.ui:591 ui/itemsgridviewdelegate.cpp:344
+#: ui/itemsgridviewdelegate.cpp:354 ui/itemsviewdelegate.cpp:138
+#: ui/itemsviewdelegate.cpp:148
+msgid "Install"
+msgstr "Installéieren"
+
 #: ui/entrydetailsdialog.cpp:91
 #, fuzzy, kde-format
 #| msgid "Suggestion List"
 msgid "Details for %1"
 msgstr "Lëscht mat Beispiller"
 
-#: ui/entrydetailsdialog.cpp:105
+#. i18n: ectx: property (text), widget (QLabel, priceLabel_2)
+#: ui/entrydetailsdialog.cpp:105 uploaddialog.ui:230
 #, fuzzy
 #| msgid "Change"
 msgid "Changelog:"
@@ -392,26 +495,11 @@ msgstr "Drocker&virschau..."
 msgid "Details"
 msgstr "Detailer"
 
-#: ui/itemsgridviewdelegate.cpp:325 ui/itemsviewdelegate.cpp:119
-#, fuzzy
-#| msgid "Install"
-msgid "Uninstall"
-msgstr "Installéieren"
-
-#: ui/itemsgridviewdelegate.cpp:329 ui/itemsviewdelegate.cpp:123
-msgid "Update"
-msgstr "Aktualiséieren"
-
 #: ui/itemsgridviewdelegate.cpp:339 ui/itemsviewdelegate.cpp:133
 #, fuzzy
 #| msgid "Update"
 msgid "Updating"
 msgstr "Aktualiséieren"
-
-#: ui/itemsgridviewdelegate.cpp:344 ui/itemsgridviewdelegate.cpp:354
-#: ui/itemsviewdelegate.cpp:138 ui/itemsviewdelegate.cpp:148
-msgid "Install"
-msgstr "Installéieren"
 
 #: ui/itemsgridviewdelegate.cpp:349 ui/itemsviewdelegate.cpp:143
 #, fuzzy
@@ -473,7 +561,8 @@ msgctxt "A link to the website where the get hot new stuff upload can be seen"
 msgid "Visit website"
 msgstr ""
 
-#: uploaddialog.cpp:441
+#. i18n: ectx: property (windowTitle), widget (QWidget, UploadDialog)
+#: uploaddialog.cpp:441 uploaddialog.ui:14
 msgid "Share Hot New Stuff"
 msgstr "Nei Saache sharen"
 
@@ -542,133 +631,179 @@ msgstr "Authentifizéierung"
 msgid "Upload failed: %1"
 msgstr "Dateien eroplueden"
 
+#. i18n: ectx: property (text), widget (QLabel, label_11)
+#: uploaddialog.ui:89
+msgid "Password:"
+msgstr "Passwuert:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_10)
+#: uploaddialog.ui:105
 #, fuzzy
-#~| msgid "Hide %1"
-#~ msgid "Provider:"
-#~ msgstr "%1 net weisen"
+msgid "Username:"
+msgstr "Benotzer:"
 
+#. i18n: ectx: property (text), widget (QLabel, uploadFileLabel)
+#: uploaddialog.ui:148
 #, fuzzy
-#~| msgid "Categories"
-#~ msgid "Category:"
-#~ msgstr "Kategorien"
+#| msgid "File reloaded."
+msgid "File to upload:"
+msgstr "Datei nach eng Kéier gelueden."
 
+#. i18n: ectx: property (text), widget (QRadioButton, radioNewUpload)
+#: uploaddialog.ui:158
 #, fuzzy
-#~| msgid "New List"
-#~ msgid "Newest"
-#~ msgstr "Nei Lëscht"
+#| msgid "&Upload"
+msgid "New Upload"
+msgstr "&Eroplueden"
 
+#. i18n: ectx: property (text), item, widget (KComboBox, mLicenseCombo)
+#: uploaddialog.ui:196
+msgid "GPL"
+msgstr "GPL"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mLicenseCombo)
+#: uploaddialog.ui:201
+msgid "LGPL"
+msgstr "LGPL"
+
+#. i18n: ectx: property (text), item, widget (KComboBox, mLicenseCombo)
+#: uploaddialog.ui:206
+msgid "BSD"
+msgstr "BSD"
+
+#. i18n: ectx: property (text), widget (QLabel, label_8)
+#: uploaddialog.ui:214
+msgid "Description:"
+msgstr "Beschreiwung:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_5)
+#: uploaddialog.ui:240
+msgid "Version:"
+msgstr "Versioun:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_6)
+#: uploaddialog.ui:253
+msgid "License:"
+msgstr "Lizenz:"
+
+#. i18n: ectx: property (text), widget (QLabel, label_12)
+#: uploaddialog.ui:266
+msgid "Please fill out the information about your upload in English."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, label_4)
+#: uploaddialog.ui:282
+msgid "Title:"
+msgstr "Titel:"
+
+#. i18n: ectx: property (toolTip), widget (QLineEdit, mNameEdit)
+#: uploaddialog.ui:317
+msgid "Name of the file as it will appear on the website"
+msgstr ""
+
+#. i18n: ectx: property (whatsThis), widget (QLineEdit, mNameEdit)
+#: uploaddialog.ui:320
+msgid ""
+"This should clearly describe the file content. It can be the same text as "
+"the title of the kvtml file."
+msgstr ""
+
+#. i18n: ectx: property (title), widget (QGroupBox, groupBox_2)
+#: uploaddialog.ui:334
 #, fuzzy
-#~| msgid "Rating"
-#~ msgid "Rating"
-#~ msgstr "Bewertung"
+#| msgid "Preview image: %1\n"
+msgid "Preview Images"
+msgstr "Virschau vum Bild:%1\n"
 
+#. i18n: ectx: property (text), widget (QPushButton, changePreview1Button)
+#. i18n: ectx: property (text), widget (QPushButton, changePreview3Button)
+#. i18n: ectx: property (text), widget (QPushButton, changePreview2Button)
+#: uploaddialog.ui:343 uploaddialog.ui:350 uploaddialog.ui:357
 #, fuzzy
-#~| msgid "Most Downloads"
-#~ msgid "Most downloads"
-#~ msgstr "Am meeschten erofgelueden"
+msgid "Select Preview..."
+msgstr "Komponenten auswielen..."
 
+#. i18n: ectx: property (text), widget (QCheckBox, priceCheckBox)
+#: uploaddialog.ui:433
 #, fuzzy
-#~| msgid "Install"
-#~ msgid "Installed"
-#~ msgstr "Installéieren"
+#| msgid "Ne&ver for This Site"
+msgid "Set a price for this item"
+msgstr "Nie fir &dëss Säit"
 
+#. i18n: ectx: property (title), widget (QGroupBox, priceGroupBox)
+#: uploaddialog.ui:443
 #, fuzzy
-#~| msgid "S&earch:"
-#~ msgid "Search:"
-#~ msgstr "Siche&n:"
+msgid "Price"
+msgstr "Ressource"
 
-#~ msgid "Author:"
-#~ msgstr "Auteur:"
-
+#. i18n: ectx: property (text), widget (QLabel, priceLabel)
+#: uploaddialog.ui:452
 #, fuzzy
-#~| msgid "Home Fax"
-#~ msgid "Become a Fan"
-#~ msgstr "Fax Doheem"
+msgid "Price:"
+msgstr "Ressource"
 
-#~ msgid "Password:"
-#~ msgstr "Passwuert:"
+#. i18n: ectx: property (text), widget (QLabel, priceReasonLabel)
+#: uploaddialog.ui:479
+msgid "Reason for price:"
+msgstr ""
 
+#. i18n: ectx: property (text), widget (QLabel, contentWebsiteLinkLabel)
+#: uploaddialog.ui:596
+msgid "Fetch content link from server"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, creatingContentLabel)
+#: uploaddialog.ui:609
+msgid "Create content on server"
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, creatingContentLabel_2)
+#: uploaddialog.ui:622
 #, fuzzy
-#~ msgid "Username:"
-#~ msgstr "Benotzer:"
+#| msgid "Upload Info"
+msgid "Upload content"
+msgstr "Informatiounen iwwert d'Eroplueden"
 
+#. i18n: ectx: property (text), widget (QLabel, uploadPreview1Label)
+#: uploaddialog.ui:635
 #, fuzzy
-#~| msgid "File reloaded."
-#~ msgid "File to upload:"
-#~ msgstr "Datei nach eng Kéier gelueden."
+#| msgid "Print Previe&w..."
+msgid "Upload first preview"
+msgstr "Drocker&virschau..."
 
+#. i18n: ectx: property (text), widget (QLabel, label_2)
+#: uploaddialog.ui:665
+msgid "Note: You can edit, update and delete your content on the website."
+msgstr ""
+
+#. i18n: ectx: property (text), widget (QLabel, uploadPreview2Label)
+#: uploaddialog.ui:681
 #, fuzzy
-#~| msgid "&Upload"
-#~ msgid "New Upload"
-#~ msgstr "&Eroplueden"
+#| msgid "Print Previe&w..."
+msgid "Upload second preview"
+msgstr "Drocker&virschau..."
 
-#~ msgid "GPL"
-#~ msgstr "GPL"
-
-#~ msgid "LGPL"
-#~ msgstr "LGPL"
-
-#~ msgid "BSD"
-#~ msgstr "BSD"
-
-#~ msgid "Description:"
-#~ msgstr "Beschreiwung:"
-
-#~ msgid "Version:"
-#~ msgstr "Versioun:"
-
-#~ msgid "License:"
-#~ msgstr "Lizenz:"
-
-#~ msgid "Title:"
-#~ msgstr "Titel:"
-
+#. i18n: ectx: property (text), widget (QLabel, uploadPreview3Label)
+#: uploaddialog.ui:694
 #, fuzzy
-#~| msgid "Preview image: %1\n"
-#~ msgid "Preview Images"
-#~ msgstr "Virschau vum Bild:%1\n"
+#| msgid "Print Previe&w..."
+msgid "Upload third preview"
+msgstr "Drocker&virschau..."
 
-#, fuzzy
-#~ msgid "Select Preview..."
-#~ msgstr "Komponenten auswielen..."
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: uploaddialog.ui:739
+msgid ""
+"I ensure that this content does not violate any existing copyright, law or "
+"trademark. I agree for my IP address to be logged. (Distributing content "
+"without the permission of the copyright holder is illegal.)"
+msgstr ""
 
+#. i18n: ectx: property (text), widget (QPushButton, uploadButton)
+#: uploaddialog.ui:764
 #, fuzzy
-#~| msgid "Ne&ver for This Site"
-#~ msgid "Set a price for this item"
-#~ msgstr "Nie fir &dëss Säit"
-
-#, fuzzy
-#~ msgid "Price"
-#~ msgstr "Ressource"
-
-#, fuzzy
-#~ msgid "Price:"
-#~ msgstr "Ressource"
-
-#, fuzzy
-#~| msgid "Upload Info"
-#~ msgid "Upload content"
-#~ msgstr "Informatiounen iwwert d'Eroplueden"
-
-#, fuzzy
-#~| msgid "Print Previe&w..."
-#~ msgid "Upload first preview"
-#~ msgstr "Drocker&virschau..."
-
-#, fuzzy
-#~| msgid "Print Previe&w..."
-#~ msgid "Upload second preview"
-#~ msgstr "Drocker&virschau..."
-
-#, fuzzy
-#~| msgid "Print Previe&w..."
-#~ msgid "Upload third preview"
-#~ msgstr "Drocker&virschau..."
-
-#, fuzzy
-#~| msgid "Start replace"
-#~ msgid "Start Upload"
-#~ msgstr "Mam Ersetzen ufänken"
+#| msgid "Start replace"
+msgid "Start Upload"
+msgstr "Mam Ersetzen ufänken"
 
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"
@@ -9790,11 +9925,6 @@ msgstr "Dateien eroplueden"
 #~ msgctxt "@title:column The Nepomuk resource's RDF type"
 #~ msgid "Resource Type"
 #~ msgstr "Quell wielen"
-
-#, fuzzy
-#~| msgid "Internet Search"
-#~ msgid "Enter Search Terms..."
-#~ msgstr "Sicht am Internet"
 
 #, fuzzy
 #~| msgid "&Contents"
