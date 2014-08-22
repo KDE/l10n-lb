@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-08-08 08:34+0000\n"
+"POT-Creation-Date: 2014-08-22 08:13+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1474,7 +1474,7 @@ msgid "Embeddable component for multipart/mixed"
 msgstr "Abettungsfäheg Komponent fir multipart/mixed"
 
 #: kmultipart/kmultipart.cpp:44
-msgid "Copyright 2001-2011, David Faure <email>faure@kde.org</email>"
+msgid "Copyright 2001-2011, David Faure <faure@kde.org>"
 msgstr ""
 
 #: kmultipart/kmultipart.cpp:337
