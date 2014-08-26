@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-08-19 11:01+0000\n"
+"POT-Creation-Date: 2014-08-26 10:12+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -20,7 +20,7 @@ msgctxt "Name"
 msgid "HTTP Cache Cleaner"
 msgstr "Opraumer fir den HTTP-Zwëschespäicher"
 
-#: src/ioslaves/http/http_cache_cleaner.desktop:42
+#: src/ioslaves/http/http_cache_cleaner.desktop:43
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr "Entfernt al Entréen aus dem HTTP-Zwëschespäicher"
@@ -33,7 +33,7 @@ msgctxt "Name"
 msgid "Cookie Jar"
 msgstr "KDED-Modul fir d'Verwaltung vun de Cookien"
 
-#: src/ioslaves/http/kcookiejar/kcookiejar.desktop:37
+#: src/ioslaves/http/kcookiejar/kcookiejar.desktop:38
 msgctxt "Comment"
 msgid "Stores network cookies"
 msgstr ""
@@ -63,7 +63,7 @@ msgctxt "Name"
 msgid "Web Shortcuts"
 msgstr ""
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:89
+#: src/kcms/webshortcuts/webshortcuts.desktop:90
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure KDE Resources"
@@ -71,7 +71,7 @@ msgctxt "Comment"
 msgid "Configure web shortcuts"
 msgstr "KDE-Ressourcen astellen"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:113
+#: src/kcms/webshortcuts/webshortcuts.desktop:115
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Shortcuts,Browsing,WWW,Internet,Internet Filters,Network,Search Engines,"
@@ -86,7 +86,7 @@ msgctxt "Name"
 msgid "Network Proxy Configuration"
 msgstr "Automatesch Proxy-Configuratioun"
 
-#: src/kpac/proxyscout.desktop:37
+#: src/kpac/proxyscout.desktop:38
 msgctxt "Comment"
 msgid "Automatic proxy configuration"
 msgstr "Automatesch Proxy-Configuratioun"
@@ -99,7 +99,7 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "Automatesch Proxy-Configuratioun"
 
-#: src/kpac/proxyscout.notifyrc:39
+#: src/kpac/proxyscout.notifyrc:40
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Invalid proxy script"
@@ -107,12 +107,12 @@ msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "Ongültegt Proxy-Skript"
 
-#: src/kpac/proxyscout.notifyrc:75
+#: src/kpac/proxyscout.notifyrc:77
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr "D'Proxy-Configuratiounsskript, dat erofgelude gouf, ass ongülteg"
 
-#: src/kpac/proxyscout.notifyrc:115
+#: src/kpac/proxyscout.notifyrc:118
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Script download error"
@@ -120,12 +120,12 @@ msgctxt "Name"
 msgid "Script Download Error"
 msgstr "Feeler beim Erofluede vum Skript"
 
-#: src/kpac/proxyscout.notifyrc:151
+#: src/kpac/proxyscout.notifyrc:155
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr "D'Proxy-Konfiguratiounsskript konnt net erofgeluede ginn"
 
-#: src/kpac/proxyscout.notifyrc:192
+#: src/kpac/proxyscout.notifyrc:197
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Script evaluation error"
@@ -133,7 +133,7 @@ msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr "Feeler beim Evaluéieren vum Skript"
 
-#: src/kpac/proxyscout.notifyrc:226
+#: src/kpac/proxyscout.notifyrc:232
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "Et gouf e Feeler beim Ausféiere vum Proxy-Konfiguratiounsskript"
@@ -162,7 +162,7 @@ msgctxt "Name"
 msgid "SSL Certificate Policy"
 msgstr "PKCS#12-Zertifikatspak"
 
-#: src/kssld/kssld.desktop:42
+#: src/kssld/kssld.desktop:43
 msgctxt "Comment"
 msgid "Provides SSL certificate policy to applications"
 msgstr ""
