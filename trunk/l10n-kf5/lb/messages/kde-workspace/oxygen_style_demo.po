@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kstyle_config\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-09-06 08:15+0000\n"
+"POT-Creation-Date: 2014-09-17 07:46+0000\n"
 "PO-Revision-Date: 2005-12-04 23:09+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Generator: KBabel 1.11\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: main.cpp:42 oxygendemodialog.cpp:55 oxygendemodialog.cpp:197
+#: main.cpp:53 oxygendemodialog.cpp:55 oxygendemodialog.cpp:197
 msgid "Oxygen Demo"
 msgstr ""
 
