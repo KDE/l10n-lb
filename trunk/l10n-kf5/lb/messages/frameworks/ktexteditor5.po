@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-09-27 08:02+0000\n"
+"POT-Creation-Date: 2014-09-30 10:06+0000\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -3853,7 +3853,7 @@ msgstr ""
 msgid "F&ind:"
 msgstr "Fannen"
 
-#. i18n: ectx: property (toolTip), widget (KComboBox, pattern)
+#. i18n: ectx: property (toolTip), widget (QComboBox, pattern)
 #: search/searchbarincremental.ui:60 search/searchbarpower.ui:54
 msgid "Text to search for"
 msgstr ""
@@ -3903,7 +3903,7 @@ msgstr ""
 msgid "Rep&lace:"
 msgstr "E&rsetzen"
 
-#. i18n: ectx: property (toolTip), widget (KComboBox, replacement)
+#. i18n: ectx: property (toolTip), widget (QComboBox, replacement)
 #: search/searchbarpower.ui:111
 msgid "Text to replace with"
 msgstr ""
