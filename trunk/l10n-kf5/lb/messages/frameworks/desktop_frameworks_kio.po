@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-10-04 08:19+0000\n"
+"POT-Creation-Date: 2014-10-05 08:21+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -59,17 +59,17 @@ msgid "KTelnetService"
 msgstr ""
 
 #: src/ioslaves/trash/kcmtrash.desktop:1
-#: src/ioslaves/trash/kcmtrash.desktop:147
+#: src/ioslaves/trash/kcmtrash.desktop:153
 msgctxt "Name"
 msgid "Trash"
 msgstr ""
 
-#: src/ioslaves/trash/kcmtrash.desktop:69
+#: src/ioslaves/trash/kcmtrash.desktop:72
 msgctxt "Comment"
 msgid "This service allows configuration of the trash."
 msgstr ""
 
-#: src/ioslaves/trash/kcmtrash.desktop:215
+#: src/ioslaves/trash/kcmtrash.desktop:224
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure KDE Resources"
@@ -77,7 +77,7 @@ msgctxt "Comment"
 msgid "Configure trash settings"
 msgstr "KDE-Ressourcen astellen"
 
-#: src/ioslaves/trash/kcmtrash.desktop:282
+#: src/ioslaves/trash/kcmtrash.desktop:294
 msgctxt "X-KDE-Keywords"
 msgid "trash"
 msgstr ""
