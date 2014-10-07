@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-09-29 07:45+0000\n"
+"POT-Creation-Date: 2014-10-07 10:10+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -518,6 +518,12 @@ msgstr "Nächsten"
 msgid "Finish"
 msgstr "&Fäerdeg"
 
+#: uploaddialog.cpp:173
+#, fuzzy
+#| msgid "Show version information"
+msgid "Fetching provider information..."
+msgstr "Informatiounen iwwert d'Versioun uweisen"
+
 #: uploaddialog.cpp:180
 msgid "Fetching license data from server..."
 msgstr ""
@@ -525,6 +531,12 @@ msgstr ""
 #: uploaddialog.cpp:187
 msgid "Fetching content data from server..."
 msgstr ""
+
+#: uploaddialog.cpp:262
+#, fuzzy
+#| msgid "Show version information"
+msgid "Could not fetch provider information."
+msgstr "Informatiounen iwwert d'Versioun uweisen"
 
 #: uploaddialog.cpp:286
 msgid "Register a new account"
@@ -10215,11 +10227,6 @@ msgstr "Mam Ersetzen ufänken"
 #~| msgid "&Upload"
 #~ msgid "Upload..."
 #~ msgstr "&Eroplueden"
-
-#, fuzzy
-#~| msgid "Show version information"
-#~ msgid "Fetching provider information..."
-#~ msgstr "Informatiounen iwwert d'Versioun uweisen"
 
 #, fuzzy
 #~| msgid "The requested operation could not be completed"
