@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio_nfs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-09-23 10:16+0000\n"
+"POT-Creation-Date: 2014-10-17 08:22+0000\n"
 "PO-Revision-Date: 2005-12-23 21:10+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -16,22 +16,45 @@ msgstr ""
 "X-Generator: KBabel 1.11\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: kio_nfs.cpp:888
-msgid "An RPC error occurred."
-msgstr "En RPC-Feeler ass opgetrueden."
+#: kio_nfs.cpp:131
+#, kde-format
+msgid "%1: Unsupported NFS version"
+msgstr ""
 
-#: kio_nfs.cpp:932
+#: kio_nfs.cpp:654
+#, kde-format
+msgid "RPC error %1"
+msgstr ""
+
+#: kio_nfs.cpp:697
 msgid "No space left on device"
 msgstr "Keng Plaz méi um Gerät"
 
-#: kio_nfs.cpp:935
+#: kio_nfs.cpp:700
 msgid "Read only file system"
 msgstr "Nëmme-liesen Dateisystem."
 
-#: kio_nfs.cpp:938
+#: kio_nfs.cpp:703
 msgid "Filename too long"
 msgstr "Dateinumm zevill laang"
 
-#: kio_nfs.cpp:945
+#: kio_nfs.cpp:710
 msgid "Disk quota exceeded"
 msgstr "Späicherlimit um Dateisystem iwwerschratt"
+
+#: kio_nfs.cpp:716
+#, kde-format
+msgid "NFS error %1 - %2"
+msgstr ""
+
+#: nfsv2.cpp:260 nfsv3.cpp:275
+#, kde-format
+msgid "Failed to mount %1"
+msgstr ""
+
+#: nfsv2.cpp:431 nfsv2.cpp:492 nfsv3.cpp:447 nfsv3.cpp:612
+msgid "Unknown target"
+msgstr ""
+
+#~ msgid "An RPC error occurred."
+#~ msgstr "En RPC-Feeler ass opgetrueden."
