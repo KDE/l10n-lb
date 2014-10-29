@@ -1248,54 +1248,54 @@ msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Specials"
 msgstr ""
 
-#: kcharselect.cpp:355 kcharselect.cpp:357
+#: kcharselect.cpp:358 kcharselect.cpp:360
 msgctxt "KCharSelect|"
 msgid "Enter a search term or character here"
 msgstr ""
 
-#: kcharselect.cpp:362
+#: kcharselect.cpp:365
 #, fuzzy
 #| msgid "&Find..."
 msgctxt "KCharSelect|"
 msgid "&Find..."
 msgstr "&Sichen..."
 
-#: kcharselect.cpp:383
+#: kcharselect.cpp:385
 #, fuzzy
 #| msgid "Previous Item in List"
 msgctxt "KCharSelect|Goes to previous character"
 msgid "Previous in History"
 msgstr "Element an der Lëscht virdrunn"
 
-#: kcharselect.cpp:385
+#: kcharselect.cpp:387
 #, fuzzy
 #| msgid "Previous year"
 msgctxt "KCharSelect|"
 msgid "Previous Character in History"
 msgstr "Joër virdrunn"
 
-#: kcharselect.cpp:390
+#: kcharselect.cpp:392
 #, fuzzy
 #| msgid "Next Item in List"
 msgctxt "KCharSelect|Goes to next character"
 msgid "Next in History"
 msgstr "Nächst Element an der Lëscht"
 
-#: kcharselect.cpp:392
+#: kcharselect.cpp:394
 #, fuzzy
 #| msgid "Set of Characters"
 msgctxt "KCharSelect|"
 msgid "Next Character in History"
 msgstr "Zeechesaatz"
 
-#: kcharselect.cpp:397
+#: kcharselect.cpp:399
 #, fuzzy
 #| msgid "&Back"
 msgctxt "KCharSelect|go back"
 msgid "&Back"
 msgstr "&Zeréck"
 
-#: kcharselect.cpp:405
+#: kcharselect.cpp:406
 #, fuzzy
 #| msgctxt "go forward"
 #| msgid "&Forward"
