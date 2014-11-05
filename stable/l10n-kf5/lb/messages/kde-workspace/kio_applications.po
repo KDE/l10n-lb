@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio_settings\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-27 20:55+0000\n"
+"POT-Creation-Date: 2014-11-05 09:08+0000\n"
 "PO-Revision-Date: 2005-12-24 11:39+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -16,15 +16,15 @@ msgstr ""
 "X-Generator: KBabel 1.11\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: kio_applications.cpp:122
+#: kio_applications.cpp:125
 msgid "Applications"
 msgstr "Applicatiounen"
 
-#: kio_applications.cpp:122
+#: kio_applications.cpp:125
 msgid "Programs"
 msgstr "Programmer"
 
-#: kio_applications.cpp:129
+#: kio_applications.cpp:132
 #, fuzzy
 #| msgid "Unknown settings folder"
 msgid "Unknown application folder"
