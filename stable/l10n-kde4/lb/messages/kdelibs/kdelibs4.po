@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-11-14 05:42+0000\n"
+"POT-Creation-Date: 2014-12-01 05:26+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -12105,7 +12105,7 @@ msgstr "Nie fir &dëss Säit"
 msgid "Do &not store this time"
 msgstr "Dëss Noricht net méi weisen"
 
-#: khtml/xml/dom_docimpl.cpp:2256
+#: khtml/xml/dom_docimpl.cpp:2268
 msgid "Basic Page Style"
 msgstr "Grondstil"
 
