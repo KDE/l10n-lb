@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-12-13 07:55+0000\n"
+"POT-Creation-Date: 2015-01-07 07:51+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -344,7 +344,7 @@ msgstr "Verschécken"
 msgid "Reset"
 msgstr "Zerécksetzen"
 
-#: html/html_formimpl.cpp:2828
+#: html/html_formimpl.cpp:2824
 #, fuzzy
 #| msgid "General"
 msgid "Key Generator"
