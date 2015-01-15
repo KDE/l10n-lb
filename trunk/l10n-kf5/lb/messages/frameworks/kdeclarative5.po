@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-04-27 20:57+0000\n"
+"POT-Creation-Date: 2015-01-15 07:48+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -76,6 +76,44 @@ msgstr ""
 #| msgid "Untrusted"
 msgid "Unsupported Key"
 msgstr "Net als sëcher agestuft"
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:37
+msgid "Undo"
+msgstr "Réckgängeg"
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:45
+#, fuzzy
+#| msgid "Redo"
+msgid "Redo"
+msgstr "Nees zeréck"
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:54
+msgid "Cut"
+msgstr "Ausschneiden"
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:62
+msgid "Copy"
+msgstr "Kopéieren"
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:70
+msgid "Paste"
+msgstr "Peschen"
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:78
+msgid "Delete"
+msgstr "Läschen"
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:91
+#, fuzzy
+#| msgid "Clear"
+msgid "Clear"
+msgstr "Eidelmaachen"
+
+#: qmlcontrols/kquickcontrols/private/TextMenu.qml:100
+#, fuzzy
+#| msgid "Select All"
+msgid "Select All"
+msgstr "Alles auswielen"
 
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"
@@ -3859,9 +3897,6 @@ msgstr "Net als sëcher agestuft"
 #~ msgid "New..."
 #~ msgstr "Nei Lëscht..."
 
-#~ msgid "Delete"
-#~ msgstr "Läschen"
-
 #, fuzzy
 #~| msgid "Action"
 #~ msgid "More Actions"
@@ -4769,12 +4804,6 @@ msgstr "Net als sëcher agestuft"
 #~ msgstr "Selectioun peschen"
 
 #, fuzzy
-#~| msgid "Select All"
-#~ msgctxt "@action"
-#~ msgid "Select All"
-#~ msgstr "Alles auswielen"
-
-#, fuzzy
 #~| msgid "Deselect"
 #~ msgctxt "@action"
 #~ msgid "Deselect"
@@ -5021,12 +5050,6 @@ msgstr "Net als sëcher agestuft"
 #~ msgstr "Mailbox"
 
 #, fuzzy
-#~| msgid "Clear"
-#~ msgctxt "@action"
-#~ msgid "Clear"
-#~ msgstr "Eidelmaachen"
-
-#, fuzzy
 #~| msgid "&Actual Size"
 #~ msgctxt "@action"
 #~ msgid "Actual Size"
@@ -5268,26 +5291,14 @@ msgstr "Net als sëcher agestuft"
 #~ msgid "Props"
 #~ msgstr "Eegeschaften"
 
-#~ msgid "Undo"
-#~ msgstr "Réckgängeg"
-
 #~ msgid "Front"
 #~ msgstr "Vir"
-
-#~ msgid "Copy"
-#~ msgstr "Kopéieren"
 
 #~ msgid "Open"
 #~ msgstr "Opmaachen"
 
-#~ msgid "Paste"
-#~ msgstr "Peschen"
-
 #~ msgid "Find"
 #~ msgstr "Sichen"
-
-#~ msgid "Cut"
-#~ msgstr "Ausschneiden"
 
 #~ msgid "&OK"
 #~ msgstr "&OK"
@@ -5459,11 +5470,6 @@ msgstr "Net als sëcher agestuft"
 
 #~ msgid "&Overwrite"
 #~ msgstr "&Iwwerschreiwen"
-
-#, fuzzy
-#~| msgid "Redo"
-#~ msgid "Redo"
-#~ msgstr "Nees zeréck"
 
 #~ msgid "&Available:"
 #~ msgstr "&Verfügbar:"
