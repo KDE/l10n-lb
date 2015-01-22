@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-11-28 08:10+0000\n"
+"POT-Creation-Date: 2015-01-22 07:57+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -87,7 +87,7 @@ msgstr ""
 "</ul><p>Kuckt dëss Punkten opmierksam duerch a probéiert, dee Modul ze "
 "läschen. Wann dat net klappt, frot bei ärem Verdeler no.</p></qt>"
 
-#: kcmoduleproxy.cpp:162
+#: kcmoduleproxy.cpp:165
 #, kde-format
 msgctxt "Argument is application name"
 msgid "This configuration section is already opened in %1"
