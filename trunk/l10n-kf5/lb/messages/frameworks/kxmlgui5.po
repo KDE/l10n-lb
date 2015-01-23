@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2014-11-17 07:41+0000\n"
+"POT-Creation-Date: 2015-01-23 08:23+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -92,20 +92,20 @@ msgstr "Iwwe&rsetzung"
 msgid "License Agreement"
 msgstr "&Lizenz"
 
-#: kaboutapplicationpersonlistdelegate_p.cpp:59
+#: kaboutapplicationpersonlistdelegate_p.cpp:61
 #, fuzzy
 #| msgid "Other Contributors:"
 msgctxt "Action to send an email to a contributor"
 msgid "Email contributor"
 msgstr "Aner Mataarbëchter:"
 
-#: kaboutapplicationpersonlistdelegate_p.cpp:64
+#: kaboutapplicationpersonlistdelegate_p.cpp:66
 #, fuzzy
 #| msgid "Homepage"
 msgid "Visit contributor's homepage"
 msgstr "Homepage"
 
-#: kaboutapplicationpersonlistdelegate_p.cpp:125
+#: kaboutapplicationpersonlistdelegate_p.cpp:127
 #, fuzzy, kde-format
 #| msgid "Other Contributors:"
 msgctxt "Action to send an email to a contributor"
@@ -114,8 +114,8 @@ msgid ""
 "%1"
 msgstr "Aner Mataarbëchter:"
 
-#: kaboutapplicationpersonlistdelegate_p.cpp:131
-#: kaboutapplicationpersonlistdelegate_p.cpp:167
+#: kaboutapplicationpersonlistdelegate_p.cpp:133
+#: kaboutapplicationpersonlistdelegate_p.cpp:169
 #, fuzzy, kde-format
 #| msgid "Homepage"
 msgid ""
@@ -123,15 +123,15 @@ msgid ""
 "%1"
 msgstr "Homepage"
 
-#: kaboutapplicationpersonlistdelegate_p.cpp:138
-#: kaboutapplicationpersonlistdelegate_p.cpp:170
+#: kaboutapplicationpersonlistdelegate_p.cpp:140
+#: kaboutapplicationpersonlistdelegate_p.cpp:172
 #, kde-format
 msgid ""
 "Visit contributor's profile on %1\n"
 "%2"
 msgstr ""
 
-#: kaboutapplicationpersonlistdelegate_p.cpp:161
+#: kaboutapplicationpersonlistdelegate_p.cpp:163
 #, fuzzy, kde-format
 #| msgid "Homepage"
 msgid ""
@@ -139,7 +139,7 @@ msgid ""
 "%1"
 msgstr "Homepage"
 
-#: kaboutapplicationpersonlistdelegate_p.cpp:164
+#: kaboutapplicationpersonlistdelegate_p.cpp:166
 #, fuzzy, kde-format
 #| msgid "Homepage"
 msgid ""
@@ -147,7 +147,7 @@ msgid ""
 "%1"
 msgstr "Homepage"
 
-#: kaboutapplicationpersonlistdelegate_p.cpp:262
+#: kaboutapplicationpersonlistdelegate_p.cpp:264
 #, fuzzy, kde-format
 #| msgid "%1%"
 msgctxt "@item Contributor name in about dialog."
