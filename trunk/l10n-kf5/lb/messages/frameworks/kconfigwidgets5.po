@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-01-31 08:03+0000\n"
+"POT-Creation-Date: 2015-02-10 09:59+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -47,6 +47,13 @@ msgstr "Standard"
 msgctxt "Encodings menu"
 msgid "Autodetect"
 msgstr "Automatësch Verbesserung"
+
+#: kconfigdialog.cpp:45
+#, fuzzy
+#| msgid "Configure"
+msgctxt "@title:window"
+msgid "Configure"
+msgstr "Configuréieren"
 
 #: klanguagebutton.cpp:194
 #, fuzzy
@@ -533,6 +540,41 @@ msgstr "&Iwwer %1"
 #: kstandardaction_p.h:115
 msgid "About &KDE"
 msgstr "Iwwer &KDE"
+
+#: ktipdialog.cpp:239
+#, fuzzy
+#| msgid "Tip of the Day"
+msgctxt "@title:window"
+msgid "Tip of the Day"
+msgstr "Rotschlag vum Dag"
+
+#: ktipdialog.cpp:255
+#, fuzzy
+#| msgid "Did you know...?\n"
+msgctxt "@title"
+msgid "Did you know...?\n"
+msgstr "Wousst dir schonn...?\n"
+
+#: ktipdialog.cpp:307
+#, fuzzy
+#| msgid "&Show tips on startup"
+msgctxt "@option:check"
+msgid "&Show tips on startup"
+msgstr "Rotschléi beim Start &weisen"
+
+#: ktipdialog.cpp:312
+#, fuzzy
+#| msgid "&Previous"
+msgctxt "@action:button Goes to previous tip"
+msgid "&Previous"
+msgstr "&Zeréck"
+
+#: ktipdialog.cpp:317
+#, fuzzy
+#| msgid "&Next"
+msgctxt "@action:button Goes to next tip, opposite to previous"
+msgid "&Next"
+msgstr "&Weider"
 
 #~ msgid "Name"
 #~ msgstr "Numm"
@@ -3578,9 +3620,6 @@ msgstr "Iwwer &KDE"
 #~ msgid "Close Message"
 #~ msgstr "Noricht zoumaachen"
 
-#~ msgid "Configure"
-#~ msgstr "Configuréieren"
-
 #, fuzzy
 #~| msgid "Jom"
 #~ msgid "Job"
@@ -4139,18 +4178,6 @@ msgstr "Iwwer &KDE"
 
 #~ msgid "Remove"
 #~ msgstr "Ewechmaachen"
-
-#~ msgid "Tip of the Day"
-#~ msgstr "Rotschlag vum Dag"
-
-#~ msgid "Did you know...?\n"
-#~ msgstr "Wousst dir schonn...?\n"
-
-#~ msgid "&Show tips on startup"
-#~ msgstr "Rotschléi beim Start &weisen"
-
-#~ msgid "&Previous"
-#~ msgstr "&Zeréck"
 
 #~ msgctxt "Opposite to Previous"
 #~ msgid "&Next"
@@ -8189,9 +8216,6 @@ msgstr "Iwwer &KDE"
 #~| msgid "Find:"
 #~ msgid "F&ind:"
 #~ msgstr "Sichen:"
-
-#~ msgid "&Next"
-#~ msgstr "&Weider"
 
 #, fuzzy
 #~| msgid "Options"
