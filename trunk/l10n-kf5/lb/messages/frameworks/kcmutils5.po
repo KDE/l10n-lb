@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-03-14 08:50+0000\n"
+"POT-Creation-Date: 2015-03-24 11:16+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -24,12 +24,12 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "kevin@math.uni-sb.de,miclud@studcs.uni-sb.de"
 
-#: kcmoduleloader.cpp:76
+#: kcmoduleloader.cpp:79
 #, kde-format
 msgid "The module %1 could not be found."
 msgstr "De Modul %1 ass net fonnt ginn."
 
-#: kcmoduleloader.cpp:77
+#: kcmoduleloader.cpp:80
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt><p>The diagnostics is:<br>The desktop file %1 could not be found.</qt>"
@@ -38,23 +38,23 @@ msgid ""
 "qt>"
 msgstr "<qt><p>D'Diagnos ass:<br>D'Bürosdatei %1 konnt net fonnt ginn.</qt>"
 
-#: kcmoduleloader.cpp:79
+#: kcmoduleloader.cpp:82
 #, fuzzy, kde-format
 msgid "The module %1 is disabled."
 msgstr "De Modul %1 konnt net geluede ginn."
 
-#: kcmoduleloader.cpp:80
+#: kcmoduleloader.cpp:83
 msgid ""
 "<qt><p>Either the hardware/software the module configures is not available "
 "or the module has been disabled by the administrator.</p></qt>"
 msgstr ""
 
-#: kcmoduleloader.cpp:124
+#: kcmoduleloader.cpp:133
 #, kde-format
 msgid "The module %1 is not a valid configuration module."
 msgstr "De Modul %1 ass kee gültege Configuratiounsmodul."
 
-#: kcmoduleloader.cpp:125
+#: kcmoduleloader.cpp:134
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt><p>The diagnostics is:<br>The desktop file %1 does not specify a "
@@ -65,7 +65,7 @@ msgid ""
 msgstr ""
 "<qt><p>D'Diagnos ass:<br>D'Bürosdatei %1 gëtt keng Bibliothéik un.</qt>"
 
-#: kcmoduleloader.cpp:140
+#: kcmoduleloader.cpp:149
 #, fuzzy
 #| msgid ""
 #| "<qt><p>The diagnostics is:<br>%1<p>Possible reasons:</p><ul><li>An error "
