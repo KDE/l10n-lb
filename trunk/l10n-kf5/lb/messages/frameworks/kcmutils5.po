@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-03-24 11:16+0000\n"
+"POT-Creation-Date: 2015-03-25 07:50+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -49,12 +49,12 @@ msgid ""
 "or the module has been disabled by the administrator.</p></qt>"
 msgstr ""
 
-#: kcmoduleloader.cpp:133
+#: kcmoduleloader.cpp:140
 #, kde-format
 msgid "The module %1 is not a valid configuration module."
 msgstr "De Modul %1 ass kee gültege Configuratiounsmodul."
 
-#: kcmoduleloader.cpp:134
+#: kcmoduleloader.cpp:141
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt><p>The diagnostics is:<br>The desktop file %1 does not specify a "
@@ -65,7 +65,7 @@ msgid ""
 msgstr ""
 "<qt><p>D'Diagnos ass:<br>D'Bürosdatei %1 gëtt keng Bibliothéik un.</qt>"
 
-#: kcmoduleloader.cpp:149
+#: kcmoduleloader.cpp:156
 #, fuzzy
 #| msgid ""
 #| "<qt><p>The diagnostics is:<br>%1<p>Possible reasons:</p><ul><li>An error "
