@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-03-19 08:36+0000\n"
+"POT-Creation-Date: 2015-04-21 11:46+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -794,8 +794,8 @@ msgstr[0] "Konflikt mat allgemengem Kierzel"
 msgstr[1] "Konflikt mat allgemengem Kierzel"
 
 #: kkeysequencewidget.cpp:146 kkeysequencewidget.cpp:233
-#: kkeysequencewidget.cpp:619 kshortcutseditor.cpp:619
-#: kshortcutseditor.cpp:637
+#: kkeysequencewidget.cpp:619 kshortcutseditor.cpp:622
+#: kshortcutseditor.cpp:640
 msgid "Reassign"
 msgstr "Nei zouuerdnen"
 
@@ -1126,11 +1126,11 @@ msgstr ""
 msgid "Mouse Shape Gesture"
 msgstr ""
 
-#: kshortcutseditor.cpp:614 kshortcutseditor.cpp:632
+#: kshortcutseditor.cpp:617 kshortcutseditor.cpp:635
 msgid "Key Conflict"
 msgstr "Tastekonflikt"
 
-#: kshortcutseditor.cpp:615
+#: kshortcutseditor.cpp:618
 #, fuzzy, kde-format
 msgid ""
 "The '%1' shape gesture has already been allocated to the \"%2\" action.\n"
@@ -1139,7 +1139,7 @@ msgstr ""
 "D'Tastekombinatioun \"%1\" ass scho mat der Aktioun \"%2\" verbonn.\n"
 "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
-#: kshortcutseditor.cpp:633
+#: kshortcutseditor.cpp:636
 #, fuzzy, kde-format
 msgid ""
 "The '%1' rocker gesture has already been allocated to the \"%2\" action.\n"
@@ -1148,7 +1148,7 @@ msgstr ""
 "D'Tastekombinatioun \"%1\" ass scho mat der Aktioun \"%2\" verbonn.\n"
 "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
-#: kshortcutseditor.cpp:680
+#: kshortcutseditor.cpp:683
 #, fuzzy, kde-format
 #| msgid "Shortcuts"
 msgctxt "header for an applications shortcut list"
@@ -1156,34 +1156,40 @@ msgid "Shortcuts for %1"
 msgstr "Kierzelen"
 
 #. i18n: ectx: property (text), widget (QLabel, priLabel)
-#: kshortcutseditor.cpp:698 kshortcutwidget.ui:22
+#: kshortcutseditor.cpp:701 kshortcutwidget.ui:22
 #, fuzzy
 #| msgid "Chain:"
 msgid "Main:"
 msgstr "Ketten:"
 
 #. i18n: ectx: property (text), widget (QLabel, altLabel)
-#: kshortcutseditor.cpp:699 kshortcutwidget.ui:52
+#: kshortcutseditor.cpp:702 kshortcutwidget.ui:52
 #, fuzzy
 #| msgid "Alternate"
 msgid "Alternate:"
 msgstr "Alternativ"
 
-#: kshortcutseditor.cpp:700
+#: kshortcutseditor.cpp:703
 msgid "Global:"
 msgstr ""
 
-#: kshortcutseditor.cpp:715
+#: kshortcutseditor.cpp:704
+#, fuzzy
+#| msgid "Alternate"
+msgid "Global alternate:"
+msgstr "Alternativ"
+
+#: kshortcutseditor.cpp:719
 #, fuzzy
 #| msgid "Additional Names"
 msgid "Action Name"
 msgstr "Zousätzlech Nimm"
 
-#: kshortcutseditor.cpp:719
+#: kshortcutseditor.cpp:723
 msgid "Shortcuts"
 msgstr "Kierzelen"
 
-#: kshortcutseditor.cpp:723
+#: kshortcutseditor.cpp:727
 #, fuzzy
 #| msgid "Description:"
 msgid "Description"
