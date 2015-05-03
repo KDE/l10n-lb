@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-04-18 09:00+0000\n"
+"POT-Creation-Date: 2015-05-03 08:53+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -411,21 +411,21 @@ msgstr "Fax Doheem"
 msgid "Install"
 msgstr "Installéieren"
 
-#: kmoretools/kmoretools.cpp:628
+#: kmoretools/kmoretools.cpp:637
 #, fuzzy
 #| msgid "More..."
 msgctxt "@action:inmenu"
 msgid "More"
 msgstr "Méi..."
 
-#: kmoretools/kmoretools.cpp:643
+#: kmoretools/kmoretools.cpp:652
 #, fuzzy
 #| msgid "Install"
 msgctxt "@action:inmenu"
 msgid "Not installed:"
 msgstr "Installéieren"
 
-#: kmoretools/kmoretools.cpp:679
+#: kmoretools/kmoretools.cpp:688
 #, fuzzy
 #| msgid "Confi&gure..."
 msgctxt "@action:inmenu"
@@ -457,6 +457,21 @@ msgstr "Configuréieren"
 #| msgid "&Configure %1..."
 msgid "Configure menu - %1"
 msgstr "%1 &configuréieren..."
+
+#: kmoretools/kmoretoolsmenufactory.cpp:110
+msgctxt "@action:inmenu"
+msgid "$GenericName - current folder"
+msgstr ""
+
+#: kmoretools/kmoretoolsmenufactory.cpp:118
+msgctxt "@action:inmenu"
+msgid "$GenericName - current device"
+msgstr ""
+
+#: kmoretools/kmoretoolsmenufactory.cpp:133
+msgctxt "@action:inmenu"
+msgid "$GenericName - all devices"
+msgstr ""
 
 #. i18n: ectx: property (title), widget (QGroupBox, gbMainSection)
 #: kmoretools/ui/kmoretoolsconfigwidget.ui:25
