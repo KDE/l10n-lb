@@ -75,6 +75,18 @@ msgctxt "KGlobalAccel|"
 msgid "Conflict With Registered Global Shortcut"
 msgstr "Konflikt mat allgemengem Kierzel"
 
+#: runtime/main.cpp:61 runtime/main.cpp:63
+#, fuzzy
+msgctxt "QObject|"
+msgid "KDE Global Shortcuts Service"
+msgstr "Kierzelen"
+
+#: runtime/main.cpp:66 runtime/main.cpp:67
+#, fuzzy
+msgctxt "QObject|"
+msgid "Maintainer"
+msgstr "Fënster"
+
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"
 #~ msgstr "Kevin Claude Everard,Michel Ludwig"
@@ -8324,10 +8336,6 @@ msgstr "Konflikt mat allgemengem Kierzel"
 #~ msgstr "Mor"
 
 #, fuzzy
-#~ msgid "Maintainer"
-#~ msgstr "Fënster"
-
-#, fuzzy
 #~ msgid "Tobias Koenig"
 #~ msgstr "(c) 2003 Tobias Koenig"
 
@@ -11926,10 +11934,6 @@ msgstr "Konflikt mat allgemengem Kierzel"
 #~ "Benotzt dëse Knäppche fir eng nei Tastekombinatioun ze definéieren. Wann "
 #~ "dir ën eng Kéier ugeklickt hutt, kënnt dir déi gewënscht Kombinatioun "
 #~ "antippen."
-
-#, fuzzy
-#~ msgid "Global Shortcut(s)"
-#~ msgstr "Kierzelen"
 
 #~ msgid "Advanced"
 #~ msgstr "Avancéiert"
