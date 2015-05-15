@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-03-07 06:03+0000\n"
+"POT-Creation-Date: 2015-05-15 05:55+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1016,15 +1016,15 @@ msgstr ""
 "Ze vill falsch geschriwwe Wierder. D'automatësch Rechtschreifkontroll ass "
 "ausgeschalt ginn."
 
-#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:546
+#: kde3support/kdeui/k3textedit.cpp:232 kdeui/widgets/ktextedit.cpp:549
 msgid "Check Spelling..."
 msgstr "Rechtschreifkontroll..."
 
-#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:549
+#: kde3support/kdeui/k3textedit.cpp:238 kdeui/widgets/ktextedit.cpp:552
 msgid "Auto Spell Check"
 msgstr "Automatësch Kontroll"
 
-#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:554
+#: kde3support/kdeui/k3textedit.cpp:242 kdeui/widgets/ktextedit.cpp:557
 msgid "Allow Tabulations"
 msgstr "Tabellarësch Unuerdnung zouloossen"
 
@@ -10142,27 +10142,27 @@ msgstr "Text &kopéieren"
 msgid "Nothing to spell check."
 msgstr "Kee Provider gewielt."
 
-#: kdeui/widgets/ktextedit.cpp:582
+#: kdeui/widgets/ktextedit.cpp:589
 #, fuzzy
 #| msgid "Please enter &name:"
 msgid "Speak Text"
 msgstr "Gitt w.e.g. den &Numm an:"
 
-#: kdeui/widgets/ktextedit.cpp:597
+#: kdeui/widgets/ktextedit.cpp:604
 msgid "Starting Jovie Text-to-Speech Service Failed"
 msgstr ""
 
-#: kdeui/widgets/ktextedit.cpp:681
+#: kdeui/widgets/ktextedit.cpp:688
 #, fuzzy, kde-format
 #| msgid "Suggestion List"
 msgid "No suggestions for %1"
 msgstr "Lëscht mat Beispiller"
 
-#: kdeui/widgets/ktextedit.cpp:693
+#: kdeui/widgets/ktextedit.cpp:700
 msgid "Ignore"
 msgstr "Ignoréieren"
 
-#: kdeui/widgets/ktextedit.cpp:694
+#: kdeui/widgets/ktextedit.cpp:701
 #, fuzzy
 #| msgid "<< Add to Dictionary"
 msgid "Add to Dictionary"
