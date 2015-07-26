@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-05-15 05:55+0000\n"
+"POT-Creation-Date: 2015-07-26 05:57+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -9637,19 +9637,19 @@ msgctxt "@info"
 msgid "The entered date and time is after the maximum allowed date and time."
 msgstr ""
 
-#: kdeui/widgets/keditlistbox.cpp:326 kdeui/widgets/keditlistwidget.cpp:305
+#: kdeui/widgets/keditlistbox.cpp:326 kdeui/widgets/keditlistwidget.cpp:306
 msgid "&Add"
 msgstr "&Dobäimaachen"
 
-#: kdeui/widgets/keditlistbox.cpp:338 kdeui/widgets/keditlistwidget.cpp:317
+#: kdeui/widgets/keditlistbox.cpp:338 kdeui/widgets/keditlistwidget.cpp:318
 msgid "&Remove"
 msgstr "&Ewechmaachen"
 
-#: kdeui/widgets/keditlistbox.cpp:350 kdeui/widgets/keditlistwidget.cpp:329
+#: kdeui/widgets/keditlistbox.cpp:350 kdeui/widgets/keditlistwidget.cpp:330
 msgid "Move &Up"
 msgstr "Er&opréckelen"
 
-#: kdeui/widgets/keditlistbox.cpp:355 kdeui/widgets/keditlistwidget.cpp:334
+#: kdeui/widgets/keditlistbox.cpp:355 kdeui/widgets/keditlistwidget.cpp:335
 msgid "Move &Down"
 msgstr "&Erofréckelen"
 
