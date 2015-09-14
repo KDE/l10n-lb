@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-13 08:12+0000\n"
+"POT-Creation-Date: 2015-09-14 07:57+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -24,43 +24,43 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "kevin@math.uni-sb.de,miclud@studcs.uni-sb.de"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:58
+#: kbuildsycoca/kbuildsycoca_main.cpp:56
 #, fuzzy
 #| msgid "KBuildSycoca"
 msgctxt "application name"
 msgid "KBuildSycoca"
 msgstr "KBuildSycoca"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:60
+#: kbuildsycoca/kbuildsycoca_main.cpp:58
 #, fuzzy
 #| msgid "Rebuilds the system configuration cache."
 msgctxt "application description"
 msgid "Rebuilds the system configuration cache."
 msgstr "Baut de Cache vun der Systemconfiguratioun nees op."
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:62
+#: kbuildsycoca/kbuildsycoca_main.cpp:60
 msgctxt "@info:credit"
 msgid "Copyright 1999-2014 KDE Developers"
 msgstr ""
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:63
+#: kbuildsycoca/kbuildsycoca_main.cpp:61
 msgctxt "@info:credit"
 msgid "David Faure"
 msgstr ""
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:64 kbuildsycoca/kbuildsycoca_main.cpp:67
+#: kbuildsycoca/kbuildsycoca_main.cpp:62 kbuildsycoca/kbuildsycoca_main.cpp:65
 #, fuzzy
 #| msgid "Author"
 msgctxt "@info:credit"
 msgid "Author"
 msgstr "Auteur"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:66
+#: kbuildsycoca/kbuildsycoca_main.cpp:64
 msgctxt "@info:credit"
 msgid "Waldo Bastian"
 msgstr ""
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:77
+#: kbuildsycoca/kbuildsycoca_main.cpp:75
 #, fuzzy
 #| msgid "Disable checking files (dangerous)"
 msgctxt "@info:shell command-line option"
@@ -69,47 +69,47 @@ msgid ""
 "effect)"
 msgstr "Keng Dateie méi nokucken (geféierlech)"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:80
+#: kbuildsycoca/kbuildsycoca_main.cpp:78
 #, fuzzy
 #| msgid "Disable incremental update, re-read everything"
 msgctxt "@info:shell command-line option"
 msgid "Disable incremental update, re-read everything"
 msgstr "Keng fortlafend Aktualiséierung, ëmmer alles nei liesen"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:83
+#: kbuildsycoca/kbuildsycoca_main.cpp:81
 msgctxt "@info:shell command-line option"
 msgid "Check file timestamps (deprecated, no longer having any effect)"
 msgstr ""
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:86
+#: kbuildsycoca/kbuildsycoca_main.cpp:84
 #, fuzzy
 #| msgid "Disable checking files (dangerous)"
 msgctxt "@info:shell command-line option"
 msgid "Disable checking files (deprecated, no longer having any effect)"
 msgstr "Keng Dateie méi nokucken (geféierlech)"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:89
+#: kbuildsycoca/kbuildsycoca_main.cpp:87
 #, fuzzy
 #| msgid "Create global database"
 msgctxt "@info:shell command-line option"
 msgid "Create global database"
 msgstr "Eng global Datebank erstellen"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:92
+#: kbuildsycoca/kbuildsycoca_main.cpp:90
 #, fuzzy
 #| msgid "Perform menu generation test run only"
 msgctxt "@info:shell command-line option"
 msgid "Perform menu generation test run only"
 msgstr "Just ën Test fir d'Menü-Erstellung maachen"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:95
+#: kbuildsycoca/kbuildsycoca_main.cpp:93
 #, fuzzy
 #| msgid "Track menu id for debug purposes"
 msgctxt "@info:shell command-line option"
 msgid "Track menu id for debug purposes"
 msgstr "D'Menü-ID fir ën Debugging späicheren"
 
-#: kbuildsycoca/kbuildsycoca_main.cpp:99
+#: kbuildsycoca/kbuildsycoca_main.cpp:97
 msgctxt "@info:shell command-line option"
 msgid "Switch QStandardPaths to test mode, for unit tests only"
 msgstr ""
