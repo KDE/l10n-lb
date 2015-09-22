@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-08-25 10:49+0000\n"
+"POT-Creation-Date: 2015-09-22 09:57+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1020,45 +1020,59 @@ msgstr "Standard"
 msgid "Export Scheme..."
 msgstr ""
 
-#: kshortcutschemeseditor.cpp:101
+#: kshortcutschemeseditor.cpp:86
+#, fuzzy
+#| msgid "Shortcuts"
+msgid "Import Scheme..."
+msgstr "Kierzelen"
+
+#: kshortcutschemeseditor.cpp:102
 msgid "Name for New Scheme"
 msgstr ""
 
-#: kshortcutschemeseditor.cpp:102
+#: kshortcutschemeseditor.cpp:103
 #, fuzzy
 #| msgid "Curr&ent actions:"
 msgid "Name for new scheme:"
 msgstr "Ug&ewisen Aktiounen:"
 
-#: kshortcutschemeseditor.cpp:102
+#: kshortcutschemeseditor.cpp:103
 #, fuzzy
 #| msgid "Curr&ent actions:"
 msgid "New Scheme"
 msgstr "Ug&ewisen Aktiounen:"
 
-#: kshortcutschemeseditor.cpp:108
+#: kshortcutschemeseditor.cpp:109
 #, fuzzy
 msgid "A scheme with this name already exists."
 msgstr ""
 "Ën Zertifikat mat dësem Numm gëtt et schonn. Sidd dir sëcher, dass dir et "
 "ersetze wëllt?"
 
-#: kshortcutschemeseditor.cpp:137
+#: kshortcutschemeseditor.cpp:138
 #, kde-format
 msgid ""
 "Do you really want to delete the scheme %1?\n"
 "Note that this will not remove any system wide shortcut schemes."
 msgstr ""
 
-#: kshortcutschemeseditor.cpp:167
+#: kshortcutschemeseditor.cpp:168
 #, fuzzy
-#| msgid "Click to select a font"
-msgid "Export to Location"
-msgstr "Klickt hei, fir eng Schrëft ze wielen"
+#| msgid "Shortcuts"
+msgid "Export Shortcuts"
+msgstr "Kierzelen"
 
-#: kshortcutschemeseditor.cpp:175
-msgid "Could not export shortcuts scheme because the location is invalid."
-msgstr ""
+#: kshortcutschemeseditor.cpp:168 kshortcutschemeseditor.cpp:179
+#, fuzzy
+#| msgid "Shortcut"
+msgid "Shortcuts (*.shortcuts)"
+msgstr "Tastekombinatioun"
+
+#: kshortcutschemeseditor.cpp:179
+#, fuzzy
+#| msgid "Shortcuts"
+msgid "Import Shortcuts"
+msgstr "Kierzelen"
 
 #: kshortcutsdialog.cpp:85
 msgid ""
@@ -1453,6 +1467,11 @@ msgstr "&Astellungen"
 #: ui_standards.rc:194
 msgid "Main Toolbar"
 msgstr "Haapt-Toolbar"
+
+#, fuzzy
+#~| msgid "Click to select a font"
+#~ msgid "Export to Location"
+#~ msgstr "Klickt hei, fir eng Schrëft ze wielen"
 
 #~ msgid "Print"
 #~ msgstr "Drécken"
@@ -12194,11 +12213,6 @@ msgstr "Haapt-Toolbar"
 #~| msgid "Conflict with Global Shortcut"
 #~ msgid "Conflict With Registered Global Shortcut(s)"
 #~ msgstr "Konflikt mat allgemengem Kierzel"
-
-#, fuzzy
-#~| msgid "Shortcut"
-#~ msgid "Shortcut Conflict(s)"
-#~ msgstr "Tastekombinatioun"
 
 #, fuzzy
 #~ msgid "Unlock Toolbar Positions"
