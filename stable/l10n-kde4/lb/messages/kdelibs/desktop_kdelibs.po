@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-23 05:39+0000\n"
+"POT-Creation-Date: 2015-10-02 05:35+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1074,7 +1074,7 @@ msgctxt "Name"
 msgid "SSL Certificate Policy"
 msgstr "PKCS#12-Zertifikatspak"
 
-#: kdecore/network/kssld/kssld.desktop:75
+#: kdecore/network/kssld/kssld.desktop:74
 msgctxt "Comment"
 msgid "Provides SSL certificate policy to applications"
 msgstr ""
@@ -1248,7 +1248,7 @@ msgctxt "Name"
 msgid "Network Proxy Configuration"
 msgstr "Automatesch Proxy-Configuratioun"
 
-#: kio/misc/kpac/proxyscout.desktop:69
+#: kio/misc/kpac/proxyscout.desktop:68
 msgctxt "Comment"
 msgid "Automatic proxy configuration"
 msgstr "Automatesch Proxy-Configuratioun"
@@ -1333,7 +1333,7 @@ msgctxt "Name"
 msgid "Cookie Jar"
 msgstr "KDED-Modul fir d'Verwaltung vun de Cookien"
 
-#: kioslave/http/kcookiejar/kcookiejar.desktop:68
+#: kioslave/http/kcookiejar/kcookiejar.desktop:67
 msgctxt "Comment"
 msgid "Stores network cookies"
 msgstr ""
