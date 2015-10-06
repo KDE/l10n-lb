@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-26 09:24+0000\n"
+"POT-Creation-Date: 2015-10-06 10:38+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -452,6 +452,78 @@ msgstr "Feeler beim Evaluéieren vum Skript"
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "Et gouf e Feeler beim Ausféiere vum Proxy-Konfiguratiounsskript"
+
+#: src/new_file_templates/Directory.desktop:2
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Folder"
+msgctxt "Name"
+msgid "Folder..."
+msgstr "Dossier"
+
+#: src/new_file_templates/Directory.desktop:92
+msgctxt "Comment"
+msgid "Enter folder name:"
+msgstr ""
+
+#: src/new_file_templates/HTMLFile.desktop:2
+msgctxt "Name"
+msgid "HTML File..."
+msgstr ""
+
+#: src/new_file_templates/HTMLFile.desktop:92
+msgctxt "Comment"
+msgid "Enter HTML filename:"
+msgstr ""
+
+#: src/new_file_templates/linkPath.desktop:2
+msgctxt "Name"
+msgid "Basic link to file or directory..."
+msgstr ""
+
+#: src/new_file_templates/linkPath.desktop:70
+msgctxt "Comment"
+msgid "Enter path of file or directory:"
+msgstr ""
+
+#: src/new_file_templates/linkProgram.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Application"
+msgctxt "Name"
+msgid "Link to Application..."
+msgstr "Programm"
+
+#: src/new_file_templates/linkProgram.desktop:84
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Application"
+msgctxt "Comment"
+msgid "New Link to Application"
+msgstr "Programm"
+
+#: src/new_file_templates/linkURL.desktop:2
+msgctxt "Name"
+msgid "Link to Location (URL)..."
+msgstr ""
+
+#: src/new_file_templates/linkURL.desktop:91
+msgctxt "Comment"
+msgid "Enter link to location (URL):"
+msgstr ""
+
+#: src/new_file_templates/TextFile.desktop:2
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "TeX File"
+msgctxt "Name"
+msgid "Text File..."
+msgstr "TeX-Datei"
+
+#: src/new_file_templates/TextFile.desktop:89
+msgctxt "Comment"
+msgid "Enter text filename:"
+msgstr ""
 
 #: src/urifilters/fixhost/fixhosturifilter.desktop:3
 msgctxt "Name"
@@ -1864,6 +1936,14 @@ msgctxt "Comment"
 msgid "Plugin for the KIO Drag-and-drop Popup Menu"
 msgstr ""
 
+#: src/widgets/konqpopupmenuplugin.desktop:4
+#, fuzzy
+#| msgctxt "Comment"
+#| msgid "Plugin for the Rename Dialog"
+msgctxt "Comment"
+msgid "Plugin for the Konqueror Popup Menu"
+msgstr "Plugin fir den Ëmbenennen-Dialog"
+
 #: src/widgets/kpropertiesdialogplugin.desktop:4
 msgctxt "Comment"
 msgid "Plugin for the Properties Dialog"
@@ -2782,10 +2862,6 @@ msgstr "Erweiderte Browser-Plugin"
 #~ msgid "Embeddable Component for multipart/mixed"
 #~ msgstr "Abettbar Komponent fir de MIME-Genre multipart/mixed"
 
-#~ msgctxt "Name"
-#~ msgid "Application"
-#~ msgstr "Programm"
-
 #, fuzzy
 #~ msgctxt "Name"
 #~ msgid "KDE Configuration Module"
@@ -2814,10 +2890,6 @@ msgstr "Erweiderte Browser-Plugin"
 #~ msgctxt "Name"
 #~ msgid "KScan"
 #~ msgstr "KScan"
-
-#~ msgctxt "Comment"
-#~ msgid "Plugin for the Rename Dialog"
-#~ msgstr "Plugin fir den Ëmbenennen-Dialog"
 
 #~ msgctxt "Name"
 #~ msgid "Dummy Meta"
@@ -2938,13 +3010,6 @@ msgstr "Erweiderte Browser-Plugin"
 #~ msgctxt "Name"
 #~ msgid "Exporter"
 #~ msgstr "Extern"
-
-#, fuzzy
-#~| msgctxt "Comment"
-#~| msgid "TeX File"
-#~ msgctxt "Name"
-#~ msgid "Insert File"
-#~ msgstr "TeX-Datei"
 
 #~ msgctxt "Comment"
 #~ msgid "Insert any readable file at cursor position"
@@ -4359,10 +4424,6 @@ msgstr "Erweiderte Browser-Plugin"
 #~ msgctxt "Comment"
 #~ msgid "Locked Folder"
 #~ msgstr "Gespaarten Dossier"
-
-#~ msgctxt "Comment"
-#~ msgid "Folder"
-#~ msgstr "Dossier"
 
 #~ msgctxt "Comment"
 #~ msgid "Pipe"
