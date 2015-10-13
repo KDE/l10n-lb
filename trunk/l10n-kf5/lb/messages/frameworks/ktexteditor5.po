@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-10-12 08:14+0000\n"
+"POT-Creation-Date: 2015-10-13 10:10+0000\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -3087,19 +3087,19 @@ msgstr ""
 msgid "Use &Default Style"
 msgstr "Stan&dard-Stil benotzen"
 
-#: schema/katestyletreewidget.cpp:406
+#: schema/katestyletreewidget.cpp:403
 #, fuzzy
 msgctxt "No text or background color set"
 msgid "None set"
 msgstr "Keen"
 
-#: schema/katestyletreewidget.cpp:639
+#: schema/katestyletreewidget.cpp:636
 msgid ""
 "\"Use Default Style\" will be automatically unset when you change any style "
 "properties."
 msgstr ""
 
-#: schema/katestyletreewidget.cpp:640
+#: schema/katestyletreewidget.cpp:637
 msgid "Kate Styles"
 msgstr "Kate-Stiler"
 
@@ -7038,13 +7038,13 @@ msgstr "michel.ludwig@kdemail.net"
 msgid "Configure"
 msgstr "Configuréieren..."
 
-#: utils/katesedcmd.cpp:264
+#: utils/katesedcmd.cpp:263
 #, fuzzy, kde-format
 #| msgid "Replace Confirmation"
 msgid "replace with %1?"
 msgstr "Ersetze confirméieren"
 
-#: utils/katesedcmd.cpp:270
+#: utils/katesedcmd.cpp:269
 #, kde-format
 msgctxt "%2 is the translation of the next message"
 msgid "1 replacement done on %2"
@@ -7052,7 +7052,7 @@ msgid_plural "%1 replacements done on %2"
 msgstr[0] ""
 msgstr[1] ""
 
-#: utils/katesedcmd.cpp:272
+#: utils/katesedcmd.cpp:271
 #, fuzzy, kde-format
 msgctxt "substituted into the previous message"
 msgid "1 line"
