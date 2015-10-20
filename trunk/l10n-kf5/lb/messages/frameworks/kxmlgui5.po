@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-22 09:57+0000\n"
+"POT-Creation-Date: 2015-10-20 10:05+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -904,11 +904,11 @@ msgctxt "No shortcut defined"
 msgid "None"
 msgstr "Keng"
 
-#: kkeysequencewidget.cpp:706
+#: kkeysequencewidget.cpp:712
 msgid "The key you just pressed is not supported by Qt."
 msgstr ""
 
-#: kkeysequencewidget.cpp:707
+#: kkeysequencewidget.cpp:713
 #, fuzzy
 #| msgid "Untrusted"
 msgid "Unsupported Key"
