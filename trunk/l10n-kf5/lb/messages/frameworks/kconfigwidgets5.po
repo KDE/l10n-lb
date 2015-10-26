@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-02-28 09:34+0000\n"
+"POT-Creation-Date: 2015-10-26 07:54+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -541,35 +541,35 @@ msgstr "&Iwwer %1"
 msgid "About &KDE"
 msgstr "Iwwer &KDE"
 
-#: ktipdialog.cpp:239
+#: ktipdialog.cpp:238
 #, fuzzy
 #| msgid "Tip of the Day"
 msgctxt "@title:window"
 msgid "Tip of the Day"
 msgstr "Rotschlag vum Dag"
 
-#: ktipdialog.cpp:255
+#: ktipdialog.cpp:254
 #, fuzzy
 #| msgid "Did you know...?\n"
 msgctxt "@title"
 msgid "Did you know...?\n"
 msgstr "Wousst dir schonn...?\n"
 
-#: ktipdialog.cpp:307
+#: ktipdialog.cpp:306
 #, fuzzy
 #| msgid "&Show tips on startup"
 msgctxt "@option:check"
 msgid "&Show tips on startup"
 msgstr "Rotschléi beim Start &weisen"
 
-#: ktipdialog.cpp:312
+#: ktipdialog.cpp:311
 #, fuzzy
 #| msgid "&Previous"
 msgctxt "@action:button Goes to previous tip"
 msgid "&Previous"
 msgstr "&Zeréck"
 
-#: ktipdialog.cpp:317
+#: ktipdialog.cpp:316
 #, fuzzy
 #| msgid "&Next"
 msgctxt "@action:button Goes to next tip, opposite to previous"
