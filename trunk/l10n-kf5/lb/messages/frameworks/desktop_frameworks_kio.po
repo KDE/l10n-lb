@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-10-16 08:45+0000\n"
+"POT-Creation-Date: 2015-10-27 10:31+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -461,7 +461,7 @@ msgctxt "Name"
 msgid "Folder..."
 msgstr "Dossier"
 
-#: src/new_file_templates/Directory.desktop:74
+#: src/new_file_templates/Directory.desktop:75
 msgctxt "Comment"
 msgid "Enter folder name:"
 msgstr ""
@@ -471,7 +471,7 @@ msgctxt "Name"
 msgid "HTML File..."
 msgstr ""
 
-#: src/new_file_templates/HTMLFile.desktop:74
+#: src/new_file_templates/HTMLFile.desktop:75
 msgctxt "Comment"
 msgid "Enter HTML filename:"
 msgstr ""
@@ -481,7 +481,7 @@ msgctxt "Name"
 msgid "Basic link to file or directory..."
 msgstr ""
 
-#: src/new_file_templates/linkPath.desktop:53
+#: src/new_file_templates/linkPath.desktop:54
 msgctxt "Comment"
 msgid "Enter path of file or directory:"
 msgstr ""
@@ -494,7 +494,7 @@ msgctxt "Name"
 msgid "Link to Application..."
 msgstr "Programm"
 
-#: src/new_file_templates/linkProgram.desktop:70
+#: src/new_file_templates/linkProgram.desktop:71
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Application"
@@ -507,7 +507,7 @@ msgctxt "Name"
 msgid "Link to Location (URL)..."
 msgstr ""
 
-#: src/new_file_templates/linkURL.desktop:73
+#: src/new_file_templates/linkURL.desktop:74
 msgctxt "Comment"
 msgid "Enter link to location (URL):"
 msgstr ""
@@ -520,7 +520,7 @@ msgctxt "Name"
 msgid "Text File..."
 msgstr "TeX-Datei"
 
-#: src/new_file_templates/TextFile.desktop:74
+#: src/new_file_templates/TextFile.desktop:75
 msgctxt "Comment"
 msgid "Enter text filename:"
 msgstr ""
