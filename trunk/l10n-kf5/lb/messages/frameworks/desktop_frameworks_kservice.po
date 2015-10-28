@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-10-24 08:56+0000\n"
+"POT-Creation-Date: 2015-10-28 08:33+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -38,7 +38,7 @@ msgctxt "Keywords"
 msgid "word1;word2"
 msgstr ""
 
-#: autotests/fakeplugin.desktop:141
+#: autotests/fakeplugin.desktop:142
 msgctxt "X-KDE-Keywords"
 msgid "word3,word4"
 msgstr ""
@@ -48,7 +48,7 @@ msgctxt "Name"
 msgid "No Plugin"
 msgstr ""
 
-#: autotests/noplugin.desktop:45
+#: autotests/noplugin.desktop:46
 msgctxt "Comment"
 msgid "This does not have a library"
 msgstr ""
