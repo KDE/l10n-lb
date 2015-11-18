@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-10-13 10:10+0000\n"
+"POT-Creation-Date: 2015-11-18 07:43+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -642,25 +642,25 @@ msgstr "&Handschrëft"
 msgid "Nothing to spell check."
 msgstr "Kee Provider gewielt."
 
-#: widgets/ktextedit.cpp:561
+#: widgets/ktextedit.cpp:566
 msgid "Check Spelling..."
 msgstr "Rechtschreifkontroll..."
 
-#: widgets/ktextedit.cpp:567
+#: widgets/ktextedit.cpp:571
 #, fuzzy
 #| msgid "Spell Checking"
 msgid "Spell Checking Language"
 msgstr "Rechtschreifkontroll"
 
-#: widgets/ktextedit.cpp:593
+#: widgets/ktextedit.cpp:594
 msgid "Auto Spell Check"
 msgstr "Automatësch Kontroll"
 
-#: widgets/ktextedit.cpp:598
+#: widgets/ktextedit.cpp:600
 msgid "Allow Tabulations"
 msgstr "Tabellarësch Unuerdnung zouloossen"
 
-#: widgets/ktextedit.cpp:631
+#: widgets/ktextedit.cpp:633
 #, fuzzy
 #| msgid "Please enter &name:"
 msgid "Speak Text"
