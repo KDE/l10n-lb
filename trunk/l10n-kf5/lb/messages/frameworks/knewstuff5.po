@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-07-05 08:27+0000\n"
+"POT-Creation-Date: 2015-11-19 09:09+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -458,17 +458,17 @@ msgstr "Configuréieren"
 msgid "Configure menu - %1"
 msgstr "%1 &configuréieren..."
 
-#: kmoretools/kmoretoolsmenufactory.cpp:148
+#: kmoretools/kmoretoolsmenufactory.cpp:183
 msgctxt "@action:inmenu"
 msgid "$GenericName - current folder"
 msgstr ""
 
-#: kmoretools/kmoretoolsmenufactory.cpp:156
+#: kmoretools/kmoretoolsmenufactory.cpp:191
 msgctxt "@action:inmenu"
 msgid "$GenericName - current device"
 msgstr ""
 
-#: kmoretools/kmoretoolsmenufactory.cpp:171
+#: kmoretools/kmoretoolsmenufactory.cpp:206
 msgctxt "@action:inmenu"
 msgid "$GenericName - all devices"
 msgstr ""
