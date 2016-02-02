@@ -2166,21 +2166,21 @@ msgctxt "KFontRequester|"
 msgid "Choose..."
 msgstr "Auswielen..."
 
-#: kfontrequester.cpp:216
+#: kfontrequester.cpp:217
 #, fuzzy
 #| msgid "Click to select a font"
 msgctxt "KFontRequester|"
 msgid "Click to select a font"
 msgstr "Klickt hei, fir eng Schrëft ze wielen"
 
-#: kfontrequester.cpp:222
+#: kfontrequester.cpp:223
 #, fuzzy
 #| msgid "Preview of the selected font"
 msgctxt "KFontRequester|"
 msgid "Preview of the selected font"
 msgstr "Virschau vun der gewielter Schrëft"
 
-#: kfontrequester.cpp:223
+#: kfontrequester.cpp:224
 #, fuzzy
 #| msgid ""
 #| "This is a preview of the selected font. You can change it by clicking the "
@@ -2193,14 +2193,14 @@ msgstr ""
 "Dësst ass eng Virschau vun der gewielter Schrëft. Mat engem Klick op "
 "\"Auswielen...\" kënnt dir Ännerunge virhuelen."
 
-#: kfontrequester.cpp:226
+#: kfontrequester.cpp:227
 #, fuzzy, qt-format
 #| msgid "Preview of the \"%1\" font"
 msgctxt "KFontRequester|"
 msgid "Preview of the \"%1\" font"
 msgstr "Virschau vun der Schrëft \"%1\""
 
-#: kfontrequester.cpp:227
+#: kfontrequester.cpp:228
 #, fuzzy, qt-format
 #| msgid ""
 #| "This is a preview of the \"%1\" font. You can change it by clicking the "
@@ -2348,35 +2348,35 @@ msgid_plural "Password must be at least %n character(s) long"
 msgstr[0] "D'Passwuert muss mindestens aus engem Zeeche bestoën"
 msgstr[1] "D'Passwuert muss mindestens aus engem Zeeche bestoën"
 
-#: knewpassworddialog.cpp:81
+#: knewpassworddialog.cpp:80
 #, fuzzy
 #| msgid "Password is empty"
 msgctxt "KNewPasswordDialog|"
 msgid "Password is empty"
 msgstr "D'Passwuert ass eidel"
 
-#: knewpassworddialog.cpp:86 knewpassworddialog.ui:53
+#: knewpassworddialog.cpp:84
 #, fuzzy
 #| msgid "Passwords do not match"
 msgctxt "KNewPasswordDialog|"
 msgid "Passwords do not match"
 msgstr "Passwierder si verschidden"
 
-#: knewpassworddialog.cpp:92
+#: knewpassworddialog.cpp:89
 #, fuzzy
 #| msgid "Passwords match"
 msgctxt "KNewPasswordDialog|"
 msgid "Passwords match"
 msgstr "Selwëcht Passwierder"
 
-#: knewpassworddialog.cpp:139
+#: knewpassworddialog.cpp:143
 #, fuzzy
 #| msgid "Low Password Strength"
 msgctxt "KNewPasswordDialog|"
 msgid "Low Password Strength"
 msgstr "Niddereg Passwuert-Sëcherheet"
 
-#: knewpassworddialog.cpp:140
+#: knewpassworddialog.cpp:144
 #, fuzzy
 #| msgid ""
 #| "The password you have entered has a low strength. To improve the strength "
