@@ -202,7 +202,7 @@ msgstr "Den Auteur vun dësem Programm wëllt anonym bleiwen."
 #| "%1 was written by\n"
 #| "%2"
 msgctxt "KAboutData CLI|"
-msgid "%s was written by:\n"
+msgid "%s was written by:"
 msgstr ""
 "%1 ass vum\n"
 "%2 geschriwwe ginn"
@@ -218,7 +218,7 @@ msgstr "Mellt eventuell Käfere w.e.g. ënnert http://bugs.kde.org.\n"
 #, fuzzy
 #| msgid "Please report bugs to %1.\n"
 msgctxt "KAboutData CLI|"
-msgid "Please report bugs to %s.\n"
+msgid "Please report bugs to %s."
 msgstr "Mellt eventuell Käfere w.e.g. bei %1.\n"
 
 #: lib/plugin/kpluginloader.cpp:122
