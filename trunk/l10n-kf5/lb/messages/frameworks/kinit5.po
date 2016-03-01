@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-02-14 07:15+0000\n"
+"POT-Creation-Date: 2016-03-01 08:30+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -41,7 +41,7 @@ msgstr ""
 msgid "Could not find '%1' executable."
 msgstr "Konnt de Programm '%1' net fannen."
 
-#: kdeinit/kinit.cpp:676
+#: kdeinit/kinit.cpp:681
 #, kde-format
 msgid ""
 "Could not open library '%1'.\n"
@@ -50,7 +50,7 @@ msgstr ""
 "Konnt d'Bibliothéik '%1' net opmaachen.\n"
 "%2"
 
-#: kdeinit/kinit.cpp:718
+#: kdeinit/kinit.cpp:723
 #, kde-format
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
