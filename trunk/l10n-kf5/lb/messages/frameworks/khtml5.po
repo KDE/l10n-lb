@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-02-29 08:48+0000\n"
+"POT-Creation-Date: 2016-03-06 07:13+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -211,11 +211,11 @@ msgstr "&Handschrëft"
 msgid "Parse error at %1 line %2"
 msgstr "Parsing-Feeler bei %1, Zeil %2"
 
-#: ecma/kjs_html.cpp:2231 ecma/kjs_window.cpp:1946
+#: ecma/kjs_html.cpp:2233 ecma/kjs_window.cpp:1946
 msgid "Confirmation: JavaScript Popup"
 msgstr "Bestätegung: JavaScript-Fënsteren"
 
-#: ecma/kjs_html.cpp:2233
+#: ecma/kjs_html.cpp:2235
 msgid ""
 "This site is submitting a form which will open up a new browser window via "
 "JavaScript.\n"
@@ -225,7 +225,7 @@ msgstr ""
 "Fënster opmëcht.\n"
 "Wëllt dir dat zouloossen?"
 
-#: ecma/kjs_html.cpp:2236
+#: ecma/kjs_html.cpp:2238
 #, kde-format
 msgid ""
 "<qt>This site is submitting a form which will open <p>%1</p> in a new "
@@ -235,11 +235,11 @@ msgstr ""
 "<qt>Dëss Säit probéiert, e Formular ofzeschécken, deen iwwer JavaScript <p>"
 "%1</p> an enger neier Fënster opmëcht.<br/>Wëllt dir dat zouloossen?</qt>"
 
-#: ecma/kjs_html.cpp:2238 ecma/kjs_window.cpp:1954
+#: ecma/kjs_html.cpp:2240 ecma/kjs_window.cpp:1954
 msgid "Allow"
 msgstr "Erlaben"
 
-#: ecma/kjs_html.cpp:2238 ecma/kjs_window.cpp:1954
+#: ecma/kjs_html.cpp:2240 ecma/kjs_window.cpp:1954
 msgid "Do Not Allow"
 msgstr "Net erlaben"
 
@@ -371,7 +371,7 @@ msgstr "Eroflueden"
 msgid "Do Not Download"
 msgstr "Net eroflueden"
 
-#: html/htmlparser.cpp:1978
+#: html/htmlparser.cpp:1980
 msgid "This is a searchable index. Enter search keywords: "
 msgstr "Dësem Index kënnt dir duerchsichen. Gitt Stëchwierder an: "
 
@@ -1727,7 +1727,7 @@ msgstr "Nie fir &dëss Säit"
 msgid "Do &not store this time"
 msgstr "Dëss Noricht net méi weisen"
 
-#: xml/dom_docimpl.cpp:2376
+#: xml/dom_docimpl.cpp:2378
 msgid "Basic Page Style"
 msgstr "Grondstil"
 
