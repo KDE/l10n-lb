@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-02-25 08:16+0000\n"
+"POT-Creation-Date: 2016-03-08 08:58+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -67,11 +67,6 @@ msgstr "KDE-Ressourcen astellen"
 #: src/ioslaves/trash/kcmtrash.desktop:329
 msgctxt "X-KDE-Keywords"
 msgid "trash"
-msgstr ""
-
-#: src/ioslaves/trash/trash.protocol:25
-msgctxt "ExtraNames"
-msgid "Original Path,Deletion Date"
 msgstr ""
 
 #: src/kcms/kio/cache.desktop:15
