@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kcmshell\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-09-09 08:30+0000\n"
+"POT-Creation-Date: 2016-03-15 09:15+0000\n"
 "PO-Revision-Date: 2005-12-04 23:02+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -24,17 +24,19 @@ msgid "Your emails"
 msgstr "michel.ludwig@kdemail.net"
 
 #: main.cpp:167
-msgid "KDE Control Module"
-msgstr "KDE-Kontrollmodul"
+msgid "System Settings Module"
+msgstr ""
 
 #: main.cpp:169
-msgid "A tool to start single KDE control modules"
+#, fuzzy
+#| msgid "A tool to start single KDE control modules"
+msgid "A tool to start single system settings modules"
 msgstr "En Hëllefsprogramm fir eenzel KDE-Kontrollmoduler ze starten"
 
 #: main.cpp:171
 #, fuzzy
 #| msgid "(c) 1999-2004, The KDE Developers"
-msgid "(c) 1999-2015, The KDE Developers"
+msgid "(c) 1999-2016, The KDE Developers"
 msgstr "(c) 1999-2004, D'KDE-Entwéckler"
 
 #: main.cpp:173
@@ -112,6 +114,9 @@ msgid ""
 "Could not find module '%1'. See kcmshell5 --list for the full list of "
 "modules."
 msgstr ""
+
+#~ msgid "KDE Control Module"
+#~ msgstr "KDE-Kontrollmodul"
 
 #~ msgid "Embeds the module with buttons in window with id <id>"
 #~ msgstr "Bett d'Modul mat Knäppercher an der Fënster mat der id <id> an"
