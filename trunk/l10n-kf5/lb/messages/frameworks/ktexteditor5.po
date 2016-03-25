@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-03-19 07:39+0000\n"
+"POT-Creation-Date: 2016-03-25 07:43+0000\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2481,16 +2481,16 @@ msgstr "Rand an der Rumm (a Pixelen)"
 msgid "The line color to use for boxes"
 msgstr "Linnefaarf vun der Rumm"
 
-#: printing/printpainter.cpp:270
+#: printing/printpainter.cpp:284
 msgid "(Selection of) "
 msgstr "(Auswal vun)"
 
-#: printing/printpainter.cpp:526
+#: printing/printpainter.cpp:540
 #, kde-format
 msgid "Typographical Conventions for %1"
 msgstr "Typographesch Konventioune fir %1"
 
-#: printing/printpainter.cpp:557
+#: printing/printpainter.cpp:571
 #, fuzzy
 #| msgid "Context"
 msgid "text"
