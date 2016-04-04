@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-04-03 07:39+0000\n"
+"POT-Creation-Date: 2016-04-04 08:26+0000\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1583,17 +1583,17 @@ msgstr ""
 
 #. i18n: ectx: property (text), item, widget (QComboBox, cmbSwapFileMode)
 #: dialogs/opensaveconfigadvwidget.ui:119
-msgid "Alternative Folder"
+msgid "Alternative Directory"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, lblSwapDirectory)
 #: dialogs/opensaveconfigadvwidget.ui:127
-msgid "Folder"
+msgid "Directory"
 msgstr ""
 
 #. i18n: ectx: property (placeholderText), widget (KUrlRequester, kurlSwapDirectory)
 #: dialogs/opensaveconfigadvwidget.ui:143
-msgid "Folder for swap files"
+msgid "Directory for swp files"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QLabel, lblSwapFileSync)
