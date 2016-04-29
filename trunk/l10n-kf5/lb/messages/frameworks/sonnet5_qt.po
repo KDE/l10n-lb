@@ -283,7 +283,7 @@ msgctxt "Sonnet::Highlighter|"
 msgid "As-you-type spell checking disabled."
 msgstr "Autom. Rechtschreifkontroll ausgeschalt."
 
-#: ui/sonnetui.ui:30 ui/sonnetui.ui:46
+#: ui/sonnetui.ui:41 ui/sonnetui.ui:57
 #, fuzzy
 #| msgid ""
 #| "<qt><p>This word was considered to be an \"unknown word\" because it does "
@@ -324,28 +324,28 @@ msgstr ""
 "b> oder <b>Alles Ersetzen</b> ginn d'Ännerungen da virgeholl.</p>\n"
 "</qt>"
 
-#: ui/sonnetui.ui:36
+#: ui/sonnetui.ui:47
 #, fuzzy
 #| msgid "Unknown word:"
 msgctxt "SonnetUi|"
 msgid "Unknown word:"
 msgstr "Onbekannt Wuert:"
 
-#: ui/sonnetui.ui:43
+#: ui/sonnetui.ui:54
 #, fuzzy
 #| msgid "Unknown word"
 msgctxt "SonnetUi|"
 msgid "Unknown word"
 msgstr "Onbekannt Wuert"
 
-#: ui/sonnetui.ui:52
+#: ui/sonnetui.ui:63
 #, fuzzy
 #| msgid "<b>misspelled</b>"
 msgctxt "SonnetUi|"
 msgid "<b>misspelled</b>"
 msgstr "<b>falsch geschriwwen</b>"
 
-#: ui/sonnetui.ui:59 ui/sonnetui.ui:174
+#: ui/sonnetui.ui:70 ui/sonnetui.ui:180
 #, fuzzy
 #| msgid ""
 #| "<qt>\n"
@@ -361,21 +361,21 @@ msgstr ""
 "<p>Wielt hei d'Sprooch vun deem Dokument, dat nogekuckt soll ginn.</p>\n"
 "</qt>"
 
-#: ui/sonnetui.ui:64
+#: ui/sonnetui.ui:75
 #, fuzzy
 #| msgid "&Language:"
 msgctxt "SonnetUi|"
 msgid "&Language:"
 msgstr "&Sprooch:"
 
-#: ui/sonnetui.ui:74
+#: ui/sonnetui.ui:85
 #, fuzzy
 #| msgid "Text excerpt showing the unknown word in its context."
 msgctxt "SonnetUi|"
 msgid "Text excerpt showing the unknown word in its context."
 msgstr "Auszuch aus dem Text mam onbekannte Wuert am Zesummenhang."
 
-#: ui/sonnetui.ui:77
+#: ui/sonnetui.ui:88
 #, fuzzy
 #| msgid ""
 #| "<qt>\n"
@@ -401,14 +401,14 @@ msgstr ""
 "groussen Deel vum Text liesen. </p>\n"
 "</qt>"
 
-#: ui/sonnetui.ui:85
+#: ui/sonnetui.ui:96
 #, fuzzy
 #| msgid "... the <b>misspelled</b> word shown in context ..."
 msgctxt "SonnetUi|"
 msgid "... the <b>misspelled</b> word shown in context ..."
 msgstr "... dat <b>falsch geschriwwent</b> Wuert am Kontext..."
 
-#: ui/sonnetui.ui:95
+#: ui/sonnetui.ui:106
 #, fuzzy
 #| msgid ""
 #| "<qt>\n"
@@ -440,21 +440,21 @@ msgstr ""
 "p>\n"
 "</qt>"
 
-#: ui/sonnetui.ui:101
+#: ui/sonnetui.ui:112
 #, fuzzy
 #| msgid "<< Add to Dictionary"
 msgctxt "SonnetUi|"
 msgid "<< Add to Dictionary"
 msgstr "<< An d'Wierderbuch Dobäischreiwen"
 
-#: ui/sonnetui.ui:124
+#: ui/sonnetui.ui:135
 #, fuzzy
 #| msgid "Suggestion List"
 msgctxt "SonnetUi|"
 msgid "Suggestion List"
 msgstr "Lëscht mat Beispiller"
 
-#: ui/sonnetui.ui:127
+#: ui/sonnetui.ui:138
 #, fuzzy
 #| msgid ""
 #| "<qt>\n"
@@ -487,14 +487,7 @@ msgstr ""
 "dir een oder all Optriede vum onbekannte Wuert verbessere wëllt.</p>\n"
 "</qt>"
 
-#: ui/sonnetui.ui:137
-#, fuzzy
-#| msgid "Suggested Words"
-msgctxt "SonnetUi|"
-msgid "Suggested Words"
-msgstr "Méiglech Ersatzwierder"
-
-#: ui/sonnetui.ui:145 ui/sonnetui.ui:161
+#: ui/sonnetui.ui:151 ui/sonnetui.ui:167
 #, fuzzy
 #| msgid ""
 #| "<qt>\n"
@@ -522,28 +515,28 @@ msgstr ""
 "wëllt.</p>\n"
 "</qt>"
 
-#: ui/sonnetui.ui:151
+#: ui/sonnetui.ui:157
 #, fuzzy
 #| msgid "Replace &with:"
 msgctxt "SonnetUi|"
 msgid "Replace &with:"
 msgstr "Ersetzen &duerch:"
 
-#: ui/sonnetui.ui:171
+#: ui/sonnetui.ui:177
 #, fuzzy
 #| msgid "Language Selection"
 msgctxt "SonnetUi|"
 msgid "Language Selection"
 msgstr "Auswiel vun der Sprooch"
 
-#: ui/sonnetui.ui:191
+#: ui/sonnetui.ui:206
 #, fuzzy
 #| msgid "S&uggest"
 msgctxt "SonnetUi|"
 msgid "S&uggest"
 msgstr "&Virschloen"
 
-#: ui/sonnetui.ui:198
+#: ui/sonnetui.ui:213
 #, fuzzy
 #| msgid ""
 #| "<qt>\n"
@@ -562,14 +555,14 @@ msgstr ""
 "der Këscht uëwe lénks z'ersetzen.</p>\n"
 "</qt>"
 
-#: ui/sonnetui.ui:203
+#: ui/sonnetui.ui:218
 #, fuzzy
 #| msgid "&Replace"
 msgctxt "SonnetUi|"
 msgid "&Replace"
 msgstr "E&rsetzen"
 
-#: ui/sonnetui.ui:210
+#: ui/sonnetui.ui:225
 #, fuzzy
 #| msgid ""
 #| "<qt>\n"
@@ -588,14 +581,14 @@ msgstr ""
 "Edit-Këscht uëwe lénks z'ersetzen.</p>\n"
 "</qt>"
 
-#: ui/sonnetui.ui:215
+#: ui/sonnetui.ui:230
 #, fuzzy
 #| msgid "R&eplace All"
 msgctxt "SonnetUi|"
 msgid "R&eplace All"
 msgstr "Alles &Ersetzen"
 
-#: ui/sonnetui.ui:222
+#: ui/sonnetui.ui:237
 #, fuzzy
 #| msgid ""
 #| "<qt>\n"
@@ -620,14 +613,14 @@ msgstr ""
 "aus enger anerer Sprooch ass.</p>\n"
 "</qt>"
 
-#: ui/sonnetui.ui:228
+#: ui/sonnetui.ui:243
 #, fuzzy
 #| msgid "&Ignore"
 msgctxt "SonnetUi|"
 msgid "&Ignore"
 msgstr "&Ignoréieren"
 
-#: ui/sonnetui.ui:235 ui/sonnetui.ui:248
+#: ui/sonnetui.ui:250 ui/sonnetui.ui:263
 #, fuzzy
 #| msgid ""
 #| "<qt>\n"
@@ -653,14 +646,14 @@ msgstr ""
 "aus enger anerer Sprooch ass.</p>\n"
 "</qt>"
 
-#: ui/sonnetui.ui:241
+#: ui/sonnetui.ui:256
 #, fuzzy
 #| msgid "I&gnore All"
 msgctxt "SonnetUi|"
 msgid "I&gnore All"
 msgstr "Alles Ign&oréieren"
 
-#: ui/sonnetui.ui:254
+#: ui/sonnetui.ui:269
 #, fuzzy
 #| msgid "Autocorrect"
 msgctxt "SonnetUi|"
@@ -687,6 +680,12 @@ msgstr "Ignoréieren"
 msgctxt "Sonnet::SpellCheckDecorator|"
 msgid "Add to Dictionary"
 msgstr "<< An d'Wierderbuch Dobäischreiwen"
+
+#, fuzzy
+#~| msgid "Suggested Words"
+#~ msgctxt "SonnetUi|"
+#~ msgid "Suggested Words"
+#~ msgstr "Méiglech Ersatzwierder"
 
 #~ msgctxt "NAME OF TRANSLATORS"
 #~ msgid "Your names"
