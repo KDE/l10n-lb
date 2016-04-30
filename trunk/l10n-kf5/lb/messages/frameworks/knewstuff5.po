@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-03-15 09:00+0000\n"
+"POT-Creation-Date: 2016-04-30 07:54+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -82,46 +82,46 @@ msgstr "Configuratiounsdateien"
 msgid "Configuration file is invalid: \"%1\""
 msgstr "Configuratiounsdateien"
 
-#: core/engine.cpp:160
+#: core/engine.cpp:161
 #, fuzzy
 #| msgid "View Frame Information"
 msgid "Loading provider information"
 msgstr "Frame-Informatioun kucken"
 
-#: core/engine.cpp:183
+#: core/engine.cpp:184
 #, kde-format
 msgid "Could not load get hot new stuff providers from file: %1"
 msgstr ""
 
-#: core/engine.cpp:201
+#: core/engine.cpp:202
 #, fuzzy
 #| msgid "Error parsing providers list."
 msgid "Error initializing provider."
 msgstr "Feeler beim duerchliese vun der Providerlëscht."
 
-#: core/engine.cpp:205 core/engine.cpp:522
+#: core/engine.cpp:206 core/engine.cpp:523
 #, fuzzy
 #| msgid "Loading Applet"
 msgid "Loading data"
 msgstr "Amgaang, de Miniprogramm ze lueden"
 
-#: core/engine.cpp:235
+#: core/engine.cpp:236
 msgid "Loading data from provider"
 msgstr ""
 
-#: core/engine.cpp:240
+#: core/engine.cpp:241
 #, fuzzy, kde-format
 #| msgid "Loading resource '%1' failed!"
 msgid "Loading of providers from file: %1 failed"
 msgstr "D'Quell '%1' konnt net geluede ginn!"
 
-#: core/engine.cpp:482
+#: core/engine.cpp:483
 #, fuzzy, kde-format
 #| msgid "Redo: %1"
 msgid "Re: %1"
 msgstr "Nees zeréck: %1"
 
-#: core/engine.cpp:524
+#: core/engine.cpp:525
 #, fuzzy, kde-format
 #| msgid "Print Previe&w..."
 msgid "Loading one preview"
@@ -129,7 +129,7 @@ msgid_plural "Loading %1 previews"
 msgstr[0] "Drocker&virschau..."
 msgstr[1] "Drocker&virschau..."
 
-#: core/engine.cpp:526 ui/itemsgridviewdelegate.cpp:334
+#: core/engine.cpp:527 ui/itemsgridviewdelegate.cpp:334
 #: ui/itemsviewdelegate.cpp:128
 #, fuzzy
 #| msgid "Install"
