@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2015-10-26 07:54+0000\n"
+"POT-Creation-Date: 2016-06-01 07:19+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -72,17 +72,17 @@ msgstr "Eegeschaften"
 msgid "Clear List"
 msgstr "Input-Feld eidelmaachen"
 
-#: kstandardaction.cpp:90
+#: kstandardaction.cpp:88
 msgctxt "go back"
 msgid "&Back"
 msgstr "&Zeréck"
 
-#: kstandardaction.cpp:97
+#: kstandardaction.cpp:95
 msgctxt "go forward"
 msgid "&Forward"
 msgstr "&No Vir"
 
-#: kstandardaction.cpp:104
+#: kstandardaction.cpp:102
 #, fuzzy
 #| msgctxt "beginning (of line)"
 #| msgid "&Home"
@@ -90,26 +90,18 @@ msgctxt "home page"
 msgid "&Home"
 msgstr "&Ufank"
 
-#: kstandardaction.cpp:107
+#: kstandardaction.cpp:105
 msgctxt "show help"
 msgid "&Help"
 msgstr "&Hëllef"
 
-#: kstandardaction.cpp:526 kstandardaction_p.h:96
-msgid "Show &Menubar"
-msgstr "&Menübar weisen"
-
-#: kstandardaction.cpp:534
+#: kstandardaction.cpp:141
 #, fuzzy
 #| msgid "Show Menubar<p>Shows the menubar again after it has been hidden"
 msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
 msgstr "Menübar weisen<p>Weist d'Menübar nees un, nodeems se verstoppt gi war"
 
-#: kstandardaction.cpp:552 kstandardaction_p.h:98
-msgid "Show St&atusbar"
-msgstr "St&atusbar weisen"
-
-#: kstandardaction.cpp:555
+#: kstandardaction.cpp:151
 #, fuzzy
 #| msgid ""
 #| "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of "
@@ -464,6 +456,10 @@ msgid "Check spelling in document"
 msgstr "Rechtschreifkontroll"
 
 #: kstandardaction_p.h:96
+msgid "Show &Menubar"
+msgstr "&Menübar weisen"
+
+#: kstandardaction_p.h:96
 #, fuzzy
 #| msgid "Show &Menubar"
 msgid "Show or hide menubar"
@@ -478,6 +474,10 @@ msgstr "&Toolbar weisen"
 #| msgid "Show &Toolbar"
 msgid "Show or hide toolbar"
 msgstr "&Toolbar weisen"
+
+#: kstandardaction_p.h:98
+msgid "Show St&atusbar"
+msgstr "St&atusbar weisen"
 
 #: kstandardaction_p.h:98
 #, fuzzy
