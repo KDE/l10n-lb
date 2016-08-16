@@ -24,7 +24,7 @@ msgctxt "KNotificationRestrictions|"
 msgid "Unknown Application"
 msgstr "Programm zoumaachen"
 
-#: kstatusnotifieritem.cpp:439 kstatusnotifieritem.cpp:893
+#: kstatusnotifieritem.cpp:439 kstatusnotifieritem.cpp:917
 #, fuzzy
 #| msgid "&Minimize"
 msgctxt "KStatusNotifierItem|"
@@ -38,21 +38,21 @@ msgctxt "KStatusNotifierItem|"
 msgid "Quit"
 msgstr "Ophalen"
 
-#: kstatusnotifieritem.cpp:891
+#: kstatusnotifieritem.cpp:915
 #, fuzzy
 #| msgid "&Restore"
 msgctxt "KStatusNotifierItem|"
 msgid "&Restore"
 msgstr "Zeréck&setzen"
 
-#: kstatusnotifieritem.cpp:905
+#: kstatusnotifieritem.cpp:929
 #, fuzzy, qt-format
 #| msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgctxt "KStatusNotifierItem|"
 msgid "<qt>Are you sure you want to quit <b>%1</b>?</qt>"
 msgstr "<qt>Sidd dir sëcher, dass dir <b>%1</b> zoumaache wëllt ?</qt>"
 
-#: kstatusnotifieritem.cpp:908
+#: kstatusnotifieritem.cpp:932
 #, fuzzy
 #| msgid "Confirm Quit From System Tray"
 msgctxt "KStatusNotifierItem|"
