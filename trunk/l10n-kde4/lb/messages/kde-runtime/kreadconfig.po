@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kreadconfig\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2011-08-02 05:32+0200\n"
+"POT-Creation-Date: 2016-11-19 11:45+0100\n"
 "PO-Revision-Date: 2005-12-27 21:34+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -16,38 +16,47 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #: kreadconfig.cpp:54
+#, kde-format
 msgid "KReadConfig"
 msgstr "KReadConfig"
 
 #: kreadconfig.cpp:56
+#, kde-format
 msgid "Read KConfig entries - for use in shell scripts"
 msgstr "Liest KConfig-Entréen - zur Benotzung a Shellskripter"
 
 #: kreadconfig.cpp:58
+#, kde-format
 msgid "(c) 2001 Red Hat, Inc."
 msgstr ""
 
 #: kreadconfig.cpp:59
+#, kde-format
 msgid "Bernhard Rosenkraenzer"
 msgstr ""
 
 #: kreadconfig.cpp:65
+#, kde-format
 msgid "Use <file> instead of global config"
 msgstr "Benotz <file> amplaz vun der globaler Configuratiounsdatei"
 
 #: kreadconfig.cpp:66
+#, kde-format
 msgid "Group to look in. Use repeatedly for nested groups."
 msgstr ""
 
 #: kreadconfig.cpp:67
+#, kde-format
 msgid "Key to look for"
 msgstr "Schlëssel no deem gesicht soll ginn"
 
 #: kreadconfig.cpp:68
+#, kde-format
 msgid "Default value"
 msgstr "Standardwäert"
 
 #: kreadconfig.cpp:69
+#, kde-format
 msgid "Type of variable"
 msgstr "Typ vun der Variabel"
 

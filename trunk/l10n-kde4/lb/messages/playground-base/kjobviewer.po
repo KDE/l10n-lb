@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kjobviewer\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2012-08-20 06:00+0200\n"
+"POT-Creation-Date: 2016-11-19 11:46+0100\n"
 "PO-Revision-Date: 2005-12-27 21:28+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -15,61 +15,75 @@ msgstr ""
 "X-Generator: KBabel 1.11\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
+#, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "Michel Ludwig"
 
+#, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "michel.ludwig@kdemail.net"
 
 #: kjobviewer.cpp:134
+#, kde-format
 msgid "All Printers"
 msgstr "All Dréckeren"
 
 #: kjobviewer.cpp:141
+#, kde-format
 msgid "There is no default printer. Start with --all to see all printers."
 msgstr ""
 "Et gëtt kee Standarddrécker. Start mat --all fir all d'Dréckeren ze gesinn."
 
 #: kjobviewer.cpp:141
+#, kde-format
 msgid "Print Error"
 msgstr "Feeler beim Drécken"
 
 #. i18n: ectx: Menu (jobs)
 #: kjobviewerui.rc:4
+#, kde-format
 msgid "&Jobs"
 msgstr "Optree&g"
 
 #. i18n: ectx: Menu (filter)
 #: kjobviewerui.rc:13
+#, kde-format
 msgid "F&ilter"
 msgstr "F&ilter"
 
 #: main.cpp:31
+#, kde-format
 msgid "KJobViewer"
 msgstr "KJobViewer"
 
 #: main.cpp:31
+#, kde-format
 msgid "A print job viewer"
 msgstr "En Uweiser fir Drockoptreeg"
 
 #: main.cpp:31
+#, kde-format
 msgid "(c) 2001, Michael Goffioul"
 msgstr ""
 
 #: main.cpp:32
+#, kde-format
 msgid "Michael Goffioul"
 msgstr ""
 
 #: main.cpp:36
+#, kde-format
 msgid "The printer for which jobs are requested"
 msgstr "Den Drécker fir deen Drockoptreeg ugefrot solle ginn"
 
 #: main.cpp:37
+#, kde-format
 msgid "Show job viewer at startup"
 msgstr "Optrag-Uweiser beim Starte weisen"
 
 #: main.cpp:38
+#, kde-format
 msgid "Show jobs for all printers"
 msgstr "Optreeg fir all Dréckeren uweisen"
