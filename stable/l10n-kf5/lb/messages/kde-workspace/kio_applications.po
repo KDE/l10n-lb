@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kio_settings\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-02-09 08:51+0000\n"
+"POT-Creation-Date: 2016-11-19 22:53+0100\n"
 "PO-Revision-Date: 2005-12-24 11:39+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -17,15 +17,17 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #: kio_applications.cpp:123
+#, kde-format
 msgid "Applications"
 msgstr "Applicatiounen"
 
 #: kio_applications.cpp:123
+#, kde-format
 msgid "Programs"
 msgstr "Programmer"
 
 #: kio_applications.cpp:130
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "Unknown settings folder"
 msgid "Unknown application folder"
 msgstr "Onbekannten Astellungsdossier"
