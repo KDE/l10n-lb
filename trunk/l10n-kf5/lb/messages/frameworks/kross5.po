@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-08-03 07:15+0000\n"
+"POT-Creation-Date: 2016-11-19 20:12+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -16,45 +16,50 @@ msgstr ""
 "X-Generator: KBabel 1.11.2\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
+#, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "Kevin Claude Everard,Michel Ludwig"
 
+#, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "kevin@math.uni-sb.de,miclud@studcs.uni-sb.de"
 
 #: console/main.cpp:99
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "Props"
 msgctxt "application name"
 msgid "Kross"
 msgstr "Eegeschaften"
 
 #: console/main.cpp:101
+#, kde-format
 msgctxt "application description"
 msgid "Command-line utility to run Kross scripts."
 msgstr ""
 
 #: console/main.cpp:103
+#, kde-format
 msgctxt "@info:credit"
 msgid "Copyright 2006 Sebastian Sauer"
 msgstr ""
 
 #: console/main.cpp:107
+#, kde-format
 msgctxt "@info:credit"
 msgid "Sebastian Sauer"
 msgstr ""
 
 #: console/main.cpp:108
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "Author"
 msgctxt "@info:credit"
 msgid "Author"
 msgstr "Auteur"
 
 #: console/main.cpp:118
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "Description:"
 msgctxt "@info:shell command-line argument"
 msgid "The script to run."
@@ -91,11 +96,12 @@ msgid "Failed to create script for interpreter \"%1\""
 msgstr "Kee KScript Runner fir den Typ \"%1\" kritt."
 
 #: core/manager.cpp:145
+#, kde-format
 msgid "Level of safety of the Ruby interpreter"
 msgstr ""
 
 #: modules/form.cpp:328
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "Cancel"
 msgid "Cancel?"
 msgstr "Ofbriechen"
@@ -106,84 +112,92 @@ msgid "No such function \"%1\""
 msgstr "D'Entrée '%1' ass net am Menü."
 
 #: ui/actioncollectionview.cpp:175
+#, kde-format
 msgid "Name:"
 msgstr "Numm:"
 
 #: ui/actioncollectionview.cpp:183
-#, fuzzy
+#, fuzzy, kde-format
 msgid "Text:"
 msgstr "Test"
 
 #: ui/actioncollectionview.cpp:190
-#, fuzzy
+#, fuzzy, kde-format
 msgid "Comment:"
 msgstr "Kommentar"
 
 #: ui/actioncollectionview.cpp:197
-#, fuzzy
+#, fuzzy, kde-format
 msgid "Icon:"
 msgstr "Symboler"
 
 #: ui/actioncollectionview.cpp:218
-#, fuzzy
+#, fuzzy, kde-format
 msgid "Interpreter:"
 msgstr "Sicht am Internet"
 
 #: ui/actioncollectionview.cpp:234
+#, kde-format
 msgid "File:"
 msgstr "Datei:"
 
 #: ui/actioncollectionview.cpp:327
-#, fuzzy
+#, fuzzy, kde-format
 msgid "Run"
 msgstr "Runen"
 
 #: ui/actioncollectionview.cpp:329
-#, fuzzy
+#, fuzzy, kde-format
 msgid "Execute the selected script."
 msgstr "Virschau vun der gewielter Schrëft"
 
 #: ui/actioncollectionview.cpp:334
+#, kde-format
 msgid "Stop"
 msgstr "Stop"
 
 #: ui/actioncollectionview.cpp:336
-#, fuzzy
+#, fuzzy, kde-format
 msgid "Stop execution of the selected script."
 msgstr "Virschau vun der gewielter Schrëft"
 
 #: ui/actioncollectionview.cpp:341
-#, fuzzy
+#, fuzzy, kde-format
 msgid "Edit..."
 msgstr "V&eränneren..."
 
 #: ui/actioncollectionview.cpp:343
+#, kde-format
 msgid "Edit selected script."
 msgstr ""
 
 #: ui/actioncollectionview.cpp:348
-#, fuzzy
+#, fuzzy, kde-format
 msgid "Add..."
 msgstr "&Dobäimaachen..."
 
 #: ui/actioncollectionview.cpp:350
+#, kde-format
 msgid "Add a new script."
 msgstr ""
 
 #: ui/actioncollectionview.cpp:355
+#, kde-format
 msgid "Remove"
 msgstr "Ewechmaachen"
 
 #: ui/actioncollectionview.cpp:357
+#, kde-format
 msgid "Remove selected script."
 msgstr ""
 
 #: ui/actioncollectionview.cpp:550
+#, kde-format
 msgid "Edit"
 msgstr "Veränneren"
 
 #: ui/actioncollectionview.cpp:555
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "General"
 msgctxt "@title:group Script properties"
 msgid "General"

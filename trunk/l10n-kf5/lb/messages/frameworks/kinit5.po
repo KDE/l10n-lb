@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2016-09-23 07:11+0000\n"
+"POT-Creation-Date: 2016-11-19 20:12+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -17,6 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #: kdeinit/kinit.cpp:509
+#, kde-format
 msgid ""
 "Unable to start new process.\n"
 "The system may have reached the maximum number of open files possible or the "
@@ -27,6 +28,7 @@ msgstr ""
 "iech agestallte maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn."
 
 #: kdeinit/kinit.cpp:531
+#, kde-format
 msgid ""
 "Unable to create new process.\n"
 "The system may have reached the maximum number of processes possible or the "
@@ -102,7 +104,7 @@ msgid "Error loading '%1'.\n"
 msgstr "Feeler beim Luede vun '%1'.\n"
 
 #: klauncher/klauncher_main.cpp:146
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid ""
 #| "klauncher: This program is not supposed to be started manually.\n"
 #| "klauncher: It is started automatically by kdeinit.\n"
