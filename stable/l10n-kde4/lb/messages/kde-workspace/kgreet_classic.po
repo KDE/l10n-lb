@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kgreet_classic\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2013-11-05 11:50+0000\n"
+"POT-Creation-Date: 2016-11-19 18:41+0100\n"
 "PO-Revision-Date: 2005-12-23 20:59+0100\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -16,26 +16,32 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #: kgreet_classic.cpp:92
+#, kde-format
 msgid "&Username:"
 msgstr "Benotzern&umm:"
 
 #: kgreet_classic.cpp:97
+#, kde-format
 msgid "Username:"
 msgstr "Benotzernumm:"
 
 #: kgreet_classic.cpp:109
+#, kde-format
 msgid "&Password:"
 msgstr "&Passwuert:"
 
 #: kgreet_classic.cpp:110
+#, kde-format
 msgid "Current &password:"
 msgstr "Aktuellt &Passwuert:"
 
 #: kgreet_classic.cpp:122
+#, kde-format
 msgid "&New password:"
 msgstr "&Neit Passwuert:"
 
 #: kgreet_classic.cpp:125
+#, kde-format
 msgid "Con&firm password:"
 msgstr "Passwuert &bestätegen:"
 
@@ -45,7 +51,7 @@ msgid "Unrecognized prompt \"%1\""
 msgstr "Net-erkannten Agabopfuederung \"%1\""
 
 #: kgreet_classic.cpp:475
-#, fuzzy
+#, fuzzy, kde-format
 #| msgid "Username + password (classic)"
 msgctxt "@item:inmenu authentication method"
 msgid "Username + password (classic)"
