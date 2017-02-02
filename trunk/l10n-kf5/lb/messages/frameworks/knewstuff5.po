@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-01-31 09:03+0100\n"
+"POT-Creation-Date: 2017-02-02 03:54+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -90,47 +90,47 @@ msgstr "Configuratiounsdateien"
 msgid "Configuration file is invalid: \"%1\""
 msgstr "Configuratiounsdateien"
 
-#: core/engine.cpp:188
+#: core/engine.cpp:189
 #, fuzzy, kde-format
 #| msgid "View Frame Information"
 msgid "Loading provider information"
 msgstr "Frame-Informatioun kucken"
 
-#: core/engine.cpp:211
+#: core/engine.cpp:212
 #, kde-format
 msgid "Could not load get hot new stuff providers from file: %1"
 msgstr ""
 
-#: core/engine.cpp:234
+#: core/engine.cpp:235
 #, fuzzy, kde-format
 #| msgid "Error parsing providers list."
 msgid "Error initializing provider."
 msgstr "Feeler beim duerchliese vun der Providerlëscht."
 
-#: core/engine.cpp:238 core/engine.cpp:581
+#: core/engine.cpp:239 core/engine.cpp:582
 #, fuzzy, kde-format
 #| msgid "Loading Applet"
 msgid "Loading data"
 msgstr "Amgaang, de Miniprogramm ze lueden"
 
-#: core/engine.cpp:272
+#: core/engine.cpp:273
 #, kde-format
 msgid "Loading data from provider"
 msgstr ""
 
-#: core/engine.cpp:277
+#: core/engine.cpp:278
 #, fuzzy, kde-format
 #| msgid "Loading resource '%1' failed!"
 msgid "Loading of providers from file: %1 failed"
 msgstr "D'Quell '%1' konnt net geluede ginn!"
 
-#: core/engine.cpp:541
+#: core/engine.cpp:542
 #, fuzzy, kde-format
 #| msgid "Redo: %1"
 msgid "Re: %1"
 msgstr "Nees zeréck: %1"
 
-#: core/engine.cpp:583
+#: core/engine.cpp:584
 #, fuzzy, kde-format
 #| msgid "Print Previe&w..."
 msgid "Loading one preview"
@@ -138,8 +138,8 @@ msgid_plural "Loading %1 previews"
 msgstr[0] "Drocker&virschau..."
 msgstr[1] "Drocker&virschau..."
 
-#: core/engine.cpp:585 ui/itemsgridviewdelegate.cpp:335
-#: ui/itemsviewdelegate.cpp:130
+#: core/engine.cpp:586 ui/itemsgridviewdelegate.cpp:335
+#: ui/itemsviewdelegate.cpp:131
 #, fuzzy, kde-format
 #| msgid "Install"
 msgid "Installing"
@@ -405,14 +405,14 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, updateButton)
 #. i18n: ectx: property (text), widget (QRadioButton, radioUpdate)
 #: downloadwidget.ui:566 ui/itemsgridviewdelegate.cpp:330
-#: ui/itemsviewdelegate.cpp:125 uploaddialog.ui:171
+#: ui/itemsviewdelegate.cpp:126 uploaddialog.ui:171
 #, kde-format
 msgid "Update"
 msgstr "Aktualiséieren"
 
 #. i18n: ectx: property (text), widget (QPushButton, uninstallButton)
 #: downloadwidget.ui:576 ui/itemsgridviewdelegate.cpp:326
-#: ui/itemsviewdelegate.cpp:121
+#: ui/itemsviewdelegate.cpp:122
 #, fuzzy, kde-format
 #| msgid "Install"
 msgid "Uninstall"
@@ -427,8 +427,8 @@ msgstr "Fax Doheem"
 
 #. i18n: ectx: property (text), widget (QPushButton, installButton)
 #: downloadwidget.ui:590 ui/itemsgridviewdelegate.cpp:345
-#: ui/itemsgridviewdelegate.cpp:355 ui/itemsviewdelegate.cpp:140
-#: ui/itemsviewdelegate.cpp:150
+#: ui/itemsgridviewdelegate.cpp:355 ui/itemsviewdelegate.cpp:141
+#: ui/itemsviewdelegate.cpp:151
 #, kde-format
 msgid "Install"
 msgstr "Installéieren"
@@ -621,22 +621,22 @@ msgctxt "Tooltip for a link in a dialog"
 msgid "Opens in a browser window"
 msgstr "An enger neier &Fënster opmaachen"
 
-#: ui/itemsgridviewdelegate.cpp:101 ui/itemsviewdelegate.cpp:260
+#: ui/itemsgridviewdelegate.cpp:101 ui/itemsviewdelegate.cpp:272
 #, fuzzy, kde-format
 #| msgid "Rating"
 msgid "Rating: %1%"
 msgstr "Bewertung"
 
 #: ui/itemsgridviewdelegate.cpp:152 ui/itemsgridviewdelegate.cpp:154
-#: ui/itemsgridviewdelegate.cpp:156 ui/itemsviewdelegate.cpp:220
-#: ui/itemsviewdelegate.cpp:222 ui/itemsviewdelegate.cpp:224
+#: ui/itemsgridviewdelegate.cpp:156 ui/itemsviewdelegate.cpp:232
+#: ui/itemsviewdelegate.cpp:234 ui/itemsviewdelegate.cpp:236
 #, fuzzy, kde-format
 #| msgid "<b>Error</b>: %1: %2"
 msgctxt "Show the author of this item in a list"
 msgid "By <i>%1</i>"
 msgstr "<b>Feeler</b>: %1: %2"
 
-#: ui/itemsgridviewdelegate.cpp:179 ui/itemsviewdelegate.cpp:238
+#: ui/itemsgridviewdelegate.cpp:179 ui/itemsviewdelegate.cpp:250
 #, kde-format
 msgctxt "fan as in supporter"
 msgid "1 fan"
@@ -644,7 +644,7 @@ msgid_plural "%1 fans"
 msgstr[0] ""
 msgstr[1] ""
 
-#: ui/itemsgridviewdelegate.cpp:182 ui/itemsviewdelegate.cpp:241
+#: ui/itemsgridviewdelegate.cpp:182 ui/itemsviewdelegate.cpp:253
 #, fuzzy, kde-format
 #| msgid "Download"
 msgid "1 download"
@@ -652,28 +652,34 @@ msgid_plural "%1 downloads"
 msgstr[0] "Eroflueden"
 msgstr[1] "Eroflueden"
 
-#: ui/itemsgridviewdelegate.cpp:248 ui/itemsviewdelegate.cpp:311
+#: ui/itemsgridviewdelegate.cpp:248 ui/itemsviewdelegate.cpp:323
 #, fuzzy, kde-format
 #| msgid "Print Previe&w..."
 msgid "Loading Preview"
 msgstr "Drocker&virschau..."
 
-#: ui/itemsgridviewdelegate.cpp:275 ui/itemsviewdelegate.cpp:171
+#: ui/itemsgridviewdelegate.cpp:275 ui/itemsviewdelegate.cpp:183
 #, kde-format
 msgid "Details"
 msgstr "Detailer"
 
-#: ui/itemsgridviewdelegate.cpp:340 ui/itemsviewdelegate.cpp:135
+#: ui/itemsgridviewdelegate.cpp:340 ui/itemsviewdelegate.cpp:136
 #, fuzzy, kde-format
 #| msgid "Update"
 msgid "Updating"
 msgstr "Aktualiséieren"
 
-#: ui/itemsgridviewdelegate.cpp:350 ui/itemsviewdelegate.cpp:145
+#: ui/itemsgridviewdelegate.cpp:350 ui/itemsviewdelegate.cpp:146
 #, fuzzy, kde-format
 #| msgid "Installation"
 msgid "Install Again"
 msgstr "Installatioun"
+
+#: ui/itemsviewdelegate.cpp:171
+#, fuzzy, kde-format
+#| msgid "Unshade"
+msgid "Use"
+msgstr "Erofklappen"
 
 #: uploaddialog.cpp:65
 #, fuzzy, kde-format
@@ -15694,9 +15700,6 @@ msgstr "Mam Ersetzen ufänken"
 
 #~ msgid "Shade"
 #~ msgstr "Eropklappen"
-
-#~ msgid "Unshade"
-#~ msgstr "Erofklappen"
 
 #~ msgid "Normalize"
 #~ msgstr "Normaliséieren"
