@@ -2440,14 +2440,14 @@ msgctxt "KMessageBox|"
 msgid "Do not show this message again"
 msgstr "Dëss Noricht net méi weisen"
 
-#: kmessagewidget.cpp:90
+#: kmessagewidget.cpp:91
 #, fuzzy
 #| msgid "&Close"
 msgctxt "KMessageWidget|"
 msgid "&Close"
 msgstr "&Zoumaachen"
 
-#: kmessagewidget.cpp:91
+#: kmessagewidget.cpp:92
 #, fuzzy
 #| msgid "Close Message"
 msgctxt "KMessageWidget|"
