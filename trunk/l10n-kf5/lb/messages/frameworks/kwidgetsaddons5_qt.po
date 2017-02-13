@@ -172,7 +172,7 @@ msgctxt "KCharSelectData|KCharSelect section name"
 msgid "Phonetic Symbols"
 msgstr "Geometrësch Symboler"
 
-#: kcharselect-translation.cpp:36 kcharselectdata.cpp:720
+#: kcharselect-translation.cpp:36 kcharselectdata.cpp:739
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "CombiningMarks"
@@ -1506,132 +1506,139 @@ msgctxt "KCharSelect|"
 msgid "Name: "
 msgstr "Numm:"
 
-#: kcharselect.cpp:772
+#: kcharselect.cpp:773
 msgctxt "KCharSelect|"
 msgid "Annotations and Cross References"
 msgstr ""
 
-#: kcharselect.cpp:776
+#: kcharselect.cpp:777
 #, fuzzy
 #| msgid "Please enter name:"
 msgctxt "KCharSelect|"
 msgid "Alias names:"
 msgstr "Gitt w.e.g. den Numm an:"
 
-#: kcharselect.cpp:784
+#: kcharselect.cpp:785
 #, fuzzy
 #| msgid "Note"
 msgctxt "KCharSelect|"
 msgid "Notes:"
 msgstr "Notiz"
 
-#: kcharselect.cpp:792
+#: kcharselect.cpp:793
 msgctxt "KCharSelect|"
 msgid "See also:"
 msgstr ""
 
-#: kcharselect.cpp:807
+#: kcharselect.cpp:808
 msgctxt "KCharSelect|"
 msgid "Equivalents:"
 msgstr ""
 
-#: kcharselect.cpp:815
+#: kcharselect.cpp:816
 msgctxt "KCharSelect|"
 msgid "Approximate equivalents:"
 msgstr ""
 
 #: kcharselect.cpp:824
 #, fuzzy
+#| msgid "Description:"
+msgctxt "KCharSelect|"
+msgid "Decomposition:"
+msgstr "Beschreiwung:"
+
+#: kcharselect.cpp:836
+#, fuzzy
 #| msgid "Frame Information"
 msgctxt "KCharSelect|"
 msgid "CJK Ideograph Information"
 msgstr "Informatioun iwwert de Frame"
 
-#: kcharselect.cpp:827
+#: kcharselect.cpp:839
 msgctxt "KCharSelect|"
 msgid "Definition in English: "
 msgstr ""
 
-#: kcharselect.cpp:834
+#: kcharselect.cpp:846
 msgctxt "KCharSelect|"
 msgid "Mandarin Pronunciation: "
 msgstr ""
 
-#: kcharselect.cpp:841
+#: kcharselect.cpp:853
 msgctxt "KCharSelect|"
 msgid "Cantonese Pronunciation: "
 msgstr ""
 
-#: kcharselect.cpp:848
+#: kcharselect.cpp:860
 msgctxt "KCharSelect|"
 msgid "Japanese On Pronunciation: "
 msgstr ""
 
-#: kcharselect.cpp:855
+#: kcharselect.cpp:867
 msgctxt "KCharSelect|"
 msgid "Japanese Kun Pronunciation: "
 msgstr ""
 
-#: kcharselect.cpp:862
+#: kcharselect.cpp:874
 msgctxt "KCharSelect|"
 msgid "Tang Pronunciation: "
 msgstr ""
 
-#: kcharselect.cpp:869
+#: kcharselect.cpp:881
 msgctxt "KCharSelect|"
 msgid "Korean Pronunciation: "
 msgstr ""
 
-#: kcharselect.cpp:875
+#: kcharselect.cpp:887
 msgctxt "KCharSelect|"
 msgid "General Character Properties"
 msgstr ""
 
-#: kcharselect.cpp:876
+#: kcharselect.cpp:888
 msgctxt "KCharSelect|"
 msgid "Block: "
 msgstr ""
 
-#: kcharselect.cpp:877
+#: kcharselect.cpp:889
 #, fuzzy
 #| msgid "&Unicode code point:"
 msgctxt "KCharSelect|"
 msgid "Unicode category: "
 msgstr "&Unicode Codepunkt:"
 
-#: kcharselect.cpp:881
+#: kcharselect.cpp:893
 msgctxt "KCharSelect|"
 msgid "Various Useful Representations"
 msgstr ""
 
-#: kcharselect.cpp:882
+#: kcharselect.cpp:894
 msgctxt "KCharSelect|"
 msgid "UTF-8:"
 msgstr ""
 
-#: kcharselect.cpp:886
+#: kcharselect.cpp:898
 msgctxt "KCharSelect|"
 msgid "UTF-16: "
 msgstr ""
 
-#: kcharselect.cpp:893
+#: kcharselect.cpp:905
 msgctxt "KCharSelect|"
 msgid "C octal escaped UTF-8: "
 msgstr ""
 
-#: kcharselect.cpp:897
+#: kcharselect.cpp:909
 msgctxt "KCharSelect|"
 msgid "XML decimal entity:"
 msgstr ""
 
-#: kcharselect.cpp:1044
+#: kcharselect.cpp:1056
 #, fuzzy
 #| msgid "&Unicode code point:"
 msgctxt "KCharSelectItemModel|"
 msgid "Unicode code point:"
 msgstr "&Unicode Codepunkt:"
 
-#: kcharselect.cpp:1045
+#: kcharselect.cpp:1057
 msgctxt "KCharSelectItemModel|Character"
 msgid "In decimal"
 msgstr ""
@@ -1674,61 +1681,61 @@ msgctxt "KCharSelectData|"
 msgid "<not assigned>"
 msgstr ""
 
-#: kcharselectdata.cpp:729
+#: kcharselectdata.cpp:748
 #, fuzzy
 #| msgid "Horizontal"
 msgctxt "KCharSelectData|"
 msgid "Non-printable"
 msgstr "Horizontal"
 
-#: kcharselectdata.cpp:762
+#: kcharselectdata.cpp:781
 #, fuzzy
 #| msgid "Other Contributors:"
 msgctxt "KCharSelectData|"
 msgid "Other, Control"
 msgstr "Aner Mataarbëchter:"
 
-#: kcharselectdata.cpp:763
+#: kcharselectdata.cpp:782
 #, fuzzy
 #| msgid "vCard Format"
 msgctxt "KCharSelectData|"
 msgid "Other, Format"
 msgstr "Format vun der vCard"
 
-#: kcharselectdata.cpp:764
+#: kcharselectdata.cpp:783
 msgctxt "KCharSelectData|"
 msgid "Other, Not Assigned"
 msgstr ""
 
-#: kcharselectdata.cpp:765
+#: kcharselectdata.cpp:784
 #, fuzzy
 #| msgid "Private"
 msgctxt "KCharSelectData|"
 msgid "Other, Private Use"
 msgstr "Privat"
 
-#: kcharselectdata.cpp:766
+#: kcharselectdata.cpp:785
 #, fuzzy
 #| msgid "vCard Format"
 msgctxt "KCharSelectData|"
 msgid "Other, Surrogate"
 msgstr "Format vun der vCard"
 
-#: kcharselectdata.cpp:767
+#: kcharselectdata.cpp:786
 #, fuzzy
 #| msgid "Last modified:"
 msgctxt "KCharSelectData|"
 msgid "Letter, Lowercase"
 msgstr "Als Lescht geännert:"
 
-#: kcharselectdata.cpp:768
+#: kcharselectdata.cpp:787
 #, fuzzy
 #| msgid "Last modified:"
 msgctxt "KCharSelectData|"
 msgid "Letter, Modifier"
 msgstr "Als Lescht geännert:"
 
-#: kcharselectdata.cpp:769
+#: kcharselectdata.cpp:788
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Number Forms"
@@ -1736,41 +1743,41 @@ msgctxt "KCharSelectData|"
 msgid "Letter, Other"
 msgstr "Zuelen"
 
-#: kcharselectdata.cpp:770
+#: kcharselectdata.cpp:789
 #, fuzzy
 #| msgid "Last modified:"
 msgctxt "KCharSelectData|"
 msgid "Letter, Titlecase"
 msgstr "Als Lescht geännert:"
 
-#: kcharselectdata.cpp:771
+#: kcharselectdata.cpp:790
 #, fuzzy
 #| msgid "Last modified:"
 msgctxt "KCharSelectData|"
 msgid "Letter, Uppercase"
 msgstr "Als Lescht geännert:"
 
-#: kcharselectdata.cpp:772
+#: kcharselectdata.cpp:791
 msgctxt "KCharSelectData|"
 msgid "Mark, Spacing Combining"
 msgstr ""
 
-#: kcharselectdata.cpp:773
+#: kcharselectdata.cpp:792
 msgctxt "KCharSelectData|"
 msgid "Mark, Enclosing"
 msgstr ""
 
-#: kcharselectdata.cpp:774
+#: kcharselectdata.cpp:793
 msgctxt "KCharSelectData|"
 msgid "Mark, Non-Spacing"
 msgstr ""
 
-#: kcharselectdata.cpp:775
+#: kcharselectdata.cpp:794
 msgctxt "KCharSelectData|"
 msgid "Number, Decimal Digit"
 msgstr ""
 
-#: kcharselectdata.cpp:776
+#: kcharselectdata.cpp:795
 #, fuzzy
 #| msgctxt "QAccel"
 #| msgid "Number Lock"
@@ -1778,7 +1785,7 @@ msgctxt "KCharSelectData|"
 msgid "Number, Letter"
 msgstr "Nummer Lock"
 
-#: kcharselectdata.cpp:777
+#: kcharselectdata.cpp:796
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Number Forms"
@@ -1786,58 +1793,58 @@ msgctxt "KCharSelectData|"
 msgid "Number, Other"
 msgstr "Zuelen"
 
-#: kcharselectdata.cpp:778
+#: kcharselectdata.cpp:797
 msgctxt "KCharSelectData|"
 msgid "Punctuation, Connector"
 msgstr ""
 
-#: kcharselectdata.cpp:779
+#: kcharselectdata.cpp:798
 #, fuzzy
 #| msgid "General Settings"
 msgctxt "KCharSelectData|"
 msgid "Punctuation, Dash"
 msgstr "Allgemeng Astellungen"
 
-#: kcharselectdata.cpp:780
+#: kcharselectdata.cpp:799
 msgctxt "KCharSelectData|"
 msgid "Punctuation, Close"
 msgstr ""
 
-#: kcharselectdata.cpp:781
+#: kcharselectdata.cpp:800
 msgctxt "KCharSelectData|"
 msgid "Punctuation, Final Quote"
 msgstr ""
 
-#: kcharselectdata.cpp:782
+#: kcharselectdata.cpp:801
 msgctxt "KCharSelectData|"
 msgid "Punctuation, Initial Quote"
 msgstr ""
 
-#: kcharselectdata.cpp:783
+#: kcharselectdata.cpp:802
 msgctxt "KCharSelectData|"
 msgid "Punctuation, Other"
 msgstr ""
 
-#: kcharselectdata.cpp:784
+#: kcharselectdata.cpp:803
 #, fuzzy
 #| msgid "General Settings"
 msgctxt "KCharSelectData|"
 msgid "Punctuation, Open"
 msgstr "Allgemeng Astellungen"
 
-#: kcharselectdata.cpp:785
+#: kcharselectdata.cpp:804
 msgctxt "KCharSelectData|"
 msgid "Symbol, Currency"
 msgstr ""
 
-#: kcharselectdata.cpp:786
+#: kcharselectdata.cpp:805
 #, fuzzy
 #| msgid "Last modified:"
 msgctxt "KCharSelectData|"
 msgid "Symbol, Modifier"
 msgstr "Als Lescht geännert:"
 
-#: kcharselectdata.cpp:787
+#: kcharselectdata.cpp:806
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Currency Symbols"
@@ -1845,7 +1852,7 @@ msgctxt "KCharSelectData|"
 msgid "Symbol, Math"
 msgstr "Währungssymboler"
 
-#: kcharselectdata.cpp:788
+#: kcharselectdata.cpp:807
 #, fuzzy
 #| msgctxt "QFont"
 #| msgid "Number Forms"
@@ -1853,28 +1860,28 @@ msgctxt "KCharSelectData|"
 msgid "Symbol, Other"
 msgstr "Zuelen"
 
-#: kcharselectdata.cpp:789
+#: kcharselectdata.cpp:808
 #, fuzzy
 #| msgid "Start of Line"
 msgctxt "KCharSelectData|"
 msgid "Separator, Line"
 msgstr "Ufank vun der Zeil"
 
-#: kcharselectdata.cpp:790
+#: kcharselectdata.cpp:809
 #, fuzzy
 #| msgid "Start replace"
 msgctxt "KCharSelectData|"
 msgid "Separator, Paragraph"
 msgstr "Mam Ersetzen ufänken"
 
-#: kcharselectdata.cpp:791
+#: kcharselectdata.cpp:810
 #, fuzzy
 #| msgid "Start replace"
 msgctxt "KCharSelectData|"
 msgid "Separator, Space"
 msgstr "Mam Ersetzen ufänken"
 
-#: kcharselectdata.cpp:792
+#: kcharselectdata.cpp:811
 #, fuzzy
 #| msgid "Unknown"
 msgctxt "KCharSelectData|"
@@ -2065,28 +2072,28 @@ msgctxt "KDateTimeEdit|@info"
 msgid "The entered date and time is after the maximum allowed date and time."
 msgstr ""
 
-#: keditlistwidget.cpp:299
+#: keditlistwidget.cpp:303
 #, fuzzy
 #| msgid "&Add"
 msgctxt "KEditListWidget|"
 msgid "&Add"
 msgstr "&Dobäimaachen"
 
-#: keditlistwidget.cpp:311
+#: keditlistwidget.cpp:315
 #, fuzzy
 #| msgid "&Remove"
 msgctxt "KEditListWidget|"
 msgid "&Remove"
 msgstr "&Ewechmaachen"
 
-#: keditlistwidget.cpp:323
+#: keditlistwidget.cpp:327
 #, fuzzy
 #| msgid "Move &Up"
 msgctxt "KEditListWidget|"
 msgid "Move &Up"
 msgstr "Er&opréckelen"
 
-#: keditlistwidget.cpp:328
+#: keditlistwidget.cpp:332
 #, fuzzy
 #| msgid "Move &Down"
 msgctxt "KEditListWidget|"
@@ -8572,9 +8579,6 @@ msgstr ""
 
 #~ msgid "Additional Information: %1"
 #~ msgstr "Zousätzlech Informatioun: %1"
-
-#~ msgid "Description:"
-#~ msgstr "Beschreiwung:"
 
 #~ msgid "Possible Causes:"
 #~ msgstr "Méiglech Grënn:"
