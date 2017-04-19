@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-02-02 03:54+0100\n"
+"POT-Creation-Date: 2017-04-19 02:47+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -139,7 +139,7 @@ msgstr[0] "Drocker&virschau..."
 msgstr[1] "Drocker&virschau..."
 
 #: core/engine.cpp:586 ui/itemsgridviewdelegate.cpp:335
-#: ui/itemsviewdelegate.cpp:131
+#: ui/itemsviewdelegate.cpp:132
 #, fuzzy, kde-format
 #| msgid "Install"
 msgid "Installing"
@@ -405,14 +405,14 @@ msgstr ""
 #. i18n: ectx: property (text), widget (QPushButton, updateButton)
 #. i18n: ectx: property (text), widget (QRadioButton, radioUpdate)
 #: downloadwidget.ui:566 ui/itemsgridviewdelegate.cpp:330
-#: ui/itemsviewdelegate.cpp:126 uploaddialog.ui:171
+#: ui/itemsviewdelegate.cpp:127 uploaddialog.ui:171
 #, kde-format
 msgid "Update"
 msgstr "Aktualiséieren"
 
 #. i18n: ectx: property (text), widget (QPushButton, uninstallButton)
 #: downloadwidget.ui:576 ui/itemsgridviewdelegate.cpp:326
-#: ui/itemsviewdelegate.cpp:122
+#: ui/itemsviewdelegate.cpp:123
 #, fuzzy, kde-format
 #| msgid "Install"
 msgid "Uninstall"
@@ -427,8 +427,8 @@ msgstr "Fax Doheem"
 
 #. i18n: ectx: property (text), widget (QPushButton, installButton)
 #: downloadwidget.ui:590 ui/itemsgridviewdelegate.cpp:345
-#: ui/itemsgridviewdelegate.cpp:355 ui/itemsviewdelegate.cpp:141
-#: ui/itemsviewdelegate.cpp:151
+#: ui/itemsgridviewdelegate.cpp:355 ui/itemsviewdelegate.cpp:142
+#: ui/itemsviewdelegate.cpp:152
 #, kde-format
 msgid "Install"
 msgstr "Installéieren"
@@ -621,22 +621,22 @@ msgctxt "Tooltip for a link in a dialog"
 msgid "Opens in a browser window"
 msgstr "An enger neier &Fënster opmaachen"
 
-#: ui/itemsgridviewdelegate.cpp:101 ui/itemsviewdelegate.cpp:272
+#: ui/itemsgridviewdelegate.cpp:101 ui/itemsviewdelegate.cpp:279
 #, fuzzy, kde-format
 #| msgid "Rating"
 msgid "Rating: %1%"
 msgstr "Bewertung"
 
 #: ui/itemsgridviewdelegate.cpp:152 ui/itemsgridviewdelegate.cpp:154
-#: ui/itemsgridviewdelegate.cpp:156 ui/itemsviewdelegate.cpp:232
-#: ui/itemsviewdelegate.cpp:234 ui/itemsviewdelegate.cpp:236
+#: ui/itemsgridviewdelegate.cpp:156 ui/itemsviewdelegate.cpp:239
+#: ui/itemsviewdelegate.cpp:241 ui/itemsviewdelegate.cpp:243
 #, fuzzy, kde-format
 #| msgid "<b>Error</b>: %1: %2"
 msgctxt "Show the author of this item in a list"
 msgid "By <i>%1</i>"
 msgstr "<b>Feeler</b>: %1: %2"
 
-#: ui/itemsgridviewdelegate.cpp:179 ui/itemsviewdelegate.cpp:250
+#: ui/itemsgridviewdelegate.cpp:179 ui/itemsviewdelegate.cpp:257
 #, kde-format
 msgctxt "fan as in supporter"
 msgid "1 fan"
@@ -644,7 +644,7 @@ msgid_plural "%1 fans"
 msgstr[0] ""
 msgstr[1] ""
 
-#: ui/itemsgridviewdelegate.cpp:182 ui/itemsviewdelegate.cpp:253
+#: ui/itemsgridviewdelegate.cpp:182 ui/itemsviewdelegate.cpp:260
 #, fuzzy, kde-format
 #| msgid "Download"
 msgid "1 download"
@@ -652,34 +652,41 @@ msgid_plural "%1 downloads"
 msgstr[0] "Eroflueden"
 msgstr[1] "Eroflueden"
 
-#: ui/itemsgridviewdelegate.cpp:248 ui/itemsviewdelegate.cpp:323
+#: ui/itemsgridviewdelegate.cpp:248 ui/itemsviewdelegate.cpp:330
 #, fuzzy, kde-format
 #| msgid "Print Previe&w..."
 msgid "Loading Preview"
 msgstr "Drocker&virschau..."
 
-#: ui/itemsgridviewdelegate.cpp:275 ui/itemsviewdelegate.cpp:183
+#: ui/itemsgridviewdelegate.cpp:275 ui/itemsviewdelegate.cpp:184
 #, kde-format
 msgid "Details"
 msgstr "Detailer"
 
-#: ui/itemsgridviewdelegate.cpp:340 ui/itemsviewdelegate.cpp:136
+#: ui/itemsgridviewdelegate.cpp:340 ui/itemsviewdelegate.cpp:137
 #, fuzzy, kde-format
 #| msgid "Update"
 msgid "Updating"
 msgstr "Aktualiséieren"
 
-#: ui/itemsgridviewdelegate.cpp:350 ui/itemsviewdelegate.cpp:146
+#: ui/itemsgridviewdelegate.cpp:350 ui/itemsviewdelegate.cpp:147
 #, fuzzy, kde-format
 #| msgid "Installation"
 msgid "Install Again"
 msgstr "Installatioun"
 
-#: ui/itemsviewdelegate.cpp:171
+#: ui/itemsviewdelegate.cpp:172
 #, fuzzy, kde-format
 #| msgid "Unshade"
 msgid "Use"
 msgstr "Erofklappen"
+
+#: ui/itemsviewdelegate.cpp:228
+#, fuzzy, kde-format
+#| msgid "Downloads"
+msgctxt "Show the size of the file in a list"
+msgid "<p>Size: %1</p>"
+msgstr "Downloads"
 
 #: uploaddialog.cpp:65
 #, fuzzy, kde-format
@@ -9323,11 +9330,6 @@ msgstr "Mam Ersetzen ufänken"
 #~| msgid "Most Downloads"
 #~ msgid "<p>No Downloads</p>"
 #~ msgstr "Am meeschten erofgelueden"
-
-#, fuzzy
-#~| msgid "Downloads"
-#~ msgid "<p>Downloads: %1</p>\n"
-#~ msgstr "Downloads"
 
 #, fuzzy
 #~| msgid "Rating"
