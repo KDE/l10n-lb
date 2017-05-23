@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-05-19 01:24+0000\n"
+"POT-Creation-Date: 2017-05-23 01:10+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -156,7 +156,7 @@ msgctxt "Comment"
 msgid "Credentials used to access SMB shares"
 msgstr ""
 
-#: src/kcms/kio/smb.desktop:122
+#: src/kcms/kio/smb.desktop:123
 msgctxt "X-KDE-Keywords"
 msgid ""
 "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
@@ -391,7 +391,7 @@ msgctxt "Comment"
 msgid "Configure the User Agent exposed by the HTTP kioslave"
 msgstr ""
 
-#: src/kcms/kio/useragent.desktop:124
+#: src/kcms/kio/useragent.desktop:125
 msgctxt "X-KDE-Keywords"
 msgid "User Agent,Browser,Internet,WWW,Network,agent,bindings,server,login"
 msgstr ""
