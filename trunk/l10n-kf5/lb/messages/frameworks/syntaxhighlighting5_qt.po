@@ -1029,6 +1029,12 @@ msgctxt "Language|"
 msgid "Protobuf"
 msgstr ""
 
+#, fuzzy
+#| msgid "Plugins"
+msgctxt "Language|"
+msgid "Pug"
+msgstr "Plugins"
+
 msgctxt "Language|"
 msgid "Puppet"
 msgstr ""
@@ -4308,9 +4314,6 @@ msgstr "Zeecheketten"
 #, fuzzy
 #~ msgid "R/O"
 #~ msgstr "N/L"
-
-#~ msgid "Plugins"
-#~ msgstr "Plugins"
 
 #, fuzzy
 #~| msgid "Move Word Left"
