@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2017-01-30 03:49+0100\n"
+"POT-Creation-Date: 2017-08-10 03:23+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -612,16 +612,15 @@ msgid "About &KDE"
 msgstr "Iwwer &KDE"
 
 #: kstandardaction_p.h:116
-#, fuzzy, kde-format
-#| msgid "Delete All"
-msgid "&Delete File"
-msgstr "Alles Läschen"
+#, kde-format
+msgid "&Delete"
+msgstr "&Läschen"
 
 #: kstandardaction_p.h:117
 #, fuzzy, kde-format
-#| msgid "&Send Files"
-msgid "&Rename File"
-msgstr "Dateie &verschécken"
+#| msgid "&Replace..."
+msgid "&Rename..."
+msgstr "E&rsetzen..."
 
 #: kstandardaction_p.h:118
 #, kde-format
@@ -668,6 +667,16 @@ msgstr "&Zeréck"
 msgctxt "@action:button Goes to next tip, opposite to previous"
 msgid "&Next"
 msgstr "&Weider"
+
+#, fuzzy
+#~| msgid "Delete All"
+#~ msgid "&Delete File"
+#~ msgstr "Alles Läschen"
+
+#, fuzzy
+#~| msgid "&Send Files"
+#~ msgid "&Rename File"
+#~ msgstr "Dateie &verschécken"
 
 #~ msgid "Name"
 #~ msgstr "Numm"
@@ -5666,9 +5675,6 @@ msgstr "&Weider"
 
 #~ msgid "Continue operation"
 #~ msgstr "Virgang fortsetzen"
-
-#~ msgid "&Delete"
-#~ msgstr "&Läschen"
 
 #~ msgid "Delete item(s)"
 #~ msgstr "Element(er) läschen"
