@@ -2702,7 +2702,7 @@ msgctxt "KPixmapRegionSelectorWidget|"
 msgid "Rotate &Counterclockwise"
 msgstr "&Géint d'Auer dréien"
 
-#: ksqueezedtextlabel.cpp:165
+#: ksqueezedtextlabel.cpp:168
 #, fuzzy
 #| msgid "&Copy Text"
 msgctxt "KSqueezedTextLabel|"
