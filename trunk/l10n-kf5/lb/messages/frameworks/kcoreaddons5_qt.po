@@ -528,7 +528,9 @@ msgstr "%1 Optiounen"
 #, fuzzy, qt-format
 msgctxt "KFormat|"
 msgid "%n millisecond(s)"
-msgstr "%1 Optiounen"
+msgid_plural "%n millisecond(s)"
+msgstr[0] "%1 Optiounen"
+msgstr[1] "%1 Optiounen"
 
 #. @item:intext %n is a whole number
 #: lib/util/kformatprivate.cpp:306
@@ -536,28 +538,36 @@ msgstr "%1 Optiounen"
 #| msgid "Monday"
 msgctxt "KFormat|"
 msgid "%n day(s)"
-msgstr "Méinden"
+msgid_plural "%n day(s)"
+msgstr[0] "Méinden"
+msgstr[1] "Méinden"
 
 #. @item:intext %n is a whole number
 #: lib/util/kformatprivate.cpp:311
 #, qt-format
 msgctxt "KFormat|"
 msgid "%n hour(s)"
-msgstr ""
+msgid_plural "%n hour(s)"
+msgstr[0] ""
+msgstr[1] ""
 
 #. @item:intext %n is a whole number
 #: lib/util/kformatprivate.cpp:316
 #, fuzzy, qt-format
 msgctxt "KFormat|"
 msgid "%n minute(s)"
-msgstr "%1 Optiounen"
+msgid_plural "%n minute(s)"
+msgstr[0] "%1 Optiounen"
+msgstr[1] "%1 Optiounen"
 
 #. @item:intext %n is a whole number
 #: lib/util/kformatprivate.cpp:321
 #, fuzzy, qt-format
 msgctxt "KFormat|"
 msgid "%n second(s)"
-msgstr "%1 Optiounen"
+msgid_plural "%n second(s)"
+msgstr[0] "%1 Optiounen"
+msgstr[1] "%1 Optiounen"
 
 #. @item:intext days and hours. This uses the previous item:intext messages. If this does not fit the grammar of your language please contact the i18n team to solve the problem
 #. ----------
