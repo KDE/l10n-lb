@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-01-27 02:31+0000\n"
+"POT-Creation-Date: 2018-01-30 02:30+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -20,7 +20,7 @@ msgctxt "Name"
 msgid "Execute action as root."
 msgstr ""
 
-#: src/ioslaves/file/kauth/file.actions:16
+#: src/ioslaves/file/kauth/file.actions:17
 msgctxt "Description"
 msgid "Root privileges are required to complete the action."
 msgstr ""
@@ -97,7 +97,7 @@ msgctxt "Comment"
 msgid "Configure web cache settings"
 msgstr "KDE-Ressourcen astellen"
 
-#: src/kcms/kio/cache.desktop:146
+#: src/kcms/kio/cache.desktop:147
 msgctxt "X-KDE-Keywords"
 msgid "Cache,History,Browsing History,Ports,Size"
 msgstr ""
@@ -110,12 +110,12 @@ msgctxt "Name"
 msgid "Cookies"
 msgstr "KDED-Modul fir d'Verwaltung vun de Cookien"
 
-#: src/kcms/kio/cookies.desktop:59
+#: src/kcms/kio/cookies.desktop:60
 msgctxt "Comment"
 msgid "Configure the way cookies work"
 msgstr ""
 
-#: src/kcms/kio/cookies.desktop:145
+#: src/kcms/kio/cookies.desktop:146
 msgctxt "X-KDE-Keywords"
 msgid "Cookies,Browsing,Internet,WWW,Network,Policy,Domains"
 msgstr ""
@@ -166,7 +166,7 @@ msgctxt "Comment"
 msgid "Credentials used to access SMB shares"
 msgstr ""
 
-#: src/kcms/kio/smb.desktop:129
+#: src/kcms/kio/smb.desktop:130
 msgctxt "X-KDE-Keywords"
 msgid ""
 "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
@@ -401,7 +401,7 @@ msgctxt "Comment"
 msgid "Configure the User Agent exposed by the HTTP kioslave"
 msgstr ""
 
-#: src/kcms/kio/useragent.desktop:131
+#: src/kcms/kio/useragent.desktop:132
 msgctxt "X-KDE-Keywords"
 msgid "User Agent,Browser,Internet,WWW,Network,agent,bindings,server,login"
 msgstr ""
@@ -616,7 +616,7 @@ msgctxt "Name"
 msgid "Arch Linux Package Search"
 msgstr "Debian-Päckchen"
 
-#: src/urifilters/ikws/searchproviders/archpkg.desktop:43
+#: src/urifilters/ikws/searchproviders/archpkg.desktop:44
 msgctxt "Query"
 msgid "http://www.archlinux.org/packages/?q=\\\\{@}"
 msgstr ""
@@ -1165,7 +1165,7 @@ msgctxt "Name"
 msgid "Great Dictionary of the Catalan Language (GRan Enciclopèdia Catalana)"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/grec.desktop:45
+#: src/urifilters/ikws/searchproviders/grec.desktop:46
 msgctxt "Query"
 msgid "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
 msgstr ""
@@ -1685,7 +1685,7 @@ msgctxt "Name"
 msgid "Soundcloud"
 msgstr "AAC-Sound"
 
-#: src/urifilters/ikws/searchproviders/soundcloud.desktop:43
+#: src/urifilters/ikws/searchproviders/soundcloud.desktop:44
 msgctxt "Query"
 msgid "https://soundcloud.com/search?q=\\\\{@}"
 msgstr ""
