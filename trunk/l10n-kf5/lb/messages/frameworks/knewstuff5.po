@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-03-10 03:16+0100\n"
+"POT-Creation-Date: 2018-04-22 03:35+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -256,7 +256,7 @@ msgstr ""
 msgid "Get Hot New Stuff"
 msgstr "Nei Saachen ofhuelen"
 
-#: downloaddialog.cpp:97
+#: downloaddialog.cpp:98
 #, kde-format
 msgctxt "Program name followed by 'Add On Installer'"
 msgid "%1 Add-On Installer"
