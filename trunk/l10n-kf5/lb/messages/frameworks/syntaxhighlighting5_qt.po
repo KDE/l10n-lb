@@ -1131,6 +1131,12 @@ msgctxt "Language|"
 msgid "RapidQ"
 msgstr ""
 
+#, fuzzy
+#| msgid "&Indentation mode:"
+msgctxt "Language|"
+msgid "R documentation"
+msgstr "A&réckungsmodus:"
+
 msgctxt "Language|"
 msgid "RelaxNG-Compact"
 msgstr ""
@@ -1701,6 +1707,13 @@ msgstr "Kate-Syntax-Ervirhiewungsanalyséierer"
 msgctxt "SyntaxHighlightingCLI|"
 msgid "theme"
 msgstr "Scheme"
+
+#: lib/definition_p.h:90
+#, fuzzy
+#| msgid "None"
+msgctxt "Syntax highlighting|"
+msgid "None"
+msgstr "Keen"
 
 #: lib/definitiondownloader.cpp:74
 msgctxt "QObject|"
@@ -3321,12 +3334,6 @@ msgstr ""
 #~ msgid "Ruby"
 #~ msgstr "Ruby"
 
-#, fuzzy
-#~| msgid "None"
-#~ msgctxt "Syntax highlighting"
-#~ msgid "None"
-#~ msgstr "Keen"
-
 #~ msgid "Normal Text"
 #~ msgstr "Normalen Text"
 
@@ -3422,12 +3429,6 @@ msgstr ""
 #~ msgctxt "@item:intable Text context"
 #~ msgid "Comment"
 #~ msgstr "Kommentar"
-
-#, fuzzy
-#~| msgid "&Indentation mode:"
-#~ msgctxt "@item:intable Text context"
-#~ msgid "Documentation"
-#~ msgstr "A&réckungsmodus:"
 
 #, fuzzy
 #~| msgid "Indentation"
