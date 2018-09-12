@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-08-16 09:05+0200\n"
+"POT-Creation-Date: 2018-09-12 03:46+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -140,7 +140,7 @@ msgid ""
 "%2\n"
 msgstr "De KLauncher konnt net iwwer DCOP erreecht ginn\n"
 
-#: kdeinit/ktoolinvocation_x11.cpp:251
+#: kdeinit/ktoolinvocation_x11.cpp:250
 #, kde-format
 msgid ""
 "Could not launch the mail client:\n"
@@ -151,7 +151,7 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdeinit/ktoolinvocation_x11.cpp:252
+#: kdeinit/ktoolinvocation_x11.cpp:251
 #, fuzzy, kde-format
 #| msgid "Could not Launch Mail Client"
 msgid "Could not launch Mail Client"
@@ -160,8 +160,8 @@ msgstr "Konnt de Mailprogramm net starten"
 #. i18n("Could not launch %1:\n\n%2", exe, error),
 #. i18n("Could not launch %1:\n\n%2", htmlApp->exec(), error),
 #. i18n("Could not launch %1:\n\n%2", exe, error),
-#: kdeinit/ktoolinvocation_x11.cpp:301 kdeinit/ktoolinvocation_x11.cpp:326
-#: kdeinit/ktoolinvocation_x11.cpp:345
+#: kdeinit/ktoolinvocation_x11.cpp:300 kdeinit/ktoolinvocation_x11.cpp:325
+#: kdeinit/ktoolinvocation_x11.cpp:344
 #, kde-format
 msgid ""
 "Could not launch the browser:\n"
@@ -172,14 +172,14 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdeinit/ktoolinvocation_x11.cpp:302 kdeinit/ktoolinvocation_x11.cpp:327
-#: kdeinit/ktoolinvocation_x11.cpp:346
+#: kdeinit/ktoolinvocation_x11.cpp:301 kdeinit/ktoolinvocation_x11.cpp:326
+#: kdeinit/ktoolinvocation_x11.cpp:345
 #, fuzzy, kde-format
 #| msgid "Could not Launch Browser"
 msgid "Could not launch Browser"
 msgstr "Konnt de Browser net starten"
 
-#: kdeinit/ktoolinvocation_x11.cpp:385
+#: kdeinit/ktoolinvocation_x11.cpp:384
 #, fuzzy, kde-format
 #| msgid ""
 #| "Could not launch the mail client:\n"
@@ -194,7 +194,7 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdeinit/ktoolinvocation_x11.cpp:386
+#: kdeinit/ktoolinvocation_x11.cpp:385
 #, fuzzy, kde-format
 #| msgid "Could not Launch Mail Client"
 msgid "Could not launch Terminal Client"
