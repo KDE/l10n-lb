@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2018-11-25 03:01+0100\n"
+"POT-Creation-Date: 2018-11-26 03:03+0100\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1005,7 +1005,7 @@ msgid "&Delete"
 msgstr "Ausgewielt"
 
 #. i18n: ectx: property (title), widget (QGroupBox, gbProperties)
-#: dialogs/filetypeconfigwidget.ui:66 mode/katemodeconfigpage.cpp:265
+#: dialogs/filetypeconfigwidget.ui:66 mode/katemodeconfigpage.cpp:269
 #, fuzzy, kde-format
 msgid "Properties"
 msgstr "Rumm-Eegenschafte"
@@ -2431,28 +2431,28 @@ msgstr "Kodéieru&ng"
 msgid "Vi Input Mode"
 msgstr ""
 
-#: mode/katemodeconfigpage.cpp:59
+#: mode/katemodeconfigpage.cpp:60
 #, kde-format
 msgid "<Unchanged>"
 msgstr ""
 
-#: mode/katemodeconfigpage.cpp:69
+#: mode/katemodeconfigpage.cpp:70
 #, fuzzy, kde-format
 #| msgid "Use Default Style"
 msgid "Use Default"
 msgstr "Standard-Stil benotzen"
 
-#: mode/katemodeconfigpage.cpp:181
+#: mode/katemodeconfigpage.cpp:185
 #, kde-format
 msgid "New Filetype"
 msgstr "Neien Dateityp"
 
-#: mode/katemodeconfigpage.cpp:235
+#: mode/katemodeconfigpage.cpp:239
 #, kde-format
 msgid "Properties of %1"
 msgstr "Eegeschafte vun %1"
 
-#: mode/katemodeconfigpage.cpp:285
+#: mode/katemodeconfigpage.cpp:289
 #, kde-format
 msgid ""
 "Select the MimeTypes you want for this file type.\n"
@@ -2460,12 +2460,12 @@ msgid ""
 "as well."
 msgstr ""
 
-#: mode/katemodeconfigpage.cpp:287
+#: mode/katemodeconfigpage.cpp:291
 #, kde-format
 msgid "Select Mime Types"
 msgstr "Mime-Typen auswielen"
 
-#: mode/katemodeconfigpage.cpp:298
+#: mode/katemodeconfigpage.cpp:302
 #, fuzzy, kde-format
 #| msgid "&Filetype"
 msgid "Modes && Filetypes"
