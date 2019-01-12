@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-01-04 03:02+0100\n"
+"POT-Creation-Date: 2019-01-12 03:00+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -466,9 +466,10 @@ msgstr[1] ""
 
 #: kpluginselector.cpp:261
 #, fuzzy, kde-format
-#| msgid "Search Columns"
-msgid "Search Plugins"
-msgstr "Kolonnen duerchsichen"
+#| msgctxt "QAccel"
+#| msgid "Search"
+msgid "Search..."
+msgstr "Sichen"
 
 #: kpluginselector.cpp:710
 #, fuzzy, kde-format
@@ -493,6 +494,11 @@ msgstr "Komponenten auswielen"
 #| msgid "Embeddable HTML component"
 msgid "Enable component"
 msgstr "Abettungsfäheg HTML-Komponent"
+
+#, fuzzy
+#~| msgid "Search Columns"
+#~ msgid "Search Plugins"
+#~ msgstr "Kolonnen duerchsichen"
 
 #~ msgid "Name"
 #~ msgstr "Numm"
@@ -4946,12 +4952,6 @@ msgstr "Abettungsfäheg HTML-Komponent"
 #~ msgstr ""
 #~ "Dësst ass eng Virschau vun der Schrëft \"%1\". Mat engem Klick op "
 #~ "\"Auswielen...\" kënnt dir Ännerunge virhuelen."
-
-#, fuzzy
-#~| msgctxt "QAccel"
-#~| msgid "Search"
-#~ msgid "Search"
-#~ msgstr "Sichen"
 
 #~ msgid "Stop"
 #~ msgstr "Stop"
