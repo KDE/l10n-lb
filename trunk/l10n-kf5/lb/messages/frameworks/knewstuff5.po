@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-03-18 03:10+0100\n"
+"POT-Creation-Date: 2019-03-19 03:13+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -62,6 +62,13 @@ msgid "Too many requests to server. Please try again in a few minutes."
 msgstr ""
 
 #: attica/atticaprovider.cpp:450
+#, kde-format
+msgid ""
+"The Open Collaboration Services instance %1 does not support the attempted "
+"function."
+msgstr ""
+
+#: attica/atticaprovider.cpp:452
 #, kde-format
 msgid "Unknown Open Collaboration Service API error. (%1)"
 msgstr ""
@@ -666,7 +673,7 @@ msgid_plural "%1 downloads"
 msgstr[0] "Eroflueden"
 msgstr[1] "Eroflueden"
 
-#: ui/itemsgridviewdelegate.cpp:256 ui/itemsviewdelegate.cpp:333
+#: ui/itemsgridviewdelegate.cpp:256 ui/itemsviewdelegate.cpp:336
 #, fuzzy, kde-format
 #| msgid "Print Previe&w..."
 msgid "Loading Preview"
