@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
-"POT-Creation-Date: 2019-02-15 03:05+0100\n"
+"POT-Creation-Date: 2019-03-21 03:13+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -114,7 +114,7 @@ msgstr ""
 msgid "Apply Settings"
 msgstr "Astellungen uwenden"
 
-#: kcmultidialog.cpp:262 kpluginselector.cpp:715
+#: kcmultidialog.cpp:261 kpluginselector.cpp:715
 #, kde-format
 msgid "Configure"
 msgstr "Configuréieren"
