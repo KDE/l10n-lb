@@ -2522,8 +2522,8 @@ msgstr ""
 #: knewpassworddialog.cpp:76
 #, fuzzy, qt-format
 msgctxt "KNewPasswordDialog|"
-msgid "Password must be at least %n character(s) long"
-msgid_plural "Password must be at least %n character(s) long"
+msgid "Password must be at least %n character(s) long."
+msgid_plural "Password must be at least %n character(s) long."
 msgstr[0] "D'Passwuert muss mindestens aus engem Zeeche bestoën"
 msgstr[1] "D'Passwuert muss mindestens aus engem Zeeche bestoën"
 
@@ -2531,21 +2531,21 @@ msgstr[1] "D'Passwuert muss mindestens aus engem Zeeche bestoën"
 #, fuzzy
 #| msgid "Password is empty"
 msgctxt "KNewPasswordDialog|"
-msgid "Password is empty"
+msgid "Password is empty."
 msgstr "D'Passwuert ass eidel"
 
 #: knewpassworddialog.cpp:84
 #, fuzzy
 #| msgid "Passwords do not match"
 msgctxt "KNewPasswordDialog|"
-msgid "Passwords do not match"
+msgid "Passwords do not match."
 msgstr "Passwierder si verschidden"
 
 #: knewpassworddialog.cpp:89
 #, fuzzy
 #| msgid "Passwords match"
 msgctxt "KNewPasswordDialog|"
-msgid "Passwords match"
+msgid "Passwords match."
 msgstr "Selwëcht Passwierder"
 
 #: knewpassworddialog.cpp:144
