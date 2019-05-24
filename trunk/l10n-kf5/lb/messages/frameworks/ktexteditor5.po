@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-23 02:57+0200\n"
+"POT-Creation-Date: 2019-05-24 02:59+0200\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -7120,12 +7120,12 @@ msgstr "Aktuell Zeil:"
 msgid "Toggle Contained Nodes"
 msgstr "Kommentar"
 
-#: view/kateview.cpp:1345
+#: view/kateview.cpp:1360
 #, kde-format
 msgid "(R/O) %1"
 msgstr ""
 
-#: view/kateview.cpp:3700
+#: view/kateview.cpp:3715
 #, kde-format
 msgid "Export File as HTML"
 msgstr "Datei als HTML exportéieren"
