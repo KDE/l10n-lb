@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-24 02:59+0200\n"
+"POT-Creation-Date: 2019-05-25 03:00+0200\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -903,15 +903,15 @@ msgstr ""
 #, kde-format
 msgid ""
 "<p>If this option is checked, a vertical line will be drawn at the word wrap "
-"column as defined in the <strong>Editing</strong> properties.</p><p>Note "
-"that the word wrap marker is only drawn if you use a fixed pitch font.</p>"
+"column as defined in the <strong>Editing</strong> properties.</p>"
 msgstr ""
 
 #. i18n: ectx: property (text), widget (QCheckBox, chkShowStaticWordWrapMarker)
 #: dialogs/editconfigwidget.ui:48
-#, kde-format
-msgid "Show static word wra&p marker (if applicable)"
-msgstr ""
+#, fuzzy, kde-format
+#| msgid "S&elected Background Color..."
+msgid "Show static word wra&p marker"
+msgstr "Ausgewi&elt-Hannergrondfaarf..."
 
 #. i18n: ectx: property (text), widget (QLabel, lblWordWrap)
 #: dialogs/editconfigwidget.ui:69
