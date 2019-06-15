@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:55+0200\n"
+"POT-Creation-Date: 2019-06-15 02:52+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -36,12 +36,6 @@ msgstr ""
 #| msgid "defines the application font"
 msgid "The unique name of the application (mandatory)"
 msgstr "Definéiert d'Schrëft vun der Uwendung"
-
-#: qmlcontrols/kcmcontrols/qml/GridDelegate.qml:108
-#, fuzzy, kde-format
-#| msgid "None"
-msgid "None"
-msgstr "Keng"
 
 #: qmlcontrols/kquickcontrols/KeySequenceItem.qml:38
 #, kde-format
@@ -108,6 +102,11 @@ msgstr ""
 #| msgid "Untrusted"
 msgid "Unsupported Key"
 msgstr "Net als sëcher agestuft"
+
+#, fuzzy
+#~| msgid "None"
+#~ msgid "None"
+#~ msgstr "Keng"
 
 #~ msgid "Undo"
 #~ msgstr "Réckgängeg"
