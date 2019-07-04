@@ -447,11 +447,14 @@ msgid "FlatBuffers"
 msgstr ""
 
 #, fuzzy
-#| msgctxt "Language"
-#| msgid "Fortran"
+#| msgid "File Format"
 msgctxt "Language|"
-msgid "Fortran"
-msgstr "Fortran"
+msgid "Fortran (Fixed Format)"
+msgstr "Dateiformat"
+
+msgctxt "Language|"
+msgid "Fortran (Free Format)"
+msgstr ""
 
 msgctxt "Language|"
 msgid "FreeBASIC"
@@ -1839,6 +1842,13 @@ msgstr ""
 
 #, fuzzy
 #~| msgctxt "Language"
+#~| msgid "Fortran"
+#~ msgctxt "Language|"
+#~ msgid "Fortran"
+#~ msgstr "Fortran"
+
+#, fuzzy
+#~| msgctxt "Language"
 #~| msgid "Alerts"
 #~ msgctxt "Language|"
 #~ msgid "Alerts_indent"
@@ -2387,9 +2397,6 @@ msgstr ""
 #~| msgid "Bash"
 #~ msgid "s"
 #~ msgstr "Bash"
-
-#~ msgid "File Format"
-#~ msgstr "Dateiformat"
 
 #~ msgid "&Encoding:"
 #~ msgstr "Kodéi&erung:"
