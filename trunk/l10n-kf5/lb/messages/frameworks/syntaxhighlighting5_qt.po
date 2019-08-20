@@ -1256,6 +1256,10 @@ msgctxt "Language|"
 msgid "R Script"
 msgstr "R-Skript"
 
+msgctxt "Language|"
+msgid "SASS"
+msgstr ""
+
 #, fuzzy
 #| msgctxt "Language"
 #| msgid "Sather"
