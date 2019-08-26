@@ -31,63 +31,63 @@ msgctxt "KLineEdit|Italic placeholder text in line edits: 0 no, 1 yes"
 msgid "1"
 msgstr "%1%"
 
-#: klineedit.cpp:927
+#: klineedit.cpp:932
 #, fuzzy
 #| msgid "C&lear"
 msgctxt "KLineEdit|"
 msgid "C&lear"
 msgstr "Eidelmaa&chen"
 
-#: klineedit.cpp:941
+#: klineedit.cpp:946
 #, fuzzy
 #| msgid "Text Completion"
 msgctxt "KLineEdit|@title:menu"
 msgid "Text Completion"
 msgstr "Ergänzung vum Text"
 
-#: klineedit.cpp:948
+#: klineedit.cpp:953
 #, fuzzy
 #| msgid "None"
 msgctxt "KLineEdit|@item:inmenu Text Completion"
 msgid "None"
 msgstr "Keng"
 
-#: klineedit.cpp:949
+#: klineedit.cpp:954
 #, fuzzy
 #| msgid "Manual"
 msgctxt "KLineEdit|@item:inmenu Text Completion"
 msgid "Manual"
 msgstr "Manuell"
 
-#: klineedit.cpp:950
+#: klineedit.cpp:955
 #, fuzzy
 #| msgid "Automatic"
 msgctxt "KLineEdit|@item:inmenu Text Completion"
 msgid "Automatic"
 msgstr "Automatësch"
 
-#: klineedit.cpp:951
+#: klineedit.cpp:956
 #, fuzzy
 #| msgid "Dropdown List"
 msgctxt "KLineEdit|@item:inmenu Text Completion"
 msgid "Dropdown List"
 msgstr "Ausklapplëscht"
 
-#: klineedit.cpp:952
+#: klineedit.cpp:957
 #, fuzzy
 #| msgid "Short Automatic"
 msgctxt "KLineEdit|@item:inmenu Text Completion"
 msgid "Short Automatic"
 msgstr "Automatësch kuerz"
 
-#: klineedit.cpp:953
+#: klineedit.cpp:958
 #, fuzzy
 #| msgid "Dropdown List && Automatic"
 msgctxt "KLineEdit|@item:inmenu Text Completion"
 msgid "Dropdown List && Automatic"
 msgstr "Ausklapplëscht && Automatik"
 
-#: klineedit.cpp:983
+#: klineedit.cpp:988
 #, fuzzy
 #| msgid "Default"
 msgctxt "KLineEdit|@item:inmenu Text Completion"
