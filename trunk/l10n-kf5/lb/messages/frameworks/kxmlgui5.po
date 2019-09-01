@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-08-25 02:37+0200\n"
+"POT-Creation-Date: 2019-09-01 02:49+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -334,12 +334,12 @@ msgstr ""
 msgid "Ambiguous shortcut detected"
 msgstr "Méideideg \"%1\" net verschafft"
 
-#: kbugreport.cpp:104 kbugreport.cpp:133
+#: kbugreport.cpp:106 kbugreport.cpp:135
 #, kde-format
 msgid "Submit Bug Report"
 msgstr "E Käfer mellen"
 
-#: kbugreport.cpp:144
+#: kbugreport.cpp:146
 #, kde-format
 msgid ""
 "Your email address. If incorrect, use the Configure Email button to change it"
@@ -347,46 +347,46 @@ msgstr ""
 "Är E-Mail-Adress. Wa se falsch ass, dréckt op den \"E-Mail configuréieren\"-"
 "Knäppche fir se z'änneren"
 
-#: kbugreport.cpp:145
+#: kbugreport.cpp:147
 #, fuzzy, kde-format
 #| msgid "From:"
 msgctxt "Email sender address"
 msgid "From:"
 msgstr "Vun:"
 
-#: kbugreport.cpp:153
+#: kbugreport.cpp:155
 #, kde-format
 msgid "Configure Email..."
 msgstr "E-Mail configuréiren..."
 
-#: kbugreport.cpp:160
+#: kbugreport.cpp:162
 #, kde-format
 msgid "The email address this bug report is sent to."
 msgstr "D'E-Mail-Adress, wou de Käfer gemellt gëtt."
 
-#: kbugreport.cpp:161
+#: kbugreport.cpp:163
 #, fuzzy, kde-format
 #| msgid "To:"
 msgctxt "Email receiver address"
 msgid "To:"
 msgstr "Un:"
 
-#: kbugreport.cpp:170
+#: kbugreport.cpp:172
 #, kde-format
 msgid "&Send"
 msgstr "&Fortschécken"
 
-#: kbugreport.cpp:170
+#: kbugreport.cpp:172
 #, kde-format
 msgid "Send bug report."
 msgstr "De Bericht fortschécken."
 
-#: kbugreport.cpp:171
+#: kbugreport.cpp:173
 #, kde-format
 msgid "Send this bug report to %1."
 msgstr "Dëse Käfer bei %1 mellen."
 
-#: kbugreport.cpp:179
+#: kbugreport.cpp:181
 #, kde-format
 msgid ""
 "The application for which you wish to submit a bug report - if incorrect, "
@@ -395,12 +395,12 @@ msgstr ""
 "De Programm an deem dir de Käfer fonnt hutt - Falls hei dee falsche Programm "
 "steet, bënotzt w.e.g. de \"Käfer Mellen\"-Menü vun deem richtege Programm"
 
-#: kbugreport.cpp:180
+#: kbugreport.cpp:182
 #, kde-format
 msgid "Application: "
 msgstr "Programm: "
 
-#: kbugreport.cpp:207
+#: kbugreport.cpp:209
 #, kde-format
 msgid ""
 "The version of this application - please make sure that no newer version is "
@@ -409,64 +409,64 @@ msgstr ""
 "D'Versioun vum Programm - Kuckt w.e.g. no, ob keng méi nei Versioun eraus "
 "ass, éier dir de Bericht verschéckt"
 
-#: kbugreport.cpp:208
+#: kbugreport.cpp:210
 #, kde-format
 msgid "Version:"
 msgstr "Versioun:"
 
-#: kbugreport.cpp:213
+#: kbugreport.cpp:215
 #, fuzzy, kde-format
 #| msgid "no version set (programmer error!)"
 msgid "no version set (programmer error)"
 msgstr "keng Versioun (Feeler vum Programméierer!)"
 
-#: kbugreport.cpp:225
+#: kbugreport.cpp:227
 #, kde-format
 msgid "OS:"
 msgstr "OS:"
 
-#: kbugreport.cpp:233
+#: kbugreport.cpp:235
 #, kde-format
 msgid "Compiler:"
 msgstr "Compiler:"
 
-#: kbugreport.cpp:241
+#: kbugreport.cpp:243
 #, kde-format
 msgid "Se&verity"
 msgstr "Gra&vitéit"
 
-#: kbugreport.cpp:243
+#: kbugreport.cpp:247
 #, kde-format
 msgid "Critical"
 msgstr "Kritësch"
 
-#: kbugreport.cpp:243
+#: kbugreport.cpp:248
 #, kde-format
 msgid "Grave"
 msgstr "Schlëmm"
 
-#: kbugreport.cpp:243
+#: kbugreport.cpp:249
 #, kde-format
 msgctxt "normal severity"
 msgid "Normal"
 msgstr "Normal"
 
-#: kbugreport.cpp:243
+#: kbugreport.cpp:250
 #, kde-format
 msgid "Wishlist"
 msgstr "Wonsch"
 
-#: kbugreport.cpp:243
+#: kbugreport.cpp:251
 #, kde-format
 msgid "Translation"
 msgstr "Iwwersetzung"
 
-#: kbugreport.cpp:261
+#: kbugreport.cpp:269
 #, kde-format
 msgid "S&ubject: "
 msgstr "Be&treff: "
 
-#: kbugreport.cpp:269
+#: kbugreport.cpp:277
 #, kde-format
 msgid ""
 "Enter the text (in English if possible) that you wish to submit for the bug "
@@ -479,7 +479,7 @@ msgstr ""
 "Wann dir op \"Fortschécken\" klickt, gëtt eng E-Mail un de Verwalter vun "
 "dësem Programm geschéckt.\n"
 
-#: kbugreport.cpp:293
+#: kbugreport.cpp:301
 #, fuzzy, kde-format
 msgid ""
 "<qt>To submit a bug report, click on the button below. This will open a web "
@@ -493,7 +493,7 @@ msgstr ""
 "wou dir e Formular ausfëlle kënnt.\n"
 "D'Informatioun hei driwwer gëtt op de Server geschéckt."
 
-#: kbugreport.cpp:298
+#: kbugreport.cpp:306
 #, fuzzy, kde-format
 msgid ""
 "<qt>To submit a bug report, click on the button below. This will open a web "
@@ -505,24 +505,24 @@ msgstr ""
 "wou dir e Formular ausfëlle kënnt.\n"
 "D'Informatioun hei driwwer gëtt op de Server geschéckt."
 
-#: kbugreport.cpp:315
+#: kbugreport.cpp:323
 #, kde-format
 msgid "&Launch Bug Report Wizard"
 msgstr "Käfer-Mellen-Assistent &starten"
 
-#: kbugreport.cpp:317
+#: kbugreport.cpp:325
 #, fuzzy, kde-format
 #| msgid "Submit Bug Report"
 msgid "&Submit Bug Report"
 msgstr "E Käfer mellen"
 
-#: kbugreport.cpp:381
+#: kbugreport.cpp:389
 #, kde-format
 msgctxt "unknown program name"
 msgid "unknown"
 msgstr "Onbekannt"
 
-#: kbugreport.cpp:440
+#: kbugreport.cpp:448
 #, kde-format
 msgid ""
 "You must specify both a subject and a description before the report can be "
@@ -531,7 +531,7 @@ msgstr ""
 "Dir musst e Betreff an eng Beschreiwung ugin, éier dir de Bericht verschécke "
 "kënnt."
 
-#: kbugreport.cpp:449
+#: kbugreport.cpp:457
 #, fuzzy, kde-format
 #| msgid ""
 #| "<p>You chose the severity <b>Critical</b>. Please note that this severity "
@@ -558,7 +558,7 @@ msgstr ""
 "<p>Erfëllt äre Käfer ee vun deene Critèren? Falls net, wielt w.e.g. méi eng "
 "schwaach Gravitéit aus. Merci.</p>"
 
-#: kbugreport.cpp:461
+#: kbugreport.cpp:469
 #, fuzzy, kde-format
 #| msgid ""
 #| "<p>You chose the severity <b>Grave</b>. Please note that this severity is "
@@ -585,7 +585,7 @@ msgstr ""
 "<p>Erfëllt äre Käfer ee vun deene Critèren? Falls net, wielt w.e.g. méi eng "
 "schwaach Gravitéit aus. Merci.</p>"
 
-#: kbugreport.cpp:475
+#: kbugreport.cpp:483
 #, fuzzy, kde-format
 #| msgid ""
 #| "Unable to send the bug report.\n"
@@ -600,12 +600,12 @@ msgstr ""
 "Mellt äre Käfer w.e.g. manuell...\n"
 "Gitt op http://bugs.kde.org/ fir Uweisungen."
 
-#: kbugreport.cpp:483
+#: kbugreport.cpp:491
 #, kde-format
 msgid "Bug report sent, thank you for your input."
 msgstr "Käfer gemellt. Merci fir är Hëllef."
 
-#: kbugreport.cpp:492
+#: kbugreport.cpp:500
 #, kde-format
 msgid ""
 "Close and discard\n"
@@ -615,7 +615,7 @@ msgstr ""
 "verännert Noricht\n"
 "si loossen?"
 
-#: kbugreport.cpp:493
+#: kbugreport.cpp:501
 #, kde-format
 msgid "Close Message"
 msgstr "Noricht zoumaachen"
