@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-10-02 02:54+0200\n"
+"POT-Creation-Date: 2019-10-05 02:48+0200\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -7785,7 +7785,7 @@ msgstr "Markéierungstyp %1"
 msgid "There are no more chars for the next bookmark."
 msgstr "Zum nächste Lieszeeche goen."
 
-#: vimode/modes/insertvimode.cpp:273 vimode/modes/modebase.cpp:796
+#: vimode/modes/insertvimode.cpp:273 vimode/modes/modebase.cpp:794
 #: vimode/modes/normalvimode.cpp:3742
 #, kde-format
 msgid "Nothing in register %1"
