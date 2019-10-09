@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-20 02:46+0200\n"
+"POT-Creation-Date: 2019-10-09 02:43+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -52,12 +52,18 @@ msgid ""
 "or the module has been disabled by the administrator.</p></qt>"
 msgstr ""
 
-#: kcmoduleloader.cpp:139
+#: kcmoduleloader.cpp:106
+#, fuzzy, kde-format
+#| msgid "Error opening file."
+msgid "Error loading QML file."
+msgstr "Feeler beim Opmaache vun der Datei."
+
+#: kcmoduleloader.cpp:143
 #, kde-format
 msgid "The module %1 is not a valid configuration module."
 msgstr "De Modul %1 ass kee gültege Configuratiounsmodul."
 
-#: kcmoduleloader.cpp:140
+#: kcmoduleloader.cpp:144
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt><p>The diagnostics is:<br>The desktop file %1 does not specify a "
@@ -68,7 +74,7 @@ msgid ""
 msgstr ""
 "<qt><p>D'Diagnos ass:<br>D'Bürosdatei %1 gëtt keng Bibliothéik un.</qt>"
 
-#: kcmoduleloader.cpp:155
+#: kcmoduleloader.cpp:159
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt><p>The diagnostics is:<br>%1<p>Possible reasons:</p><ul><li>An error "
@@ -12343,9 +12349,6 @@ msgstr "Abettungsfäheg HTML-Komponent"
 
 #~ msgid "Already open."
 #~ msgstr "Schonn op."
-
-#~ msgid "Error opening file."
-#~ msgstr "Feeler beim Opmaache vun der Datei."
 
 #~ msgid "Not a wallet file."
 #~ msgstr "Keng Datei vum Portemonnaie."
