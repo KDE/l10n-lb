@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-21 02:56+0200\n"
+"POT-Creation-Date: 2019-10-21 02:51+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -158,7 +158,7 @@ msgctxt "@item Contributor name in about dialog."
 msgid "%1"
 msgstr "%1%"
 
-#: kaboutapplicationpersonmodel_p.cpp:206
+#: kaboutapplicationpersonmodel_p.cpp:202
 #, fuzzy, kde-format
 #| msgctxt "concatenation of dates and time"
 #| msgid "%1 %2"
@@ -166,20 +166,20 @@ msgctxt "City, Country"
 msgid "%1, %2"
 msgstr "%1 %2"
 
-#: kaboutapplicationpersonmodel_p.cpp:309
+#: kaboutapplicationpersonmodel_p.cpp:305
 #, fuzzy, kde-format
 #| msgid "Other"
 msgctxt "A generic social network or homepage link of an unlisted type."
 msgid "Other"
 msgstr "Aner"
 
-#: kaboutapplicationpersonmodel_p.cpp:311
+#: kaboutapplicationpersonmodel_p.cpp:307
 #, fuzzy, kde-format
 msgctxt "A type of link."
 msgid "Blog"
 msgstr "Net zouloossen"
 
-#: kaboutapplicationpersonmodel_p.cpp:319
+#: kaboutapplicationpersonmodel_p.cpp:315
 #, fuzzy, kde-format
 #| msgid "Homepage"
 msgctxt "A type of link."
@@ -689,12 +689,12 @@ msgstr "Text sichen"
 msgid "&Hide text when toolbar shows text alongside icons"
 msgstr ""
 
-#: kedittoolbar.cpp:617
+#: kedittoolbar.cpp:616
 #, fuzzy, kde-format
 msgid "Configure Toolbars"
 msgstr "Toolbare configuréieren"
 
-#: kedittoolbar.cpp:680
+#: kedittoolbar.cpp:679
 #, kde-format
 msgid ""
 "Do you really want to reset all toolbars of this application to their "
@@ -703,17 +703,17 @@ msgstr ""
 "Wëllt dir wiirklech all Toolbare vun dësem Programm op hir "
 "Standardastellungen zerécksetzen? D'Ännerunge ginn direkt virgeholl."
 
-#: kedittoolbar.cpp:680
+#: kedittoolbar.cpp:679
 #, fuzzy, kde-format
 msgid "Reset Toolbars"
 msgstr "Toolbaren zerécksetzen"
 
-#: kedittoolbar.cpp:680
+#: kedittoolbar.cpp:679
 #, kde-format
 msgid "Reset"
 msgstr "Zerécksetzen"
 
-#: kedittoolbar.cpp:1006
+#: kedittoolbar.cpp:1004
 #, fuzzy, kde-format
 msgid "&Toolbar:"
 msgstr "&Toolbar:"
@@ -725,58 +725,58 @@ msgstr "&Toolbar:"
 #. del_toolbar->setPixmap(BarIcon("edit-delete", KIconLoader::SizeSmall));
 #. del_toolbar->setEnabled(false); // disabled until implemented
 #. our list of inactive actions
-#: kedittoolbar.cpp:1021
+#: kedittoolbar.cpp:1019
 #, kde-format
 msgid "A&vailable actions:"
 msgstr "&Verfügbar Aktiounen:"
 
-#: kedittoolbar.cpp:1036 kedittoolbar.cpp:1055
+#: kedittoolbar.cpp:1034 kedittoolbar.cpp:1053
 #, fuzzy, kde-format
 #| msgid "Filter:"
 msgid "Filter"
 msgstr "Filter:"
 
-#: kedittoolbar.cpp:1039
+#: kedittoolbar.cpp:1037
 #, kde-format
 msgid "Curr&ent actions:"
 msgstr "Ug&ewisen Aktiounen:"
 
-#: kedittoolbar.cpp:1058
+#: kedittoolbar.cpp:1056
 #, kde-format
 msgid "Change &Icon..."
 msgstr "&Symbol änneren..."
 
-#: kedittoolbar.cpp:1066
+#: kedittoolbar.cpp:1064
 #, fuzzy, kde-format
 #| msgid "Change &Icon..."
 msgid "Change Te&xt..."
 msgstr "&Symbol änneren..."
 
-#: kedittoolbar.cpp:1221
+#: kedittoolbar.cpp:1217
 #, fuzzy, kde-format
 #| msgid "%1%"
 msgctxt "@item:intable Action name in toolbar editor"
 msgid "%1"
 msgstr "%1%"
 
-#: kedittoolbar.cpp:1248
+#: kedittoolbar.cpp:1244
 #, kde-format
 msgid ""
 "This element will be replaced with all the elements of an embedded component."
 msgstr ""
 "Dësst Element gëtt duerch all Elementer vun enger agebetter Komponent ersat."
 
-#: kedittoolbar.cpp:1250
+#: kedittoolbar.cpp:1246
 #, kde-format
 msgid "<Merge>"
 msgstr "<Merge>"
 
-#: kedittoolbar.cpp:1252
+#: kedittoolbar.cpp:1248
 #, kde-format
 msgid "<Merge %1>"
 msgstr "<Merge %1>"
 
-#: kedittoolbar.cpp:1258
+#: kedittoolbar.cpp:1254
 #, fuzzy, kde-format
 msgid ""
 "This is a dynamic list of actions. You can move it, but if you remove it you "
@@ -785,49 +785,49 @@ msgstr ""
 "Dat hei ass eng dynamësch Lëscht vun Aktiounen. Dir kënn se réckelen, mais "
 "wann dir se läscht, kënnt dir se net méi zeréckhuelen."
 
-#: kedittoolbar.cpp:1259
+#: kedittoolbar.cpp:1255
 #, kde-format
 msgid "ActionList: %1"
 msgstr "Aktiounelëscht: %1"
 
-#: kedittoolbar.cpp:1365 kedittoolbar.cpp:1392
+#: kedittoolbar.cpp:1357 kedittoolbar.cpp:1384
 #, fuzzy, kde-format
 #| msgid "%1%"
 msgctxt "@label Action tooltip in toolbar editor, below the action list"
 msgid "%1"
 msgstr "%1%"
 
-#: kedittoolbar.cpp:1621
+#: kedittoolbar.cpp:1611
 #, fuzzy, kde-format
 #| msgid "Change &Icon..."
 msgid "Change Icon"
 msgstr "&Symbol änneren..."
 
-#: kgesture.cpp:503
+#: kgesture.cpp:502
 #, kde-format
 msgctxt "left mouse button"
 msgid "left button"
 msgstr ""
 
-#: kgesture.cpp:505
+#: kgesture.cpp:504
 #, kde-format
 msgctxt "middle mouse button"
 msgid "middle button"
 msgstr ""
 
-#: kgesture.cpp:507
+#: kgesture.cpp:506
 #, kde-format
 msgctxt "right mouse button"
 msgid "right button"
 msgstr ""
 
-#: kgesture.cpp:509
+#: kgesture.cpp:508
 #, kde-format
 msgctxt "a nonexistent value of mouse button"
 msgid "invalid button"
 msgstr ""
 
-#: kgesture.cpp:522
+#: kgesture.cpp:521
 #, kde-format
 msgctxt ""
 "a kind of mouse gesture: hold down one mouse button, then press another "
@@ -1311,18 +1311,18 @@ msgstr ""
 msgid "Global alternate:"
 msgstr "Alternativ"
 
-#: kshortcutseditor.cpp:734
+#: kshortcutseditor.cpp:735
 #, fuzzy, kde-format
 #| msgid "Additional Names"
 msgid "Action Name"
 msgstr "Zousätzlech Nimm"
 
-#: kshortcutseditor.cpp:738
+#: kshortcutseditor.cpp:739
 #, kde-format
 msgid "Shortcuts"
 msgstr "Kierzelen"
 
-#: kshortcutseditor.cpp:742
+#: kshortcutseditor.cpp:743
 #, fuzzy, kde-format
 #| msgid "Description:"
 msgid "Description"
@@ -1359,44 +1359,44 @@ msgid ""
 "contain a proper translation."
 msgstr ""
 
-#: kswitchlanguagedialog_p.cpp:289 kswitchlanguagedialog_p.cpp:311
+#: kswitchlanguagedialog_p.cpp:288 kswitchlanguagedialog_p.cpp:310
 #, kde-format
 msgid ""
 "The language for this application has been changed. The change will take "
 "effect the next time the application is started."
 msgstr ""
 
-#: kswitchlanguagedialog_p.cpp:290 kswitchlanguagedialog_p.cpp:312
+#: kswitchlanguagedialog_p.cpp:289 kswitchlanguagedialog_p.cpp:311
 #, fuzzy, kde-format
 #| msgid "Application sounds"
 msgid "Application Language Changed"
 msgstr "Kläng vun den Uwendungen"
 
-#: kswitchlanguagedialog_p.cpp:400
+#: kswitchlanguagedialog_p.cpp:399
 #, fuzzy, kde-format
 #| msgid "Default language:"
 msgid "Primary language:"
 msgstr "Standardsprooch:"
 
-#: kswitchlanguagedialog_p.cpp:400
+#: kswitchlanguagedialog_p.cpp:399
 #, fuzzy, kde-format
 #| msgid "Default language:"
 msgid "Fallback language:"
 msgstr "Standardsprooch:"
 
-#: kswitchlanguagedialog_p.cpp:415
+#: kswitchlanguagedialog_p.cpp:414
 #, kde-format
 msgid "Remove"
 msgstr "Ewechmaachen"
 
-#: kswitchlanguagedialog_p.cpp:422
+#: kswitchlanguagedialog_p.cpp:421
 #, kde-format
 msgid ""
 "This is the main application language which will be used first, before any "
 "other languages."
 msgstr ""
 
-#: kswitchlanguagedialog_p.cpp:423
+#: kswitchlanguagedialog_p.cpp:422
 #, kde-format
 msgid ""
 "This is the language which will be used if any previous languages do not "
