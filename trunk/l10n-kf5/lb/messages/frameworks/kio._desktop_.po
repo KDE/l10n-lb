@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-09-08 01:30+0000\n"
+"POT-Creation-Date: 2019-11-02 02:38+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -20,7 +20,7 @@ msgctxt "Name"
 msgid "Execute action as root."
 msgstr ""
 
-#: src/ioslaves/file/kauth/file.actions:32
+#: src/ioslaves/file/kauth/file.actions:33
 msgctxt "Description"
 msgid "Root privileges are required to complete the action."
 msgstr ""
@@ -166,7 +166,7 @@ msgctxt "Comment"
 msgid "Credentials used to access SMB shares"
 msgstr ""
 
-#: src/kcms/kio/smb.desktop:134
+#: src/kcms/kio/smb.desktop:135
 msgctxt "X-KDE-Keywords"
 msgid ""
 "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
@@ -401,7 +401,7 @@ msgctxt "Comment"
 msgid "Configure the User Agent exposed by the HTTP kioslave"
 msgstr ""
 
-#: src/kcms/kio/useragent.desktop:135
+#: src/kcms/kio/useragent.desktop:136
 msgctxt "X-KDE-Keywords"
 msgid "User Agent,Browser,Internet,WWW,Network,agent,bindings,server,login"
 msgstr ""
@@ -1024,7 +1024,7 @@ msgctxt "Name"
 msgid "GitLab"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/gitlab.desktop:35
+#: src/urifilters/ikws/searchproviders/gitlab.desktop:36
 msgctxt "Query"
 msgid "https://gitlab.com/search?search=\\\\{@}"
 msgstr ""
