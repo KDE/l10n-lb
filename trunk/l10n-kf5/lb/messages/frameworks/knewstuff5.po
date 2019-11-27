@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-09 02:48+0100\n"
+"POT-Creation-Date: 2019-11-27 03:01+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -726,12 +726,12 @@ msgstr ""
 
 #: qtquick/qml/EntryDetails.qml:178
 #, fuzzy, kde-format
-#| msgid "Preview URL:"
+#| msgid "Comment"
 msgctxt ""
-"A link which, when clicked, opens a new sub page with reviews (comments) for "
-"this entry"
-msgid "%1 Reviews"
-msgstr "URL-Virschau:"
+"A link which, when clicked, opens a new sub page with comments (comments "
+"with or without ratings) for this entry"
+msgid "%1 Reviews and Comments"
+msgstr "Kommentar"
 
 #: qtquick/qml/EntryDetails.qml:183
 #, fuzzy, kde-format
@@ -869,6 +869,29 @@ msgstr ""
 #, kde-format
 msgctxt "Title for the page containing a view of the comments for the entry"
 msgid "Comments and Reviews for %1"
+msgstr ""
+
+#: qtquick/qml/private/EntryCommentsPage.qml:45
+#, fuzzy, kde-format
+#| msgid "Categories"
+msgctxt "Title for the item which is checked when all comments should be shown"
+msgid "Show All Comments"
+msgstr "Kategorien"
+
+#: qtquick/qml/private/EntryCommentsPage.qml:51
+#, kde-format
+msgctxt ""
+"Title for the item which is checked when only comments which are reviews "
+"should be shown"
+msgid "Show Reviews Only"
+msgstr ""
+
+#: qtquick/qml/private/EntryCommentsPage.qml:57
+#, kde-format
+msgctxt ""
+"Title for the item which is checked when comments which are reviews, and "
+"their children should be shown"
+msgid "Show Reviews and Replies"
 msgstr ""
 
 #: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:180
@@ -1402,6 +1425,14 @@ msgstr ""
 #| msgid "Start replace"
 msgid "Start Upload"
 msgstr "Mam Ersetzen ufänken"
+
+#, fuzzy
+#~| msgid "Preview URL:"
+#~ msgctxt ""
+#~ "A link which, when clicked, opens a new sub page with reviews (comments) "
+#~ "for this entry"
+#~ msgid "%1 Reviews"
+#~ msgstr "URL-Virschau:"
 
 #, fuzzy
 #~| msgid "Override existing entries"
@@ -9643,11 +9674,6 @@ msgstr "Mam Ersetzen ufänken"
 #, fuzzy
 #~| msgid "Comment"
 #~ msgid "Add Comment"
-#~ msgstr "Kommentar"
-
-#, fuzzy
-#~| msgid "Comment"
-#~ msgid "View Comments"
 #~ msgstr "Kommentar"
 
 #, fuzzy
