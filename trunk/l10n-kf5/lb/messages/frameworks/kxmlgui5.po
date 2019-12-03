@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-02 02:58+0100\n"
+"POT-Creation-Date: 2019-12-03 02:58+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -793,38 +793,6 @@ msgstr "%1%"
 msgid "Change Icon"
 msgstr "&Symbol änneren..."
 
-#: kgesture.cpp:502
-#, kde-format
-msgctxt "left mouse button"
-msgid "left button"
-msgstr ""
-
-#: kgesture.cpp:504
-#, kde-format
-msgctxt "middle mouse button"
-msgid "middle button"
-msgstr ""
-
-#: kgesture.cpp:506
-#, kde-format
-msgctxt "right mouse button"
-msgid "right button"
-msgstr ""
-
-#: kgesture.cpp:508
-#, kde-format
-msgctxt "a nonexistent value of mouse button"
-msgid "invalid button"
-msgstr ""
-
-#: kgesture.cpp:521
-#, kde-format
-msgctxt ""
-"a kind of mouse gesture: hold down one mouse button, then press another "
-"button"
-msgid "Hold %1, then push %2"
-msgstr ""
-
 #. i18n: ectx: Menu (help)
 #: khelpmenu.cpp:172 ui_standards.rc:177
 #, kde-format
@@ -857,7 +825,7 @@ msgstr[0] "Konflikt mat allgemengem Kierzel"
 msgstr[1] "Konflikt mat allgemengem Kierzel"
 
 #: kkeysequencewidget.cpp:147 kkeysequencewidget.cpp:235
-#: kkeysequencewidget.cpp:626 kshortcutseditor.cpp:637 kshortcutseditor.cpp:655
+#: kkeysequencewidget.cpp:626
 #, kde-format
 msgid "Reassign"
 msgstr "Nei zouuerdnen"
@@ -1251,30 +1219,7 @@ msgstr ""
 msgid "Mouse Shape Gesture"
 msgstr ""
 
-#: kshortcutseditor.cpp:632 kshortcutseditor.cpp:650
-#, kde-format
-msgid "Key Conflict"
-msgstr "Tastekonflikt"
-
-#: kshortcutseditor.cpp:633
-#, fuzzy, kde-format
-msgid ""
-"The '%1' shape gesture has already been allocated to the \"%2\" action.\n"
-"Do you want to reassign it from that action to the current one?"
-msgstr ""
-"D'Tastekombinatioun \"%1\" ass scho mat der Aktioun \"%2\" verbonn.\n"
-"Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
-
-#: kshortcutseditor.cpp:651
-#, fuzzy, kde-format
-msgid ""
-"The '%1' rocker gesture has already been allocated to the \"%2\" action.\n"
-"Do you want to reassign it from that action to the current one?"
-msgstr ""
-"D'Tastekombinatioun \"%1\" ass scho mat der Aktioun \"%2\" verbonn.\n"
-"Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
-
-#: kshortcutseditor.cpp:698
+#: kshortcutseditor.cpp:562
 #, fuzzy, kde-format
 #| msgid "Shortcuts"
 msgctxt "header for an applications shortcut list"
@@ -1282,48 +1227,48 @@ msgid "Shortcuts for %1"
 msgstr "Kierzelen"
 
 #. i18n: ectx: property (text), widget (QLabel, priLabel)
-#: kshortcutseditor.cpp:716 kshortcutwidget.ui:22
+#: kshortcutseditor.cpp:580 kshortcutwidget.ui:22
 #, fuzzy, kde-format
 #| msgid "Chain:"
 msgid "Main:"
 msgstr "Ketten:"
 
 #. i18n: ectx: property (text), widget (QLabel, altLabel)
-#: kshortcutseditor.cpp:717 kshortcutwidget.ui:52
+#: kshortcutseditor.cpp:581 kshortcutwidget.ui:52
 #, fuzzy, kde-format
 #| msgid "Alternate"
 msgid "Alternate:"
 msgstr "Alternativ"
 
-#: kshortcutseditor.cpp:718
+#: kshortcutseditor.cpp:582
 #, kde-format
 msgid "Global:"
 msgstr ""
 
-#: kshortcutseditor.cpp:719
+#: kshortcutseditor.cpp:583
 #, fuzzy, kde-format
 #| msgid "Alternate"
 msgid "Global alternate:"
 msgstr "Alternativ"
 
-#: kshortcutseditor.cpp:735
+#: kshortcutseditor.cpp:599
 #, fuzzy, kde-format
 #| msgid "Additional Names"
 msgid "Action Name"
 msgstr "Zousätzlech Nimm"
 
-#: kshortcutseditor.cpp:739
+#: kshortcutseditor.cpp:603
 #, kde-format
 msgid "Shortcuts"
 msgstr "Kierzelen"
 
-#: kshortcutseditor.cpp:743
+#: kshortcutseditor.cpp:607
 #, fuzzy, kde-format
 #| msgid "Description:"
 msgid "Description"
 msgstr "Beschreiwung:"
 
-#: kshortcutseditoritem.cpp:54
+#: kshortcutseditoritem.cpp:46
 #, fuzzy, kde-format
 #| msgid "%1%"
 msgctxt "@item:intable Action name in shortcuts configuration"
@@ -1602,6 +1547,25 @@ msgstr "&Astellungen"
 #, kde-format
 msgid "Main Toolbar"
 msgstr "Haapt-Toolbar"
+
+#~ msgid "Key Conflict"
+#~ msgstr "Tastekonflikt"
+
+#, fuzzy
+#~ msgid ""
+#~ "The '%1' shape gesture has already been allocated to the \"%2\" action.\n"
+#~ "Do you want to reassign it from that action to the current one?"
+#~ msgstr ""
+#~ "D'Tastekombinatioun \"%1\" ass scho mat der Aktioun \"%2\" verbonn.\n"
+#~ "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
+
+#, fuzzy
+#~ msgid ""
+#~ "The '%1' rocker gesture has already been allocated to the \"%2\" action.\n"
+#~ "Do you want to reassign it from that action to the current one?"
+#~ msgstr ""
+#~ "D'Tastekombinatioun \"%1\" ass scho mat der Aktioun \"%2\" verbonn.\n"
+#~ "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
 #~ msgid "A&uthor"
 #~ msgstr "A&uteur"
