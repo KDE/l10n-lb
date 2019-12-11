@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-10 02:58+0100\n"
+"POT-Creation-Date: 2019-12-11 02:53+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -895,7 +895,7 @@ msgctxt ""
 msgid "Show Reviews and Replies"
 msgstr ""
 
-#: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:180
+#: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:155
 #: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:198
 #, fuzzy, kde-format
 #| msgid "Download"
@@ -903,7 +903,7 @@ msgctxt "The number of times the item has been downloaded"
 msgid "%1 downloads"
 msgstr "Eroflueden"
 
-#: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:193
+#: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:168
 #: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:180
 #, fuzzy, kde-format
 #| msgid "<b>Error</b>: %1: %2"
