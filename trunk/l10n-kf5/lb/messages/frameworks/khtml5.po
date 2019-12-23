@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-05-20 02:56+0200\n"
+"POT-Creation-Date: 2019-12-23 02:51+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -365,12 +365,12 @@ msgstr[0] "Dateie &verschécken"
 msgstr[1] "Dateie &verschécken"
 
 #: html/html_formimpl.cpp:1687 html/html_formimpl.cpp:1908 khtml_part.cpp:4963
-#: khtmlview.cpp:2877 khtmlview.cpp:2921
+#: khtmlview.cpp:2845 khtmlview.cpp:2889
 #, kde-format
 msgid "Submit"
 msgstr "Verschécken"
 
-#: html/html_formimpl.cpp:1900 khtmlview.cpp:2892 khtmlview.cpp:2927
+#: html/html_formimpl.cpp:1900 khtmlview.cpp:2860 khtmlview.cpp:2895
 #, kde-format
 msgid "Reset"
 msgstr "Zerécksetzen"
