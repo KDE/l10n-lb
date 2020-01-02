@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-28 02:54+0100\n"
+"POT-Creation-Date: 2020-01-02 02:52+0100\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -7406,7 +7406,7 @@ msgstr "Kommentar"
 msgid "(R/O) %1"
 msgstr ""
 
-#: view/kateview.cpp:3727
+#: view/kateview.cpp:3732
 #, kde-format
 msgid "Export File as HTML"
 msgstr "Datei als HTML exportéieren"
