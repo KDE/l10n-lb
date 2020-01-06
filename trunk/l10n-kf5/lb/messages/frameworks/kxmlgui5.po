@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-11 02:55+0100\n"
+"POT-Creation-Date: 2020-01-06 03:08+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -16,14 +16,17 @@ msgstr ""
 "X-Generator: KBabel 1.11.2\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: kaboutapplicationdialog.cpp:70 kaboutplugindialog.cpp:75 khelpmenu.cpp:280
-#, kde-format
+#: kaboutapplicationdialog.cpp:70 kaboutplugindialog.cpp:75
+#, fuzzy, kde-format
+#| msgid "About %1"
+msgctxt "@title:window"
 msgid "About %1"
 msgstr "Iwwer %1"
 
 #: kaboutapplicationdialog.cpp:102 kaboutplugindialog.cpp:92
 #, fuzzy, kde-format
 #| msgid "&About"
+msgctxt "@title:tab"
 msgid "About"
 msgstr "&Iwwer"
 
@@ -37,12 +40,14 @@ msgstr ""
 #: kaboutapplicationdialog.cpp:119
 #, fuzzy, kde-format
 #| msgid "Libraries"
+msgctxt "@title:tab"
 msgid "Libraries"
 msgstr "Bibliothéiken"
 
 #: kaboutapplicationdialog.cpp:129 kaboutplugindialog.cpp:103
 #, fuzzy, kde-format
 #| msgid "Author"
+msgctxt "@title:tab"
 msgid "Author"
 msgid_plural "Authors"
 msgstr[0] "Auteur"
@@ -51,12 +56,14 @@ msgstr[1] "Auteur"
 #: kaboutapplicationdialog.cpp:136 kaboutplugindialog.cpp:110
 #, fuzzy, kde-format
 #| msgid "&Thanks To"
+msgctxt "@title:tab"
 msgid "Thanks To"
 msgstr "&Merci un"
 
 #: kaboutapplicationdialog.cpp:143 kaboutplugindialog.cpp:116
-#: kbugreport.cpp:251
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Translation"
+msgctxt "@title:tab"
 msgid "Translation"
 msgstr "Iwwersetzung"
 
@@ -76,7 +83,7 @@ msgstr "Homepage"
 #: kaboutapplicationpersonlistdelegate_p.cpp:128
 #, fuzzy, kde-format
 #| msgid "Other Contributors:"
-msgctxt "Action to send an email to a contributor"
+msgctxt "@info:tooltip Action to send an email to a contributor"
 msgid ""
 "Email contributor\n"
 "%1"
@@ -86,6 +93,7 @@ msgstr "Aner Mataarbëchter:"
 #: kaboutapplicationpersonlistdelegate_p.cpp:171
 #, fuzzy, kde-format
 #| msgid "Homepage"
+msgctxt "@info:tooltip"
 msgid ""
 "Visit contributor's homepage\n"
 "%1"
@@ -93,15 +101,18 @@ msgstr "Homepage"
 
 #: kaboutapplicationpersonlistdelegate_p.cpp:141
 #: kaboutapplicationpersonlistdelegate_p.cpp:174
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Homepage"
+msgctxt "@info:tooltip"
 msgid ""
 "Visit contributor's profile on %1\n"
 "%2"
-msgstr ""
+msgstr "Homepage"
 
 #: kaboutapplicationpersonlistdelegate_p.cpp:165
 #, fuzzy, kde-format
 #| msgid "Homepage"
+msgctxt "@info:tooltip"
 msgid ""
 "Visit contributor's page\n"
 "%1"
@@ -110,6 +121,7 @@ msgstr "Homepage"
 #: kaboutapplicationpersonlistdelegate_p.cpp:168
 #, fuzzy, kde-format
 #| msgid "Homepage"
+msgctxt "@info:tooltip"
 msgid ""
 "Visit contributor's blog\n"
 "%1"
@@ -152,6 +164,7 @@ msgstr "Homepage"
 
 #: kaboutkdedialog_p.cpp:43
 #, fuzzy, kde-format
+msgctxt "@title:window"
 msgid "About KDE"
 msgstr "Iwwer &KDE"
 
@@ -263,24 +276,31 @@ msgstr ""
 "fir är Ënnerstëtzung."
 
 #: kaboutkdedialog_p.cpp:135
-#, kde-format
-msgctxt "About KDE"
+#, fuzzy, kde-format
+#| msgctxt "About KDE"
+#| msgid "&About"
+msgctxt "@title:tab About KDE"
 msgid "&About"
 msgstr "&Iwwer"
 
 #: kaboutkdedialog_p.cpp:136
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "&Report Bugs or Wishes"
+msgctxt "@title:tab"
 msgid "&Report Bugs or Wishes"
 msgstr "&Käferen a Wënsch mellen"
 
 #: kaboutkdedialog_p.cpp:137
 #, fuzzy, kde-format
 #| msgid "&Join the KDE Team"
+msgctxt "@title:tab"
 msgid "&Join KDE"
 msgstr "Gitt &Member am KDE-Team"
 
 #: kaboutkdedialog_p.cpp:138
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "&Support KDE"
+msgctxt "@title:tab"
 msgid "&Support KDE"
 msgstr "KDE ënner&stëtzen"
 
@@ -326,10 +346,18 @@ msgstr ""
 #: kactionconflictdetector.cpp:54
 #, fuzzy, kde-format
 #| msgid "Ambiguous \"%1\" not handled"
+msgctxt "@title:window"
 msgid "Ambiguous shortcut detected"
 msgstr "Méideideg \"%1\" net verschafft"
 
-#: kbugreport.cpp:106 kbugreport.cpp:135
+#: kbugreport.cpp:106
+#, fuzzy, kde-format
+#| msgid "Submit Bug Report"
+msgctxt "@title:window"
+msgid "Submit Bug Report"
+msgstr "E Käfer mellen"
+
+#: kbugreport.cpp:135
 #, kde-format
 msgid "Submit Bug Report"
 msgstr "E Käfer mellen"
@@ -350,34 +378,42 @@ msgid "From:"
 msgstr "Vun:"
 
 #: kbugreport.cpp:155
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Configure Email..."
+msgctxt "@action:button"
 msgid "Configure Email..."
 msgstr "E-Mail configuréiren..."
 
-#: kbugreport.cpp:162
+#: kbugreport.cpp:161
 #, kde-format
 msgid "The email address this bug report is sent to."
 msgstr "D'E-Mail-Adress, wou de Käfer gemellt gëtt."
 
-#: kbugreport.cpp:163
+#: kbugreport.cpp:162
 #, fuzzy, kde-format
 #| msgid "To:"
 msgctxt "Email receiver address"
 msgid "To:"
 msgstr "Un:"
 
-#: kbugreport.cpp:172
-#, kde-format
+#: kbugreport.cpp:171
+#, fuzzy, kde-format
+#| msgid "&Send"
+msgctxt "@action:button"
 msgid "&Send"
 msgstr "&Fortschécken"
 
 #: kbugreport.cpp:172
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Send bug report."
+msgctxt "@info:tooltip"
 msgid "Send bug report."
 msgstr "De Bericht fortschécken."
 
 #: kbugreport.cpp:173
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Send this bug report to %1."
+msgctxt "@info:whatsthis"
 msgid "Send this bug report to %1."
 msgstr "Dëse Käfer bei %1 mellen."
 
@@ -426,30 +462,47 @@ msgid "Compiler:"
 msgstr "Compiler:"
 
 #: kbugreport.cpp:243
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Se&verity"
+msgctxt "@title:group"
 msgid "Se&verity"
 msgstr "Gra&vitéit"
 
 #: kbugreport.cpp:247
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Critical"
+msgctxt "bug severity"
 msgid "Critical"
 msgstr "Kritësch"
 
 #: kbugreport.cpp:248
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Grave"
+msgctxt "bug severity"
 msgid "Grave"
 msgstr "Schlëmm"
 
 #: kbugreport.cpp:249
-#, kde-format
-msgctxt "normal severity"
+#, fuzzy, kde-format
+#| msgctxt "normal severity"
+#| msgid "Normal"
+msgctxt "bug severity"
 msgid "Normal"
 msgstr "Normal"
 
 #: kbugreport.cpp:250
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Wishlist"
+msgctxt "bug severity"
 msgid "Wishlist"
 msgstr "Wonsch"
+
+#: kbugreport.cpp:251
+#, fuzzy, kde-format
+#| msgid "Translation"
+msgctxt "bug severity"
+msgid "Translation"
+msgstr "Iwwersetzung"
 
 #: kbugreport.cpp:269
 #, kde-format
@@ -496,13 +549,16 @@ msgstr ""
 "D'Informatioun hei driwwer gëtt op de Server geschéckt."
 
 #: kbugreport.cpp:321
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "&Launch Bug Report Wizard"
+msgctxt "@action:button"
 msgid "&Launch Bug Report Wizard"
 msgstr "Käfer-Mellen-Assistent &starten"
 
 #: kbugreport.cpp:323
 #, fuzzy, kde-format
 #| msgid "Submit Bug Report"
+msgctxt "@action:button"
 msgid "&Submit Bug Report"
 msgstr "E Käfer mellen"
 
@@ -606,7 +662,9 @@ msgstr ""
 "si loossen?"
 
 #: kbugreport.cpp:499
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Close Message"
+msgctxt "@title:window"
 msgid "Close Message"
 msgstr "Noricht zoumaachen"
 
@@ -665,6 +723,7 @@ msgstr "--- Trennlinn ---"
 #: kedittoolbar.cpp:347
 #, fuzzy, kde-format
 #| msgid "Change &Icon..."
+msgctxt "@title:window"
 msgid "Change Text"
 msgstr "&Symbol änneren..."
 
@@ -676,11 +735,13 @@ msgstr "Text sichen"
 
 #: kedittoolbar.cpp:363
 #, kde-format
+msgctxt "@option:check"
 msgid "&Hide text when toolbar shows text alongside icons"
 msgstr ""
 
 #: kedittoolbar.cpp:616
 #, fuzzy, kde-format
+msgctxt "@title:window"
 msgid "Configure Toolbars"
 msgstr "Toolbare configuréieren"
 
@@ -732,13 +793,16 @@ msgid "Curr&ent actions:"
 msgstr "Ug&ewisen Aktiounen:"
 
 #: kedittoolbar.cpp:1062
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Change &Icon..."
+msgctxt "@action:button"
 msgid "Change &Icon..."
 msgstr "&Symbol änneren..."
 
 #: kedittoolbar.cpp:1070
 #, fuzzy, kde-format
 #| msgid "Change &Icon..."
+msgctxt "@action:button"
 msgid "Change Te&xt..."
 msgstr "&Symbol änneren..."
 
@@ -799,6 +863,11 @@ msgstr "&Symbol änneren..."
 msgid "&Help"
 msgstr "&Hëllef"
 
+#: khelpmenu.cpp:280
+#, kde-format
+msgid "About %1"
+msgstr "Iwwer %1"
+
 #: kkeysequencewidget.cpp:129
 #, kde-format
 msgid "Shortcut '%1' in Application %2 for action %3\n"
@@ -826,7 +895,9 @@ msgstr[1] "Konflikt mat allgemengem Kierzel"
 
 #: kkeysequencewidget.cpp:147 kkeysequencewidget.cpp:235
 #: kkeysequencewidget.cpp:626
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Reassign"
+msgctxt "@action:button"
 msgid "Reassign"
 msgstr "Nei zouuerdnen"
 
@@ -866,6 +937,7 @@ msgstr[1] ""
 #: kkeysequencewidget.cpp:244
 #, fuzzy, kde-format
 #| msgid "Shortcut"
+msgctxt "@title:window"
 msgid "Shortcut conflict"
 msgstr "Tastekombinatioun"
 
@@ -884,6 +956,7 @@ msgstr ""
 
 #: kkeysequencewidget.cpp:275
 #, kde-format
+msgctxt "@info:tooltip"
 msgid ""
 "Click on the button, then enter the shortcut like you would in the program.\n"
 "Example for Ctrl+A: hold the Ctrl key and press A."
@@ -904,7 +977,9 @@ msgid ""
 msgstr ""
 
 #: kkeysequencewidget.cpp:620
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Conflict with Standard Application Shortcut"
+msgctxt "@title:window"
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Konflikt mat der Standardkombinatioun vum Programm"
 
@@ -940,12 +1015,14 @@ msgstr ""
 #: kkeysequencewidget.cpp:722
 #, fuzzy, kde-format
 #| msgid "Untrusted"
+msgctxt "@title:window"
 msgid "Unsupported Key"
 msgstr "Net als sëcher agestuft"
 
 #: klicensedialog_p.cpp:44
 #, fuzzy, kde-format
 #| msgid "&License Agreement"
+msgctxt "@title:window"
 msgid "License Agreement"
 msgstr "&Lizenz"
 
@@ -969,6 +1046,7 @@ msgstr "Bei d'Benotzerdefinéiert Faarwen &dobäimaachen"
 #: kmenumenuhandler_p.cpp:235
 #, fuzzy, kde-format
 #| msgid "Configure S&hortcuts..."
+msgctxt "@action:inmenu"
 msgid "Configure Shortcut..."
 msgstr "&Kierzel configuréieren..."
 
@@ -1022,17 +1100,20 @@ msgstr "D'E-Mail-Adress, wou de Käfer gemellt gëtt."
 #: kshortcuteditwidget.cpp:67
 #, fuzzy, kde-format
 #| msgid "Default"
+msgctxt "@option:radio"
 msgid "Default:"
 msgstr "Standard"
 
 #: kshortcuteditwidget.cpp:74
 #, fuzzy, kde-format
+msgctxt "@option:radio"
 msgid "Custom:"
 msgstr "&Benotzerdéfinéiert"
 
 #: kshortcutschemeseditor.cpp:44
 #, fuzzy, kde-format
 #| msgid "Shortcuts"
+msgctxt "@title:group"
 msgid "Shortcut Schemes"
 msgstr "Kierzelen"
 
@@ -1045,41 +1126,51 @@ msgstr "Ug&ewisen Aktiounen:"
 #: kshortcutschemeseditor.cpp:82
 #, fuzzy, kde-format
 #| msgid "New List..."
+msgctxt "@action:button"
 msgid "New..."
 msgstr "Nei Lëscht..."
 
 #: kshortcutschemeseditor.cpp:85
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Delete"
+msgctxt "@action:button"
 msgid "Delete"
 msgstr "Läschen"
 
 #: kshortcutschemeseditor.cpp:88
 #, fuzzy, kde-format
 #| msgid "Action"
+msgctxt "@action:button"
 msgid "More Actions"
 msgstr "Aktioun"
 
 #: kshortcutschemeseditor.cpp:92
 #, fuzzy, kde-format
 #| msgid "Shortcuts"
+msgctxt "@action:inmenu"
 msgid "Save shortcuts to scheme"
 msgstr "Kierzelen"
 
 #: kshortcutschemeseditor.cpp:94
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Shortcuts"
+msgctxt "@action:inmenu"
 msgid "Export Scheme..."
-msgstr ""
+msgstr "Kierzelen"
 
 #: kshortcutschemeseditor.cpp:96
 #, fuzzy, kde-format
 #| msgid "Shortcuts"
+msgctxt "@action:inmenu"
 msgid "Import Scheme..."
 msgstr "Kierzelen"
 
 #: kshortcutschemeseditor.cpp:117
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Curr&ent actions:"
+msgctxt "@title:window"
 msgid "Name for New Scheme"
-msgstr ""
+msgstr "Ug&ewisen Aktiounen:"
 
 #: kshortcutschemeseditor.cpp:118
 #, fuzzy, kde-format
@@ -1110,28 +1201,30 @@ msgstr ""
 #: kshortcutschemeseditor.cpp:185
 #, fuzzy, kde-format
 #| msgid "Shortcuts"
+msgctxt "@title:window"
 msgid "Export Shortcuts"
 msgstr "Kierzelen"
 
-#: kshortcutschemeseditor.cpp:185 kshortcutschemeseditor.cpp:196
+#: kshortcutschemeseditor.cpp:186 kshortcutschemeseditor.cpp:198
 #, fuzzy, kde-format
 #| msgid "Shortcut"
 msgid "Shortcuts (*.shortcuts)"
 msgstr "Tastekombinatioun"
 
-#: kshortcutschemeseditor.cpp:196
+#: kshortcutschemeseditor.cpp:197
 #, fuzzy, kde-format
 #| msgid "Shortcuts"
+msgctxt "@title:window"
 msgid "Import Shortcuts"
 msgstr "Kierzelen"
 
-#: kshortcutschemeseditor.cpp:207
+#: kshortcutschemeseditor.cpp:209
 #, fuzzy, kde-format
 #| msgid "Successfully uploaded new stuff."
 msgid "Shortcut scheme successfully saved."
 msgstr "Nei Saachen erfollegräich eropgelueden."
 
-#: kshortcutschemeseditor.cpp:210
+#: kshortcutschemeseditor.cpp:212
 #, kde-format
 msgid "Error saving the shortcut scheme."
 msgstr ""
@@ -1152,6 +1245,7 @@ msgstr "Ug&ewisen Aktiounen:"
 #: kshortcutsdialog.cpp:154
 #, fuzzy, kde-format
 #| msgid "Configure Shortcuts"
+msgctxt "@title:window"
 msgid "Configure Keyboard Shortcuts"
 msgstr "Tastekierzel configuréieren"
 
@@ -1279,6 +1373,7 @@ msgstr "%1%"
 #: kswitchlanguagedialog_p.cpp:159
 #, fuzzy, kde-format
 #| msgid "sets the application name"
+msgctxt "@title:window"
 msgid "Switch Application Language"
 msgstr "Bestëmmt den Numm vun der Uwendung"
 
@@ -1290,11 +1385,13 @@ msgstr ""
 #: kswitchlanguagedialog_p.cpp:191
 #, fuzzy, kde-format
 #| msgid "Default language:"
+msgctxt "@action:button"
 msgid "Add Fallback Language"
 msgstr "Standardsprooch:"
 
 #: kswitchlanguagedialog_p.cpp:192
 #, kde-format
+msgctxt "@info:tooltip"
 msgid ""
 "Adds one more language which will be used if other translations do not "
 "contain a proper translation."
@@ -1307,7 +1404,14 @@ msgid ""
 "effect the next time the application is started."
 msgstr ""
 
-#: kswitchlanguagedialog_p.cpp:289 kswitchlanguagedialog_p.cpp:311
+#: kswitchlanguagedialog_p.cpp:289
+#, fuzzy, kde-format
+#| msgid "Application sounds"
+msgctxt "@title:window"
+msgid "Application Language Changed"
+msgstr "Kläng vun den Uwendungen"
+
+#: kswitchlanguagedialog_p.cpp:311
 #, fuzzy, kde-format
 #| msgid "Application sounds"
 msgid "Application Language Changed"
@@ -1326,12 +1430,15 @@ msgid "Fallback language:"
 msgstr "Standardsprooch:"
 
 #: kswitchlanguagedialog_p.cpp:414
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Remove"
+msgctxt "@action:button"
 msgid "Remove"
 msgstr "Ewechmaachen"
 
 #: kswitchlanguagedialog_p.cpp:421
 #, kde-format
+msgctxt "@info:tooltip"
 msgid ""
 "This is the main application language which will be used first, before any "
 "other languages."
@@ -1339,6 +1446,7 @@ msgstr ""
 
 #: kswitchlanguagedialog_p.cpp:422
 #, kde-format
+msgctxt "@info:tooltip"
 msgid ""
 "This is the language which will be used if any previous languages do not "
 "contain a proper translation."
@@ -1395,22 +1503,30 @@ msgid "Text Position"
 msgstr "Positioun vum Text"
 
 #: ktoolbar.cpp:331
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Icons Only"
+msgctxt "@item:inmenu"
 msgid "Icons Only"
 msgstr "Nëmme Symboler"
 
 #: ktoolbar.cpp:332
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Text Only"
+msgctxt "@item:inmenu"
 msgid "Text Only"
 msgstr "Nëmmen Text"
 
 #: ktoolbar.cpp:333
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Text Alongside Icons"
+msgctxt "@item:inmenu"
 msgid "Text Alongside Icons"
 msgstr "Text nierwt de Symboler"
 
 #: ktoolbar.cpp:334
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Text Under Icons"
+msgctxt "@item:inmenu"
 msgid "Text Under Icons"
 msgstr "Text ënnert de Symboler"
 
@@ -1548,6 +1664,9 @@ msgstr "&Astellungen"
 #, kde-format
 msgid "Main Toolbar"
 msgstr "Haapt-Toolbar"
+
+#~ msgid "Delete"
+#~ msgstr "Läschen"
 
 #~ msgid "Key Conflict"
 #~ msgstr "Tastekonflikt"
@@ -9994,12 +10113,6 @@ msgstr "Haapt-Toolbar"
 #~| msgid "Delete"
 #~ msgctxt "@title"
 #~ msgid "Delete tag"
-#~ msgstr "Läschen"
-
-#, fuzzy
-#~| msgid "Delete"
-#~ msgctxt "@action:button"
-#~ msgid "Delete"
 #~ msgstr "Läschen"
 
 #, fuzzy
