@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-12-15 02:57+0100\n"
+"POT-Creation-Date: 2020-01-15 02:57+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -600,7 +600,7 @@ msgctxt ""
 msgid "Unknown Category"
 msgstr "Onbekannte Feeler"
 
-#. i18n("Download New %1").
+#. i18n("Download New %1...").
 #. *
 #. @note For the sake of consistency, you should NOT override the text propety, just set this one
 #.
@@ -608,13 +608,14 @@ msgstr "Onbekannte Feeler"
 #, kde-format
 msgctxt ""
 "Used to contruct the button's label (which will become Download New 'this "
-"value')"
+"value'...)"
 msgid "Stuff"
 msgstr ""
 
 #: qtquick/qml/Button.qml:59
-#, kde-format
-msgid "Download New %1"
+#, fuzzy, kde-format
+#| msgid "Download New %1"
+msgid "Download New %1..."
 msgstr "Nei %1 eroflueden"
 
 #: qtquick/qml/Dialog.qml:55
