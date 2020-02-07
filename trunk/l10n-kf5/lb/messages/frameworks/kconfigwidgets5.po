@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-30 02:51+0100\n"
+"POT-Creation-Date: 2020-02-07 03:03+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -395,14 +395,16 @@ msgid "Select zoom level"
 msgstr "Woch auswielen"
 
 #: kstandardaction_p.h:76
-#, kde-format
-msgid "&Redisplay"
-msgstr "&Frësch uweisen"
+#, fuzzy, kde-format
+#| msgctxt "QAccel"
+#| msgid "Refresh"
+msgid "&Refresh"
+msgstr "Nei uweisen"
 
 #: kstandardaction_p.h:76
 #, fuzzy, kde-format
 #| msgid "&Redisplay"
-msgid "Redisplay document"
+msgid "Refresh document"
 msgstr "&Frësch uweisen"
 
 #: kstandardaction_p.h:78
@@ -674,6 +676,9 @@ msgstr "&Zeréck"
 msgctxt "@action:button Goes to next tip, opposite to previous"
 msgid "&Next"
 msgstr "&Weider"
+
+#~ msgid "&Redisplay"
+#~ msgstr "&Frësch uweisen"
 
 #, fuzzy
 #~| msgid "New hostname"
@@ -15297,10 +15302,6 @@ msgstr "&Weider"
 #~ msgctxt "QAccel"
 #~ msgid "Stop"
 #~ msgstr "Stopp"
-
-#~ msgctxt "QAccel"
-#~ msgid "Refresh"
-#~ msgstr "Nei uweisen"
 
 #~ msgctxt "QAccel"
 #~ msgid "Volume Down"
