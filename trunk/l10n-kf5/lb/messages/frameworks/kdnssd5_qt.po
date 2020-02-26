@@ -17,21 +17,21 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Qt-Contexts: true\n"
 
-#: servicemodel.cpp:112
+#: servicemodel.cpp:100
 #, fuzzy
 #| msgid "Name"
 msgctxt "KDNSSD::ServiceModel|"
 msgid "Name"
 msgstr "Numm"
 
-#: servicemodel.cpp:113
+#: servicemodel.cpp:101
 #, fuzzy
 #| msgid "Host:"
 msgctxt "KDNSSD::ServiceModel|"
 msgid "Host"
 msgstr "Host:"
 
-#: servicemodel.cpp:114
+#: servicemodel.cpp:102
 #, fuzzy
 #| msgid "Port:"
 msgctxt "KDNSSD::ServiceModel|"
