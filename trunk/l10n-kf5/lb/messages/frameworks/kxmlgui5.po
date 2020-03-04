@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-01-26 02:58+0100\n"
+"POT-Creation-Date: 2020-03-04 03:03+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -142,20 +142,20 @@ msgctxt "City, Country"
 msgid "%1, %2"
 msgstr "%1 %2"
 
-#: kaboutapplicationpersonmodel_p.cpp:309
+#: kaboutapplicationpersonmodel_p.cpp:305
 #, fuzzy, kde-format
 #| msgid "Other"
 msgctxt "A generic social network or homepage link of an unlisted type."
 msgid "Other"
 msgstr "Aner"
 
-#: kaboutapplicationpersonmodel_p.cpp:311
+#: kaboutapplicationpersonmodel_p.cpp:307
 #, fuzzy, kde-format
 msgctxt "A type of link."
 msgid "Blog"
 msgstr "Net zouloossen"
 
-#: kaboutapplicationpersonmodel_p.cpp:319
+#: kaboutapplicationpersonmodel_p.cpp:315
 #, fuzzy, kde-format
 #| msgid "Homepage"
 msgctxt "A type of link."

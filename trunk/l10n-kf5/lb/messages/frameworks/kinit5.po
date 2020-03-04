@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-07-21 02:50+0200\n"
+"POT-Creation-Date: 2020-03-04 03:01+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "X-Generator: KBabel 1.11.2\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
-#: kdeinit/kinit.cpp:508
+#: kdeinit/kinit.cpp:512
 #, kde-format
 msgid ""
 "Unable to start new process.\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Déi maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn oder déi vun "
 "iech agestallte maximal Unzuel vun opgemaachen Dateie kéint erreecht sinn."
 
-#: kdeinit/kinit.cpp:530
+#: kdeinit/kinit.cpp:534
 #, kde-format
 msgid ""
 "Unable to create new process.\n"
@@ -38,12 +38,12 @@ msgstr ""
 "Déi maximal Unzuel vu Prozesser kéint erreecht sinn oder déi vun iech "
 "agestallte maximal Unzuel vu Prozesser kéint erreecht sinn."
 
-#: kdeinit/kinit.cpp:613
+#: kdeinit/kinit.cpp:617
 #, kde-format
 msgid "Could not find '%1' executable."
 msgstr "Konnt de Programm '%1' net fannen."
 
-#: kdeinit/kinit.cpp:646
+#: kdeinit/kinit.cpp:650
 #, kde-format
 msgid ""
 "Could not open library '%1'.\n"
@@ -52,7 +52,7 @@ msgstr ""
 "Konnt d'Bibliothéik '%1' net opmaachen.\n"
 "%2"
 
-#: kdeinit/kinit.cpp:683
+#: kdeinit/kinit.cpp:687
 #, kde-format
 msgid ""
 "Could not find 'kdemain' in '%1'.\n"
