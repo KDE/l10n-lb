@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2019-11-24 02:54+0100\n"
+"POT-Creation-Date: 2020-03-22 02:58+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -157,6 +157,16 @@ msgstr "Unhuelen"
 #, kde-format
 msgid "Reject"
 msgstr "Zeréckweisen"
+
+#: partloader.cpp:177
+#, kde-format
+msgid "The plugin '%1' does not provide an interface '%2' with keyword '%3'"
+msgstr ""
+
+#: partloader.cpp:192
+#, fuzzy, kde-format
+msgid "No part was found for mimeType %1"
+msgstr "Keen Handler fir \"%1\" fonnt!"
 
 #: readwritepart.cpp:93
 #, kde-format
@@ -8069,10 +8079,6 @@ msgstr "Dokument zoumaachen"
 
 #~ msgid "Embeddable component for multipart/mixed"
 #~ msgstr "Abettungsfäheg Komponent fir multipart/mixed"
-
-#, fuzzy
-#~ msgid "No handler found for %1."
-#~ msgstr "Keen Handler fir \"%1\" fonnt!"
 
 #, fuzzy
 #~ msgid "Pause"
