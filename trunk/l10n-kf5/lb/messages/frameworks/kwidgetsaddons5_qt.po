@@ -2136,119 +2136,119 @@ msgctxt "KEditListWidget|"
 msgid "Move &Down"
 msgstr "&Erofréckelen"
 
-#: kfontchooser.cpp:160
+#: kfontchooser.cpp:159
 #, fuzzy
 #| msgid "Here you can choose the font to be used."
 msgctxt "KFontChooser|@info:whatsthis"
 msgid "Here you can choose the font to be used."
 msgstr "Hei kënnt dir eng Schrëft eraussichen."
 
-#: kfontchooser.cpp:182
+#: kfontchooser.cpp:181
 #, fuzzy
 #| msgid "Requested Font"
 msgctxt "KFontChooser|"
 msgid "Requested Font"
 msgstr "Gewënscht Schrëft"
 
-#: kfontchooser.cpp:199
+#: kfontchooser.cpp:198
 #, fuzzy
 #| msgid "Font"
 msgctxt "KFontChooser|@option:check"
 msgid "Font"
 msgstr "Schrëft"
 
-#: kfontchooser.cpp:203
+#: kfontchooser.cpp:202
 #, fuzzy
 #| msgid "Enable this checkbox to change the font family settings."
 msgctxt "KFontChooser|@info:whatsthis"
 msgid "Enable this checkbox to change the font family settings."
 msgstr "Wielt dësst Haische fir d'Astellunge vun der Schrëftfamill z'änneren."
 
-#: kfontchooser.cpp:204
+#: kfontchooser.cpp:203
 #, fuzzy
 #| msgid "Change font family?"
 msgctxt "KFontChooser|@info:tooltip"
 msgid "Change font family?"
 msgstr "Schrëftfamill änneren?"
 
-#: kfontchooser.cpp:208
+#: kfontchooser.cpp:207
 #, fuzzy
 #| msgid "Font:"
 msgctxt "KFontChooser|@label"
 msgid "Font:"
 msgstr "Schrëft:"
 
-#: kfontchooser.cpp:215
+#: kfontchooser.cpp:214
 #, fuzzy
 #| msgid "Font style"
 msgctxt "KFontChooser|@option:check"
 msgid "Font style"
 msgstr "Schrëftstil"
 
-#: kfontchooser.cpp:219
+#: kfontchooser.cpp:218
 #, fuzzy
 #| msgid "Enable this checkbox to change the font style settings."
 msgctxt "KFontChooser|@info:whatsthis"
 msgid "Enable this checkbox to change the font style settings."
 msgstr "Wielt dësst Haische fir d'Astellunge vum Schrëftstil z'änneren."
 
-#: kfontchooser.cpp:220
+#: kfontchooser.cpp:219
 #, fuzzy
 #| msgid "Change font style?"
 msgctxt "KFontChooser|@info:tooltip"
 msgid "Change font style?"
 msgstr "Stil änneren?"
 
-#: kfontchooser.cpp:224
+#: kfontchooser.cpp:223
 #, fuzzy
 #| msgid "Font style:"
 msgctxt "KFontChooser|"
 msgid "Font style:"
 msgstr "Schrëftstil:"
 
-#: kfontchooser.cpp:232
+#: kfontchooser.cpp:231
 #, fuzzy
 #| msgid "Size"
 msgctxt "KFontChooser|@option:check"
 msgid "Size"
 msgstr "Gréisst"
 
-#: kfontchooser.cpp:236
+#: kfontchooser.cpp:239
 #, fuzzy
 #| msgid "Enable this checkbox to change the font size settings."
 msgctxt "KFontChooser|@info:whatsthis"
 msgid "Enable this checkbox to change the font size settings."
 msgstr "Wielt dësst Haische fir d'Astellunge vun der Schrëftgréisst z'änneren."
 
-#: kfontchooser.cpp:237
+#: kfontchooser.cpp:240
 #, fuzzy
 #| msgid "Change font size?"
 msgctxt "KFontChooser|@info:tooltip"
 msgid "Change font size?"
 msgstr "Schrëftgréisst änneren?"
 
-#: kfontchooser.cpp:241
+#: kfontchooser.cpp:244
 #, fuzzy
 #| msgid "Size:"
 msgctxt "KFontChooser|@label:listbox Font size"
 msgid "Size:"
 msgstr "Gréisst:"
 
-#: kfontchooser.cpp:257
+#: kfontchooser.cpp:260
 #, fuzzy
 #| msgid "Here you can choose the font family to be used."
 msgctxt "KFontChooser|@info:whatsthis"
 msgid "Here you can choose the font family to be used."
 msgstr "Hei kënnt dir d'Schrëftfamill wielen, déi benotzt soll ginn."
 
-#: kfontchooser.cpp:281
+#: kfontchooser.cpp:284
 #, fuzzy
 #| msgid "Here you can choose the font style to be used."
 msgctxt "KFontChooser|@info:whatsthis"
 msgid "Here you can choose the font style to be used."
 msgstr "Hei kënnt dir de Schrëftstil wielen, dee benotzt soll ginn."
 
-#: kfontchooser.cpp:289
+#: kfontchooser.cpp:292
 #, fuzzy
 #| msgctxt "normal severity"
 #| msgid "Normal"
@@ -2256,14 +2256,14 @@ msgctxt "KFontChooser|QFontDatabase"
 msgid "Normal"
 msgstr "Normal"
 
-#: kfontchooser.cpp:290 kfontchooser.cpp:602
+#: kfontchooser.cpp:293 kfontchooser.cpp:597
 #, fuzzy
 #| msgid "Italic"
 msgctxt "KFontChooser|@item font"
 msgid "Italic"
 msgstr "Kursiv"
 
-#: kfontchooser.cpp:291 kfontchooser.cpp:603
+#: kfontchooser.cpp:294 kfontchooser.cpp:598
 #, fuzzy
 #| msgctxt "font style"
 #| msgid "Oblique"
@@ -2271,35 +2271,35 @@ msgctxt "KFontChooser|@item font"
 msgid "Oblique"
 msgstr "Schif"
 
-#: kfontchooser.cpp:292
+#: kfontchooser.cpp:295
 #, fuzzy
 #| msgid "Bold"
 msgctxt "KFontChooser|@item font"
 msgid "Bold"
 msgstr "Fett"
 
-#: kfontchooser.cpp:293
+#: kfontchooser.cpp:296
 #, fuzzy
 #| msgid "Bold Italic"
 msgctxt "KFontChooser|@item font"
 msgid "Bold Italic"
 msgstr "Fett kursiv"
 
-#: kfontchooser.cpp:312
+#: kfontchooser.cpp:314
 #, fuzzy
 #| msgid "Relative"
 msgctxt "KFontChooser|@item font size"
 msgid "Relative"
 msgstr "Relativ"
 
-#: kfontchooser.cpp:314
+#: kfontchooser.cpp:316
 #, fuzzy
 #| msgid "Font size<br><i>fixed</i> or <i>relative</i><br>to environment"
 msgctxt "KFontChooser|"
 msgid "Font size<br /><i>fixed</i> or <i>relative</i><br />to environment"
 msgstr "Schrëftgréisst <br><i>fest</i> oder <i>relativ</i><br>zum Rescht"
 
-#: kfontchooser.cpp:316
+#: kfontchooser.cpp:318
 #, fuzzy
 #| msgid ""
 #| "Here you can switch between fixed font size and font size to be "
@@ -2315,14 +2315,14 @@ msgstr ""
 "Schrëftgréisst, déi dynamësch berechent gëtt, an déi sëch dem Rescht (z.B. "
 "der Gréisst vun de Schalteren oder der Gréisst vum Pabeier) upasst. "
 
-#: kfontchooser.cpp:340
+#: kfontchooser.cpp:342
 #, fuzzy
 #| msgid "Here you can choose the font size to be used."
 msgctxt "KFontChooser|"
 msgid "Here you can choose the font size to be used."
 msgstr "Hei kënnt dir d'Schrëftgréisst wielen, déi benotzt soll ginn."
 
-#: kfontchooser.cpp:378
+#: kfontchooser.cpp:379
 #, fuzzy
 #| msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
 msgctxt "KFontChooser|"
@@ -2330,7 +2330,7 @@ msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
 msgstr ""
 "Ëch hätt gär dräi Wirschtercher mat Fritten a Ketchup, ouni Zalot a Geméis"
 
-#: kfontchooser.cpp:381
+#: kfontchooser.cpp:382
 #, fuzzy
 #| msgid ""
 #| "This sample text illustrates the current settings. You may edit it to "
@@ -2343,7 +2343,7 @@ msgstr ""
 "Dëse Beispilltext illustréiert déi momentan Astellungen. Dir kënnt e "
 "veränneren fir d'Duerstellung vu speziellen Zeechen ze kucken."
 
-#: kfontchooser.cpp:587
+#: kfontchooser.cpp:582
 #, fuzzy, qt-format
 #| msgid "%1%"
 msgctxt "KFontChooser|@item Font style"
