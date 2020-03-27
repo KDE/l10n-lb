@@ -640,6 +640,11 @@ msgctxt "Language|"
 msgid "INI Files"
 msgstr "INI-Dateien"
 
+#, fuzzy
+msgctxt "Language|"
+msgid "InnoSetup"
+msgstr "&Stop"
+
 msgctxt "Language|"
 msgid "Intel HEX"
 msgstr ""
@@ -4727,10 +4732,6 @@ msgstr ""
 #, fuzzy
 #~ msgid "Exception in line %1: %2"
 #~ msgstr "Ausnam, Zeil %1: %2"
-
-#, fuzzy
-#~ msgid "Setup"
-#~ msgstr "&Stop"
 
 #, fuzzy
 #~ msgid " Static"
