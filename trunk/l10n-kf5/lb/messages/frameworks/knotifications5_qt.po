@@ -17,6 +17,14 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Qt-Contexts: true\n"
 
+#. Job name, e.g. Copying has failed
+#: knotificationjobuidelegate.cpp:39
+#, fuzzy, qt-format
+#| msgid "%1 (Link)"
+msgctxt "KNotificationJobUiDelegate|"
+msgid "%1 (Failed)"
+msgstr "%1 (Link)"
+
 #: knotificationrestrictions.cpp:192
 #, fuzzy
 #| msgid "Quit application"
@@ -6768,9 +6776,6 @@ msgstr "Aus dem Systemberäich erausgoen"
 
 #~ msgid "Symbolic Link"
 #~ msgstr "Symbolësche Link"
-
-#~ msgid "%1 (Link)"
-#~ msgstr "%1 (Link)"
 
 #, fuzzy
 #~ msgid "%2 (%1 byte)"
