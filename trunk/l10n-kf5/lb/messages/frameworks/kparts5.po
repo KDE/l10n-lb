@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-03-22 02:58+0100\n"
+"POT-Creation-Date: 2020-04-12 03:00+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -111,18 +111,18 @@ msgctxt "@info:whatsthis"
 msgid "This is the file name suggested by the server"
 msgstr ""
 
-#: browserrun.cpp:345
+#: browserrun.cpp:346
 #, fuzzy, kde-format
 #| msgid "Do you really want to execute '%1'? "
 msgid "Do you really want to execute '%1'?"
 msgstr "Wëllt dir '%1' wiirklech lafe loossen? "
 
-#: browserrun.cpp:346
+#: browserrun.cpp:347
 #, kde-format
 msgid "Execute File?"
 msgstr "Datei ausféieren?"
 
-#: browserrun.cpp:346
+#: browserrun.cpp:347
 #, kde-format
 msgid "Execute"
 msgstr "Ausféieren"
