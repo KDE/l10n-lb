@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-05-13 03:02+0200\n"
+"POT-Creation-Date: 2020-05-31 17:58+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -111,28 +111,28 @@ msgctxt "@info:whatsthis"
 msgid "This is the file name suggested by the server"
 msgstr ""
 
-#: browserrun.cpp:347
+#: browserrun.cpp:349
 #, fuzzy, kde-format
 #| msgid "Do you really want to execute '%1'? "
 msgid "Do you really want to execute '%1'?"
 msgstr "Wëllt dir '%1' wiirklech lafe loossen? "
 
-#: browserrun.cpp:348
+#: browserrun.cpp:350
 #, kde-format
 msgid "Execute File?"
 msgstr "Datei ausféieren?"
 
-#: browserrun.cpp:348
+#: browserrun.cpp:350
 #, kde-format
 msgid "Execute"
 msgstr "Ausféieren"
 
-#: browserrun.cpp:407
+#: browserrun.cpp:409
 #, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "Den Download-Manager (%1) konnt an ärem PATH net fonnt ginn "
 
-#: browserrun.cpp:408
+#: browserrun.cpp:410
 #, fuzzy, kde-format
 msgid ""
 "Try to reinstall it  \n"
@@ -143,7 +143,7 @@ msgstr ""
 "\n"
 "D'Integratioun an de Konqueror gëtt ofgeschalt!"
 
-#: browserrun.cpp:435
+#: browserrun.cpp:437
 #, kde-format
 msgid "Save As"
 msgstr "Späicheren als"
@@ -158,12 +158,12 @@ msgstr "Unhuelen"
 msgid "Reject"
 msgstr "Zeréckweisen"
 
-#: partloader.cpp:177
+#: partloader.cpp:181
 #, kde-format
 msgid "The plugin '%1' does not provide an interface '%2' with keyword '%3'"
 msgstr ""
 
-#: partloader.cpp:192
+#: partloader.cpp:196
 #, fuzzy, kde-format
 msgid "No part was found for mimeType %1"
 msgstr "Keen Handler fir \"%1\" fonnt!"
