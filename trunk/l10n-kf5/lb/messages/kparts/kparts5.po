@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-05-31 17:58+0200\n"
+"POT-Creation-Date: 2020-06-07 02:02+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -42,97 +42,97 @@ msgstr "Sicht am Internet"
 msgid "&Search"
 msgstr "&Sichen"
 
-#: browseropenorsavequestion.cpp:104
+#: browseropenorsavequestion.cpp:102
 #, fuzzy, kde-format
 #| msgid "Redo: %1"
 msgctxt "@label Type of file"
 msgid "Type: %1"
 msgstr "Nees zeréck: %1"
 
-#: browseropenorsavequestion.cpp:112
+#: browseropenorsavequestion.cpp:110
 #, fuzzy, kde-format
 #| msgid "Do not show this message again"
 msgctxt "@label:checkbox"
 msgid "Remember action for files of this type"
 msgstr "Dëss Noricht net méi weisen"
 
-#: browseropenorsavequestion.cpp:164 browseropenorsavequestion.cpp:257
+#: browseropenorsavequestion.cpp:162 browseropenorsavequestion.cpp:255
 #, fuzzy, kde-format
 #| msgid "&Open with '%1'"
 msgctxt "@label:button"
 msgid "&Open with %1"
 msgstr "Mat '%1' &opmaachen"
 
-#: browseropenorsavequestion.cpp:231
+#: browseropenorsavequestion.cpp:229
 #, fuzzy, kde-format
 #| msgid "&Open with '%1'"
 msgctxt "@action:inmenu"
 msgid "Open &with %1"
 msgstr "Mat '%1' &opmaachen"
 
-#: browseropenorsavequestion.cpp:242 browseropenorsavequestion.cpp:337
+#: browseropenorsavequestion.cpp:240 browseropenorsavequestion.cpp:335
 #, fuzzy, kde-format
 #| msgid "Open '%1'"
 msgctxt "@info"
 msgid "Open '%1'?"
 msgstr "'%1' opmaachen"
 
-#: browseropenorsavequestion.cpp:246
+#: browseropenorsavequestion.cpp:244
 #, fuzzy, kde-format
 #| msgid "&Open With..."
 msgctxt "@label:button"
 msgid "&Open with..."
 msgstr "&Opmaache mat..."
 
-#: browseropenorsavequestion.cpp:266
+#: browseropenorsavequestion.cpp:264
 #, fuzzy, kde-format
 #| msgid "&Open With..."
 msgctxt "@label:button"
 msgid "&Open with"
 msgstr "&Opmaache mat..."
 
-#: browseropenorsavequestion.cpp:334
+#: browseropenorsavequestion.cpp:332
 #, fuzzy, kde-format
 #| msgid "&Open"
 msgctxt "@label:button"
 msgid "&Open"
 msgstr "&Opmaachen"
 
-#: browseropenorsavequestion.cpp:359
+#: browseropenorsavequestion.cpp:357
 #, fuzzy, kde-format
 #| msgid "Name:"
 msgctxt "@label File name"
 msgid "Name: %1"
 msgstr "Numm:"
 
-#: browseropenorsavequestion.cpp:361
+#: browseropenorsavequestion.cpp:359
 #, kde-format
 msgctxt "@info:whatsthis"
 msgid "This is the file name suggested by the server"
 msgstr ""
 
-#: browserrun.cpp:349
+#: browserrun.cpp:350
 #, fuzzy, kde-format
 #| msgid "Do you really want to execute '%1'? "
 msgid "Do you really want to execute '%1'?"
 msgstr "Wëllt dir '%1' wiirklech lafe loossen? "
 
-#: browserrun.cpp:350
+#: browserrun.cpp:351
 #, kde-format
 msgid "Execute File?"
 msgstr "Datei ausféieren?"
 
-#: browserrun.cpp:350
+#: browserrun.cpp:351
 #, kde-format
 msgid "Execute"
 msgstr "Ausféieren"
 
-#: browserrun.cpp:409
+#: browserrun.cpp:410
 #, kde-format
 msgid "The Download Manager (%1) could not be found in your $PATH "
 msgstr "Den Download-Manager (%1) konnt an ärem PATH net fonnt ginn "
 
-#: browserrun.cpp:410
+#: browserrun.cpp:411
 #, fuzzy, kde-format
 msgid ""
 "Try to reinstall it  \n"
@@ -143,7 +143,7 @@ msgstr ""
 "\n"
 "D'Integratioun an de Konqueror gëtt ofgeschalt!"
 
-#: browserrun.cpp:437
+#: browserrun.cpp:438
 #, kde-format
 msgid "Save As"
 msgstr "Späicheren als"
@@ -158,12 +158,12 @@ msgstr "Unhuelen"
 msgid "Reject"
 msgstr "Zeréckweisen"
 
-#: partloader.cpp:181
+#: partloader.cpp:182
 #, kde-format
 msgid "The plugin '%1' does not provide an interface '%2' with keyword '%3'"
 msgstr ""
 
-#: partloader.cpp:196
+#: partloader.cpp:197
 #, fuzzy, kde-format
 msgid "No part was found for mimeType %1"
 msgstr "Keen Handler fir \"%1\" fonnt!"
