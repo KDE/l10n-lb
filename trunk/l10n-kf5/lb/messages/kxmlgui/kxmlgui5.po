@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-05 02:01+0200\n"
+"POT-Creation-Date: 2020-06-20 02:01+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -847,7 +847,7 @@ msgid "Change Icon"
 msgstr "&Symbol änneren..."
 
 #. i18n: ectx: Menu (help)
-#: khelpmenu.cpp:172 ui_standards.rc:177
+#: khelpmenu.cpp:172 ui_standards.rc:178
 #, kde-format
 msgid "&Help"
 msgstr "&Hëllef"
@@ -1361,10 +1361,10 @@ msgstr "%1%"
 
 #: kswitchlanguagedialog_p.cpp:159
 #, fuzzy, kde-format
-#| msgid "sets the application name"
+#| msgid "Configure"
 msgctxt "@title:window"
-msgid "Switch Application Language"
-msgstr "Bestëmmt den Numm vun der Uwendung"
+msgid "Configure Language"
+msgstr "Configuréieren"
 
 #: kswitchlanguagedialog_p.cpp:164
 #, kde-format
@@ -1649,10 +1649,16 @@ msgid "&Settings"
 msgstr "&Astellungen"
 
 #. i18n: ectx: ToolBar (mainToolBar)
-#: ui_standards.rc:196
+#: ui_standards.rc:195
 #, kde-format
 msgid "Main Toolbar"
 msgstr "Haapt-Toolbar"
+
+#, fuzzy
+#~| msgid "sets the application name"
+#~ msgctxt "@title:window"
+#~ msgid "Switch Application Language"
+#~ msgstr "Bestëmmt den Numm vun der Uwendung"
 
 #~ msgid "Compiler:"
 #~ msgstr "Compiler:"
@@ -4671,9 +4677,6 @@ msgstr "Haapt-Toolbar"
 #, fuzzy
 #~ msgid "Finish"
 #~ msgstr "&Fäerdeg"
-
-#~ msgid "Configure"
-#~ msgstr "Configuréieren"
 
 #, fuzzy
 #~| msgid "Jom"

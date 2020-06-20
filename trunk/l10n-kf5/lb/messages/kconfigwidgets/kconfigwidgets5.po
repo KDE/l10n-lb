@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-08 02:02+0200\n"
+"POT-Creation-Date: 2020-06-20 02:00+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -607,8 +607,9 @@ msgstr "E Käfer &mellen..."
 
 #: kstandardaction_p.h:119
 #, fuzzy, kde-format
-msgid "Switch Application &Language..."
-msgstr "Programm zoumaachen"
+#| msgid "Configure Email..."
+msgid "Configure &Language..."
+msgstr "E-Mail configuréiren..."
 
 #: kstandardaction_p.h:120
 #, kde-format
@@ -676,6 +677,10 @@ msgstr "&Zeréck"
 msgctxt "@action:button Goes to next tip, opposite to previous"
 msgid "&Next"
 msgstr "&Weider"
+
+#, fuzzy
+#~ msgid "Switch Application &Language..."
+#~ msgstr "Programm zoumaachen"
 
 #~ msgid "&Redisplay"
 #~ msgstr "&Frësch uweisen"
@@ -3545,9 +3550,6 @@ msgstr "&Weider"
 #~ msgctxt "Email sender address"
 #~ msgid "From:"
 #~ msgstr "Vun:"
-
-#~ msgid "Configure Email..."
-#~ msgstr "E-Mail configuréiren..."
 
 #~ msgid "The email address this bug report is sent to."
 #~ msgstr "D'E-Mail-Adress, wou de Käfer gemellt gëtt."
