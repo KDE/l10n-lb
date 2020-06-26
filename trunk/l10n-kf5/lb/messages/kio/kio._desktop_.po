@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-25 00:27+0000\n"
+"POT-Creation-Date: 2020-06-26 00:28+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -684,7 +684,7 @@ msgctxt "Name"
 msgid "KDE Bugs"
 msgstr "KDE-Ressourcen"
 
-#: src/urifilters/ikws/searchproviders/bug.desktop:4
+#: src/urifilters/ikws/searchproviders/bug.desktop:9
 msgctxt "Query"
 msgid "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
 msgstr ""
