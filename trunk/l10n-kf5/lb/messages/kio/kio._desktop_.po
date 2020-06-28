@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-27 00:29+0000\n"
+"POT-Creation-Date: 2020-06-28 00:31+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -799,6 +799,16 @@ msgstr "Debian-Päckchen"
 #: src/urifilters/ikws/searchproviders/deb.desktop:92
 msgctxt "Query"
 msgid "https://packages.debian.org/\\\\{@}"
+msgstr ""
+
+#: src/urifilters/ikws/searchproviders/deepl.desktop:3
+msgctxt "Name"
+msgid "DeepL"
+msgstr ""
+
+#: src/urifilters/ikws/searchproviders/deepl.desktop:4
+msgctxt "Query"
+msgid "https://www.deepl.com/translator#any/any/\\\\{@}"
 msgstr ""
 
 #: src/urifilters/ikws/searchproviders/dictfr.desktop:3
