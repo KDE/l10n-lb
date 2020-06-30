@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-20 02:01+0200\n"
+"POT-Creation-Date: 2020-06-30 02:01+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -23,28 +23,28 @@ msgctxt "@title:window"
 msgid "About %1"
 msgstr "Iwwer %1"
 
-#: kaboutapplicationdialog.cpp:106 kaboutplugindialog.cpp:92
+#: kaboutapplicationdialog.cpp:105 kaboutplugindialog.cpp:92
 #, fuzzy, kde-format
 #| msgid "&About"
 msgctxt "@title:tab"
 msgid "About"
 msgstr "&Iwwer"
 
-#: kaboutapplicationdialog.cpp:113
+#: kaboutapplicationdialog.cpp:112
 #, kde-format
 msgid ""
 "<ul><li>KDE Frameworks %1</li><li>Qt %2 (built against %3)</li><li>The <em>"
 "%4</em> windowing system</li></ul>"
 msgstr ""
 
-#: kaboutapplicationdialog.cpp:123
+#: kaboutapplicationdialog.cpp:122
 #, fuzzy, kde-format
 #| msgid "Libraries"
 msgctxt "@title:tab"
 msgid "Libraries"
 msgstr "Bibliothéiken"
 
-#: kaboutapplicationdialog.cpp:133 kaboutplugindialog.cpp:103
+#: kaboutapplicationdialog.cpp:132 kaboutplugindialog.cpp:103
 #, fuzzy, kde-format
 #| msgid "Author"
 msgctxt "@title:tab"
@@ -53,14 +53,14 @@ msgid_plural "Authors"
 msgstr[0] "Auteur"
 msgstr[1] "Auteur"
 
-#: kaboutapplicationdialog.cpp:140 kaboutplugindialog.cpp:110
+#: kaboutapplicationdialog.cpp:139 kaboutplugindialog.cpp:110
 #, fuzzy, kde-format
 #| msgid "&Thanks To"
 msgctxt "@title:tab"
 msgid "Thanks To"
 msgstr "&Merci un"
 
-#: kaboutapplicationdialog.cpp:147 kaboutplugindialog.cpp:116
+#: kaboutapplicationdialog.cpp:146 kaboutplugindialog.cpp:116
 #, fuzzy, kde-format
 #| msgid "Translation"
 msgctxt "@title:tab"
@@ -173,7 +173,7 @@ msgstr "Iwwer &KDE"
 msgid "<html><font size=\"5\">KDE - Be Free!</font></html>"
 msgstr ""
 
-#: kaboutkdedialog_p.cpp:55
+#: kaboutkdedialog_p.cpp:56
 #, fuzzy, kde-format
 msgid ""
 "<html><b>KDE</b> is a world-wide community of software engineers, artists, "
@@ -195,7 +195,7 @@ msgstr ""
 "matzemaachen.<br><br>Gitt op <A HREF=\"http://www.kde.org/\">http://www.kde."
 "org</A> fir méi Informatiounen iwwert de KDE-Projekt. "
 
-#: kaboutkdedialog_p.cpp:75
+#: kaboutkdedialog_p.cpp:76
 #, fuzzy, kde-format
 msgid ""
 "<html>Software can always be improved, and the KDE team is ready to do so. "
@@ -216,7 +216,7 @@ msgstr ""
 "z'äusseren. Vergewëssert iech just, dass dir ënnert \"Gravitéit\" d'Auswiel "
 "\"Wonsch\" trefft."
 
-#: kaboutkdedialog_p.cpp:93
+#: kaboutkdedialog_p.cpp:94
 #, fuzzy, kde-format
 msgid ""
 "<html>You do not have to be a software developer to be a member of the KDE "
@@ -236,7 +236,7 @@ msgstr ""
 "oder Dokumentatioune braucht, da gitt op <A HREF=\"http://developer.kde.org/"
 "\">http://developer.kde.org</A>. Do fannt dir, wat dir sicht."
 
-#: kaboutkdedialog_p.cpp:115
+#: kaboutkdedialog_p.cpp:116
 #, fuzzy, kde-format
 #| msgid ""
 #| "KDE is available free of charge, but making it is not free.<br><br>Thus, "
@@ -275,7 +275,7 @@ msgstr ""
 "kde.org/support/</a>kritt dir gewise, wéi dat geet.<br><br>Villmols Merci "
 "fir är Ënnerstëtzung."
 
-#: kaboutkdedialog_p.cpp:135
+#: kaboutkdedialog_p.cpp:136
 #, fuzzy, kde-format
 #| msgctxt "About KDE"
 #| msgid "&About"
@@ -283,39 +283,39 @@ msgctxt "@title:tab About KDE"
 msgid "&About"
 msgstr "&Iwwer"
 
-#: kaboutkdedialog_p.cpp:136
+#: kaboutkdedialog_p.cpp:137
 #, fuzzy, kde-format
 #| msgid "&Report Bugs or Wishes"
 msgctxt "@title:tab"
 msgid "&Report Bugs or Wishes"
 msgstr "&Käferen a Wënsch mellen"
 
-#: kaboutkdedialog_p.cpp:137
+#: kaboutkdedialog_p.cpp:138
 #, fuzzy, kde-format
 #| msgid "&Join the KDE Team"
 msgctxt "@title:tab"
 msgid "&Join KDE"
 msgstr "Gitt &Member am KDE-Team"
 
-#: kaboutkdedialog_p.cpp:138
+#: kaboutkdedialog_p.cpp:139
 #, fuzzy, kde-format
 #| msgid "&Support KDE"
 msgctxt "@title:tab"
 msgid "&Support KDE"
 msgstr "KDE ënner&stëtzen"
 
-#: kabstractaboutdialog_p.cpp:47
+#: kabstractaboutdialog_p.cpp:48
 #, kde-format
 msgid "<html><font size=\"5\">%1</font><br />Version %2</html>"
 msgstr ""
 
-#: kabstractaboutdialog_p.cpp:92
+#: kabstractaboutdialog_p.cpp:93
 #, fuzzy, kde-format
 #| msgid "License:"
 msgid "License: %1"
 msgstr "Lizenz:"
 
-#: kabstractaboutdialog_p.cpp:124
+#: kabstractaboutdialog_p.cpp:125
 #, fuzzy, kde-format
 #| msgid ""
 #| "Please use <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> to "
@@ -327,7 +327,7 @@ msgstr ""
 "Benotzt w.e.g. <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> fir "
 "eventuell Käferen ze mellen.\n"
 
-#: kabstractaboutdialog_p.cpp:130
+#: kabstractaboutdialog_p.cpp:131
 #, fuzzy, kde-format
 #| msgid "Please report bugs to <a href=\"mailto:%1\">%2</a>.\n"
 msgid "Please report bugs to <a href=\"%1\">%2</a>.\n"
@@ -362,7 +362,7 @@ msgstr "E Käfer mellen"
 msgid "Submit Bug Report"
 msgstr "E Käfer mellen"
 
-#: kbugreport.cpp:143
+#: kbugreport.cpp:144
 #, kde-format
 msgid ""
 "Your email address. If incorrect, use the Configure Email button to change it"
@@ -370,54 +370,54 @@ msgstr ""
 "Är E-Mail-Adress. Wa se falsch ass, dréckt op den \"E-Mail configuréieren\"-"
 "Knäppche fir se z'änneren"
 
-#: kbugreport.cpp:144
+#: kbugreport.cpp:145
 #, fuzzy, kde-format
 #| msgid "From:"
 msgctxt "Email sender address"
 msgid "From:"
 msgstr "Vun:"
 
-#: kbugreport.cpp:152
+#: kbugreport.cpp:153
 #, fuzzy, kde-format
 #| msgid "Configure Email..."
 msgctxt "@action:button"
 msgid "Configure Email..."
 msgstr "E-Mail configuréiren..."
 
-#: kbugreport.cpp:158
+#: kbugreport.cpp:159
 #, kde-format
 msgid "The email address this bug report is sent to."
 msgstr "D'E-Mail-Adress, wou de Käfer gemellt gëtt."
 
-#: kbugreport.cpp:159
+#: kbugreport.cpp:160
 #, fuzzy, kde-format
 #| msgid "To:"
 msgctxt "Email receiver address"
 msgid "To:"
 msgstr "Un:"
 
-#: kbugreport.cpp:168
+#: kbugreport.cpp:169
 #, fuzzy, kde-format
 #| msgid "&Send"
 msgctxt "@action:button"
 msgid "&Send"
 msgstr "&Fortschécken"
 
-#: kbugreport.cpp:169
+#: kbugreport.cpp:170
 #, fuzzy, kde-format
 #| msgid "Send bug report."
 msgctxt "@info:tooltip"
 msgid "Send bug report."
 msgstr "De Bericht fortschécken."
 
-#: kbugreport.cpp:170
+#: kbugreport.cpp:171
 #, fuzzy, kde-format
 #| msgid "Send this bug report to %1."
 msgctxt "@info:whatsthis"
 msgid "Send this bug report to %1."
 msgstr "Dëse Käfer bei %1 mellen."
 
-#: kbugreport.cpp:178
+#: kbugreport.cpp:179
 #, kde-format
 msgid ""
 "The application for which you wish to submit a bug report - if incorrect, "
@@ -426,12 +426,12 @@ msgstr ""
 "De Programm an deem dir de Käfer fonnt hutt - Falls hei dee falsche Programm "
 "steet, bënotzt w.e.g. de \"Käfer Mellen\"-Menü vun deem richtege Programm"
 
-#: kbugreport.cpp:179
+#: kbugreport.cpp:180
 #, kde-format
 msgid "Application: "
 msgstr "Programm: "
 
-#: kbugreport.cpp:189
+#: kbugreport.cpp:190
 #, kde-format
 msgid ""
 "The version of this application - please make sure that no newer version is "
@@ -440,44 +440,44 @@ msgstr ""
 "D'Versioun vum Programm - Kuckt w.e.g. no, ob keng méi nei Versioun eraus "
 "ass, éier dir de Bericht verschéckt"
 
-#: kbugreport.cpp:190
+#: kbugreport.cpp:191
 #, kde-format
 msgid "Version:"
 msgstr "Versioun:"
 
-#: kbugreport.cpp:195
+#: kbugreport.cpp:196
 #, fuzzy, kde-format
 #| msgid "no version set (programmer error!)"
 msgid "no version set (programmer error)"
 msgstr "keng Versioun (Feeler vum Programméierer!)"
 
-#: kbugreport.cpp:207
+#: kbugreport.cpp:208
 #, kde-format
 msgid "OS:"
 msgstr "OS:"
 
-#: kbugreport.cpp:217
+#: kbugreport.cpp:218
 #, fuzzy, kde-format
 #| msgid "Se&verity"
 msgctxt "@title:group"
 msgid "Se&verity"
 msgstr "Gra&vitéit"
 
-#: kbugreport.cpp:221
+#: kbugreport.cpp:222
 #, fuzzy, kde-format
 #| msgid "Critical"
 msgctxt "bug severity"
 msgid "Critical"
 msgstr "Kritësch"
 
-#: kbugreport.cpp:222
+#: kbugreport.cpp:223
 #, fuzzy, kde-format
 #| msgid "Grave"
 msgctxt "bug severity"
 msgid "Grave"
 msgstr "Schlëmm"
 
-#: kbugreport.cpp:223
+#: kbugreport.cpp:224
 #, fuzzy, kde-format
 #| msgctxt "normal severity"
 #| msgid "Normal"
@@ -485,26 +485,26 @@ msgctxt "bug severity"
 msgid "Normal"
 msgstr "Normal"
 
-#: kbugreport.cpp:224
+#: kbugreport.cpp:225
 #, fuzzy, kde-format
 #| msgid "Wishlist"
 msgctxt "bug severity"
 msgid "Wishlist"
 msgstr "Wonsch"
 
-#: kbugreport.cpp:225
+#: kbugreport.cpp:226
 #, fuzzy, kde-format
 #| msgid "Translation"
 msgctxt "bug severity"
 msgid "Translation"
 msgstr "Iwwersetzung"
 
-#: kbugreport.cpp:243
+#: kbugreport.cpp:244
 #, kde-format
 msgid "S&ubject: "
 msgstr "Be&treff: "
 
-#: kbugreport.cpp:251
+#: kbugreport.cpp:252
 #, kde-format
 msgid ""
 "Enter the text (in English if possible) that you wish to submit for the bug "
@@ -517,7 +517,7 @@ msgstr ""
 "Wann dir op \"Fortschécken\" klickt, gëtt eng E-Mail un de Verwalter vun "
 "dësem Programm geschéckt.\n"
 
-#: kbugreport.cpp:273
+#: kbugreport.cpp:274
 #, fuzzy, kde-format
 msgid ""
 "<qt>To submit a bug report, click on the button below. This will open a web "
@@ -531,7 +531,7 @@ msgstr ""
 "wou dir e Formular ausfëlle kënnt.\n"
 "D'Informatioun hei driwwer gëtt op de Server geschéckt."
 
-#: kbugreport.cpp:278
+#: kbugreport.cpp:279
 #, fuzzy, kde-format
 msgid ""
 "<qt>To submit a bug report, click on the button below. This will open a web "
@@ -543,21 +543,21 @@ msgstr ""
 "wou dir e Formular ausfëlle kënnt.\n"
 "D'Informatioun hei driwwer gëtt op de Server geschéckt."
 
-#: kbugreport.cpp:294
+#: kbugreport.cpp:295
 #, fuzzy, kde-format
 #| msgid "&Launch Bug Report Wizard"
 msgctxt "@action:button"
 msgid "&Launch Bug Report Wizard"
 msgstr "Käfer-Mellen-Assistent &starten"
 
-#: kbugreport.cpp:296
+#: kbugreport.cpp:297
 #, fuzzy, kde-format
 #| msgid "Submit Bug Report"
 msgctxt "@action:button"
 msgid "&Submit Bug Report"
 msgstr "E Käfer mellen"
 
-#: kbugreport.cpp:390
+#: kbugreport.cpp:391
 #, kde-format
 msgid ""
 "You must specify both a subject and a description before the report can be "
@@ -566,7 +566,7 @@ msgstr ""
 "Dir musst e Betreff an eng Beschreiwung ugin, éier dir de Bericht verschécke "
 "kënnt."
 
-#: kbugreport.cpp:399
+#: kbugreport.cpp:400
 #, fuzzy, kde-format
 #| msgid ""
 #| "<p>You chose the severity <b>Critical</b>. Please note that this severity "
@@ -593,7 +593,7 @@ msgstr ""
 "<p>Erfëllt äre Käfer ee vun deene Critèren? Falls net, wielt w.e.g. méi eng "
 "schwaach Gravitéit aus. Merci.</p>"
 
-#: kbugreport.cpp:411
+#: kbugreport.cpp:412
 #, fuzzy, kde-format
 #| msgid ""
 #| "<p>You chose the severity <b>Grave</b>. Please note that this severity is "
@@ -620,7 +620,7 @@ msgstr ""
 "<p>Erfëllt äre Käfer ee vun deene Critèren? Falls net, wielt w.e.g. méi eng "
 "schwaach Gravitéit aus. Merci.</p>"
 
-#: kbugreport.cpp:425
+#: kbugreport.cpp:426
 #, fuzzy, kde-format
 #| msgid ""
 #| "Unable to send the bug report.\n"
@@ -635,12 +635,12 @@ msgstr ""
 "Mellt äre Käfer w.e.g. manuell...\n"
 "Gitt op http://bugs.kde.org/ fir Uweisungen."
 
-#: kbugreport.cpp:433
+#: kbugreport.cpp:434
 #, kde-format
 msgid "Bug report sent, thank you for your input."
 msgstr "Käfer gemellt. Merci fir är Hëllef."
 
-#: kbugreport.cpp:442
+#: kbugreport.cpp:443
 #, kde-format
 msgid ""
 "Close and discard\n"
@@ -650,7 +650,7 @@ msgstr ""
 "verännert Noricht\n"
 "si loossen?"
 
-#: kbugreport.cpp:443
+#: kbugreport.cpp:444
 #, fuzzy, kde-format
 #| msgid "Close Message"
 msgctxt "@title:window"
