@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-06-16 02:07+0200\n"
+"POT-Creation-Date: 2020-07-02 02:01+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -816,13 +816,13 @@ msgctxt ""
 msgid "Download New Stuff"
 msgstr "Nei Saachen eroflueden"
 
-#: qtquick/qml/DownloadItemsSheet.qml:49
+#: qtquick/qml/DownloadItemsSheet.qml:46
 #, fuzzy, kde-format
 #| msgid "Resource Installation Error"
 msgid "Pick Your Installation Option"
 msgstr "Feeler bei der Installatioun vu Ressourcen"
 
-#: qtquick/qml/DownloadItemsSheet.qml:55
+#: qtquick/qml/DownloadItemsSheet.qml:57
 #, kde-format
 msgid ""
 "Please select the option you wish to install from the list of downloadable "
