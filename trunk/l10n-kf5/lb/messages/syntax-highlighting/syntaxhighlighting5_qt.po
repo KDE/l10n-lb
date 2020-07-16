@@ -1145,6 +1145,11 @@ msgid "PureBasic"
 msgstr "PureBasic"
 
 #, fuzzy
+msgctxt "Language|"
+msgid "PureScript"
+msgstr "Skripter"
+
+#, fuzzy
 #| msgctxt "Language"
 #| msgid "Python"
 msgctxt "Language|"
