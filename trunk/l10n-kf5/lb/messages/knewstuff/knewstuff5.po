@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-07-03 02:01+0200\n"
+"POT-Creation-Date: 2020-07-17 02:04+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1170,7 +1170,7 @@ msgstr "Kee Feeler"
 msgid "None"
 msgstr "Keng"
 
-#: qtquick/quickengine.cpp:142
+#: qtquick/quickengine.cpp:151
 #, kde-format
 msgctxt ""
 "An informational message which is shown to inform the user they are not "
