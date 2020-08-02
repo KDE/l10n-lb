@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-07-30 02:07+0200\n"
+"POT-Creation-Date: 2020-08-02 02:07+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -771,7 +771,7 @@ msgstr "Méi..."
 #| msgid "Categories"
 msgctxt ""
 "The first entry in the category selection list (also the default value)"
-msgid "Show All Categories"
+msgid "All Categories"
 msgstr "Kategorien"
 
 #: qtquick/categoriesmodel.cpp:108
@@ -970,13 +970,13 @@ msgctxt "Request installation of this item"
 msgid "Install"
 msgstr "Installéieren"
 
-#: qtquick/qml/NewStuffList.qml:83 qtquick/qml/Page.qml:189
+#: qtquick/qml/NewStuffList.qml:83
 #, kde-format
 msgctxt "List option which will set the filter to show everything"
 msgid "Show Everything"
 msgstr ""
 
-#: qtquick/qml/NewStuffList.qml:84 qtquick/qml/Page.qml:190
+#: qtquick/qml/NewStuffList.qml:84 qtquick/qml/Page.qml:195
 #, fuzzy, kde-format
 #| msgid "Installation"
 msgctxt ""
@@ -984,7 +984,7 @@ msgctxt ""
 msgid "Installed Only"
 msgstr "Installatioun"
 
-#: qtquick/qml/NewStuffList.qml:85 qtquick/qml/Page.qml:191
+#: qtquick/qml/NewStuffList.qml:85 qtquick/qml/Page.qml:196
 #, kde-format
 msgctxt ""
 "List option which will set the filter so only installed items with updates "
@@ -992,7 +992,7 @@ msgctxt ""
 msgid "Updateable Only"
 msgstr ""
 
-#: qtquick/qml/NewStuffList.qml:97 qtquick/qml/Page.qml:203
+#: qtquick/qml/NewStuffList.qml:97
 #, kde-format
 msgctxt ""
 "List option which will set the sort order to based on when items were most "
@@ -1000,7 +1000,7 @@ msgctxt ""
 msgid "Show most recent first"
 msgstr ""
 
-#: qtquick/qml/NewStuffList.qml:98 qtquick/qml/Page.qml:204
+#: qtquick/qml/NewStuffList.qml:98
 #, kde-format
 msgctxt ""
 "List option which will set the sort order to be alphabetical based on the "
@@ -1008,13 +1008,13 @@ msgctxt ""
 msgid "Sort alphabetically"
 msgstr ""
 
-#: qtquick/qml/NewStuffList.qml:99 qtquick/qml/Page.qml:205
+#: qtquick/qml/NewStuffList.qml:99
 #, kde-format
 msgctxt "List option which will set the sort order to based on user ratings"
 msgid "Show highest rated first"
 msgstr ""
 
-#: qtquick/qml/NewStuffList.qml:100 qtquick/qml/Page.qml:206
+#: qtquick/qml/NewStuffList.qml:100
 #, fuzzy, kde-format
 #| msgid "Most Downloads"
 msgctxt ""
@@ -1043,7 +1043,50 @@ msgstr "Detailer"
 msgid "Preview view mode"
 msgstr "Detailer"
 
-#: qtquick/qml/Page.qml:253
+#: qtquick/qml/Page.qml:176
+#, fuzzy, kde-format
+#| msgid "Show %1"
+msgid "Show:"
+msgstr "%1 weisen"
+
+#: qtquick/qml/Page.qml:194
+#, kde-format
+msgctxt "List option which will set the filter to show everything"
+msgid "Everything"
+msgstr ""
+
+#: qtquick/qml/Page.qml:208
+#, kde-format
+msgctxt ""
+"List option which will set the sort order to based on when items were most "
+"recently updated"
+msgid "Most recent first"
+msgstr ""
+
+#: qtquick/qml/Page.qml:209
+#, kde-format
+msgctxt ""
+"List option which will set the sort order to be alphabetical based on the "
+"name"
+msgid "A-Z"
+msgstr ""
+
+#: qtquick/qml/Page.qml:210
+#, fuzzy, kde-format
+#| msgid "Highest Rated"
+msgctxt "List option which will set the sort order to based on user ratings"
+msgid "Highest rated first"
+msgstr "Am héchste bewäert"
+
+#: qtquick/qml/Page.qml:211
+#, fuzzy, kde-format
+#| msgid "Most Downloads"
+msgctxt ""
+"List option which will set the sort order to based on number of downloads"
+msgid "Most downloaded first"
+msgstr "Am meeschten erofgelueden"
+
+#: qtquick/qml/Page.qml:258
 #, fuzzy, kde-format
 #| msgid "Print Previe&w..."
 msgctxt ""
@@ -1051,7 +1094,7 @@ msgctxt ""
 msgid "Loading more..."
 msgstr "Drocker&virschau..."
 
-#: qtquick/qml/Page.qml:320
+#: qtquick/qml/Page.qml:325
 #, kde-format
 msgctxt ""
 "A message shown when there are no entries in the list, and when it is not "
@@ -1651,6 +1694,13 @@ msgstr ""
 #| msgid "Start replace"
 msgid "Start Upload"
 msgstr "Mam Ersetzen ufänken"
+
+#, fuzzy
+#~| msgid "Categories"
+#~ msgctxt ""
+#~ "The first entry in the category selection list (also the default value)"
+#~ msgid "Show All Categories"
+#~ msgstr "Kategorien"
 
 #, fuzzy
 #~| msgid "Internet Search"
@@ -9890,9 +9940,6 @@ msgstr "Mam Ersetzen ufänken"
 #~ msgid "Latest"
 #~ msgstr "Dat Neitst"
 
-#~ msgid "Highest Rated"
-#~ msgstr "Am héchste bewäert"
-
 #~ msgid "Most Downloads"
 #~ msgstr "Am meeschten erofgelueden"
 
@@ -13571,11 +13618,6 @@ msgstr "Mam Ersetzen ufänken"
 #~| msgid "Email"
 #~ msgid "Email:"
 #~ msgstr "E-Mail"
-
-#, fuzzy
-#~| msgid "Show %1"
-#~ msgid "Show:"
-#~ msgstr "%1 weisen"
 
 #~ msgid "Close this tab"
 #~ msgstr "Dësen Tab zoumaachen"
