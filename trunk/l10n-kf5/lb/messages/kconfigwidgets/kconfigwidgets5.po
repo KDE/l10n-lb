@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-08 02:05+0200\n"
+"POT-Creation-Date: 2020-08-22 02:07+0200\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -63,7 +63,7 @@ msgstr "Standard"
 msgid "Color Scheme"
 msgstr "Kierzelen"
 
-#: kconfigdialog.cpp:32
+#: kconfigdialog.cpp:33
 #, fuzzy, kde-format
 #| msgid "Configure"
 msgctxt "@title:window"
