@@ -1544,28 +1544,7 @@ msgstr ""
 #| msgctxt "Language"
 #| msgid "Apache Configuration"
 msgctxt "Language|"
-msgid "Varnish 4 Configuration Language"
-msgstr "Apache-Configuratioun"
-
-#, fuzzy
-#| msgctxt "Language"
-#| msgid "Apache Configuration"
-msgctxt "Language|"
-msgid "Varnish 4 module spec file"
-msgstr "Apache-Configuratioun"
-
-#, fuzzy
-#| msgctxt "Language"
-#| msgid "Apache Configuration"
-msgctxt "Language|"
-msgid "Varnish 3 module spec file"
-msgstr "Apache-Configuratioun"
-
-#, fuzzy
-#| msgctxt "Language"
-#| msgid "Apache Configuration"
-msgctxt "Language|"
-msgid "Varnish 4 Test Case language"
+msgid "Varnish module spec file"
 msgstr "Apache-Configuratioun"
 
 #, fuzzy
@@ -1914,6 +1893,27 @@ msgstr ""
 msgctxt "QObject|"
 msgid "Updating syntax definition for '%1' to version %2..."
 msgstr ""
+
+#, fuzzy
+#~| msgctxt "Language"
+#~| msgid "Apache Configuration"
+#~ msgctxt "Language|"
+#~ msgid "Varnish 4 Configuration Language"
+#~ msgstr "Apache-Configuratioun"
+
+#, fuzzy
+#~| msgctxt "Language"
+#~| msgid "Apache Configuration"
+#~ msgctxt "Language|"
+#~ msgid "Varnish 3 module spec file"
+#~ msgstr "Apache-Configuratioun"
+
+#, fuzzy
+#~| msgctxt "Language"
+#~| msgid "Apache Configuration"
+#~ msgctxt "Language|"
+#~ msgid "Varnish 4 Test Case language"
+#~ msgstr "Apache-Configuratioun"
 
 #, fuzzy
 #~| msgctxt "Language"
