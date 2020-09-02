@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-08-29 00:38+0000\n"
+"POT-Creation-Date: 2020-09-02 00:49+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -411,7 +411,7 @@ msgctxt "Name"
 msgid "Web Search Keywords"
 msgstr ""
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:28
+#: src/kcms/webshortcuts/webshortcuts.desktop:29
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure KDE Resources"
@@ -419,7 +419,7 @@ msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr "KDE-Ressourcen astellen"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:42
+#: src/kcms/webshortcuts/webshortcuts.desktop:44
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
@@ -684,7 +684,7 @@ msgctxt "Name"
 msgid "KDE Bugs"
 msgstr "KDE-Ressourcen"
 
-#: src/urifilters/ikws/searchproviders/bug.desktop:24
+#: src/urifilters/ikws/searchproviders/bug.desktop:25
 msgctxt "Query"
 msgid "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
 msgstr ""
@@ -806,7 +806,7 @@ msgctxt "Name"
 msgid "DeepL"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/deepl.desktop:22
+#: src/urifilters/ikws/searchproviders/deepl.desktop:23
 msgctxt "Query"
 msgid "https://www.deepl.com/translator#any/any/\\\\{@}"
 msgstr ""
