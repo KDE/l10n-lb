@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-09-07 02:09+0200\n"
+"POT-Creation-Date: 2020-09-10 02:13+0200\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2278,12 +2278,12 @@ msgctxt "translators: you can also translate 'Try Again' with 'Reload'"
 msgid "Try Again"
 msgstr ""
 
-#: document/katedocument.cpp:2256 document/katedocument.cpp:5911
+#: document/katedocument.cpp:2256 document/katedocument.cpp:5891
 #, kde-format
 msgid "&Close"
 msgstr ""
 
-#: document/katedocument.cpp:2257 document/katedocument.cpp:5912
+#: document/katedocument.cpp:2257 document/katedocument.cpp:5892
 #, kde-format
 msgid "Close message"
 msgstr ""
