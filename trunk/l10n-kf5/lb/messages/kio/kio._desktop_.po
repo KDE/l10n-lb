@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-09-13 00:42+0000\n"
+"POT-Creation-Date: 2020-09-19 00:42+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -411,7 +411,7 @@ msgctxt "Name"
 msgid "Web Search Keywords"
 msgstr ""
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:32
+#: src/kcms/webshortcuts/webshortcuts.desktop:33
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Configure KDE Resources"
@@ -419,7 +419,7 @@ msgctxt "Comment"
 msgid "Configure web search keywords"
 msgstr "KDE-Ressourcen astellen"
 
-#: src/kcms/webshortcuts/webshortcuts.desktop:50
+#: src/kcms/webshortcuts/webshortcuts.desktop:52
 msgctxt "X-KDE-Keywords"
 msgid ""
 "Web Search Keywords,Web Search,Search,Keyword,Web Shortcuts,Browsing,WWW,"
