@@ -2298,21 +2298,21 @@ msgctxt "KFontChooserDialog|@title:window"
 msgid "Select Font"
 msgstr "Schrëft auswielen"
 
-#: kfontrequester.cpp:202
+#: kfontrequester.cpp:150
 #, fuzzy
 #| msgid "Choose..."
 msgctxt "KFontRequester|@info:tooltip"
 msgid "Choose font..."
 msgstr "Auswielen..."
 
-#: kfontrequester.cpp:208
+#: kfontrequester.cpp:156
 #, fuzzy
 #| msgid "Preview of the selected font"
 msgctxt "KFontRequester|@info:tooltip"
 msgid "Preview of the selected font"
 msgstr "Virschau vun der gewielter Schrëft"
 
-#: kfontrequester.cpp:209
+#: kfontrequester.cpp:157
 #, fuzzy
 #| msgid ""
 #| "This is a preview of the selected font. You can change it by clicking the "
@@ -2325,14 +2325,14 @@ msgstr ""
 "Dësst ass eng Virschau vun der gewielter Schrëft. Mat engem Klick op "
 "\"Auswielen...\" kënnt dir Ännerunge virhuelen."
 
-#: kfontrequester.cpp:212
+#: kfontrequester.cpp:160
 #, fuzzy, qt-format
 #| msgid "Preview of the \"%1\" font"
 msgctxt "KFontRequester|@info:tooltip"
 msgid "Preview of the \"%1\" font"
 msgstr "Virschau vun der Schrëft \"%1\""
 
-#: kfontrequester.cpp:213
+#: kfontrequester.cpp:161
 #, fuzzy, qt-format
 #| msgid ""
 #| "This is a preview of the \"%1\" font. You can change it by clicking the "
