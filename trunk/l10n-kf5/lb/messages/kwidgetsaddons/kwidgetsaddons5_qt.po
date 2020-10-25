@@ -2585,13 +2585,18 @@ msgctxt "KNewPasswordWidget|@label"
 msgid "Password strength &meter:"
 msgstr "Passwuert-Sëcherheetsmeter:"
 
-#: kpassworddialog.cpp:50
+#: kpassworddialog.cpp:51
 #, fuzzy
 msgctxt "KPasswordDialog|@title:window"
 msgid "Password"
 msgstr "Passwuert:"
 
-#: kpassworddialog.cpp:90
+#: kpassworddialog.cpp:82
+msgctxt "KPasswordDialog|"
+msgid "Show Contextual Help"
+msgstr ""
+
+#: kpassworddialog.cpp:103
 msgctxt "KPasswordDialog|"
 msgid "Supply a password below."
 msgstr ""
@@ -2619,21 +2624,21 @@ msgctxt "KPasswordDialog|@label:textbox"
 msgid "Username:"
 msgstr "Benotzer:"
 
-#: kpassworddialog.ui:116
+#: kpassworddialog.ui:127
 #, fuzzy
 #| msgid "Chain:"
 msgctxt "KPasswordDialog|@label:textbox"
 msgid "Domain:"
 msgstr "Ketten:"
 
-#: kpassworddialog.ui:130
+#: kpassworddialog.ui:141
 #, fuzzy
 #| msgid "Password:"
 msgctxt "KPasswordDialog|@label:textbox"
 msgid "Password:"
 msgstr "Passwuert:"
 
-#: kpassworddialog.ui:144
+#: kpassworddialog.ui:155
 #, fuzzy
 #| msgid "&Keep password"
 msgctxt "KPasswordDialog|@option:check"
