@@ -1447,6 +1447,10 @@ msgctxt "Language|"
 msgid "SystemC"
 msgstr "Verilog"
 
+msgctxt "Language|"
+msgid "systemd unit"
+msgstr ""
+
 #, fuzzy
 #| msgctxt "Language"
 #| msgid "Verilog"
