@@ -64,27 +64,27 @@ msgctxt "KActionSelector|@label:listbox"
 msgid "&Selected:"
 msgstr "&Ausgewielt:"
 
-#: kassistantdialog.cpp:94
+#: kassistantdialog.cpp:91
 #, fuzzy
 #| msgid "&Back"
 msgctxt "KAssistantDialog|@action:button go back"
 msgid "&Back"
 msgstr "&Zeréck"
 
-#: kassistantdialog.cpp:96
+#: kassistantdialog.cpp:93
 #, fuzzy
 #| msgid "Go back one step"
 msgctxt "KAssistantDialog|@info:tooltip"
 msgid "Go back one step"
 msgstr "Ee Schrack zeréckgoen"
 
-#: kassistantdialog.cpp:101
+#: kassistantdialog.cpp:98
 #, fuzzy
 msgctxt "KAssistantDialog|@action:button Opposite to Back"
 msgid "Next"
 msgstr "Nächsten"
 
-#: kassistantdialog.cpp:108
+#: kassistantdialog.cpp:105
 #, fuzzy
 msgctxt "KAssistantDialog|@action:button"
 msgid "Finish"
@@ -1445,60 +1445,60 @@ msgctxt "KCharSelectData|KCharselect unicode block name"
 msgid "Symbols for Legacy Computing"
 msgstr ""
 
-#: kcharselect.cpp:387
+#: kcharselect.cpp:384
 #, fuzzy
 msgctxt "KCharSelect|@info:placeholder"
 msgid "Enter a search term or character..."
 msgstr "Sicht am Internet"
 
-#: kcharselect.cpp:389
+#: kcharselect.cpp:386
 msgctxt "KCharSelect|@info:tooltip"
 msgid "Enter a search term or character here"
 msgstr ""
 
-#: kcharselect.cpp:394
+#: kcharselect.cpp:391
 #, fuzzy
 #| msgid "&Find..."
 msgctxt "KCharSelect|@action"
 msgid "&Find..."
 msgstr "&Sichen..."
 
-#: kcharselect.cpp:414
+#: kcharselect.cpp:411
 #, fuzzy
 #| msgid "Previous Item in List"
 msgctxt "KCharSelect|@action:button Goes to previous character"
 msgid "Previous in History"
 msgstr "Element an der Lëscht virdrunn"
 
-#: kcharselect.cpp:416
+#: kcharselect.cpp:413
 #, fuzzy
 #| msgid "Previous year"
 msgctxt "KCharSelect|@info:tooltip"
 msgid "Go to previous character in history"
 msgstr "Joër virdrunn"
 
-#: kcharselect.cpp:421
+#: kcharselect.cpp:418
 #, fuzzy
 #| msgid "Next Item in List"
 msgctxt "KCharSelect|@action:button Goes to next character"
 msgid "Next in History"
 msgstr "Nächst Element an der Lëscht"
 
-#: kcharselect.cpp:423
+#: kcharselect.cpp:420
 #, fuzzy
 #| msgid "Set of Characters"
 msgctxt "KCharSelect|info:tooltip"
 msgid "Go to next character in history"
 msgstr "Zeechesaatz"
 
-#: kcharselect.cpp:428
+#: kcharselect.cpp:425
 #, fuzzy
 #| msgid "&Back"
 msgctxt "KCharSelect|@action go back"
 msgid "&Back"
 msgstr "&Zeréck"
 
-#: kcharselect.cpp:435
+#: kcharselect.cpp:432
 #, fuzzy
 #| msgctxt "go forward"
 #| msgid "&Forward"
@@ -1506,181 +1506,181 @@ msgctxt "KCharSelect|@action go forward"
 msgid "&Forward"
 msgstr "&No Vir"
 
-#: kcharselect.cpp:450
+#: kcharselect.cpp:447
 #, fuzzy
 #| msgid "Select a year"
 msgctxt "KCharSelect|@info:tooltip"
 msgid "Select a category"
 msgstr "Joër auswielen"
 
-#: kcharselect.cpp:454
+#: kcharselect.cpp:451
 #, fuzzy
 #| msgid "Message string to be displayed"
 msgctxt "KCharSelect|@info:tooltip"
 msgid "Select a block to be displayed"
 msgstr "Noricht, déi ugewise soll ginn"
 
-#: kcharselect.cpp:467
+#: kcharselect.cpp:464
 #, fuzzy
 #| msgid "Select Font"
 msgctxt "KCharSelect|@info:tooltip"
 msgid "Set font"
 msgstr "Schrëft auswielen"
 
-#: kcharselect.cpp:474
+#: kcharselect.cpp:471
 #, fuzzy
 #| msgid "Change font size?"
 msgctxt "KCharSelect|@info:tooltip"
 msgid "Set font size"
 msgstr "Schrëftgréisst änneren?"
 
-#: kcharselect.cpp:766
+#: kcharselect.cpp:760
 #, fuzzy
 #| msgid "Any Character"
 msgctxt "KCharSelect|"
 msgid "Character:"
 msgstr "Iergendeen Zeechen"
 
-#: kcharselect.cpp:772
+#: kcharselect.cpp:766
 #, fuzzy
 #| msgid "Name:"
 msgctxt "KCharSelect|"
 msgid "Name: "
 msgstr "Numm:"
 
-#: kcharselect.cpp:781
+#: kcharselect.cpp:775
 msgctxt "KCharSelect|"
 msgid "Annotations and Cross References"
 msgstr ""
 
-#: kcharselect.cpp:785
+#: kcharselect.cpp:779
 #, fuzzy
 #| msgid "Please enter name:"
 msgctxt "KCharSelect|"
 msgid "Alias names:"
 msgstr "Gitt w.e.g. den Numm an:"
 
-#: kcharselect.cpp:793
+#: kcharselect.cpp:787
 #, fuzzy
 #| msgid "Note"
 msgctxt "KCharSelect|"
 msgid "Notes:"
 msgstr "Notiz"
 
-#: kcharselect.cpp:801
+#: kcharselect.cpp:795
 msgctxt "KCharSelect|"
 msgid "See also:"
 msgstr ""
 
-#: kcharselect.cpp:816
+#: kcharselect.cpp:810
 msgctxt "KCharSelect|"
 msgid "Equivalents:"
 msgstr ""
 
-#: kcharselect.cpp:824
+#: kcharselect.cpp:818
 msgctxt "KCharSelect|"
 msgid "Approximate equivalents:"
 msgstr ""
 
-#: kcharselect.cpp:832
+#: kcharselect.cpp:826
 #, fuzzy
 #| msgid "Description:"
 msgctxt "KCharSelect|"
 msgid "Decomposition:"
 msgstr "Beschreiwung:"
 
-#: kcharselect.cpp:844
+#: kcharselect.cpp:838
 #, fuzzy
 #| msgid "Frame Information"
 msgctxt "KCharSelect|"
 msgid "CJK Ideograph Information"
 msgstr "Informatioun iwwert de Frame"
 
-#: kcharselect.cpp:847
+#: kcharselect.cpp:841
 msgctxt "KCharSelect|"
 msgid "Definition in English: "
 msgstr ""
 
-#: kcharselect.cpp:854
+#: kcharselect.cpp:848
 msgctxt "KCharSelect|"
 msgid "Mandarin Pronunciation: "
 msgstr ""
 
-#: kcharselect.cpp:861
+#: kcharselect.cpp:855
 msgctxt "KCharSelect|"
 msgid "Cantonese Pronunciation: "
 msgstr ""
 
-#: kcharselect.cpp:868
+#: kcharselect.cpp:862
 msgctxt "KCharSelect|"
 msgid "Japanese On Pronunciation: "
 msgstr ""
 
-#: kcharselect.cpp:875
+#: kcharselect.cpp:869
 msgctxt "KCharSelect|"
 msgid "Japanese Kun Pronunciation: "
 msgstr ""
 
-#: kcharselect.cpp:882
+#: kcharselect.cpp:876
 msgctxt "KCharSelect|"
 msgid "Tang Pronunciation: "
 msgstr ""
 
-#: kcharselect.cpp:889
+#: kcharselect.cpp:883
 msgctxt "KCharSelect|"
 msgid "Korean Pronunciation: "
 msgstr ""
 
-#: kcharselect.cpp:895
+#: kcharselect.cpp:889
 msgctxt "KCharSelect|"
 msgid "General Character Properties"
 msgstr ""
 
-#: kcharselect.cpp:896
+#: kcharselect.cpp:890
 msgctxt "KCharSelect|"
 msgid "Block: "
 msgstr ""
 
-#: kcharselect.cpp:897
+#: kcharselect.cpp:891
 #, fuzzy
 #| msgid "&Unicode code point:"
 msgctxt "KCharSelect|"
 msgid "Unicode category: "
 msgstr "&Unicode Codepunkt:"
 
-#: kcharselect.cpp:901
+#: kcharselect.cpp:895
 msgctxt "KCharSelect|"
 msgid "Various Useful Representations"
 msgstr ""
 
-#: kcharselect.cpp:902
+#: kcharselect.cpp:896
 msgctxt "KCharSelect|"
 msgid "UTF-8:"
 msgstr ""
 
-#: kcharselect.cpp:906
+#: kcharselect.cpp:900
 msgctxt "KCharSelect|"
 msgid "UTF-16: "
 msgstr ""
 
-#: kcharselect.cpp:913
+#: kcharselect.cpp:907
 msgctxt "KCharSelect|"
 msgid "C octal escaped UTF-8: "
 msgstr ""
 
-#: kcharselect.cpp:917
+#: kcharselect.cpp:911
 msgctxt "KCharSelect|"
 msgid "XML decimal entity:"
 msgstr ""
 
-#: kcharselect.cpp:1062
+#: kcharselect.cpp:1056
 #, fuzzy
 #| msgid "&Unicode code point:"
 msgctxt "KCharSelectItemModel|"
 msgid "Unicode code point:"
 msgstr "&Unicode Codepunkt:"
 
-#: kcharselect.cpp:1063
+#: kcharselect.cpp:1057
 msgctxt "KCharSelectItemModel|Character"
 msgid "In decimal"
 msgstr ""
@@ -1930,7 +1930,7 @@ msgctxt "KCharSelectData|"
 msgid "Unknown"
 msgstr "Onbekannt"
 
-#: kcolorcombo.cpp:329
+#: kcolorcombo.cpp:326
 #, fuzzy
 #| msgid "Custom..."
 msgctxt "KColorCombo|@item:inlistbox Custom color"
@@ -2085,7 +2085,7 @@ msgctxt "KDatePicker|@info:tooltip"
 msgid "Select the current day"
 msgstr "Heitegen Dag auswielen"
 
-#: kdatepicker.cpp:632
+#: kdatepicker.cpp:629
 #, fuzzy
 #| msgid "Close"
 msgctxt "KDatePicker|@action:button"
@@ -2114,70 +2114,70 @@ msgctxt "KDateTimeEdit|@info"
 msgid "The entered date and time is after the maximum allowed date and time."
 msgstr ""
 
-#: keditlistwidget.cpp:292
+#: keditlistwidget.cpp:286
 #, fuzzy
 #| msgid "&Add"
 msgctxt "KEditListWidget|@action:button"
 msgid "&Add"
 msgstr "&Dobäimaachen"
 
-#: keditlistwidget.cpp:304
+#: keditlistwidget.cpp:298
 #, fuzzy
 #| msgid "&Remove"
 msgctxt "KEditListWidget|@action:button"
 msgid "&Remove"
 msgstr "&Ewechmaachen"
 
-#: keditlistwidget.cpp:316
+#: keditlistwidget.cpp:310
 #, fuzzy
 #| msgid "Move &Up"
 msgctxt "KEditListWidget|@action:button"
 msgid "Move &Up"
 msgstr "Er&opréckelen"
 
-#: keditlistwidget.cpp:321
+#: keditlistwidget.cpp:315
 #, fuzzy
 #| msgid "Move &Down"
 msgctxt "KEditListWidget|@action:button"
 msgid "Move &Down"
 msgstr "&Erofréckelen"
 
-#: kfontchooser.cpp:177
+#: kfontchooser.cpp:174
 #, fuzzy
 #| msgid "Requested Font"
 msgctxt "KFontChooser|@title:group"
 msgid "Requested Font"
 msgstr "Gewënscht Schrëft"
 
-#: kfontchooser.cpp:191
+#: kfontchooser.cpp:188
 #, fuzzy
 #| msgid "Font"
 msgctxt "KFontChooser|@option:check"
 msgid "Font"
 msgstr "Schrëft"
 
-#: kfontchooser.cpp:196
+#: kfontchooser.cpp:193
 #, fuzzy
 #| msgid "Font:"
 msgctxt "KFontChooser|@label"
 msgid "Font:"
 msgstr "Schrëft:"
 
-#: kfontchooser.cpp:229
+#: kfontchooser.cpp:226
 #, fuzzy
 #| msgid "Font style"
 msgctxt "KFontChooser|@option:check"
 msgid "Font style"
 msgstr "Schrëftstil"
 
-#: kfontchooser.cpp:234
+#: kfontchooser.cpp:231
 #, fuzzy
 #| msgid "Font style:"
 msgctxt "KFontChooser|@label"
 msgid "Font style:"
 msgstr "Schrëftstil:"
 
-#: kfontchooser.cpp:247
+#: kfontchooser.cpp:244
 #, fuzzy
 #| msgctxt "normal severity"
 #| msgid "Normal"
@@ -2185,14 +2185,14 @@ msgctxt "KFontChooser|@item font"
 msgid "Normal"
 msgstr "Normal"
 
-#: kfontchooser.cpp:248 kfontchooser.cpp:576
+#: kfontchooser.cpp:245 kfontchooser.cpp:573
 #, fuzzy
 #| msgid "Italic"
 msgctxt "KFontChooser|@item font"
 msgid "Italic"
 msgstr "Kursiv"
 
-#: kfontchooser.cpp:249 kfontchooser.cpp:577
+#: kfontchooser.cpp:246 kfontchooser.cpp:574
 #, fuzzy
 #| msgctxt "font style"
 #| msgid "Oblique"
@@ -2200,49 +2200,49 @@ msgctxt "KFontChooser|@item font"
 msgid "Oblique"
 msgstr "Schif"
 
-#: kfontchooser.cpp:250
+#: kfontchooser.cpp:247
 #, fuzzy
 #| msgid "Bold"
 msgctxt "KFontChooser|@item font"
 msgid "Bold"
 msgstr "Fett"
 
-#: kfontchooser.cpp:251
+#: kfontchooser.cpp:248
 #, fuzzy
 #| msgid "Bold Italic"
 msgctxt "KFontChooser|@item font"
 msgid "Bold Italic"
 msgstr "Fett kursiv"
 
-#: kfontchooser.cpp:268
+#: kfontchooser.cpp:265
 #, fuzzy
 #| msgid "Size"
 msgctxt "KFontChooser|@option:check"
 msgid "Size"
 msgstr "Gréisst"
 
-#: kfontchooser.cpp:273
+#: kfontchooser.cpp:270
 #, fuzzy
 #| msgid "Size:"
 msgctxt "KFontChooser|@label:listbox Font size"
 msgid "Size:"
 msgstr "Gréisst:"
 
-#: kfontchooser.cpp:291
+#: kfontchooser.cpp:288
 #, fuzzy
 #| msgid "Relative"
 msgctxt "KFontChooser|@item font size"
 msgid "Relative"
 msgstr "Relativ"
 
-#: kfontchooser.cpp:293
+#: kfontchooser.cpp:290
 #, fuzzy
 #| msgid "Font size<br><i>fixed</i> or <i>relative</i><br>to environment"
 msgctxt "KFontChooser|@info:tooltip"
 msgid "Font size<br /><i>fixed</i> or <i>relative</i><br />to environment"
 msgstr "Schrëftgréisst <br><i>fest</i> oder <i>relativ</i><br>zum Rescht"
 
-#: kfontchooser.cpp:295
+#: kfontchooser.cpp:292
 #, fuzzy
 #| msgid ""
 #| "Here you can switch between fixed font size and font size to be "
@@ -2258,7 +2258,7 @@ msgstr ""
 "Schrëftgréisst, déi dynamësch berechent gëtt, an déi sëch dem Rescht (z.B. "
 "der Gréisst vun de Schalteren oder der Gréisst vum Pabeier) upasst. "
 
-#: kfontchooser.cpp:349
+#: kfontchooser.cpp:346
 #, fuzzy
 #| msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
 msgctxt "KFontChooser|"
@@ -2266,7 +2266,7 @@ msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
 msgstr ""
 "Ëch hätt gär dräi Wirschtercher mat Fritten a Ketchup, ouni Zalot a Geméis"
 
-#: kfontchooser.cpp:352
+#: kfontchooser.cpp:349
 #, fuzzy
 #| msgid ""
 #| "This sample text illustrates the current settings. You may edit it to "
@@ -2279,12 +2279,12 @@ msgstr ""
 "Dëse Beispilltext illustréiert déi momentan Astellungen. Dir kënnt e "
 "veränneren fir d'Duerstellung vu speziellen Zeechen ze kucken."
 
-#: kfontchooser.cpp:365
+#: kfontchooser.cpp:362
 msgctxt "KFontChooser|@option:check"
 msgid "Show only monospaced fonts"
 msgstr ""
 
-#: kfontchooser.cpp:561
+#: kfontchooser.cpp:558
 #, fuzzy, qt-format
 #| msgid "%1%"
 msgctxt "KFontChooser|@item Font style"
@@ -2298,21 +2298,21 @@ msgctxt "KFontChooserDialog|@title:window"
 msgid "Select Font"
 msgstr "Schrëft auswielen"
 
-#: kfontrequester.cpp:150
+#: kfontrequester.cpp:147
 #, fuzzy
 #| msgid "Choose..."
 msgctxt "KFontRequester|@info:tooltip"
 msgid "Choose font..."
 msgstr "Auswielen..."
 
-#: kfontrequester.cpp:156
+#: kfontrequester.cpp:153
 #, fuzzy
 #| msgid "Preview of the selected font"
 msgctxt "KFontRequester|@info:tooltip"
 msgid "Preview of the selected font"
 msgstr "Virschau vun der gewielter Schrëft"
 
-#: kfontrequester.cpp:157
+#: kfontrequester.cpp:154
 #, fuzzy
 #| msgid ""
 #| "This is a preview of the selected font. You can change it by clicking the "
@@ -2325,14 +2325,14 @@ msgstr ""
 "Dësst ass eng Virschau vun der gewielter Schrëft. Mat engem Klick op "
 "\"Auswielen...\" kënnt dir Ännerunge virhuelen."
 
-#: kfontrequester.cpp:160
+#: kfontrequester.cpp:157
 #, fuzzy, qt-format
 #| msgid "Preview of the \"%1\" font"
 msgctxt "KFontRequester|@info:tooltip"
 msgid "Preview of the \"%1\" font"
 msgstr "Virschau vun der Schrëft \"%1\""
 
-#: kfontrequester.cpp:161
+#: kfontrequester.cpp:158
 #, fuzzy, qt-format
 #| msgid ""
 #| "This is a preview of the \"%1\" font. You can change it by clicking the "
@@ -2345,12 +2345,12 @@ msgstr ""
 "Dësst ass eng Virschau vun der Schrëft \"%1\". Mat engem Klick op "
 "\"Auswielen...\" kënnt dir Ännerunge virhuelen."
 
-#: kled.cpp:176
+#: kled.cpp:173
 msgctxt "KLed|Accessible name of a Led whose state is on"
 msgid "LED on"
 msgstr ""
 
-#: kled.cpp:177
+#: kled.cpp:174
 msgctxt "KLed|Accessible name of a Led whose state is off"
 msgid "LED off"
 msgstr ""
@@ -2547,14 +2547,14 @@ msgctxt "KNewPasswordDialog|@info"
 msgid "Passwords match."
 msgstr "Selwëcht Passwierder"
 
-#: knewpassworddialog.cpp:147
+#: knewpassworddialog.cpp:144
 #, fuzzy
 #| msgid "Low Password Strength"
 msgctxt "KNewPasswordDialog|@title:window"
 msgid "Low Password Strength"
 msgstr "Niddereg Passwuert-Sëcherheet"
 
-#: knewpassworddialog.cpp:148
+#: knewpassworddialog.cpp:145
 #, fuzzy
 #| msgid ""
 #| "The password you have entered has a low strength. To improve the strength "
@@ -2633,12 +2633,12 @@ msgctxt "KPasswordDialog|@title:window"
 msgid "Password"
 msgstr "Passwuert:"
 
-#: kpassworddialog.cpp:82
+#: kpassworddialog.cpp:79
 msgctxt "KPasswordDialog|"
 msgid "Show Contextual Help"
 msgstr ""
 
-#: kpassworddialog.cpp:103
+#: kpassworddialog.cpp:100
 msgctxt "KPasswordDialog|"
 msgid "Supply a password below."
 msgstr ""
@@ -2707,21 +2707,21 @@ msgid "Please click and drag on the image to select the region of interest:"
 msgstr ""
 "Klickt an zitt w.e.g. iwwert d'Bild fir de gewënschte Beräich ze wielen:"
 
-#: kpixmapregionselectorwidget.cpp:174
+#: kpixmapregionselectorwidget.cpp:171
 #, fuzzy
 #| msgid "Image Operations"
 msgctxt "KPixmapRegionSelectorWidget|@title:menu"
 msgid "Image Operations"
 msgstr "Bildmodifikatioun"
 
-#: kpixmapregionselectorwidget.cpp:176
+#: kpixmapregionselectorwidget.cpp:173
 #, fuzzy
 #| msgid "&Rotate Clockwise"
 msgctxt "KPixmapRegionSelectorWidget|@action:inmenu"
 msgid "&Rotate Clockwise"
 msgstr "Der &Auer no dréien"
 
-#: kpixmapregionselectorwidget.cpp:178
+#: kpixmapregionselectorwidget.cpp:175
 #, fuzzy
 #| msgid "Rotate &Counterclockwise"
 msgctxt "KPixmapRegionSelectorWidget|@action:inmenu"
@@ -2746,7 +2746,7 @@ msgctxt "KRecentFilesMenu|"
 msgid "Recent Files"
 msgstr "Element(er) läschen"
 
-#: ksqueezedtextlabel.cpp:206
+#: ksqueezedtextlabel.cpp:203
 #, fuzzy
 #| msgid "&Copy Text"
 msgctxt "KSqueezedTextLabel|@action:inmenu"
