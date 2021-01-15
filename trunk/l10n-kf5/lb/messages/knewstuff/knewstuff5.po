@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-13 02:55+0100\n"
+"POT-Creation-Date: 2021-01-15 02:32+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -420,7 +420,7 @@ msgstr ""
 "Kuckt w.e.g. no, ob den <i>gpg</i> installéiert ass, well soss kënnen déi "
 "erofgeluede Ressourcen net verifizéiert ginn.</qt>"
 
-#: core/security.cpp:203
+#: core/security.cpp:199
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt>Enter passphrase for key <b>0x%1</b>, belonging to<br><i>%2&lt;%3&gt;"
@@ -432,7 +432,7 @@ msgstr ""
 "<qt>Gitt w.e.g. d'Passwuert fir de Schlëssel <b>0x%1</b> an, deen zu <br><i>"
 "%2&lt;%3&gt;</i>gehéiert:</qt>"
 
-#: core/security.cpp:281
+#: core/security.cpp:277
 #, kde-format
 msgid ""
 "<qt>Cannot start <i>gpg</i> and check the validity of the file. Make sure "
@@ -443,17 +443,17 @@ msgstr ""
 "Kuckt w.e.g. no, ob den <i>gpg</i> installéiert ass, well soss kënnen déi "
 "erofgeluede Ressourcen net verifizéiert ginn.</qt>"
 
-#: core/security.cpp:336
+#: core/security.cpp:332
 #, kde-format
 msgid "Key used for signing:"
 msgstr "Schlëssel fir z'ënnerschreiwen:"
 
-#: core/security.cpp:337
+#: core/security.cpp:333
 #, kde-format
 msgid "Select Signing Key"
 msgstr "Schlëssel fir d'Ënnerschrëft wielen"
 
-#: core/security.cpp:372
+#: core/security.cpp:368
 #, kde-format
 msgid ""
 "<qt>Cannot start <i>gpg</i> and sign the file. Make sure that <i>gpg</i> is "
