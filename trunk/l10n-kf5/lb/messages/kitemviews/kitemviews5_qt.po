@@ -25,7 +25,7 @@ msgctxt "KFilterProxySearchLine|@info:placeholder"
 msgid "Search..."
 msgstr "Sichen"
 
-#: ktreewidgetsearchline.cpp:210
+#: ktreewidgetsearchline.cpp:211
 #, fuzzy
 #| msgctxt "QAccel"
 #| msgid "Search"
@@ -33,14 +33,14 @@ msgctxt "KTreeWidgetSearchLine|@info:placeholder"
 msgid "Search..."
 msgstr "Sichen"
 
-#: ktreewidgetsearchline.cpp:419
+#: ktreewidgetsearchline.cpp:418
 #, fuzzy
 #| msgid "Search Columns"
 msgctxt "KTreeWidgetSearchLine|@title:menu"
 msgid "Search Columns"
 msgstr "Kolonnen duerchsichen"
 
-#: ktreewidgetsearchline.cpp:421
+#: ktreewidgetsearchline.cpp:420
 #, fuzzy
 #| msgid "All Visible Columns"
 msgctxt "KTreeWidgetSearchLine|@optipn:check"
