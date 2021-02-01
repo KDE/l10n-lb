@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-11 02:30+0100\n"
+"POT-Creation-Date: 2021-02-01 02:22+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1550,13 +1550,13 @@ msgstr "Toolbaren"
 msgid "Toolbars Shown"
 msgstr "Toolbaren"
 
-#: kundoactions.cpp:29
+#: kundoactions.cpp:30
 #, fuzzy, kde-format
 #| msgid "Redo"
 msgid "Redo"
 msgstr "Nees zeréck"
 
-#: kundoactions.cpp:48
+#: kundoactions.cpp:49
 #, kde-format
 msgid "Undo"
 msgstr "Réckgängeg"
