@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-01 02:22+0100\n"
+"POT-Creation-Date: 2021-02-02 02:29+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -350,19 +350,19 @@ msgctxt "@title:window"
 msgid "Ambiguous shortcut detected"
 msgstr "Méideideg \"%1\" net verschafft"
 
-#: kbugreport.cpp:91
+#: kbugreport.cpp:92
 #, fuzzy, kde-format
 #| msgid "Submit Bug Report"
 msgctxt "@title:window"
 msgid "Submit Bug Report"
 msgstr "E Käfer mellen"
 
-#: kbugreport.cpp:119
+#: kbugreport.cpp:120
 #, kde-format
 msgid "Submit Bug Report"
 msgstr "E Käfer mellen"
 
-#: kbugreport.cpp:131
+#: kbugreport.cpp:132
 #, kde-format
 msgid ""
 "Your email address. If incorrect, use the Configure Email button to change it"
@@ -370,54 +370,54 @@ msgstr ""
 "Är E-Mail-Adress. Wa se falsch ass, dréckt op den \"E-Mail configuréieren\"-"
 "Knäppche fir se z'änneren"
 
-#: kbugreport.cpp:132
+#: kbugreport.cpp:133
 #, fuzzy, kde-format
 #| msgid "From:"
 msgctxt "Email sender address"
 msgid "From:"
 msgstr "Vun:"
 
-#: kbugreport.cpp:140
+#: kbugreport.cpp:141
 #, fuzzy, kde-format
 #| msgid "Configure Email..."
 msgctxt "@action:button"
 msgid "Configure Email..."
 msgstr "E-Mail configuréiren..."
 
-#: kbugreport.cpp:146
+#: kbugreport.cpp:147
 #, kde-format
 msgid "The email address this bug report is sent to."
 msgstr "D'E-Mail-Adress, wou de Käfer gemellt gëtt."
 
-#: kbugreport.cpp:147
+#: kbugreport.cpp:148
 #, fuzzy, kde-format
 #| msgid "To:"
 msgctxt "Email receiver address"
 msgid "To:"
 msgstr "Un:"
 
-#: kbugreport.cpp:156
+#: kbugreport.cpp:157
 #, fuzzy, kde-format
 #| msgid "&Send"
 msgctxt "@action:button"
 msgid "&Send"
 msgstr "&Fortschécken"
 
-#: kbugreport.cpp:157
+#: kbugreport.cpp:158
 #, fuzzy, kde-format
 #| msgid "Send bug report."
 msgctxt "@info:tooltip"
 msgid "Send bug report."
 msgstr "De Bericht fortschécken."
 
-#: kbugreport.cpp:158
+#: kbugreport.cpp:159
 #, fuzzy, kde-format
 #| msgid "Send this bug report to %1."
 msgctxt "@info:whatsthis"
 msgid "Send this bug report to %1."
 msgstr "Dëse Käfer bei %1 mellen."
 
-#: kbugreport.cpp:166
+#: kbugreport.cpp:167
 #, kde-format
 msgid ""
 "The application for which you wish to submit a bug report - if incorrect, "
@@ -426,12 +426,12 @@ msgstr ""
 "De Programm an deem dir de Käfer fonnt hutt - Falls hei dee falsche Programm "
 "steet, bënotzt w.e.g. de \"Käfer Mellen\"-Menü vun deem richtege Programm"
 
-#: kbugreport.cpp:167
+#: kbugreport.cpp:168
 #, kde-format
 msgid "Application: "
 msgstr "Programm: "
 
-#: kbugreport.cpp:177
+#: kbugreport.cpp:178
 #, kde-format
 msgid ""
 "The version of this application - please make sure that no newer version is "
@@ -440,44 +440,44 @@ msgstr ""
 "D'Versioun vum Programm - Kuckt w.e.g. no, ob keng méi nei Versioun eraus "
 "ass, éier dir de Bericht verschéckt"
 
-#: kbugreport.cpp:178
+#: kbugreport.cpp:179
 #, kde-format
 msgid "Version:"
 msgstr "Versioun:"
 
-#: kbugreport.cpp:183
+#: kbugreport.cpp:184
 #, fuzzy, kde-format
 #| msgid "no version set (programmer error!)"
 msgid "no version set (programmer error)"
 msgstr "keng Versioun (Feeler vum Programméierer!)"
 
-#: kbugreport.cpp:195
+#: kbugreport.cpp:196
 #, kde-format
 msgid "OS:"
 msgstr "OS:"
 
-#: kbugreport.cpp:205
+#: kbugreport.cpp:206
 #, fuzzy, kde-format
 #| msgid "Se&verity"
 msgctxt "@title:group"
 msgid "Se&verity"
 msgstr "Gra&vitéit"
 
-#: kbugreport.cpp:209
+#: kbugreport.cpp:210
 #, fuzzy, kde-format
 #| msgid "Critical"
 msgctxt "bug severity"
 msgid "Critical"
 msgstr "Kritësch"
 
-#: kbugreport.cpp:210
+#: kbugreport.cpp:211
 #, fuzzy, kde-format
 #| msgid "Grave"
 msgctxt "bug severity"
 msgid "Grave"
 msgstr "Schlëmm"
 
-#: kbugreport.cpp:211
+#: kbugreport.cpp:212
 #, fuzzy, kde-format
 #| msgctxt "normal severity"
 #| msgid "Normal"
@@ -485,26 +485,26 @@ msgctxt "bug severity"
 msgid "Normal"
 msgstr "Normal"
 
-#: kbugreport.cpp:212
+#: kbugreport.cpp:213
 #, fuzzy, kde-format
 #| msgid "Wishlist"
 msgctxt "bug severity"
 msgid "Wishlist"
 msgstr "Wonsch"
 
-#: kbugreport.cpp:213
+#: kbugreport.cpp:214
 #, fuzzy, kde-format
 #| msgid "Translation"
 msgctxt "bug severity"
 msgid "Translation"
 msgstr "Iwwersetzung"
 
-#: kbugreport.cpp:231
+#: kbugreport.cpp:232
 #, kde-format
 msgid "S&ubject: "
 msgstr "Be&treff: "
 
-#: kbugreport.cpp:239
+#: kbugreport.cpp:240
 #, kde-format
 msgid ""
 "Enter the text (in English if possible) that you wish to submit for the bug "
@@ -517,7 +517,7 @@ msgstr ""
 "Wann dir op \"Fortschécken\" klickt, gëtt eng E-Mail un de Verwalter vun "
 "dësem Programm geschéckt.\n"
 
-#: kbugreport.cpp:261
+#: kbugreport.cpp:262
 #, fuzzy, kde-format
 msgid ""
 "<qt>To submit a bug report, click on the button below. This will open a web "
@@ -531,7 +531,7 @@ msgstr ""
 "wou dir e Formular ausfëlle kënnt.\n"
 "D'Informatioun hei driwwer gëtt op de Server geschéckt."
 
-#: kbugreport.cpp:266
+#: kbugreport.cpp:267
 #, fuzzy, kde-format
 msgid ""
 "<qt>To submit a bug report, click on the button below. This will open a web "
@@ -543,21 +543,21 @@ msgstr ""
 "wou dir e Formular ausfëlle kënnt.\n"
 "D'Informatioun hei driwwer gëtt op de Server geschéckt."
 
-#: kbugreport.cpp:282
+#: kbugreport.cpp:283
 #, fuzzy, kde-format
 #| msgid "&Launch Bug Report Wizard"
 msgctxt "@action:button"
 msgid "&Launch Bug Report Wizard"
 msgstr "Käfer-Mellen-Assistent &starten"
 
-#: kbugreport.cpp:284
+#: kbugreport.cpp:285
 #, fuzzy, kde-format
 #| msgid "Submit Bug Report"
 msgctxt "@action:button"
 msgid "&Submit Bug Report"
 msgstr "E Käfer mellen"
 
-#: kbugreport.cpp:375
+#: kbugreport.cpp:376
 #, kde-format
 msgid ""
 "You must specify both a subject and a description before the report can be "
@@ -566,7 +566,7 @@ msgstr ""
 "Dir musst e Betreff an eng Beschreiwung ugin, éier dir de Bericht verschécke "
 "kënnt."
 
-#: kbugreport.cpp:384
+#: kbugreport.cpp:385
 #, fuzzy, kde-format
 #| msgid ""
 #| "<p>You chose the severity <b>Critical</b>. Please note that this severity "
@@ -593,7 +593,7 @@ msgstr ""
 "<p>Erfëllt äre Käfer ee vun deene Critèren? Falls net, wielt w.e.g. méi eng "
 "schwaach Gravitéit aus. Merci.</p>"
 
-#: kbugreport.cpp:396
+#: kbugreport.cpp:397
 #, fuzzy, kde-format
 #| msgid ""
 #| "<p>You chose the severity <b>Grave</b>. Please note that this severity is "
@@ -620,7 +620,7 @@ msgstr ""
 "<p>Erfëllt äre Käfer ee vun deene Critèren? Falls net, wielt w.e.g. méi eng "
 "schwaach Gravitéit aus. Merci.</p>"
 
-#: kbugreport.cpp:410
+#: kbugreport.cpp:411
 #, fuzzy, kde-format
 #| msgid ""
 #| "Unable to send the bug report.\n"
@@ -635,12 +635,12 @@ msgstr ""
 "Mellt äre Käfer w.e.g. manuell...\n"
 "Gitt op http://bugs.kde.org/ fir Uweisungen."
 
-#: kbugreport.cpp:418
+#: kbugreport.cpp:419
 #, kde-format
 msgid "Bug report sent, thank you for your input."
 msgstr "Käfer gemellt. Merci fir är Hëllef."
 
-#: kbugreport.cpp:427
+#: kbugreport.cpp:428
 #, kde-format
 msgid ""
 "Close and discard\n"
@@ -650,50 +650,50 @@ msgstr ""
 "verännert Noricht\n"
 "si loossen?"
 
-#: kbugreport.cpp:428
+#: kbugreport.cpp:429
 #, fuzzy, kde-format
 #| msgid "Close Message"
 msgctxt "@title:window"
 msgid "Close Message"
 msgstr "Noricht zoumaachen"
 
-#: kcheckaccelerators.cpp:255
+#: kcheckaccelerators.cpp:256
 #, fuzzy, kde-format
 #| msgid "Dr. Klash' Accelerator Diagnosis"
 msgctxt "@title:window"
 msgid "Dr. Klash' Accelerator Diagnosis"
 msgstr "Dem Dr. Klash seng Diagnos iwwer Kierzelen"
 
-#: kcheckaccelerators.cpp:262
+#: kcheckaccelerators.cpp:263
 #, fuzzy, kde-format
 #| msgid "&Disable automatic checking"
 msgctxt "@option:check"
 msgid "Disable automatic checking"
 msgstr "Automatësch Kontroll &ofschalten"
 
-#: kcheckaccelerators.cpp:306
+#: kcheckaccelerators.cpp:307
 #, kde-format
 msgid "<h2>Accelerators changed</h2>"
 msgstr "<h2>Kuerzbefehler geännert</h2>"
 
-#: kcheckaccelerators.cpp:308 kcheckaccelerators.cpp:319
+#: kcheckaccelerators.cpp:309 kcheckaccelerators.cpp:320
 #, fuzzy, kde-format
 #| msgid "Find Text"
 msgid "Old Text"
 msgstr "Text sichen"
 
-#: kcheckaccelerators.cpp:310 kcheckaccelerators.cpp:328
+#: kcheckaccelerators.cpp:311 kcheckaccelerators.cpp:329
 #, fuzzy, kde-format
 #| msgid "Show help"
 msgid "New Text"
 msgstr "Hëllef weisen"
 
-#: kcheckaccelerators.cpp:317
+#: kcheckaccelerators.cpp:318
 #, kde-format
 msgid "<h2>Accelerators removed</h2>"
 msgstr "<h2>Kuerzbefehler ewechgeholl</h2>"
 
-#: kcheckaccelerators.cpp:326
+#: kcheckaccelerators.cpp:327
 #, kde-format
 msgid "<h2>Accelerators added (just for your info)</h2>"
 msgstr "<h2>Kuerzbefehler dobäigemaach (nëmme fir bescheed ze soen)</h2>"
@@ -1003,13 +1003,13 @@ msgctxt "@title:window"
 msgid "License Agreement"
 msgstr "&Lizenz"
 
-#: kmainwindow.cpp:256
+#: kmainwindow.cpp:257
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
 msgstr "Kevin Claude Everard,Michel Ludwig"
 
-#: kmainwindow.cpp:257
+#: kmainwindow.cpp:258
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
@@ -1544,7 +1544,7 @@ msgstr "Risëg (%1x%2)"
 msgid "Lock Toolbar Positions"
 msgstr "Toolbaren"
 
-#: ktoolbarhandler.cpp:92
+#: ktoolbarhandler.cpp:91
 #, fuzzy, kde-format
 #| msgid "Toolbars"
 msgid "Toolbars Shown"
@@ -1561,7 +1561,7 @@ msgstr "Nees zeréck"
 msgid "Undo"
 msgstr "Réckgängeg"
 
-#: kxmlguibuilder.cpp:179 kxmlguibuilder.cpp:350
+#: kxmlguibuilder.cpp:178 kxmlguibuilder.cpp:349
 #, fuzzy, kde-format
 msgid "No text"
 msgstr "Keen Text!"

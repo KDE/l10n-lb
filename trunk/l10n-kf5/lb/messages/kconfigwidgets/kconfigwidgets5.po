@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-01-26 02:27+0100\n"
+"POT-Creation-Date: 2021-02-02 02:27+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -51,13 +51,13 @@ msgctxt "Encodings menu"
 msgid "Autodetect"
 msgstr "Automatësch Verbesserung"
 
-#: kcolorschememanager.cpp:147
+#: kcolorschememanager.cpp:148
 #, fuzzy, kde-format
 #| msgid "Default"
 msgid "Default"
 msgstr "Standard"
 
-#: kcolorschememanager.cpp:224 kcolorschememanager.cpp:229
+#: kcolorschememanager.cpp:225 kcolorschememanager.cpp:230
 #, fuzzy, kde-format
 #| msgid "Shortcuts"
 msgid "Color Scheme"
@@ -70,12 +70,12 @@ msgctxt "@title:window"
 msgid "Configure"
 msgstr "Configuréieren"
 
-#: krecentfilesaction.cpp:67
+#: krecentfilesaction.cpp:68
 #, fuzzy, kde-format
 msgid "No Entries"
 msgstr "Eegeschaften"
 
-#: krecentfilesaction.cpp:73
+#: krecentfilesaction.cpp:74
 #, fuzzy, kde-format
 #| msgid "Clear input"
 msgid "Clear List"
@@ -643,35 +643,35 @@ msgstr ""
 msgid "&Donate"
 msgstr "&Fäerdeg"
 
-#: ktipdialog.cpp:222
+#: ktipdialog.cpp:221
 #, fuzzy, kde-format
 #| msgid "Tip of the Day"
 msgctxt "@title:window"
 msgid "Tip of the Day"
 msgstr "Rotschlag vum Dag"
 
-#: ktipdialog.cpp:238
+#: ktipdialog.cpp:237
 #, fuzzy, kde-format
 #| msgid "Did you know...?\n"
 msgctxt "@title"
 msgid "Did you know...?\n"
 msgstr "Wousst dir schonn...?\n"
 
-#: ktipdialog.cpp:292
+#: ktipdialog.cpp:291
 #, fuzzy, kde-format
 #| msgid "&Show tips on startup"
 msgctxt "@option:check"
 msgid "&Show tips on startup"
 msgstr "Rotschléi beim Start &weisen"
 
-#: ktipdialog.cpp:297
+#: ktipdialog.cpp:296
 #, fuzzy, kde-format
 #| msgid "&Previous"
 msgctxt "@action:button Goes to previous tip"
 msgid "&Previous"
 msgstr "&Zeréck"
 
-#: ktipdialog.cpp:302
+#: ktipdialog.cpp:301
 #, fuzzy, kde-format
 #| msgid "&Next"
 msgctxt "@action:button Goes to next tip, opposite to previous"
