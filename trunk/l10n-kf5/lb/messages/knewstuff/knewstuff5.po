@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-06 02:22+0100\n"
+"POT-Creation-Date: 2021-02-09 02:36+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -470,77 +470,77 @@ msgstr ""
 "no, ob den <i>gpg</i> installéiert ass, well soss kënnen déi erofgeluede "
 "Ressourcen net ënnerschriwwe ginn.</qt>"
 
-#: downloaddialog.cpp:68 downloadwidget.cpp:213
+#: downloaddialog.cpp:69 downloadwidget.cpp:216
 #, fuzzy, kde-format
 #| msgid "Get Hot New Stuff"
 msgid "Get Hot New Stuff"
 msgstr "Nei Saachen ofhuelen"
 
-#: downloaddialog.cpp:86
+#: downloaddialog.cpp:87
 #, kde-format
 msgctxt "Program name followed by 'Add On Installer'"
 msgid "%1 Add-On Installer"
 msgstr ""
 
-#: downloadwidget.cpp:120
+#: downloadwidget.cpp:123
 #, kde-format
 msgid "Timeout. Check Internet connection."
 msgstr ""
 
-#: downloadwidget.cpp:183
+#: downloadwidget.cpp:186
 #, fuzzy, kde-format
 #| msgid "<Merge %1>"
 msgid "Server: %1"
 msgstr "<Merge %1>"
 
-#: downloadwidget.cpp:184
+#: downloadwidget.cpp:187
 #, fuzzy, kde-format
 #| msgid "Hide %1"
 msgid "<br />Provider: %1"
 msgstr "%1 net weisen"
 
-#: downloadwidget.cpp:185
+#: downloadwidget.cpp:188
 #, fuzzy, kde-format
 #| msgid "Version:"
 msgid "<br />Version: %1"
 msgstr "Versioun:"
 
-#: downloadwidget.cpp:189
+#: downloadwidget.cpp:192
 #, fuzzy, kde-format
 #| msgid "Show version information"
 msgid "Provider information"
 msgstr "Informatiounen iwwert d'Versioun uweisen"
 
-#: downloadwidget.cpp:202
+#: downloadwidget.cpp:205
 #, fuzzy, kde-format
 msgid "Could not install %1"
 msgstr "Konnt de Service '%1' net fannen."
 
-#: downloadwidget.cpp:203
+#: downloadwidget.cpp:206
 #, fuzzy, kde-format
 #| msgid "Get Hot New Stuff"
 msgid "Get Hot New Stuff!"
 msgstr "Nei Saachen ofhuelen"
 
-#: downloadwidget.cpp:263
+#: downloadwidget.cpp:266
 #, fuzzy, kde-format
 #| msgid "Icon Size"
 msgid "Icons view mode"
 msgstr "Gréisst vum Symbol"
 
-#: downloadwidget.cpp:265
+#: downloadwidget.cpp:268
 #, fuzzy, kde-format
 #| msgid "Details"
 msgid "Details view mode"
 msgstr "Detailer"
 
-#: downloadwidget.cpp:280
+#: downloadwidget.cpp:283
 #, fuzzy, kde-format
 #| msgid "Hot New Stuff Providers"
 msgid "All Providers"
 msgstr "Ubidder vun neie Saachen"
 
-#: downloadwidget.cpp:287
+#: downloadwidget.cpp:290
 #, fuzzy, kde-format
 #| msgid "Categories"
 msgid "All Categories"
