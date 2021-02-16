@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-13 02:23+0100\n"
+"POT-Creation-Date: 2021-02-16 02:21+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -708,20 +708,20 @@ msgstr "Configuréieren"
 msgid "Configure menu - %1"
 msgstr "%1 &configuréieren..."
 
-#: kmoretools/kmoretoolsmenufactory.cpp:183
+#: kmoretools/kmoretoolsmenufactory.cpp:184
 #, fuzzy, kde-format
 #| msgid "Print header"
 msgctxt "@action:inmenu %1=\"$GenericName\""
 msgid "%1 - current folder"
 msgstr "Header drécken"
 
-#: kmoretools/kmoretoolsmenufactory.cpp:191
+#: kmoretools/kmoretoolsmenufactory.cpp:192
 #, kde-format
 msgctxt "@action:inmenu %1=\"$GenericName\""
 msgid "%1 - current device"
 msgstr ""
 
-#: kmoretools/kmoretoolsmenufactory.cpp:204
+#: kmoretools/kmoretoolsmenufactory.cpp:205
 #, kde-format
 msgctxt "@action:inmenu %1=\"$GenericName\""
 msgid "%1 - all devices"
