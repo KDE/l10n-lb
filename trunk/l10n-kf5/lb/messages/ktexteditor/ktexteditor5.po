@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-20 02:32+0100\n"
+"POT-Creation-Date: 2021-02-22 02:22+0100\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -7521,17 +7521,17 @@ msgstr "Erfolleg:"
 msgid "Command \"%1\" failed."
 msgstr "De Kommando \"%1\" ass feelgeschloen."
 
-#: view/kateviewhelpers.cpp:2471 view/kateviewhelpers.cpp:2472
+#: view/kateviewhelpers.cpp:2470 view/kateviewhelpers.cpp:2471
 #, kde-format
 msgid "Mark Type %1"
 msgstr "Markéierungstyp %1"
 
-#: view/kateviewhelpers.cpp:2495
+#: view/kateviewhelpers.cpp:2494
 #, kde-format
 msgid "Set Default Mark Type"
 msgstr "Standard-Markéierungstyp festleeën"
 
-#: view/kateviewhelpers.cpp:2629
+#: view/kateviewhelpers.cpp:2628
 #, kde-format
 msgid "Disable Annotation Bar"
 msgstr ""
