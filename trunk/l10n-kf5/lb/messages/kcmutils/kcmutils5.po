@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-12 02:26+0100\n"
+"POT-Creation-Date: 2021-02-25 02:22+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -40,30 +40,30 @@ msgid ""
 "qt>"
 msgstr "<qt><p>D'Diagnos ass:<br>D'Bürosdatei %1 konnt net fonnt ginn.</qt>"
 
-#: kcmoduleloader.cpp:71
+#: kcmoduleloader.cpp:74
 #, fuzzy, kde-format
 msgid "The module %1 is disabled."
 msgstr "De Modul %1 konnt net geluede ginn."
 
-#: kcmoduleloader.cpp:72
+#: kcmoduleloader.cpp:75
 #, kde-format
 msgid ""
 "<qt><p>Either the hardware/software the module configures is not available "
 "or the module has been disabled by the administrator.</p></qt>"
 msgstr ""
 
-#: kcmoduleloader.cpp:99
+#: kcmoduleloader.cpp:103
 #, fuzzy, kde-format
 #| msgid "Error opening file."
 msgid "Error loading QML file."
 msgstr "Feeler beim Opmaache vun der Datei."
 
-#: kcmoduleloader.cpp:144
+#: kcmoduleloader.cpp:149
 #, kde-format
 msgid "The module %1 is not a valid configuration module."
 msgstr "De Modul %1 ass kee gültege Configuratiounsmodul."
 
-#: kcmoduleloader.cpp:145
+#: kcmoduleloader.cpp:150
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt><p>The diagnostics is:<br>The desktop file %1 does not specify a "
@@ -74,7 +74,7 @@ msgid ""
 msgstr ""
 "<qt><p>D'Diagnos ass:<br>D'Bürosdatei %1 gëtt keng Bibliothéik un.</qt>"
 
-#: kcmoduleloader.cpp:186
+#: kcmoduleloader.cpp:191
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt><p>The diagnostics is:<br>%1<p>Possible reasons:</p><ul><li>An error "
@@ -96,13 +96,13 @@ msgstr ""
 "</ul><p>Kuckt dëss Punkten opmierksam duerch a probéiert, dee Modul ze "
 "läschen. Wann dat net klappt, frot bei ärem Verdeler no.</p></qt>"
 
-#: kcmoduleproxy.cpp:111
+#: kcmoduleproxy.cpp:114
 #, kde-format
 msgctxt "Argument is application name"
 msgid "This configuration section is already opened in %1"
 msgstr "Dëss Configuratioun ass schonn am %1 opgemaach"
 
-#: kcmultidialog.cpp:50
+#: kcmultidialog.cpp:49
 #, fuzzy, kde-format
 #| msgid ""
 #| "The document \"%1\" has been modified.\n"
@@ -114,13 +114,13 @@ msgstr ""
 "Den Dokument \"%1\" ass verännert ginn.\n"
 "Wëllt dir e späicheren oder sou si loosse, wéi e war?"
 
-#: kcmultidialog.cpp:52
+#: kcmultidialog.cpp:51
 #, fuzzy, kde-format
 #| msgid "Apply settings"
 msgid "Apply Settings"
 msgstr "Astellungen uwenden"
 
-#: kcmultidialog.cpp:245 kpluginselector.cpp:783
+#: kcmultidialog.cpp:242 kpluginselector.cpp:806
 #, kde-format
 msgid "Configure"
 msgstr "Configuréieren"
@@ -416,21 +416,21 @@ msgstr "D'Passwuert ass eidel"
 msgid "The size of the dialog"
 msgstr "Rotschlag vum Dag"
 
-#: kpluginselector.cpp:130
+#: kpluginselector.cpp:129
 #, kde-format
 msgid ""
 "Automatic changes have been performed due to plugin dependencies. Click here "
 "for further information"
 msgstr ""
 
-#: kpluginselector.cpp:198
+#: kpluginselector.cpp:197
 #, kde-format
 msgid ""
 "Automatic changes have been performed in order to satisfy plugin "
 "dependencies:\n"
 msgstr ""
 
-#: kpluginselector.cpp:202
+#: kpluginselector.cpp:201
 #, kde-format
 msgid ""
 "\n"
@@ -438,7 +438,7 @@ msgid ""
 "plugin"
 msgstr ""
 
-#: kpluginselector.cpp:204
+#: kpluginselector.cpp:205
 #, kde-format
 msgid ""
 "\n"
@@ -446,38 +446,38 @@ msgid ""
 "%2 plugin"
 msgstr ""
 
-#: kpluginselector.cpp:207
+#: kpluginselector.cpp:210
 #, kde-format
 msgid "Dependency Check"
 msgstr ""
 
-#: kpluginselector.cpp:224
+#: kpluginselector.cpp:228
 #, kde-format
 msgid "%1 plugin automatically added due to plugin dependencies"
 msgid_plural "%1 plugins automatically added due to plugin dependencies"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kpluginselector.cpp:228
+#: kpluginselector.cpp:232
 #, kde-format
 msgid ", "
 msgstr ""
 
-#: kpluginselector.cpp:232
+#: kpluginselector.cpp:236
 #, kde-format
 msgid "%1 plugin automatically removed due to plugin dependencies"
 msgid_plural "%1 plugins automatically removed due to plugin dependencies"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kpluginselector.cpp:252
+#: kpluginselector.cpp:258
 #, fuzzy, kde-format
 #| msgctxt "QAccel"
 #| msgid "Search"
 msgid "Search..."
 msgstr "Sichen"
 
-#: kpluginselector.cpp:778
+#: kpluginselector.cpp:801
 #, fuzzy, kde-format
 #| msgid "&About"
 msgid "About"
@@ -488,7 +488,7 @@ msgstr "&Iwwer"
 msgid "Select Components"
 msgstr "Komponenten auswielen"
 
-#: ksettings/dialog.cpp:220
+#: ksettings/dialog.cpp:216
 #, fuzzy, kde-format
 #| msgid "Embeddable HTML component"
 msgid "Enable component"
