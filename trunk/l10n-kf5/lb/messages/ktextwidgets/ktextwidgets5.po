@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-14 02:36+0100\n"
+"POT-Creation-Date: 2021-03-22 02:10+0100\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -44,41 +44,41 @@ msgstr "Weidersichen"
 msgid "<qt>Find next occurrence of '<b>%1</b>'?</qt>"
 msgstr "<qt>Dat nächst Optriede vun '<b>%1</b>' sichen?</qt>"
 
-#: findreplace/kfind.cpp:691 findreplace/kfind.cpp:712
+#: findreplace/kfind.cpp:703 findreplace/kfind.cpp:724
 #, fuzzy, kde-format
 msgid "1 match found."
 msgid_plural "%1 matches found."
 msgstr[0] "1 Iwwereneestëmmung fonnt."
 msgstr[1] "%1 Iwwereneestëmmunge fonnt."
 
-#: findreplace/kfind.cpp:693
+#: findreplace/kfind.cpp:705
 #, kde-format
 msgid "<qt>No matches found for '<b>%1</b>'.</qt>"
 msgstr "<qt>Keng Iwwereneestëmmung fonnt fir '<b>%1</b>'.</qt>"
 
-#: findreplace/kfind.cpp:714
+#: findreplace/kfind.cpp:726
 #, kde-format
 msgid "No matches found for '<b>%1</b>'."
 msgstr "Keng Iwwereneestëmmung fonnt fir '<b>%1</b>'."
 
-#: findreplace/kfind.cpp:718 findreplace/kreplace.cpp:420
+#: findreplace/kfind.cpp:730 findreplace/kreplace.cpp:423
 #, kde-format
 msgid "Beginning of document reached."
 msgstr "Ufank vum Dokument erreecht."
 
-#: findreplace/kfind.cpp:720 findreplace/kreplace.cpp:422
+#: findreplace/kfind.cpp:732 findreplace/kreplace.cpp:425
 #, kde-format
 msgid "End of document reached."
 msgstr "Enn vum Dokument erreecht."
 
 #. i18n() of the first if() because of the plural form.
 #. Hope this word puzzle is ok, it's a different sentence
-#: findreplace/kfind.cpp:726
+#: findreplace/kfind.cpp:738
 #, kde-format
 msgid "Continue from the end?"
 msgstr "Vun hanne weidersichen?"
 
-#: findreplace/kfind.cpp:726
+#: findreplace/kfind.cpp:738
 #, kde-format
 msgid "Continue from the beginning?"
 msgstr "Um Ufank weidersichen?"
@@ -397,36 +397,36 @@ msgstr "&Iwwersprangen"
 msgid "Replace '%1' with '%2'?"
 msgstr "'%1' duerch '%2' ersetzen?"
 
-#: findreplace/kreplace.cpp:174 findreplace/kreplace.cpp:414
+#: findreplace/kreplace.cpp:174 findreplace/kreplace.cpp:417
 #, kde-format
 msgid "No text was replaced."
 msgstr "Et ass näischt ersat ginn."
 
-#: findreplace/kreplace.cpp:176 findreplace/kreplace.cpp:416
+#: findreplace/kreplace.cpp:176 findreplace/kreplace.cpp:419
 #, fuzzy, kde-format
 msgid "1 replacement done."
 msgid_plural "%1 replacements done."
 msgstr[0] "1 Ersetzung duerchgefouert."
 msgstr[1] "%1 Ersetzungen duerchgefouert."
 
-#: findreplace/kreplace.cpp:429
+#: findreplace/kreplace.cpp:432
 #, kde-format
 msgid "Do you want to restart search from the end?"
 msgstr "Wëllt dir vun hanne weidersichen?"
 
-#: findreplace/kreplace.cpp:429
+#: findreplace/kreplace.cpp:432
 #, kde-format
 msgid "Do you want to restart search at the beginning?"
 msgstr "Wëllt dir um Ufank weidersichen?"
 
-#: findreplace/kreplace.cpp:434
+#: findreplace/kreplace.cpp:437
 #, fuzzy, kde-format
 #| msgid "Restart"
 msgctxt "@action:button Restart find & replace"
 msgid "Restart"
 msgstr "Nei ufänken"
 
-#: findreplace/kreplace.cpp:435
+#: findreplace/kreplace.cpp:438
 #, fuzzy, kde-format
 #| msgid "Stop"
 msgctxt "@action:button Stop find & replace"
