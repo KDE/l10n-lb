@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-02-28 02:21+0100\n"
+"POT-Creation-Date: 2021-03-31 00:15+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -69,6 +69,32 @@ msgstr "Kierzelen"
 msgctxt "@title:window"
 msgid "Configure"
 msgstr "Configuréieren"
+
+#: khamburgermenu.cpp:126
+#, fuzzy, kde-format
+#| msgctxt "QAccel"
+#| msgid "Menu"
+msgctxt "@action:inmenu General purpose menu"
+msgid "&Menu"
+msgstr "Menü"
+
+#: khamburgermenu.cpp:337
+#, fuzzy, kde-format
+#| msgid "Content information: %1\n"
+msgctxt "@action:inmenu A menu text advertising its contents (more features)."
+msgid "For %1 more action:"
+msgid_plural "For %1 more actions:"
+msgstr[0] "Beschreiwung vum Inhalt: %1\n"
+msgstr[1] "Beschreiwung vum Inhalt: %1\n"
+
+#: khamburgermenu.cpp:340
+#, kde-format
+msgctxt ""
+"@action:inmenu A section heading advertising the contents of the menu bar"
+msgid "%1 Menu Bar Exclusive Action"
+msgid_plural "%1 Menu Bar Exclusive Actions"
+msgstr[0] ""
+msgstr[1] ""
 
 #: krecentfilesaction.cpp:68
 #, fuzzy, kde-format
@@ -642,6 +668,12 @@ msgstr ""
 #| msgid "&Done"
 msgid "&Donate"
 msgstr "&Fäerdeg"
+
+#: kstandardaction_p.h:114
+#, fuzzy, kde-format
+#| msgid "Open &Recent"
+msgid "Open &Menu"
+msgstr "&Viru kuerzem opgemaachen Dateien"
 
 #: ktipdialog.cpp:217
 #, fuzzy, kde-format
@@ -6790,11 +6822,6 @@ msgstr "&Weider"
 #~ msgstr[1] "Tastekombinatioun"
 
 #, fuzzy
-#~| msgid "Content information: %1\n"
-#~ msgid "Shortcut '%1' for action '%2'\n"
-#~ msgstr "Beschreiwung vum Inhalt: %1\n"
-
-#, fuzzy
 #~ msgctxt "%1 is the number of ambigious shortcut clashes (hidden)"
 #~ msgid ""
 #~ "The \"%2\" shortcut is ambiguous with the following shortcut.\n"
@@ -12620,12 +12647,6 @@ msgstr "&Weider"
 #~| msgid "Files"
 #~ msgid "Trash Files"
 #~ msgstr "Dateien"
-
-#, fuzzy
-#~| msgctxt "QAccel"
-#~| msgid "Menu"
-#~ msgid "Menu"
-#~ msgstr "Menü"
 
 #, fuzzy
 #~| msgid "Print header"
