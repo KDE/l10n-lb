@@ -2774,26 +2774,12 @@ msgctxt "KStandardGuiItem|"
 msgid "&Yes"
 msgstr "&Jo"
 
-#: kstandardguiitem.cpp:170
-#, fuzzy
-#| msgid "Yes"
-msgctxt "KStandardGuiItem|"
-msgid "Yes"
-msgstr "Jo"
-
 #: kstandardguiitem.cpp:175
 #, fuzzy
 #| msgid "&No"
 msgctxt "KStandardGuiItem|"
 msgid "&No"
 msgstr "&Nee"
-
-#: kstandardguiitem.cpp:175
-#, fuzzy
-#| msgid "No"
-msgctxt "KStandardGuiItem|"
-msgid "No"
-msgstr "Nee"
 
 #: kstandardguiitem.cpp:180
 #, fuzzy
@@ -3228,6 +3214,18 @@ msgstr "Vollbildmodus"
 msgctxt "KToggleFullScreenAction|@info:tooltip"
 msgid "Display the window in full screen"
 msgstr ""
+
+#, fuzzy
+#~| msgid "Yes"
+#~ msgctxt "KStandardGuiItem|"
+#~ msgid "Yes"
+#~ msgstr "Jo"
+
+#, fuzzy
+#~| msgid "No"
+#~ msgctxt "KStandardGuiItem|"
+#~ msgid "No"
+#~ msgstr "Nee"
 
 #, fuzzy
 #~| msgid "&Back"
