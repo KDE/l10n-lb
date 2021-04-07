@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-03-31 00:15+0000\n"
+"POT-Creation-Date: 2021-04-07 00:16+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -107,19 +107,19 @@ msgstr "Eegeschaften"
 msgid "Clear List"
 msgstr "Input-Feld eidelmaachen"
 
-#: kstandardaction.cpp:139
+#: kstandardaction.cpp:138
 #, kde-format
 msgctxt "go back"
 msgid "&Back"
 msgstr "&Zeréck"
 
-#: kstandardaction.cpp:146
+#: kstandardaction.cpp:145
 #, kde-format
 msgctxt "go forward"
 msgid "&Forward"
 msgstr "&No Vir"
 
-#: kstandardaction.cpp:153
+#: kstandardaction.cpp:152
 #, fuzzy, kde-format
 #| msgctxt "beginning (of line)"
 #| msgid "&Home"
@@ -127,19 +127,19 @@ msgctxt "home page"
 msgid "&Home"
 msgstr "&Ufank"
 
-#: kstandardaction.cpp:157
+#: kstandardaction.cpp:156
 #, kde-format
 msgctxt "show help"
 msgid "&Help"
 msgstr "&Hëllef"
 
-#: kstandardaction.cpp:214
+#: kstandardaction.cpp:213
 #, fuzzy, kde-format
 #| msgid "Show Menubar<p>Shows the menubar again after it has been hidden"
 msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
 msgstr "Menübar weisen<p>Weist d'Menübar nees un, nodeems se verstoppt gi war"
 
-#: kstandardaction.cpp:235
+#: kstandardaction.cpp:234
 #, fuzzy, kde-format
 #| msgid ""
 #| "Show Statusbar<p>Shows the statusbar, which is the bar at the bottom of "
