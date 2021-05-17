@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-08 00:26+0000\n"
+"POT-Creation-Date: 2021-05-17 00:34+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -246,13 +246,16 @@ msgid "Enter HTML filename:"
 msgstr ""
 
 #: src/new_file_templates/linkPath.desktop:2
+#, fuzzy
+#| msgctxt "Name"
+#| msgid "Application"
 msgctxt "Name"
-msgid "Basic Link to File or Directory..."
-msgstr ""
+msgid "Link to File or Directory..."
+msgstr "Programm"
 
 #: src/new_file_templates/linkPath.desktop:40
 msgctxt "Comment"
-msgid "Enter path of file or directory:"
+msgid "File or directory to link to:"
 msgstr ""
 
 #: src/new_file_templates/linkProgram.desktop:2
@@ -278,7 +281,7 @@ msgstr ""
 
 #: src/new_file_templates/linkURL.desktop:87
 msgctxt "Comment"
-msgid "Enter link to location (URL):"
+msgid "URL location to link to:"
 msgstr ""
 
 #: src/new_file_templates/TextFile.desktop:2
