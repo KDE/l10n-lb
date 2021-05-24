@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-07 00:16+0000\n"
+"POT-Creation-Date: 2021-05-24 00:14+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -675,35 +675,35 @@ msgstr "&Fäerdeg"
 msgid "Open &Menu"
 msgstr "&Viru kuerzem opgemaachen Dateien"
 
-#: ktipdialog.cpp:217
+#: ktipdialog.cpp:219
 #, fuzzy, kde-format
 #| msgid "Tip of the Day"
 msgctxt "@title:window"
 msgid "Tip of the Day"
 msgstr "Rotschlag vum Dag"
 
-#: ktipdialog.cpp:233
+#: ktipdialog.cpp:235
 #, fuzzy, kde-format
 #| msgid "Did you know...?\n"
 msgctxt "@title"
 msgid "Did you know...?\n"
 msgstr "Wousst dir schonn...?\n"
 
-#: ktipdialog.cpp:286
+#: ktipdialog.cpp:288
 #, fuzzy, kde-format
 #| msgid "&Show tips on startup"
 msgctxt "@option:check"
 msgid "&Show tips on startup"
 msgstr "Rotschléi beim Start &weisen"
 
-#: ktipdialog.cpp:291
+#: ktipdialog.cpp:293
 #, fuzzy, kde-format
 #| msgid "&Previous"
 msgctxt "@action:button Goes to previous tip"
 msgid "&Previous"
 msgstr "&Zeréck"
 
-#: ktipdialog.cpp:296
+#: ktipdialog.cpp:298
 #, fuzzy, kde-format
 #| msgid "&Next"
 msgctxt "@action:button Goes to next tip, opposite to previous"
