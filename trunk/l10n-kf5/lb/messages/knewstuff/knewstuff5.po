@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-20 00:14+0000\n"
+"POT-Creation-Date: 2021-05-28 00:14+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -88,7 +88,7 @@ msgctxt ""
 msgid "Unknown CommentsModel role"
 msgstr "Onbekannte Feeler"
 
-#: core/engine.cpp:161
+#: core/engine.cpp:165
 #, fuzzy, kde-format
 #| msgid "An error occurred while loading <B>%1</B>:"
 msgid ""
@@ -96,77 +96,77 @@ msgid ""
 "%1"
 msgstr "E Feeler ass beim Luede vun <B>%1</B> opgetrueden:"
 
-#: core/engine.cpp:196
+#: core/engine.cpp:200
 #, fuzzy, kde-format
 #| msgid "Install"
 msgid "Initializing"
 msgstr "Installéieren"
 
-#: core/engine.cpp:220
+#: core/engine.cpp:224
 #, fuzzy, kde-format
 #| msgid "Configuration files"
 msgid "Configuration file exists, but cannot be opened: \"%1\""
 msgstr "Configuratiounsdateien"
 
-#: core/engine.cpp:233
+#: core/engine.cpp:237
 #, fuzzy, kde-format
 #| msgid "Configuration files"
 msgid "Configuration file is invalid: \"%1\""
 msgstr "Configuratiounsdateien"
 
-#: core/engine.cpp:241
+#: core/engine.cpp:245
 #, fuzzy, kde-format
 #| msgid "Unshade"
 msgid "Use"
 msgstr "Erofklappen"
 
-#: core/engine.cpp:253
+#: core/engine.cpp:257
 #, kde-format
 msgid ""
 "Could not initialise the installation handler for %1\n"
 "This is a critical error and should be reported to the application author"
 msgstr ""
 
-#: core/engine.cpp:323
+#: core/engine.cpp:332
 #, fuzzy, kde-format
 #| msgid "View Frame Information"
 msgid "Loading provider information"
 msgstr "Frame-Informatioun kucken"
 
-#: core/engine.cpp:356
+#: core/engine.cpp:365
 #, kde-format
 msgid "Could not load get hot new stuff providers from file: %1"
 msgstr ""
 
-#: core/engine.cpp:378
+#: core/engine.cpp:395
 #, fuzzy, kde-format
 #| msgid "Error parsing providers list."
 msgid "Error initializing provider."
 msgstr "Feeler beim duerchliese vun der Providerlëscht."
 
-#: core/engine.cpp:382 core/engine.cpp:936
+#: core/engine.cpp:399 core/engine.cpp:953
 #, fuzzy, kde-format
 #| msgid "Loading Applet"
 msgid "Loading data"
 msgstr "Amgaang, de Miniprogramm ze lueden"
 
-#: core/engine.cpp:422
+#: core/engine.cpp:439
 #, kde-format
 msgid "Loading data from provider"
 msgstr ""
 
-#: core/engine.cpp:427
+#: core/engine.cpp:444
 #, fuzzy, kde-format
 #| msgid "Loading resource '%1' failed!"
 msgid "Loading of providers from file: %1 failed"
 msgstr "D'Quell '%1' konnt net geluede ginn!"
 
-#: core/engine.cpp:786
+#: core/engine.cpp:803
 #, kde-format
 msgid "Pick Update Item"
 msgstr ""
 
-#: core/engine.cpp:788
+#: core/engine.cpp:805
 #, kde-format
 msgid ""
 "Please pick the item from the list below which should be used to apply this "
@@ -174,27 +174,27 @@ msgid ""
 "original item, which was named %1"
 msgstr ""
 
-#: core/engine.cpp:807
+#: core/engine.cpp:824
 #, kde-format
 msgid ""
 "We failed to identify a good link for updating %1, and are unable to perform "
 "the update"
 msgstr ""
 
-#: core/engine.cpp:886
+#: core/engine.cpp:903
 #, fuzzy, kde-format
 #| msgid "Redo: %1"
 msgid "Re: %1"
 msgstr "Nees zeréck: %1"
 
-#: core/engine.cpp:928 ui/itemsgridviewdelegate.cpp:329
+#: core/engine.cpp:945 ui/itemsgridviewdelegate.cpp:329
 #: ui/itemsviewdelegate.cpp:117
 #, fuzzy, kde-format
 #| msgid "Install"
 msgid "Installing"
 msgstr "Installéieren"
 
-#: core/engine.cpp:932
+#: core/engine.cpp:949
 #, fuzzy, kde-format
 #| msgid "Print Previe&w..."
 msgid "Loading one preview"
@@ -202,7 +202,7 @@ msgid_plural "Loading %1 previews"
 msgstr[0] "Drocker&virschau..."
 msgstr[1] "Drocker&virschau..."
 
-#: core/engine.cpp:1141
+#: core/engine.cpp:1158
 #, fuzzy, kde-format
 msgid ""
 "Failed to adopt '%1'\n"
@@ -558,7 +558,7 @@ msgstr "%1 net weisen"
 
 #. i18n: ectx: property (text), widget (QLabel, mCategoryLabel)
 #. i18n: ectx: property (text), widget (QLabel, m_categoryLabel)
-#: downloadwidget.ui:71 qtquick/qml/Page.qml:348 uploaddialog.ui:304
+#: downloadwidget.ui:71 qtquick/qml/Page.qml:389 uploaddialog.ui:304
 #, fuzzy, kde-format
 #| msgid "Categories"
 msgid "Category:"
@@ -579,14 +579,14 @@ msgid "Newest"
 msgstr "Nei Lëscht"
 
 #. i18n: ectx: property (text), widget (QRadioButton, ratingRadio)
-#: downloadwidget.ui:110 qtquick/qml/Page.qml:274
+#: downloadwidget.ui:110 qtquick/qml/Page.qml:289
 #, fuzzy, kde-format
 #| msgid "Rating"
 msgid "Rating"
 msgstr "Bewertung"
 
 #. i18n: ectx: property (text), widget (QRadioButton, installedRadio)
-#: downloadwidget.ui:117 qtquick/qml/Page.qml:223
+#: downloadwidget.ui:117 qtquick/qml/Page.qml:238
 #, fuzzy, kde-format
 #| msgid "Install"
 msgid "Installed"
@@ -606,7 +606,7 @@ msgid "Search:"
 msgstr "Siche&n:"
 
 #. i18n: ectx: property (placeholderText), widget (KLineEdit, m_searchEdit)
-#: downloadwidget.ui:217 qtquick/qml/Page.qml:327 qtquick/qml/Page.qml:333
+#: downloadwidget.ui:217 qtquick/qml/Page.qml:347 qtquick/qml/Page.qml:353
 #, fuzzy, kde-format
 #| msgctxt "QAccel"
 #| msgid "Search"
@@ -649,7 +649,7 @@ msgid "Become a Fan"
 msgstr "Fax Doheem"
 
 #. i18n: ectx: property (text), widget (QPushButton, installButton)
-#: downloadwidget.ui:596 qtquick/qml/DownloadItemsSheet.qml:50
+#: downloadwidget.ui:596 qtquick/qml/DownloadItemsSheet.qml:55
 #: ui/itemsgridviewdelegate.cpp:339 ui/itemsgridviewdelegate.cpp:349
 #: ui/itemsviewdelegate.cpp:127 ui/itemsviewdelegate.cpp:137
 #, kde-format
@@ -854,7 +854,7 @@ msgid ""
 "this through the naming of the items."
 msgstr ""
 
-#: qtquick/qml/EntryDetails.qml:48
+#: qtquick/qml/EntryDetails.qml:49
 #, fuzzy, kde-format
 #| msgid "Install"
 msgctxt ""
@@ -862,7 +862,7 @@ msgctxt ""
 msgid "Installing %1 from %2"
 msgstr "Installéieren"
 
-#: qtquick/qml/EntryDetails.qml:64
+#: qtquick/qml/EntryDetails.qml:65
 #, kde-format
 msgctxt ""
 "Status message to be shown when the entry is in the process of being "
@@ -870,14 +870,14 @@ msgctxt ""
 msgid "Currently working on the item %1 by %2. Please wait..."
 msgstr ""
 
-#: qtquick/qml/EntryDetails.qml:66
+#: qtquick/qml/EntryDetails.qml:67
 #, kde-format
 msgctxt ""
 "Status message to be shown when the entry is in the process of being updated"
 msgid "Currently updating the item %1 by %2. Please wait..."
 msgstr ""
 
-#: qtquick/qml/EntryDetails.qml:68
+#: qtquick/qml/EntryDetails.qml:69
 #, kde-format
 msgctxt ""
 "Status message which should only be shown when the entry has been given some "
@@ -888,7 +888,7 @@ msgid ""
 "to the KDE Community in a bug report</a>."
 msgstr ""
 
-#: qtquick/qml/EntryDetails.qml:82
+#: qtquick/qml/EntryDetails.qml:83
 #, kde-format
 msgctxt ""
 "Combined title for the entry details page made of the name of the entry, and "
@@ -896,10 +896,10 @@ msgctxt ""
 msgid "%1 by %2"
 msgstr ""
 
-#: qtquick/qml/EntryDetails.qml:86
+#: qtquick/qml/EntryDetails.qml:87
 #: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:49
 #: qtquick/qml/private/entrygriddelegates/ThumbDelegate.qml:42
-#: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:50
+#: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:56
 #, fuzzy, kde-format
 #| msgid "Install"
 msgctxt ""
@@ -908,10 +908,10 @@ msgctxt ""
 msgid "Install"
 msgstr "Installéieren"
 
-#: qtquick/qml/EntryDetails.qml:86
+#: qtquick/qml/EntryDetails.qml:87
 #: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:49
 #: qtquick/qml/private/entrygriddelegates/ThumbDelegate.qml:42
-#: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:50
+#: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:56
 #, fuzzy, kde-format
 #| msgid "Install"
 msgctxt ""
@@ -919,30 +919,30 @@ msgctxt ""
 msgid "Install..."
 msgstr "Installéieren"
 
-#: qtquick/qml/EntryDetails.qml:101 qtquick/qml/NewStuffItem.qml:29
+#: qtquick/qml/EntryDetails.qml:102 qtquick/qml/NewStuffItem.qml:29
 #: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:64
 #: qtquick/qml/private/entrygriddelegates/ThumbDelegate.qml:57
-#: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:65
+#: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:71
 #, fuzzy, kde-format
 #| msgid "Update"
 msgctxt "Request updating of this item"
 msgid "Update"
 msgstr "Aktualiséieren"
 
-#: qtquick/qml/EntryDetails.qml:108 qtquick/qml/NewStuffItem.qml:36
-#: qtquick/qml/Page.qml:129
+#: qtquick/qml/EntryDetails.qml:109 qtquick/qml/NewStuffItem.qml:36
+#: qtquick/qml/Page.qml:144
 #, fuzzy, kde-format
 #| msgid "Install"
 msgctxt "Request uninstallation of this item"
 msgid "Uninstall"
 msgstr "Installéieren"
 
-#: qtquick/qml/EntryDetails.qml:151
+#: qtquick/qml/EntryDetails.qml:153
 #, kde-format
 msgid "Comments and Reviews:"
 msgstr ""
 
-#: qtquick/qml/EntryDetails.qml:153
+#: qtquick/qml/EntryDetails.qml:155
 #, fuzzy, kde-format
 #| msgid "Comment"
 msgctxt ""
@@ -951,19 +951,19 @@ msgctxt ""
 msgid "%1 Reviews and Comments"
 msgstr "Kommentar"
 
-#: qtquick/qml/EntryDetails.qml:158
+#: qtquick/qml/EntryDetails.qml:160
 #, fuzzy, kde-format
 #| msgid "Rating"
 msgid "Rating:"
 msgstr "Bewertung"
 
-#: qtquick/qml/EntryDetails.qml:162
+#: qtquick/qml/EntryDetails.qml:164
 #, fuzzy, kde-format
 #| msgid "Homepage"
 msgid "Homepage:"
 msgstr "Homepage"
 
-#: qtquick/qml/EntryDetails.qml:163
+#: qtquick/qml/EntryDetails.qml:165
 #, kde-format
 msgctxt ""
 "A link which, when clicked, opens the website associated with the entry "
@@ -972,12 +972,12 @@ msgctxt ""
 msgid "Open the homepage for %1"
 msgstr ""
 
-#: qtquick/qml/EntryDetails.qml:168
+#: qtquick/qml/EntryDetails.qml:170
 #, kde-format
 msgid "How To Donate:"
 msgstr ""
 
-#: qtquick/qml/EntryDetails.qml:169
+#: qtquick/qml/EntryDetails.qml:171
 #, kde-format
 msgctxt ""
 "A link which, when clicked, opens a website with information on donation in "
@@ -1044,7 +1044,7 @@ msgctxt ""
 msgid "Show most downloaded first"
 msgstr "Am meeschten erofgelueden"
 
-#: qtquick/qml/Page.qml:111
+#: qtquick/qml/Page.qml:122
 #, kde-format
 msgctxt ""
 "A message which is shown when the user attempts to display a specific entry "
@@ -1054,60 +1054,60 @@ msgid ""
 "not be found."
 msgstr ""
 
-#: qtquick/qml/Page.qml:176
+#: qtquick/qml/Page.qml:191
 #, fuzzy, kde-format
 #| msgid "&Tile"
 msgid "Tiles"
 msgstr "&Kachelen"
 
-#: qtquick/qml/Page.qml:178
+#: qtquick/qml/Page.qml:193
 #, kde-format
 msgid "Icons"
 msgstr "Symboler"
 
-#: qtquick/qml/Page.qml:180
+#: qtquick/qml/Page.qml:195
 #, fuzzy, kde-format
 #| msgid "Preview URL:"
 msgid "Preview"
 msgstr "URL-Virschau:"
 
-#: qtquick/qml/Page.qml:195
+#: qtquick/qml/Page.qml:210
 #, fuzzy, kde-format
 #| msgid "Details"
 msgid "Detailed Tiles View Mode"
 msgstr "Detailer"
 
-#: qtquick/qml/Page.qml:203
+#: qtquick/qml/Page.qml:218
 #, fuzzy, kde-format
 #| msgid "Icon Size"
 msgid "Icons Only View Mode"
 msgstr "Gréisst vum Symbol"
 
-#: qtquick/qml/Page.qml:211
+#: qtquick/qml/Page.qml:226
 #, fuzzy, kde-format
 #| msgid "Details"
 msgid "Large Preview View Mode"
 msgstr "Detailer"
 
-#: qtquick/qml/Page.qml:221
+#: qtquick/qml/Page.qml:236
 #, kde-format
 msgid "Everything"
 msgstr ""
 
-#: qtquick/qml/Page.qml:225
+#: qtquick/qml/Page.qml:240
 #, fuzzy, kde-format
 #| msgid "Update"
 msgid "Updateable"
 msgstr "Aktualiséieren"
 
-#: qtquick/qml/Page.qml:244
+#: qtquick/qml/Page.qml:259
 #, fuzzy, kde-format
 #| msgid "Show all options"
 msgctxt "List option which will set the filter to show everything"
 msgid "Show All Entries"
 msgstr "All Optioune weisen"
 
-#: qtquick/qml/Page.qml:252
+#: qtquick/qml/Page.qml:267
 #, fuzzy, kde-format
 #| msgid "Show all options"
 msgctxt ""
@@ -1115,7 +1115,7 @@ msgctxt ""
 msgid "Show Only Installed Entries"
 msgstr "All Optioune weisen"
 
-#: qtquick/qml/Page.qml:260
+#: qtquick/qml/Page.qml:275
 #, fuzzy, kde-format
 #| msgid "Show all options"
 msgctxt ""
@@ -1124,25 +1124,25 @@ msgctxt ""
 msgid "Show Only Updateable Entries"
 msgstr "All Optioune weisen"
 
-#: qtquick/qml/Page.qml:270
+#: qtquick/qml/Page.qml:285
 #, fuzzy, kde-format
 #| msgctxt "QAccel"
 #| msgid "Percent"
 msgid "Recent"
 msgstr "Prozent"
 
-#: qtquick/qml/Page.qml:272
+#: qtquick/qml/Page.qml:287
 #, kde-format
 msgid "Alphabetical"
 msgstr ""
 
-#: qtquick/qml/Page.qml:276
+#: qtquick/qml/Page.qml:291
 #, fuzzy, kde-format
 #| msgid "Download"
 msgid "Downloads"
 msgstr "Eroflueden"
 
-#: qtquick/qml/Page.qml:295
+#: qtquick/qml/Page.qml:310
 #, fuzzy, kde-format
 #| msgid "Most Downloads"
 msgctxt ""
@@ -1151,7 +1151,7 @@ msgctxt ""
 msgid "Show Most Recent First"
 msgstr "Am meeschten erofgelueden"
 
-#: qtquick/qml/Page.qml:303
+#: qtquick/qml/Page.qml:318
 #, kde-format
 msgctxt ""
 "List option which will set the sort order to be alphabetical based on the "
@@ -1159,14 +1159,14 @@ msgctxt ""
 msgid "Sort Alphabetically By Name"
 msgstr ""
 
-#: qtquick/qml/Page.qml:311
+#: qtquick/qml/Page.qml:326
 #, fuzzy, kde-format
 #| msgid "Highest Rated"
 msgctxt "List option which will set the sort order to based on user ratings"
 msgid "Show Highest Rated First"
 msgstr "Am héchste bewäert"
 
-#: qtquick/qml/Page.qml:319
+#: qtquick/qml/Page.qml:334
 #, fuzzy, kde-format
 #| msgid "Most Downloads"
 msgctxt ""
@@ -1174,7 +1174,13 @@ msgctxt ""
 msgid "Show Most Downloaded First"
 msgstr "Am meeschten erofgelueden"
 
-#: qtquick/qml/Page.qml:427
+#: qtquick/qml/Page.qml:342
+#, fuzzy, kde-format
+#| msgid "&Go To..."
+msgid "Go to..."
+msgstr "&Goen..."
+
+#: qtquick/qml/Page.qml:468
 #, fuzzy, kde-format
 #| msgid "Print Previe&w..."
 msgctxt ""
@@ -1182,7 +1188,7 @@ msgctxt ""
 msgid "Loading more..."
 msgstr "Drocker&virschau..."
 
-#: qtquick/qml/Page.qml:438
+#: qtquick/qml/Page.qml:479
 #, kde-format
 msgctxt ""
 "A message shown when there are no entries in the list, and when it is not "
@@ -1235,7 +1241,7 @@ msgid "Show Reviews and Replies"
 msgstr ""
 
 #: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:140
-#: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:180
+#: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:187
 #, fuzzy, kde-format
 #| msgid "Download"
 msgctxt "The number of times the item has been downloaded"
@@ -1243,7 +1249,7 @@ msgid "%1 downloads"
 msgstr "Eroflueden"
 
 #: qtquick/qml/private/entrygriddelegates/BigPreviewDelegate.qml:153
-#: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:160
+#: qtquick/qml/private/entrygriddelegates/TileDelegate.qml:166
 #, fuzzy, kde-format
 #| msgid "<b>Error</b>: %1: %2"
 msgctxt ""
@@ -1309,7 +1315,7 @@ msgctxt ""
 msgid "(%1/%2)"
 msgstr "(%1/s)"
 
-#: qtquick/quickengine.cpp:171
+#: qtquick/quickengine.cpp:176
 #, kde-format
 msgctxt ""
 "An informational message which is shown to inform the user they are not "
@@ -1317,6 +1323,86 @@ msgctxt ""
 msgid ""
 "You are not authorized to Get Hot New Stuff. If you think this is in error, "
 "please contact the person in charge of your permissions."
+msgstr ""
+
+#: qtquick/searchpresetmodel.cpp:60
+#, fuzzy, kde-format
+#| msgid "Back"
+msgctxt "Knewstuff5"
+msgid "Back"
+msgstr "Zeréck"
+
+#: qtquick/searchpresetmodel.cpp:63
+#, kde-format
+msgctxt "Knewstuff5"
+msgid "Popular"
+msgstr ""
+
+#: qtquick/searchpresetmodel.cpp:66
+#, fuzzy, kde-format
+#| msgid "Saturday"
+msgctxt "Knewstuff5"
+msgid "Featured"
+msgstr "Samschten"
+
+#: qtquick/searchpresetmodel.cpp:69
+#, fuzzy, kde-format
+#| msgid "Restart"
+msgctxt "Knewstuff5"
+msgid "Restart"
+msgstr "Nei ufänken"
+
+#: qtquick/searchpresetmodel.cpp:72
+#, fuzzy, kde-format
+#| msgid "New"
+msgctxt "Knewstuff5"
+msgid "New"
+msgstr "Nei"
+
+#: qtquick/searchpresetmodel.cpp:75
+#, fuzzy, kde-format
+#| msgctxt "Opposite to End"
+#| msgid "Home"
+msgctxt "Knewstuff5"
+msgid "Home"
+msgstr "Ufank"
+
+#: qtquick/searchpresetmodel.cpp:78
+#, kde-format
+msgctxt "Knewstuff5"
+msgid "Shelf"
+msgstr ""
+
+#: qtquick/searchpresetmodel.cpp:81
+#, fuzzy, kde-format
+#| msgid "Up"
+msgctxt "Knewstuff5"
+msgid "Up"
+msgstr "Erop"
+
+#: qtquick/searchpresetmodel.cpp:84
+#, kde-format
+msgctxt "Knewstuff5"
+msgid "Recommended"
+msgstr ""
+
+#: qtquick/searchpresetmodel.cpp:87
+#, fuzzy, kde-format
+msgctxt "Knewstuff5"
+msgid "Subscriptions"
+msgstr "&Handschrëft"
+
+#: qtquick/searchpresetmodel.cpp:90
+#, fuzzy, kde-format
+#| msgid "Show all options"
+msgctxt "Knewstuff5"
+msgid "All Entries"
+msgstr "All Optioune weisen"
+
+#: qtquick/searchpresetmodel.cpp:93
+#, kde-format
+msgctxt "Knewstuff5"
+msgid "Search Preset: %1"
 msgstr ""
 
 #: tools/knewstuff-dialog/main.cpp:31
@@ -3838,13 +3924,6 @@ msgstr "Mam Ersetzen ufänken"
 #~ msgstr "Esc"
 
 #, fuzzy
-#~| msgctxt "Opposite to End"
-#~| msgid "Home"
-#~ msgctxt "keyboard-key-name"
-#~ msgid "Home"
-#~ msgstr "Ufank"
-
-#, fuzzy
 #~| msgid "Type"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Hyper"
@@ -3981,12 +4060,6 @@ msgstr "Mam Ersetzen ufänken"
 #~ msgctxt "keyboard-key-name"
 #~ msgid "Tab"
 #~ msgstr "Sab"
-
-#, fuzzy
-#~| msgid "Up"
-#~ msgctxt "keyboard-key-name"
-#~ msgid "Up"
-#~ msgstr "Erop"
 
 #, fuzzy
 #~| msgid "Win"
@@ -4560,9 +4633,6 @@ msgstr "Mam Ersetzen ufänken"
 #~| msgid "Go to Line"
 #~ msgid "Go to next page"
 #~ msgstr "Sprang op d'Zeil"
-
-#~ msgid "&Go To..."
-#~ msgstr "&Goen..."
 
 #~ msgid "&Go to Page..."
 #~ msgstr "Op d'Säit &goen..."
@@ -6020,12 +6090,6 @@ msgstr "Mam Ersetzen ufänken"
 #~ msgstr "Wëllt dir um Ufank weidersichen?"
 
 #, fuzzy
-#~| msgid "Restart"
-#~ msgctxt "@action:button Restart find & replace"
-#~ msgid "Restart"
-#~ msgstr "Nei ufänken"
-
-#, fuzzy
 #~| msgid "Stop"
 #~ msgctxt "@action:button Stop find & replace"
 #~ msgid "Stop"
@@ -6429,12 +6493,6 @@ msgstr "Mam Ersetzen ufänken"
 #~ msgstr "Opmaachen"
 
 #, fuzzy
-#~| msgid "New"
-#~ msgctxt "@action"
-#~ msgid "New"
-#~ msgstr "Nei"
-
-#, fuzzy
 #~| msgid "Close"
 #~ msgctxt "@action"
 #~ msgid "Close"
@@ -6577,12 +6635,6 @@ msgstr "Mam Ersetzen ufänken"
 #~ msgctxt "@action"
 #~ msgid "Up"
 #~ msgstr "Erop"
-
-#, fuzzy
-#~| msgid "Back"
-#~ msgctxt "@action"
-#~ msgid "Back"
-#~ msgstr "Zeréck"
 
 #, fuzzy
 #~| msgid "Forward"
@@ -8522,11 +8574,6 @@ msgstr "Mam Ersetzen ufänken"
 #~ msgctxt "@action"
 #~ msgid "To Plain Text"
 #~ msgstr "Text sichen"
-
-#, fuzzy
-#~ msgctxt "@action"
-#~ msgid "Subscript"
-#~ msgstr "&Handschrëft"
 
 #, fuzzy
 #~ msgctxt "@action"
@@ -11464,9 +11511,6 @@ msgstr "Mam Ersetzen ufänken"
 
 #~ msgid "Friday"
 #~ msgstr "Freiden"
-
-#~ msgid "Saturday"
-#~ msgstr "Samschten"
 
 #~ msgid "Sunday"
 #~ msgstr "Sonnden"
