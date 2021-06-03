@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-28 00:16+0000\n"
+"POT-Creation-Date: 2021-06-03 00:14+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -57,7 +57,7 @@ msgctxt "No shortcut defined"
 msgid "None"
 msgstr "Keng"
 
-#: qmlcontrols/kquickcontrols/KeySequenceItem.qml:88
+#: qmlcontrols/kquickcontrols/KeySequenceItem.qml:93
 #, kde-format
 msgid ""
 "Click on the button, then enter the shortcut like you would in the program.\n"
