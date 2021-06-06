@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-06-05 00:25+0000\n"
+"POT-Creation-Date: 2021-06-06 00:26+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -34,16 +34,6 @@ msgstr "Opraumer fir den HTTP-Zwëschespäicher"
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr "Entfernt al Entréen aus dem HTTP-Zwëschespäicher"
-
-#: src/ioslaves/protocols/data.protocol:8
-msgctxt "Description"
-msgid "A kioslave for data URIs (rfc2397)"
-msgstr "E kioslave fir Donnéen-URIs (rfc2397)"
-
-#: src/ioslaves/protocols/mms.protocol:10
-msgctxt "Description"
-msgid "Microsoft Media Server Protocol"
-msgstr "Microsoft-Media Server-Protokoll"
 
 #: src/ioslaves/remote/kdedmodule/remotedirnotify.desktop:3
 msgctxt "Name"
@@ -1667,6 +1657,14 @@ msgstr "Plugin fir den Eegeschaften-Dialog"
 msgctxt "Name"
 msgid "Enhanced Browsing Plugin"
 msgstr "Erweiderte Browser-Plugin"
+
+#~ msgctxt "Description"
+#~ msgid "A kioslave for data URIs (rfc2397)"
+#~ msgstr "E kioslave fir Donnéen-URIs (rfc2397)"
+
+#~ msgctxt "Description"
+#~ msgid "Microsoft Media Server Protocol"
+#~ msgstr "Microsoft-Media Server-Protokoll"
 
 #, fuzzy
 #~| msgctxt "Comment"
