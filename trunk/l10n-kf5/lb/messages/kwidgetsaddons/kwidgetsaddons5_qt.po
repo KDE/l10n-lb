@@ -2142,42 +2142,14 @@ msgctxt "KEditListWidget|@action:button"
 msgid "Move &Down"
 msgstr "&Erofréckelen"
 
-#: kfontchooser.cpp:161
+#: kfontchooser.cpp:140
 #, fuzzy
 #| msgid "Requested Font"
 msgctxt "KFontChooser|@title:group"
 msgid "Requested Font"
 msgstr "Gewënscht Schrëft"
 
-#: kfontchooser.cpp:175
-#, fuzzy
-#| msgid "Font"
-msgctxt "KFontChooser|@option:check"
-msgid "Font"
-msgstr "Schrëft"
-
-#: kfontchooser.cpp:180
-#, fuzzy
-#| msgid "Font:"
-msgctxt "KFontChooser|@label"
-msgid "Font:"
-msgstr "Schrëft:"
-
-#: kfontchooser.cpp:212
-#, fuzzy
-#| msgid "Font style"
-msgctxt "KFontChooser|@option:check"
-msgid "Font style"
-msgstr "Schrëftstil"
-
-#: kfontchooser.cpp:217
-#, fuzzy
-#| msgid "Font style:"
-msgctxt "KFontChooser|@label"
-msgid "Font style:"
-msgstr "Schrëftstil:"
-
-#: kfontchooser.cpp:230
+#: kfontchooser.cpp:185
 #, fuzzy
 #| msgctxt "normal severity"
 #| msgid "Normal"
@@ -2185,14 +2157,14 @@ msgctxt "KFontChooser|@item font"
 msgid "Normal"
 msgstr "Normal"
 
-#: kfontchooser.cpp:231 kfontchooser.cpp:579
+#: kfontchooser.cpp:186 kfontchooser.cpp:468
 #, fuzzy
 #| msgid "Italic"
 msgctxt "KFontChooser|@item font"
 msgid "Italic"
 msgstr "Kursiv"
 
-#: kfontchooser.cpp:232 kfontchooser.cpp:580
+#: kfontchooser.cpp:187 kfontchooser.cpp:469
 #, fuzzy
 #| msgctxt "font style"
 #| msgid "Oblique"
@@ -2200,49 +2172,28 @@ msgctxt "KFontChooser|@item font"
 msgid "Oblique"
 msgstr "Schif"
 
-#: kfontchooser.cpp:233
+#: kfontchooser.cpp:188
 #, fuzzy
 #| msgid "Bold"
 msgctxt "KFontChooser|@item font"
 msgid "Bold"
 msgstr "Fett"
 
-#: kfontchooser.cpp:234
+#: kfontchooser.cpp:189
 #, fuzzy
 #| msgid "Bold Italic"
 msgctxt "KFontChooser|@item font"
 msgid "Bold Italic"
 msgstr "Fett kursiv"
 
-#: kfontchooser.cpp:251
-#, fuzzy
-#| msgid "Size"
-msgctxt "KFontChooser|@option:check"
-msgid "Size"
-msgstr "Gréisst"
-
-#: kfontchooser.cpp:256
-#, fuzzy
-#| msgid "Size:"
-msgctxt "KFontChooser|@label:listbox Font size"
-msgid "Size:"
-msgstr "Gréisst:"
-
-#: kfontchooser.cpp:273
-#, fuzzy
-#| msgid "Relative"
-msgctxt "KFontChooser|@item font size"
-msgid "Relative"
-msgstr "Relativ"
-
-#: kfontchooser.cpp:274
+#: kfontchooser.cpp:206
 #, fuzzy
 #| msgid "Font size<br><i>fixed</i> or <i>relative</i><br>to environment"
 msgctxt "KFontChooser|@info:tooltip"
 msgid "Font size<br /><i>fixed</i> or <i>relative</i><br />to environment"
 msgstr "Schrëftgréisst <br><i>fest</i> oder <i>relativ</i><br>zum Rescht"
 
-#: kfontchooser.cpp:275
+#: kfontchooser.cpp:207
 #, fuzzy
 #| msgid ""
 #| "Here you can switch between fixed font size and font size to be "
@@ -2258,7 +2209,7 @@ msgstr ""
 "Schrëftgréisst, déi dynamësch berechent gëtt, an déi sëch dem Rescht (z.B. "
 "der Gréisst vun de Schalteren oder der Gréisst vum Pabeier) upasst. "
 
-#: kfontchooser.cpp:331
+#: kfontchooser.cpp:250
 #, fuzzy
 #| msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
 msgctxt "KFontChooser|"
@@ -2266,25 +2217,7 @@ msgid "The Quick Brown Fox Jumps Over The Lazy Dog"
 msgstr ""
 "Ëch hätt gär dräi Wirschtercher mat Fritten a Ketchup, ouni Zalot a Geméis"
 
-#: kfontchooser.cpp:333
-#, fuzzy
-#| msgid ""
-#| "This sample text illustrates the current settings. You may edit it to "
-#| "test special characters."
-msgctxt "KFontChooser|@info:whatsthis"
-msgid ""
-"This sample text illustrates the current settings. You may edit it to test "
-"special characters."
-msgstr ""
-"Dëse Beispilltext illustréiert déi momentan Astellungen. Dir kënnt e "
-"veränneren fir d'Duerstellung vu speziellen Zeechen ze kucken."
-
-#: kfontchooser.cpp:348
-msgctxt "KFontChooser|@option:check"
-msgid "Show only monospaced fonts"
-msgstr ""
-
-#: kfontchooser.cpp:564
+#: kfontchooser.cpp:453
 #, fuzzy, qt-format
 #| msgid "%1%"
 msgctxt "KFontChooser|@item Font style"
@@ -2297,6 +2230,78 @@ msgstr "%1%"
 msgctxt "KFontChooserDialog|@title:window"
 msgid "Select Font"
 msgstr "Schrëft auswielen"
+
+#: kfontchooserwidget.ui:14
+msgctxt "KFontChooserWidget|"
+msgid "KFontChooserWidget"
+msgstr ""
+
+#: kfontchooserwidget.ui:31
+#, fuzzy
+#| msgid "Font"
+msgctxt "KFontChooserWidget|"
+msgid "Font"
+msgstr "Schrëft"
+
+#: kfontchooserwidget.ui:38
+#, fuzzy
+#| msgid "Font:"
+msgctxt "KFontChooserWidget|"
+msgid "Font:"
+msgstr "Schrëft:"
+
+#: kfontchooserwidget.ui:56
+#, fuzzy
+#| msgid "Font style"
+msgctxt "KFontChooserWidget|"
+msgid "Font style"
+msgstr "Schrëftstil"
+
+#: kfontchooserwidget.ui:63
+#, fuzzy
+#| msgid "Font style:"
+msgctxt "KFontChooserWidget|"
+msgid "Font style:"
+msgstr "Schrëftstil:"
+
+#: kfontchooserwidget.ui:81
+#, fuzzy
+#| msgid "Size"
+msgctxt "KFontChooserWidget|"
+msgid "Size"
+msgstr "Gréisst"
+
+#: kfontchooserwidget.ui:88
+#, fuzzy
+#| msgid "Size:"
+msgctxt "KFontChooserWidget|"
+msgid "Size:"
+msgstr "Gréisst:"
+
+#: kfontchooserwidget.ui:97
+#, fuzzy
+#| msgid "Relative"
+msgctxt "KFontChooserWidget|"
+msgid "Relative"
+msgstr "Relativ"
+
+#: kfontchooserwidget.ui:116
+#, fuzzy
+#| msgid ""
+#| "This sample text illustrates the current settings. You may edit it to "
+#| "test special characters."
+msgctxt "KFontChooserWidget|"
+msgid ""
+"This sample text illustrates the current settings. You may edit it to test "
+"special characters."
+msgstr ""
+"Dëse Beispilltext illustréiert déi momentan Astellungen. Dir kënnt e "
+"veränneren fir d'Duerstellung vu speziellen Zeechen ze kucken."
+
+#: kfontchooserwidget.ui:128
+msgctxt "KFontChooserWidget|"
+msgid "Show only monospaced fonts"
+msgstr ""
 
 #: kfontrequester.cpp:155
 #, fuzzy
