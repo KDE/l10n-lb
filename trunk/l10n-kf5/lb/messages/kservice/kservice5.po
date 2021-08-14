@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-05-20 00:14+0000\n"
+"POT-Creation-Date: 2021-08-14 00:14+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -133,7 +133,7 @@ msgid ""
 "%2\n"
 msgstr "De KLauncher konnt net iwwer DCOP erreecht ginn\n"
 
-#: kdeinit/ktoolinvocation_x11.cpp:232
+#: kdeinit/ktoolinvocation_x11.cpp:234
 #, kde-format
 msgid ""
 "Could not launch the mail client:\n"
@@ -144,7 +144,7 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdeinit/ktoolinvocation_x11.cpp:233
+#: kdeinit/ktoolinvocation_x11.cpp:235
 #, fuzzy, kde-format
 #| msgid "Could not Launch Mail Client"
 msgid "Could not launch Mail Client"
@@ -153,8 +153,8 @@ msgstr "Konnt de Mailprogramm net starten"
 #. i18n("Could not launch %1:\n\n%2", exe, error),
 #. i18n("Could not launch %1:\n\n%2", htmlApp->exec(), error),
 #. i18n("Could not launch %1:\n\n%2", exe, error),
-#: kdeinit/ktoolinvocation_x11.cpp:282 kdeinit/ktoolinvocation_x11.cpp:307
-#: kdeinit/ktoolinvocation_x11.cpp:326
+#: kdeinit/ktoolinvocation_x11.cpp:284 kdeinit/ktoolinvocation_x11.cpp:309
+#: kdeinit/ktoolinvocation_x11.cpp:328
 #, kde-format
 msgid ""
 "Could not launch the browser:\n"
@@ -165,19 +165,19 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdeinit/ktoolinvocation_x11.cpp:283 kdeinit/ktoolinvocation_x11.cpp:308
-#: kdeinit/ktoolinvocation_x11.cpp:327
+#: kdeinit/ktoolinvocation_x11.cpp:285 kdeinit/ktoolinvocation_x11.cpp:310
+#: kdeinit/ktoolinvocation_x11.cpp:329
 #, fuzzy, kde-format
 #| msgid "Could not Launch Browser"
 msgid "Could not launch Browser"
 msgstr "Konnt de Browser net starten"
 
-#: kdeinit/ktoolinvocation_x11.cpp:340
+#: kdeinit/ktoolinvocation_x11.cpp:342
 #, kde-format
 msgid "Unable to determine the default terminal"
 msgstr ""
 
-#: kdeinit/ktoolinvocation_x11.cpp:352
+#: kdeinit/ktoolinvocation_x11.cpp:354
 #, fuzzy, kde-format
 #| msgid ""
 #| "Could not launch the mail client:\n"
@@ -192,7 +192,7 @@ msgstr ""
 "\n"
 "%1"
 
-#: kdeinit/ktoolinvocation_x11.cpp:353
+#: kdeinit/ktoolinvocation_x11.cpp:355
 #, fuzzy, kde-format
 #| msgid "Could not Launch Mail Client"
 msgid "Could not launch Terminal Client"
@@ -203,12 +203,12 @@ msgstr "Konnt de Mailprogramm net starten"
 msgid "No service implementing %1"
 msgstr ""
 
-#: services/kservice.cpp:1041
+#: services/kservice.cpp:1044
 #, kde-format
 msgid "The provided service is not valid"
 msgstr ""
 
-#: services/kservice.cpp:1045
+#: services/kservice.cpp:1048
 #, kde-format
 msgid "The service '%1' provides no library or the Library key is missing"
 msgstr ""
