@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-25 00:26+0000\n"
+"POT-Creation-Date: 2021-08-29 00:27+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -20,7 +20,7 @@ msgctxt "Name"
 msgid "Execute action as root."
 msgstr ""
 
-#: src/ioslaves/file/kauth/file.actions:42
+#: src/ioslaves/file/kauth/file.actions:43
 msgctxt "Description"
 msgid "Root privileges are required to complete the action."
 msgstr ""
@@ -30,7 +30,7 @@ msgctxt "Name"
 msgid "HTTP Cache Cleaner"
 msgstr "Opraumer fir den HTTP-Zwëschespäicher"
 
-#: src/ioslaves/http/http_cache_cleaner.desktop:60
+#: src/ioslaves/http/http_cache_cleaner.desktop:61
 msgctxt "Comment"
 msgid "Cleans up old entries from the HTTP cache"
 msgstr "Entfernt al Entréen aus dem HTTP-Zwëschespäicher"
@@ -138,7 +138,7 @@ msgctxt "Comment"
 msgid "Credentials used to access SMB shares"
 msgstr ""
 
-#: src/kcms/smb/smb.desktop:142
+#: src/kcms/smb/smb.desktop:143
 msgctxt "X-KDE-Keywords"
 msgid ""
 "SMB,SAMBA,SMB client,Windows network,LAN,Network,neighborhood,Server,"
@@ -181,12 +181,12 @@ msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "Ongültegt Proxy-Skript"
 
-#: src/kpac/proxyscout.notifyrc:109
+#: src/kpac/proxyscout.notifyrc:110
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr "D'Proxy-Configuratiounsskript, dat erofgelude gouf, ass ongülteg"
 
-#: src/kpac/proxyscout.notifyrc:165
+#: src/kpac/proxyscout.notifyrc:167
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Script download error"
@@ -194,12 +194,12 @@ msgctxt "Name"
 msgid "Script Download Error"
 msgstr "Feeler beim Erofluede vum Skript"
 
-#: src/kpac/proxyscout.notifyrc:217
+#: src/kpac/proxyscout.notifyrc:220
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr "D'Proxy-Konfiguratiounsskript konnt net erofgeluede ginn"
 
-#: src/kpac/proxyscout.notifyrc:274
+#: src/kpac/proxyscout.notifyrc:278
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Script evaluation error"
@@ -207,7 +207,7 @@ msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr "Feeler beim Evaluéieren vum Skript"
 
-#: src/kpac/proxyscout.notifyrc:325
+#: src/kpac/proxyscout.notifyrc:330
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "Et gouf e Feeler beim Ausféiere vum Proxy-Konfiguratiounsskript"
@@ -390,7 +390,7 @@ msgctxt "Name"
 msgid "Baidu"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/baidu.desktop:73
+#: src/urifilters/ikws/searchproviders/baidu.desktop:74
 msgctxt "Query"
 msgid "https://www.baidu.com/s?wd=\\\\{@}"
 msgstr ""
@@ -548,7 +548,7 @@ msgctxt "Name"
 msgid "DeepL"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/deepl.desktop:37
+#: src/urifilters/ikws/searchproviders/deepl.desktop:38
 msgctxt "Query"
 msgid "https://www.deepl.com/translator#any/any/\\\\{@}"
 msgstr ""
@@ -779,7 +779,7 @@ msgctxt "Name"
 msgid "GitLab"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/gitlab.desktop:44
+#: src/urifilters/ikws/searchproviders/gitlab.desktop:45
 msgctxt "Query"
 msgid "https://gitlab.com/search?search=\\\\{@}"
 msgstr ""
@@ -1268,7 +1268,7 @@ msgctxt "Name"
 msgid "Qwant"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant.desktop:51
+#: src/urifilters/ikws/searchproviders/qwant.desktop:52
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=web"
 msgstr ""
@@ -1291,7 +1291,7 @@ msgctxt "Name"
 msgid "Qwant News"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_news.desktop:49
+#: src/urifilters/ikws/searchproviders/qwant_news.desktop:50
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=news"
 msgstr ""
@@ -1311,7 +1311,7 @@ msgctxt "Name"
 msgid "Qwant Social"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_social.desktop:49
+#: src/urifilters/ikws/searchproviders/qwant_social.desktop:50
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=social"
 msgstr ""
@@ -1559,7 +1559,7 @@ msgctxt "Name"
 msgid "Yahoo"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/yahoo.desktop:76
+#: src/urifilters/ikws/searchproviders/yahoo.desktop:77
 msgctxt "Query"
 msgid ""
 "https://search.yahoo.com/search?toggle=1&cop=mss&ei=UTF-8&fr=yfp-t-701&p=\\"
