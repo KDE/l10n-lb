@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-08-18 00:14+0000\n"
+"POT-Creation-Date: 2021-09-04 00:14+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -834,14 +834,14 @@ msgstr ""
 msgid "Download New %1..."
 msgstr "Nei %1 eroflueden"
 
-#: qtquick/qml/Dialog.qml:42
+#: qtquick/qml/Dialog.qml:41
 #, fuzzy, kde-format
 #| msgid "Download New %1"
 msgctxt "The dialog title when we know which type of stuff is being requested"
 msgid "Download New %1"
 msgstr "Nei %1 eroflueden"
 
-#: qtquick/qml/Dialog.qml:42
+#: qtquick/qml/Dialog.qml:41
 #, fuzzy, kde-format
 #| msgid "Download New Stuff"
 msgctxt ""
@@ -850,7 +850,7 @@ msgctxt ""
 msgid "Download New Stuff"
 msgstr "Nei Saachen eroflueden"
 
-#: qtquick/qml/Dialog.qml:128
+#: qtquick/qml/Dialog.qml:127
 #, fuzzy, kde-format
 #| msgid "Continue operation"
 msgid "Contribute your own..."
