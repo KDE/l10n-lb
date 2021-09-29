@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-09-15 00:15+0000\n"
+"POT-Creation-Date: 2021-09-29 00:14+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -216,7 +216,7 @@ msgid_plural "Loading %1 previews"
 msgstr[0] "Drocker&virschau..."
 msgstr[1] "Drocker&virschau..."
 
-#: core/engine.cpp:1216
+#: core/engine.cpp:1215
 #, fuzzy, kde-format
 msgid ""
 "Failed to adopt '%1'\n"
