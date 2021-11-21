@@ -1059,6 +1059,12 @@ msgctxt "Language|"
 msgid "OpenSCAD"
 msgstr ""
 
+#, fuzzy
+#| msgid "Normal Text"
+msgctxt "Language|"
+msgid "Org Mode"
+msgstr "Normalen Text"
+
 msgctxt "Language|"
 msgid "Overpass QL"
 msgstr ""
@@ -2728,11 +2734,6 @@ msgstr ""
 
 #~ msgid "Overwrite File?"
 #~ msgstr "Datei iwwerschreiwen ?"
-
-#, fuzzy
-#~| msgid "Normal Text"
-#~ msgid "Normal Mode"
-#~ msgstr "Normalen Text"
 
 #, fuzzy
 #~| msgid "E&ncoding"
