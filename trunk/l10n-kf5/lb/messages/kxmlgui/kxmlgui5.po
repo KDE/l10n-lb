@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-04 00:15+0000\n"
+"POT-Creation-Date: 2021-11-24 00:25+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -700,43 +700,32 @@ msgstr "<h2>Kuerzbefehler ewechgeholl</h2>"
 msgid "<h2>Accelerators added (just for your info)</h2>"
 msgstr "<h2>Kuerzbefehler dobäigemaach (nëmme fir bescheed ze soen)</h2>"
 
-#: kedittoolbar.cpp:44
-#, kde-format
-msgid "--- separator ---"
-msgstr "--- Trenner ---"
-
-#: kedittoolbar.cpp:45
-#, fuzzy, kde-format
-#| msgid "--- line separator ---"
-msgid "--- expanding spacer ---"
-msgstr "--- Trennlinn ---"
-
-#: kedittoolbar.cpp:338
+#: kedittoolbar.cpp:332
 #, fuzzy, kde-format
 #| msgid "Change &Icon..."
 msgctxt "@title:window"
 msgid "Change Text"
 msgstr "&Symbol änneren..."
 
-#: kedittoolbar.cpp:348
+#: kedittoolbar.cpp:342
 #, fuzzy, kde-format
 #| msgid "Find Text"
 msgid "Icon te&xt:"
 msgstr "Text sichen"
 
-#: kedittoolbar.cpp:353
+#: kedittoolbar.cpp:347
 #, kde-format
 msgctxt "@option:check"
 msgid "&Hide text when toolbar shows text alongside icons"
 msgstr ""
 
-#: kedittoolbar.cpp:602
+#: kedittoolbar.cpp:596
 #, fuzzy, kde-format
 msgctxt "@title:window"
 msgid "Configure Toolbars"
 msgstr "Toolbare configuréieren"
 
-#: kedittoolbar.cpp:665
+#: kedittoolbar.cpp:659
 #, kde-format
 msgid ""
 "Do you really want to reset all toolbars of this application to their "
@@ -745,17 +734,17 @@ msgstr ""
 "Wëllt dir wiirklech all Toolbare vun dësem Programm op hir "
 "Standardastellungen zerécksetzen? D'Ännerunge ginn direkt virgeholl."
 
-#: kedittoolbar.cpp:666
+#: kedittoolbar.cpp:660
 #, fuzzy, kde-format
 msgid "Reset Toolbars"
 msgstr "Toolbaren zerécksetzen"
 
-#: kedittoolbar.cpp:667
+#: kedittoolbar.cpp:661
 #, kde-format
 msgid "Reset"
 msgstr "Zerécksetzen"
 
-#: kedittoolbar.cpp:998
+#: kedittoolbar.cpp:992
 #, fuzzy, kde-format
 msgid "&Toolbar:"
 msgstr "&Toolbar:"
@@ -767,61 +756,72 @@ msgstr "&Toolbar:"
 #. del_toolbar->setPixmap(BarIcon("edit-delete", KIconLoader::SizeSmall));
 #. del_toolbar->setEnabled(false); // disabled until implemented
 #. our list of inactive actions
-#: kedittoolbar.cpp:1014
+#: kedittoolbar.cpp:1008
 #, kde-format
 msgid "A&vailable actions:"
 msgstr "&Verfügbar Aktiounen:"
 
-#: kedittoolbar.cpp:1035 kedittoolbar.cpp:1060
+#: kedittoolbar.cpp:1029 kedittoolbar.cpp:1054
 #, fuzzy, kde-format
 #| msgid "Filter:"
 msgid "Filter"
 msgstr "Filter:"
 
-#: kedittoolbar.cpp:1038
+#: kedittoolbar.cpp:1032
 #, kde-format
 msgid "Curr&ent actions:"
 msgstr "Ug&ewisen Aktiounen:"
 
-#: kedittoolbar.cpp:1063
+#: kedittoolbar.cpp:1057
 #, fuzzy, kde-format
 #| msgid "Change &Icon..."
 msgctxt "@action:button"
 msgid "Change &Icon..."
 msgstr "&Symbol änneren..."
 
-#: kedittoolbar.cpp:1072
+#: kedittoolbar.cpp:1066
 #, fuzzy, kde-format
 #| msgid "Change &Icon..."
 msgctxt "@action:button"
 msgid "Change Te&xt..."
 msgstr "&Symbol änneren..."
 
-#: kedittoolbar.cpp:1234
+#: kedittoolbar.cpp:1208
+#, kde-format
+msgid "--- separator ---"
+msgstr "--- Trenner ---"
+
+#: kedittoolbar.cpp:1209
+#, fuzzy, kde-format
+#| msgid "--- line separator ---"
+msgid "--- expanding spacer ---"
+msgstr "--- Trennlinn ---"
+
+#: kedittoolbar.cpp:1231
 #, fuzzy, kde-format
 #| msgid "%1%"
 msgctxt "@item:intable Action name in toolbar editor"
 msgid "%1"
 msgstr "%1%"
 
-#: kedittoolbar.cpp:1262
+#: kedittoolbar.cpp:1259
 #, kde-format
 msgid ""
 "This element will be replaced with all the elements of an embedded component."
 msgstr ""
 "Dësst Element gëtt duerch all Elementer vun enger agebetter Komponent ersat."
 
-#: kedittoolbar.cpp:1264
+#: kedittoolbar.cpp:1261
 #, kde-format
 msgid "<Merge>"
 msgstr "<Merge>"
 
-#: kedittoolbar.cpp:1266
+#: kedittoolbar.cpp:1263
 #, kde-format
 msgid "<Merge %1>"
 msgstr "<Merge %1>"
 
-#: kedittoolbar.cpp:1276
+#: kedittoolbar.cpp:1273
 #, fuzzy, kde-format
 msgid ""
 "This is a dynamic list of actions. You can move it, but if you remove it you "
@@ -830,19 +830,19 @@ msgstr ""
 "Dat hei ass eng dynamësch Lëscht vun Aktiounen. Dir kënn se réckelen, mais "
 "wann dir se läscht, kënnt dir se net méi zeréckhuelen."
 
-#: kedittoolbar.cpp:1277
+#: kedittoolbar.cpp:1274
 #, kde-format
 msgid "ActionList: %1"
 msgstr "Aktiounelëscht: %1"
 
-#: kedittoolbar.cpp:1378 kedittoolbar.cpp:1403
+#: kedittoolbar.cpp:1375 kedittoolbar.cpp:1400
 #, fuzzy, kde-format
 #| msgid "%1%"
 msgctxt "@label Action tooltip in toolbar editor, below the action list"
 msgid "%1"
 msgstr "%1%"
 
-#: kedittoolbar.cpp:1631
+#: kedittoolbar.cpp:1628
 #, fuzzy, kde-format
 #| msgid "Change &Icon..."
 msgid "Change Icon"
