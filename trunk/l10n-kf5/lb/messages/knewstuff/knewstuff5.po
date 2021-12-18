@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-07 00:40+0000\n"
+"POT-Creation-Date: 2021-12-18 00:40+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -51,7 +51,7 @@ msgstr "Et ass näischt ersat ginn."
 msgid "You are now a fan."
 msgstr ""
 
-#: attica/atticaprovider.cpp:579 core/engine.cpp:389 opds/opdsprovider.cpp:284
+#: attica/atticaprovider.cpp:579 core/engine.cpp:388 opds/opdsprovider.cpp:288
 #, kde-format
 msgid ""
 "The service is currently undergoing maintenance and is expected to be back "
@@ -86,7 +86,7 @@ msgstr ""
 msgid "Download New Stuff..."
 msgstr "Nei Saachen eroflueden"
 
-#: core/commentsmodel.cpp:171
+#: core/commentsmodel.cpp:168
 #, fuzzy, kde-format
 #| msgctxt "QFile"
 #| msgid "Unknown error"
@@ -103,84 +103,84 @@ msgid ""
 "%1"
 msgstr "E Feeler ass beim Luede vun <B>%1</B> opgetrueden:"
 
-#: core/engine.cpp:204
+#: core/engine.cpp:203
 #, fuzzy, kde-format
 #| msgid "Install"
 msgid "Initializing"
 msgstr "Installéieren"
 
-#: core/engine.cpp:240
+#: core/engine.cpp:239
 #, fuzzy, kde-format
 #| msgid "Configuration files"
 msgid "Configuration file exists, but cannot be opened: \"%1\""
 msgstr "Configuratiounsdateien"
 
-#: core/engine.cpp:253
+#: core/engine.cpp:252
 #, fuzzy, kde-format
 #| msgid "Configuration files"
 msgid "Configuration file is invalid: \"%1\""
 msgstr "Configuratiounsdateien"
 
-#: core/engine.cpp:262
+#: core/engine.cpp:261
 #, fuzzy, kde-format
 #| msgid "Unshade"
 msgid "Use"
 msgstr "Erofklappen"
 
-#: core/engine.cpp:279
+#: core/engine.cpp:278
 #, kde-format
 msgid ""
 "Could not initialise the installation handler for %1\n"
 "This is a critical error and should be reported to the application author"
 msgstr ""
 
-#: core/engine.cpp:354
+#: core/engine.cpp:353
 #, fuzzy, kde-format
 #| msgid "View Frame Information"
 msgid "Loading provider information"
 msgstr "Frame-Informatioun kucken"
 
-#: core/engine.cpp:415
+#: core/engine.cpp:414
 #, kde-format
 msgid "Could not load get hot new stuff providers from file: %1"
 msgstr ""
 
-#: core/engine.cpp:445
+#: core/engine.cpp:444
 #, fuzzy, kde-format
 #| msgid "Error parsing providers list."
 msgid "Error initializing provider."
 msgstr "Feeler beim duerchliese vun der Providerlëscht."
 
-#: core/engine.cpp:449 core/engine.cpp:1017
+#: core/engine.cpp:448 core/engine.cpp:1016
 #, fuzzy, kde-format
 #| msgid "Loading Applet"
 msgid "Loading data"
 msgstr "Amgaang, de Miniprogramm ze lueden"
 
-#: core/engine.cpp:491
+#: core/engine.cpp:490
 #, kde-format
 msgid "Loading data from provider"
 msgstr ""
 
-#: core/engine.cpp:496
+#: core/engine.cpp:495
 #, fuzzy, kde-format
 #| msgid "Loading resource '%1' failed!"
 msgid "Loading of providers from file: %1 failed"
 msgstr "D'Quell '%1' konnt net geluede ginn!"
 
-#: core/engine.cpp:744
+#: core/engine.cpp:743
 #, kde-format
 msgid ""
 "Could not perform an installation of the entry %1 as it does not have any "
 "downloadable items defined. Please contact the author so they can fix this."
 msgstr ""
 
-#: core/engine.cpp:867
+#: core/engine.cpp:866
 #, kde-format
 msgid "Pick Update Item"
 msgstr ""
 
-#: core/engine.cpp:869
+#: core/engine.cpp:868
 #, kde-format
 msgid ""
 "Please pick the item from the list below which should be used to apply this "
@@ -188,27 +188,27 @@ msgid ""
 "original item, which was named %1"
 msgstr ""
 
-#: core/engine.cpp:888
+#: core/engine.cpp:887
 #, kde-format
 msgid ""
 "We failed to identify a good link for updating %1, and are unable to perform "
 "the update"
 msgstr ""
 
-#: core/engine.cpp:967
+#: core/engine.cpp:966
 #, fuzzy, kde-format
 #| msgid "Redo: %1"
 msgid "Re: %1"
 msgstr "Nees zeréck: %1"
 
-#: core/engine.cpp:1009 ui/itemsgridviewdelegate.cpp:329
+#: core/engine.cpp:1008 ui/itemsgridviewdelegate.cpp:329
 #: ui/itemsviewdelegate.cpp:117
 #, fuzzy, kde-format
 #| msgid "Install"
 msgid "Installing"
 msgstr "Installéieren"
 
-#: core/engine.cpp:1013
+#: core/engine.cpp:1012
 #, fuzzy, kde-format
 #| msgid "Print Previe&w..."
 msgid "Loading one preview"
@@ -216,7 +216,7 @@ msgid_plural "Loading %1 previews"
 msgstr[0] "Drocker&virschau..."
 msgstr[1] "Drocker&virschau..."
 
-#: core/engine.cpp:1215
+#: core/engine.cpp:1214
 #, fuzzy, kde-format
 msgid ""
 "Failed to adopt '%1'\n"
@@ -413,14 +413,14 @@ msgid ""
 "uninstallation process"
 msgstr ""
 
-#: core/jobs/filecopyworker.cpp:52
+#: core/jobs/filecopyworker.cpp:49
 #, fuzzy, kde-format
 msgid "Could not open %1 for writing"
 msgstr ""
 "Konnt d'Bibliothéik '%1' net opmaachen.\n"
 "%2"
 
-#: core/jobs/filecopyworker.cpp:55
+#: core/jobs/filecopyworker.cpp:52
 #, fuzzy, kde-format
 msgid "Could not open %1 for reading"
 msgstr ""
@@ -681,21 +681,21 @@ msgstr "Fax Doheem"
 msgid "Install"
 msgstr "Installéieren"
 
-#: kmoretools/kmoretools.cpp:527
+#: kmoretools/kmoretools.cpp:521
 #, fuzzy, kde-format
 #| msgid "Install"
 msgctxt "@action:inmenu"
 msgid "Not installed:"
 msgstr "Installéieren"
 
-#: kmoretools/kmoretools.cpp:625
+#: kmoretools/kmoretools.cpp:618
 #, fuzzy, kde-format
 #| msgid "More..."
 msgctxt "@action:inmenu"
 msgid "More"
 msgstr "Méi..."
 
-#: kmoretools/kmoretools.cpp:661
+#: kmoretools/kmoretools.cpp:654
 #, fuzzy, kde-format
 #| msgid "Confi&gure..."
 msgctxt "@action:inmenu"
@@ -735,20 +735,20 @@ msgstr "Configuréieren"
 msgid "Configure menu - %1"
 msgstr "%1 &configuréieren..."
 
-#: kmoretools/kmoretoolsmenufactory.cpp:178
+#: kmoretools/kmoretoolsmenufactory.cpp:176
 #, fuzzy, kde-format
 #| msgid "Print header"
 msgctxt "@action:inmenu %1=\"$GenericName\""
 msgid "%1 - current folder"
 msgstr "Header drécken"
 
-#: kmoretools/kmoretoolsmenufactory.cpp:185
+#: kmoretools/kmoretoolsmenufactory.cpp:183
 #, kde-format
 msgctxt "@action:inmenu %1=\"$GenericName\""
 msgid "%1 - current device"
 msgstr ""
 
-#: kmoretools/kmoretoolsmenufactory.cpp:199
+#: kmoretools/kmoretoolsmenufactory.cpp:197
 #, kde-format
 msgctxt "@action:inmenu %1=\"$GenericName\""
 msgid "%1 - all devices"
@@ -813,7 +813,7 @@ msgstr ""
 msgid "More tools..."
 msgstr "Méi..."
 
-#: qtquick/categoriesmodel.cpp:66
+#: qtquick/categoriesmodel.cpp:63
 #, fuzzy, kde-format
 #| msgid "Categories"
 msgctxt ""
@@ -821,7 +821,7 @@ msgctxt ""
 msgid "All Categories"
 msgstr "Kategorien"
 
-#: qtquick/categoriesmodel.cpp:95
+#: qtquick/categoriesmodel.cpp:92
 #, fuzzy, kde-format
 #| msgctxt "QFile"
 #| msgid "Unknown error"
@@ -1434,7 +1434,7 @@ msgid ""
 "content added."
 msgstr ""
 
-#: qtquick/quickengine.cpp:177
+#: qtquick/quickengine.cpp:174
 #, kde-format
 msgctxt ""
 "An informational message which is shown to inform the user they are not "
@@ -1444,41 +1444,41 @@ msgid ""
 "please contact the person in charge of your permissions."
 msgstr ""
 
-#: qtquick/searchpresetmodel.cpp:58
+#: qtquick/searchpresetmodel.cpp:55
 #, fuzzy, kde-format
 #| msgid "Back"
 msgctxt "Knewstuff5"
 msgid "Back"
 msgstr "Zeréck"
 
-#: qtquick/searchpresetmodel.cpp:61
+#: qtquick/searchpresetmodel.cpp:58
 #, kde-format
 msgctxt "Knewstuff5"
 msgid "Popular"
 msgstr ""
 
-#: qtquick/searchpresetmodel.cpp:64
+#: qtquick/searchpresetmodel.cpp:61
 #, fuzzy, kde-format
 #| msgid "Saturday"
 msgctxt "Knewstuff5"
 msgid "Featured"
 msgstr "Samschten"
 
-#: qtquick/searchpresetmodel.cpp:67
+#: qtquick/searchpresetmodel.cpp:64
 #, fuzzy, kde-format
 #| msgid "Restart"
 msgctxt "Knewstuff5"
 msgid "Restart"
 msgstr "Nei ufänken"
 
-#: qtquick/searchpresetmodel.cpp:70
+#: qtquick/searchpresetmodel.cpp:67
 #, fuzzy, kde-format
 #| msgid "New"
 msgctxt "Knewstuff5"
 msgid "New"
 msgstr "Nei"
 
-#: qtquick/searchpresetmodel.cpp:73
+#: qtquick/searchpresetmodel.cpp:70
 #, fuzzy, kde-format
 #| msgctxt "Opposite to End"
 #| msgid "Home"
@@ -1486,39 +1486,39 @@ msgctxt "Knewstuff5"
 msgid "Home"
 msgstr "Ufank"
 
-#: qtquick/searchpresetmodel.cpp:76
+#: qtquick/searchpresetmodel.cpp:73
 #, kde-format
 msgctxt "Knewstuff5"
 msgid "Shelf"
 msgstr ""
 
-#: qtquick/searchpresetmodel.cpp:79
+#: qtquick/searchpresetmodel.cpp:76
 #, fuzzy, kde-format
 #| msgid "Up"
 msgctxt "Knewstuff5"
 msgid "Up"
 msgstr "Erop"
 
-#: qtquick/searchpresetmodel.cpp:82
+#: qtquick/searchpresetmodel.cpp:79
 #, kde-format
 msgctxt "Knewstuff5"
 msgid "Recommended"
 msgstr ""
 
-#: qtquick/searchpresetmodel.cpp:85
+#: qtquick/searchpresetmodel.cpp:82
 #, fuzzy, kde-format
 msgctxt "Knewstuff5"
 msgid "Subscriptions"
 msgstr "&Handschrëft"
 
-#: qtquick/searchpresetmodel.cpp:88
+#: qtquick/searchpresetmodel.cpp:85
 #, fuzzy, kde-format
 #| msgid "Show all options"
 msgctxt "Knewstuff5"
 msgid "All Entries"
 msgstr "All Optioune weisen"
 
-#: qtquick/searchpresetmodel.cpp:91
+#: qtquick/searchpresetmodel.cpp:88
 #, kde-format
 msgctxt "Knewstuff5"
 msgid "Search Preset: %1"

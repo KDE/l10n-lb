@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-11-26 00:24+0000\n"
+"POT-Creation-Date: 2021-12-18 00:40+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -78,12 +78,34 @@ msgid ""
 "Please choose another one."
 msgstr ""
 
-#: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:171
+#: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:142
+#, fuzzy, kde-format
+msgid "Global Shortcut Shadowing"
+msgstr "Kierzelen"
+
+#: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:145
+#, kde-format
+msgid "The '%1' key combination is shadowed by following global actions:\n"
+msgstr ""
+
+#: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:147
+#: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:153
+#, fuzzy, kde-format
+#| msgid "Content information: %1\n"
+msgid "Action '%1' in context '%2'\n"
+msgstr "Beschreiwung vum Inhalt: %1\n"
+
+#: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:151
+#, kde-format
+msgid "The '%1' key combination shadows following global actions:\n"
+msgstr ""
+
+#: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:190
 #, kde-format
 msgid "Conflict with Standard Application Shortcut"
 msgstr "Konflikt mat der Standardkombinatioun vum Programm"
 
-#: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:173
+#: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:192
 #, fuzzy, kde-format
 msgid ""
 "The '%1' key combination is also used for the standard action \"%2\" that "
@@ -93,7 +115,7 @@ msgstr ""
 "D'Tastekombinatioun \"%1\" ass scho mat der Standardaktioun \"%2\" verbonn.\n"
 "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
 
-#: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:179
+#: qmlcontrols/kquickcontrols/private/keysequencehelper.cpp:198
 #, kde-format
 msgid "Reassign"
 msgstr "Nei zouuerdnen"
@@ -4742,11 +4764,6 @@ msgstr ""
 #~ "D'Tastekombinatioun \"%1\" ass scho mat der globaler Aktioun \"%2\" "
 #~ "verbonn.\n"
 #~ "Wëllt dir trotzdem déi nei Zouuerdnung auswielen?"
-
-#, fuzzy
-#~| msgid "Content information: %1\n"
-#~ msgid "In context '%1' for action '%2'\n"
-#~ msgstr "Beschreiwung vum Inhalt: %1\n"
 
 #, fuzzy
 #~| msgid "Conflict with Global Shortcut"
@@ -13531,10 +13548,6 @@ msgstr ""
 #~ "Benotzt dëse Knäppche fir eng nei Tastekombinatioun ze definéieren. Wann "
 #~ "dir ën eng Kéier ugeklickt hutt, kënnt dir déi gewënscht Kombinatioun "
 #~ "antippen."
-
-#, fuzzy
-#~ msgid "Global Shortcut(s)"
-#~ msgstr "Kierzelen"
 
 #~ msgid "Advanced"
 #~ msgstr "Avancéiert"
