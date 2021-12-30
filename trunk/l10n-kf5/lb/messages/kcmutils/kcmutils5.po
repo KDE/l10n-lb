@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-26 00:40+0000\n"
+"POT-Creation-Date: 2021-12-30 00:40+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -114,7 +114,7 @@ msgctxt "Argument is application name"
 msgid "This configuration section is already opened in %1"
 msgstr "Dëss Configuratioun ass schonn am %1 opgemaach"
 
-#: kcmultidialog.cpp:52
+#: kcmultidialog.cpp:51
 #, fuzzy, kde-format
 #| msgid ""
 #| "The document \"%1\" has been modified.\n"
@@ -126,13 +126,13 @@ msgstr ""
 "Den Dokument \"%1\" ass verännert ginn.\n"
 "Wëllt dir e späicheren oder sou si loosse, wéi e war?"
 
-#: kcmultidialog.cpp:54
+#: kcmultidialog.cpp:53
 #, fuzzy, kde-format
 #| msgid "Apply settings"
 msgid "Apply Settings"
 msgstr "Astellungen uwenden"
 
-#: kcmultidialog.cpp:259 kpluginselector.cpp:809 kpluginwidget.cpp:360
+#: kcmultidialog.cpp:258 kpluginselector.cpp:809 kpluginwidget.cpp:360
 #, kde-format
 msgid "Configure"
 msgstr "Configuréieren"
