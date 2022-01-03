@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-02 00:43+0000\n"
+"POT-Creation-Date: 2022-01-03 00:40+0000\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -4987,7 +4987,7 @@ msgstr "Abettbar Editor-Komponent"
 
 #: utils/kateglobal.cpp:68
 #, fuzzy, kde-format
-msgid "(c) 2000-2021 The Kate Authors"
+msgid "(c) 2000-2022 The Kate Authors"
 msgstr "(c) 2000-2004 D'Kate-Auteuren"
 
 #: utils/kateglobal.cpp:88
