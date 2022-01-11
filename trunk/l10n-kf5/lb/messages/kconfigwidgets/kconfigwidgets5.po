@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-26 00:40+0000\n"
+"POT-Creation-Date: 2022-01-11 00:41+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -75,7 +75,7 @@ msgctxt "@title:window"
 msgid "Configure"
 msgstr "Configuréieren"
 
-#: khamburgermenu.cpp:126
+#: khamburgermenu.cpp:128
 #, fuzzy, kde-format
 #| msgctxt "QAccel"
 #| msgid "Menu"
@@ -83,23 +83,27 @@ msgctxt "@action:inmenu General purpose menu"
 msgid "&Menu"
 msgstr "Menü"
 
-#: khamburgermenu.cpp:342
+#: khamburgermenu.cpp:334
 #, fuzzy, kde-format
-#| msgid "Content information: %1\n"
-msgctxt "@action:inmenu A menu text advertising its contents (more features)."
-msgid "For %1 more action:"
-msgid_plural "For %1 more actions:"
-msgstr[0] "Beschreiwung vum Inhalt: %1\n"
-msgstr[1] "Beschreiwung vum Inhalt: %1\n"
+#| msgid "Show all options"
+msgctxt "@action:inmenu A menu item that advertises and enables the menubar"
+msgid "Show &Menubar with All Actions"
+msgstr "All Optioune weisen"
 
-#: khamburgermenu.cpp:345
-#, kde-format
+#: khamburgermenu.cpp:362
+#, fuzzy, kde-format
+#| msgid "More..."
+msgctxt "@action:inmenu A menu text advertising its contents (more features)."
+msgid "More"
+msgstr "Méi..."
+
+#: khamburgermenu.cpp:363
+#, fuzzy, kde-format
+#| msgid "Action"
 msgctxt ""
 "@action:inmenu A section heading advertising the contents of the menu bar"
-msgid "%1 Menu Bar Exclusive Action"
-msgid_plural "%1 Menu Bar Exclusive Actions"
-msgstr[0] ""
-msgstr[1] ""
+msgid "More Actions"
+msgstr "Aktioun"
 
 #: krecentfilesaction.cpp:68
 #, fuzzy, kde-format
@@ -650,6 +654,15 @@ msgstr "&Zeréck"
 msgctxt "@action:button Goes to next tip, opposite to previous"
 msgid "&Next"
 msgstr "&Weider"
+
+#, fuzzy
+#~| msgid "Content information: %1\n"
+#~ msgctxt ""
+#~ "@action:inmenu A menu text advertising its contents (more features)."
+#~ msgid "For %1 more action:"
+#~ msgid_plural "For %1 more actions:"
+#~ msgstr[0] "Beschreiwung vum Inhalt: %1\n"
+#~ msgstr[1] "Beschreiwung vum Inhalt: %1\n"
 
 #, fuzzy
 #~ msgid "Switch Application &Language..."
@@ -1848,9 +1861,6 @@ msgstr "&Weider"
 
 #~ msgid "Show %1 specific options"
 #~ msgstr "Speziell Optioune fir %1 uweisen"
-
-#~ msgid "Show all options"
-#~ msgstr "All Optioune weisen"
 
 #~ msgid "Show author information"
 #~ msgstr "Informatiounen iwwert den Auteur uweisen"
@@ -4107,11 +4117,6 @@ msgstr "&Weider"
 
 #~ msgid "Delete"
 #~ msgstr "Läschen"
-
-#, fuzzy
-#~| msgid "Action"
-#~ msgid "More Actions"
-#~ msgstr "Aktioun"
 
 #, fuzzy
 #~| msgid "Defaults"
@@ -9766,14 +9771,6 @@ msgstr "&Weider"
 #~| msgid "Asterisk"
 #~ msgid "After"
 #~ msgstr "Asterisk"
-
-#, fuzzy
-#~| msgid "More..."
-#~ msgctxt ""
-#~ "@option:check An item in a list of resources that allows to query for "
-#~ "more resources to put in the list"
-#~ msgid "More..."
-#~ msgstr "Méi..."
 
 #, fuzzy
 #~ msgctxt "@option:check A filter on file type"
