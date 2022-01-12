@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2020-10-24 02:12+0200\n"
+"POT-Creation-Date: 2022-01-12 00:41+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -365,12 +365,12 @@ msgstr[0] "Dateie &verschécken"
 msgstr[1] "Dateie &verschécken"
 
 #: html/html_formimpl.cpp:1687 html/html_formimpl.cpp:1908 khtml_part.cpp:4962
-#: khtmlview.cpp:2845 khtmlview.cpp:2889
+#: khtmlview.cpp:2848 khtmlview.cpp:2892
 #, kde-format
 msgid "Submit"
 msgstr "Verschécken"
 
-#: html/html_formimpl.cpp:1900 khtmlview.cpp:2860 khtmlview.cpp:2895
+#: html/html_formimpl.cpp:1900 khtmlview.cpp:2863 khtmlview.cpp:2898
 #, kde-format
 msgid "Reset"
 msgstr "Zerécksetzen"
@@ -1585,7 +1585,7 @@ msgstr "Bild - %1x%2 Pixelen"
 msgid "Done."
 msgstr "Fäerdeg."
 
-#: khtmlview.cpp:1900
+#: khtmlview.cpp:1903
 #, kde-format
 msgid "Access Keys activated"
 msgstr "Kuerztasten ugeschalt"
