@@ -2539,6 +2539,13 @@ msgid "Launch the MIME type editor"
 msgstr ""
 
 #: kmimetypeeditor.cpp:27
+#, fuzzy
+#| msgid "Could not find '%1' executable."
+msgctxt "QObject|"
+msgid "Could not find the \"keditfiletype5\" executable in PATH."
+msgstr "Konnt de Programm '%1' net fannen."
+
+#: kmimetypeeditor.cpp:37
 msgctxt "QObject|"
 msgid ""
 "Could not start the \"keditfiletype5\" executable, please check your "
@@ -9180,9 +9187,6 @@ msgstr ""
 #~ "Kann keen neie Prozess erstellen.\n"
 #~ "Déi maximal Unzuel vu Prozesser kéint erreecht sinn oder déi vun iech "
 #~ "agestallte maximal Unzuel vu Prozesser kéint erreecht sinn."
-
-#~ msgid "Could not find '%1' executable."
-#~ msgstr "Konnt de Programm '%1' net fannen."
 
 #~ msgid ""
 #~ "Could not open library '%1'.\n"
