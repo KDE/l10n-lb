@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-04-15 00:43+0000\n"
+"POT-Creation-Date: 2022-04-20 00:41+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1229,12 +1229,12 @@ msgstr ""
 msgid "Go to..."
 msgstr "&Goen..."
 
-#: qtquick/qml/Page.qml:513
+#: qtquick/qml/Page.qml:497
 #, fuzzy, kde-format
 #| msgid "Print Previe&w..."
 msgctxt ""
 "A text shown beside a busy indicator suggesting that data is being fetched"
-msgid "Loading more..."
+msgid "Loading more…"
 msgstr "Drocker&virschau..."
 
 #: qtquick/qml/private/EntryCommentDelegate.qml:110
