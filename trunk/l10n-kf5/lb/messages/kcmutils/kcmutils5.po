@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-01-30 00:41+0000\n"
+"POT-Creation-Date: 2022-04-24 00:40+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -132,7 +132,7 @@ msgstr ""
 msgid "Apply Settings"
 msgstr "Astellungen uwenden"
 
-#: kcmultidialog.cpp:258 kpluginselector.cpp:809 kpluginwidget.cpp:365
+#: kcmultidialog.cpp:258 kpluginselector.cpp:809 kpluginwidget.cpp:327
 #, kde-format
 msgid "Configure"
 msgstr "Configuréieren"
@@ -191,14 +191,14 @@ msgid_plural "%1 plugins automatically removed due to plugin dependencies"
 msgstr[0] ""
 msgstr[1] ""
 
-#: kpluginselector.cpp:264 kpluginwidget.cpp:57
+#: kpluginselector.cpp:264 kpluginwidget.cpp:59
 #, fuzzy, kde-format
 #| msgctxt "QAccel"
 #| msgid "Search"
 msgid "Search..."
 msgstr "Sichen"
 
-#: kpluginselector.cpp:804 kpluginwidget.cpp:360
+#: kpluginselector.cpp:804 kpluginwidget.cpp:322
 #, fuzzy, kde-format
 #| msgid "&About"
 msgid "About"
@@ -209,6 +209,72 @@ msgstr "&Iwwer"
 #| msgid "Embeddable HTML component"
 msgid "Enable component"
 msgstr "Abettungsfäheg HTML-Komponent"
+
+#: qml/components/KPluginDelegate.qml:45
+#, fuzzy, kde-format
+#| msgid "&About"
+msgctxt "@info:tooltip"
+msgid "About"
+msgstr "&Iwwer"
+
+#: qml/components/KPluginDelegate.qml:56
+#, fuzzy, kde-format
+#| msgid "Confi&gure..."
+msgctxt "@info:tooltip"
+msgid "Configure..."
+msgstr "Confi&guréieren..."
+
+#: qml/components/KPluginSelector.qml:78
+#, kde-format
+msgid "No matches"
+msgstr ""
+
+#: qml/components/KPluginSelector.qml:78
+#, fuzzy, kde-format
+msgid "No plugins found"
+msgstr "1 Iwwereneestëmmung fonnt."
+
+#: qml/components/private/AboutPlugin.qml:42
+#, fuzzy, kde-format
+#| msgctxt "concatenation of dates and time"
+#| msgid "%1 %2"
+msgctxt "Plugin name and plugin version"
+msgid "%1 %2"
+msgstr "%1 %2"
+
+#: qml/components/private/AboutPlugin.qml:64
+#, fuzzy, kde-format
+#| msgid "Copy"
+msgid "Copyright"
+msgstr "Kopéieren"
+
+#: qml/components/private/AboutPlugin.qml:81
+#, kde-format
+msgid "License:"
+msgstr "Lizenz:"
+
+#: qml/components/private/AboutPlugin.qml:100
+#, fuzzy, kde-format
+#| msgid "A&uthors"
+msgid "Authors"
+msgstr "A&uteuren"
+
+#: qml/components/private/AboutPlugin.qml:117
+#, kde-format
+msgid "Credits"
+msgstr ""
+
+#: qml/components/private/AboutPlugin.qml:134
+#, fuzzy, kde-format
+#| msgid "Translation"
+msgid "Translators"
+msgstr "Iwwersetzung"
+
+#: qml/components/private/AboutPlugin.qml:161
+#, fuzzy, kde-format
+#| msgid "&Send Email"
+msgid "Send an email to %1"
+msgstr "E-Mail &verschécken"
 
 #, fuzzy
 #~ msgid "Widget style to use"
@@ -354,9 +420,6 @@ msgstr "Abettungsfäheg HTML-Komponent"
 
 #~ msgid "A&uthor"
 #~ msgstr "A&uteur"
-
-#~ msgid "A&uthors"
-#~ msgstr "A&uteuren"
 
 #~ msgid ""
 #~ "Please use <a href=\"http://bugs.kde.org\">http://bugs.kde.org</a> to "
@@ -2002,10 +2065,6 @@ msgstr "Abettungsfäheg HTML-Komponent"
 #~ msgid "Yesterday"
 #~ msgstr "Dënschten"
 
-#~ msgctxt "concatenation of dates and time"
-#~ msgid "%1 %2"
-#~ msgstr "%1 %2"
-
 #, fuzzy
 #~ msgctxt "concatenation of date/time and time zone"
 #~ msgid "%1 %2"
@@ -3526,9 +3585,6 @@ msgstr "Abettungsfäheg HTML-Komponent"
 
 #~ msgid "Wishlist"
 #~ msgstr "Wonsch"
-
-#~ msgid "Translation"
-#~ msgstr "Iwwersetzung"
 
 #~ msgid "S&ubject: "
 #~ msgstr "Be&treff: "
@@ -5459,9 +5515,6 @@ msgstr "Abettungsfäheg HTML-Komponent"
 #~ msgid "Front"
 #~ msgstr "Vir"
 
-#~ msgid "Copy"
-#~ msgstr "Kopéieren"
-
 #~ msgid "Open"
 #~ msgstr "Opmaachen"
 
@@ -5629,9 +5682,6 @@ msgstr "Abettungsfäheg HTML-Komponent"
 #~ msgctxt "Verb"
 #~ msgid "&Insert"
 #~ msgstr "&Asetzen"
-
-#~ msgid "Confi&gure..."
-#~ msgstr "Confi&guréieren..."
 
 #~ msgid "Add"
 #~ msgstr "Dobäimaachen"
@@ -7973,9 +8023,6 @@ msgstr "Abettungsfäheg HTML-Komponent"
 #~ "De Server probéiert, Formular-Daten iwwert E-Mail ze verschécken.\n"
 #~ "Wëllt dir weiderfueren?"
 
-#~ msgid "&Send Email"
-#~ msgstr "E-Mail &verschécken"
-
 #, fuzzy
 #~| msgid ""
 #~| "<qt>The form will be submitted to <BR><B>%1</B><BR>on your local "
@@ -8254,10 +8301,6 @@ msgstr "Abettungsfäheg HTML-Komponent"
 #~| msgid "Find Links as You Type"
 #~ msgid "Find &links only"
 #~ msgstr "Linke beim antippen ergänzen"
-
-#, fuzzy
-#~ msgid "Not found"
-#~ msgstr "1 Iwwereneestëmmung fonnt."
 
 #, fuzzy
 #~| msgid "Find:"
@@ -8854,9 +8897,6 @@ msgstr "Abettungsfäheg HTML-Komponent"
 #~| msgid "Email Address"
 #~ msgid "Email address:"
 #~ msgstr "E-Mail-Adress"
-
-#~ msgid "License:"
-#~ msgstr "Lizenz:"
 
 #~ msgid "GPL"
 #~ msgstr "GPL"
