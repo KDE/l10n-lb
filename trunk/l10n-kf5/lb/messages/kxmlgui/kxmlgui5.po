@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-02 00:41+0000\n"
+"POT-Creation-Date: 2022-05-22 00:42+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1381,26 +1381,26 @@ msgctxt "@item:intable Action name in shortcuts configuration"
 msgid "%1"
 msgstr "%1%"
 
-#: kswitchlanguagedialog_p.cpp:140
+#: kswitchlanguagedialog_p.cpp:137
 #, fuzzy, kde-format
 #| msgid "Configure"
 msgctxt "@title:window"
 msgid "Configure Language"
 msgstr "Configuréieren"
 
-#: kswitchlanguagedialog_p.cpp:144
+#: kswitchlanguagedialog_p.cpp:141
 #, kde-format
 msgid "Please choose the language which should be used for this application:"
 msgstr ""
 
-#: kswitchlanguagedialog_p.cpp:171
+#: kswitchlanguagedialog_p.cpp:168
 #, fuzzy, kde-format
 #| msgid "Default language:"
 msgctxt "@action:button"
 msgid "Add Fallback Language"
 msgstr "Standardsprooch:"
 
-#: kswitchlanguagedialog_p.cpp:172
+#: kswitchlanguagedialog_p.cpp:169
 #, kde-format
 msgctxt "@info:tooltip"
 msgid ""
@@ -1408,46 +1408,46 @@ msgid ""
 "contain a proper translation."
 msgstr ""
 
-#: kswitchlanguagedialog_p.cpp:264 kswitchlanguagedialog_p.cpp:285
+#: kswitchlanguagedialog_p.cpp:261 kswitchlanguagedialog_p.cpp:282
 #, kde-format
 msgid ""
 "The language for this application has been changed. The change will take "
 "effect the next time the application is started."
 msgstr ""
 
-#: kswitchlanguagedialog_p.cpp:265
+#: kswitchlanguagedialog_p.cpp:262
 #, fuzzy, kde-format
 #| msgid "Application sounds"
 msgctxt "@title:window"
 msgid "Application Language Changed"
 msgstr "Kläng vun den Uwendungen"
 
-#: kswitchlanguagedialog_p.cpp:286
+#: kswitchlanguagedialog_p.cpp:283
 #, fuzzy, kde-format
 #| msgid "Application sounds"
 msgid "Application Language Changed"
 msgstr "Kläng vun den Uwendungen"
 
-#: kswitchlanguagedialog_p.cpp:373
+#: kswitchlanguagedialog_p.cpp:370
 #, fuzzy, kde-format
 #| msgid "Default language:"
 msgid "Primary language:"
 msgstr "Standardsprooch:"
 
-#: kswitchlanguagedialog_p.cpp:373
+#: kswitchlanguagedialog_p.cpp:370
 #, fuzzy, kde-format
 #| msgid "Default language:"
 msgid "Fallback language:"
 msgstr "Standardsprooch:"
 
-#: kswitchlanguagedialog_p.cpp:388
+#: kswitchlanguagedialog_p.cpp:385
 #, fuzzy, kde-format
 #| msgid "Remove"
 msgctxt "@action:button"
 msgid "Remove"
 msgstr "Ewechmaachen"
 
-#: kswitchlanguagedialog_p.cpp:394
+#: kswitchlanguagedialog_p.cpp:391
 #, kde-format
 msgctxt "@info:tooltip"
 msgid ""
@@ -1455,7 +1455,7 @@ msgid ""
 "other languages."
 msgstr ""
 
-#: kswitchlanguagedialog_p.cpp:395
+#: kswitchlanguagedialog_p.cpp:392
 #, kde-format
 msgctxt "@info:tooltip"
 msgid ""
