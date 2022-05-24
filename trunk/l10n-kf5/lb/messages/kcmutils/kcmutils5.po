@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-05-05 00:41+0000\n"
+"POT-Creation-Date: 2022-05-24 00:40+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -26,7 +26,7 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "kevin@math.uni-sb.de,miclud@studcs.uni-sb.de"
 
-#: kcmoduleloader.cpp:58 kcmoduleloader.cpp:159
+#: kcmoduleloader.cpp:58 kcmoduleloader.cpp:161
 #, fuzzy, kde-format
 msgid "The module %1 is disabled."
 msgstr "De Modul %1 konnt net geluede ginn."
@@ -37,13 +37,13 @@ msgstr "De Modul %1 konnt net geluede ginn."
 msgid "The module has been disabled by the system administrator."
 msgstr "Mellt iech w.e.g. bei ärer Systemverwaltung."
 
-#: kcmoduleloader.cpp:94 kcmoduleloader.cpp:183
+#: kcmoduleloader.cpp:94 kcmoduleloader.cpp:185
 #, fuzzy, kde-format
 #| msgid "Error opening file."
 msgid "Error loading QML file."
 msgstr "Feeler beim Opmaache vun der Datei."
 
-#: kcmoduleloader.cpp:118
+#: kcmoduleloader.cpp:120
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt><p>The diagnostics is:<br>%1<p>Possible reasons:</p><ul><li>An error "
@@ -65,12 +65,12 @@ msgstr ""
 "</ul><p>Kuckt dëss Punkten opmierksam duerch a probéiert, dee Modul ze "
 "läschen. Wann dat net klappt, frot bei ärem Verdeler no.</p></qt>"
 
-#: kcmoduleloader.cpp:152
+#: kcmoduleloader.cpp:154
 #, kde-format
 msgid "The module %1 could not be found."
 msgstr "De Modul %1 ass net fonnt ginn."
 
-#: kcmoduleloader.cpp:153
+#: kcmoduleloader.cpp:155
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt><p>The diagnostics is:<br>The desktop file %1 could not be found.</qt>"
@@ -79,25 +79,25 @@ msgid ""
 "qt>"
 msgstr "<qt><p>D'Diagnos ass:<br>D'Bürosdatei %1 konnt net fonnt ginn.</qt>"
 
-#: kcmoduleloader.cpp:160
+#: kcmoduleloader.cpp:162
 #, kde-format
 msgid ""
 "<qt><p>Either the hardware/software the module configures is not available "
 "or the module has been disabled by the administrator.</p></qt>"
 msgstr ""
 
-#: kcmoduleloader.cpp:191
+#: kcmoduleloader.cpp:193
 #, fuzzy, kde-format
 #| msgid "Error opening file."
 msgid "Error loading config module"
 msgstr "Feeler beim Opmaache vun der Datei."
 
-#: kcmoduleloader.cpp:235
+#: kcmoduleloader.cpp:237
 #, kde-format
 msgid "The module %1 is not a valid configuration module."
 msgstr "De Modul %1 ass kee gültege Configuratiounsmodul."
 
-#: kcmoduleloader.cpp:236
+#: kcmoduleloader.cpp:238
 #, fuzzy, kde-format
 #| msgid ""
 #| "<qt><p>The diagnostics is:<br>The desktop file %1 does not specify a "
