@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-03-09 00:42+0000\n"
+"POT-Creation-Date: 2022-06-06 00:41+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -186,7 +186,6 @@ msgstr "Referenzfeler"
 
 #. i18n: ectx: property (text), widget (QTreeWidget, _headers)
 #: ecma/debugger/localvariabledock.cpp:52 htmlpageinfo.ui:219
-#: java/kjavaappletviewer.cpp:146
 #, kde-format
 msgid "Value"
 msgstr "Wert"
@@ -573,113 +572,6 @@ msgstr "HTTP-Headeren"
 #, kde-format
 msgid "Property"
 msgstr "Eegeschaft"
-
-#: java/kjavaapplet.cpp:227
-#, kde-format
-msgid "Initializing Applet \"%1\"..."
-msgstr "Miniprogramm \"%1\" gëtt initialiséiert..."
-
-#: java/kjavaapplet.cpp:233
-#, kde-format
-msgid "Starting Applet \"%1\"..."
-msgstr "Miniprogramm \"%1\" gëtt gestart..."
-
-#: java/kjavaapplet.cpp:240
-#, kde-format
-msgid "Applet \"%1\" started"
-msgstr "Miniprogramm \"%1\" leeft"
-
-#: java/kjavaapplet.cpp:246
-#, kde-format
-msgid "Applet \"%1\" stopped"
-msgstr "Miniprogramm \"%1\" gestoppt"
-
-#: java/kjavaappletserver.cpp:143
-#, kde-format
-msgid "Loading Applet"
-msgstr "Amgaang, de Miniprogramm ze lueden"
-
-#: java/kjavaappletserver.cpp:146
-#, kde-format
-msgid "Error: java executable not found"
-msgstr "Feeler: Java-Programm net fonnt"
-
-#: java/kjavaappletserver.cpp:673
-#, fuzzy, kde-format
-#| msgid "Signed by (validation: "
-msgid "Signed by (validation: %1)"
-msgstr "Ënnerschriwwe vun (Nogekuckt: "
-
-#: java/kjavaappletserver.cpp:675
-#, fuzzy, kde-format
-#| msgid "Certificate (validation: "
-msgid "Certificate (validation: %1)"
-msgstr "Zertifikat (Nogekuckt: "
-
-#: java/kjavaappletserver.cpp:811 khtml_part.cpp:7047
-#, kde-format
-msgid "Security Alert"
-msgstr "Sëcherheetsnoricht"
-
-#: java/kjavaappletserver.cpp:816
-#, kde-format
-msgid "Do you grant Java applet with certificate(s):"
-msgstr "Java-Miniprogramm mat Zertifikaten zouloossen:"
-
-#: java/kjavaappletserver.cpp:818
-#, kde-format
-msgid "the following permission"
-msgstr "déi folgend Zouloossungskriterien"
-
-#: java/kjavaappletserver.cpp:827
-#, kde-format
-msgid "&No"
-msgstr "&Nee"
-
-#: java/kjavaappletserver.cpp:832
-#, kde-format
-msgid "&Reject All"
-msgstr "Alleguer zeréck&weisen"
-
-#: java/kjavaappletserver.cpp:836
-#, kde-format
-msgid "&Yes"
-msgstr "&Jo"
-
-#: java/kjavaappletserver.cpp:840
-#, kde-format
-msgid "&Grant All"
-msgstr "Alleguer &zouloossen"
-
-#: java/kjavaappletviewer.cpp:55
-#, kde-format
-msgid "KDE Java Applet Plugin"
-msgstr "KDE-Plugin fir Java-Miniprogrammer"
-
-#: java/kjavaappletviewer.cpp:137
-#, kde-format
-msgid "Applet Parameters"
-msgstr "Parameter vum Miniprogramm"
-
-#: java/kjavaappletviewer.cpp:145
-#, kde-format
-msgid "Parameter"
-msgstr "Parameter"
-
-#: java/kjavaappletviewer.cpp:149
-#, kde-format
-msgid "Class"
-msgstr "Klass"
-
-#: java/kjavaappletviewer.cpp:155
-#, kde-format
-msgid "Base URL"
-msgstr "Basis-Adress"
-
-#: java/kjavaappletviewer.cpp:161
-#, kde-format
-msgid "Archives"
-msgstr "Archiver"
 
 #. i18n: ectx: Menu (edit)
 #: khtml.rc:4 khtml_browser.rc:11
@@ -1396,6 +1288,11 @@ msgstr ""
 "<qt>Zougang op<BR><B>%1</B><BR>duerch eng Säit, déi als net sëcher ugesinn "
 "ass, verweigert."
 
+#: khtml_part.cpp:7047
+#, kde-format
+msgid "Security Alert"
+msgstr "Sëcherheetsnoricht"
+
 #: khtml_part.cpp:7417
 #, kde-format
 msgid "The wallet '%1' is open and being used for form data and passwords."
@@ -1926,6 +1823,70 @@ msgstr "fatale Parsing-Feeler: %1, Zeil %2, Kolonn %3"
 #, kde-format
 msgid "XML parsing error"
 msgstr "XML Parsing-Feeler"
+
+#~ msgid "Initializing Applet \"%1\"..."
+#~ msgstr "Miniprogramm \"%1\" gëtt initialiséiert..."
+
+#~ msgid "Starting Applet \"%1\"..."
+#~ msgstr "Miniprogramm \"%1\" gëtt gestart..."
+
+#~ msgid "Applet \"%1\" started"
+#~ msgstr "Miniprogramm \"%1\" leeft"
+
+#~ msgid "Applet \"%1\" stopped"
+#~ msgstr "Miniprogramm \"%1\" gestoppt"
+
+#~ msgid "Loading Applet"
+#~ msgstr "Amgaang, de Miniprogramm ze lueden"
+
+#~ msgid "Error: java executable not found"
+#~ msgstr "Feeler: Java-Programm net fonnt"
+
+#, fuzzy
+#~| msgid "Signed by (validation: "
+#~ msgid "Signed by (validation: %1)"
+#~ msgstr "Ënnerschriwwe vun (Nogekuckt: "
+
+#, fuzzy
+#~| msgid "Certificate (validation: "
+#~ msgid "Certificate (validation: %1)"
+#~ msgstr "Zertifikat (Nogekuckt: "
+
+#~ msgid "Do you grant Java applet with certificate(s):"
+#~ msgstr "Java-Miniprogramm mat Zertifikaten zouloossen:"
+
+#~ msgid "the following permission"
+#~ msgstr "déi folgend Zouloossungskriterien"
+
+#~ msgid "&No"
+#~ msgstr "&Nee"
+
+#~ msgid "&Reject All"
+#~ msgstr "Alleguer zeréck&weisen"
+
+#~ msgid "&Yes"
+#~ msgstr "&Jo"
+
+#~ msgid "&Grant All"
+#~ msgstr "Alleguer &zouloossen"
+
+#~ msgid "KDE Java Applet Plugin"
+#~ msgstr "KDE-Plugin fir Java-Miniprogrammer"
+
+#~ msgid "Applet Parameters"
+#~ msgstr "Parameter vum Miniprogramm"
+
+#~ msgid "Parameter"
+#~ msgstr "Parameter"
+
+#~ msgid "Class"
+#~ msgstr "Klass"
+
+#~ msgid "Base URL"
+#~ msgstr "Basis-Adress"
+
+#~ msgid "Archives"
+#~ msgstr "Archiver"
 
 #~ msgid "Overwrite"
 #~ msgstr "Iwwerschreiwen"
