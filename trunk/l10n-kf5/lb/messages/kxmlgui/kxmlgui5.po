@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-16 00:43+0000\n"
+"POT-Creation-Date: 2022-07-03 00:42+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1212,51 +1212,51 @@ msgid ""
 "Note that this will not remove any system wide shortcut schemes."
 msgstr ""
 
-#: kshortcutschemeseditor.cpp:169
+#: kshortcutschemeseditor.cpp:172
 #, fuzzy, kde-format
 #| msgid "Shortcuts"
 msgctxt "@title:window"
 msgid "Export Shortcuts"
 msgstr "Kierzelen"
 
-#: kshortcutschemeseditor.cpp:169 kshortcutschemeseditor.cpp:180
+#: kshortcutschemeseditor.cpp:172 kshortcutschemeseditor.cpp:183
 #, fuzzy, kde-format
 #| msgid "Shortcut"
 msgid "Shortcuts (*.shortcuts)"
 msgstr "Tastekombinatioun"
 
-#: kshortcutschemeseditor.cpp:180
+#: kshortcutschemeseditor.cpp:183
 #, fuzzy, kde-format
 #| msgid "Shortcuts"
 msgctxt "@title:window"
 msgid "Import Shortcuts"
 msgstr "Kierzelen"
 
-#: kshortcutschemeseditor.cpp:191
+#: kshortcutschemeseditor.cpp:194
 #, fuzzy, kde-format
 #| msgid "Successfully uploaded new stuff."
 msgid "Shortcut scheme successfully saved."
 msgstr "Nei Saachen erfollegräich eropgelueden."
 
-#: kshortcutschemeseditor.cpp:194
+#: kshortcutschemeseditor.cpp:197
 #, kde-format
 msgid "Error saving the shortcut scheme."
 msgstr ""
 
-#: kshortcutsdialog.cpp:69
+#: kshortcutsdialog.cpp:70
 #, kde-format
 msgid ""
 "The current shortcut scheme is modified. Save before switching to the new "
 "one?"
 msgstr ""
 
-#: kshortcutsdialog.cpp:119
+#: kshortcutsdialog.cpp:124
 #, fuzzy, kde-format
 #| msgid "Curr&ent actions:"
 msgid "Manage &Schemes"
 msgstr "Ug&ewisen Aktiounen:"
 
-#: kshortcutsdialog.cpp:144
+#: kshortcutsdialog.cpp:149
 #, fuzzy, kde-format
 #| msgid "Configure Shortcuts"
 msgctxt "@title:window"
