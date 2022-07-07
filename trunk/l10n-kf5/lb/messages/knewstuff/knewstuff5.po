@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-22 00:41+0000\n"
+"POT-Creation-Date: 2022-07-07 00:41+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1341,6 +1341,15 @@ msgstr "Installéieren"
 msgctxt "Title for a dialog box which shows error messages"
 msgid "An Error Occurred"
 msgstr "Kee Feeler"
+
+#: qtquick/qml/private/ErrorDisplayer.qml:51
+#, fuzzy, kde-format
+#| msgid "Please put in a name."
+msgid ""
+"\n"
+"\n"
+"Please try again later."
+msgstr "Gitt w.e.g. ën Numm an."
 
 #: qtquick/qml/private/GridTileDelegate.qml:113
 #, fuzzy, kde-format
@@ -10176,9 +10185,6 @@ msgstr "Downloads"
 
 #~ msgid "No provider selected."
 #~ msgstr "Kee Provider gewielt."
-
-#~ msgid "Please put in a name."
-#~ msgstr "Gitt w.e.g. ën Numm an."
 
 #~ msgid "Old upload information found, fill out fields?"
 #~ msgstr ""
