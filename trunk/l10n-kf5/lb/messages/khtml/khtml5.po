@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: kdelibs4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-06-06 00:41+0000\n"
+"POT-Creation-Date: 2022-08-06 00:42+0000\n"
 "PO-Revision-Date: 2006-06-22 16:29+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1671,11 +1671,6 @@ msgstr "Tastekombinatioun"
 msgid "%1 is already assigned to %2"
 msgstr "De Socket ass schonn erstallt ginn"
 
-#: rendering/render_form.cpp:922
-#, kde-format
-msgid "Error"
-msgstr "Feeler"
-
 #: rendering/render_form.cpp:968
 #, kde-format
 msgid "Search &provider name:"
@@ -1823,6 +1818,9 @@ msgstr "fatale Parsing-Feeler: %1, Zeil %2, Kolonn %3"
 #, kde-format
 msgid "XML parsing error"
 msgstr "XML Parsing-Feeler"
+
+#~ msgid "Error"
+#~ msgstr "Feeler"
 
 #~ msgid "Initializing Applet \"%1\"..."
 #~ msgstr "Miniprogramm \"%1\" gëtt initialiséiert..."
