@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-14 00:55+0000\n"
+"POT-Creation-Date: 2022-08-20 00:53+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -233,7 +233,7 @@ msgctxt "Name"
 msgid "Empty File..."
 msgstr "TeX-Datei"
 
-#: src/new_file_templates/EmptyFile.desktop:34
+#: src/new_file_templates/EmptyFile.desktop:35
 #: src/new_file_templates/TextFile.desktop:92
 msgctxt "Comment"
 msgid "Enter text filename:"
@@ -490,7 +490,7 @@ msgctxt "Name"
 msgid "CPlusPlus"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/cplusplus.desktop:39
+#: src/urifilters/ikws/searchproviders/cplusplus.desktop:40
 msgctxt "Query"
 msgid "http://cplusplus.com/search.do?q=\\\\{@}"
 msgstr ""
@@ -1392,7 +1392,7 @@ msgctxt "Name"
 msgid "ProtonDB"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/protondb.desktop:39
+#: src/urifilters/ikws/searchproviders/protondb.desktop:40
 msgctxt "Query"
 msgid "https://www.protondb.com/search?q=\\\\{@}"
 msgstr ""
@@ -1846,7 +1846,7 @@ msgctxt "Name"
 msgid "Yandex"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/yandex.desktop:36
+#: src/urifilters/ikws/searchproviders/yandex.desktop:37
 msgctxt "Query"
 msgid "https://yandex.ru/search/?text=\\\\{@}"
 msgstr ""
