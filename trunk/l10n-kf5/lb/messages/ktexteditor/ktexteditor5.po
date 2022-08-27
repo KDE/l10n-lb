@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: katepart4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-08-26 00:41+0000\n"
+"POT-Creation-Date: 2022-08-27 00:42+0000\n"
 "PO-Revision-Date: 2006-05-02 17:35+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -2777,7 +2777,7 @@ msgstr "Kontext"
 #: script/data/commands/emmet.js:9
 #, kde-format
 msgctxt "Script command name"
-msgid "Expand abbreviation"
+msgid "Expand Abbreviation"
 msgstr ""
 
 #: script/data/commands/emmet.js:10 script/data/commands/emmet.js:14
@@ -2798,115 +2798,116 @@ msgstr ""
 #: script/data/commands/emmet.js:13
 #, kde-format
 msgctxt "Script command name"
-msgid "Wrap with tag"
+msgid "Wrap with Tag"
 msgstr ""
 
 #: script/data/commands/emmet.js:18
 #, fuzzy, kde-format
 #| msgid "Move Word Right"
 msgctxt "Script command name"
-msgid "Move cursor to matching tag"
+msgid "Move Cursor to Matching Tag"
 msgstr "Wuert no riets bewegen"
 
 #: script/data/commands/emmet.js:22
 #, kde-format
 msgctxt "Script command name"
-msgid "Select HTML/XML tag contents inwards"
+msgid "Select HTML/XML Tag Contents Inwards"
 msgstr ""
 
 #: script/data/commands/emmet.js:26
 #, kde-format
 msgctxt "Script command name"
-msgid "Select HTML/XML tag contents outwards"
+msgid "Select HTML/XML Tag Contents Outwards"
 msgstr ""
 
 #: script/data/commands/emmet.js:30
 #, fuzzy, kde-format
 #| msgid "Comment"
 msgctxt "Script command name"
-msgid "Toggle comment"
+msgid "Toggle Comment"
 msgstr "Kommentar"
 
 #: script/data/commands/emmet.js:34
 #, fuzzy, kde-format
 #| msgid "Go to the previous bookmark."
 msgctxt "Script command name"
-msgid "Go to next edit point"
+msgid "Go to Next Edit Point"
 msgstr "Zum Lieszeeche virdru goen."
 
 #: script/data/commands/emmet.js:38
 #, fuzzy, kde-format
 #| msgid "Go to the previous bookmark."
 msgctxt "Script command name"
-msgid "Go to previous edit point"
+msgid "Go to Previous Edit Point"
 msgstr "Zum Lieszeeche virdru goen."
 
 #: script/data/commands/emmet.js:42
-#, kde-format
+#, fuzzy, kde-format
+#| msgid "Go to the previous bookmark."
 msgctxt "Script command name"
-msgid "Select next edit point"
-msgstr ""
+msgid "Select Next Edit Point"
+msgstr "Zum Lieszeeche virdru goen."
 
 #: script/data/commands/emmet.js:46
 #, fuzzy, kde-format
 #| msgid "Go to the previous bookmark."
 msgctxt "Script command name"
-msgid "Select previous edit point"
+msgid "Select Previous Edit Point"
 msgstr "Zum Lieszeeche virdru goen."
 
 #: script/data/commands/emmet.js:50
 #, fuzzy, kde-format
 #| msgid "Delete the current file type."
 msgctxt "Script command name"
-msgid "Delete tag under cursor"
+msgid "Delete Tag Under Cursor"
 msgstr "Den aktuellen Dateityp läschen."
 
 #: script/data/commands/emmet.js:54
 #, kde-format
 msgctxt "Script command name"
-msgid "Split or join a tag"
+msgid "Split or Join a Tag"
 msgstr ""
 
 #: script/data/commands/emmet.js:58
 #, kde-format
 msgctxt "Script command name"
-msgid "Evaluate a simple math expression"
+msgid "Evaluate a Simple Math Expression"
 msgstr ""
 
 #: script/data/commands/emmet.js:62
 #, kde-format
 msgctxt "Script command name"
-msgid "Decrement number by 1"
+msgid "Decrement Number by 1"
 msgstr ""
 
 #: script/data/commands/emmet.js:66
 #, kde-format
 msgctxt "Script command name"
-msgid "Decrement number by 10"
+msgid "Decrement Number by 10"
 msgstr ""
 
 #: script/data/commands/emmet.js:70
 #, kde-format
 msgctxt "Script command name"
-msgid "Decrement number by 0.1"
+msgid "Decrement Number by 0.1"
 msgstr ""
 
 #: script/data/commands/emmet.js:74
 #, kde-format
 msgctxt "Script command name"
-msgid "Increment number by 1"
+msgid "Increment Number by 1"
 msgstr ""
 
 #: script/data/commands/emmet.js:78
 #, kde-format
 msgctxt "Script command name"
-msgid "Increment number by 10"
+msgid "Increment Number by 10"
 msgstr ""
 
 #: script/data/commands/emmet.js:82
 #, kde-format
 msgctxt "Script command name"
-msgid "Increment number by 0.1"
+msgid "Increment Number by 0.1"
 msgstr ""
 
 #: script/data/commands/emmet.js:96
@@ -3015,7 +3016,7 @@ msgstr ""
 #, fuzzy, kde-format
 #| msgid "Move Word Right"
 msgctxt "Script command name"
-msgid "Move cursor to previous matching indent"
+msgid "Move Cursor to Previous Matching Indent"
 msgstr "Wuert no riets bewegen"
 
 #: script/data/commands/jumpMatchingIndent.js:11
@@ -3031,7 +3032,7 @@ msgstr "Configuratioun"
 #, fuzzy, kde-format
 #| msgid "Move Word Right"
 msgctxt "Script command name"
-msgid "Move cursor to next matching indent"
+msgid "Move Cursor to Next Matching Indent"
 msgstr "Wuert no riets bewegen"
 
 #: script/data/commands/jumpMatchingIndent.js:44
@@ -4008,7 +4009,7 @@ msgstr "&Ignoréieren"
 
 #: spellcheck/spellcheckdialog.cpp:51
 #, kde-format
-msgid "Spelling (from cursor)..."
+msgid "Spelling (from Cursor)..."
 msgstr ""
 
 #: spellcheck/spellcheckdialog.cpp:54
@@ -6363,9 +6364,10 @@ msgid "Paste previously mouse selection contents"
 msgstr ""
 
 #: view/kateview.cpp:474
-#, kde-format
-msgid "Swap with clipboard contents"
-msgstr ""
+#, fuzzy, kde-format
+#| msgid "Print the current document."
+msgid "Swap with Clipboard Contents"
+msgstr "Aktuellt Dokument drécken"
 
 #: view/kateview.cpp:475
 #, fuzzy, kde-format
@@ -6724,9 +6726,10 @@ msgid ""
 msgstr ""
 
 #: view/kateview.cpp:723
-#, kde-format
-msgid "Switch to next Input Mode"
-msgstr ""
+#, fuzzy, kde-format
+#| msgid "&Indentation mode:"
+msgid "Switch to Next Input Mode"
+msgstr "A&réckungsmodus:"
 
 #: view/kateview.cpp:725
 #, kde-format
@@ -7054,7 +7057,7 @@ msgstr ""
 
 #: view/kateview.cpp:915
 #, kde-format
-msgid "Toggle camel case cursor movement"
+msgid "Toggle Camel Case Cursor Movement"
 msgstr ""
 
 #: view/kateview.cpp:916
@@ -7062,7 +7065,13 @@ msgstr ""
 msgid "Toggle between normal word movement and camel case cursor movement."
 msgstr ""
 
-#: view/kateview.cpp:920 view/kateview.cpp:921
+#: view/kateview.cpp:920
+#, fuzzy, kde-format
+#| msgid "Move Word Right"
+msgid "Remove Cursors from Empty Lines"
+msgstr "Wuert no riets bewegen"
+
+#: view/kateview.cpp:921
 #, fuzzy, kde-format
 #| msgid "Move Word Right"
 msgid "Remove cursors from empty lines"
@@ -7343,7 +7352,7 @@ msgstr ""
 
 #: view/kateview.cpp:1241
 #, kde-format
-msgid "Insert a non-indented Newline"
+msgid "Insert a Non-Indented Newline"
 msgstr ""
 
 #: view/kateview.cpp:1242
@@ -7857,6 +7866,12 @@ msgstr ""
 #| msgid "Mark Type %1"
 msgid "Mark not set: %1"
 msgstr "Markéierungstyp %1"
+
+#, fuzzy
+#~| msgid "Comment"
+#~ msgctxt "Script command name"
+#~ msgid "Toggle comment"
+#~ msgstr "Kommentar"
 
 #~ msgid "Choo&se Font..."
 #~ msgstr "&Schrëft auswielen..."
