@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-10-13 00:56+0000\n"
+"POT-Creation-Date: 2022-10-14 00:56+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1869,11 +1869,6 @@ msgctxt "Comment"
 msgid "Plugin for the Properties Dialog"
 msgstr "Plugin fir den Eegeschaften-Dialog"
 
-#: src/widgets/kurifilterplugin.desktop:4
-msgctxt "Name"
-msgid "Enhanced Browsing Plugin"
-msgstr "Erweiderte Browser-Plugin"
-
 #: templates/kioworker/kioworker.kdevtemplate:2
 msgctxt "Name"
 msgid "C++"
@@ -1886,6 +1881,10 @@ msgstr ""
 msgctxt "Comment"
 msgid "KIO Worker Template"
 msgstr "Kugar-Report-Virlag"
+
+#~ msgctxt "Name"
+#~ msgid "Enhanced Browsing Plugin"
+#~ msgstr "Erweiderte Browser-Plugin"
 
 #~ msgctxt "Description"
 #~ msgid "A kioslave for data URIs (rfc2397)"
