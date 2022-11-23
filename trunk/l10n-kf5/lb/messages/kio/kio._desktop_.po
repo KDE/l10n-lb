@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-11-21 00:55+0000\n"
+"POT-Creation-Date: 2022-11-23 00:57+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -23,11 +23,6 @@ msgstr ""
 #: src/ioslaves/file/kauth/file.actions:55
 msgctxt "Description"
 msgid "Root privileges are required to complete the action."
-msgstr ""
-
-#: src/ioslaves/telnet/ktelnetservice5.desktop:10
-msgctxt "Name"
-msgid "KTelnetService"
 msgstr ""
 
 #: src/ioslaves/trash/kcm_trash.desktop:7 src/ioslaves/trash/kcmtrash.desktop:1
@@ -285,6 +280,11 @@ msgstr ""
 msgctxt "Name"
 msgid "Text File..."
 msgstr "TeX-Datei"
+
+#: src/schemehandlers/telnet/ktelnetservice5.desktop:10
+msgctxt "Name"
+msgid "KTelnetService"
+msgstr ""
 
 #: src/urifilters/ikws/searchprovider.desktop:4
 msgctxt "Comment"
