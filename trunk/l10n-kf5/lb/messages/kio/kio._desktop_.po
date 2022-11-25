@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2022-11-23 00:57+0000\n"
+"POT-Creation-Date: 2022-11-25 00:56+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -490,7 +490,7 @@ msgctxt "Name"
 msgid "CPP Reference"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/cppreference.desktop:45
+#: src/urifilters/ikws/searchproviders/cppreference.desktop:46
 msgctxt "Query"
 msgid "https://cppreference.com/w/?search=\\\\{@}"
 msgstr ""
@@ -1193,7 +1193,7 @@ msgctxt "Name"
 msgid "Linguee"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/linguee.desktop:46
+#: src/urifilters/ikws/searchproviders/linguee.desktop:47
 msgctxt "Query"
 msgid "https://www.linguee.com/search?source=auto&query=\\\\{@}"
 msgstr ""
@@ -1562,7 +1562,7 @@ msgctxt "Name"
 msgid "Rust STD Documentation"
 msgstr "Krita-Dokument"
 
-#: src/urifilters/ikws/searchproviders/rust.desktop:44
+#: src/urifilters/ikws/searchproviders/rust.desktop:45
 msgctxt "Query"
 msgid "https://doc.rust-lang.org/std/index.html?search=\\\\{@}"
 msgstr ""
