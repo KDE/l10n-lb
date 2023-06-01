@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-05-28 02:21+0000\n"
+"POT-Creation-Date: 2023-06-01 02:14+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -23,7 +23,7 @@ msgctxt "Name"
 msgid "KParts Application (KF6)"
 msgstr "Programm"
 
-#: templates/kparts6-app/kparts6-app.kdevtemplate:23
+#: templates/kparts6-app/kparts6-app.kdevtemplate:24
 msgctxt "Comment"
 msgid "Generate an application built on the KParts framework, using CMake."
 msgstr ""
