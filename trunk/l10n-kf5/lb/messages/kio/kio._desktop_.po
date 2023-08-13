@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-07-20 00:56+0000\n"
+"POT-Creation-Date: 2023-08-13 00:52+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1069,9 +1069,7 @@ msgstr ""
 
 #: src/urifilters/ikws/searchproviders/jeeves.desktop:97
 msgctxt "Query"
-msgid ""
-"https://www.ask.com/main/askJeeves.asp?"
-"origin=0&qSource=4&site_name=Jeeves&metasearch=yes&ask=\\\\{@}"
+msgid "https://www.ask.com/web?q=\\\\{@}"
 msgstr ""
 
 #: src/urifilters/ikws/searchproviders/kde_apps.desktop:3
