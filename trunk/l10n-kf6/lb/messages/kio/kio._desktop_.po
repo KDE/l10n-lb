@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2023-09-27 01:45+0000\n"
+"POT-Creation-Date: 2023-10-10 01:51+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -20,7 +20,7 @@ msgctxt "Name"
 msgid "Execute action as root."
 msgstr ""
 
-#: src/kioworkers/file/kauth/file.actions:57
+#: src/kioworkers/file/kauth/file.actions:58
 msgctxt "Description"
 msgid "Root privileges are required to complete the action."
 msgstr ""
@@ -33,7 +33,7 @@ msgctxt "Comment"
 msgid "Network Proxy Configuration"
 msgstr "Automatesch Proxy-Configuratioun"
 
-#: src/kpac/proxyscout.notifyrc:70
+#: src/kpac/proxyscout.notifyrc:71
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Invalid proxy script"
@@ -41,12 +41,12 @@ msgctxt "Name"
 msgid "Invalid Proxy Script"
 msgstr "Ongültegt Proxy-Skript"
 
-#: src/kpac/proxyscout.notifyrc:136
+#: src/kpac/proxyscout.notifyrc:138
 msgctxt "Comment"
 msgid "The downloaded proxy configuration script is invalid"
 msgstr "D'Proxy-Configuratiounsskript, dat erofgelude gouf, ass ongülteg"
 
-#: src/kpac/proxyscout.notifyrc:206
+#: src/kpac/proxyscout.notifyrc:209
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Script download error"
@@ -54,12 +54,12 @@ msgctxt "Name"
 msgid "Script Download Error"
 msgstr "Feeler beim Erofluede vum Skript"
 
-#: src/kpac/proxyscout.notifyrc:272
+#: src/kpac/proxyscout.notifyrc:276
 msgctxt "Comment"
 msgid "The proxy configuration script could not be downloaded"
 msgstr "D'Proxy-Konfiguratiounsskript konnt net erofgeluede ginn"
 
-#: src/kpac/proxyscout.notifyrc:343
+#: src/kpac/proxyscout.notifyrc:348
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Script evaluation error"
@@ -67,7 +67,7 @@ msgctxt "Name"
 msgid "Script Evaluation Error"
 msgstr "Feeler beim Evaluéieren vum Skript"
 
-#: src/kpac/proxyscout.notifyrc:408
+#: src/kpac/proxyscout.notifyrc:414
 msgctxt "Comment"
 msgid "There was an error executing the proxy configuration script"
 msgstr "Et gouf e Feeler beim Ausféiere vum Proxy-Konfiguratiounsskript"
@@ -80,7 +80,7 @@ msgctxt "Name"
 msgid "Folder..."
 msgstr "Dossier"
 
-#: src/new_file_templates/Directory.desktop:94
+#: src/new_file_templates/Directory.desktop:95
 msgctxt "Comment"
 msgid "Enter folder name:"
 msgstr ""
@@ -93,8 +93,8 @@ msgctxt "Name"
 msgid "Empty File..."
 msgstr "TeX-Datei"
 
-#: src/new_file_templates/EmptyFile.desktop:48
-#: src/new_file_templates/TextFile.desktop:93
+#: src/new_file_templates/EmptyFile.desktop:49
+#: src/new_file_templates/TextFile.desktop:94
 msgctxt "Comment"
 msgid "Enter text filename:"
 msgstr ""
@@ -104,7 +104,7 @@ msgctxt "Name"
 msgid "HTML File..."
 msgstr ""
 
-#: src/new_file_templates/HTMLFile.desktop:94
+#: src/new_file_templates/HTMLFile.desktop:95
 msgctxt "Comment"
 msgid "Enter HTML filename:"
 msgstr ""
@@ -117,7 +117,7 @@ msgctxt "Name"
 msgid "Link to File or Directory..."
 msgstr "Programm"
 
-#: src/new_file_templates/linkPath.desktop:54
+#: src/new_file_templates/linkPath.desktop:55
 msgctxt "Comment"
 msgid "File or directory to link to:"
 msgstr ""
@@ -130,7 +130,7 @@ msgctxt "Name"
 msgid "Link to Application..."
 msgstr "Programm"
 
-#: src/new_file_templates/linkProgram.desktop:91
+#: src/new_file_templates/linkProgram.desktop:92
 #, fuzzy
 #| msgctxt "Name"
 #| msgid "Application"
@@ -143,7 +143,7 @@ msgctxt "Name"
 msgid "Link to Location (URL)..."
 msgstr ""
 
-#: src/new_file_templates/linkURL.desktop:93
+#: src/new_file_templates/linkURL.desktop:94
 msgctxt "Comment"
 msgid "URL location to link to:"
 msgstr ""
@@ -227,7 +227,7 @@ msgctxt "Name"
 msgid "Arch Linux Package Search"
 msgstr "Debian-Päckchen"
 
-#: src/urifilters/ikws/searchproviders/archpkg.desktop:61
+#: src/urifilters/ikws/searchproviders/archpkg.desktop:62
 msgctxt "Query"
 msgid "https://www.archlinux.org/packages/?q=\\\\{@}"
 msgstr ""
@@ -237,7 +237,7 @@ msgctxt "Name"
 msgid "ArchWiki"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/archwiki.desktop:56
+#: src/urifilters/ikws/searchproviders/archwiki.desktop:57
 msgctxt "Query"
 msgid "https://wiki.archlinux.org/index.php?search=\\\\{@}"
 msgstr ""
@@ -295,7 +295,7 @@ msgctxt "Name"
 msgid "KDE Bugs"
 msgstr "KDE-Ressourcen"
 
-#: src/urifilters/ikws/searchproviders/bug.desktop:56
+#: src/urifilters/ikws/searchproviders/bug.desktop:57
 msgctxt "Query"
 msgid "https://bugs.kde.org/buglist.cgi?quicksearch=\\\\{@}"
 msgstr ""
@@ -350,7 +350,7 @@ msgctxt "Name"
 msgid "CPlusPlus"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/cplusplus.desktop:51
+#: src/urifilters/ikws/searchproviders/cplusplus.desktop:52
 msgctxt "Query"
 msgid "http://cplusplus.com/search.do?q=\\\\{@}"
 msgstr ""
@@ -360,7 +360,7 @@ msgctxt "Name"
 msgid "CPP Reference"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/cppreference.desktop:50
+#: src/urifilters/ikws/searchproviders/cppreference.desktop:51
 msgctxt "Query"
 msgid "https://cppreference.com/w/?search=\\\\{@}"
 msgstr ""
@@ -437,7 +437,7 @@ msgctxt "Name"
 msgid "DeepL"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/deepl.desktop:56
+#: src/urifilters/ikws/searchproviders/deepl.desktop:57
 msgctxt "Query"
 msgid "https://www.deepl.com/translator#any/any/\\\\{@}"
 msgstr ""
@@ -586,7 +586,7 @@ msgctxt "Name"
 msgid "Flatpak Documentation"
 msgstr "Krita-Dokument"
 
-#: src/urifilters/ikws/searchproviders/flatpak.desktop:51
+#: src/urifilters/ikws/searchproviders/flatpak.desktop:52
 msgctxt "Query"
 msgid ""
 "https://docs.flatpak.org/en/latest/search.html?q=\\\\{@}"
@@ -643,7 +643,7 @@ msgctxt "Name"
 msgid "Freecode"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/freecode.desktop:69
+#: src/urifilters/ikws/searchproviders/freecode.desktop:70
 msgctxt "Query"
 msgid "http://freecode.com/search?q=\\\\{@}"
 msgstr ""
@@ -683,7 +683,7 @@ msgctxt "Name"
 msgid "GitLab"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/gitlab.desktop:59
+#: src/urifilters/ikws/searchproviders/gitlab.desktop:60
 msgctxt "Query"
 msgid "https://gitlab.com/search?search=\\\\{@}"
 msgstr ""
@@ -791,7 +791,7 @@ msgctxt "Name"
 msgid "Google Shopping"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/google_shopping.desktop:69
+#: src/urifilters/ikws/searchproviders/google_shopping.desktop:70
 msgctxt "Query"
 msgid "https://www.google.com/search?hl=en&tbm=shop&q=\\\\{@}"
 msgstr ""
@@ -801,7 +801,7 @@ msgctxt "Name"
 msgid "Great Dictionary of the Catalan Language (GRan Enciclopèdia Catalana)"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/grec.desktop:61
+#: src/urifilters/ikws/searchproviders/grec.desktop:62
 msgctxt "Query"
 msgid "http://ec.grec.net/cgi-bin/AppDLC3.exe?APP=CERCADLC&GECART=\\\\{@}"
 msgstr ""
@@ -874,7 +874,7 @@ msgctxt "Name"
 msgid "KDE Invent"
 msgstr "KDE-Komponent"
 
-#: src/urifilters/ikws/searchproviders/invent.desktop:52
+#: src/urifilters/ikws/searchproviders/invent.desktop:53
 msgctxt "Query"
 msgid "https://invent.kde.org/search?search=\\\\{@}"
 msgstr ""
@@ -887,7 +887,7 @@ msgctxt "Name"
 msgid "KDE Invent Issues"
 msgstr "KDE-Komponent"
 
-#: src/urifilters/ikws/searchproviders/invent_issues.desktop:49
+#: src/urifilters/ikws/searchproviders/invent_issues.desktop:50
 msgctxt "Query"
 msgid "https://invent.kde.org/search?scope=issues&search=\\\\{@}"
 msgstr ""
@@ -897,7 +897,7 @@ msgctxt "Name"
 msgid "KDE Invent Merge Requests"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/invent_mr.desktop:48
+#: src/urifilters/ikws/searchproviders/invent_mr.desktop:49
 msgctxt "Query"
 msgid "https://invent.kde.org/search?scope=merge_requests&search=\\\\{@}"
 msgstr ""
@@ -907,7 +907,7 @@ msgctxt "Name"
 msgid "KDE Invent Repositories"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/invent_repo.desktop:52
+#: src/urifilters/ikws/searchproviders/invent_repo.desktop:53
 msgctxt "Query"
 msgid "https://invent.kde.org/explore/projects/starred?name=\\\\{@}"
 msgstr ""
@@ -988,7 +988,7 @@ msgctxt "Name"
 msgid "KDE Store"
 msgstr "KDE-Step"
 
-#: src/urifilters/ikws/searchproviders/kde_store.desktop:51
+#: src/urifilters/ikws/searchproviders/kde_store.desktop:52
 msgctxt "Query"
 msgid "https://store.kde.org/content/search.php?search=Search&name=\\\\{@}"
 msgstr ""
@@ -1021,7 +1021,7 @@ msgctxt "Name"
 msgid "KDE Reddit"
 msgstr "KDE-Komponent"
 
-#: src/urifilters/ikws/searchproviders/kreddit.desktop:51
+#: src/urifilters/ikws/searchproviders/kreddit.desktop:52
 msgctxt "Query"
 msgid "https://www.reddit.com/r/kde/search/?q=\\\\{@}&restrict_sr=1"
 msgstr ""
@@ -1031,7 +1031,7 @@ msgctxt "Name"
 msgid "Krita Manual"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/krita.desktop:51
+#: src/urifilters/ikws/searchproviders/krita.desktop:52
 msgctxt "Query"
 msgid "https://docs.krita.org/en/search.html?q=\\\\{@}"
 msgstr ""
@@ -1041,7 +1041,7 @@ msgctxt "Name"
 msgid "Learn CPP"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/learncpp.desktop:51
+#: src/urifilters/ikws/searchproviders/learncpp.desktop:52
 msgctxt "Query"
 msgid "https://www.learncpp.com/gsearch/?q=\\\\{@}"
 msgstr ""
@@ -1061,7 +1061,7 @@ msgctxt "Name"
 msgid "Linguee"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/linguee.desktop:51
+#: src/urifilters/ikws/searchproviders/linguee.desktop:52
 msgctxt "Query"
 msgid "https://www.linguee.com/search?source=auto&query=\\\\{@}"
 msgstr ""
@@ -1094,7 +1094,7 @@ msgctxt "Name"
 msgid "Microsoft C++ Documentation"
 msgstr "Microsoft-Word-Dokument"
 
-#: src/urifilters/ikws/searchproviders/microsoft_cpp.desktop:50
+#: src/urifilters/ikws/searchproviders/microsoft_cpp.desktop:51
 msgctxt "Query"
 msgid "https://docs.microsoft.com/search/?terms=\\\\{@}&scope=C%2B%2B"
 msgstr ""
@@ -1217,7 +1217,7 @@ msgctxt "Name"
 msgid "openSUSE Software"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/opensuse.desktop:49
+#: src/urifilters/ikws/searchproviders/opensuse.desktop:50
 msgctxt "Query"
 msgid "https://software.opensuse.org/search?utf8=%E2%9C%93&q=\\\\{@}"
 msgstr ""
@@ -1250,7 +1250,7 @@ msgctxt "Name"
 msgid "ProtonDB"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/protondb.desktop:51
+#: src/urifilters/ikws/searchproviders/protondb.desktop:52
 msgctxt "Query"
 msgid "https://www.protondb.com/search?q=\\\\{@}"
 msgstr ""
@@ -1275,7 +1275,7 @@ msgctxt "Name"
 msgid "Qt5 Online Documentation"
 msgstr "Krita-Dokument"
 
-#: src/urifilters/ikws/searchproviders/qt5.desktop:51
+#: src/urifilters/ikws/searchproviders/qt5.desktop:52
 msgctxt "Query"
 msgid "https://doc.qt.io/qt-5/search-results.html?q=\\\\{@}"
 msgstr ""
@@ -1288,7 +1288,7 @@ msgctxt "Name"
 msgid "Qt6 Online Documentation"
 msgstr "Krita-Dokument"
 
-#: src/urifilters/ikws/searchproviders/qt6.desktop:51
+#: src/urifilters/ikws/searchproviders/qt6.desktop:52
 msgctxt "Query"
 msgid "https://doc.qt.io/qt-6/search-results.html?q=\\\\{@}"
 msgstr ""
@@ -1298,7 +1298,7 @@ msgctxt "Name"
 msgid "Qwant"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant.desktop:65
+#: src/urifilters/ikws/searchproviders/qwant.desktop:66
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=web"
 msgstr ""
@@ -1311,7 +1311,7 @@ msgctxt "Name"
 msgid "Qwant Images"
 msgstr "PhotoCD-Bild"
 
-#: src/urifilters/ikws/searchproviders/qwant_images.desktop:64
+#: src/urifilters/ikws/searchproviders/qwant_images.desktop:65
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=images"
 msgstr ""
@@ -1321,7 +1321,7 @@ msgctxt "Name"
 msgid "Qwant News"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_news.desktop:65
+#: src/urifilters/ikws/searchproviders/qwant_news.desktop:66
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=news"
 msgstr ""
@@ -1331,7 +1331,7 @@ msgctxt "Name"
 msgid "Qwant Shopping"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:64
+#: src/urifilters/ikws/searchproviders/qwant_shopping.desktop:65
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=shopping"
 msgstr ""
@@ -1341,7 +1341,7 @@ msgctxt "Name"
 msgid "Qwant Social"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/qwant_social.desktop:65
+#: src/urifilters/ikws/searchproviders/qwant_social.desktop:66
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=social"
 msgstr ""
@@ -1354,7 +1354,7 @@ msgctxt "Name"
 msgid "Qwant Videos"
 msgstr "Matroska-Video"
 
-#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:64
+#: src/urifilters/ikws/searchproviders/qwant_videos.desktop:65
 msgctxt "Query"
 msgid "https://www.qwant.com/?q=\\\\{@}&client=kde&t=videos"
 msgstr ""
@@ -1374,7 +1374,7 @@ msgctxt "Name"
 msgid "Dictionary of the Galician Academy (RAG)"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/rag.desktop:67
+#: src/urifilters/ikws/searchproviders/rag.desktop:68
 msgctxt "Query"
 msgid "https://academia.gal/dicionario/-/termo/busca/\\\\{@}"
 msgstr ""
@@ -1384,7 +1384,7 @@ msgctxt "Name"
 msgid "Reddit"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/reddit.desktop:50
+#: src/urifilters/ikws/searchproviders/reddit.desktop:51
 msgctxt "Query"
 msgid "https://www.reddit.com/search/?q=\\\\{@}"
 msgstr ""
@@ -1430,7 +1430,7 @@ msgctxt "Name"
 msgid "Rust STD Documentation"
 msgstr "Krita-Dokument"
 
-#: src/urifilters/ikws/searchproviders/rust.desktop:49
+#: src/urifilters/ikws/searchproviders/rust.desktop:50
 msgctxt "Query"
 msgid "https://doc.rust-lang.org/std/index.html?search=\\\\{@}"
 msgstr ""
@@ -1443,7 +1443,7 @@ msgctxt "Name"
 msgid "Soundcloud"
 msgstr "AAC-Sound"
 
-#: src/urifilters/ikws/searchproviders/soundcloud.desktop:61
+#: src/urifilters/ikws/searchproviders/soundcloud.desktop:62
 msgctxt "Query"
 msgid "https://soundcloud.com/search?q=\\\\{@}"
 msgstr ""
@@ -1511,7 +1511,7 @@ msgctxt "Name"
 msgid "Ubuntu Package Search"
 msgstr "Debian-Päckchen"
 
-#: src/urifilters/ikws/searchproviders/ubuntu.desktop:51
+#: src/urifilters/ikws/searchproviders/ubuntu.desktop:52
 msgctxt "Query"
 msgid "https://packages.ubuntu.com/\\\\{@}"
 msgstr ""
@@ -1608,7 +1608,7 @@ msgctxt "Name"
 msgid "WineHQ Database"
 msgstr "SQLite2-Datebankdatei"
 
-#: src/urifilters/ikws/searchproviders/wine.desktop:51
+#: src/urifilters/ikws/searchproviders/wine.desktop:52
 msgctxt "Query"
 msgid "https://www.winehq.org/search?q=\\\\{@}"
 msgstr ""
@@ -1704,7 +1704,7 @@ msgctxt "Name"
 msgid "Yandex"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/yandex.desktop:49
+#: src/urifilters/ikws/searchproviders/yandex.desktop:50
 msgctxt "Query"
 msgid "https://yandex.ru/search/?text=\\\\{@}"
 msgstr ""
