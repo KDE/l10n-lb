@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-01-30 00:47+0000\n"
+"POT-Creation-Date: 2025-02-08 00:46+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -284,7 +284,7 @@ msgctxt "Name"
 msgid "Can I Use…"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/caniuse.desktop:28
+#: src/urifilters/ikws/searchproviders/caniuse.desktop:29
 msgctxt "Query"
 msgid "https://caniuse.com/?search=\\\\{@}"
 msgstr ""
@@ -458,7 +458,7 @@ msgctxt "Name"
 msgid "Docker Hub"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/dockerhub.desktop:28
+#: src/urifilters/ikws/searchproviders/dockerhub.desktop:29
 msgctxt "Query"
 msgid "https://hub.docker.com/search?q=\\\\{@}"
 msgstr ""
@@ -1082,7 +1082,7 @@ msgctxt "Name"
 msgid "Mozilla Developer Network (MDN)"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/mdn.desktop:28
+#: src/urifilters/ikws/searchproviders/mdn.desktop:29
 msgctxt "Query"
 msgid "https://developer.mozilla.org/en-US/search?q=\\\\{@}"
 msgstr ""
@@ -1195,7 +1195,7 @@ msgctxt "Name"
 msgid "Nix Packages"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/nixpkgs.desktop:28
+#: src/urifilters/ikws/searchproviders/nixpkgs.desktop:29
 msgctxt "Query"
 msgid ""
 "https://search.nixos.org/packages?sort=relevance&type=packages&query=\\\\{@}"
@@ -1228,7 +1228,7 @@ msgctxt "Name"
 msgid "npm"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/npm.desktop:28
+#: src/urifilters/ikws/searchproviders/npm.desktop:29
 msgctxt "Query"
 msgid "https://www.npmjs.com/search?q=\\\\{@}"
 msgstr ""
@@ -1774,7 +1774,7 @@ msgctxt "Name"
 msgid "C++ Worker (KF6)"
 msgstr ""
 
-#: templates/kioworker6/kioworker6.kdevtemplate:40
+#: templates/kioworker6/kioworker6.kdevtemplate:41
 #, fuzzy
 #| msgctxt "Comment"
 #| msgid "Kugar Report Template"
