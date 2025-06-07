@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-05-26 00:48+0000\n"
+"POT-Creation-Date: 2025-06-07 00:49+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -357,7 +357,7 @@ msgstr ""
 
 #: src/urifilters/ikws/searchproviders/cppreference.desktop:61
 msgctxt "Query"
-msgid "https://cppreference.com/w/?search=\\\\{@}"
+msgid "https://duckduckgo.com/?sites=cppreference.com&q=\\\\{@}"
 msgstr ""
 
 #: src/urifilters/ikws/searchproviders/ctan_cat.desktop:3
