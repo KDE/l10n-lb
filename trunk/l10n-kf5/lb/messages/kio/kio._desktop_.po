@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2025-08-05 02:28+0000\n"
+"POT-Creation-Date: 2025-08-07 02:08+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -1560,7 +1560,7 @@ msgctxt "Name"
 msgid "Rust STD Documentation"
 msgstr "Krita-Dokument"
 
-#: src/urifilters/ikws/searchproviders/rust.desktop:52
+#: src/urifilters/ikws/searchproviders/rust.desktop:53
 msgctxt "Query"
 msgid "https://doc.rust-lang.org/std/index.html?search=\\\\{@}"
 msgstr ""
