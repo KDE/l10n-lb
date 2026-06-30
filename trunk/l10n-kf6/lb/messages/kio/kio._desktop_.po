@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: desktop_kdelibs\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-06-28 00:51+0000\n"
+"POT-Creation-Date: 2026-06-30 00:50+0000\n"
 "PO-Revision-Date: 2006-06-22 16:37+0200\n"
 "Last-Translator: Michel Ludwig <michel.ludwig@kdemail.net>\n"
 "Language-Team: Luxembourgish <kde-i18n-lb@kde.org>\n"
@@ -203,7 +203,7 @@ msgctxt "Name"
 msgid "ARD Mediathek"
 msgstr "ASF-Media"
 
-#: src/urifilters/ikws/searchproviders/ard.desktop:34
+#: src/urifilters/ikws/searchproviders/ard.desktop:35
 msgctxt "Query"
 msgid "https://www.ardmediathek.de/suche/\\\\{@}"
 msgstr ""
@@ -602,7 +602,7 @@ msgctxt "Name"
 msgid "Flathub"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/flathub.desktop:34
+#: src/urifilters/ikws/searchproviders/flathub.desktop:35
 msgctxt "Query"
 msgid "https://flathub.org/apps/search?q=\\\\{@}"
 msgstr ""
@@ -1272,7 +1272,7 @@ msgctxt "Name"
 msgid "OpenStreetMap"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/openstreetmap.desktop:35
+#: src/urifilters/ikws/searchproviders/openstreetmap.desktop:36
 msgctxt "Query"
 msgid "https://www.openstreetmap.org/search?query=\\\\{@}"
 msgstr ""
@@ -1543,7 +1543,7 @@ msgctxt "Name"
 msgid "Startpage"
 msgstr ""
 
-#: src/urifilters/ikws/searchproviders/startpage.desktop:34
+#: src/urifilters/ikws/searchproviders/startpage.desktop:35
 msgctxt "Query"
 msgid "https://www.startpage.com/sp/search?query=\\\\{@}"
 msgstr ""
@@ -1812,7 +1812,7 @@ msgctxt "Name"
 msgid "ZDF Mediathek"
 msgstr "ASF-Media"
 
-#: src/urifilters/ikws/searchproviders/zdf.desktop:33
+#: src/urifilters/ikws/searchproviders/zdf.desktop:34
 msgctxt "Query"
 msgid "https://www.zdf.de/suche?q=\\\\{@}"
 msgstr ""
